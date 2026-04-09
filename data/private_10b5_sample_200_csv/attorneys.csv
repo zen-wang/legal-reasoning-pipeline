@@ -1,0 +1,296 @@
+id,docket_id,attorney_id,name,contact_raw,phone,fax,email,roles
+1,2342265,9261619,Wayne Campbell,"U.S. Attorney's Office
+District of Colorado
+1801 California Street
+Suite 1600
+Denver, CO 80202
+303-454-0100
+Fax: 303-454-0401
+Email: Wayne.campbell@usdoj.gov
+",(303) 454-0100,(303) 454-0401,Wayne.campbell@usdoj.gov,
+2,2342265,9261618,Tim R. Neff,"U.S. Attorney's Office
+District of Colorado
+1801 California Street
+Suite 1600
+Denver, CO 80202
+303-454-0200
+Fax: 303-454-0402
+Email: Tim.Neff@usdoj.gov
+",(303) 454-0200,(303) 454-0402,Tim.Neff@usdoj.gov,
+3,2342265,9261617,James R. Boma,"U.S. Attorney's Office
+District of Colorado
+1801 California Street
+Suite 1600
+Denver, CO 80202
+303-454-0100
+Fax: 303-454-0401
+Email: james.boma@usdoj.gov
+",(303) 454-0100,(303) 454-0401,james.boma@usdoj.gov,
+4,2342265,9261616,Brian Rowland (Former FPD) Leedy,"Office of the Federal Public Defender-Denver
+633 Seventeenth Street
+Suite 1000
+Denver, CO 80202
+Email: COX_ECF@fd.org
+",,,COX_ECF@fd.org,
+144,1005,11437932,Deborah M. Zuckerman,"AARP
+601 E Street, NW
+Washington, DC 20049
+2024342060",(202) 434-2060,,,
+145,1005,11437931,Steven H. Goldblatt,"Georgetown University Law
+111 F Street, NW, Room 123
+Washington, DC 20001",,,,
+146,1005,11437930,F. Joseph Warin,"Gibson Dunn & Crutcher
+1050 Connecticut Ave., NW
+Washington, DC 20036
+2029558500",(202) 955-8500,,,
+147,1005,11437929,Theodore B. Olson,"Solicitor General, U.S. Department of Justice
+Washington, DC 20530",,,,
+148,5713,3615156,Thomas Jude Gruscinski,"Direct: 734-927-9900
+Convertino & Associates
+424 N. Main Street
+Plymouth, MI 48170",,,,
+149,5713,3615155,Victor Carlos Castano,"F.C.I. Loretto
+P.O. Box 1000
+Loretto, PA 15940",,,,
+150,5713,3615154,Richard Gerard Convertino,"Direct: 734-927-9900
+Convertino & Associates
+424 N. Main Street
+Plymouth, MI 48170",,,,
+151,5713,3615153,"Sheldon N. Light, Assistant U.S. Attorney","Direct: 313-226-9574
+United States Attorney's Office
+211 W. Fort Street
+Suite 2001
+Detroit, MI 48226",,,,
+152,10327,6256963,Lanora Christine Pettit,"Direct: 512-463-2127
+Email: Lanora.pettit@oag.texas.gov
+Office of the Attorney General
+Office of the Solicitor General
+P.O. Box 12548 (MC 059)
+Austin, TX 78711-2548",,,Lanora.pettit@oag.texas.gov,
+153,10327,6256962,Kyle Douglas Hawkins,"Direct: 512-936-1700
+Email: kyle.hawkins@oag.texas.gov
+Office of the Attorney General
+Office of the Solicitor General
+P.O. Box 12548 (MC 059)
+Austin, TX 78711-2548",,,kyle.hawkins@oag.texas.gov,
+154,10327,6256961,Samuel Troxell Grover,"Direct: 608-230-8445
+Email: sgrover@ffrf.org
+Freedom From Religion Foundation
+P.O. Box 750
+Madison, WI 53701",,,sgrover@ffrf.org,
+155,10327,6256960,Richard L. Bolton,"Direct: 608-257-9521
+Email: rbolton@boardmanclark.com
+Fax: 608-283-1709
+Boardman & Clark, L.L.P.
+P.O. Box 927
+Madison, WI 53701-0927",,(608) 283-1709,rbolton@boardmanclark.com,
+156,10643,5739802,"David F. Hubbard, Counsel","Direct: 951-686-2660
+Hubbard Law Firm
+3890 Eleventh Street
+Riverside, CA 92501",,,,
+157,10643,5739801,"Lei Lei Wang Ekvall, Esquire, Attorney","Direct: 714-445-1000
+Smiley Wang-Ekvall, LLP
+3200 Park Center Drive
+Suite 250
+Costa Mesa, CA 92626",,,,
+158,10643,5739800,"Kyra E. Andrassy, Attorney","Direct: 714-445-1000
+Smiley Wang-Ekvall, LLP
+3200 Park Center Drive
+Suite 250
+Costa Mesa, CA 92626",,,,
+159,10695,10048556,"Benjamin Wallace Mendelson, Assistant Solicitor General","Direct:  512-936-1700
+Email: ben.mendelson@oag.texas.gov
+Office of the Texas Attorney General
+P.O. Box 12548 (MC-059)
+Austin, TX 78711-2548",,,ben.mendelson@oag.texas.gov,
+160,10695,10048555,Matthew Thomas Kennedy,"Direct:  617-650-9726
+Email: matt.kennedy@oag.texas.gov
+Fax:  512-473-8301
+Office of the Attorney General of Texas
+9th Floor
+300 W. 15th Street
+Austin, TX 78711",,(512) 473-8301,matt.kennedy@oag.texas.gov,
+161,10695,10048554,Ryan Baasch,"Direct:  512-936-1378
+Email: ryan.baasch@oag.texas.gov
+Fax:  512-936-0545
+Office of the Attorney General
+Consumer Protection Division
+P.O. Box 12548 (MC-001)
+Austin, TX 78711-2548",,(512) 936-0545,ryan.baasch@oag.texas.gov,
+162,10695,10048553,Darren McCarty,"Direct:  512-827-2902
+Email: darren@mccartylawpllc.com
+McCarty Law, P.L.L.C.
+1410B W. 51st Street
+Austin, TX 78756",,,darren@mccartylawpllc.com,
+163,10695,10048552,"Matthew T. Martens, Esq., Attorney","Direct:  202-663-6921
+Email: matthew.martens@wilmerhale.com
+Wilmer Cutler Pickering Hale and Dorr, L.L.P.
+2100 Pennsylvania Avenue, N.W.
+Washington, DC 20037",,,matthew.martens@wilmerhale.com,
+164,12607,9773666,"Walter Patrick Loughlin, Esq., -","Direct: 203-216-3445
+Walter P. Loughlin Attorney-at-Law
+#5d
+340 West 57th Street
+New York, NY 10019",,,,
+165,12607,9773665,"Derek Wikstrom, Esq., -","Direct: 212-637-1085
+United States Attorney's Office for the Southern District of New York
+One Saint Andrew's Plaza
+New York, NY 10007",,,,
+166,12607,9773664,"Matthew David Podolsky, Esq., -","Direct: 212-637-1947
+United States Attorney's Office for the Southern District of New York
+One Saint Andrew's Plaza
+New York, NY 10007",,,,
+167,12607,9773663,"Danielle Renee Sassoon, Esq., Assistant U.S. Attorney","Direct: 212-637-1115
+United States Attorney's Office for the Southern District of New York
+One Saint Andrew's Plaza
+New York, NY 10007",,,,
+168,24952,6845701,Silvija A. Strikis,"Kellogg, Huber, Hansen, Todd & Evans
+Sumner Square
+1615 M Street, N.W.
+Wasington, DC 20036
+202-326-7938
+Email: sstrikis@khhte.com
+",(202) 326-7938,,sstrikis@khhte.com,
+169,24952,6845700,Reid M. Figel,"Kellogg, Huber, Hansen, Todd & Evans
+Sumner Square
+1615 M Street, N.W.
+Washington, DC 20036
+",,,,
+170,24952,6845699,Kevin B. Huff,"Kellogg, Huber, Hansen, Todd & Evans
+Sumner Square
+1615 M Street, N.W.
+Washington, DC 20036
+202-326-7900
+Email: khuff@khhte.com
+",(202) 326-7900,,khuff@khhte.com,
+171,24952,6845698,Thomas J. Dougherty,"Skadden, Arps, Slate, Meagher & Flom LLP
+500 Boylston Street
+Boston, MA 02116
+617-573-4800
+Fax: 617-573-4822
+Email: dougherty@skadden.com
+",(617) 573-4800,(617) 573-4822,dougherty@skadden.com,
+172,24952,6845697,Ian D. Roffman,"Nutter, McClennen & Fish, LLP
+Seaport West
+155 Seaport Boulevard
+Boston, MA 02210-2604
+617-439-2421
+Fax: 617-310-9421
+Email: iroffman@nutter.com
+",(617) 439-2421,(617) 310-9421,iroffman@nutter.com,
+173,24952,6845696,Noreen Gottfredsen,"5 Clipper Way
+Beverly, MA 01915
+978-927-6622
+",(978) 927-6622,,,
+174,24952,6845695,Jeffrey B. Rudman,"Wilmer Hale LLP
+60 State Street
+Boston, MA 02109
+617-526-6912
+Fax: 617-526-5000
+",(617) 526-6912,(617) 526-5000,,
+175,24952,6845694,Andrea J. Robinson,"Wilmer Hale LLP
+60 State Street
+Boston, MA 02109
+617-526-6000
+Fax: 617-526-5000
+Email: andrea.robinson@wilmerhale.com
+",(617) 526-6000,(617) 526-5000,andrea.robinson@wilmerhale.com,
+176,24952,6845693,Roberta A. Kaplan,"Paul, Weiss, Rifkind, Wharton & Garrison
+1285 Avenue of the Americas
+New York, NY 10019-6064
+212-373-3000
+Email: rkaplan@paulweiss.com
+",(212) 373-3000,,rkaplan@paulweiss.com,
+177,24952,6845692,Mark C. Hansen,"Kellogg, Huber, Hansen, Todd Evans & Figel, PLLC
+Sumner Square
+1615 M Street, N.W.
+Suite 400
+Washington, DC 20036
+202-326-7900
+Fax: 202-326-7999
+Email: mhansen@kellogghansen.com
+",(202) 326-7900,(202) 326-7999,mhansen@kellogghansen.com,
+178,46331,3418389,Jacqulyn S. Loftin,"3305 Jerusalem Avenue
+Suite 201
+Wantagh, NY 11793
+(516) 826-6500
+Fax : (516) 826-0222
+Email:
+",(516) 826-6500,(516) 826-0222,,
+179,46331,3418388,Holly R. Holecek,"LaMonica Herbst & Maniscalco, LLP
+3305 Jerusalem Avenue
+Wantagh, NY 11793
+(516) 826-6500
+Fax : (516) 826-0222
+Email:
+",(516) 826-6500,(516) 826-0222,,
+180,46331,3418387,"Lynn P. Harrison, III","Dentons US LLP
+1221 Avenue of the Americas
+Ste 25th Floor
+New York, NY 10020
+212-768-5325
+Fax : 212-768-6800
+Email:
+",(212) 768-5325,(212) 768-6800,,
+181,67537,11306694,"Brian S. Wolfman, Esq.","Direct: 202-661-6582
+Email: wolfmanb@georgetown.edu
+Georgetown University Law Center
+Appellate Courts Immersion Clinic
+600 New Jersey Avenue NW
+Suite 312
+Washington, DC 20001",,,wolfmanb@georgetown.edu,
+182,67537,11306693,"Alan B. Morrison, Esq.","Direct: 202-994-7120
+Email: abmorrison@law.gwu.edu
+Fax: 202-994-5157
+George Washington University
+2000 H Street NW
+Washington, DC 20052",,(202) 994-5157,abmorrison@law.gwu.edu,
+183,67537,11306692,"Reid L. Ashinoff, Esq.","Direct: 212-768-6739
+Email: reid.ashinoff@dentons.com
+Dentons US
+1221 Avenue of the Americas
+New York, NY 10020",,,reid.ashinoff@dentons.com,
+184,67537,11306691,"Frederick B. Lacey, Esq.","Direct: 973-643-8000
+Fax: 973-643-6111
+LeBoeuf Lamb Greene & MacRae
+One Riverfront Plaza
+Newark, NJ 07102",,(973) 643-6111,,
+185,67537,11306690,"John J. Gibbons, Esq.","Direct: 973-596-4500
+Email: jgibbons@gibbonslaw.com
+Fax: 973-596-0545
+FBT Gibbons
+One Gateway Center
+1145 Raymond Plaza W
+Newark, NJ 07102",,(973) 596-0545,jgibbons@gibbonslaw.com,
+186,67537,11306689,"Melvyn I. Weiss, Esq.","Unknown
+Unknown
+Unknown, PA",,,,
+187,67537,11306688,"Allyn Z. Lite, Esq.","Direct: 973-623-3000
+Email: alite@litedepalma.com
+Fax: 973-623-1190
+Lite DePalma Greenberg & Afanador
+570 Broad Street
+Suite 1201
+Newark, NJ 07102",,(973) 623-1190,alite@litedepalma.com,
+188,67537,11306687,"Michael P. Malakoff, Esq.","Direct: 412-281-4217
+Email: malakoff@mpmalakoff.com
+Fax: 412-281-3262
+Michael P. Malakoff
+3214 Ladoga Street
+Pittsburgh, PA 15204",,(412) 281-3262,malakoff@mpmalakoff.com,
+189,70880,3420636,Teresa Sadutto-Carley,"Platzer, Swergold, Levine,
+Goldberg, Katz & Jaslow, LLP
+475 Park Avenue South
+18th Floor
+New York, NY 10016
+(212) 593-3000
+Fax : (212) 593-0353
+Email:
+",(212) 593-3000,(212) 593-0353,,
+190,70880,3420635,Jeffrey M. Traurig,"Archer & Greiner, P.C.
+630 Third Avenue
+Seventh Floor
+New York, ny 10017
+(212) 682-4940
+Email:
+",(212) 682-4940,,,

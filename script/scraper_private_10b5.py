@@ -375,6 +375,19 @@ async def scrape_case(
     if is_case_scraped(conn, docket_id):
         return True
 
+    # Clean up any partial data from a previous interrupted scrape
+    for table in ("docket_entries", "attorneys", "parties", "citation_edges"):
+        if table == "citation_edges":
+            conn.execute(
+                "DELETE FROM citation_edges WHERE source_opinion_id IN "
+                "(SELECT opinion_id FROM opinions WHERE docket_id = ?)",
+                (docket_id,),
+            )
+        else:
+            conn.execute(f"DELETE FROM {table} WHERE docket_id = ?", (docket_id,))
+    conn.execute("DELETE FROM opinions WHERE docket_id = ?", (docket_id,))
+    conn.execute("DELETE FROM cases WHERE docket_id = ?", (docket_id,))
+
     # 1. Docket details
     docket = await fetch_json(session, f"{BASE_URL}/dockets/{docket_id}/", limiter)
     if not docket:

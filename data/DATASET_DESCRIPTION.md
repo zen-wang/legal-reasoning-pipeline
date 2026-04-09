@@ -18,7 +18,27 @@ We evaluated several legal domains and chose Private 10b-5 for these reasons:
 | **Citation network** | Avg 26.7 citations per opinion | Thin (settlements don't cite precedent) | Dense |
 | **Domain relevance** | Securities fraud (lab focus) | Securities but trivial prediction task | Employment law |
 
-The key problem with SEC enforcement: 76% of cases end in consent judgments (defendant settles without admitting wrongdoing). A model can achieve 76% accuracy by simply predicting "consent judgment" every time -- no reasoning needed. Private 10b-5 has genuinely contested outcomes where judges analyze each element.
+The key problem with SEC enforcement: 76% of cases end in consent judgments (defendant settles without admitting wrongdoing). A model can achieve 76% accuracy by simply predicting "consent judgment" every time -- no reasoning needed. This is called **data leakage**: the outcome distribution itself leaks the answer, so the model learns "always predict the majority class" instead of learning actual legal reasoning. Private 10b-5 at ~50/50 forces the model to learn which elements determine the outcome.
+
+## SEC Enforcement vs Private 10b-5: Same Statute, Different Standards
+
+Both use the **same statute** (Section 10(b) + Rule 10b-5), but the conditions for winning are different:
+
+| | SEC Enforcement | Private 10b-5 (this dataset) |
+|---|---|---|
+| **Who sues** | SEC (government agency) | Investors (individuals, pension funds, class actions) |
+| **Elements to prove** | 3-4 | 6 |
+| **Material Misrepresentation** | Required | Required |
+| **Scienter** | Required | Required |
+| **Connection to Securities** | Required | Required |
+| **Reliance** | NOT required | Required |
+| **Economic Loss** | NOT required | Required |
+| **Loss Causation** | NOT required | Required |
+| **Why the difference** | SEC represents the public interest -- doesn't need to prove individual investor harm | Private plaintiff must prove they personally relied on the fraud and it caused their specific financial loss |
+| **Typical outcome** | 76% consent judgment (settlement) | ~50/50 MTD granted vs denied |
+| **Judges write analysis?** | Rarely (cases settle before ruling) | Yes -- element-by-element opinions |
+
+In short: SEC just proves "the fraud happened." Private plaintiffs must prove "the fraud happened AND I relied on it AND it caused MY loss." The extra 3 elements make Private 10b-5 harder to win but much richer for our symbolic pattern pipeline -- more elements means more things to extract, predict, and explain.
 
 ## The 6-Element Rule (Rule 10b-5)
 
