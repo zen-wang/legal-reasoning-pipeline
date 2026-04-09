@@ -6,13 +6,12 @@ The dataset files are too large for GitHub. Download from Google Drive:
 [TODO: paste your Google Drive sharing link here]
 
 Files included:
-- private_10b5_cases.db (5.9 MB, 200 golden cases — growing to ~400 MB for full dataset)
-- sec_litigation_releases_20260403_234416.csv (70 MB, 10,914 SEC enforcement cases)
+- private_10b5_sample_200.db (4.4 MB) — 200 golden cases for immediate testing
+- private_10b5_cases.db (growing to ~200-400 MB) — full dataset (available after scraping completes)
 
 After downloading, place the files in this /data/ directory.
 
-Setup:
-  pip install aiohttp aiosqlite tqdm
+See DATASET_DESCRIPTION.md in this folder for full schema, field rationale, and quick start code.
 
 Quick verify:
-  python -c "import sqlite3; conn = sqlite3.connect('data/private_10b5_cases.db'); print(conn.execute('SELECT COUNT(*) FROM cases').fetchone()[0], 'cases')"
+  python -c "import sqlite3; conn = sqlite3.connect('data/private_10b5_sample_200.db'); print(conn.execute('SELECT COUNT(*) FROM cases').fetchone()[0], 'cases')"

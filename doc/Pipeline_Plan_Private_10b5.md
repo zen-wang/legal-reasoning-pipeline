@@ -133,7 +133,7 @@ LossCausation(case) ←
 
 **Step 1: Preprocessing**
 - Split opinion text into sections using heading detection (regex for "I.", "II.", "A.", "B.", "CONCLUSION", etc.)
-- Identify the legal standard section (where judge states the McDonnell Douglas / 10b-5 framework)
+- Identify the legal standard section (where judge states the 10b-5 / PSLRA pleading framework)
 - Identify per-element analysis sections
 
 **Step 2: Entity & keyphrase extraction**
@@ -181,7 +181,7 @@ LossCausation(case) ←
 
 ### 1.4 Output
 
-For each case: a structured IRAC object stored in PostgreSQL JSONB:
+For each case: a structured IRAC object stored in PostgreSQL + JSONB:
 - **Issue**: which elements are at stake
 - **Rule**: statutes + landmark precedents (from `opinions_cited[]`)
 - **Application**: element-by-element satisfaction status with supporting facts
@@ -196,7 +196,7 @@ For each case: a structured IRAC object stored in PostgreSQL JSONB:
 | Llama 3.3 70B Instruct (BF16) | Gaudi 2 (vllm-fork, TP=8) | Structured lifting prompt |
 | Outlines / xgrammar | Gaudi 2 | Enforce JSON schema at decode time |
 | Pydantic v2 | Gaudi 2 | Post-decode schema validation |
-| DuckDB | Sol / Local | Store structured case objects (replaces PostgreSQL) |
+| PostgreSQL + JSONB | Local | Store structured case objects |
 
 ---
 
@@ -245,19 +245,19 @@ Example:
 
 ### 2.5 Storage
 
-KuzuDB embedded graph database (replaces Neo4j — no server needed, Sol-friendly). Key queries:
+Neo4j 5.x graph database. Key queries:
 - "Find all cases citing Case X in the same circuit with the same charge"
 - "Find all arguments that appear in defendant-win cases in SDNY"
 - "Trace the citation chain from Case A to landmark precedent Tellabs"
 
-KuzuDB supports Cypher, property graphs, and vector index. Single `.kuzu` directory, portable between Sol/Local/Gaudi 2.
+Neo4j supports Cypher queries, property graphs, vector index, and visual exploration via Neo4j Browser.
 
 ### 2.6 Tools
 
 | Tool | Where | Purpose |
 |------|-------|---------|
-| KuzuDB | Sol / Local | Graph storage + Cypher traversal + vector search |
-| Python `kuzu` | Sol / Local | Load nodes and edges |
+| Neo4j 5.x | Local | Graph storage + Cypher traversal + vector search |
+| Python `neo4j` driver | Local | Load nodes and edges |
 
 ---
 
@@ -411,10 +411,10 @@ The symbolic patterns from Phase 1 constrain the LLM's generation:
 | Tool | Where | Purpose |
 |------|-------|---------|
 | LlamaIndex | Local | RAG orchestration |
-| KuzuDB vector index | Local | Embedding search + graph traversal |
+| Neo4j vector index | Local | Embedding search + graph traversal |
 | Pydantic v2 | Local | Constraint enforcement on outputs |
 | Llama 3.3 70B Instruct | Gaudi 2 (via HTTP/SSH tunnel) | Reasoning model |
-| DuckDB cache | Local | Cache IRAC outputs for demo + re-evaluation |
+| PostgreSQL cache | Local | Cache IRAC outputs for demo + re-evaluation |
 
 ---
 
@@ -525,7 +525,7 @@ This is the **exception handling loop** from Beyond the Black Box (Algorithm 1, 
 |-------|-------|------------|
 | 1-2 | **Phase 0: Data prep** | Scraper built. ~10,000 cases in SQLite. Dataset split done. |
 | 3-4 | **Phase 1: Lifting** | Structured IRAC extraction for all cases. 20 human-validated. Pydantic schema enforced. |
-| 5 | **Phase 2: Graph** | Neo4j loaded with all nodes/edges. Citation network from `opinions_cited[]`. Signed argument edges. |
+| 5 | **Phase 2: Graph** | Neo4j graph built with all nodes/edges. Citation network from `opinions_cited[]`. Signed argument edges. |
 | 6 | **Phase 3: ANCO-HITS** | Argument scores computed. Validation: case scores separate plaintiff-win vs defendant-win. |
 | 7-8 | **Phase 4: GraphSAGE** | Model trained on labeled cases. Predictions for unlabeled cases. |
 | 9-10 | **Phase 5: RAG** | Retrieval pipeline with all constraints. Zero-hallucination verified on test batch. |
@@ -562,7 +562,7 @@ This is the **exception handling loop** from Beyond the Black Box (Algorithm 1, 
 
 - **Development**: Manually start vLLM on Gaudi 2, run lifting/tests, shut down.
 - **Demo for professor**: Pre-compute ~50-100 golden demo cases (full IRAC output cached in DuckDB). Interactive demo reads from cache. If professor asks about a new case, spawn Gaudi 2 job (~5 min warm-up).
-- **Graceful degradation**: If LLM offline, system returns symbolic-only results (ANCO-HITS scores, element status, precedent list from KuzuDB) — no natural language IRAC but structured analysis still works. This reinforces the Beyond the Black Box thesis that symbolic layer is independent of LLM.
+- **Graceful degradation**: If LLM offline, system returns symbolic-only results (ANCO-HITS scores, element status, precedent list from Neo4j) — no natural language IRAC but structured analysis still works. This reinforces the Beyond the Black Box thesis that symbolic layer is independent of LLM.
 
 ### Full Tool Table
 
@@ -570,8 +570,8 @@ This is the **exception handling loop** from Beyond the Black Box (Algorithm 1, 
 |------|-------|-------|---------|
 | CourtListener API v4 | Data | Local | Source for all 48 fields |
 | SQLite | Storage | Local → Sol | Raw scraped data with checkpoint/resume |
-| DuckDB | Storage | Sol / Local | Structured IRAC objects (replaces PostgreSQL — embedded, single file, native JSON, no server) |
-| KuzuDB | Graph DB | Sol / Local | Knowledge graph + Cypher + vector search (replaces Neo4j — embedded, no server, Sol-friendly) |
+| PostgreSQL + JSONB | Storage | Local | Structured IRAC objects from Phase 1 |
+| Neo4j 5.x | Graph DB | Local | Knowledge graph + Cypher traversal + vector search |
 | spaCy `en_core_web_lg` | NLP | Gaudi 2 / Sol | Named entity extraction |
 | YAKE + RAKE | NLP | Gaudi 2 / Sol | Legal keyphrase extraction |
 | sentence-transformers (`all-mpnet-base-v2`) | Embeddings | Gaudi 2 / Local | 768-dim BERT embeddings for cases |
@@ -589,8 +589,6 @@ This is the **exception handling loop** from Beyond the Black Box (Algorithm 1, 
 | Original | Replaced With | Why |
 |----------|--------------|-----|
 | Anthropic API (Claude Sonnet 4.6) | Llama 3.3 70B on Gaudi 2 | Budget. Open-source. Dedicated GPU access. |
-| PostgreSQL + JSONB | DuckDB | Sol can't run DB servers. DuckDB is embedded, single file, native JSON. |
-| Neo4j 5.x | KuzuDB | Sol can't run DB servers. KuzuDB is embedded, supports Cypher + vector index. ~10K node scale fits perfectly. |
 
 ### Gaudi 2 Smoke Test (do before Phase 1)
 
@@ -617,8 +615,8 @@ Before investing in full pipeline, verify in ~half a day:
 
 | File | Contents |
 |------|----------|
-| `doc/CourtListener_Data_Fields_for_Pipeline.md` | 48 fields with endpoint, access tier, and why needed |
+| `data/DATASET_DESCRIPTION.md` | Dataset documentation — schema, coverage, rationale |
 | `doc/SEC_EDGAR_vs_CourtListener_vs_IA_RECAP_data_field.md` | Cross-source field comparison (116 fields) |
-| `CourtListener_API_Manual.md` | API v4 reference (auth, filtering, pagination, endpoints) |
-| `professor-new-goal.md` | Professor's requirements and evaluation criteria |
-| `script/config.py` | CourtListener API token + scraping config |
+| `doc/CourtListener_API_Manual.md` | API v4 reference (auth, filtering, pagination, endpoints) |
+| `.env` | CourtListener API token (gitignored) |
+| `script/scraper_private_10b5.py` | CourtListener scraper |

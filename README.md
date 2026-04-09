@@ -16,14 +16,14 @@ A neuro-symbolic "thinking RAG" system that reasons about legal cases using inte
 ## The Rule-Based Pattern
 
 ```
-PlaintiffWins(case) <- MaterialMisrep(case) ^ Scienter(case) ^ Connection(case)
-                     ^ Reliance(case) ^ EconomicLoss(case) ^ LossCausation(case)
+PlaintiffWins(case) <- MaterialMisrep(case) AND Scienter(case) AND Connection(case)
+                       AND Reliance(case) AND EconomicLoss(case) AND LossCausation(case)
 
 Sub-rules:
-  Scienter(case)       <- MotiveAndOpportunity | ConsciousMisbehavior | RecklessDisregard
-  LossCausation(case)  <- CorrectiveDisclosurePriceDrop | MaterializationOfConcealedRisk
-  Reliance(case)       <- FraudOnTheMarket | DirectReliance | AffiliateOmission
-  MaterialMisrep(case) <- FalseStatements | MisleadingOmissions | SchemeToDefraud
+  Scienter(case)       <- MotiveAndOpportunity OR ConsciousMisbehavior OR RecklessDisregard
+  LossCausation(case)  <- CorrectiveDisclosurePriceDrop OR MaterializationOfConcealedRisk
+  Reliance(case)       <- FraudOnTheMarket OR DirectReliance OR AffiliateOmission
+  MaterialMisrep(case) <- FalseStatements OR MisleadingOmissions OR SchemeToDefraud
 ```
 
 ## Pipeline
@@ -32,7 +32,7 @@ Sub-rules:
 |-------|------|-----------------|
 | 0 | **Data Preparation** | ~10,000 Private 10b-5 cases scraped from CourtListener |
 | 1 | **Symbolic Lifting** | Structured element-level assessments per case (IRAC format) |
-| 2 | **Knowledge Graph** | Citation network + signed argument-case edges (KuzuDB) |
+| 2 | **Knowledge Graph** | Citation network + signed argument-case edges (Neo4j) |
 | 3 | **ANCO-HITS Scaling** | Argument strength scores on [-1, +1] scale |
 | 4 | **GraphSAGE** | Structural predictions from citation neighborhoods |
 | 5 | **Constrained RAG** | Retrieval with hard rules -- zero hallucination |
@@ -41,17 +41,17 @@ Sub-rules:
 
 ## Dataset
 
-Private 10b-5 cases scraped from CourtListener API:
+Private 10b-5 cases scraped from CourtListener API. See [data/DATASET_DESCRIPTION.md](data/DATASET_DESCRIPTION.md) for full documentation.
 
 | Metric | Count |
 |--------|------:|
 | Total dockets | ~10,200 |
 | Opinions with full text | ~1,500-1,700 |
 | Avg opinion text length | 47,000 chars |
-| Citation edges | ~50,000+ |
+| Citation edges per opinion | ~27 avg |
 | Outcome variety | ~50/50 (MTD granted vs denied) |
 
-Download the dataset: see `data/DATASET_DOWNLOAD.txt`
+Download the dataset: see [data/DATASET_DOWNLOAD.txt](data/DATASET_DOWNLOAD.txt)
 
 ## Technology Stack
 
@@ -59,8 +59,8 @@ Download the dataset: see `data/DATASET_DOWNLOAD.txt`
 |------|---------|
 | CourtListener API v4 | Data source (48 fields, 6 endpoints) |
 | SQLite | Raw scraped data with checkpoint/resume |
-| DuckDB | Structured IRAC objects (embedded, no server) |
-| KuzuDB | Knowledge graph (embedded, Cypher + vector search) |
+| PostgreSQL + JSONB | Structured IRAC objects from Phase 1 |
+| Neo4j 5.x | Knowledge graph (Cypher + vector search) |
 | Llama 3.3 70B Instruct | Structured lifting + IRAC generation (on Gaudi 2) |
 | PyTorch Geometric | GraphSAGE (on Sol A100) |
 | LlamaIndex | RAG orchestration |
@@ -97,7 +97,8 @@ python script/scraper_private_10b5.py --tier all       # all ~10,200 cases
 legal-reasoning-pipeline/
 ├── Project-Background/         # Reference papers and project proposals
 ├── data/
-│   ├── DATASET_DOWNLOAD.txt    # Google Drive link for dataset
+│   ├── DATASET_DESCRIPTION.md  # Full dataset documentation
+│   ├── DATASET_DOWNLOAD.txt    # Google Drive link for dataset files
 │   └── sources-researching/    # Data source exploration scripts
 ├── doc/
 │   ├── Pipeline_Plan_Private_10b5.md
@@ -110,6 +111,24 @@ legal-reasoning-pipeline/
 └── requirements.txt
 ```
 
+## Glossary
+
+| Term | Meaning |
+|------|---------|
+| **10b-5** | Rule 10b-5 (17 C.F.R. Section 240.10b-5) -- the primary federal anti-fraud rule for securities |
+| **MTD** | Motion to Dismiss -- defendant asks judge to throw out the case before trial |
+| **SJ** | Summary Judgment -- either side asks judge to rule without trial (no disputed facts) |
+| **IRAC** | Issue, Rule, Application, Conclusion -- standard legal reasoning framework |
+| **PSLRA** | Private Securities Litigation Reform Act (1995) -- sets heightened pleading standards for 10b-5 |
+| **Scienter** | Legal term for intent to deceive -- the hardest element to prove in 10b-5 |
+| **FJC / IDB** | Federal Judicial Center / Integrated Database -- standardized federal court case metadata |
+| **PACER** | Public Access to Court Electronic Records -- federal court document system ($0.10/page) |
+| **Binding authority** | A court decision that MUST be followed by lower courts in the same jurisdiction |
+| **Persuasive authority** | A court decision that CAN be considered but isn't mandatory |
+| **ANCO-HITS** | Algorithm for scoring items on a [-1, +1] scale using signed bipartite graphs |
+| **GraphSAGE** | Graph neural network that learns from citation neighborhood structure |
+| **RAG** | Retrieval Augmented Generation -- retrieve real cases before generating answers |
+
 ## Research Foundation
 
 | Component | Paper |
@@ -118,6 +137,8 @@ legal-reasoning-pipeline/
 | Lifting & lowering | Beyond the Black Box, IEEE TCSS 2026 -- 90% human agreement on pattern matching |
 | Human oversight | Hybrids, 2025 -- practical wisdom as structural requirement |
 
-## Full Pipeline Plan
+## Documentation
 
-See [doc/Pipeline_Plan_Private_10b5.md](doc/Pipeline_Plan_Private_10b5.md) for the complete implementation plan with phases, tools, compute strategy, and evaluation metrics.
+- **[Pipeline Plan](doc/Pipeline_Plan_Private_10b5.md)** -- full implementation plan (Phase 0-7), compute strategy, evaluation metrics
+- **[Dataset Description](data/DATASET_DESCRIPTION.md)** -- schema, coverage, rationale for field selection
+- **[CourtListener API Manual](doc/CourtListener_API_Manual.md)** -- API v4 reference for scraping

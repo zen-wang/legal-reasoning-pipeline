@@ -14,7 +14,7 @@ Checkpoint: SQLite — crash-safe, resume from where it left off.
 
 Usage:
   python scraper_private_10b5.py                  # full scrape
-  python scraper_private_10b5.py --tier golden    # 50 cases for testing
+  python scraper_private_10b5.py --tier golden    # 200 cases for testing
   python scraper_private_10b5.py --tier opinions  # 3,400 opinion cases only
   python scraper_private_10b5.py --tier all       # all ~10,200 cases
 """
