@@ -1,0 +1,19 @@
+{
+  "source": "Pile-of-Law (HuggingFace)",
+  "subset": "courtlistener_docket_entry_documents",
+  "description": "CourtListener 案件摘要條目",
+  "why_selected": "程序性文件紀錄",
+  "num_samples": 10,
+  "sample_keys": [
+    "text",
+    "created_timestamp",
+    "downloaded_timestamp",
+    "url"
+  ],
+  "first_sample_preview": {
+    "text": "             Case 2:19-bk-14989-WB                   Doc 533 Filed 01/08/20 Entered 01/08/20 15:48:48                                       Desc\n                                                      Main Document    Page 1 of 38\n\n    Attorney or Party Name, Address, Telephone & FAX                  ",
+    "created_timestamp": "2020-01-08",
+    "downloaded_timestamp": "11-08-2021",
+    "url": "https://www.courtlistener.com/api/rest/v3/recap-documents/119540967/"
+  }
+}

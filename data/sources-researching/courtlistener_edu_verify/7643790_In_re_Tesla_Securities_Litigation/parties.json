@@ -1,0 +1,1182 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/12262307/",
+    "id": 12262307,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8181208/",
+        "attorney_id": 8181208,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8181208/",
+        "attorney_id": 8181208,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8181209/",
+        "attorney_id": 8181209,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8181209/",
+        "attorney_id": 8181209,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8181209/",
+        "attorney_id": 8181209,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Witness",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2023-01-20T13:44:55.566799-08:00",
+    "date_modified": "2023-01-20T13:44:55.566816-08:00",
+    "name": "Daniel Dees",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/12261732/",
+    "id": 12261732,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180741/",
+        "attorney_id": 8180741,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Interested Party",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2023-01-20T10:06:08.417638-08:00",
+    "date_modified": "2023-01-20T10:06:08.417649-08:00",
+    "name": "Alvin Janklow",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/12231695/",
+    "id": 12231695,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8160087/",
+        "attorney_id": 8160087,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8160087/",
+        "attorney_id": 8160087,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8165251/",
+        "attorney_id": 8165251,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8165252/",
+        "attorney_id": 8165252,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8160088/",
+        "attorney_id": 8160088,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8160089/",
+        "attorney_id": 8160089,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Interested Party",
+        "date_terminated": null,
+        "extra_info": "Non-Party Officials",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2023-01-12T15:06:35.158733-08:00",
+    "date_modified": "2023-01-12T15:06:35.158751-08:00",
+    "name": "Public Investment Fund of the Kingdom of Saudi Arabia",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/11404098/",
+    "id": 11404098,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7481884/",
+        "attorney_id": 7481884,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7481884/",
+        "attorney_id": 7481884,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Miscellaneous",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2022-02-23T03:33:59.968987-08:00",
+    "date_modified": "2022-02-23T03:33:59.969042-08:00",
+    "name": "Goldman Sachs & Co. LLC",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/11286039/",
+    "id": 11286039,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7410548/",
+        "attorney_id": 7410548,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Interested Party",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2022-01-12T02:27:52.511345-08:00",
+    "date_modified": "2022-01-12T02:27:52.511377-08:00",
+    "name": "Gregory Reyes",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10953679/",
+    "id": 10953679,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7171076/",
+        "attorney_id": 7171076,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7171076/",
+        "attorney_id": 7171076,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7410549/",
+        "attorney_id": 7410549,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7410549/",
+        "attorney_id": 7410549,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180742/",
+        "attorney_id": 8180742,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7171077/",
+        "attorney_id": 7171077,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Witness",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2021-08-04T04:44:42.864842-07:00",
+    "date_modified": "2021-08-04T04:44:42.864858-07:00",
+    "name": "Egon Pierre-Durban",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025467/",
+    "id": 10025467,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579542/",
+        "attorney_id": 6579542,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579542/",
+        "attorney_id": 6579542,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579543/",
+        "attorney_id": 6579543,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579543/",
+        "attorney_id": 6579543,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579544/",
+        "attorney_id": 6579544,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579544/",
+        "attorney_id": 6579544,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579545/",
+        "attorney_id": 6579545,
+        "date_action": "2021-10-11",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579546/",
+        "attorney_id": 6579546,
+        "date_action": "2021-10-11",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579547/",
+        "attorney_id": 6579547,
+        "date_action": "2021-10-11",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579548/",
+        "attorney_id": 6579548,
+        "date_action": "2021-10-11",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.277166-07:00",
+    "date_modified": "2020-10-05T18:19:58.277192-07:00",
+    "name": "Dany David",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025466/",
+    "id": 10025466,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.249973-07:00",
+    "date_modified": "2020-10-05T18:19:58.249996-07:00",
+    "name": "Rajinder Gaur",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025465/",
+    "id": 10025465,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.222823-07:00",
+    "date_modified": "2020-10-05T18:19:58.222845-07:00",
+    "name": "Christopher Lyman",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025464/",
+    "id": 10025464,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.192159-07:00",
+    "date_modified": "2020-10-05T18:19:58.192198-07:00",
+    "name": "Alvin Abrams",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025463/",
+    "id": 10025463,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579506/",
+        "attorney_id": 6579506,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.159869-07:00",
+    "date_modified": "2020-10-05T18:19:58.159903-07:00",
+    "name": "Donald Freeland",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025462/",
+    "id": 10025462,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579516/",
+        "attorney_id": 6579516,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579516/",
+        "attorney_id": 6579516,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10344513/",
+        "attorney_id": 10344513,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10344513/",
+        "attorney_id": 10344513,
+        "date_action": "2021-07-09",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10344513/",
+        "attorney_id": 10344513,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579541/",
+        "attorney_id": 6579541,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579541/",
+        "attorney_id": 6579541,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.107425-07:00",
+    "date_modified": "2020-10-05T18:19:58.107460-07:00",
+    "name": "Opportunity Unique Fund Inc.",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025461/",
+    "id": 10025461,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579516/",
+        "attorney_id": 6579516,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579516/",
+        "attorney_id": 6579516,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10344513/",
+        "attorney_id": 10344513,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10344513/",
+        "attorney_id": 10344513,
+        "date_action": "2021-07-09",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10344513/",
+        "attorney_id": 10344513,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579541/",
+        "attorney_id": 6579541,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579541/",
+        "attorney_id": 6579541,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:58.043445-07:00",
+    "date_modified": "2020-10-05T18:19:58.043464-07:00",
+    "name": "Tempus International Fund SPC",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025460/",
+    "id": 10025460,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6369546/",
+        "attorney_id": 6369546,
+        "date_action": "2020-02-20",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6369546/",
+        "attorney_id": 6369546,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579500/",
+        "attorney_id": 6579500,
+        "date_action": "2020-12-15",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579500/",
+        "attorney_id": 6579500,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579500/",
+        "attorney_id": 6579500,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579501/",
+        "attorney_id": 6579501,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579502/",
+        "attorney_id": 6579502,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579502/",
+        "attorney_id": 6579502,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579503/",
+        "attorney_id": 6579503,
+        "date_action": "2020-02-20",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579504/",
+        "attorney_id": 6579504,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579504/",
+        "attorney_id": 6579504,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.939056-07:00",
+    "date_modified": "2020-10-05T18:19:57.939083-07:00",
+    "name": "James Johnson",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025459/",
+    "id": 10025459,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.875405-07:00",
+    "date_modified": "2020-10-05T18:19:57.875440-07:00",
+    "name": "Vilas Capital Management LLC",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025458/",
+    "id": 10025458,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.818379-07:00",
+    "date_modified": "2020-10-05T18:19:57.818414-07:00",
+    "name": "Dr. Abrar Shirazi",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025457/",
+    "id": 10025457,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.764281-07:00",
+    "date_modified": "2020-10-05T18:19:57.764303-07:00",
+    "name": "Thierry Boutin",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025456/",
+    "id": 10025456,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579509/",
+        "attorney_id": 6579509,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579511/",
+        "attorney_id": 6579511,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579512/",
+        "attorney_id": 6579512,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.710898-07:00",
+    "date_modified": "2020-10-05T18:19:57.710917-07:00",
+    "name": "PROtecto Informatikai Szolgaltato Korlatolt Felelossegu Tarsasag",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025455/",
+    "id": 10025455,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579540/",
+        "attorney_id": 6579540,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.625047-07:00",
+    "date_modified": "2020-10-05T18:19:57.625108-07:00",
+    "name": "Bridgestone Investment Corporation Limited",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10025454/",
+    "id": 10025454,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6579539/",
+        "attorney_id": 6579539,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "docket_id": 7643790,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-10-05T18:19:57.605637-07:00",
+    "date_modified": "2020-10-05T18:19:57.605670-07:00",
+    "name": "Raghunath Nama",
+    "extra_info": ""
+  }
+]

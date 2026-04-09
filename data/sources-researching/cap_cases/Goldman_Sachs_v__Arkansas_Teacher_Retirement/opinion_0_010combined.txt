@@ -1,0 +1,1107 @@
+(Slip Opinion)              OCTOBER TERM, 2020                                       1
+
+                                       Syllabus
+
+         NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+       being done in connection with this case, at the time the opinion is issued.
+       The syllabus constitutes no part of the opinion of the Court but has been
+       prepared by the Reporter of Decisions for the convenience of the reader.
+       See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+                                       Syllabus
+
+ GOLDMAN SACHS GROUP, INC., ET AL. v. ARKANSAS
+     TEACHER RETIREMENT SYSTEM, ET AL.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                 THE SECOND CIRCUIT
+
+      No. 20–222.      Argued March 29, 2021—Decided June 21, 2021
+Respondent shareholders (Plaintiffs) filed this securities-fraud class ac-
+  tion alleging that The Goldman Sachs Group, Inc., and certain of its
+  executives (collectively, Goldman) violated securities laws and regula-
+  tions prohibiting material misrepresentations and omissions in con-
+  nection with the sale of securities. 15 U. S. C. §78j(b); 17 CFR
+  §240.10b–5. Plaintiffs allege that Goldman maintained an artificially
+  inflated stock price by repeatedly making false and misleading generic
+  statements about its ability to manage conflicts. Under Plaintiffs’ in-
+  flation-maintenance theory, Goldman’s alleged misrepresentations
+  caused its stock price to remain inflated until the market reacted to
+  the truth about Goldman’s practices—at which point Goldman’s stock
+  price dropped and Plaintiffs suffered losses. Seeking to certify a class
+  of Goldman shareholders harmed by reliance on Goldman’s alleged
+  misrepresentations, Plaintiffs invoked the presumption, endorsed by
+  the Court in Basic Inc. v. Levinson, 485 U. S. 224, that investors are
+  presumed to rely on the market price of a company’s security, which in
+  an efficient market will reflect all of the company’s public statements,
+  including misrepresentations. The Basic presumption allows class-ac-
+  tion plaintiffs to prove reliance through evidence common to the class.
+  Goldman in turn sought to defeat class certification by rebutting the
+  Basic presumption through evidence that its alleged misrepresenta-
+  tions had no impact on its stock price. After an initial round of litiga-
+  tion which resulted in a remand from the Second Circuit, the District
+  Court certified the class based on Goldman’s failure to establish by a
+  preponderance of the evidence that its alleged misrepresentations had
+  no price impact. The Second Circuit authorized an appeal under Fed-
+  eral Rule of Civil Procedure 23(f), and affirmed in a divided decision,
+2     GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                  RETIREMENT SYSTEM
+                        Syllabus
+
+    finding that the District Court’s price impact determination was not
+    an abuse of discretion. Goldman now argues that the Second Circuit
+    erred twice: first, by holding that the generic nature of Goldman’s al-
+    leged misrepresentations is irrelevant to the price impact inquiry; and
+    second, by assigning Goldman the burden of persuasion to prove a lack
+    of price impact.
+Held:
+    1. The generic nature of a misrepresentation often is important evi-
+ dence of price impact that courts should consider at class certification,
+ including in inflation-maintenance cases. That is true even though the
+ same evidence may be relevant to materiality, an inquiry reserved for
+ the merits phase of a securities-fraud class action. See Amgen Inc. v.
+ Connecticut Retirement Plans and Trust Funds, 568 U. S. 455. A court
+ has an obligation before certifying a class to determine that Rule 23 is
+ satisfied, Comcast Corp. v. Behrend, 569 U. S. 27, 35, and a court can-
+ not make that finding in a securities-fraud class action without consid-
+ ering all evidence relevant to price impact. See Halliburton Co. v. Er-
+ ica P. John Fund, Inc., 573 U. S. 258, 284 (Halliburton II). The parties
+ now accept this legal framework but dispute whether the Second Cir-
+ cuit properly considered the generic nature of Goldman’s alleged mis-
+ representations. Because the Court concludes that the Second Cir-
+ cuit’s opinions leave sufficient doubt on this question, the Court
+ remands for the Second Circuit to consider all record evidence relevant
+ to price impact, regardless whether that evidence overlaps with mate-
+ riality or any other merits issue. Pp. 6–9.
+    2. Defendants bear the burden of persuasion to prove a lack of price
+ impact by a preponderance of the evidence at class certification. The
+ Court has held that nothing in Federal Rule of Evidence 301 constrains
+ the Court’s authority to change customary burdens of persuasion un-
+ der a federal statute, see NLRB v. Transportation Management Corp.,
+ 462 U. S. 393, 404, n. 7, and the Court has exercised this authority to
+ reassign the burden of persuasion to the defendant in other contexts.
+ Goldman does not challenge the Court’s relevant precedents, but ques-
+ tions whether the Court exercised this authority in establishing the
+ Basic framework pursuant to the securities laws. The Court concludes
+ that Basic and Halliburton II did allocate to defendants the burden of
+ persuasion to prove a lack of price impact. As relevant here, Basic
+ explains that defendants may rebut the presumption of reliance if they
+ “show that the misrepresentation in fact did not lead to a distortion of
+ price” by making “[a]ny showing that severs the link between the al-
+ leged misrepresentation and . . . the price received (or paid) by the
+ plaintiff.” 485 U. S., at 248 (emphasis added). Similarly, Halliburton
+ II held that defendants may rebut the Basic presumption at class cer-
+                     Cite as: 594 U. S. ____ (2021)                      3
+
+                                Syllabus
+
+  tification “by showing . . . that the particular misrepresentation at is-
+  sue did not affect the stock’s market price.” 573 U. S., at 279 (emphasis
+  added). These references to a defendant’s “showing” require a defend-
+  ant to do more than produce some evidence relevant to price impact;
+  the defendant must “in fact” “seve[r] the link” between a misrepresen-
+  tation and the price paid by the plaintiff. Moreover, Halliburton II’s
+  holding that plaintiffs need not directly prove price impact to invoke
+  the Basic presumption, 573 U. S., at 278–279, would be negated in al-
+  most every case if a defendant could shift the burden of persuasion to
+  the plaintiffs by mustering any competent evidence of a lack of price
+  impact (including, for example, the generic nature of the alleged mis-
+  representations). Thus, the best reading of the Court’s precedents as-
+  signs defendants the burden of persuasion to prove a lack of price im-
+  pact by a preponderance of the evidence. Even so, that allocated
+  burden will be outcome determinative only in the rare case in which
+  the evidence is in perfect equipoise. Pp. 9–12.
+955 F. 3d 254, vacated and remanded.
+
+   BARRETT, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and BREYER, KAGAN, and KAVANAUGH, JJ., joined in full; in which
+THOMAS, ALITO, and GORSUCH, JJ., joined as to Parts I and II–A; and in
+which SOTOMAYOR, J., joined as to Parts I, II–A–1, and II–B. SOTOMAYOR,
+J., filed an opinion concurring in part and dissenting in part. GORSUCH,
+J., filed an opinion concurring in part and dissenting in part, in which
+THOMAS and ALITO, JJ., joined.
+                        Cite as: 594 U. S. ____ (2021)                                 1
+
+                              Opinion of the Court
+
+     NOTICE: This opinion is subject to formal revision before publication in the
+     preliminary print of the United States Reports. Readers are requested to
+     notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+     ington, D. C. 20543, of any typographical or other formal errors, in order that
+     corrections may be made before the preliminary print goes to press.
+
+
+SUPREME COURT OF THE UNITED STATES
+                                    _________________
+
+                                     No. 20–222
+                                    _________________
+
+
+          GOLDMAN SACHS GROUP, INC., ET AL.,
+          PETITIONERS v. ARKANSAS TEACHER
+              RETIREMENT SYSTEM, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+           APPEALS FOR THE SECOND CIRCUIT
+                                  [June 21, 2021]
+
+  JUSTICE BARRETT delivered the opinion of the Court.
+  This case involves a securities-fraud class action filed by
+several pension funds against The Goldman Sachs Group,
+Inc., and three of its former executives (collectively, Gold-
+man). Plaintiffs allege that Goldman maintained an artifi-
+cially inflated stock price by making generic statements
+about its ability to manage conflicts—for example, “We
+have extensive procedures and controls that are designed to
+identify and address conflicts of interest.” Plaintiffs say
+that Goldman’s generic statements were false or misleading
+in light of several undisclosed conflicts of interest, and that
+once the truth about Goldman’s conflicts came out, Gold-
+man’s stock price dropped and shareholders suffered losses.
+  Below, this securities-fraud class action proceeded in typ-
+ical fashion. Plaintiffs sought to certify a class of Goldman
+shareholders by invoking the presumption endorsed by this
+Court in Basic Inc. v. Levinson, 485 U. S. 224 (1988). The
+Basic presumption is premised on the theory that investors
+rely on the market price of a company’s security, which in
+an efficient market incorporates all of the company’s public
+2   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                  Opinion of the Court
+
+misrepresentations. For its part, Goldman sought to defeat
+class certification by rebutting the Basic presumption
+through evidence that its alleged misrepresentations actu-
+ally had no impact on its stock price. After determining
+that Goldman had failed to carry its burden of proving a
+lack of price impact, the District Court certified the class,
+and the Second Circuit affirmed.
+   In this Court, Goldman argues that the Second Circuit
+erred twice: first, by holding that the generic nature of its
+alleged misrepresentations is irrelevant to the price impact
+inquiry; and second, by assigning Goldman the burden of
+persuasion to prove a lack of price impact.
+   On the first question, the parties now agree, as do we,
+that the generic nature of a misrepresentation often is im-
+portant evidence of price impact that courts should consider
+at class certification. Because we conclude that the Second
+Circuit may not have properly considered the generic na-
+ture of Goldman’s alleged misrepresentations, we vacate
+and remand for the Court of Appeals to reassess the District
+Court’s price impact determination. On the second ques-
+tion, we agree with the Second Circuit that our precedents
+require defendants to bear the burden of persuasion to
+prove a lack of price impact by a preponderance of the evi-
+dence. We emphasize, though, that the burden of persua-
+sion should rarely be outcome determinative.
+                               I
+                              A
+   Section 10(b) of the Securities Exchange Act of 1934 and
+its implementing regulation, Rule 10b–5, prohibit material
+misrepresentations and omissions in connection with the
+sale of securities. 48 Stat. 881, as amended, 15 U. S. C.
+§78j(b); 17 CFR §240.10b–5 (2020). We have inferred from
+these provisions an implied private cause of action permit-
+ting the recovery of damages for securities fraud. Hallibur-
+ton Co. v. Erica P. John Fund, Inc., 573 U. S. 258, 267
+                  Cite as: 594 U. S. ____ (2021)              3
+
+                      Opinion of the Court
+
+(2014) (Halliburton II ). To recover damages, a private
+plaintiff must prove, among other things, a material mis-
+representation or omission by the defendant and the plain-
+tiff ’s reliance on that misrepresentation or omission. Ibid.
+   This case concerns the element of reliance. The “tradi-
+tional (and most direct) way” for a plaintiff to prove reliance
+is to show that he was aware of a defendant’s misrepresen-
+tation and engaged in a transaction based on that misrep-
+resentation. Ibid. (internal quotation marks omitted). In
+Basic, however, we held that a plaintiff may also invoke a
+rebuttable presumption of reliance based on the fraud-on-
+the-market theory. 485 U. S., at 241–247.
+   The “fundamental premise” of the fraud-on-the-market
+theory underlying Basic’s presumption is “that an investor
+presumptively relies on a misrepresentation so long as it
+was reflected in the market price at the time of his transac-
+tion.” Erica P. John Fund, Inc. v. Halliburton Co., 563 U. S.
+804, 813 (2011). To invoke the Basic presumption, a plain-
+tiff must prove: (1) that the alleged misrepresentation was
+publicly known; (2) that it was material; (3) that the stock
+traded in an efficient market; and (4) that the plaintiff
+traded the stock between the time the misrepresentation
+was made and when the truth was revealed. Halliburton
+II, 573 U. S., at 268. The defendant may then rebut the
+presumption through “[a]ny showing that severs the link
+between the alleged misrepresentation and either the price
+received (or paid) by the plaintiff, or his decision to trade at
+a fair market price.” Basic, 485 U. S., at 248.
+   Although the Basic presumption “can be invoked by any
+Rule 10b–5 plaintiff,” it has “particular significance in se-
+curities-fraud class actions.” Amgen Inc. v. Connecticut Re-
+tirement Plans and Trust Funds, 568 U. S. 455, 462 (2013).
+The presumption allows class-action plaintiffs to prove re-
+liance through evidence common to the class. That in turn
+makes it easier for plaintiffs to establish the predominance
+requirement of Federal Rule of Civil Procedure 23, which
+4   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                  Opinion of the Court
+
+requires that “questions of law or fact common to class
+members predominate” over individualized issues. Fed.
+Rule Civ. Proc. 23(b)(3). Indeed, without the Basic pre-
+sumption, individualized issues of reliance ordinarily would
+defeat predominance and “preclude certification” of a secu-
+rities-fraud class action. Amgen, 568 U. S., at 462–463; see
+Halliburton II, 573 U. S., at 281–282.
+   As a result, class-action plaintiffs must prove the Basic
+prerequisites before class certification—with one exception.
+In Amgen, we held that materiality should be left to the
+merits stage because it does not bear on Rule 23’s predomi-
+nance requirement. 568 U. S., at 466–468. The remaining
+Basic prerequisites—publicity, market efficiency, and mar-
+ket timing—“must be satisfied” by plaintiffs “before class
+certification.” Halliburton II, 573 U. S., at 276.
+   Satisfying those prerequisites, however, does not guaran-
+tee class certification. We held in Halliburton II that de-
+fendants may rebut the Basic presumption at class certifi-
+cation by showing “that an alleged misrepresentation did
+not actually affect the market price of the stock.” Id., at
+284. If a misrepresentation had no price impact, then
+Basic’s fundamental premise “completely collapses, render-
+ing class certification inappropriate.” Id., at 283.
+                              B
+  Respondents here—whom we’ll call Plaintiffs—are Gold-
+man shareholders. They brought this securities-fraud class
+action against Goldman in the Southern District of New
+York, alleging violations of §10(b) and Rule 10b–5.
+  The specific theory of securities fraud that Plaintiffs al-
+lege is known as inflation maintenance. Under this theory,
+a misrepresentation causes a stock price “to remain inflated
+by preventing preexisting inflation from dissipating from
+the stock price.”         FindWhat Investor Group v.
+                    Cite as: 594 U. S. ____ (2021)                   5
+
+                         Opinion of the Court
+
+FindWhat.com, 658 F. 3d 1282, 1315 (CA11 2011).1
+  Plaintiffs allege here that between 2006 and 2010, Gold-
+man maintained an inflated stock price by making repeated
+misrepresentations about its conflict-of-interest policies
+and business practices. The alleged misrepresentations are
+generic statements from Goldman’s SEC filings and annual
+reports, including the following:
+     “We have extensive procedures and controls that are
+       designed to identify and address conflicts of inter-
+       est.” App. 216 (emphasis and boldface deleted).
+     “Our clients’ interests always come first.” Id., at 162
+       (same).
+     “Integrity and honesty are at the heart of our busi-
+       ness.” Id., at 163 (same).
+According to Plaintiffs, these statements were false or mis-
+leading—and caused Goldman’s stock to trade at artificially
+inflated levels—because Goldman had in fact engaged in
+several allegedly conflicted transactions without disclosing
+the conflicts. Plaintiffs further allege that once the market
+learned the truth about Goldman’s conflicts from a Govern-
+ment enforcement action and subsequent news reports, the
+inflation in Goldman’s stock price dissipated, causing the
+price to drop and shareholders to suffer losses.
+  After Goldman unsuccessfully moved to dismiss the case,
+Plaintiffs moved to certify the class, invoking the Basic pre-
+sumption. In response, Goldman sought to rebut the Basic
+presumption by proving a lack of price impact. Both parties
+submitted extensive expert testimony on the issue.
+  The District Court certified the class, but the Second Cir-
+cuit authorized a Rule 23(f ) appeal and vacated the class-
+
+——————
+   1 Although some Courts of Appeals have approved the inflation-
+
+maintenance theory, this Court has expressed no view on its validity or
+its contours. We need not and do not do so in this case.
+6   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                  Opinion of the Court
+
+certification order. 879 F. 3d 474 (2018). The Second Cir-
+cuit held that Goldman, as the defendant, bears the burden
+of persuasion to prove a lack of price impact by a prepon-
+derance of the evidence. But it concluded that the District
+Court erred by holding Goldman to a higher burden of proof
+and by refusing to consider some of Goldman’s price impact
+evidence.
+   On remand, the District Court certified the class again,
+finding that Goldman’s expert testimony failed to establish
+by a preponderance of the evidence that its alleged misrep-
+resentations had no price impact. The Second Circuit again
+authorized a Rule 23(f ) appeal and this time affirmed in a
+divided decision. 955 F. 3d 254 (2020). As relevant here,
+the Court of Appeals held that the District Court’s price im-
+pact determination was not an abuse of discretion. In dis-
+sent, Judge Sullivan concluded that “the generic quality of
+Goldman’s alleged misstatements, coupled with” Goldman’s
+expert testimony, compelled the conclusion that Goldman
+proved a lack of price impact. Id., at 278–279.
+   We granted certiorari. 592 U. S. ___ (2020).
+                             II
+  Goldman argues that the Second Circuit erred in two re-
+spects: first, by concluding that the generic nature of al-
+leged misrepresentations is irrelevant to the price impact
+question; and second, by placing the burden of persuasion
+on Goldman to prove a lack of price impact. We address
+these arguments in turn.
+                              A
+                              1
+  On the first question—whether the generic nature of a
+misrepresentation is relevant to price impact—the parties’
+dispute has largely evaporated. Plaintiffs now concede that
+the generic nature of an alleged misrepresentation often
+will be important evidence of price impact because, as a rule
+                     Cite as: 594 U. S. ____ (2021)                     7
+
+                          Opinion of the Court
+
+of thumb, “a more-general statement will affect a security’s
+price less than a more-specific statement on the same ques-
+tion.” Brief for Respondents 15; see Tr. of Oral Arg. 6–7, 59,
+79. The parties further agree that courts may consider ex-
+pert testimony and use their common sense in assessing
+whether a generic misrepresentation had a price impact.
+See Tr. of Oral Arg. 12, 64. And they likewise agree that
+courts may assess the generic nature of a misrepresentation
+at class certification even though it also may be relevant to
+materiality, which Amgen reserves for the merits. See id.,
+at 23, 65.
+   We share the parties’ view. In assessing price impact at
+class certification, courts “ ‘should be open to all probative
+evidence on that question—qualitative as well as quantita-
+tive—aided by a good dose of common sense.’ ” In re Allstate
+Corp. Securities Litig., 966 F. 3d 595, 613, n. 6 (CA7 2020)
+(quoting Langevoort, Judgment Day for Fraud-on-the-Mar-
+ket: Reflection on Amgen and the Second Coming of Halli-
+burton, 57 Ariz. L. Rev. 37, 56 (2015); emphasis added).
+That is so regardless whether the evidence is also relevant
+to a merits question like materiality. As we have repeat-
+edly explained, a court has an obligation before certifying a
+class to “determin[e] that Rule 23 is satisfied, even when
+that requires inquiry into the merits.” Comcast Corp. v.
+Behrend, 569 U. S. 27, 35 (2013); see Wal-Mart Stores, Inc.
+v. Dukes, 564 U. S. 338, 351, and n. 6 (2011). And under
+Halliburton II, a court cannot conclude that Rule 23’s re-
+quirements are satisfied without considering all evidence
+relevant to price impact. See 573 U. S., at 284.2
+——————
+  2 We recognize that materiality and price impact are overlapping con-
+
+cepts and that the evidence relevant to one will almost always be rele-
+vant to the other. But “a district court may not use the overlap to refuse
+to consider the evidence.” In re Allstate, 966 F. 3d, at 608. Instead, the
+district court must use the evidence to decide the price impact issue
+“while resisting the temptation to draw what may be obvious inferences
+for the closely related issues that must be left for the merits, including
+8    GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                 RETIREMENT SYSTEM
+                   Opinion of the Court
+
+   The generic nature of a misrepresentation often will be
+important evidence of a lack of price impact, particularly in
+cases proceeding under the inflation-maintenance theory.
+Under that theory, price impact is the amount of price in-
+flation maintained by an alleged misrepresentation—in
+other words, the amount that the stock’s price would have
+fallen “without the false statement.” Glickenhaus & Co. v.
+Household Int’l, Inc., 787 F. 3d 408, 415 (CA7 2020). Plain-
+tiffs typically try to prove the amount of inflation indirectly:
+They point to a negative disclosure about a company and an
+associated drop in its stock price; allege that the disclosure
+corrected an earlier misrepresentation; and then claim that
+the price drop is equal to the amount of inflation main-
+tained by the earlier misrepresentation. See, e.g., id., at
+413–417; In re Vivendi, S. A. Securities Litig., 838 F. 3d
+223, 233–237, 253–259 (CA2 2016).
+   But that final inference—that the back-end price drop
+equals front-end inflation—starts to break down when
+there is a mismatch between the contents of the misrepre-
+sentation and the corrective disclosure. That may occur
+when the earlier misrepresentation is generic (e.g., “we
+have faith in our business model”) and the later corrective
+disclosure is specific (e.g., “our fourth quarter earnings did
+not meet expectations”). Under those circumstances, it is
+less likely that the specific disclosure actually corrected the
+generic misrepresentation, which means that there is less
+reason to infer front-end price inflation—that is, price im-
+pact—from the back-end price drop.
+                             2
+  The parties do not dispute any of this. They disagree only
+about whether the Second Circuit properly considered the
+generic nature of Goldman’s alleged misrepresentations.
+
+
+——————
+materiality.” Id., at 609.
+                     Cite as: 594 U. S. ____ (2021)                    9
+
+                          Opinion of the Court
+
+Because the Second Circuit’s opinions leave us with suffi-
+cient doubt on this score, we remand for further considera-
+tion.3 On remand, the Second Circuit must take into ac-
+count all record evidence relevant to price impact,
+regardless whether that evidence overlaps with materiality
+or any other merits issue.
+                           B
+  Goldman also argues that the Second Circuit erred by re-
+quiring Goldman, rather than Plaintiffs, to bear the burden
+of persuasion on price impact at class certification. Gold-
+man relies exclusively on Federal Rule of Evidence 301,
+which provides in full:
+        “In a civil case, unless a federal statute or these rules
+     provide otherwise, the party against whom a presump-
+     tion is directed has the burden of producing evidence to
+     rebut the presumption. But this rule does not shift the
+     burden of persuasion, which remains on the party who
+     had it originally.”
+According to Goldman, Rule 301 applies to the Basic pre-
+sumption at class certification, and, as a result, a plaintiff ’s
+satisfaction of the Basic prerequisites shifts only the bur-
+den of production to the defendant. Once a defendant dis-
+charges that burden by producing any competent evidence
+of a lack of price impact, Goldman says, the Basic presump-
+tion is rebutted and the plaintiff must carry the burden of
+persuasion to show price impact.
+
+——————
+  3 Compare 955 F. 3d 254, 268 (2020) (“Whether alleged misstatements
+
+are too general to demonstrate price impact has nothing to do with the
+issue of whether common questions predominate over individual ones”
+(emphasis added)); id., at 270 (“The inflation-maintenance theory does
+not discriminate between general and specific misstatements”), with 879
+F. 3d 474, 485–486 (2018) (correctly requiring the District Court to con-
+sider Goldman’s price impact evidence notwithstanding overlap with ma-
+teriality).
+10   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                 RETIREMENT SYSTEM
+                   Opinion of the Court
+
+   We disagree. We have held that Rule 301 “in no way re-
+stricts the authority of a court . . . to change the customary
+burdens of persuasion” pursuant to a federal statute.
+NLRB v. Transportation Management Corp., 462 U. S. 393,
+404, n. 7 (1983). And we have at times exercised that au-
+thority to reassign the burden of persuasion to the defend-
+ant upon a prima facie showing by the plaintiff. See, e.g.,
+Teamsters v. United States, 431 U. S. 324, 359, and n. 45
+(1977); Franks v. Bowman Transp. Co., 424 U. S. 747, 772–
+773 (1976).
+   Goldman does not ask us to revisit these precedents. So
+the threshold question here is not whether we have the au-
+thority to assign defendants the burden of persuasion to
+prove a lack of price impact, but instead whether we already
+exercised that authority in establishing the Basic frame-
+work pursuant to the securities laws. We conclude that
+Basic and Halliburton II did just that.
+   Basic held that defendants may rebut the presumption of
+reliance if they “show that the misrepresentation in fact did
+not lead to a distortion of price.” 485 U. S., at 248 (empha-
+sis added). To do so, Basic said, defendants may make
+“[a]ny showing that severs the link between the alleged mis-
+representation and . . . the price received (or paid) by the
+plaintiff.” Ibid. (emphasis added). Similarly, Halliburton
+II held that defendants may rebut the Basic presumption
+at class certification “by showing . . . that the particular
+misrepresentation at issue did not affect the stock’s market
+price.” 573 U. S., at 279 (emphasis added).
+   Goldman and JUSTICE GORSUCH argue that these refer-
+ences to a defendant’s “showing” refer to the defendant’s
+burden of production. Post, at 6–8 (dissenting opinion)
+(hereinafter the dissent). On this reading, Basic and Halli-
+burton II require a defendant merely to offer “evidence that,
+if believed, would support a finding” of a lack of price im-
+pact. Post, at 5. But Basic and Halliburton II plainly re-
+quire more: The defendant must “in fact” “seve[r] the link”
+                      Cite as: 594 U. S. ____ (2021)                    11
+
+                          Opinion of the Court
+
+between a misrepresentation and the price paid by the
+plaintiff—and a defendant’s mere production of some evi-
+dence relevant to price impact would rarely accomplish that
+feat.4
+   Accepting Goldman and the dissent’s argument would
+also effectively negate Halliburton II’s holding that plain-
+tiffs need not directly prove price impact in order to invoke
+the Basic presumption. 573 U. S., at 278–279. If, as they
+urge, the defendant could defeat Basic’s presumption by in-
+troducing any competent evidence of a lack of price im-
+pact—including, for example, the generic nature of the al-
+leged misrepresentations—then the plaintiff would end up
+with the burden of directly proving price impact in almost
+every case. And that would be nearly indistinguishable
+from the regime that Halliburton II rejected.
+   Thus, the best reading of our precedents—as the Courts
+of Appeals to have considered the issue have recognized—
+is that the defendant bears the burden of persuasion to
+prove a lack of price impact. See Waggoner v. Barclays
+PLC, 875 F. 3d 79, 99–104 (CA2 2017) (“the phrase ‘[a]ny
+showing that severs the link’ aligns more logically with im-
+posing a burden of persuasion rather than a burden of pro-
+duction”); In re Allstate, 966 F. 3d, at 610–611 (“Basic said
+that ‘[a]ny showing that severs the link’ would be sufficient
+to rebut the presumption, not that mere production of evi-
+dence would defeat the presumption” (citation omitted)).
+We likewise agree with the Courts of Appeals that the de-
+fendant must carry that burden by a preponderance of the
+evidence. See Waggoner, 875 F. 3d, at 99; In re Allstate, 966
+F. 3d, at 610.
+   Although the defendant bears the burden of persuasion,
+
+
+——————
+  4 The dissent points out that, as a general rule, presumptions shift only
+
+the burden of production. Post, at 2–4. We don’t disagree, but we read
+Basic and Halliburton II as a clear departure from that general rule.
+12   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                 RETIREMENT SYSTEM
+                   Opinion of the Court
+
+the allocation of the burden is unlikely to make much dif-
+ference on the ground. In most securities-fraud class ac-
+tions, as in this one, the plaintiffs and defendants submit
+competing expert evidence on price impact. The district
+court’s task is simply to assess all the evidence of price im-
+pact—direct and indirect—and determine whether it is
+more likely than not that the alleged misrepresentations
+had a price impact. The defendant’s burden of persuasion
+will have bite only when the court finds the evidence in eq-
+uipoise—a situation that should rarely arise. Cf. Medina v.
+California, 505 U. S. 437, 449 (1992) (preponderance of the
+evidence burden matters “only in a narrow class of cases
+where the evidence is in equipoise”).
+                         *    *    *
+   The Second Circuit correctly placed the burden of proving
+a lack of price impact on Goldman. But because it is unclear
+whether the Second Circuit properly considered the generic
+nature of Goldman’s alleged misrepresentations in review-
+ing the District Court’s price impact determination, we va-
+cate the judgment of the Second Circuit and remand the
+case for further proceedings consistent with this opinion.
+
+                                             It is so ordered.
+                   Cite as: 594 U. S. ____ (2021)                 1
+
+      SOTOMAYOR, J., Opinion
+                     concurring
+                             of SinOTOMAYOR
+                                    part and,dissenting
+                                             J.         in part
+
+SUPREME COURT OF THE UNITED STATES
+                            _________________
+
+                            No. 20–222
+                            _________________
+
+
+        GOLDMAN SACHS GROUP, INC., ET AL.,
+        PETITIONERS v. ARKANSAS TEACHER
+            RETIREMENT SYSTEM, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+           APPEALS FOR THE SECOND CIRCUIT
+                          [June 21, 2021]
+
+  JUSTICE SOTOMAYOR, concurring in part and dissenting
+in part.
+  I agree with the Court’s answers to the questions pre-
+sented, and I accordingly join Parts I, II–A–1, and II–B of
+the Court’s opinion. Under Basic Inc. v. Levinson, 485 U. S.
+224 (1988), securities plaintiffs may demonstrate reliance
+by invoking the rebuttable presumption that investors rely
+on any misrepresentations reflected in a security’s market
+price. Id., at 241–247. The Basic presumption is particu-
+larly useful to class-action plaintiffs who, without the pre-
+sumption, ordinarily could not demonstrate that questions
+common to the class predominate over individual ones.
+Ante, at 3–4. Defendants, for their part, may rebut the
+Basic presumption by demonstrating that the alleged mis-
+representations did not in fact affect the security’s price.
+Ante, at 3. So-called “price impact” may be disproved with
+a variety of evidence, alone or in combination. As the Court
+holds today, one potentially relevant piece of evidence may
+be the “generic nature” of the misrepresentation. Ante, at
+6–8.
+  I do not, however, join the Court’s judgment to vacate and
+remand because I believe the Second Circuit “properly con-
+sidered the generic nature of Goldman’s alleged misrepre-
+2   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                     RETIREMENT SYSTEM
+      SOTOMAYOR, J., Opinion
+                     concurring
+                             of SinOTOMAYOR
+                                    part and,dissenting
+                                             J.         in part
+
+sentations.” Ante, at 8. On appeal, Goldman did not con-
+tend that the District Court improperly refused to consider
+the generic nature of the alleged misstatements as evidence
+of price impact (or lack thereof ). Instead, Goldman argued
+that “general statements, like those challenged here, are in-
+capable of impacting a company’s stock price as a matter of
+law” because they are “ ‘too general to cause a reasonable
+investor to rely upon them.’ ” Brief for Appellants in
+No. 18–3667 (CA2), pp. 43, 46. Goldman reasoned that “the
+challenged statements are incapable of maintaining infla-
+tion in a stock price for the same reasons that those state-
+ments are immaterial as a matter of law (as well as fact).”
+Id., at 48.
+   The Second Circuit properly rejected Goldman’s argu-
+ment. The court explained that although “Goldman is not
+formally asking for a materiality test,” its proposed rule
+would “essentially requir[e] courts to ask” at the class-
+certification stage “whether the alleged misstatements are,
+in Goldman’s words, ‘immaterial as a matter of law.’ ” 955
+F. 3d 254, 267 (2020). But “materiality is irrelevant at the
+Rule 23 stage.” Id., at 268 (citing Amgen Inc. v. Connecticut
+Retirement Plans and Trust Funds, 568 U. S. 455, 468
+(2013)). “If general statements cannot maintain price infla-
+tion because no reasonable investor would have relied on
+them, then the question of inactionable generality is com-
+mon to the class.” 955 F. 3d, at 268.
+   In declining to adopt Goldman’s proposed rule that ge-
+neric misstatements cannot have a price impact (as a mat-
+ter of law), the Second Circuit nowhere held that the ge-
+neric nature of an alleged misstatement could not serve as
+evidence of price impact (as a matter of fact). Nor did the
+Second Circuit refuse to consider such evidence in affirming
+the District Court’s finding that Goldman failed to rebut the
+Basic presumption. The Court nevertheless reads a hand-
+ful of sentences in the Second Circuit’s opinion to create
+                     Cite as: 594 U. S. ____ (2021)                     3
+
+       SOTOMAYOR, J., Opinion
+                      concurring
+                              of SinOTOMAYOR
+                                     part and,dissenting
+                                              J.         in part
+
+“doubt” over whether the Court of Appeals refused to con-
+sider “all record evidence relevant to price impact.” Ante,
+at 9; see also ante, at 9, n. 3. But such statements must be
+viewed in the context of Goldman’s now-abandoned argu-
+ment that generic misrepresentations have no price impact
+as a matter of law. Take, for example, the Second Circuit’s
+statement that “[w]hether alleged misstatements are too
+general to demonstrate price impact has nothing to do with
+the issue of whether common questions predominate over
+individual ones.” 955 F. 3d, at 268. Fairly read in light of
+Goldman’s appellate briefing, that sentence addresses only
+Goldman’s argument that general statements are always
+per se irrelevant. That is why the Second Circuit observed
+several sentences later that “Goldman’s test is materiality
+by another name.” Ibid. At the same time, the court was
+careful to emphasize that defendants “may attempt to dis-
+prove [price impact] at class certification” even though the
+inquiry “resembles materiality.”* Id., at 267.
+   In short, the Second Circuit did not address whether the
+generic nature of a misstatement may be used as evidence
+to disprove price impact for a simple reason: Goldman iden-
+tified no error in the District Court’s treatment of such evi-
+dence. Goldman did not press the argument in the Second
+Circuit that it now urges here, and the Second Circuit did
+not reject the proposition that this Court now adopts. Thus,
+the argument Goldman seeks to press on remand is unpre-
+
+——————
+  *Indeed, in a prior appeal in this case, an earlier Second Circuit panel
+vacated an order of the District Court in part because it had refused to
+consider price-impact evidence that overlapped with materiality. See
+879 F. 3d 474, 486 (2018) (holding that “[a]lthough price impact touches
+on materiality, which is not an appropriate consideration at the class
+certification stage,” courts nonetheless must consider evidence regarding
+“[w]hether a misrepresentation was reflected in the market price at the
+time of the transaction”). It is hard to imagine that the Second Circuit
+here was unaware of (or intended to depart from) the prior panel’s hold-
+ing.
+4   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                     RETIREMENT SYSTEM
+      SOTOMAYOR, J., Opinion
+                     concurring
+                             of SinOTOMAYOR
+                                    part and,dissenting
+                                             J.         in part
+
+served, and nothing in the Second Circuit’s opinion mis-
+states the law. Because affirmance is appropriate under
+these circumstances, I respectfully dissent from Part II–A–
+2 of the Court’s opinion and from the judgment of the Court.
+                  Cite as: 594 U. S. ____ (2021)            1
+
+                     G
+                     Opinion , J.,
+                       ORSUCHof    dissenting
+                                GORSUCH   , J.
+
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+
+                           No. 20–222
+                           _________________
+
+
+        GOLDMAN SACHS GROUP, INC., ET AL.,
+        PETITIONERS v. ARKANSAS TEACHER
+            RETIREMENT SYSTEM, ET AL.
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+           APPEALS FOR THE SECOND CIRCUIT
+                         [June 21, 2021]
+
+   JUSTICE GORSUCH, with whom JUSTICE THOMAS and
+JUSTICE ALITO join, concurring in part and dissenting in
+part.
+   I join all but Part II–B of the Court’s opinion. There, the
+Court holds that the defendant, rather than the plaintiff,
+“bear[s] the burden of persuasion on price impact.” Ante, at
+9. Respectfully, I disagree.
+   We start from common ground. Basic Inc. v. Levinson,
+485 U. S. 224, 245–247 (1988), sought to import fraud on
+the market theory from economics into securities litigation.
+In doing so, Basic posited two things—first, in an efficient
+market a company’s stock price generally reflects any pub-
+lic and material information about the company; second, in-
+vestors generally rely on a company’s stock price as an in-
+dicator of the firm’s true value. Ibid. Given these economic
+assumptions, the Court held that securities fraud plaintiffs
+can presumptively meet their burden of proving reliance on
+an alleged misrepresentation by proving four things: (1)
+the defendant’s alleged misrepresentation was publicly
+known; (2) it was material; (3) the stock traded in an effi-
+cient market; and (4) the plaintiff purchased the stock at
+the market price between the time the misrepresentation
+was made and the truth was revealed. See Halliburton Co.
+v. Erica P. John Fund, Inc., 573 U. S. 258, 277–278 (2014)
+2   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                 Opinion of GORSUCH, J.
+
+(Halliburton II).
+   The presumption of reliance not only helps a plaintiff
+prove one of the essential elements of a securities fraud
+claim. Certain class actions require that “questions of law
+or fact common to class members predominate over any
+questions affecting only individual members.” Fed. Rule
+Civ. Proc. 23(b)(3). So to the extent a court is able to pre-
+sume reliance by everyone who purchased an affected stock,
+Basic can help avoid individualized questions that other-
+wise might stand in the way of proceeding with a securities
+fraud action on a classwide basis. Erica P. John Fund, Inc.
+v. Halliburton Co., 563 U. S. 804, 809–811 (2011) (Hallibur-
+ton I).
+   At the same time, Basic’s presumption of reliance has
+only ever been just that. Everyone accepts that, if a defend-
+ant undermines one of the assumptions on which it rests,
+the presumption dissipates. So, for example, if the defend-
+ant’s alleged misrepresentation did not actually affect the
+market price, there can be no ground for presuming anyone
+relied on that misrepresentation when purchasing the
+stock. Halliburton II, 573 U. S., at 279. Similarly, if a par-
+ticular plaintiff did not care about the integrity of the mar-
+ket price when purchasing a stock, there is no basis for pre-
+suming that individual’s reliance. Id., at 276.
+   Before us, the only meaningful dispute concerns what
+burden a defendant bears when it comes to rebutting the
+Basic presumption. Does the defendant carry only a burden
+of production, or does the defendant sometimes carry a bur-
+den of persuasion? In my view, only a burden of production
+is involved.
+   Start with what we have said about presumptions like
+Basic’s. This Court has long recognized that a “ ‘ “presump-
+tion” properly used refers only to a device for allocating the
+production burden.’ ” Texas Dept. of Community Affairs v.
+Burdine, 450 U. S. 248, 255, n. 8 (1981). Throughout the
+law, courts have sometimes created presumptions to help
+                  Cite as: 594 U. S. ____ (2021)             3
+
+                     Opinion of GORSUCH, J.
+
+plaintiffs prove their cases when direct evidence can be
+hard to come by. See Basic, 485 U. S., at 245. These pre-
+sumptions operate by allowing the plaintiff to prove only
+certain specified “predicate fact[s]” at the outset. St. Mary’s
+Honor Center v. Hicks, 509 U. S. 502, 506 (1993). If the
+plaintiff does so, an inference or “presumption” arises that
+the plaintiff has met its burden of persuasion, at least “in
+the absence” of some competing “explanation.” Ibid. (inter-
+nal quotation marks omitted). At that point, the defendant
+bears a burden of production to present evidence that, if
+“taken as true,” would “permit the conclusion” that the pre-
+sumption in the plaintiff ’s favor is mistaken. Id., at 509
+(emphasis deleted). If the defendant produces such evi-
+dence, the presumption “drops from the case.” Id., at 507
+(internal quotation marks omitted). “[T]he trier of fact”
+then “proceeds to decide the ultimate question.” Id., at 511.
+Throughout this whole back-and-forth process, the burden
+of persuasion never shifts: The “plaintiff at all times bears
+the ultimate burden of persuasion” to prove all aspects of
+its cause of action. Ibid. (internal quotation marks omit-
+ted).
+   The Court has explained that nearly “all presumptions”
+operate in this way. Id., at 507. The Federal Rules of Evi-
+dence confirm the point too. Rule 301, titled “Presumptions
+in Civil Cases Generally,” provides that “the party against
+whom a presumption is directed has the burden of produc-
+ing evidence to rebut the presumption,” but “the burden of
+persuasion . . . remains on the party who had it originally.”
+Again, a burden of production may shift to the defendant,
+but never the burden of persuasion.
+   Title VII practice offers a familiar illustration of these
+principles. There, the plaintiff bears the ultimate burden
+of proving that his employer intentionally discriminated
+against him because of his race or some other unlawful fac-
+tor. See St. Mary’s Honor Center, 509 U. S., at 511. But
+because direct evidence of intentional discrimination can be
+4   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                 Opinion of GORSUCH, J.
+
+“elusive,” the Court has created a presumption. See id., at
+506 (internal quotation marks omitted). If a plaintiff proves
+certain “predicate fact[s]”—for example, that he is black,
+that he was fired from a job for which he was qualified, and
+that the job remained open and was ultimately filled by a
+white person—an inference or presumption of intentional
+discrimination arises. Ibid. At that point, the defendant
+bears the burden of producing evidence that, if accepted as
+true, shows it fired the plaintiff for only legitimate business
+reasons. Id., at 506–507. Should that happen, the pre-
+sumption of intentional discrimination disappears and the
+trier of fact must weigh the parties’ competing proof. Id., at
+510–511. None of that means the plaintiff ’s indirect evi-
+dence of discrimination also disappears. It simply means
+the trier of fact must consider any inferences arising from
+that indirect evidence while also considering the defend-
+ant’s evidence and any other proof the plaintiff submits.
+See id., at 511. “[A]t all times” throughout the litigation,
+however, the plaintiff bears the “ultimate burden of per-
+suading the trier of fact that he has been the victim of in-
+tentional discrimination.” Id., at 507–508 (brackets and in-
+ternal quotation marks omitted).
+   Since the Court first started tangling with the fraud on
+the market theory in Basic, it has followed these traditional
+rules. Consistently, our decisions have “made clear” that
+Basic’s “presumption” of reliance is “just that.” Halliburton
+I, 563 U. S., at 811. Much as the Court said it created the
+Title VII presumption to help prove the “elusive” question
+of intentional discrimination, Basic said it created its pre-
+sumption of reliance to relieve “an unnecessarily unrealis-
+tic evidentiary burden” on securities fraud plaintiffs. 485
+U. S., at 245. And when creating its presumption Basic ex-
+pressly cited Rule 301. Ibid.
+   The process Basic outlined matches traditional under-
+standings too. The Court explained that a plaintiff ’s ability
+to prove certain “threshold facts”—about market operations
+                  Cite as: 594 U. S. ____ (2021)              5
+
+                     Opinion of GORSUCH, J.
+
+and the publicity of the misstatement—gives rise to a “pre-
+sumption” of reliance. See id., at 248, and n. 27. After such
+a showing, the Court continued, a defendant may then pro-
+ceed to “rebut the presumption.” Id., at 248. Nowhere in
+any of this did Basic suggest the order of operations govern-
+ing its presumption should differ in any way from those gov-
+erning others commonly found in the law and subject to
+Rule 301. Nor is there any doubt which party has the bur-
+den of persuasion on the question of reliance in securities
+fraud cases like ours. From start to finish, the plaintiff has
+the burden to satisfy that essential element of its claim.
+Basic’s presumption of reliance thus “does not shift” any
+burden of persuasion—that always “remains” with the
+plaintiff. Fed. Rule Evid. 301; see also St. Mary’s Honor
+Center, 509 U. S., at 506–508.
+   Consider how all this works in routine securities fraud
+cases. Once a plaintiff proves the four “predicate facts”
+Basic specified, see supra, at 1, a presumption of reliance
+attaches. At that point, the defendant bears the burden of
+producing evidence that, if believed, would support a find-
+ing that the plaintiff did not actually rely on its alleged mis-
+representation. As we have seen, a defendant might do so
+by producing evidence suggesting that its alleged misrepre-
+sentation did not have an impact on market price or that
+the plaintiff was indifferent to the alleged misrepresenta-
+tion. Upon such a showing, the presumption of reliance
+drops from the case and the trier of fact must decide the
+question of reliance vel non, cognizant of the fact the plain-
+tiff bears the burden of proving reliance like any other es-
+sential elements of its claim. Again, that does not mean the
+plaintiff ’s indirect proof disappears. A court may still infer
+from the Basic predicates that a particular misstatement
+was incorporated into the stock price and that the plaintiff
+relied on the integrity of that price. Both sides are free to
+present additional proof too. It’s simply that a court no
+longer must find reliance. See St. Mary’s Honor Center, 509
+6   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                 Opinion of GORSUCH, J.
+
+U. S., at 511.
+   The Court disputes none of this. It does not even try to
+defend on the merits its unusual suggestion that the de-
+fendant carries some burden of persuasion in a plaintiff ’s
+claim for securities fraud. Instead, the Court contends only
+that precedent ties our hands.
+   Primarily, the Court points to a single clause in a single
+sentence in Basic observing that a defendant may rebut the
+presumption of reliance with “[a]ny showing that severs the
+link between the alleged misrepresentation” and the stock
+price. See ante, at 10 (quoting Basic, 485 U. S., at 248) (em-
+phasis deleted). The Court then splices that clause together
+with another clause in a preceding sentence explaining
+that, before Basic, lower courts had said a defendant rebuts
+the fraud on the market presumption by showing “that the
+misrepresentation in fact did not lead to a distortion of
+price.” Ante, at 10 (quoting Basic, 485 U. S., at 248; empha-
+sis deleted).
+   But what does this prove? Surely this language confirms
+an important and by now familiar point: Once a defendant
+produces evidence that, if believed, shows that fraud on the
+market theory does not hold in its particular case because
+its alleged misrepresentation in fact failed to affect the
+stock price, the presumption of reliance drops away. On the
+Court’s reading today, however, this language doesn’t just
+carry that obvious meaning. We are told it also must mean
+that Basic intended to shift the “burden of persuasion” with
+respect to “price impact” to the defendant—at least “at class
+certification”—because the “mere production of some evi-
+dence relevant to price impact would rarely accomplish
+th[e] feat” of “in fact” “ sever[ing] the link between a misrep-
+resentation and the price paid” for the stock. Ante, at 10–
+11 (internal quotation marks omitted; emphasis deleted).
+   That much does not follow. Not only has this Court often
+said it is a mistake to parse terms in a judicial opinion with
+the kind of punctilious exactitude due statutory language.
+                  Cite as: 594 U. S. ____ (2021)            7
+
+                     Opinion of GORSUCH, J.
+
+See Reiter v. Sonotone Corp., 442 U. S. 330, 341 (1979).
+Even read for all they are worth, the handful of words on
+which the Court rests its entire holding today—a “showing”
+that “in fact” “sever[s] the link”—cannot begin to carry the
+weight the Court assigns them. See ante, at 10 (emphasis
+deleted). These terms do not even appear together in Basic:
+The Court has to pluck the phrase “in fact” from one sen-
+tence and the phrase “[a] showing that severs the link” from
+another, and then combine them to create a new clause that
+appears nowhere in the U. S. Reports—a “showing” that “in
+fact sever[s] the link.” Ante, at 10 (internal quotation
+marks omitted). Even then, the Court’s newly handcrafted
+phrase does not so much as mention the terms “burden of
+persuasion” or “price impact.”
+   The hard truth is that in the 30-plus years since Basic
+this Court has never (before) suggested that plaintiffs are
+relieved from carrying the burden of persuasion on any as-
+pect of their own causes of action. To the contrary, when
+discussing the presumption it created, Basic expressly ref-
+erenced Rule 301 and invoked its normal order of opera-
+tions. And this Court has long explained that presumptions
+“properly used” refer only to devices “for allocating the pro-
+duction burden,” and not the burden of persuasion. Bur-
+dine, 450 U. S., at 255, n. 8 (internal quotation marks omit-
+ted). Are we really to believe that Basic—while referencing
+traditional understandings embodied in Rule 301 and just
+seven years after Burdine—secretly meant to depart from
+traditional and “proper” understandings about how pre-
+sumptions work? Thanks to spliced clauses found in two
+sentences this Court has never before read that way? All
+while using words that carry another and much more natu-
+ral meaning? To state the theory is to refute it.
+   If Basic doesn’t command today’s result, the Court offers
+a backup theory. Separately, it insists, Halliburton II re-
+quires us to shift a burden of persuasion to the defendant.
+Specifically, the Court points to the fact that Halliburton II
+8   GOLDMAN SACHS GROUP, INC. v. ARKANSAS TEACHER
+                RETIREMENT SYSTEM
+                 Opinion of GORSUCH, J.
+
+reaffirmed Basic’s holding that a plaintiff need not show re-
+liance “directly,” but may do so “presumptively” by carrying
+the burden of proving the four Basic factual predicates. 573
+U. S., at 278. A decision holding that the defendant merely
+bore the burden of producing evidence suggesting a lack of
+price impact at class certification, the Court now submits,
+“would be nearly indistinguishable from the regime that
+Halliburton II rejected.” Ante, at 11.
+   That much does not follow either. Like Basic, Hallibur-
+ton II concerned what facts a plaintiff must produce to gen-
+erate a presumption of reliance. This case is about what
+defendants must do to rebut that presumption. Deciding
+one does not resolve the other. To say these issues are “in-
+distinguishable” is to miss the entire point of a presump-
+tion: It allows the plaintiff to state a prima facie case based
+on inference and requires the defendant to bear the burden
+of producing evidence in response; once the defendant does
+so, the presumption has served its purpose and drops from
+the case. At that point, the factfinder now has the benefit
+of evidence from both sides and must decide the case with
+reference to the plaintiff ’s burden of persuasion. Nothing
+in Halliburton II suggests a departure from these princi-
+ples, let alone that some burden of persuasion secretly
+shifts to the defendant in a plaintiff ’s claim for securities
+fraud. To the contrary, that decision arose in the class cer-
+tification context and expressly reaffirmed that “[t]he Basic
+presumption does not relieve plaintiffs of the burden of
+proving” they have satisfied “the predominance require-
+ment of Rule 23(b)(3).” 573 U. S., at 276.
+   The Court has no answer to any of this. Instead, it replies
+only by touting the fact that two Court of Appeals decisions
+have read Basic and Halliburton II as it does. Ante, at 11.
+But this is a non sequitur. The Court does not suggest that
+a pair of lower court opinions represents some robust judi-
+cial consensus. Nor does the Court suggest those opinions
+free us from having to interpret the law for ourselves. After
+                   Cite as: 594 U. S. ____ (2021)               9
+
+                      Opinion of GORSUCH, J.
+
+all, “[o]ur duty is to follow the law as we find it, not to follow
+rotely whatever lower courts might once have said about it.”
+BP p.l.c. v. Mayor and City Council of Baltimore, 593 U. S.
+___, ___–___ (2021) (slip op., at 11–12). The fact remains
+that nothing in our prior decisions has ever placed a burden
+of persuasion on the defendant with respect to any aspect
+of the plaintiff ’s case. It is incumbent on the plaintiff to
+prove reliance, not the defendant to disprove it. If a major-
+ity of the Court today really believes some novel new bur-
+den of persuasion should be placed on the defendant, it
+ought to say so. Past decisions—by this Court or others—
+cannot be blamed for today’s result.
+   Perhaps recognizing the incongruity of its conclusion, the
+Court goes out of its way to downplay its significance. We’re
+told that “on the ground” today’s holding “is unlikely to
+make much difference” because “[i]n most securities-fraud
+class actions . . . the plaintiffs and defendants submit com-
+peting expert evidence on price impact.” Ante, at 12. And
+in cases like these, “[t]he district court’s task,” according to
+the Court, “is simply to assess all the evidence of price im-
+pact” and “determine whether it is more likely than not that
+the alleged misrepresentations had a price impact.” Ibid.
+   This is a curious disavowal. Obviously, the Court thinks
+the issue important enough to spend the time and effort to
+rejigger the burden of persuasion. Now, though, it says
+none of this matters because most cases come down to a dis-
+pute over evidence of price impact irrespective of the pre-
+sumption. The Court’s suggestion that the burden of per-
+suasion will “rarely” make a “difference” misses the point
+too. The whole reason we allocate the burden of persuasion
+is to resolve close cases by providing a tie breaker where the
+burden does make a difference. That close cases may not be
+common ones is no justification for indifference about how
+the law resolves them.
+   Respectfully, I dissent.
+

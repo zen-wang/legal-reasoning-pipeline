@@ -1,0 +1,412 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                            SAN JOSE DIVISION                            
+7                                                                         
+8    IN RE                            Case No.   5:18-cv-01725-EJD        
+     FACEBOOK, INC. SECURITIES                                            
+9    LITIGATION                       ORDER GRANTING DEFENDANTS’          
+                                      MOTION TO DISMISS THIRD             
+10                                     AMENDED COMPLAINT WITHOUT           
+                                      LEAVE TO AMEND                      
+11                                                                         
+                                      Re: Dkt. No. 145                    
+12                                                                         
+
+13        Before the Court is Defendants’ motion to dismiss Plaintiffs’ third amended complaint.  
+14   Plaintiffs are person who purchased shares of Facebook common stock between February 3, 2017 
+15   and July 25, 2018 (“the Class Period”), who believe that Defendant Facebook, Inc. and Executive 
+16   Defendants Mark Zuckerberg, Sheryl K. Sandberg, and David W. Wehner made materially false 
+17   and misleading statements and omissions in connection with the purchase and sale of Facebook 
+18   stock.  See Third Amended Complaint (“TAC”) ¶ 1, Dkt. No. 142.  Plaintiffs allege that 
+19   Defendants violated Section 10(b), 20(a), and 20A of the Securities Exchange Act of 1934 (the 
+20   “Exchange Act”) and Rule 10b5 promulgated thereunder because Defendants made guarantees 
+21   that users had control over the sharing of their user data, while knowing that to not be true because 
+22   of the Cambridge Analytica data breach and the practice of “whitelisting” certain applications.  
+23   TAC ¶ 1 (focusing on Defendants’ statements and omissions concerning Facebook’s “privacy and 
+24   data protection practices”).                                          
+25        Defendants have filed a motion to dismiss, arguing that Plaintiffs have failed for a third 
+26   time to meet Federal Rule of Civil Procedure 9(b)’s heightened pleading requirements for 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   securities fraud.  The Court agrees.  Plaintiffs have failed to remedy the problems identified by the 
+2   Court in its prior dismissal order.  See Order Granting Defendants’ Motion to Dismiss with Leave 
+3   to Amend (“August 2020 Order”), Dkt. No. 137.  The Court therefore GRANTS Defendants’ 
+4   motion to dismiss without leave to amend.                             
+5     I.   BACKGROUND                                                     
+6        Rather than repeat the background of this case for a third time, the Court refers the Parties 
+7   to its prior orders.  To the extent the Parties ask the Court to alter its previous rulings, the Court 
+8   declines and AFFIRMS those rulings herein.                            
+9        On October 15, 2018, Plaintiffs filed their Consolidated Class Action Complaint.  See Dkt. 
+10   No. 86.  On September 25, 2019, this Court granted Defendants’ motion to dismiss the 
+11   consolidated complaint after finding that Plaintiffs had failed to carry their burden to plead falsity 
+12   and scienter.  The Court did not address reliance or loss causation in that order.  Order Granting 
+13   Defendants’ Motion to Dismiss, Dkt. No. 118.                          
+14        Plaintiffs filed their second amended complaint on November 15, 2019.  See Dkt. No. 123 
+15   (“SAC”).  On August 7, 2020, this Court again granted Defendants’ motion to dismiss the 
+16   complaint after finding that Plaintiffs failed to carry their burden to plead falsity, scienter, and loss 
+17   causation.  August 2020 Order.  This Court gave Plaintiffs one last opportunity to cure the 
+18   deficiencies identified by the Court.                                 
+19        On October 16, 2020, Plaintiffs filed their third amended complaint.  Defendants moved to 
+20   dismiss the third amended complaint on December 18, 2020.  Motion to Dismiss Third Amended 
+21   Class Action Complaint (“Mot.”), Dkt. No. 145.  Plaintiffs filed an opposition.  Lead Plaintiffs’ 
+22   Memorandum of Points and Authorities in Opposition (“Opp.”), Dkt. No. 153.  Defendants then 
+23   filed a reply.  Reply in Support of Defendants’ Motion to Dismiss (“Reply”), Dkt. No. 158.  On 
+24   September 30, 2021, this Court granted Defendants’ motion to strike portions of Plaintiffs’ third 
+25   amended complaint.  See Dkt. No. 166.  Pursuant to that order, this Court will not consider Dr. 
+26   Cain’s opinions set forth in paragraphs 722 through 724 of the TAC and any other portions of the 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   TAC that rely on those opinions.                                      
+2     II.  DISCUSSION                                                     
+3          A.  Legal Standard                                             
+4        To survive a Rule 12(b)(6) motion to dismiss, a complaint must contain sufficient factual 
+5   matter to “state a claim to relief that is plausible on its face.”  Ashcroft v. Iqbal, 556 U.S. 662, 678 
+6   (2009); Fed. R. Civ. Pro. 8(a).  Threadbare recitals of the elements of a cause of action supported 
+7   by mere conclusory statements do not suffice.  Ashcroft, 556 U.S. at 678.   
+8        To show securities fraud under Section 10(b) and Rule 10b-5, plaintiffs must allege facts 
+9   sufficient to establish (1) a material misrepresentation or omission, (2) made with scienter, i.e., a 
+10   wrongful state of mind, (3) a connection between the misrepresentation and the purchase or sale of 
+11   a security; (4) reliance upon the misrepresentation; (5) economic loss; and (6) loss causation.  
+12   Loos v. Immersion Corp., 762 F.3d 880 (9th Cir. 2014), amended (Sept. 11, 2014).  “To determine 
+13   whether a private securities fraud complaint can survive a motion to dismiss for failure to state a 
+14   claim, the court must determine whether particular facts in the complaint, taken as a whole, raise a 
+15   strong inference that defendants intentionally or with deliberate recklessness made false or 
+16   misleading statements to investors.”  In re LeapFrog Enter., Inc. Sec. Litig., 527 F. Supp. 2d 1033, 
+17   1039–40 (N.D. Cal. 2007).                                             
+18        The pleading standard in securities fraud cases is heightened.  Complaints alleging 
+19   securities fraud must meet the plausibility standard, the Private Securities Litigation Reform Act 
+20   (“PSLRA”), and Federal Rule of Civil Procedure 9(b)’s higher pleading standard.  See Tellabs, 
+21   Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 319–22 (2007); Zucco Partners, LLC v. 
+22   Digimarc, Corp., 552 F.3d 981, 991 (9th Cir. 2009).  The PSLRA mandates that securities fraud 
+23   complaints (1) specify each misleading statement, (2) set forth the facts “‘on which [a] belief’” 
+24   that a statement was misleading was “‘formed,’” (3) and “state with particularity facts giving rise 
+25   to a strong inference that the defendant acted with the required state of mind [i.e., scienter].”  Dura 
+26   Pharm., Inc. v. Broudo, 544 U.S. 336, 345 (2005) (quoting 15 U.S.C. §§ 78u–4(b)(1)–(2)).  
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   Plaintiffs bear the burden of proving that the defendant’s misrepresentations “caused the loss for 
+2   which the plaintiff seeks to recover.”  Id.  In determining whether a “strong inference” of scienter 
+3   has been sufficiently alleged, this Court must not only draw “inferences urged by the plaintiff,” 
+4   but must also engage in a “comparative evaluation,” and examine and consider “competing 
+5   inferences [in defendants’ favor] drawn from the facts alleged.”  Tellabs, 551 U.S. at 314.  Hence, 
+6   scienter must not only be “plausible or reasonable,” it must also be “cogent or at least as 
+7   compelling as any opposing inference of nonfraudulent intent.”  Id. at 324.  Federal Rule of Civil 
+8   Procedure 9(b) further requires a plaintiff pleading securities fraud to state, with particularity, the 
+9   circumstances constituting fraud or mistake.                          
+10          B.  Defendants’ Motion to Dismiss                              
+11        In their motion to dismiss, Defendants argue that Plaintiffs have not remedied the problems 
+12   identified by the Court in its earlier orders.                        
+13        In its August 2020 order, this Court identified two theories of securities fraud in Plaintiffs’ 
+14   SAC.  First, Plaintiffs alleged that Executive Defendants knowingly made misleading statements 
+15   regarding the Cambridge Analytica data breach.  Plaintiffs argued that Executive Defendants 
+16   knowingly made false statements regarding the Cambridge Analytica breach because Facebook 
+17   knew Cambridge Analytica was still misusing the misappropriated data.  This Court held that 
+18   Plaintiffs had failed to allege falsity because the complaint indicated that Cambridge Analytica 
+19   and Mr. Kogan certified to Facebook that they had deleted the misappropriated data and Plaintiffs 
+20   had not shown a reason why Executive Defendants would know that the deletion certifications 
+21   were false.  Second, Plaintiffs alleged that Executive Defendants knowingly made misleading 
+22   statements that users had complete control over their data.  Plaintiffs maintained that these 
+23   statements were false because of Facebook’s whitelisting practice, a data-sharing reciprocity 
+24   practice for certain “whitelisted applications” that was organized by Executive Defendants.  The 
+25   Court agreed that Plaintiffs had demonstrated falsity, scienter, and reliance as to this theory of 
+26   fraud, but held that Plaintiffs had failed to plead loss causation.   
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1        The Court must again dismiss Plaintiffs’ two theories of securities fraud.  While the 
+2   amended complaint alleges that Facebook “embedded” employees in the Trump campaign, there 
+3   are no allegations that demonstrate the employees knew that misappropriated data was being used 
+4   or that the employees reported the misuse to Executive Defendants.  Additionally, the amended 
+5   complaint does not demonstrate loss causation as to the whitelisting theory of fraud.  Because 
+6   Plaintiffs have not cured the problems identified in this Court’s August 2020 Order, the Court 
+7   GRANTS Defendants’ motion to dismiss Plaintiffs’ third amended complaint without leave to 
+8   amend.                                                                
+9          C.  Discussion                                                 
+10             1.  The Cambridge Analytica Data Breach                     
+11        As discussed in the August 2020 Order, Plaintiffs argue that Executive Defendants made 
+12   false or misleading statements about (1) the risks facing Facebook after the Cambridge Analytica 
+13   data breach and (2) the results of Facebook’s investigation into Cambridge Analytica’s work on 
+14   the Brexit and Trump campaigns.  TAC ¶¶ 298–309.  This Court previously determined that this 
+15   theory of security fraud fails because at the time these statements were made, Facebook had reason 
+16   to believe that Cambridge Analytica and Alexander Kogan had deleted the misappropriated data 
+17   and that the misappropriated data was no longer being misused.  See August 2020 Order at 33–35, 
+18   43.  The Court determined that for Plaintiffs to cure this theory, they must demonstrate that 
+19   Executive Defendants knew or should have known these certifications were false by “alleging, 
+20   among other things, that Facebook “embedded” employees in the 2016 Trump campaign and thus 
+21   knew that the deletion certifications were false.”  August 2020 Order at 66.   
+22        Like the SAC, Plaintiffs allege that Facebook made materially false and misleading 
+23   statements about the risks facing the company by stating that business and reputation harm could 
+24   occur if a third party were to improperly access and use sensitive user data.  Plaintiffs allege that 
+25   these “risk factor” statements were false when made because Cambridge Analytica was already 
+26   using misappropriated user data.  TAC ¶¶ 335–40.  Plaintiffs also allege that Facebook 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   misleadingly stated in March 2017 that its “investigation to date ha[d] not uncovered anything that 
+2   suggests wrongdoing with respect to Cambridge Analytica’s work on the [Brexit] and Trump 
+3   campaigns.”  TAC ¶ 299.  Plaintiffs maintain that these statements were false when made because 
+4   Facebook had “embedded” employees in the two respective campaigns and thus Executive 
+5   Defendants knew or should have known that the misappropriated data was still being misused and 
+6   that Facebook was presently facing risks due to the continued use of misappropriated data.  TAC 
+7   ¶¶ 238–44.                                                            
+8               a.  Legal Standard                                        
+9        As discussed above, to state a claim under Section 10(b) and Rule 10b-5, a complaint must 
+10   plausibly allege: “(1) a material misrepresentation or omission by the defendant; (2) scienter; (3) a 
+11   connection between the misrepresentation or omission and the purchase or sale of a security; (4) 
+12   reliance upon the misrepresentation or omission; (5) economic loss; and (6) loss causation.”  
+13   Halliburton Co. v. Erica P. John Fund, Inc., 573 U.S. 258, 267 (2014) (citations omitted).  A 
+14   complaint must “satisfy the dual pleading requirements of Federal Rule of Civil Procedure 9(b) 
+15   and the PSLRA” to state a securities fraud claim.  Zucco Partners, 552 F.3d at 990.  Federal Rule 
+16   of Civil Procedure 9(b) requires a plaintiff to “state with particularity the circumstances 
+17   constituting fraud,” and the PSLRA extends this particularity requirement to allegations of 
+18   scienter.  See 15 U.S.C. § 78u–4(b)(2)(A) (“[T]he complaint shall, with respect to each act or 
+19   omission alleged . . . , state with particularity facts giving rise to a strong inference that the 
+20   defendant acted with the required state of mind.”); see also Kearns v. Ford Motor Co., 567 F.3d 
+21   1120, 1124 (9th Cir. 2009) (“Averments of fraud must be accompanied by the who, what, when, 
+22   where, and how of the misconduct alleged.” (citations and quotation marks omitted)).   
+23        To support a “strong inference” of scienter under the PSLRA, a complaint must allege that 
+24   the defendant made false or misleading statements with an “intent to deceive, manipulate, or 
+25   defraud” or with deliberate recklessness.  City of Dearborn Heights Act 345 Police & Fire Ret. 
+26   Sys. v. Align Tech., Inc., 856 F.3d 605, 619 (9th Cir. 2017) (citation omitted).  Deliberate 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   recklessness is an “extreme departure from the standards of ordinary care . . . which presents a 
+2   danger of misleading buyers or sellers that is either known to the defendant or is so obvious that 
+3   the actor must have been aware of it.”  Schueneman v. Arena Pharms., Inc., 840 F.3d 698, 705 
+4   (9th Cir. 2016).  The “strong inference” standard “present[s] no small hurdle for the securities 
+5   fraud plaintiff.”  Id. (citation omitted).  When determining whether Plaintiff has alleged a “strong 
+6   inference” of scienter, this court must “engage in a comparative evaluation [and] . . . consider, not 
+7   only inferences urged by the plaintiff . . . but also competing inferences rationally drawn from the 
+8   facts alleged.”  Tellabs, 551 U.S. at 314.  A complaint will survive a motion to dismiss “only if a 
+9   reasonable person would deem the inference of scienter cogent and at least as compelling as any 
+10   opposing inference one could draw from the facts alleged.”  Id. at 324.   
+11               b.  Analysis                                              
+12        In its August 2020 Order, this Court directed Plaintiffs to plead “specific facts” showing 
+13   that Defendants knew that GSR and Cambridge Analytica did not delete the relevant data or that 
+14   Defendants should have known that the misappropriated data was not deleted.  August 2020 Order 
+15   at 35, 43–44.  Plaintiffs attempt to meet this burden by alleging that because three Facebook 
+16   employees worked with Cambridge Analytica on the Trump campaign, Executive Defendants 
+17   knew or should have known that Cambridge Analytica continued to use the misappropriated data.   
+18        To accept Plaintiffs’ theory of knowledge, this Court would have to find: 
+19     •  The three employees “embedded” in the Trump campaign knew the contents of Cambridge 
+20        Analytica’s deletion certifications, even though those certifications were provided to other 
+21        employees in another department more than six months earlier.  TAC ¶ 32 (alleging in 
+22        December 2017, Facebook had 25,105 employees).                   
+23     •  These three employees saw the “psychographic stuff” that was allegedly derived from the 
+24        misappropriated data because they were “seated next to” Cambridge Analytica employees.  
+25        TAC ¶ 235.                                                       
+26     •  After seeing the “psychographic stuff,” the employees would have known that Cambridge 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1        Analytica was still using the misappropriated data, despite its certifications to the contrary.  
+2        TAC ¶ 237 (“Thus, when they saw and heard discussions about ‘psychographics,’ they 
+3        would have known Cambridge Analytica was still using the misappropriated data that 
+4        violated Facebook’s policies.”).                                 
+5     •  Once the employees figured out that Cambridge Analytica was still misusing the data, they 
+6        would have reported Cambridge Analytica’s wrongdoing up the chain to the Executive 
+7        Defendants.  TAC ¶¶ 273, 281 (alleging that top management knew about the “embedded” 
+8        employees).                                                      
+9        Problematically, the TAC pleads no facts (1) that the “embedded” employees knew that 
+10   Cambridge Analytica had certified it was no longer using the misappropriated data and thus would 
+11   have been alerted to the problematic nature of its use, (2) that the employees alerted Executive 
+12   Defendants about any use of misappropriated data by the Trump campaign, or (3) that at the time 
+13   the employees were “embedded” in the campaign, the Executive Defendants knew that Cambridge 
+14   Analytica was working on a “gigantic dataset” such that they should have known that the deletion 
+15   certifications were false.  Plaintiffs’ general allegations that the “embedded” employees “would 
+16   have” known about the violations, that they “would have” reported the violations, or that 
+17   Executive Defendants “would have” known about Cambridge Analytica’s data use are too 
+18   speculative and fail to demonstrate actual knowledge.  See Metzler Inv. GMBH v. Corinthian 
+19   Colls., Inc., 540 F.3d 1049, 1068 (9th Cir. 2008) (“[C]orporate management’s general awareness 
+20   of the day-to-day workings of the company’s business does not establish scienter—at least absent 
+21   some additional allegations of specific information conveyed to management and related to the 
+22   fraud.”); see also In re Northpoint Commc’ns Grp., Inc. Sec. Litig., 184 F. Supp. 2d 991, 1005 
+23   (N.D. Cal. 2001) (“The PSLRA clearly establishes a preference for facts over such inferential 
+24   leaps.”).                                                             
+25        Plaintiffs attempt to show knowledge by alleging facts about an “investigation team” 
+26   employed by Facebook.  See Opp. at 9–12 (alleging that Facebook’s investigation team was aware 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   of Cambridge Analytica’s misuse of data and that the team collected “additional facts” that 
+2   Cambridge Analytica was continuing to misuse the user data).  First, Plaintiffs claim that 
+3   Executive Defendants were “involved in discussions” regarding the “Cambridge Analytica 
+4   investigation,” Opp. at 8, but the paragraphs of the TAC identified only speculate about Executive 
+5   Defendants role in the investigation and do not demonstrate that it was unreasonable for Executive 
+6   Defendants to rely on the deletion certifications.  See ¶¶ 35 (Defendant Sandberg is the Chief 
+7   Operating Officer), 161–63 (detailing public relations response to the 2015 The Guardian article 
+8   broke to demonstrate that Defendant Sandberg was included in this response and would have 
+9   known about any investigation into Cambridge Analytica), 203–04 (testimony by Defendant 
+10   Zuckerberg that Cambridge Analytica told Facebook that they had deleted the misappropriated 
+11   data), 249 n.262 (testimony from Defendant Zuckerberg that Cambridge Analytica certified 
+12   deletion in both an email and in a full legal contract), 268 (alleging that the investigation team 
+13   reviewed and circulated an article in The Washington Post about Kogan’s use of social media on 
+14   campaigns).1                                                          
+15        Second, Plaintiffs contend that the temporal proximity between a meeting involving the 
+16   Executive Defendants and certain conservative political operatives on May 18, 2016 and the 
+17   employee “embedding” demonstrates that the Executive Defendants knew about Cambridge 
+18   Analytica’s continued use of the misappropriated data.  Opp. at 7–8.  Yet, there are no allegations 
+19   that demonstrate that Executive Defendants discussed Cambridge Analytica, its use of the 
+20                                                                         
+
+21                                                                         
+    1 The Court does not reach Plaintiffs’ “red flag” theories of scienter.  See Opp. at 11–16.  Because 
+22   Plaintiffs have not pled sufficient facts that connect Executive Defendants to the “embedded” 
+    employees, it is irrelevant whether the “embedded” employees should have known that Cambridge 
+23   Analytica’s use of Facebook User IDs, though publicly available, and filenames demonstrated that 
+    Cambridge Analytica had not deleted the misappropriated data.  Opp. at 13.  Further, the 2016 
+24   Cambridge Analytica presentation and the 2016 The Washington Post article cited by Plaintiff do 
+    not focus on Facebook’s role in Cambridge Analytica’s data use.  On the contrary, the article does 
+25   not even mention Facebook and Facebook’s logo appears on just one slide in the presentation, 
+    alongside 11 other technology companies.  See TAC ¶¶ 265, 269.  Thus, that Facebook discussed 
+26   the article is not enough to demonstrate that Executive Defendants extrapolated from the article 
+    that Cambridge Analytica was still misusing the data (and it seems unlikely that Mr. Kogan would 
+27   publicly admit to such misuse).  TAC ¶ 268.                           
+    Case No.: 5:18-cv-01725-EJD                                           
+1   misappropriated data, or any plot to “embed” employees to aid Cambridge Analytica with using 
+2   the misappropriated data.  Indeed, there are no allegations connecting Cambridge Analytica to this 
+3   meeting.  Instead, the complaint alleges that Executive Defendants engaged with the Trump 
+4   campaign as to advertisements and considered the campaign to be important for advertisement 
+5   revenue.  See TAC ¶¶ 188–92, 223 (Defendant Sandberg stated that “the 2016 election is a big 
+6   deal in terms of ad spend.”).  Moreover, the temporal proximity between the meeting and the 
+7   embedding, without more, does not establish scienter.  See Yourish v. Cal. Amplifier, 191 F.3d 
+8   983, 997 (9th Cir. 1999) (“We have allowed the temporal proximity of an allegedly fraudulent 
+9   statement or omission and a later disclosure to bolster a complaint, but we have never allowed the 
+10   temporal proximity between the two, without more, does not create an inference that the earlier 
+11   statements were fraudulent.” (cleaned up)); see also Fecht v. Price Co., 70 F.3d 1078, 1083–84 
+12   (9th Cir. 1995).                                                      
+13        Third, Plaintiffs argue that the Executive Defendants must have known that Cambridge 
+14   Analytica continued to use the misappropriated data because the Trump campaign was a “big 
+15   deal” to Facebook.  Opp. at 8; TAC ¶¶ 180–81, 223.  But general allegations about the Trump 
+16   campaign being a big deal for advertisement revenue fails to show that Executive Defendants 
+17   knew that Cambridge Analytica was continuing to use the misappropriated data to aid the Trump 
+18   campaign.  See Prodanova v. H.C. Wainwright & Co., LLC, 993 F.3d 1097, 1109 (9th Cir. 2021) 
+19   (“[G]eneralized allegations fail to show that that [the defendant] had direct involvement in the 
+20   [alleged falsity].”); Metzler, 540 F.3d at 1068.  Further, to the extent Plaintiffs are pursuing a “core 
+21   operations” theory to argue that the Trump campaign was of “such prominence that it would be 
+22   absurd to suggest that management was without knowledge of the matter,” S. Ferry LP, No. 2. v. 
+23   Killinger, 542 F.3d 776, 786 (9th Cir. 2008), Plaintiffs still must allege facts that demonstrate that 
+24   Executive Defendants knew about Cambridge Analytica’s involvement in the Trump campaign 
+25   (and its use of the misappropriated data).  See Police Ret. Sys. of St. Louis v. Intuitive Surgical, 
+26   Inc., 759 F.3d 1051, 1062 (9th Cir. 2014) (“Proof under [the core operations] theory is not easy.  
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   A plaintiff must produce either specific admissions by one or more corporate executives of 
+2   detailed involvement in the minutia of a company’s operations, such as data monitoring; or 
+3   witness accounts demonstrating that executives had actual involvement in creating false reports.” 
+4   (citations omitted)); cf. In re Quality Sys., Inc. Sec. Litig., 865 F.3d 1130, 1145 (9th Cir. 2017) 
+5   (holding that scienter adequately pled where complaint included multiple statements from 
+6   confidential witnesses that established that members of executive-level management, including the 
+7   defendants, had access to and used reports documenting sales declines).   
+8        Finally, Plaintiffs allege that in January 2016, Facebook learned “more facts showing 
+9   serious, continuing policy violations and wrongdoing,” regarding Cambridge Analytica’s work on 
+10   the Trump campaign.  TAC ¶¶ 300–09; Opp. at 5–6.  Plaintiffs argue that this demonstrates that 
+11   Facebook knowingly made false statements that it had not uncovered any evidence of wrongdoing 
+12   on the Trump campaign.  TAC ¶¶ 301–02.  Problematically, the speaker of this statement is not an 
+13   individual defendant.  See Galzer Cap. Mgmt., LP v. Magistri, 549 F.3d 736, 745 (9th Cir. 2008) 
+14   (declining to adopt the theory of collective scienter and holding that the PSLRA requires a 
+15   plaintiff to “plead scienter with respect to those individuals who actually made the false 
+16   statements”).  However, to the extent the speaker of this statement can be connected to the 
+17   Executive Defendants, Plaintiffs have failed to connect Executive Defendants to the investigation 
+18   into Cambridge Analytica or show that Executive Defendants knew that Cambridge Analytica 
+19   continued to use the misappropriated data.  TAC ¶¶ 161–79 (outlining investigation but failing to 
+20   allege that Executive Defendants learned that Cambridge Analytica had not deleted the 
+21   misappropriated data).  Without such allegations, Plaintiffs have not shown that Executive 
+22   Defendants acted with knowledge or deliberate recklessness in certifying that Facebook had not 
+23   uncovered any wrongdoing.  Prodanova, 993 F.3d at 1108 (“The SAC pleads no facts alleging 
+24   that [Defendant] knew about the Offering when he authored the Report.  There is thus no factual 
+25   basis for the allegation that he acted with knowledge or deliberate recklessness.” (emphasis 
+26   added)); see also Declaration of Brian M. Lutz, Dkt. No. 146 at Exhibit 7 ¶¶ 42–43 (“Facebook 
+27                                                                         
+    Case No.: 5:18-cv-01725-EJD                                           
+1   had no specific mechanism to summarize or report violations of its Platform Policy . . . . As a 
+2   result, Facebook senior management and relevant legal staff did not assess the scope, business 
+3   impact, or legal implications of the researcher’s improper transfer of data to Cambridge[.]” 
+4   (emphasis added)).2                                                   
+5        Accordingly, Plaintiffs have failed to establish that Defendants knew that Cambridge 
+6   Analytica was using the misappropriated data after Facebook obtained deletion certifications.  
+7   Plaintiffs therefore have not established scienter as to statements made by Defendants about the 
+8   Cambridge Analytica data breach.                                      
+9             2.  Whitelisting                                            
+10        The Court previously determined that Plaintiffs had pled falsity, scienter, materiality, and 
+11   reliance as to their whitelisting theory of liability.  See August 2020 Order at 65.  However, the 
+12   court dismissed Plaintiffs’ whitelisting claims because the SAC failed to allege loss causation.  
+13   The Court instructed Plaintiffs to demonstrate that the stock price fell in June 2018, following the 
+14   revelation that Facebook secretly allowed certain “whitelisted” app developers to continue to 
+15   access user data.  TAC ¶ 319.                                         
+16        In the loss causation analysis, “the ultimate issue is whether the defendant’s misstatement, 
+17   as opposed to some other fact, foreseeably caused the plaintiff’s loss.”  Lloyd v. CVB Fin. Corp., 
+18   811 F.3d 1200, 1210 (9th Cir. 2016).  A plaintiff must show that the defendant’s misrepresentation 
+19   was a “substantial cause” of his or her financial loss.  Loos v. Immersion Corp., 762 F.3d 880, 887 
+20   (9th Cir. 2014).  To survive a motion to dismiss, a plaintiff “need only allege that the decline in 
+21   the defendant’s stock price was proximately caused by a revelation of fraudulent activity rather 
+22   than by changing market conditions, changing investor expectations, or other unrelated factors.”  
+23   Id.                                                                   
+24        “Typically, to establish loss causation, a plaintiff must show that the defendants’ alleged 
+25                                                                         
+
+26                                                                         
+    2 The Court GRANTS Defendants’ request for judicial notice as to Exhibit 7.  See Fed. R. Evid. 
+27   201(b).                                                               
+    Case No.: 5:18-cv-01725-EJD                                           
+1   misstatements artificially inflated the price of stock and that, once the market learned of the 
+2   deception, the value of the stock declined.”  Irving Firemen’s Relief & Ret. Fund v. Uber Techs., 
+3   Inc., 998 F.3d 397, 407 (9th Cir. 2021) (collecting cases).  Courts refer to this theory as “fraud-on-
+4   the market.”  Id. (citation omitted).  In this scenario, “the plaintiff must show that after purchasing 
+5   her shares and before selling, . . . (1) the truth became known, and (2) the revelation caused the 
+6   fraud-induced inflation in the stock’s price to be reduced or eliminated.”  Id. (citation and 
+7   quotation marks omitted).  The second element requires a showing that the revelation of the truth 
+8   “caused the company’s stock price to decline and the inflation attributable to the misstatements to 
+9   dissipate.”  In re Bofl Holding, Inc. Secs. Litig., 977 F.3d 781, 791 (9th Cir. 2020).  This analysis 
+10   “involves a temporal component.”  Irving Firemen’s Relief, 988 F.3d at 407; see also Dura 
+11   Pharms., Inc. v. Broudo, 544 U.S. 336, 343–44 (2005).  “[A] disclosure followed by an immediate 
+12   drop in stock price is more likely to have caused the decline—but timing is not dispositive.”  In re 
+13   Bofl Holding, 977 F.3d at 790; see also In re Gilead Scis. Sec. Litig., 536 F.3d 1049, 1057–58 (9th 
+14   Cir. 2008) (noting that there is not a “bright-line rule requiring an immediate market reaction”).   
+15        In its August 2020 Order, this Court held that the user control statements were adequately 
+16   alleged to have been misleading because of Facebook’s “whitelisting practices.”  August 2020 
+17   Order at 38.  As the Court noted, the relevant time period is after the revelation of Facebook’s 
+18   whitelisting practices, which would be after June 3, 2018.  TAC ¶ 703.  Plaintiffs do not plead a 
+19   loss until July 26, 2018, which is over a month after the whitelisting practice was revealed.  Cf. In 
+20   re Gilead, 536 F.3d at 1051–58 (allowing a delayed market reaction where the falsity of the 
+21   alleged misstatements was revealed months later).  Plaintiffs have not established a connection 
+22   between the revelation of Facebook’s whitelisting practice and a stock-drop, and thus have not 
+23   plead loss causation.3                                                
+24                                                                         
+
+25                                                                         
+    3 The Court declines to revisit its earlier ruling as to the drop of the stock prices following the 
+26   2Q18 Earnings Release.  See August 2020 Order at 65–66.  Additionally, because the Court has 
+    determined that Plaintiffs have not established scienter as to its Cambridge Analytica theory, it 
+27   also declines to address loss causation as to this theory.            
+    Case No.: 5:18-cv-01725-EJD                                           
+    1                3.  Section 20(a) and 20(A) Claims 
+    2          Plaintiffs also bring claims for violations of Sections 20(a) and (A) of the Exchange Act. 
+    3    Both these claims, however, depend on a primary violation of Section 10(b) or Rule 10b-5.  Lipton 
+    4  ||  v. Pathogenesis Corp., 284 F.3d 1027, 1035 n.15 (9th Cir. 2002) (“[T]o prevail on their claims for 
+    5  || violations of § 20(a) and § 20A, plaintiffs must first allege a violation of § 10(b) or Rule 10b 5.”). 
+    6  || Because the Court determines Plaintiffs’ claim under Section 10(b) and Rule 10b-5 fail, 
+    7    Defendants’ motion to dismiss these claims is also GRANTED. 
+    8                4.  Leave to Amend 
+    9          When dismissing a complaint for failure to state a claim, a court should grant leave to 
+   10  || amend “unless it determines that the pleading could not possibly be cured by the allegation of 
+   11    other facts.”  Lopez v. Smith, 203 F.3d 1122, 1127 (9th Cir. 2000).  This Court has previously 
+    12  ||  dismissed two other complaints, has provided Plaintiffs ample opportunity to cure the deficiencies 
+5    13    identified in those Orders, and has warned Plaintiffs that failure to cure the identified deficiencies 
+    14  || would result in dismissal with prejudice.  Because Plaintiffs have not remedied those deficiencies, 
+ 3    15    the Court finds that amendment would be futile, and Plaintiffs’ claims are dismissed without leave 
+a    16  || to amend. 
+
+ =    17       Wl.    CONCLUSION 
+    18          Defendants’ motion to dismiss Plaintiffs’ TAC in its entirety is GRANTED. 
+   19          IT IS SO ORDERED. 
+   20    Dated: December 20, 2021 
+   21 
+   22                                                    ep. 
+                                                        EDWARD J. DAVILA 
+   23                                                    United States District Judge 
+   24 
+   25 
+   26 
+         Case No.: 5:18-cv-01725-EJD 
+   28  || ORDER GRANTING DEFENDANTS’ MOTION TO DISMISS THIRD AMENDED 
+        COMPLAINT WITHOUT LEAVE TO AMEND 

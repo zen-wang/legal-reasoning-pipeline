@@ -1,0 +1,64 @@
+[
+  {
+    "absolute_url": "/audio/82671/in-re-goldman-sachs-group-inc/",
+    "caseName": "In re Goldman Sachs Group, Inc",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2022-09-21",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "22-484",
+    "docket_id": 65365844,
+    "download_url": "https://www.ca2.uscourts.gov/decisions/isysquery/d3f29daa-edde-4147-b5a7-473ff7d42c39/1/doc/22-484.mp3",
+    "duration": 5010,
+    "file_size_mp3": 30187246,
+    "id": 82671,
+    "judge": "",
+    "local_path": "mp3/2022/09/21/in_re_goldman_sachs_group_inc_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-28T05:06:17.514956Z",
+      "date_created": "2022-09-21T20:30:33.502402Z",
+      "score": {
+        "bm25": 13339814000000.0
+      }
+    },
+    "pacer_case_id": "56846",
+    "panel_ids": [],
+    "sha1": "cc918821b685382a309097acf6b2826b575e454f",
+    "snippet": "We have a chief for counsel here, thank you. Mr. Chamagam, you've reserved two minutes for rebuttal. So that gives you eight minutes out of the gate. You may proceed. Great, thank you Judge Sullivan. My name is Cameron Chamagam of Paul Weitz for the Goldman Sachs Appellants. May it please the court, in recertifying a class in this case, the district court misconstrued and misapplied the legal framework that the Supreme Court established in its intervening decision. For identifying price impact",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/29020/in-re-goldman-sachs-group-inc/",
+    "caseName": "In re Goldman Sachs Group, Inc",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2017-03-15",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "16-250",
+    "docket_id": 4618127,
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/e673bd99-b3d6-46a5-991d-19418fb679d9/2/doc/16-250.mp3",
+    "duration": 3112,
+    "file_size_mp3": 19037462,
+    "id": 29020,
+    "judge": "",
+    "local_path": "mp3/2017/03/15/in_re_goldman_sachs_group_inc_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T09:52:12.453530Z",
+      "date_created": "2017-03-15T20:34:19.473271Z",
+      "score": {
+        "bm25": 13165632000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "a6a6a5860d6e5898169536c6f09ac62642be4f71",
+    "snippet": "Arkansas Teachers Retirement System, et al, versus Goldman Sachs Group, Incorporated, et al. Thank you, gentlemen. Good morning. Just a second, Mr. Giffra. Mr. Giffra. Good morning, Your Honor. Robert Giffra, Sullivan and Cromwell for the Goldman Sachs Appellants. This is a 23-F appeal challenging the certification of a class where Goldman Sachs is alleged to have made false statements with respect to its general aspirational business principles and conflicts controls. We believe the Court",
+    "source": "C"
+  }
+]

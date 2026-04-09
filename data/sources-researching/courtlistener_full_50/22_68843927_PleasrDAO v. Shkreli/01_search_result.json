@@ -1,0 +1,150 @@
+{
+  "assignedTo": "Pamela Ki Mai Chen",
+  "assigned_to_id": 597,
+  "attorney": [
+    "Steven Cooper",
+    "Erik J. Dykema",
+    "Edward Andrew Paltzik",
+    "Robert Carnes",
+    "Charles P. Hyun",
+    "Meredith Lloyd",
+    "Serge Krimnus"
+  ],
+  "attorney_id": [
+    9630081,
+    9630082,
+    9613667,
+    9630084,
+    9630083,
+    10836775,
+    9765527
+  ],
+  "caseName": "PleasrDAO v. Shkreli",
+  "case_name_full": "",
+  "cause": "18:1836(a) - Injunction against Misappropriation of Trade Secrets",
+  "chapter": null,
+  "court": "District Court, E.D. New York",
+  "court_citation_string": "E.D.N.Y",
+  "court_id": "nyed",
+  "dateArgued": null,
+  "dateFiled": "2024-06-10",
+  "dateTerminated": null,
+  "docketNumber": "1:24-cv-04126",
+  "docket_absolute_url": "/docket/68843927/pleasrdao-v-shkreli/",
+  "docket_id": 68843927,
+  "firm": [
+    "Erik J. Dykema",
+    "Bochner PLLC",
+    "Taylor Dykema, PLLC",
+    "Reed Smith",
+    "Reed Smith LLP",
+    "Taylor Dykema PLLC"
+  ],
+  "firm_id": [
+    855073,
+    961126,
+    856689,
+    153043,
+    1078036,
+    1069943,
+    319001,
+    975101
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-07-14T05:14:45.698413Z",
+    "date_created": "2024-06-11T03:24:25.352880Z",
+    "score": {
+      "bm25": 1020.6286
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "516318",
+  "party": [
+    "PleasrDAO",
+    "Receiver  Derek C. Abbott",
+    "Martin Shkreli",
+    "Robert Diggs",
+    "Tarik Azzougarh"
+  ],
+  "party_id": [
+    14262481,
+    14262482,
+    17884791,
+    17884792,
+    17884793
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/68843927/53/1/pleasrdao-v-shkreli/",
+      "attachment_number": 1,
+      "cites": [],
+      "description": "Letter Response to January 21, 2025 Order by Martin Shkreli (Attachments: # 1 Declaration of Martin Shkreli) (Lloyd, Meredith) (Entered: 02/04/2025)",
+      "docket_entry_id": 415613586,
+      "document_number": 53,
+      "document_type": "Attachment",
+      "entry_date_filed": "2025-02-04",
+      "entry_number": 53,
+      "filepath_local": "recap/gov.uscourts.nyed.516318/gov.uscourts.nyed.516318.53.1.pdf",
+      "id": 447213341,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-10-30T23:41:57.876880Z",
+        "date_created": "2025-07-28T20:38:33.414282Z"
+      },
+      "pacer_doc_id": "123022177169",
+      "page_count": 3,
+      "short_description": "Declaration of Martin Shkreli",
+      "snippet": "Case 1:24-cv-04126-PKC-MMH   Document 53-1   Filed 02/04/25   Page 1 of 3 PageID #:\n                                    530\n\fCase 1:24-cv-04126-PKC-MMH   Document 53-1     Filed 02/04/25        Page 2 of 3 PageID #:\n                                    531\n\n\n\n                                  Pharmaceuticals, Mr. Smith’s\n                                  last known employer, which\n                                  returned no results. Mr. Smith’s\n                                  current email ad"
+    },
+    {
+      "absolute_url": "/docket/68843927/47/pleasrdao-v-shkreli/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Notice of MOTION to Dismiss for Failure to State a Claim by Martin Shkreli. (Attachments: # 1 Memorandum in Support, # 2 Proposed Order) (Paltzik, Edward) (Entered: 01/06/2025)",
+      "docket_entry_id": 412757773,
+      "document_number": 47,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-01-06",
+      "entry_number": 47,
+      "filepath_local": "recap/gov.uscourts.nyed.516318/gov.uscourts.nyed.516318.47.0.pdf",
+      "id": 426295033,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-09-28T14:30:56.584022Z",
+        "date_created": "2025-01-07T02:44:19.483968Z"
+      },
+      "pacer_doc_id": "123022070668",
+      "page_count": 2,
+      "short_description": "Motion to Dismiss for Failure to State a Claim",
+      "snippet": "Case 1:24-cv-04126-PKC-MMH             Document 47         Filed 01/06/25      Page 1 of 2 PageID #:\n                                             439\n\n\n\n                        IN THE UNITED STATES DISTRICT COURT\n                       FOR THE EASTERN DISTRICT OF NEW YORK\n\n\n\n  PleasrDAO,                                         Civ. No.: 1:24-cv-04126-PKC\n\n                 Plaintiff,\n                                                     ORAL ARGUMENT REQUESTED\n  v.\n\n  Martin Shkreli,\n\n            "
+    },
+    {
+      "absolute_url": "/docket/68843927/47/2/pleasrdao-v-shkreli/",
+      "attachment_number": 2,
+      "cites": [],
+      "description": "Notice of MOTION to Dismiss for Failure to State a Claim by Martin Shkreli. (Attachments: # 1 Memorandum in Support, # 2 Proposed Order) (Paltzik, Edward) (Entered: 01/06/2025)",
+      "docket_entry_id": 412757773,
+      "document_number": 47,
+      "document_type": "Attachment",
+      "entry_date_filed": "2025-01-06",
+      "entry_number": 47,
+      "filepath_local": "recap/gov.uscourts.nyed.516318/gov.uscourts.nyed.516318.47.2.pdf",
+      "id": 428238094,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-07-14T05:14:45.803931Z",
+        "date_created": "2025-01-25T23:38:55.513806Z"
+      },
+      "pacer_doc_id": "123022070670",
+      "page_count": 1,
+      "short_description": "Proposed Order",
+      "snippet": "Case 1:24-cv-04126-PKC-MMH           Document 47-2       Filed 01/06/25     Page 1 of 1 PageID #:\n                                            472\n\n\n\n                        IN THE UNITED STATES DISTRICT COURT\n                       FOR THE EASTERN DISTRICT OF NEW YORK\n\n\n\n   PleasrDAO,                                       Civ. No.: 1:24-cv-04126-PKC\n\n                 Plaintiff,\n\n   v.\n\n   Martin Shkreli,\n\n                 Defendant\n\n\n\n                                      PROPOSED ORDER\n\n\n      "
+    }
+  ],
+  "referredTo": "Marcia M. Henry",
+  "referred_to_id": null,
+  "suitNature": "880 Defend Trade Secrets Act (of 2016)",
+  "trustee_str": null
+}

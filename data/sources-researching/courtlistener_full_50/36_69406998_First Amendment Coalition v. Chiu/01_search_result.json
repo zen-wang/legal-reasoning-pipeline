@@ -1,0 +1,118 @@
+{
+  "assignedTo": "Rita F. Lin",
+  "assigned_to_id": null,
+  "attorney": [
+    "John David Loy",
+    "Jt Morris",
+    "Adam Blair Steinbaugh",
+    "Shiwon Choe",
+    "Kaitlyn M. Murphy",
+    "Zachary T Silver"
+  ],
+  "attorney_id": [
+    9957440,
+    9970787,
+    9997386,
+    9957104,
+    9977655,
+    9957439
+  ],
+  "caseName": "First Amendment Coalition v. Chiu",
+  "case_name_full": "",
+  "cause": "42:1983 Civil Rights Act",
+  "chapter": null,
+  "court": "District Court, N.D. California",
+  "court_citation_string": "N.D. Cal.",
+  "court_id": "cand",
+  "dateArgued": null,
+  "dateFiled": "2024-11-22",
+  "dateTerminated": null,
+  "docketNumber": "3:24-cv-08343",
+  "docket_absolute_url": "/docket/69406998/first-amendment-coalition-v-chiu/",
+  "docket_id": 69406998,
+  "firm": [
+    "Adam Steinbaugh",
+    "Foundation for Individual Rights and Expression",
+    "First Amendment Coalition",
+    "California Attorney General's Office"
+  ],
+  "firm_id": [
+    735841,
+    1007052,
+    901615,
+    765528,
+    33567
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "None",
+  "meta": {
+    "timestamp": "2025-07-07T17:33:01.330063Z",
+    "date_created": "2024-11-22T20:46:21.265462Z",
+    "score": {
+      "bm25": 581.71533
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "440011",
+  "party": [
+    "First Amendment Coalition",
+    "Virginia LaRoe",
+    "Rob Bonta",
+    "David Chiu",
+    "Eugene Volokh"
+  ],
+  "party_id": [
+    14808871,
+    14808872,
+    14808873,
+    14808874,
+    14808875
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/69406998/24/1/first-amendment-coalition-v-chiu/",
+      "attachment_number": 1,
+      "cites": [
+        102728,
+        104649,
+        145763,
+        145884,
+        169688,
+        215615,
+        327010,
+        786002,
+        786533,
+        814884,
+        866564,
+        1039463,
+        1202684,
+        3039197,
+        4244817,
+        4363634,
+        10516256,
+        10516264
+      ],
+      "description": "Statement of Recent Decision by First Amendment Coalition, Eugene Volokh, Virginia LaRoe. (Attachments: # 1 Exhibit Exhibit A: Matsumoto v. Labrador, No. 23-3787 (9th Cir. Dec. 2, 2024))(Steinbaugh, Adam) (Filed on 12/6/2024) (Entered: 12/06/2024)",
+      "docket_entry_id": 410332654,
+      "document_number": 24,
+      "document_type": "Attachment",
+      "entry_date_filed": "2024-12-06",
+      "entry_number": 24,
+      "filepath_local": "recap/gov.uscourts.cand.440011/gov.uscourts.cand.440011.24.1.pdf",
+      "id": 423102936,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-07-07T17:33:01.322985Z",
+        "date_created": "2024-12-07T18:04:46.139226Z"
+      },
+      "pacer_doc_id": "035025160688",
+      "page_count": 63,
+      "short_description": "",
+      "snippet": "Case 3:24-cv-08343-RFL       Document 24-1       Filed 12/06/24     Page 1 of 6\n\n\n\n\n                            FOR PUBLICATION\n\n             UNITED STATES COURT OF APPEALS\n                  FOR THE NINTH CIRCUIT\n\n          LOURDES                                     No. 23-3787\n          MATSUMOTO; NORTHWEST\n                                                        D.C. No.\n          ABORTION ACCESS\n                                                  1:23-cv-00323-DKG\n          FUND; INDIGENOUS IDA"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "440 Civil Rights: Other",
+  "trustee_str": null
+}

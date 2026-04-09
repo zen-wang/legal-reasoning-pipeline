@@ -1,0 +1,89 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Luckin Coffee Inc.",
+  "cik": 1767582,
+  "sic": "5810",
+  "sic_description": "Retail-Eating & Drinking Places",
+  "tickers": [
+    "LKNCY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "stateOfIncorporation": "E9",
+  "why_selected": "跨國財務造假",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "6-K",
+      "date": "2026-03-27",
+      "accession": "0001104659-26-035718",
+      "filename": "6-K_2026-03-27_tm269670d1_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "20-F",
+      "date": "2026-03-27",
+      "accession": "0001104659-26-035712",
+      "filename": "20-F_2026-03-27_lk-20251231x20f.htm",
+      "description": "20-F"
+    },
+    {
+      "form": "6-K",
+      "date": "2026-02-26",
+      "accession": "0001104659-26-020056",
+      "filename": "6-K_2026-02-26_tm267034d1_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "6-K",
+      "date": "2025-11-17",
+      "accession": "0001104659-25-112938",
+      "filename": "6-K_2025-11-17_tm2531137d1_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "6-K",
+      "date": "2025-07-30",
+      "accession": "0001104659-25-071947",
+      "filename": "6-K_2025-07-30_tm2521712d1_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "6-K",
+      "date": "2025-04-29",
+      "accession": "0001104659-25-040611",
+      "filename": "6-K_2025-04-29_tm2513101d1_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "6-K",
+      "date": "2025-03-31",
+      "accession": "0001104659-25-029635",
+      "filename": "6-K_2025-03-31_tm2429371d2_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "20-F",
+      "date": "2025-03-31",
+      "accession": "0001410578-25-000546",
+      "filename": "20-F_2025-03-31_lk-20241231x20f.htm",
+      "description": "20-F"
+    },
+    {
+      "form": "6-K",
+      "date": "2025-02-20",
+      "accession": "0001104659-25-015436",
+      "filename": "6-K_2025-02-20_tm256832d1_6k.htm",
+      "description": "FORM 6-K"
+    },
+    {
+      "form": "6-K",
+      "date": "2024-10-30",
+      "accession": "0001104659-24-112404",
+      "filename": "6-K_2024-10-30_tm2426781d1_6k.htm",
+      "description": "FORM 6-K"
+    }
+  ],
+  "total_filings_available": 229
+}

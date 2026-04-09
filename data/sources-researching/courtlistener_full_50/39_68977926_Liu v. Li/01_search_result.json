@@ -1,0 +1,109 @@
+{
+  "assignedTo": "April M. Perry",
+  "assigned_to_id": null,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "Liu v. Li",
+  "case_name_full": "",
+  "cause": "15:77 Securities Fraud",
+  "chapter": null,
+  "court": "District Court, N.D. Illinois",
+  "court_citation_string": "N.D. Ill.",
+  "court_id": "ilnd",
+  "dateArgued": null,
+  "dateFiled": "2024-07-25",
+  "dateTerminated": null,
+  "docketNumber": "1:24-cv-06422",
+  "docket_absolute_url": "/docket/68977926/liu-v-li/",
+  "docket_id": 68977926,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2026-01-26T09:39:35.144027Z",
+    "date_created": "2024-07-25T18:18:15.151845Z",
+    "score": {
+      "bm25": 1564.8083
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "462011",
+  "party": [
+    "Liu",
+    "Li"
+  ],
+  "party_id": [],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/68977926/42/liu-v-li/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 414537299,
+      "document_number": 42,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-01-24",
+      "entry_number": 42,
+      "filepath_local": null,
+      "id": 428187798,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2026-01-26T09:39:35.124524Z",
+        "date_created": "2025-01-24T22:16:18.479724Z"
+      },
+      "pacer_doc_id": "067031838498",
+      "page_count": null,
+      "short_description": "Amended Complaint",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 415229967,
+      "document_number": null,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-01-31",
+      "entry_number": null,
+      "filepath_local": null,
+      "id": 428908509,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2026-01-26T09:39:35.124524Z",
+        "date_created": "2025-01-31T22:17:59.420471Z"
+      },
+      "pacer_doc_id": "",
+      "page_count": null,
+      "short_description": "Stay",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/68977926/1/liu-v-li/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 397508373,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2024-07-25",
+      "entry_number": 1,
+      "filepath_local": null,
+      "id": 406682443,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2026-01-26T09:39:35.124524Z",
+        "date_created": "2024-07-25T18:18:15.176393Z"
+      },
+      "pacer_doc_id": "067030848315",
+      "page_count": null,
+      "short_description": "Complaint",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "Securities/Commodities",
+  "trustee_str": null
+}

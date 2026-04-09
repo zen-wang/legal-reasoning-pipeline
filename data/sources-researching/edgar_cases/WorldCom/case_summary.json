@@ -1,0 +1,85 @@
+{
+  "source": "SEC EDGAR",
+  "name": "MCI INC",
+  "cik": 723527,
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "tickers": [],
+  "exchanges": [],
+  "stateOfIncorporation": "DE",
+  "why_selected": "會計詐欺 — $11B revenue inflation",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "8-K",
+      "date": "2006-01-06",
+      "accession": "0000950103-06-000029",
+      "filename": "8-K_2006-01-06_jan0506_8k-2.htm",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2006-01-06",
+      "accession": "0000950103-06-000028",
+      "filename": "8-K_2006-01-06_jan0306_8k.htm",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2006-01-05",
+      "accession": "0000950103-06-000026",
+      "filename": "8-K_2006-01-05_jan0506_8k.htm",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2006-01-05",
+      "accession": "0001193125-06-001855",
+      "filename": "8-K_2006-01-05_d8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2005-12-16",
+      "accession": "0000950103-05-002520",
+      "filename": "8-K_2005-12-16_dec1605_8k.htm",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2005-12-14",
+      "accession": "0000950103-05-002502",
+      "filename": "8-K_2005-12-14_dec1305_8k.htm",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2005-11-15",
+      "accession": "0000950103-05-002327",
+      "filename": "8-K_2005-11-15_nov1005_8k.htm",
+      "description": ""
+    },
+    {
+      "form": "10-Q",
+      "date": "2005-11-03",
+      "accession": "0001193125-05-215557",
+      "filename": "10-Q_2005-11-03_d10q.htm",
+      "description": "FORM 10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2005-11-03",
+      "accession": "0000950103-05-002273",
+      "filename": "8-K_2005-11-03_nov0205_8k.htm",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2005-10-19",
+      "accession": "0000950103-05-002181",
+      "filename": "8-K_2005-10-19_oct1705_8k.htm",
+      "description": ""
+    }
+  ],
+  "total_filings_available": 964
+}

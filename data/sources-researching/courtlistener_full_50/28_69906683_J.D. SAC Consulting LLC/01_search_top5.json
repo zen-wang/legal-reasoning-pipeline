@@ -1,0 +1,621 @@
+[
+  {
+    "assignedTo": "Jeffrey Cavender",
+    "assigned_to_id": 8766,
+    "attorney": [
+      "William A. Rountree",
+      "Caitlyn Powers",
+      "Lindsay P. S. Kolba"
+    ],
+    "attorney_id": [
+      10275952,
+      10275953,
+      10275954
+    ],
+    "caseName": "J.D. SAC Consulting LLC",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": "11",
+    "court": "United States Bankruptcy Court, N.D. Georgia",
+    "court_citation_string": "Bankr. N.D. Ga.",
+    "court_id": "ganb",
+    "dateArgued": null,
+    "dateFiled": "2025-04-17",
+    "dateTerminated": null,
+    "docketNumber": "25-54195",
+    "docket_absolute_url": "/docket/69906683/jd-sac-consulting-llc/",
+    "docket_id": 69906683,
+    "firm": [
+      "Rountree Leitman Klein & Geer, LLC",
+      "Office of the U.S. Trustee"
+    ],
+    "firm_id": [
+      756012,
+      83287
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-04-18T17:31:48.332791Z",
+      "date_created": "2025-04-17T18:05:16.344246Z",
+      "score": {
+        "bm25": 855.6602
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "1272566",
+    "party": [
+      "United States Trustee",
+      "J.D. SAC Consulting LLC",
+      "Gary M. Murphey"
+    ],
+    "party_id": [
+      15356436,
+      15356437,
+      15356438
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/69906683/1/jd-sac-consulting-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Voluntary Petition (Chapter 11) for Non-Individual Subchapter V Filed by William A. Rountree of Rountree Leitman Klein & Geer, LLC on behalf of J.D. SAC Consulting LLC. Chapter 11 Subchapter V Plan Due by 07/16/2025. (Rountree, William)",
+        "docket_entry_id": 422701432,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-17",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.ganb.1272566/gov.uscourts.ganb.1272566.1.0.pdf",
+        "id": 436740377,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-08-21T04:27:06.422641Z",
+          "date_created": "2025-04-17T18:05:17.496483Z"
+        },
+        "pacer_doc_id": "054087026305",
+        "page_count": 11,
+        "short_description": "Initial Docs01: Voluntary Petition (Chapter 11)",
+        "snippet": " Fill in thisCase   25-54195-jwc\n              information                   Doc 1\n                          to identify the case:            Filed 04/17/25 Entered 04/17/25 13:48:36                              Desc Main\n                                                           Document      Page 1 of 11\n     United States Bankruptcy Court for the:\n\n     ____________________ District of _________________\n     Northern District of Georgia (State)\n\n                                               "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": "Murphey, Gary M."
+  },
+  {
+    "assignedTo": "Lewis Jeffrey Liman",
+    "assigned_to_id": 14461,
+    "attorney": [
+      "Madyson Nucci",
+      "Celena Stoia",
+      "Jacob Douglas Albertson",
+      "Christine Lepera",
+      "Adam Levin",
+      "Sarah Michal Matz"
+    ],
+    "attorney_id": [
+      9013098,
+      9792204,
+      9596983,
+      9596982,
+      10445303,
+      10445304
+    ],
+    "caseName": "McSweeney v. Cohen",
+    "case_name_full": "",
+    "cause": "28:1331ed Fed. Question: Employment Discrimination",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2024-02-27",
+    "dateTerminated": null,
+    "docketNumber": "1:24-cv-01503",
+    "docket_absolute_url": "/docket/68289234/mcsweeney-v-cohen/",
+    "docket_id": 68289234,
+    "firm": [
+      "Mitchell, Silberberg & Knupp LLP",
+      "Adelman Matz P.C.",
+      "Mitchell Silberberg and Knupp LLP"
+    ],
+    "firm_id": [
+      456346,
+      872603,
+      832326
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-08-14T15:33:05.371091Z",
+      "date_created": "2024-02-28T01:09:44.472720Z",
+      "score": {
+        "bm25": 731.3979
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "616506",
+    "party": [
+      "Lisa Shannon",
+      "Darren Ward",
+      "Andy Cohen",
+      "Bravo Media LLC",
+      "Warner Bros. Discovery, Inc.",
+      "Leah McSweeney",
+      "NBCUniversal Media, LLC",
+      "Shed Media US Inc.",
+      "John Paparazzo"
+    ],
+    "party_id": [
+      13405632,
+      13405624,
+      13405625,
+      13405626,
+      13405627,
+      13405628,
+      13405629,
+      13405630,
+      13405631
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68289234/125/mcsweeney-v-cohen/",
+        "attachment_number": null,
+        "cites": [
+          2429,
+          104269,
+          179607,
+          567598,
+          730187,
+          770367,
+          1315738,
+          2370966,
+          2411105,
+          5683000,
+          6977272,
+          7236462,
+          7242674,
+          7246432,
+          8410589,
+          9432497
+        ],
+        "description": "REPLY MEMORANDUM OF LAW in Support re: 120 MOTION to Compel Arbitration . . Document filed by Bravo Media LLC, Andy Cohen, NBCUniversal Media, LLC, John Paparazzo, Lisa Shannon, Shed Media US Inc., Darren Ward, Warner Bros. Discovery, Inc...(Albertson, Jacob) (Entered: 09/05/2025)",
+        "docket_entry_id": 436950318,
+        "document_number": 125,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-05",
+        "entry_number": 125,
+        "filepath_local": "recap/gov.uscourts.nysd.616506/gov.uscourts.nysd.616506.125.0.pdf",
+        "id": 451409548,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-09-05T19:15:14.100361Z",
+          "date_created": "2025-09-05T19:09:51.006837Z"
+        },
+        "pacer_doc_id": "127038161179",
+        "page_count": 16,
+        "short_description": "Reply Memorandum of Law in Support of Motion",
+        "snippet": "                 Case 1:24-cv-01503-LJL   Document 125   Filed 09/05/25   Page 1 of 16\n\n\n\n\n             UNITED STATES DISTRICT COURT\n             SOUTHERN DISTRICT OF NEW YORK\n                                                    Case No. 1:24-CV-01503-LJL\n             LEAH MCSWEENEY,\n                                                    ORAL ARGUMENT REQUESTED\n                       Plaintiff,\n                  v.\n\n             ANDY COHEN, LISA SHANNON, JOHN\n             PAPARAZZO, DARREN WARD, WAR"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "442 Civil Rights: Jobs",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Richard Franklin Boulware II",
+    "assigned_to_id": 338,
+    "attorney": [
+      "Dane H. Butswinkas",
+      "Kelly A. Evans",
+      "Steven M. Farina",
+      "Brennen D Marshall",
+      "Bradley T Austin",
+      "Anthony Mitchell",
+      "Emily Allen-Wiles Buchwald",
+      "David W Gutke",
+      "Eric R. Swibel",
+      "Todd L. Bice",
+      "Victor L Hou",
+      "Jared Gerber",
+      "Natalie DeLave",
+      "Jenna Lea Romanowski",
+      "Madeline Prebil"
+    ],
+    "attorney_id": [
+      11817481,
+      11817482,
+      11817483,
+      11817484,
+      9616813,
+      11817485,
+      11817486,
+      11817487,
+      11817488,
+      11817489,
+      11817490,
+      11817491,
+      11817492,
+      11817493,
+      11817494
+    ],
+    "caseName": "Mitchell v. Cohen",
+    "case_name_full": "",
+    "cause": "42:1983 Civil Rights Act",
+    "chapter": null,
+    "court": "District Court, D. Nevada",
+    "court_citation_string": "D. Nev.",
+    "court_id": "nvd",
+    "dateArgued": null,
+    "dateFiled": "2024-05-29",
+    "dateTerminated": null,
+    "docketNumber": "2:24-cv-01042",
+    "docket_absolute_url": "/docket/68826243/mitchell-v-cohen/",
+    "docket_id": 68826243,
+    "firm": [
+      "Evans Fears & Schuttert LLP",
+      "Williams & Connolly LLP",
+      "Anthony Mitchell",
+      "Snell & Wilmer L.L.P.",
+      "Cleary Gottlieb Steen & Hamilton LLP",
+      "Latham and Watkins",
+      "Evans Fears Schuttert McNulty Mickus",
+      "Pisanelli Bice, PLLC"
+    ],
+    "firm_id": [
+      13191,
+      873962,
+      146254,
+      963994,
+      981682,
+      628308,
+      744148,
+      2390,
+      1283892,
+      1283893,
+      1210
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2026-03-18T13:35:26.655306Z",
+      "date_created": "2024-06-04T17:19:23.288358Z",
+      "score": {
+        "bm25": 730.26587
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "168920",
+    "party": [
+      "Robinhood Money, LLC",
+      "Robinhood Securities, LLC",
+      "Anthony Mitchell",
+      "RC Ventures LLC",
+      "Bed, Bath and Beyond",
+      "Sue E. Gove",
+      "Overstock.com, Inc.",
+      "Robinhood Financial LLC",
+      "Ryan Cohen",
+      "20230930-DK-Butterfly-1, Inc.",
+      "The Depository Trust and Clearing Corporation"
+    ],
+    "party_id": [
+      14275828,
+      14275829,
+      14275830,
+      14275831,
+      14275832,
+      14275833,
+      14275834,
+      14275835,
+      14275836,
+      14275837,
+      14275838
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68826243/1/2/mitchell-v-cohen/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "RECEIPT of Initiating Documents by Court on behalf of Plaintiff. No Application to Proceed IFP or Filing Fee received. (Attachments: # 1 Complaint, # 2 Exhibit, # 3 Civil Cover Sheet) (ALZ) (Entered: 06/04/2024)",
+        "docket_entry_id": 392692648,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2024-05-29",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.nvd.168920/gov.uscourts.nvd.168920.1.2.pdf",
+        "id": 402508297,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-03-18T13:35:26.644812Z",
+          "date_created": "2024-06-12T12:41:39.439436Z"
+        },
+        "pacer_doc_id": "115010481047",
+        "page_count": 103,
+        "short_description": "Exhibit",
+        "snippet": "  Case\n    Case\n       2:24-cv-01042-RFB-DJA\n          1:22-cv-02541-TNM Document\n                             Document661-2Filed\n                                             Filed\n                                                01/30/23\n                                                   05/29/24Page\n                                                             Page\n                                                                1 of1 103\n                                                          "
+      },
+      {
+        "absolute_url": "/docket/68826243/18/5/mitchell-v-cohen/",
+        "attachment_number": 5,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 402017289,
+        "document_number": 18,
+        "document_type": "Attachment",
+        "entry_date_filed": "2024-09-11",
+        "entry_number": 18,
+        "filepath_local": "recap/gov.uscourts.nvd.168920/gov.uscourts.nvd.168920.18.5.pdf",
+        "id": 411721838,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-03-18T13:35:26.644812Z",
+          "date_created": "2024-09-12T15:00:44.326337Z"
+        },
+        "pacer_doc_id": "115010612113",
+        "page_count": 104,
+        "short_description": "Exhibit 5",
+        "snippet": "Case 2:24-cv-01042-RFB-DJA Document 18-5 Filed 09/11/24 Page 1 of 104\n\n\n\n\n                           EXHIBIT 5\n\n     In re Bed Bath & Beyond Corp. Sec. Litig., Case No.\n1:22-cv-02541-TNM (D.D.C. Jan. 20, 2023) (Dkt. No. 66)\n\f  Case\n    Case\n       2:24-cv-01042-RFB-DJA\n          1:22-cv-02541-TNM Document\n                             Document66\n                                      18-5\n                                         Filed\n                                             Filed\n            "
+      }
+    ],
+    "referredTo": "Daniel J. Albregts",
+    "referred_to_id": 9406,
+    "suitNature": "440 Civil Rights: Other",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Jeannette A. Vargas",
+    "assigned_to_id": null,
+    "attorney": [
+      "Josh Cohen",
+      "Andrew Lyubarsky",
+      "Mimi Murray Digby Marziani",
+      "Nathaniel K. Charny",
+      "Joshua Adam Matz",
+      "Caitlin Kekacs",
+      "Anna Collins Peterson",
+      "David T. Siegel",
+      "Lane Martin Shadgett",
+      "Madeline Rose Verniero",
+      "Seth Kalela Kugler"
+    ],
+    "attorney_id": [
+      9960135,
+      9223432,
+      9960136,
+      9960137,
+      9960138,
+      9960139,
+      9960140,
+      9960141,
+      9960142,
+      9052247,
+      9767032
+    ],
+    "caseName": "Cohen v. Action Squared",
+    "case_name_full": "",
+    "cause": "17:512 Copyright Infringement of Digital Communications",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2023-11-23",
+    "dateTerminated": "2025-05-27",
+    "docketNumber": "1:23-cv-10359",
+    "docket_absolute_url": "/docket/68038582/cohen-v-action-squared/",
+    "docket_id": 68038582,
+    "firm": [
+      "Josh Cohen",
+      "Hecker Fink LLP",
+      "Charny & Wheeler P.C.",
+      "Marziani, Stevens & Gonzalez PLLC",
+      "Grellas Shah LLP",
+      "Afl-Cio",
+      "Bredhoff & Kaiser PLLC"
+    ],
+    "firm_id": [
+      919590,
+      988938,
+      854828,
+      42705,
+      1000887,
+      44669,
+      968415
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "None",
+    "meta": {
+      "timestamp": "2025-07-12T12:53:34.601860Z",
+      "date_created": "2023-11-28T15:12:07.513001Z",
+      "score": {
+        "bm25": 680.2698
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "611005",
+    "party": [
+      "Josh Cohen",
+      "Democratic National Committee",
+      "Action Squared",
+      "AFL-CIO",
+      "Civitech",
+      "Nathan Woodhull",
+      "Netroots Nation",
+      "Action Network",
+      "Moveon.org"
+    ],
+    "party_id": [
+      14553975,
+      13592146,
+      13592147,
+      13592148,
+      14553973,
+      14553974,
+      13461783,
+      13461784,
+      14553976
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68038582/21/2/cohen-v-action-squared/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "LETTER-MOTION REQUESTING PRE-MOTION CONFERENCE addressed to Magistrate Judge Gabriel W. Gorenstein from Josh Cohen. Document filed by Josh Cohen. (Attachments: # 1 Exhibit a proposed Second Amended Complaint, # 2 Exhibit a proposed Second Amended Complaint).(rro) (Entered: 06/20/2024)",
+        "docket_entry_id": 394232535,
+        "document_number": 21,
+        "document_type": "Attachment",
+        "entry_date_filed": "2024-06-18",
+        "entry_number": 21,
+        "filepath_local": "recap/gov.uscourts.nysd.611005/gov.uscourts.nysd.611005.21.2_1.pdf",
+        "id": 403468560,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-12T12:53:34.896933Z",
+          "date_created": "2024-06-21T20:15:17.172621Z"
+        },
+        "pacer_doc_id": "127035679100",
+        "page_count": 300,
+        "short_description": "Exhibit a proposed Second Amended Complaint",
+        "snippet": "              Case 1:23-cv-10359-JPC-GWG Document 21-2 Filed 06/18/24 Page 1 of 300\n\n\n\n\n                                                TABLE OF CONTENTS\nI         Nature Of Action ................................................................................................................................................ 4\n\nII        Jurisdiction and Venue .................................................................................................................................... 11\n\nI"
+      },
+      {
+        "absolute_url": "/docket/68038582/21/1/cohen-v-action-squared/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "LETTER-MOTION REQUESTING PRE-MOTION CONFERENCE addressed to Magistrate Judge Gabriel W. Gorenstein from Josh Cohen. Document filed by Josh Cohen. (Attachments: # 1 Exhibit a proposed Second Amended Complaint, # 2 Exhibit a proposed Second Amended Complaint).(rro) (Entered: 06/20/2024)",
+        "docket_entry_id": 394232535,
+        "document_number": 21,
+        "document_type": "Attachment",
+        "entry_date_filed": "2024-06-18",
+        "entry_number": 21,
+        "filepath_local": "recap/gov.uscourts.nysd.611005/gov.uscourts.nysd.611005.21.1.pdf",
+        "id": 403468559,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-12T12:53:34.896933Z",
+          "date_created": "2024-06-21T20:15:17.098616Z"
+        },
+        "pacer_doc_id": "127035679099",
+        "page_count": 482,
+        "short_description": "Exhibit a proposed Second Amended Complaint",
+        "snippet": "              Case 1:23-cv-10359-JPC-GWG Document 21-1 Filed 06/18/24 Page 1 of 482\n\n\n\n\n                                                TABLE OF CONTENTS\nI         Nature Of Action ................................................................................................................................................ 4\n\nII        Jurisdiction and Venue .................................................................................................................................... 11\n\nI"
+      },
+      {
+        "absolute_url": "/docket/68038582/21/cohen-v-action-squared/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "LETTER-MOTION REQUESTING PRE-MOTION CONFERENCE addressed to Magistrate Judge Gabriel W. Gorenstein from Josh Cohen. Document filed by Josh Cohen. (Attachments: # 1 Exhibit a proposed Second Amended Complaint, # 2 Exhibit a proposed Second Amended Complaint).(rro) (Entered: 06/20/2024)",
+        "docket_entry_id": 394232535,
+        "document_number": 21,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2024-06-18",
+        "entry_number": 21,
+        "filepath_local": "recap/gov.uscourts.nysd.611005/gov.uscourts.nysd.611005.21.0.pdf",
+        "id": 403317054,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-12T12:53:34.896933Z",
+          "date_created": "2024-06-20T19:08:51.850550Z"
+        },
+        "pacer_doc_id": "127035679098",
+        "page_count": 10,
+        "short_description": "Conference",
+        "snippet": "           Case 1:23-cv-10359-JPC-GWG Document 21 Filed 06/18/24 Page 1 of 10\n\n1.        VIA ECF\n\n                 Hon. Gabriel W. Gorenstein\n                 United States District Court\n                 Southern District of New York\n                 500 Pearl Street\n                 New York, NY 10007\n\n\n\n\n2.\n\n\n\n          I     LETTER-MOTION REQUESTING PRE-MOTION\n                             CONFERENCE\n3.        Plaintiff writes in accordance with Your Honor’s Individual Rules of Practice seeki"
+      }
+    ],
+    "referredTo": "Gabriel W. Gorenstein",
+    "referred_to_id": 9444,
+    "suitNature": "820 Copyright",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Gonzalo Paul Curiel",
+    "assigned_to_id": 772,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "Cohen v. Chenowth",
+    "case_name_full": "",
+    "cause": "42:5101 Child Abuse Prevention and Treatment Act",
+    "chapter": null,
+    "court": "District Court, S.D. California",
+    "court_citation_string": "S.D. Cal.",
+    "court_id": "casd",
+    "dateArgued": null,
+    "dateFiled": "2022-09-27",
+    "dateTerminated": "2023-07-18",
+    "docketNumber": "3:22-cv-01451",
+    "docket_absolute_url": "/docket/65381156/cohen-v-chenowth/",
+    "docket_id": 65381156,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-06-27T12:44:21.852705Z",
+      "date_created": "2022-09-28T01:32:33.187048Z",
+      "score": {
+        "bm25": 647.74786
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "743404",
+    "party": [
+      "Cohen",
+      "Chenowth"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/65381156/45/cohen-v-chenowth/",
+        "attachment_number": null,
+        "cites": [
+          102656,
+          102722,
+          105573,
+          117845,
+          479835,
+          488116,
+          536045,
+          578335,
+          601572,
+          624108,
+          716821,
+          780553,
+          796314,
+          1363144,
+          1450162,
+          1549870,
+          1801896,
+          2612695,
+          2620886,
+          2623115,
+          2672209
+        ],
+        "description": " Order: 1. Denying Motion for Leave to File Late Reply (ECF No.  43 ); 2. Granting Motion to Dismiss (ECF No.  23 ); and 3. Denying Motion for Sanctions (ECF No.  19 ). A second amended complaint, if any, must be filed within 45 days of entry of this order. Signed by Judge Gonzalo P. Curiel on 3/16/23. (All non-registered users served via U.S. Mail Service)(jmo)",
+        "docket_entry_id": 242001032,
+        "document_number": 45,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-03-16",
+        "entry_number": 45,
+        "filepath_local": "recap/gov.uscourts.casd.743404/gov.uscourts.casd.743404.45.0.pdf",
+        "id": 248162456,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-27T12:44:21.302932Z",
+          "date_created": "2023-03-16T16:57:10.842939Z"
+        },
+        "pacer_doc_id": "037018987250",
+        "page_count": 24,
+        "short_description": "Order on Motion for Leave to File Document",
+        "snippet": "     Case 3:22-cv-01451-GPC-WVG Document 45 Filed 03/16/23 PageID.466 Page 1 of 24\n\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8                            UNITED STATES DISTRICT COURT\n 9                           SOUTHERN DISTRICT OF CALIFORNIA\n10\n11     KING COHEN and HEATHER COHEN,                      Case No.: 3:22-CV-1451-GPC-WVG\n12                                      Plaintiffs,\n                                                          ORDER:\n13     v.                                                 1. DE"
+      }
+    ],
+    "referredTo": "William V. Gallo",
+    "referred_to_id": 9105,
+    "suitNature": "P.I.: Other",
+    "trustee_str": null
+  }
+]

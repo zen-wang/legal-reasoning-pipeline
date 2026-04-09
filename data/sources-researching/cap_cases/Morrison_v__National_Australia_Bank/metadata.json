@@ -1,0 +1,26 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Morrison v. National Australia Bank",
+  "cluster_id": 149289,
+  "case_name_cl": "Morrison v. National Australia Bank Ltd.",
+  "date_filed": "2010-06-24",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "177 L. Ed. 2d 535",
+    "130 S. Ct. 2869",
+    "561 U.S. 247",
+    "2010 U.S. LEXIS 5257",
+    "22 Fla. L. Weekly Fed. S 575",
+    "76 Fed. R. Serv. 3d 1330",
+    "78 U.S.L.W. 4700"
+  ],
+  "docket_number": "08-1191",
+  "docket_id": 1359056,
+  "judges": "Scalia, Roberts, Kennedy, Thomas, Alito, Breyer, Stevens, Ginsberg, Sotomayor, Ginsburg",
+  "num_opinions": 4,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/149289/morrison-v-national-australia-bank-ltd/",
+  "legal_principle": "extraterritorial reach of 10b-5",
+  "year": 2010
+}

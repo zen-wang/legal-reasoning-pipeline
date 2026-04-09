@@ -1,0 +1,36 @@
+[
+  {
+    "absolute_url": "/audio/37236/ufcw-local-1500-pension-fund-v-marissa-mayer/",
+    "caseName": "UFCW Local 1500 Pension Fund v. Marissa Mayer",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Ninth Circuit",
+    "court_citation_string": "9th Cir.",
+    "court_id": "ca9",
+    "dateArgued": "2018-06-13",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "17-15435",
+    "docket_id": 7153996,
+    "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2018/06/13/17-15435.mp3",
+    "duration": 1757,
+    "file_size_mp3": 10762492,
+    "id": 37236,
+    "judge": "Ebel, Schroeder, Owens",
+    "local_path": "mp3/2018/06/13/ufcw_local_1500_pension_fund_v._marissa_mayer_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T09:20:27.331412Z",
+      "date_created": "2018-06-13T21:44:08.207891Z",
+      "score": {
+        "bm25": 13204944000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      2482,
+      2871
+    ],
+    "sha1": "2523cb547b55fcfac46518a5630f7f8a16a7e562",
+    "snippet": "Good morning. May it please the Court, Richard Stone for appellants. The decisions below are based upon a fundamental legal error and three other legal errors which follow from this. First, the Court mistakenly found that Section 3B2 of the ICA divests the Court of Jurisdiction and Competence to determine a factual issue predicate to our ICA claim, whether Yahoo violated the conditions of its 2000 exemptive declaration. Second, the Court mistakenly failed to address plaintiffs' standing to",
+    "source": "C"
+  }
+]

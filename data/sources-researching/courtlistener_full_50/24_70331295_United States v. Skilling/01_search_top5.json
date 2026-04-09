@@ -1,0 +1,323 @@
+[
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Skilling",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. Georgia",
+    "court_citation_string": "S.D. Ga.",
+    "court_id": "gasd",
+    "dateArgued": null,
+    "dateFiled": "2025-04-12",
+    "dateTerminated": null,
+    "docketNumber": "4:25-po-51743",
+    "docket_absolute_url": "/docket/70331295/united-states-v-skilling/",
+    "docket_id": 70331295,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-05-21T19:47:43.896749Z",
+      "date_created": "2025-05-21T19:47:43.838700Z",
+      "score": {
+        "bm25": 3487.6396
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "110572",
+    "party": [
+      "United States",
+      "Skilling"
+    ],
+    "party_id": [],
+    "recap_documents": [],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Skilling",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. Georgia",
+    "court_citation_string": "S.D. Ga.",
+    "court_id": "gasd",
+    "dateArgued": null,
+    "dateFiled": "2025-04-12",
+    "dateTerminated": null,
+    "docketNumber": "4:25-po-51743",
+    "docket_absolute_url": "/docket/70330100/united-states-v-skilling/",
+    "docket_id": 70330100,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-05-21T18:00:14.089699Z",
+      "date_created": "2025-05-21T18:00:14.047216Z",
+      "score": {
+        "bm25": 2916.2136
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "110571",
+    "party": [
+      "United States",
+      "Skilling"
+    ],
+    "party_id": [],
+    "recap_documents": [],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Skilling",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, E.D. North Carolina",
+    "court_citation_string": "E.D.N.C.",
+    "court_id": "nced",
+    "dateArgued": null,
+    "dateFiled": "2012-10-17",
+    "dateTerminated": "2015-07-23",
+    "docketNumber": "5:12-mj-01879",
+    "docket_absolute_url": "/docket/33837431/united-states-v-skilling/",
+    "docket_id": 33837431,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-02-18T07:40:07.835544Z",
+      "date_created": "2021-01-21T21:55:01.443930Z",
+      "score": {
+        "bm25": 2580.3792
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "125178",
+    "party": [
+      "United States",
+      "Skilling"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 264932921,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2015-08-25",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 271126105,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-29T19:13:24.476098Z",
+          "date_created": "2023-04-05T20:45:38.997992Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Add and Terminate Judges",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/33837431/4/united-states-v-skilling/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 264932920,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2015-08-25",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 271126104,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-29T19:13:24.698331Z",
+          "date_created": "2023-04-05T20:45:38.997957Z"
+        },
+        "pacer_doc_id": "13104504164",
+        "page_count": null,
+        "short_description": "Criminal Order of Dismissal",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Skilling",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, E.D. North Carolina",
+    "court_citation_string": "E.D.N.C.",
+    "court_id": "nced",
+    "dateArgued": null,
+    "dateFiled": "2012-10-17",
+    "dateTerminated": "2015-07-23",
+    "docketNumber": "5:12-mj-01879",
+    "docket_absolute_url": "/docket/33836353/united-states-v-skilling/",
+    "docket_id": 33836353,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-02-18T07:39:31.694680Z",
+      "date_created": "2021-01-21T21:54:41.499801Z",
+      "score": {
+        "bm25": 1436.6271
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "125177",
+    "party": [
+      "United States",
+      "Skilling"
+    ],
+    "party_id": [],
+    "recap_documents": [],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Barry S. Schermer",
+    "assigned_to_id": 8853,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "John Q. Skilling",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": "13",
+    "court": "United States Bankruptcy Court, E.D. Missouri",
+    "court_citation_string": "Bankr. E.D. Mo.",
+    "court_id": "moeb",
+    "dateArgued": null,
+    "dateFiled": "2012-11-14",
+    "dateTerminated": "2016-01-08",
+    "docketNumber": "12-50987",
+    "docket_absolute_url": "/docket/47333454/john-q-skilling/",
+    "docket_id": 47333454,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-02-23T23:19:45.825888Z",
+      "date_created": "2021-01-28T02:51:59.846027Z",
+      "score": {
+        "bm25": 1059.8673
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "353633",
+    "party": [
+      "John Q. Skilling"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/47333454/24/john-q-skilling/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 304339978,
+        "document_number": 24,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2016-10-13",
+        "entry_number": 24,
+        "filepath_local": null,
+        "id": 310576531,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-04T19:18:43.318842Z",
+          "date_created": "2023-05-02T06:48:19.701701Z"
+        },
+        "pacer_doc_id": "106019834959",
+        "page_count": null,
+        "short_description": "Resend Document",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/47333454/25/john-q-skilling/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 304540601,
+        "document_number": 25,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2016-10-16",
+        "entry_number": 25,
+        "filepath_local": null,
+        "id": 310777188,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-04T19:53:54.268379Z",
+          "date_created": "2023-05-02T09:54:37.593947Z"
+        },
+        "pacer_doc_id": "106019849235",
+        "page_count": null,
+        "short_description": "BNC Certificate of Mailing - PDF Document",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/47333454/17/john-q-skilling/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 275288379,
+        "document_number": 17,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2015-12-06",
+        "entry_number": 17,
+        "filepath_local": null,
+        "id": 281495437,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-31T04:35:55.694628Z",
+          "date_created": "2023-04-15T06:18:32.234146Z"
+        },
+        "pacer_doc_id": "106018699033",
+        "page_count": null,
+        "short_description": "BNC Certificate of Mailing",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": "LaBarge, John V."
+  }
+]

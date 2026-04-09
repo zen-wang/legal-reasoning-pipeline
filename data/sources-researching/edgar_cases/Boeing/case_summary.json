@@ -1,0 +1,91 @@
+{
+  "source": "SEC EDGAR",
+  "name": "BOEING CO",
+  "cik": 12927,
+  "sic": "3721",
+  "sic_description": "Aircraft",
+  "tickers": [
+    "BA",
+    "BA-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "stateOfIncorporation": "DE",
+  "why_selected": "737 MAX 安全隱瞞",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "10-K",
+      "date": "2026-01-30",
+      "accession": "0001628280-26-004357",
+      "filename": "10-K_2026-01-30_ba-20251231.htm",
+      "description": "10-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-27",
+      "accession": "0001628280-26-003518",
+      "filename": "8-K_2026-01-27_ba-20260127.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-08",
+      "accession": "0001628280-25-055825",
+      "filename": "8-K_2025-12-08_ba-20251208.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-03",
+      "accession": "0001628280-25-055122",
+      "filename": "8-K_2025-12-03_ba-20251201.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-10-29",
+      "accession": "0001628280-25-047023",
+      "filename": "10-Q_2025-10-29_ba-20250930.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-10-29",
+      "accession": "0001628280-25-046915",
+      "filename": "8-K_2025-10-29_ba-20251029.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-08-28",
+      "accession": "0000012927-25-000064",
+      "filename": "8-K_2025-08-28_ba-20250825.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-07-29",
+      "accession": "0000012927-25-000062",
+      "filename": "10-Q_2025-07-29_ba-20250630.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-07-29",
+      "accession": "0000012927-25-000058",
+      "filename": "8-K_2025-07-29_ba-20250729.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-07-03",
+      "accession": "0000012927-25-000050",
+      "filename": "8-K_2025-07-03_ba-20250627.htm",
+      "description": "8-K"
+    }
+  ],
+  "total_filings_available": 1001
+}

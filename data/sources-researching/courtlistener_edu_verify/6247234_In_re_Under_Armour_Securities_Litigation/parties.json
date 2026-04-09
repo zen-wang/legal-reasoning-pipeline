@@ -1,0 +1,1548 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/10215759/",
+    "id": 10215759,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575794/",
+        "attorney_id": 7575794,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575794/",
+        "attorney_id": 7575794,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 10
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270601/",
+        "attorney_id": 6270601,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575795/",
+        "attorney_id": 7575795,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575795/",
+        "attorney_id": 7575795,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1009839/",
+        "attorney_id": 1009839,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/3188724/",
+        "attorney_id": 3188724,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/869155/",
+        "attorney_id": 869155,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Plaintiff",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-12-10T05:20:34.743046-08:00",
+    "date_modified": "2020-12-10T05:20:34.743063-08:00",
+    "name": "KBC Asset Management NV",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/9941334/",
+    "id": 9941334,
+    "attorneys": [],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Consol Counter Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-09-15T08:06:13.182055-07:00",
+    "date_modified": "2020-09-15T08:06:13.182076-07:00",
+    "name": "David E. Bergman",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/9941333/",
+    "id": 9941333,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/9859195/",
+        "attorney_id": 9859195,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/9859195/",
+        "attorney_id": 9859195,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-09-15T08:06:13.144994-07:00",
+    "date_modified": "2020-09-15T08:06:13.145014-07:00",
+    "name": "Edward J. Gray",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/9941332/",
+    "id": 9941332,
+    "attorneys": [],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Consol Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2020-09-15T08:06:12.632893-07:00",
+    "date_modified": "2020-09-15T08:06:12.632910-07:00",
+    "name": "Patrik Frisk",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/9000913/",
+    "id": 9000913,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8151421/",
+        "attorney_id": 8151421,
+        "date_action": "2022-12-06",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Interested Party",
+        "date_terminated": null,
+        "extra_info": "Counsel for Plaintiff Patel in Patel v. Under Armour, Inc.",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2019-12-10T07:03:47.384477-08:00",
+    "date_modified": "2019-12-10T07:03:47.384514-08:00",
+    "name": "Kirtan Patel",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/4278806/",
+    "id": 4278806,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1681019/",
+        "attorney_id": 1681019,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270601/",
+        "attorney_id": 6270601,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284864/",
+        "attorney_id": 7284864,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284864/",
+        "attorney_id": 7284864,
+        "date_action": "2022-11-04",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1009839/",
+        "attorney_id": 1009839,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284865/",
+        "attorney_id": 7284865,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284865/",
+        "attorney_id": 7284865,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/3188724/",
+        "attorney_id": 3188724,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/869155/",
+        "attorney_id": 869155,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Plaintiff",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2019-01-05T10:02:34.501962-08:00",
+    "date_modified": "2019-01-05T10:02:34.501983-08:00",
+    "name": "Monroe County Employees' Retirement System",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307834/",
+    "id": 1307834,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": "2018-03-30",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1120589/",
+        "attorney_id": 1120589,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Movant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:30.493147-08:00",
+    "date_modified": "2017-12-22T16:58:30.493192-08:00",
+    "name": "Bernardo Medellin",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307833/",
+    "id": 1307833,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/3188726/",
+        "attorney_id": 3188726,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/3188726/",
+        "attorney_id": 3188726,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/666692/",
+        "attorney_id": 666692,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/666692/",
+        "attorney_id": 666692,
+        "date_action": "2020-01-02",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/666692/",
+        "attorney_id": 666692,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270602/",
+        "attorney_id": 6270602,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270602/",
+        "attorney_id": 6270602,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/726173/",
+        "attorney_id": 726173,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:30.471161-08:00",
+    "date_modified": "2017-12-22T16:58:30.471205-08:00",
+    "name": "Brad Dickerson",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307832/",
+    "id": 1307832,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/601066/",
+        "attorney_id": 601066,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:30.120566-08:00",
+    "date_modified": "2017-12-22T16:58:30.120610-08:00",
+    "name": "PNC Capital Markets, LLC",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307831/",
+    "id": 1307831,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.837180-08:00",
+    "date_modified": "2017-12-22T16:58:29.837225-08:00",
+    "name": "Harvey L. Sanders",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307830/",
+    "id": 1307830,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.809243-08:00",
+    "date_modified": "2017-12-22T16:58:29.809270-08:00",
+    "name": "Eric T. Olson",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307829/",
+    "id": 1307829,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.778549-08:00",
+    "date_modified": "2017-12-22T16:58:29.778593-08:00",
+    "name": "William R. McDermott",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307828/",
+    "id": 1307828,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.746527-08:00",
+    "date_modified": "2017-12-22T16:58:29.746560-08:00",
+    "name": "A.B. Krongard",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307827/",
+    "id": 1307827,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.716233-08:00",
+    "date_modified": "2017-12-22T16:58:29.716278-08:00",
+    "name": "Karen W. Katz",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307826/",
+    "id": 1307826,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.689652-08:00",
+    "date_modified": "2017-12-22T16:58:29.689678-08:00",
+    "name": "Anthony W. Deering",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307825/",
+    "id": 1307825,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.659233-08:00",
+    "date_modified": "2017-12-22T16:58:29.659277-08:00",
+    "name": "Douglas E. Coltharp",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307824/",
+    "id": 1307824,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.630318-08:00",
+    "date_modified": "2017-12-22T16:58:29.630345-08:00",
+    "name": "George W. Bodenheimer",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307823/",
+    "id": 1307823,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/941038/",
+        "attorney_id": 941038,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10908518/",
+        "attorney_id": 10908518,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Defendant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.601345-08:00",
+    "date_modified": "2017-12-22T16:58:29.601387-08:00",
+    "name": "Byron K. Adams, Jr.",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307822/",
+    "id": 1307822,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": "2018-03-30",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284863/",
+        "attorney_id": 7284863,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284863/",
+        "attorney_id": 7284863,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/932806/",
+        "attorney_id": 932806,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/910698/",
+        "attorney_id": 910698,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/910698/",
+        "attorney_id": 910698,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/910698/",
+        "attorney_id": 910698,
+        "date_action": "2021-02-12",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/601063/",
+        "attorney_id": 601063,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/601063/",
+        "attorney_id": 601063,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1068882/",
+        "attorney_id": 1068882,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1068882/",
+        "attorney_id": 1068882,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1681019/",
+        "attorney_id": 1681019,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1681019/",
+        "attorney_id": 1681019,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/9169851/",
+        "attorney_id": 9169851,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/9169851/",
+        "attorney_id": 9169851,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1142223/",
+        "attorney_id": 1142223,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1142223/",
+        "attorney_id": 1142223,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575793/",
+        "attorney_id": 7575793,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575793/",
+        "attorney_id": 7575793,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270601/",
+        "attorney_id": 6270601,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575792/",
+        "attorney_id": 7575792,
+        "date_action": "2023-04-11",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575792/",
+        "attorney_id": 7575792,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053111/",
+        "attorney_id": 6053111,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053111/",
+        "attorney_id": 6053111,
+        "date_action": "2021-10-12",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053111/",
+        "attorney_id": 6053111,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8644724/",
+        "attorney_id": 8644724,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8644724/",
+        "attorney_id": 8644724,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/601064/",
+        "attorney_id": 601064,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/869155/",
+        "attorney_id": 869155,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/869155/",
+        "attorney_id": 869155,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8956514/",
+        "attorney_id": 8956514,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8956514/",
+        "attorney_id": 8956514,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284864/",
+        "attorney_id": 7284864,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284864/",
+        "attorney_id": 7284864,
+        "date_action": "2022-11-04",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1009839/",
+        "attorney_id": 1009839,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1009839/",
+        "attorney_id": 1009839,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/9697729/",
+        "attorney_id": 9697729,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/9697729/",
+        "attorney_id": 9697729,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284865/",
+        "attorney_id": 7284865,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7284865/",
+        "attorney_id": 7284865,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/3188724/",
+        "attorney_id": 3188724,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Plaintiff",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:29.133044-08:00",
+    "date_modified": "2017-12-22T16:58:29.133078-08:00",
+    "name": "Aberdeen City Council as Administrating Authority for the North East Scotland Pension Fund",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/1307821/",
+    "id": 1307821,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1681016/",
+        "attorney_id": 1681016,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1681016/",
+        "attorney_id": 1681016,
+        "date_action": "2024-04-05",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1120589/",
+        "attorney_id": 1120589,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1120589/",
+        "attorney_id": 1120589,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 2
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/910698/",
+        "attorney_id": 910698,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/910698/",
+        "attorney_id": 910698,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/910698/",
+        "attorney_id": 910698,
+        "date_action": "2021-02-12",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/601063/",
+        "attorney_id": 601063,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/601063/",
+        "attorney_id": 601063,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1068882/",
+        "attorney_id": 1068882,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1068882/",
+        "attorney_id": 1068882,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053110/",
+        "attorney_id": 6053110,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1142223/",
+        "attorney_id": 1142223,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1142223/",
+        "attorney_id": 1142223,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270601/",
+        "attorney_id": 6270601,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6270601/",
+        "attorney_id": 6270601,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575792/",
+        "attorney_id": 7575792,
+        "date_action": "2023-04-11",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7575792/",
+        "attorney_id": 7575792,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053111/",
+        "attorney_id": 6053111,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053111/",
+        "attorney_id": 6053111,
+        "date_action": "2021-10-12",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/6053111/",
+        "attorney_id": 6053111,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/869155/",
+        "attorney_id": 869155,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/869155/",
+        "attorney_id": 869155,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1009839/",
+        "attorney_id": 1009839,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/1009839/",
+        "attorney_id": 1009839,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/639644/",
+        "attorney_id": 639644,
+        "date_action": "2018-03-30",
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 6
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/3188724/",
+        "attorney_id": 3188724,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7939607/",
+        "attorney_id": 7939607,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 1
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/7939607/",
+        "attorney_id": 7939607,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "role": 4
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/6247234/",
+        "docket_id": 6247234,
+        "name": "Plaintiff",
+        "date_terminated": null,
+        "extra_info": "Individually and on Behalf of All Others Similarly Situated",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2017-12-22T16:58:28.607586-08:00",
+    "date_modified": "2018-02-23T14:27:41.224736-08:00",
+    "name": "Brian Breece",
+    "extra_info": "Individually and on Behalf of All Others Similarly Situated"
+  }
+]

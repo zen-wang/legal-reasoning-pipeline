@@ -1,0 +1,230 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>h19235e8vk.txt
+<DESCRIPTION>ENRON CORP.- OCTOBER 13, 2004
+<TEXT>
+<PAGE>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                              ---------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+       DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): OCTOBER 13, 2004
+
+
+                                   ENRON CORP.
+               (Exact name of Registrant as specified in charter)
+
+         OREGON                           1-13159                 47-0255140
+(State or other jurisdiction     (Commission file number)     (I.R.S. employer
+    of incorporation)                                        identification no.)
+
+               1221 LAMAR #1600
+                HOUSTON, TEXAS                          77010-1221
+   (Address of principal executive offices)             (Zip Code)
+
+       Registrant's telephone number, including area code: (713) 853-6161
+
+         Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[ ]      Written communications pursuant to Rule 425 under the Securities Act
+         (17 CFR 230.425)
+
+[ ]      Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+         CFR 240.14a-12)
+
+[ ]      Pre-commencement communications pursuant to Rule 14d-2(b) under the
+         Exchange Act (17 CFR 240.14d-2(b))
+
+[ ]      Pre-commencement communications pursuant to Rule 13e-4(c) under the
+         Exchange Act (17 CFR 240.13e-4(c))
+
+                              ---------------------
+
+
+<PAGE>
+                SECTION 1 - REGISTRANT'S BUSINESS AND OPERATIONS
+
+ITEM 1.01. ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT.
+
+         On October 13, 2004, East Coast Power Holdings ("ECPH") and ECTMI
+Trutta Holdings LP ("Trutta") entered into a Swap Settlement Agreement dated to
+be effective as of August 16, 2004 (the "Swap Settlement Agreement") with El
+Paso Corporation ("El Paso") and El Paso Merchant Energy, L.P., an affiliate of
+El Paso ("EPME"). The Swap Settlement Agreement will terminate EPME's
+obligations under two separate swap agreements with ECPH and Trutta and El
+Paso's guarantee of those swap agreements, in exchange for two promissory notes
+given by El Paso, one given to ECPH in the principal amount of approximately
+$117 million, and the other given to Trutta in the principal amount of
+approximately $98 million.
+
+         The promissory notes bear interest at 6.5% per annum, payable
+quarterly, with the first installment due November 15, 2004, and mature on
+August 15, 2005. The existing swap agreements provided for payments through
+2008.
+
+         The Swap Settlement Agreement is subject to the approval of the United
+States Bankruptcy Court of the Southern District of New York. Upon the receipt
+of such bankruptcy court approval, the Swap Settlement Agreement requires El
+Paso to execute and deliver the notes.
+
+         The descriptions set forth above are qualified in their entirety by
+reference to the Swap Settlement Agreement, which is attached hereto as an
+exhibit.
+
+         ECPH is a wholly owned subsidiary of Joint Energy Development
+Investments II Limited Partnership ("JEDI II"). The general partner of JEDI II
+is Enron Capital Management II Limited Partnership ("ECM II"), an indirect
+wholly-owned subsidiary of Enron Corp. (the "Company"). JEDI II's two limited
+partners are Enron Capital Management III Limited Partnership ("ECM III"), also
+an indirect wholly-owned subsidiary of the Company, and the California Public
+Employees' Retirement System, a unit of the State & Consumer Services Agency of
+the State of California ("CalPERS"). Indirectly through ECM II and ECM III, the
+Company holds a 50% interest in JEDI II. CalPERS holds the remaining 50%
+interest.
+
+         Brook I LLC, an indirect wholly-owned subsidiary of the Company ("Brook
+I"), is the general partner of Trutta. The remaining interests of Trutta are
+owned indirectly by Whitewing Associates L.P., a direct and indirect
+wholly-owned subsidiary of the Company, and ECT Merchant Investments Corp., an
+indirect wholly-owned subsidiary of the Company.
+
+                        SECTION 2 - FINANCIAL INFORMATION
+
+ITEM 2.03. CREATION OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION UNDER AN
+           OFF-BALANCE SHEET ARRANGEMENT OF A REGISTRANT
+
+                See item 1.01 of this Current Report on Form 8-K.
+
+
+                                       2
+<PAGE>
+
+
+                  SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+         (c)      Exhibits.
+
+         10.1     Swap Settlement Agreement, executed October 13, 2004 to be
+                  effective as of August 16, 2004, among El Paso, EPME, ECPH,
+                  and Trutta.
+
+         THE SWAP SETTLEMENT AGREEMENT AND THIS FORM 8-K, INCLUDING THE EXHIBITS
+ATTACHED HERETO, MAY CONTAIN STATEMENTS THAT ARE FORWARD-LOOKING WITHIN THE
+MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933 AND SECTION 21E OF THE
+SECURITIES EXCHANGE ACT OF 1934. INVESTORS ARE CAUTIONED THAT ANY SUCH
+FORWARD-LOOKING STATEMENTS ARE BASED ON MANAGEMENT'S CURRENT EXPECTATION AND, AS
+SUCH, ARE NOT GUARANTEES OF FUTURE PERFORMANCE. ACCORDINGLY, ACTUAL RESULTS
+COULD DIFFER MATERIALLY AS A RESULT OF KNOWN AND UNKNOWN RISKS AND
+UNCERTAINTIES, INCLUDING, BUT NOT LIMITED TO: VARIOUS REGULATORY ISSUES; THE
+OUTCOME OF THE REMAINDER OF THE COMPANY'S CHAPTER 11 PROCESS; RISKS INHERENT IN
+THE COMPANY'S CHAPTER 11 PROCESS, SUCH AS THE DELAYED DISTRIBUTION OR
+NON-DISTRIBUTION OF SECURITIES OR OTHER ASSETS UNDER THE CHAPTER 11 PLAN; THE
+UNCERTAIN OUTCOMES OF ONGOING LITIGATION AND GOVERNMENTAL INVESTIGATIONS
+INVOLVING THE COMPANY'S OPERATING SUBSIDIARIES AND THE REORGANIZED DEBTORS,
+INCLUDING THOSE INVOLVING FOREIGN REGULATORS AND THE U.S. CONGRESS, THE
+DEPARTMENT OF JUSTICE, THE SECURITIES AND EXCHANGE COMMISSION ("SEC"), THE
+DEPARTMENT OF LABOR, THE INTERNAL REVENUE SERVICE, THE PENSION BENEFIT GUARANTY
+CORPORATION, THE NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC., THE FEDERAL
+ENERGY REGULATORY COMMISSION, THE COMMODITY FUTURES TRADING COMMISSION, THE
+FEDERAL TRADE COMMISSION, THE CALIFORNIA AND CONNECTICUT ATTORNEYS GENERAL AND
+NUMEROUS CONGRESSIONAL COMMITTEES AND STATE AGENCIES; THE UNCERTAIN OUTCOMES OF
+NUMEROUS LAWSUITS AND CLAIMS; THE EFFECTS OF NEGATIVE PUBLICITY ON THE COMPANY'S
+OPERATING SUBSIDIARIES' BUSINESS OPPORTUNITIES; THE EFFECTS OF THE DEPARTURE OF
+PAST AND PRESENT EMPLOYEES OF THE REORGANIZED DEBTORS; UNCERTAIN RESOLUTION OF
+SPECIAL PURPOSE ENTITY ISSUES; THE PRELIMINARY AND UNCERTAIN NATURE OF
+VALUATIONS AND ESTIMATES CONTAINED IN THE CHAPTER 11 PLAN; FINANCIAL AND
+OPERATING RESTRICTIONS THAT MAY BE IMPOSED ON AN OPERATING SUBSIDIARY OF THE
+COMPANY UNDER THE PUBLIC UTILITY HOLDING COMPANY ACT; POTENTIAL ENVIRONMENTAL
+LIABILITIES; INCREASING COMPETITION AND OPERATIONAL HAZARDS FACED BY THE
+REORGANIZED DEBTORS AND OPERATING SUBSIDIARIES OF THE COMPANY; THE POTENTIAL
+LACK OF A TRADING MARKET FOR THE SECURITIES DISTRIBUTED TO CREDITORS;
+UNCERTAINTIES CREATED BY THE LACK OF REPORTED INFORMATION FOR SECURITIES
+DISTRIBUTED TO CREDITORS AND THE LACK OF INDEPENDENT OPERATING HISTORY OF THE
+COMPANY'S OPERATING
+
+
+                                       3
+<PAGE>
+
+
+SUBSIDIARIES; ECONOMIC, POLITICAL, REGULATORY AND LEGAL RISKS AFFECTING THE
+FINANCES AND OPERATIONS OF THE REORGANIZED DEBTORS AND THE COMPANY'S OPERATING
+SUBSIDIARIES; AND THE UNCERTAIN TIMING, COSTS AND RECOVERY VALUES INVOLVED IN
+THE REORGANIZED DEBTORS' EFFORTS TO RECOVER ACCOUNTS RECEIVABLE AND TO LIQUIDATE
+THE REMAINING ASSETS.
+
+         THE INFORMATION CONTAINED IN THE SWAP SETTLEMENT AGREEMENT IS NOT TO BE
+USED FOR INVESTMENT PURPOSES.
+
+         AS EXPLAINED IN A NOVEMBER 8, 2001 FORM 8-K FILED BY THE COMPANY WITH
+THE SEC, THE PREVIOUSLY ISSUED FINANCIAL STATEMENTS OF THE COMPANY FOR THE
+FISCAL YEARS ENDED DECEMBER 31, 1997 THROUGH 2000 AND FOR THE FIRST AND SECOND
+QUARTERS OF 2001 AND THE AUDIT REPORTS COVERING THE YEAR-END FINANCIAL
+STATEMENTS FOR 1997 THROUGH 2000 SHOULD NOT BE RELIED UPON. IN ADDITION, AS
+EXPLAINED IN AN APRIL 22, 2002 FORM 8-K FILED BY THE COMPANY, THE FINANCIAL
+STATEMENTS OF THE COMPANY FOR THE THIRD QUARTER OF 2001 SHOULD NOT BE RELIED
+UPON. THE COMPANY CONTINUES TO BELIEVE THAT THE EXISTING COMMON AND PREFERRED
+STOCK OF THE COMPANY HAVE NO VALUE. HOWEVER, THE CHAPTER 11 PLAN PROVIDES THE
+COMPANY'S STOCKHOLDERS WITH A CONTINGENT RIGHT TO RECEIVE RECOVERY IN THE VERY
+UNLIKELY EVENT THAT THE AGGREGATE VALUE OF THE COMPANY'S ASSETS EXCEEDS THE
+TOTAL AMOUNT OF ALLOWED CLAIMS.
+
+
+                                       4
+<PAGE>
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+                                     ENRON CORP.
+
+
+Date:  October 19, 2004              By: /s/ K. WADE CLINE
+                                        ---------------------------------------
+                                        Name: K. Wade Cline
+                                        Title:  Managing Director and Assistant
+                                        General Counsel
+
+
+                                       5
+<PAGE>
+                                  EXHIBIT INDEX
+
+<Table>
+<Caption>
+EXHIBIT                                  DESCRIPTION
+-------              ----------------------------------------------------------
+<S>                  <C>
+ 10.1                Swap Settlement Agreement, executed October 13, 2004 to be
+                     effective as of August 16, 2004, among El Paso, EPME, ECPH,
+                     and Trutta.
+</Table>
+
+
+
+
+                                       6
+
+</TEXT>
+</DOCUMENT>

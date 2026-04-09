@@ -1,0 +1,124 @@
+{
+  "assignedTo": "Patrick M. Hunt",
+  "assigned_to_id": 9171,
+  "attorney": [
+    "Donnahue George",
+    "Gregory M. Boyle",
+    "David Scott Mandel",
+    "Curtis David Carlson"
+  ],
+  "attorney_id": [
+    11138672,
+    11138673,
+    11138670,
+    11138671
+  ],
+  "caseName": "George v. Bankman-Fried",
+  "case_name_full": "",
+  "cause": "18:1964 Racketeering (RICO) Act",
+  "chapter": null,
+  "court": "District Court, S.D. Florida",
+  "court_citation_string": "S.D. Fla.",
+  "court_id": "flsd",
+  "dateArgued": null,
+  "dateFiled": "2025-11-04",
+  "dateTerminated": null,
+  "docketNumber": "0:25-cv-62222",
+  "docket_absolute_url": "/docket/71870485/george-v-bankman-fried/",
+  "docket_id": 71870485,
+  "firm": [
+    "Donnahue George",
+    "Carlson & Associates, PA",
+    "Jenner & Block, LLP",
+    "Mandel & Mandel LLP"
+  ],
+  "firm_id": [
+    601784,
+    963825,
+    41530,
+    962410
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-12-31T23:52:55.360555Z",
+    "date_created": "2025-11-04T15:15:31.395233Z",
+    "score": {
+      "bm25": 2136.6663
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "700571",
+  "party": [
+    "Donnahue George",
+    "Alameda Research LLC.",
+    "CM-Equity AG",
+    "John Does 1-50",
+    "FTX Trading LTD.",
+    "Financial Industry Regulatory Authority (FINRA)",
+    "Depository Trust & Clearing Corporation (DTCC)",
+    "Caroline Ellison",
+    "Samuel Bankman-Fried"
+  ],
+  "party_id": [
+    17074528,
+    17074529,
+    17074530,
+    17074531,
+    17074532,
+    17074524,
+    17074525,
+    17074526,
+    17074527
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/71870485/32/george-v-bankman-fried/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 457646858,
+      "document_number": 32,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2026-03-18",
+      "entry_number": 32,
+      "filepath_local": "recap/gov.uscourts.flsd.700571/gov.uscourts.flsd.700571.32.0.pdf",
+      "id": 472634107,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2026-03-18T18:02:30.232425Z",
+        "date_created": "2026-03-18T17:59:14.756163Z"
+      },
+      "pacer_doc_id": "051029582804",
+      "page_count": 5,
+      "short_description": "Expedite",
+      "snippet": "Case 0:25-cv-62222-PMH Document 32 Entered on FLSD Docket 03/18/2026 Page 1 of 5\n\n\n\n   UNITED STATES DISTRICT COURT\n\n   SOUTHERN DISTRICT OF FLORIDA\n   FORT IA UDERDA LE DIVISIO N\n\n   CA SE NO .:0:25-cv-62222-PM 11\n                                                                  FILED B '-                   D.G.\n   D O N NA H U E G EO R G E,\n   Plaintiff,\n                                                                       M),?1 1k\n                                                             "
+    },
+    {
+      "absolute_url": "/docket/71870485/3/george-v-bankman-fried/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "MOTION for Preliminary Injunction by Donnahue George. (Attachments: # 1 Text of Proposed Order)(ebz) (Entered: 11/04/2025)",
+      "docket_entry_id": 443040935,
+      "document_number": 3,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-11-04",
+      "entry_number": 3,
+      "filepath_local": "recap/gov.uscourts.flsd.700571/gov.uscourts.flsd.700571.3.0.pdf",
+      "id": 457668184,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-12-31T23:52:56.279298Z",
+        "date_created": "2025-11-04T15:23:56.664438Z"
+      },
+      "pacer_doc_id": "051029080995",
+      "page_count": 3,
+      "short_description": "Preliminary Injunction",
+      "snippet": "Case 0:25-cv-62222-PMH Document 3 Entered on FLSD Docket 11/04/2025 Page 1 of 3\n\n\n                                                                  FILED BY                  .\n                                                                                                V\n                                                                                                -rL .)\n                                                                                                D.\n                        "
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

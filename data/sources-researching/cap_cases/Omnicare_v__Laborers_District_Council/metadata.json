@@ -1,0 +1,25 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Omnicare v. Laborers District Council",
+  "cluster_id": 2788684,
+  "case_name_cl": "Omnicare, Inc. v. Laborers Dist. Council Constr. Industry Pension Fund",
+  "date_filed": "2015-03-24",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "575 U.S. 175",
+    "135 S. Ct. 1318",
+    "191 L. Ed. 2d 253",
+    "2015 U.S. LEXIS 2120",
+    "25 Fla. L. Weekly Fed. S 139",
+    "83 U.S.L.W. 4187"
+  ],
+  "docket_number": "13-435",
+  "docket_id": 2644090,
+  "judges": "KAGANdelivered",
+  "num_opinions": 1,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/2788684/omnicare-inc-v-laborers-dist-council-constr-industry-pension-fund/",
+  "legal_principle": "liability for opinion statements",
+  "year": 2015
+}

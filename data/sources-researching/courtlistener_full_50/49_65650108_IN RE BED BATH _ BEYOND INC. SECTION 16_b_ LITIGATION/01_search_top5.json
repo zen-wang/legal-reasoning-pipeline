@@ -1,0 +1,671 @@
+[
+  {
+    "assignedTo": "Dale E. Ho",
+    "assigned_to_id": null,
+    "attorney": [
+      "Jeffrey Simon Abraham",
+      "Michael Jason Klein",
+      "David Adam Hoffman",
+      "Clifford Louis Thau",
+      "Olimpio Lee Squitieri",
+      "James Austen Hunter",
+      "Yating Wang",
+      "Joshua Mark Slocum",
+      "Victor L. Hou",
+      "Maxwell George Dillan",
+      "David H Wollmuth",
+      "Marisa Antonelli",
+      "Jared Mitchell Gerber",
+      "Joseph S. Allerhand"
+    ],
+    "attorney_id": [
+      8073917,
+      8982826,
+      8982827,
+      8982828,
+      8761453,
+      8761454,
+      8761455,
+      8761456,
+      8761457,
+      8761458,
+      8038268,
+      8038269,
+      8073918,
+      8073919
+    ],
+    "caseName": "IN RE BED BATH & BEYOND INC. SECTION 16(b) LITIGATION",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2022-10-31",
+    "dateTerminated": "2024-06-12",
+    "docketNumber": "1:22-cv-09327",
+    "docket_absolute_url": "/docket/65650108/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+    "docket_id": 65650108,
+    "firm": [
+      "Vinson & Elkins",
+      "Complex Commercial Litigation",
+      "Wollmuth Maher and Deutsch LLP",
+      "Abraham, Fruchter & Twersky, LLP",
+      "Squitieri & Fearon, LLP",
+      "Allerhand & Odoner",
+      "Vinson & Elkins LLP",
+      "Wollmuth Maher & Deutsch LLP"
+    ],
+    "firm_id": [
+      23681,
+      735075,
+      737607,
+      833671,
+      23243,
+      681420,
+      678833,
+      605684,
+      605685,
+      911253
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-06-21T11:48:49.963783Z",
+      "date_created": "2022-10-31T22:08:30.052304Z",
+      "score": {
+        "bm25": 3927.342
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "588738",
+    "party": [
+      "Todd Augenbaum",
+      "RC Ventures LLC",
+      "Ryan Cohen",
+      "Judith Cohen",
+      "Bed Bath & Beyond Inc."
+    ],
+    "party_id": [
+      12063696,
+      12063697,
+      12063698,
+      13067800,
+      13067801
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/65650108/50/2/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "SUGGESTION OF BANKRUPTCY upon the record as to Bed Bath & Beyond Inc. . Document filed by Bed Bath & Beyond Inc. (Attachments: # 1 Exhibit A - Voluntary Petition of Bed Bath & Beyond Inc., # 2 Exhibit B - Joint Administration Order for Bed Bath & Beyond).(Gerber, Jared) (Entered: 04/25/2023)",
+        "docket_entry_id": 293812423,
+        "document_number": 50,
+        "document_type": "Attachment",
+        "entry_date_filed": "2023-04-25",
+        "entry_number": 50,
+        "filepath_local": "recap/gov.uscourts.nysd.588738/gov.uscourts.nysd.588738.50.2.pdf",
+        "id": 375109633,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-21T11:48:49.279886Z",
+          "date_created": "2023-10-13T13:06:12.203407Z"
+        },
+        "pacer_doc_id": "127033244951",
+        "page_count": 18,
+        "short_description": "Exhibit B - Joint Administration Order for Bed Bath & Beyond",
+        "snippet": "Case 1:22-cv-09327-DEH Document 50-2 Filed 04/25/23 Page 1 of 18\n\n\n\n\n                              Exhibit B\n\n        Joint Administration Order for Bed Bath & Beyond Inc.\n\f   Case 23-13359-VFP\n         Case 1:22-cv-09327-DEH\n                       Doc 75 Filed\n                                 Document\n                                    04/24/2350-2\n                                               Entered\n                                                  Filed 04/24/23\n                           "
+      },
+      {
+        "absolute_url": "/docket/65650108/50/1/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "SUGGESTION OF BANKRUPTCY upon the record as to Bed Bath & Beyond Inc. . Document filed by Bed Bath & Beyond Inc. (Attachments: # 1 Exhibit A - Voluntary Petition of Bed Bath & Beyond Inc., # 2 Exhibit B - Joint Administration Order for Bed Bath & Beyond).(Gerber, Jared) (Entered: 04/25/2023)",
+        "docket_entry_id": 293812423,
+        "document_number": 50,
+        "document_type": "Attachment",
+        "entry_date_filed": "2023-04-25",
+        "entry_number": 50,
+        "filepath_local": "recap/gov.uscourts.nysd.588738/gov.uscourts.nysd.588738.50.1.pdf",
+        "id": 375109632,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-21T11:48:49.279886Z",
+          "date_created": "2023-10-13T13:06:12.085649Z"
+        },
+        "pacer_doc_id": "127033244950",
+        "page_count": 19,
+        "short_description": "Exhibit A - Voluntary Petition of Bed Bath & Beyond Inc.",
+        "snippet": "Case 1:22-cv-09327-DEH Document 50-1 Filed 04/25/23 Page 1 of 19\n\n\n\n\n                             Exhibit A\n\n            Voluntary Petition of Bed Bath & Beyond Inc.\n\f             CaseCase\n                  23-13359\n                      1:22-cv-09327-DEH\n                             Doc 1 Filed 04/23/23\n                                         Document Entered\n                                                   50-1 Filed\n                                                           04/23/23\n      "
+      },
+      {
+        "absolute_url": "/docket/65650108/77/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE OF APPEARANCE by Joseph S. Allerhand on behalf of Bed Bath & Beyond Inc...(Allerhand, Joseph) (Entered: 11/24/2023)",
+        "docket_entry_id": 371513960,
+        "document_number": 77,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-11-24",
+        "entry_number": 77,
+        "filepath_local": "recap/gov.uscourts.nysd.588738/gov.uscourts.nysd.588738.77.0.pdf",
+        "id": 378999579,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-21T11:48:49.279886Z",
+          "date_created": "2023-11-24T21:06:59.637954Z"
+        },
+        "pacer_doc_id": "127034481245",
+        "page_count": 1,
+        "short_description": "Notice of Appearance",
+        "snippet": "         Case 1:22-cv-09327-DEH Document 77 Filed 11/24/23 Page 1 of 1\n\n\n\n\n                            UNITED STATES DISTRICT COURT\n                           SOUTHERN DISTRICT OF NEW YORK\n\n\nIN RE BED BATH & BEYOND INC.                                         No. 22-cv-9327 (DEH)\nSECTION 16(b) SECURITIES LITIGATION\n\n\n                                 APPEARANCE OF COUNSEL\n\nTo the Clerk of the Court and All Parties of Record:\n\n       Kindly enter my appearance as counsel of record for Nominal Defe"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Madeline Cox Arleo",
+    "assigned_to_id": 124,
+    "attorney": [
+      "LAURENCE M. ROSEN",
+      "BARRY J. GAINEY",
+      "EDNA DORIS GUERRASIO",
+      "LISA J. RODRIGUEZ"
+    ],
+    "attorney_id": [
+      6597808,
+      6597809,
+      6597810,
+      6597807
+    ],
+    "caseName": "IN RE BED BATH & BEYOND STOCKHOLDER DERIVATIVE LITIGATION",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, D. New Jersey",
+    "court_citation_string": "D.N.J.",
+    "court_id": "njd",
+    "dateArgued": null,
+    "dateFiled": "2020-07-10",
+    "dateTerminated": "2022-11-15",
+    "docketNumber": "2:20-cv-08673",
+    "docket_absolute_url": "/docket/17341827/in-re-bed-bath-beyond-stockholder-derivative-litigation/",
+    "docket_id": 17341827,
+    "firm": [
+      "The Rosen Law Firm",
+      "GAINEY McKENNA & EGLESTON"
+    ],
+    "firm_id": [
+      241764,
+      665709,
+      139126
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-05-18T15:35:32.436660Z",
+      "date_created": "2020-07-11T02:03:01.423778Z",
+      "score": {
+        "bm25": 3400.9045
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "439571",
+    "party": [
+      "JOHN E. FLEMING",
+      "JEFFREY A. KIRWAN",
+      "OLUFEMI SALU",
+      "JOHNATHAN B. OSBORNE",
+      "HARRIET EDELMAN",
+      "JOSHUA E. SCHECHTER",
+      "HARSHA RAMALINGAM",
+      "STEPHANIE BELL-ROSE",
+      "KEVIN GROOMS",
+      "GREG  MANTIA",
+      "ANN YERGER",
+      "BED BATH & BEYOND, INC.",
+      "VIRGINIA P. RUESTERHOLZ",
+      "PATRICK R. GASTON",
+      "MARY A. WINSTON",
+      "SUE E. GOVE",
+      "MARK J. TRITTON",
+      "ANDREA WEISS",
+      "ROBYN M. D'ELIA"
+    ],
+    "party_id": [
+      10048064,
+      10048065,
+      10048066,
+      10048067,
+      10048069,
+      10048070,
+      10048071,
+      10048072,
+      10048073,
+      10048075,
+      10048076,
+      10048077,
+      10048078,
+      10048079,
+      10048080,
+      10048081,
+      10048082,
+      10048083,
+      10048084
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/17341827/8/in-re-bed-bath-beyond-stockholder-derivative-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "STIPULATION and Proposed Order re Stay Pending Securities Case by BED BATH & BEYOND, INC.. (GUERRASIO, EDNA)",
+        "docket_entry_id": 136426156,
+        "document_number": 8,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-07-31",
+        "entry_number": 8,
+        "filepath_local": "recap/gov.uscourts.njd.439571/gov.uscourts.njd.439571.8.0.pdf",
+        "id": 141014552,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-05-18T15:35:35.899170Z",
+          "date_created": "2020-07-31T14:39:09.816034Z"
+        },
+        "pacer_doc_id": "119016228759",
+        "page_count": 4,
+        "short_description": "Stipulation",
+        "snippet": "Case 2:20-cv-08673-MCA-MAH Document 8 Filed 07/31/20 Page 1 of 4 PageID: 74\n\n\n\n\n                       IN THE UNITED STATES DISTRICT COURT\n                              DISTRICT OF NEW JERSEY\n\n\nOLUFEMI SALU, derivatively on behalf of\nBED BATH & BEYOND, INC.,                                 No. 2:20-cv-08673-MCA-MAH\n\n                                      Plaintiff,\n                                                         STIPULATION AND [PROPOSED]\n       v.                                        "
+      },
+      {
+        "absolute_url": "/docket/17341827/7/in-re-bed-bath-beyond-stockholder-derivative-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Corporate Disclosure Statement by BED BATH & BEYOND, INC.. (GUERRASIO, EDNA)",
+        "docket_entry_id": 136286852,
+        "document_number": 7,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-07-30",
+        "entry_number": 7,
+        "filepath_local": "recap/gov.uscourts.njd.439571/gov.uscourts.njd.439571.7.0.pdf",
+        "id": 140874185,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-05-18T15:35:35.899170Z",
+          "date_created": "2020-07-30T14:37:19.444149Z"
+        },
+        "pacer_doc_id": "119016224644",
+        "page_count": 2,
+        "short_description": "Corporate Disclosure Statement (aty)",
+        "snippet": "Case 2:20-cv-08673-MCA-MAH Document 7 Filed 07/30/20 Page 1 of 2 PageID: 72\n\n\n\n\n                       IN THE UNITED STATES DISTRICT COURT\n                              DISTRICT OF NEW JERSEY\n\n\nOLUFEMI SALU, derivatively on behalf of\nBED BATH & BEYOND, INC.,                                 No. 2:20-cv-08673-MCA-MAH\n\n                                      Plaintiff,\n                                                         CORPORATE DISCLOSURE\n       v.                                              "
+      },
+      {
+        "absolute_url": "/docket/17341827/36/in-re-bed-bath-beyond-stockholder-derivative-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "STIPULATION AND [PROPOSED] ORDER TO STAY ALL PROCEEDINGS by BED BATH & BEYOND, INC.. (GUERRASIO, EDNA)",
+        "docket_entry_id": 197624224,
+        "document_number": 36,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-06-13",
+        "entry_number": 36,
+        "filepath_local": "recap/gov.uscourts.njd.439571/gov.uscourts.njd.439571.36.0.pdf",
+        "id": 203323064,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-05-18T15:35:35.899170Z",
+          "date_created": "2022-06-13T21:04:14.270604Z"
+        },
+        "pacer_doc_id": "119018789855",
+        "page_count": 3,
+        "short_description": "Stipulation",
+        "snippet": "Case 2:20-cv-08673-MCA-MAH Document 36 Filed 06/13/22 Page 1 of 3 PageID: 1038\n\n\n\n\n THE ROSEN LAW FIRM, P.A.\n Laurence M. Rosen, Esq.\n One Gateway Center, Suite 2600\n Newark, NJ 07102\n Telephone: (973) 313-1887\n Facsimile: (973) 833-0399\n Email: lrosen@rosenlegal.com\n\n Co-Lead Counsel for Plaintiffs\n\n [Additional Counsel on Signature Page]\n\n                             UNITED STATES DISTRICT COURT\n                                DISTRICT OF NEW JERSEY\n\n\n  IN RE BED BATH & BEYOND                 "
+      }
+    ],
+    "referredTo": "Michael A. Hammer",
+    "referred_to_id": 9382,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Vincent F. Papalia",
+    "assigned_to_id": 8883,
+    "attorney": [
+      "",
+      "Illinois Department of Revenue",
+      "Colin R. Robinson",
+      "Steven R. Wirth"
+    ],
+    "attorney_id": [
+      10483939,
+      10289909,
+      10289910,
+      10289911
+    ],
+    "caseName": "Bed Bath & Beyond Inc. - Adversary Proceeding",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "United States Bankruptcy Court, D. New Jersey",
+    "court_citation_string": "Bankr. D.N.J.",
+    "court_id": "njb",
+    "dateArgued": null,
+    "dateFiled": "2025-04-23",
+    "dateTerminated": "2025-12-05",
+    "docketNumber": "25-01183",
+    "docket_absolute_url": "/docket/69933206/bed-bath-beyond-inc-adversary-proceeding/",
+    "docket_id": 69933206,
+    "firm": [
+      "Pachulski Stang Ziehl & Jones LLP",
+      "Akerman Senterfitt"
+    ],
+    "firm_id": [
+      66328,
+      292565
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-12-16T18:09:18.777212Z",
+      "date_created": "2025-04-23T21:36:52.731510Z",
+      "score": {
+        "bm25": 1789.354
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "1125391",
+    "party": [
+      "Illinois Department of Revenue",
+      "Michael Goldberg"
+    ],
+    "party_id": [
+      15390205,
+      15390206
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/69933206/15/goldberg-v-illinois-department-of-revenue/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Stipulation Between Michael Goldberg and Illinois Department of Revenue, re:Complaint filed by Steven R. Wirth on behalf of Michael Goldberg. (Wirth, Steven) (Entered: 10/09/2025)",
+        "docket_entry_id": 440447645,
+        "document_number": 15,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-10-09",
+        "entry_number": 15,
+        "filepath_local": "recap/gov.uscourts.njb.1125391/gov.uscourts.njb.1125391.15.0.pdf",
+        "id": 455004284,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-16T18:09:18.745696Z",
+          "date_created": "2025-10-09T17:06:37.418728Z"
+        },
+        "pacer_doc_id": "118069581108",
+        "page_count": 9,
+        "short_description": "Stipulation",
+        "snippet": "Case 25-01183-VFP        Doc 15   Filed 10/09/25 Entered 10/09/25 12:36:39     Desc Main\n                                  Document     Page 1 of 9\n\n\n\n UNITED STATES BANKRUPTCY COURT\n DISTRICT OF NEW JERSEY\n Caption in Compliance with D.N.J. LBR 9004-1(b)\n\n Steven R. Wirth, Esq.\n Peter O. Larsen, Esq.\n Raye Elliott, Esq.\n AKERMAN LLP\n 401 E. Jackson Street, Suite 1700\n Tampa, FL 33602\n Telephone: (813) 223-7333\n Email: steven.wirth@akerman.com\n        peter.larsen@akerman.com\n        raye.elliot"
+      },
+      {
+        "absolute_url": "/docket/69933206/16/goldberg-v-illinois-department-of-revenue/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Stipulation and Consent Order (related document:15 Stipulation Between Michael Goldberg and Illinois Department of Revenue, re:Complaint filed by Steven R. Wirth on behalf of Michael Goldberg. filed by Plaintiff Michael Goldberg).. Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 10/21/2025 (jf) (Entered: 10/21/2025)",
+        "docket_entry_id": 441522827,
+        "document_number": 16,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-10-21",
+        "entry_number": 16,
+        "filepath_local": "recap/gov.uscourts.njb.1125391/gov.uscourts.njb.1125391.16.0.pdf",
+        "id": 456106357,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-16T18:09:18.745696Z",
+          "date_created": "2025-10-21T13:05:32.318852Z"
+        },
+        "pacer_doc_id": "118069649249",
+        "page_count": 9,
+        "short_description": "Order (Generic)",
+        "snippet": "Case 25-01183-VFP Doc 16 Filed 10/21/25 Entered 10/21/25 08:44:42             Desc Main\n UNITED STATES BANKRUPTCY     Document\n                                   COURT Page 1 of 9\n DISTRICT OF NEW JERSEY\n Caption in Compliance with D.N.J. LBR 9004-1(b)\n\n Steven R. Wirth, Esq.\n Peter O. Larsen, Esq.\n Raye Elliott, Esq.                                   Order Filed on October 21, 2025\n AKERMAN LLP                                          by Clerk\n 401 E. Jackson Street, Suite 1700                 "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "11 Recovery of money/property - 542 turnover of property",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Vincent F. Papalia",
+    "assigned_to_id": 8883,
+    "attorney": [
+      "Jeffrey Bernstein",
+      "Edward A. Corma",
+      "Paul John Labov",
+      "Peter O. Larsen",
+      "Colin R. Robinson",
+      "Peter O. Larson",
+      "Steven R. Wirth",
+      "Raye Curry Elliott",
+      "Eliott Berman"
+    ],
+    "attorney_id": [
+      11814081,
+      10023874,
+      10023875,
+      10023876,
+      10023878,
+      10041162,
+      10041163,
+      10041164,
+      10380856
+    ],
+    "caseName": "Bed Bath & Beyond Inc. - Adversary Proceeding",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "United States Bankruptcy Court, D. New Jersey",
+    "court_citation_string": "Bankr. D.N.J.",
+    "court_id": "njb",
+    "dateArgued": null,
+    "dateFiled": "2024-06-03",
+    "dateTerminated": null,
+    "docketNumber": "24-01443",
+    "docket_absolute_url": "/docket/68823652/bed-bath-beyond-inc-adversary-proceeding/",
+    "docket_id": 68823652,
+    "firm": [
+      "Pachulski Stang Ziehl & Jones LLP",
+      "Akerman LLP",
+      "DOJ-Tax",
+      "Peter O. Larsen",
+      "McElroy, Deutsch, Mulvaney & Carpenter",
+      "Akerman Senterfitt",
+      "Willkie Farr & Gallagher LLP",
+      "McElroy, Deutsch, Mulvaney & Carpenter, LLP"
+    ],
+    "firm_id": [
+      677059,
+      128708,
+      1053576,
+      63946,
+      21931,
+      1015852,
+      1004109,
+      1015853,
+      65585,
+      276657,
+      292565,
+      66328,
+      441113
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2026-03-17T23:37:20.168564Z",
+      "date_created": "2024-06-03T20:32:22.913154Z",
+      "score": {
+        "bm25": 1664.466
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "1113574",
+    "party": [
+      "New Jersey Economic Development Authority",
+      "Michael Goldberg"
+    ],
+    "party_id": [
+      14948824,
+      14921370
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68823652/24/1/goldberg-v-new-jersey-economic-development-authority/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Declaration of Susan Greitz in support of (related document:22 Motion for Summary Judgment filed by Defendant New Jersey Economic Development Authority) filed by Jeffrey Bernstein on behalf of New Jersey Economic Development Authority. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2 # 3 Exhibit 3 # 4 Exhibit 4 # 5 Exhibit 5 # 6 Exhibit 6 # 7 Exhibit 7 # 8 Exhibit 8 # 9 Exhibit 9 # 10 Exhibit 10 # 11 Exhibit 11 # 12 Exhibit 12 # 13 Exhibit 13 # 14 Exhibit 14) (rah) (Entered: 12/06/2024)",
+        "docket_entry_id": 410319276,
+        "document_number": 24,
+        "document_type": "Attachment",
+        "entry_date_filed": "2024-12-06",
+        "entry_number": 24,
+        "filepath_local": "recap/gov.uscourts.njb.1113574/gov.uscourts.njb.1113574.24.1.pdf",
+        "id": 425939233,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-03-17T23:37:20.142914Z",
+          "date_created": "2025-01-03T13:18:34.856575Z"
+        },
+        "pacer_doc_id": "118067984418",
+        "page_count": 41,
+        "short_description": "Exhibit 1",
+        "snippet": "Case 24-01443-VFP   Doc 24-1 Filed 12/06/24 Entered 12/06/24 13:57:24   Desc\n                           Exhibit 1 Page 1 of 41\n\n\n\n\n        EXHIBIT 1\n\f  Case 24-01443-VFP             Doc 24-1 Filed 12/06/24 Entered 12/06/24 13:57:24                Desc\n                                       Exhibit 1 Page 2 of 41\n\n\n\n\n                                      G RANT AG REEMENT\n\n\n        This Agreement (hereinafter the \"Agreement\"), made as of this 4thth day of\nDecember, 2006, by and between Bed Bath &"
+      },
+      {
+        "absolute_url": "/docket/68823652/1/2/goldberg-v-new-jersey-economic-development-authority/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Adversary case 24-01443. Complaint by Michael Goldberg against New Jersey Economic Development Authority. Fee Amount $ 350.. (11 (Recovery of money/property - 542 turnover of property)) (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Exhibit D) (Labov, Paul) (Entered: 06/03/2024)",
+        "docket_entry_id": 392606692,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2024-06-03",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.njb.1113574/gov.uscourts.njb.1113574.1.2.pdf",
+        "id": 401654474,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-03-17T23:37:20.142914Z",
+          "date_created": "2024-06-03T20:32:26.106683Z"
+        },
+        "pacer_doc_id": "118067027684",
+        "page_count": 42,
+        "short_description": "Exhibit B",
+        "snippet": "Case 24-01443-VFP Doc1-2 Filed 06/03/24 Entered 06/03/24 16:31:15 Desc\nExhibitB Page 1 of 42\n\nBEIP GRANT AGREEMENT\n\nThis BEIP Grant Agreement (hereinafter the \"Agreement\"), made as of this 25th day of July,\n2011, by and between BED BATH AND BEYOND, INC/BED BATH & BEYOND OF\nCALIFORNIA LIMITED LIABILITY COMPANY/BED BATH & BEYOND PROCUREMENT\nCO/BBB VALUE SERVICES INC./BUY BUY BABY STORES INC./HARMON STORES\nINC./CHRISTMAS TREE SHOPS INC., having their principal offices at 650 Liberty Ave., Union\nTow"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "11 Recovery of money/property - 542 turnover of property",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "John Andrew Ross",
+    "assigned_to_id": 2791,
+    "attorney": [
+      "Elizabeth Brooke Herrington",
+      "Maureen Kane Berg",
+      "Catherine Hounfodji",
+      "Kate M. Baxter-Kauf",
+      "Kathryn Deal",
+      "Tiffany M. Yiatras"
+    ],
+    "attorney_id": [
+      10579896,
+      10579897,
+      10579898,
+      10579899,
+      10579900,
+      10579901
+    ],
+    "caseName": "Jones v. Bed Bath & Beyond Inc.",
+    "case_name_full": "",
+    "cause": "28:1331 Fed. Question",
+    "chapter": null,
+    "court": "District Court, E.D. Missouri",
+    "court_citation_string": "E.D. Mo.",
+    "court_id": "moed",
+    "dateArgued": null,
+    "dateFiled": "2023-01-25",
+    "dateTerminated": "2023-04-26",
+    "docketNumber": "4:23-cv-00082",
+    "docket_absolute_url": "/docket/66758790/jones-v-bed-bath-beyond-inc/",
+    "docket_id": 66758790,
+    "firm": [
+      "Consumer Protection Legal",
+      "MORGAN LEWIS LLP Philadelphia",
+      "Lockridge Grindal Pllp",
+      "MORGAN LEWIS LLP Chicago",
+      "MORGAN LEWIS LLP Houston"
+    ],
+    "firm_id": [
+      676706,
+      815650,
+      921956,
+      1034987,
+      789393
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-08-04T10:45:29.822320Z",
+      "date_created": "2023-01-25T20:21:53.944983Z",
+      "score": {
+        "bm25": 1607.071
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "200544",
+    "party": [
+      "Bed Bath & Beyond Inc.",
+      "Ann Jones"
+    ],
+    "party_id": [
+      15913598,
+      15913599
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/66758790/1/jones-v-bed-bath-beyond-inc/",
+        "attachment_number": null,
+        "cites": [
+          108478,
+          1252319,
+          2718918,
+          9758692
+        ],
+        "description": "COMPLAINT against defendant Bed Bath & Beyond Inc. with receipt number AMOEDC-9743824, in the amount of $402 Jury Demand,, filed by Ann Jones. (Attachments: # 1 Civil Cover Sheet Civil Cover Sheet, # 2 Original Filing Form Original Filing Form, # 3 Summons Bed Bath & Beyond Inc.)(Yiatras, Tiffany) (Entered: 01/25/2023)",
+        "docket_entry_id": 217530173,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-01-25",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.moed.200544/gov.uscourts.moed.200544.1.0.pdf",
+        "id": 223565510,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-21T20:25:41.600472Z",
+          "date_created": "2023-01-25T20:21:54.127665Z"
+        },
+        "pacer_doc_id": "107010757558",
+        "page_count": 52,
+        "short_description": "Complaint",
+        "snippet": " Case: 4:23-cv-00082-JAR            Doc. #: 1     Filed: 01/25/23     Page: 1 of 52 PageID #: 1\n\n\n\n\n                       IN THE UNITED STATES DISTRICT COURT\n                      FOR THE EASTERN DISTRICT OF MISSOURI\n                                 EASTERN DIVISION\n\n ANN JONES, individually and on behalf of\n all others similarly situated,\n\n                   Plaintiff,                         CASE NO. 4:23-cv-00082\n\n                                     v.               JURY TRIAL DEMANDED\n\n BE"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "890 Other Statutory Actions",
+    "trustee_str": null
+  }
+]

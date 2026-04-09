@@ -1,0 +1,83 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/4604048/",
+  "id": 4604048,
+  "absolute_url": "/opinion/4604048/lorenzo-v-sec-exch-commn/",
+  "panel": [],
+  "non_participating_judges": [],
+  "docket_id": 14808987,
+  "docket": "https://www.courtlistener.com/api/rest/v4/dockets/14808987/",
+  "sub_opinions": [
+    "https://www.courtlistener.com/api/rest/v4/opinions/4381301/"
+  ],
+  "citations": [
+    {
+      "date_created": "2025-10-27T11:33:37.910559-07:00",
+      "date_modified": "2025-10-27T11:33:37.910576-07:00",
+      "volume": "587",
+      "reporter": "U.S.",
+      "page": "71",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "139",
+      "reporter": "S. Ct.",
+      "page": "1094",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "203",
+      "reporter": "L. Ed. 2d",
+      "page": "484",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "2019",
+      "reporter": "U.S. LEXIS",
+      "page": "2295",
+      "type": 6
+    }
+  ],
+  "cluster_redirections": [],
+  "date_created": "2019-03-27T08:00:33.890163-07:00",
+  "date_modified": "2024-10-19T03:29:02.073835-07:00",
+  "judges": "Stephen Breyer",
+  "date_filed": "2019-03-27",
+  "date_filed_is_approximate": false,
+  "slug": "lorenzo-v-sec-exch-commn",
+  "case_name_short": "Lorenzo",
+  "case_name": "Lorenzo v. SEC. & Exch. Comm'n",
+  "case_name_full": "Francis v. LORENZO, Petitioner v. SECURITIES AND EXCHANGE COMMISSION",
+  "scdb_id": "2018-029",
+  "scdb_decision_direction": 2,
+  "scdb_votes_majority": 6,
+  "scdb_votes_minority": 2,
+  "source": "CU",
+  "procedural_history": "",
+  "attorneys": "Robert Heim, New York, NY, for the petitioner., Christopher G. Michel, pro hac vice, for the respondent., Robert G. Heim, Howard S. Meyers, Meyers & Heim LLP, New York, NY, for petitioner., Robert B. Stebbins, General Counsel, Michael A. Conley, Solicitor, Dominick V. Freda, Assistant General Counsel, Martin V. Totaro, Senior Counsel, Securities and Exchange Commission, Washington, DC, Noel J. Francisco, Solicitor General, Malcolm L. Stewart, Deputy Solicitor General, Christopher G. Michel, Assistant to the Solicitor General, Department of Justice, Washington, DC, for respondent.",
+  "nature_of_suit": "",
+  "posture": "",
+  "syllabus": "",
+  "headnotes": "",
+  "summary": "",
+  "disposition": "",
+  "history": "",
+  "other_dates": "",
+  "cross_reference": "",
+  "correction": "",
+  "citation_count": 139,
+  "precedential_status": "Published",
+  "date_blocked": null,
+  "blocked": false,
+  "filepath_json_harvard": "law.free.cap.s-ct.139/1094.12617354.json",
+  "filepath_pdf_harvard": null,
+  "filepath_xml_scan": null,
+  "filepath_pdf_scan": null,
+  "arguments": "",
+  "headmatter": "<parties id=\"p-1\">\n    Francis V. LORENZO, Petitioner\n    <br/>\n    v.\n    <br/>\n    SECURITIES AND EXCHANGE COMMISSION\n   </parties><docketnumber id=\"p-2\">\n    No. 17-1077\n   </docketnumber><court id=\"p-3\">\n    Supreme Court of the United States.\n   </court><decisiondate id=\"p-4\">\n    Argued December 3, 2018\n    <br/>\n    Decided March 27, 2019\n   </decisiondate><attorneys id=\"p-5\">\n    Robert Heim, New York, NY, for the petitioner.\n   </attorneys><attorneys id=\"p-6\">\n    Christopher G. Michel, pro hac vice, for the respondent.\n   </attorneys><attorneys id=\"p-7\">\n    Robert G. Heim, Howard S. Meyers, Meyers &amp; Heim LLP, New York, NY, for petitioner.\n   </attorneys><attorneys id=\"p-8\">\n    Robert B. Stebbins, General Counsel, Michael A. Conley, Solicitor, Dominick V. Freda, Assistant General Counsel, Martin V. Totaro, Senior Counsel, Securities and Exchange Commission, Washington, DC, Noel J. Francisco, Solicitor General, Malcolm L. Stewart, Deputy Solicitor General, Christopher G. Michel, Assistant to the Solicitor General, Department of Justice, Washington, DC, for respondent.\n   </attorneys>"
+}

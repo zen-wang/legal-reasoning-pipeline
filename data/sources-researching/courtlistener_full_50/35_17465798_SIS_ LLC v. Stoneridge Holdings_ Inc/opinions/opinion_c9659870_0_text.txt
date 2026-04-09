@@ -1,0 +1,1359 @@
+            IN THE UNITED STATES DISTRICT COURT                          
+           FOR THE NORTHERN DISTRICT OF GEORGIA                          
+                      ATLANTA DIVISION                                   
+
+SIS, LLC,                                                                
+     Plaintiff,                                                          
+                  v.                          Civil Action No.           
+                                             1:17-cv-01816-SDG           
+STONERIDGE HOLDINGS, INC.; ERIC                                          
+NEWELL; and, SCOTT BOEDIGHEIMER,                                         
+     Defendants.                                                         
+
+                     OPINION AND ORDER                                   
+    This case is before the Court on Defendants’ Motion for Summary Judgment 
+[ECF 99]; Plaintiff’s Motion for Leave to File Matters Under Seal [ECF 121]; and, 
+Defendants’ Motion to Strike Plaintiff’s Second Kershteyn Declaration [ECF 132]. 
+Following a careful review of the record, and with the benefit of oral argument, 
+Defendants’  Motion  for  Summary  Judgment  is  DENIED  IN  PART  AND    
+GRANTED IN PART. Specifically, Defendants’ Motion for Summary Judgment    
+is denied as to Counts I and VI, and granted as to the remaining counts. Further, 
+Plaintiff’s  Motion  for  Leave  to  File  Matters  Under  Seal  is  GRANTED  and 
+Defendants’ Motion to Strike Plaintiff’s Second Kershteyn Declaration is DENIED. 
+I.   Factual Background                                                   
+    As a preliminary matter, Plaintiff failed to file a response to Defendants’ 
+Statement of Material Facts [ECF 99-2], as required by the Local Rules. Pursuant 
+to LR 56.1(B)(2)(a):                                                      
+
+         This  Court  will  deem  each  of  the  movant’s  facts  as     
+         admitted unless the respondent: (i) directly refutes the        
+         movant’s  fact  with  concise  responses  supported  by         
+         specific  citations  to  evidence  (including  page  or         
+         paragraph number); (ii) states a valid objection to the         
+         admissibility of the movant’s fact; or (iii) points out that    
+         the movant’s citation does not support the movant’s fact        
+         or that the movant’s fact is not material or otherwise has      
+         failed  to  comply  with  the  provisions  set  out  in  L.R.   
+         56.1(B)(1).                                                     
+Defendants’ reply brief even pointed to Plaintiff’s failure to respond [ECF 104, 
+at 2], but Plaintiff never sought leave of Court to file an out-of-time response. 
+Consequently, all of the facts in Defendants’ statement of facts are deemed to be 
+admitted to the extent they are properly supported by admissible evidence. BMU, 
+Inc.  v.  Cumulus  Media,  Inc.,  No.  1:07-CV-3141-TCB,  2009  WL  10670253,  at  *1 
+(N.D. Ga. May 7, 2009) (quoting LR 56.1(B)(2)(a)(2)), aff’d, 366 F. App’x 47 (11th Cir. 
+2010) (affirming district court’s admission of Defendants’ statement of material 
+facts  and  holding  that  the  plaintiff’s  statement  of  additional  facts  does  not 
+constitute a response to the movant’s statement of undisputed facts); compare Fed. 
+R. Civ. P. Advisory Notes, 2010 Amendments, Subdivision (e) (noting that “the 
+court may choose not to consider the fact as undisputed, particularly if the court 
+knows of record materials that show grounds for genuine dispute”).        
+    The supported and undisputed facts in this action are as follows. Prior to 
+2014, APi Group, Inc. (“APi”) started the process to replace its various software 
+
+systems with an Enterprise Resource Planning (“ERP”) software system, such as 
+Microsoft Dynamics AX.1 SIS submitted, and eventually won, a proposal for APi 
+to  adopt  Microsoft  Dynamics  AX  (the  “Project”).2  Stoneridge  has  extensive 
+
+experience with Microsoft Dynamics AX and has been recognized by Microsoft as 
+an expert in the field.3 In February 2014, SIS approached Stoneridge to work on 
+the Project.4 The parties began negotiating a deal for Stoneridge’s work on the 
+Project shortly thereafter. On the Stoneridge side, the negotiations between the 
+
+two  companies  included  Defendants  Eric  Newell,  President,  and  Scott 
+Boedigheimer, Vice President of Business Development.5 On the SIS side, the 
+
+
+
+
+1   ECF 99-2, ¶ 4.                                                        
+2   Id. ¶ 6.                                                              
+3   Id. ¶ 1.                                                              
+4   Id. ¶ 7.                                                              
+5   Id. ¶ 11.                                                             
+negotiations included SIS partners S. Max Thomas, Ravi Kannan, Mark Richmond, 
+Mark Kershteyn, and Mark Klein.6                                          
+    On April 2, 2014, a Stoneridge employee performed a demonstration for APi 
+as part of SIS’s final sales presentation to APi.7 On April 8, SIS asked Stoneridge to 
+
+provide  training  to  SIS  employees  on  the  payroll  function  within  Microsoft 
+Dynamics  AX.8  On  April  10,  Stoneridge  executed  a  Mutual  Confidentiality 
+Agreement (“MCA”) with SIS “in order to discuss the APi project in more detail.”9  
+
+    On May 13, SIS sent the first draft of a standard SIS Subcontract Services 
+Agreement (“SSA”) to Stoneridge for review.10 On May 15, 2014, APi formally 
+selected SIS as its partner for the initial phases of the Project.11 SIS informed 
+Stoneridge of APi’s decision on May 20.12 In a series of emails on May 28, SIS 
+
+provided Stoneridge a copy of the Work Order from APi and stated that the Project 
+
+
+
+6   Id. ¶ 12.                                                             
+7   Id. ¶ 14.                                                             
+8   Id. ¶ 17.                                                             
+9   Id. ¶ 19.                                                             
+10   Id. ¶ 22.                                                            
+11   Id. ¶ 23; ECF 99-8, at 10.                                           
+12   ECF 99-2, ¶ 24.                                                      
+was scheduled to begin in June 2014 and, therefore, SIS and Stoneridge needed to 
+get their agreements in place.13                                          
+    SIS and APi signed a Professional Services Agreement and a Work Order on 
+June 20.14 Those agreements expressly provided that APi was only obligated to 
+
+continue with SIS through the initial, analysis phase of the Project.15 After that 
+phase, APi had sole discretion to decide whether to continue with SIS for the 
+implementation phase of the Project.16                                    
+
+    On May 29, Stoneridge asked SIS if it could draft “the consulting dollars and 
+hours” on its Statement of Work (“SOW”) template, which would then reference 
+the SSA SIS had previously provided to Stoneridge.17 On May 30, Stoneridge 
+provided the first draft SOW to SIS.18 The SOW references the SSA as the master 
+
+document.19 Stoneridge’s draft proposed three full time employees at 3,200 hours 
+
+
+
+13   Id. ¶¶ 25–26; ECF 99-8, at 13–14.                                    
+14   ECF 99-2, ¶ 34; ECF 100-2.                                           
+15   ECF 99-2, ¶ 36.                                                      
+16   Id.                                                                  
+17   ECF 99-8, at 25–26.                                                  
+18   ECF 99-2 ¶ 13; ECF 99-8, at 36–41; ECF 99-3 (Newell Decl.), at 18–24 (Ex. C).  
+19   ECF 99-8, at 26–27.                                                  
+each.20 On June 12, SIS responded to the May 30 SOW and indicated, for the first 
+time, that it would not commit to employing Stoneridge personnel full-time.21  
+    On  June  27,  Stoneridge  provided  a  revised  SOW,  which  included  a 
+guaranteed average of 140 hours for a four week period, and a revised SSA.22 In 
+
+the email, Stoneridge emphasized that SIS’s change to the SOW that stated it could 
+not  guarantee  40  hours  a  week  was  a  “substantial  change  to  [Stoneridge’s] 
+understanding of the agreement” and “[i]n order to move forward with this 
+
+partnership, [Stoneridge] need[s] to have assurances that [it] would get an average 
+of 35 per week for [its] dedicated resources on the project.”23 Following this June 
+27 email, SIS internally discussed the possibility that it might need to execute the 
+project without Stoneridge.24 Nevertheless, on July 3, SIS requested Stoneridge’s 
+
+presence for the APi kickoff event during the week of July 14.25 On July 7, SIS 
+
+
+
+
+20   ECF 99-2, ¶ 13; ECF 99-8, at 41.                                     
+21   ECF 99-2, ¶ 32; ECF 99-3, ¶ 18.                                      
+22   ECF 99-2, ¶ 38; ECF 99-8, at 42; ECF 99-3 (Newell Decl.), at 38–63 (Ex. E).  
+23   ECF 99-8, at 42.                                                     
+24   ECF 99-2, ¶ 39; ECF 99-13, at 9.                                     
+25   ECF 99-2, ¶ 40; ECF 99-14, at 2–3.                                   
+confirmed that Stoneridge’s attendance at the kickoff event would be billable to 
+SIS.26                                                                    
+    On July 8, SIS sent new drafts of the SSA and SOW to Stoneridge, noting its 
+hope  that  the  parties  could  get  the  agreements  “agreed  upon  and  executed 
+
+quickly.”27 The revisions included a one-year non-solicitation provision.28 On July 
+11, 2014, Stoneridge sent SIS two emails regarding the July 8 SOW. The first asked 
+for clarification regarding the amount of hours listed for Stoneridge employees 
+
+under  Appendix  A.29  The  second  noted  the  outstanding  items  remaining  for 
+negotiation.30                                                            
+    Following the first July 11 email, Richmond sent an email to Thomas and 
+Kannan  discussing  other  possibilities  for  filling  the  roles  currently  being 
+
+negotiated  with  Stoneridge.31  Nevertheless,  SIS  responded  to  Stoneridge’s 
+concerns on July 11, confirming the number of hours in Appendix A and noting 
+
+
+26   ECF 99-2, ¶ 41; ECF 99-14, at 2.                                     
+27   ECF 99-2, ¶ 42; ECF 99-8, at 67; ECF 99-3 (Newell Decl.), at 63–74 (Ex. F).  
+28   ECF 99-2, ¶¶ 42–43; ECF 99-3, ¶ 21.                                  
+29   ECF 99-8, at 90.                                                     
+30   Id. at 92.                                                           
+31   ECF 99-2, ¶ 46; ECF 99-13, at 7 (“I know the relationship with Stoneridge is 
+  important, but if I had to scramble I could also fill the other positions.”).  
+that it would try to work through the other concerns raised.32 On July 14, SIS sent 
+Stoneridge a revised SSA and SOW.33 In the email, SIS noted that it had “primarily 
+agreed to the changes [Stoneridge] requested.”34 The July 14 SOW provided for 
+two Stoneridge employees who would work as full time team members on the  
+
+Project.35                                                                
+    SIS alleges, and Stoneridge disputes, that the parties agreed to all material 
+terms as written in the July 14 SOW during a call on July 21, 2014.36 Following the 
+
+call, Thomas emailed Stoneridge stating, “Here are the signed and cleaned up 
+agreements for your signature.”37 However, he mistakenly did not attach the 
+
+
+
+
+32   ECF 99-8, at 89–96.                                                  
+33   ECF 99-2, ¶ 51; ECF 99-8, at 111; ECF 99-3 (Newell Decl.), at 74–94 (Ex. G).  
+34   ECF 99-8, at 111.                                                    
+35   Id. at 118.                                                          
+36   ECF 102-1, ¶ 3; ECF 102-2 (Kershteyn Decl.), ¶ 6 (“The Parties’ concluded 
+  negotiations  in  a  final  phone  call  on  July  21,  2014  attended  by  Newell, 
+  Boedigheimer, Thomas, and me.”). Defendants object to SIS’s articulation of 
+  the call and point to Newell’s Declaration that claims that he did not speak 
+  with anyone from SIS regarding the SOW on July 21. ECF 106, at 4; ECF 99-3, 
+  ¶ 29. Accordingly, there is a genuine  issue of material fact regarding the 
+  occurrence  and  substance  of  the  call  based  on  the  parties’  conflicting 
+  declarations.                                                          
+37   ECF 99-8, at 122.                                                    
+agreements.38 Thomas sent another email on July 22 attaching the SSA and SOW 
+signed by SIS.39 These agreements contained the same terms as the July 14 drafts. 
+    The  July  22  SOW  provides  that  “Delivery  of  consulting  services  will 
+commence upon signature by both parties.”40 SIS alleges that it “assumed the 
+
+Agreement and corresponding [SOW] were promptly executed by Defendants or 
+soon would be.”41 It is undisputed that Stoneridge never signed the agreements.  
+    On July 29, Stoneridge submitted an invoice for work done for SIS on July 
+
+23, 24, and 25.42 The parties dispute whether the work listed on that invoice was in 
+performance of the Project. In Newell’s Supplemental Declaration, he notes that a 
+Stoneridge employee, Wally Carr,43 began work on July 23 “at the specific request 
+of SIS” to set up a Configuration Tracker that Stoneridge had “recommended SIS 
+
+use on the APi implementation.”44 Newell claims that the Configuration Tracker 
+
+
+38   ECF 99-2, ¶ 54; ECF 99-8, at 122.                                    
+39   ECF 99-2, ¶ 55; ECF 99-8, at 124–135.                                
+40   ECF 102-1, ¶ 4.                                                      
+41   Id. ¶ 3.                                                             
+42   ECF 99-3, at 16.                                                     
+43   Carr was also the Stoneridge employee who attended the July 14 kickoff event. 
+  ECF 99-2, ¶ 52. Kristy Loeks, another Stoneridge employee, attended some of 
+  the sessions remotely. Id.                                             
+44   ECF 104-1, ¶¶ 8–9.                                                   
+is “a general tool . . . without any specific value to a customer until information 
+has begun to be entered into it” and the set up was “performed directly for SIS, for 
+its  benefit—and  not  as  part  of  an  implementation  for  APi  Group.”45  Carr’s 
+Declaration also states that he assisted SIS in setting up the Configuration Tracker 
+
+for SIS’s benefit and not as part of the implementation for APi.46        
+    On August 4, 2014, Stoneridge informed SIS via email that it did not intend 
+to move forward with the Project.47 In the email, Newell states:          
+
+         Based  on  the  change  in  the  schedule  and  resources       
+         requested from our team, we do not plan to go forward           
+         with the subcontractor agreement to assist you with the         
+         implementation of the APi Group. When we originally             
+         negotiated the deal, we expected it to be 3 people paid 40      
+         hours per week for 21 months. What has resulted is 2            
+         people extremely part-time through the Analysis phase           
+         and no promises for the future deployment of the project.       
+         Given  the  lower  rate  and  uncertainty  around  the          
+         schedule,  this  just  isn’t  an  appealing  opportunity  for   
+         us—so we are going to step aside.                               
+
+         If you would like to request any payroll or other AX            
+         training from our team members, we’d be happy to work           
+         something out for that.                                         
+
+
+45   Id. ¶¶ 10, 11.                                                       
+46   ECF 104-2, ¶ 9.                                                      
+47   ECF 99-2, ¶ 56; ECF 99-8, at 136.                                    
+         Best of luck with the implementation and let us know if         
+         you want to catch up when you’re in Minneapolis. Let            
+         me know if you have any questions.48                            
+Thomas forwarded Newell’s August 4 email to Jim Westerman at Microsoft noting 
+the following:                                                            
+         FYI: Stoneridge will not be on the project as it turns out.     
+         They were not supplying us with much experience, and            
+         we have now hired more experienced consultants, so it           
+         will  not  negatively  affect  things.  The  fact  that  they   
+         surprised us with this tells me they probably do not want       
+         to give up the right to compete with us in the future at        
+         APi.49                                                          
+    After the August 4 email, Stoneridge connected with APi at a trade show,50 
+and SIS’s and APi’s working relationship began to decline.51 On February 4, 2015, 
+APi exercised its option not to continue onto Phase II of the Project with SIS.52 Also 
+in February 2015, APi hired Stoneridge to review work by SIS, complete the 
+analysis phase begun by SIS, and move on to the implementation phase of the 
+Project.53                                                                
+
+48   ECF 99-8, at 136.                                                    
+49   ECF 99-2, ¶ 57; ECF 99-8, at 136.                                    
+50   ECF 99-2, ¶ 58.                                                      
+51   Id. ¶¶ 66–75.                                                        
+52   Id. ¶ 75.                                                            
+53   Id. ¶ 76.                                                            
+II.  Procedural History                                                   
+    SIS initiated this action on May 19, 2017.54 The operative Complaint in this 
+matter is the Second Amended Complaint (“SAC”), which was filed with leave of 
+Court on July 17, 2018.55 The SAC asserts the following claims: Breach of Contract 
+
+against Defendant Stoneridge, Count I; Promissory Estoppel against Defendant 
+Stoneridge,  Count  II;  Negligent  Misrepresentation  against  all  Defendants, 
+Count IIII; Fraud against all Defendants, Count IV; Tortious Interference with 
+Economic Advantages against all Defendants, Count V; and, Misappropriation of 
+
+Trade Secrets against all Defendants, Count VI.56 On July 31, 2018, Defendants 
+moved to dismiss all counts as to Stoneridge except for Count VI, and all counts 
+as  to  the  individual  defendants.57  On  February  5,  2019,  the  Court  granted 
+
+Defendants’ motion to dismiss Count V (tortious interference) and denied the 
+motion as to all other counts and the individual defendants.58            
+
+
+
+
+54   ECF 1.                                                               
+55   ECF 55.                                                              
+56   Id.                                                                  
+57   ECF 58.                                                              
+58   ECF 66.                                                              
+    Discovery ended in April 2019 and the parties’ dispositive motions were due 
+in June 2019.59 However, due to confusion between the parties regarding certain 
+discovery deadlines, the Court entered an Order on November 5, 2019 granting 
+leave for Defendants to file a motion for summary judgment within 21 days from 
+
+that  date.60  On  November 26,  Defendants  filed  their  motion  for  summary 
+judgment.61 SIS filed its response on December 10.62 In its response, SIS argued 
+that the Court’s November 5 Order limited Defendants’ ability to file a summary 
+
+judgment motion to the breach of contract count.63 Based on that argument, SIS 
+did not provide a response to any of Defendants’ arguments regarding the other 
+counts.                                                                   
+    Following a failed settlement conference, the Court set Defendants’ motion 
+
+for summary judgment for oral argument.64 In its Notice Setting Oral Argument, 
+the Court addressed SIS’s scope argument and stated that, given the parties’ 
+opportunity to present arguments orally, Defendants’ motion would be heard in 
+
+
+59   ECF 97, at 1–2.                                                      
+60   Id.                                                                  
+61   ECF 99.                                                              
+62   ECF 102.                                                             
+63   Id. at 2–3.                                                          
+64   ECF 115.                                                             
+its entirety.65 The Notice invited SIS to supplement its response prior to oral 
+argument  to  address  the  non-breach  of  contract  counts.66  SIS  did  not  file  a 
+supplemental response.                                                    
+    The Court held oral argument on June 16, 2020. During the hearing, it 
+
+became clear that SIS’s counsel did not read the Notice and counsel stated that she 
+was not prepared to present argument on the entirety of Defendants’ motion.67 
+Following oral argument, the Court granted SIS’s request to file a supplemental 
+
+response addressing the non-breach of contract counts.                    
+    On June 24, SIS filed its Supplemental Response.68 As part of its response, 
+SIS filed exhibits purportedly supporting its factual claims, including Kershteyn’s 
+Second Declaration,69 and a Supplemental Statement of Material Facts.70 On July 
+
+8, Defendants filed their Supplemental Reply Brief.71 Defendants also filed an 
+
+
+
+65   Id.                                                                  
+66   Id.                                                                  
+67   See ECF 119.                                                         
+68   ECF 120.                                                             
+69   ECF 122-2, at 1–7.                                                   
+70   ECF 123.                                                             
+71   ECF 129.                                                             
+objection to SIS’s Supplemental Statement of Material Facts72 and an objection to 
+and/or motion to strike Kershteyn’s Second Declaration.73                 
+III.  Summary Judgment Standard                                           
+    Summary judgment is appropriate when “there is no genuine dispute as to 
+
+any material fact and the movant is entitled to judgment as a matter of law.” Fed. 
+R. Civ. P. 56(a). A fact is “material” only if it can affect the outcome of the lawsuit 
+under the governing legal principles. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 
+248 (1986). A factual dispute is “genuine . . . if the evidence is such that a reasonable 
+
+jury could return a verdict for the nonmoving party.” Id.                 
+    A party seeking summary judgment has the burden of informing the district 
+court of the basis for its motion and identifying those portions of the record that 
+
+demonstrate the absence of a genuine issue of material fact. Celotex Corp. v. Catrett, 
+477 U.S. 317, 323 (1986). If a movant meets its burden, the party opposing summary 
+judgment must present evidence showing either (1) a genuine issue of material 
+fact or (2) that the movant is not entitled to judgment as a matter of law. Id. at 324.  
+
+    In determining whether a genuine issue of material fact exists, the evidence 
+is viewed in the light most favorable to the party opposing summary judgment, 
+
+
+72   ECF 131.                                                             
+73   ECF 130; ECF 132.                                                    
+“and all justifiable inferences are to be drawn” in favor of that party. Anderson, 477 
+U.S. at 255; see also Herzog v. Castle Rock Entm’t, 193 F.3d 1241, 1246 (11th Cir. 1999). 
+“Credibility determinations, the weighing of the evidence, and the drawing of 
+legitimate inferences from the facts are jury functions,” and cannot be made by the 
+
+district court. Anderson, 477 U.S. at 255. See also Graham v. State Farm Mut. Ins. Co., 
+193 F.3d 1274, 1282 (11th Cir. 1999). Summary judgment for the moving party is 
+proper “[w]here the record taken as a whole could not lead a rational trier of fact 
+
+to find for the non-moving party.” Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 
+475 U.S. 574, 587 (1986).                                                 
+IV.  Count I: Breach of Contract                                          
+    Defendants argue that the parties never formed a contract because there was 
+
+no meeting of the minds as to a material term, the scope of Stoneridge’s work, and 
+Stoneridge never executed a subcontract agreement.74 In response, SIS argues that 
+there is a genuine issue of material fact on the issue of contract formation.75 
+Specifically, SIS argues that there is a genuine dispute as to whether the companies 
+
+mutually agreed to the terms either on July 14 or July 21, 2014.76 Alternatively, the 
+
+
+74   ECF 99-1, at 5, 7.                                                   
+75   ECF 102, at 3.                                                       
+76   Id. at 4.                                                            
+parties  dispute  whether  Defendants’  actions  between  July  23  and  August  4 
+constitute acceptance of a counteroffer by performance.                   
+    a.   Legal Standard                                                  
+    The parties agree that Georgia law controls this contract dispute. Under 
+
+Georgia  law,  “a  valid  contract  includes  three  elements:  subject  matter  of  the 
+contract, consideration, and mutual assent by all parties to all contract terms.” 
+Thompson v. Floyd, 310 Ga. App. 674, 681 (2011) (citation omitted); see O.C.G.A. 
+§ 13-3-1 (“To constitute a valid contract, there must be parties able to contract, a 
+
+consideration moving to the contract, the assent of the parties to the terms of the 
+contract, and a subject matter upon which the contract can operate.”). “Thus, 
+unless and until there is the mutual assent of the parties to all essential terms, there 
+
+is no complete and enforceable contract.” Extremity Healthcare, Inc. v. Access to Care 
+Am., LLC, 339 Ga. App. 246, 251 (2016) (citing TranSouth Fin. Corp. v. Rooks, 269 Ga. 
+App. 321, 323 (2004)).                                                    
+    In Georgia, mutual assent “requires ‘(a) a meeting of the minds (b) on the 
+
+essential terms of the contract.’” Regan v. Stored Value Cards, Inc., 85 F. Supp. 3d 
+1357,  1362  (N.D.  Ga.)  (citing  John  K.  Larkins,  Jr.,  Georgia  Contracts:  Law  and 
+Litigation § 3:2 (2d ed. 2019 update)), aff’d,  608 F. App’x 895 (11th Cir. 2015).  
+
+         In  determining  whether  there  was  a  mutual  assent,        
+         “courts apply an objective theory of intent whereby one         
+         party’s  intention  is  deemed  to  be  that  meaning  a        
+         reasonable man in the position of the other contracting         
+         party would ascribe to the first party’s manifestations of      
+         assent, or that meaning which the other contracting party       
+         knew the first party ascribed to his manifestations of          
+         assent.”                                                        
+Legg v. Stovall Tire & Marine, Inc., 245 Ga. App. 594, 596 (2000) (quoting Cox Broad. 
+Corp. v. Nat. Collegiate Athletic Assn., 250 Ga. 391, 395 (1982)). “‘In making that 
+determination, the circumstances surrounding the making of the contract, such as 
+correspondence and discussions, are relevant in deciding if there was a mutual 
+assent to an agreement, and courts are free to consider such extrinsic evidence.’” 
+Regan, 85 F. Supp. 3d at 1363 (quoting Frickey v. Jones, 280 Ga. 573, 630 (2006)). 
+“Where such extrinsic evidence exists and is disputed, the question of whether a 
+party has assented to the contract is generally a matter for the jury.” Legg, 245 Ga. 
+App. at 596; see also Larkins, supra, § 3:3.50 (“Unlike other issues of contract law, 
+
+the issue of assent generally is not susceptible to summary judgment.”).  
+    b.   Discussion                                                      
+    Under the facts presented here, there are two ways the parties may have 
+entered into a contract: (1) the parties entered into an oral agreement on July 21 
+
+that was memorialized in SIS’s July 22 email and accompanying attachments; or, 
+(2) the July 22 agreements constituted a counter offer that Stoneridge accepted by 
+performance.77  The  Court  finds  that  a  genuine  issue  of  material  fact  exists 
+regarding whether Stoneridge mutually assented to an oral agreement on July 21. 
+Accordingly,  the  Court  need  not  address  SIS’s  acceptance  by  performance 
+argument.                                                                 
+
+    As detailed above, SIS first approached Stoneridge about the Project on 
+February 2014.78 Stoneridge was involved in SIS’s final sales presentation to APi 
+in April 2014.79 In May 2014, after SIS was chosen for the Project by APi, the parties 
+
+began drafting the terms of their agreement for the Project.80            
+    As part of negotiating the agreement, the parties exchanged multiple draft 
+SOWs. The first draft SOW was prepared by Stoneridge and provided to SIS on 
+May 30.81 On June 12, SIS sent back its revisions to Stoneridge’s SOW.82 On June 
+
+
+
+77   To the extent SIS claims that the parties entered into an agreement on July 14, 
+  the  Court  rejects  this  argument.  SIS  asserts  that  the  parties  agreed  to  all 
+  material terms on July 14. ECF 102, at 6. However, the evidence shows only 
+  that SIS provided another round of draft agreements to Stoneridge on that day. 
+  SIS has not pointed to any actions by Stoneridge from that day that could 
+  support a finding that Stoneridge mutually assented to the draft agreements.    
+78   ECF 99-2, ¶ 7.                                                       
+79   Id. ¶ 14.                                                            
+80   Id. ¶¶ 23, 25.                                                       
+81   Id. ¶ 13; ECF 99-8, at 36–41; ECF 99-3 (Newell Decl.), at 18–24 (Ex. C).  
+82   ECF 99-2, ¶ 32.                                                      
+27, Stoneridge provided a revised SOW.83 On July 8, SIS sent Stoneridge a revised 
+SOW.84 Following further discussions via email, on July 14, SIS sent Stoneridge a 
+revised SOW.85 SIS claims that the parties then discussed the revisions via a call 
+on July 21.86 On July 22, SIS emailed copies of the allegedly finalized agreements 
+
+to Stoneridge.87 These agreements contain the same language as the agreements 
+provided by SIS on July 14. Following this email, the parties ceased negotiations 
+until August 4 when Stoneridge informed SIS that it did not intend to work with 
+
+SIS on the Project.88                                                     
+    Stoneridge claims that there is no contract because it never executed the 
+written agreements and the parties never mutually assented to a material term, 
+namely, the number of Stoneridge employees slated to work on the Project.89 
+
+
+83   Id. ¶ 38; ECF 99-8, at 42; ECF 99-3 (Newell Decl.), at 38–63 (Ex. E).  
+84   ECF 99-2, ¶ 42; ECF 99-8, at 67; ECF 99-3 (Newell Decl.), at 63–74 (Ex. F). 
+85   ECF 99-2, ¶ 51; ECF 99-8, at 111; ECF 99-3 (Newell Decl.), at 74–94 (Ex. G). 
+86   ECF 102-1, ¶ 3.                                                      
+87   ECF 99-8, at 124–135.                                                
+88   Id. at 136.                                                          
+89   In support of this argument, Stoneridge’s motion relies heavily on Yim v. Carr, 
+  349 Ga. App. 892 (2019). In Yim, the Georgia Court of Appeals found that there 
+  was no binding settlement because, in an attempt to accept the settlement offer, 
+  the responding party changed an essential element of the offer. Id. However, 
+  the issue before the Court is not whether Stoneridge attempted to accept an 
+  offer with materially altered terms. Rather, it is whether Stoneridge entered 
+Stoneridge claims that its earlier communications with SIS make clear that it 
+would never have agreed to limit their work to two employees. On the other hand, 
+SIS claims that the communications between the parties prior to July 21, the lack 
+of communication following Thomas’s July 22 email, and the work of Stoneridge 
+
+employees from July 23 to August 4 supports an inference that the parties reached 
+an oral agreement during the July 21 call.90                              
+    As a preliminary matter, the Court notes that the fact that Stoneridge never 
+
+signed  the  July  22  agreements  does  not  bar  a  finding  of  mutual  assent.  As 
+explained by the Georgia Court of Appeals:                                
+         While circumstances indicating that the parties intended        
+         to prepare a subsequent writing is strong evidence that         
+         they  did  not  intend  to  be  bound  by  a  preliminary       
+         agreement, contrary evidence bearing upon the parties’          
+         intent  to  be  bound  and  reflecting  the  existence  of  a   
+         binding oral agreement presents a question of fact for the      
+         jury’s determination. See Denton v. Etheridge, 73 Ga. App.      
+         221,  225–226(2)  [  ]  (1945).  Moreover,  “[a]lthough  the    
+         parties contemplated the future execution of a written . . .    
+         agreement, the jury was authorized to find that a binding       
+         oral agreement was in effect, and the failure to sign the       
+         written instrument did not affect the validity of the oral      
+
+  into  an  oral  agreement  on  the  July 21  teleconference.  In  their  reply  brief, 
+  Defendants appear to argue that Yim supports the notion that the August 4 
+  email was a rejection of the offer. ECF 104, at 5–6. However, SIS alleges that 
+  Stoneridge entered into an oral contract during the July 21 teleconference, 
+  prior to the August 4 email. Therefore, Yim is inapposite.             
+90   ECF 102, at 8–9.                                                     
+         agreement.”  (Citation  and  punctuation  omitted.)  Gen.       
+         Hosps. of Humana [v. Jenkins], 188 Ga. App. [825, 827(1)        
+         (1988)]; Merry [v. Ga. Big Boy Mgmt. Inc.], 135 Ga. App.        
+         [707, 708(1) (1975)]. See also Barton v. Chemical Bank, 577     
+         F.2d 1329, 1336 (5th Cir. 1978) (“At common law an oral         
+         contract may be enforceable despite the contemplation of        
+         a subsequent written contract.”) (applying Georgia law);        
+         Pacrim Assocs. [v. Turner Home Entertainment, Inc.], 235        
+         Ga. App. [761, 765–766(1) (1998)].                              
+Turner Broad. Sys., Inc. v. McDavid, 303 Ga. App. 593, 601 (2010); see also Doss & 
+Assocs. v. First Am. Title Ins. Co., 325 Ga. App. 448, 452 (2013) (finding that “assent 
+to the terms of a contract may be given other than by signatures” and “assent may 
+be implied from the circumstances”) (citations omitted).91                
+    Since the lack of Stoneridge’s signature is not conclusive, the Court must 
+address the evidence presented by the parties to see if an objectively reasonable 
+person could find that Stoneridge mutually assented to all material terms during 
+
+91   In Defendants’ reply brief and during oral argument, they point to Moreno v. 
+  Strickland’s  holding  that,  where  the  parties  disagree  on  whether  an  oral 
+  agreement was reached, the agreement must be memorialized in writing to be 
+  enforceable. 255 Ga. App. 850 (2002). Defendants claim no such writing exists 
+  in this case. First, it is not clear that Moreno applies since it—and the cases it 
+  cites to for support—dealt with settlement agreements entered into by the 
+  parties’ attorneys. Id. Second, to the extent it may apply, Defendants have not 
+  shown why the July 22 SSA and SOW fail to satisfy this writing requirement. 
+  Defendants appear to claim that the writing must be provided by the party 
+  seeking non-enforcement, but  Moreno’s holding does not go that far, and 
+  Defendants have not provided any other support for that assertion.     
+the July 21 teleconference. In order to do so, it may look to extrinsic evidence and, 
+“[w]here such extrinsic evidence exists and is disputed, the question of whether a 
+party has assented to the contract is generally a matter for the jury.” Legg, 245 Ga. 
+App. at 596.                                                              
+
+    The extrinsic evidence provided by both parties creates a genuine dispute 
+of material fact concerning whether they reached an oral agreement during the 
+July 21  call.  During  oral  argument  and  in  Newell’s  Declaration,  Defendants 
+
+argued  that  the  July 21  call  did  not  occur.92  In  contrast,  SIS  provided 
+Boedigheimer’s  email  to  Newell  referencing  the  July 21  call  and  Kershteyn’s 
+Declaration  claiming  that  the  call  occurred  and  the  parties  reached  an  oral 
+agreement during it.93 Kershteyn’s Declaration alone is “sufficient to require a jury 
+
+determination of whether there had in fact been a meeting of the minds.” Regan, 
+85 F. Supp. 3d at 1363 (citation omitted); see also Netsoft Assocs., Inc. v. Flairsoft, Ltd., 
+331 Ga. App. 360, 363 (2015) (collecting cases holding that conflicting affidavits 
+
+create issues of material fact). However, the circumstances surrounding the call 
+also support the conclusion that there is a genuine issue of material fact as to 
+Defendants’ mutual assent.                                                
+
+
+92   ECF 99-3 (Newell Decl.), ¶ 29.                                       
+93   ECF 122-2, at 3 (Ex. B); ECF 102-2, ¶ 6.                             
+    First,  on  July  11,  Newell  sent  SIS  an  email  highlighting  the  three 
+“outstanding  items”  regarding  the  agreements.94  Those  included:  (1)  billing 
+frequency; (2) the non-solicitation agreement; and, (3) the amount of work to be 
+performed by Stoneridge employees.95 Thomas responded to those concerns that 
+
+same day and, according to SIS, SIS conceded on some of Stoneridge’s requests 
+between the July 8 and July 14 drafts. The notion that SIS conceded to Stoneridge’s 
+requests is supported by Thomas’s July 14 emails, the first of which stated, “[w]e 
+
+primarily agreed on billing and terms as well as the other issue, with a year buffer 
+on working on our clients directly. I will send over documents today for your final 
+review.”96  His  second  email  attached  the  agreements  and  stated,  “[we]  have 
+primarily  agreed  to  the  changes  you  requested.  Please  review.”97  Thus,  a 
+
+reasonable  person  could  find  that  the  concessions  made  by  SIS  satisfied 
+Stoneridge’s remaining concerns, leading Stoneridge to orally assent to the July 14 
+agreements during the July 21 call.                                       
+
+
+94   ECF 99-8, at 92.                                                     
+95   Id.                                                                  
+96   Id. at 109.                                                          
+97   Id. at 111. During oral argument, SIS’s counsel attempted to claim that the “we” 
+  in  Thomas’s  email  referred  to  Stoneridge  and  SIS.  However,  Kershteyn’s 
+  Declaration expressly clarifies that the “we” refers to SIS. ECF 102-2, ¶ 4 (“We 
+  [SIS] primarily agreed . . . .”).                                      
+    Stoneridge’s previous concerns regarding the number of employees and 
+hours does not necessarily show that it would never have agreed to two full time 
+employees for the Project. In fact, Stoneridge’s concern about the amount of work 
+seemed to focus on the hours per team member rather than the number of team 
+
+members.98 Thus, when combined with SIS’s assertions that the July 14 drafts 
+contained concessions to Stoneridge, it is plausible that the requirement of two full 
+team members satisfied Stoneridge’s concern about limited hours. Furthermore, 
+
+the July 14 draft added the following paragraph to the non-solicitation term that 
+appears to favor Stoneridge:                                              
+         The only exception to the above clause is if the customer       
+         that  Company  [SIS]  engages  the  Subcontractor               
+         [Stoneridge] with terminates their agreement with the           
+         Company for just cause, the Subcontractor will be free to       
+         do  work  directly  with  the  Customer  engaged  by  the       
+         Company  one  year  after  the  termination  of  the            
+         agreement by said Customer with the Company.99                  
+Accordingly, a reasonable person could find that Stoneridge agreed to these new 
+terms. This conclusion is further supported by the fact that Stoneridge apparently 
+
+98   See, e.g., ECF 99-8, at 42 (“The change to the SOW where you can’t guarantee 
+  40  hours  a  week  is  a  substantial  change  to  our  understanding  of  the 
+  agreement.”).                                                          
+99   Id. at 115.                                                          
+did not follow up on Thomas’s July 11 emails, responding to Newell’s concerns, 
+or Thomas’s July 14 email, providing the newly revised agreements.        
+    Additionally, the Court finds Stoneridge’s two-week silence following the 
+July 21 call significant. Thomas’s July 22 email clearly implied SIS’s understanding 
+
+that the parties had reached an agreement. Given the consistent negotiations and 
+discussions between the parties from the end of May to July 22, which increased 
+in July due to SIS’s stated desire to execute the agreements quickly, Stoneridge’s 
+
+silence  following  Thomas’s  July  22  email  could  be  reasonably  construed  as 
+showing Stoneridge’s mutual assent to the terms of the SOW signed by SIS. See 
+Fed. Paper Bd. Co. v. Harbert-Yeargin, Inc., 92 F. Supp. 2d 1342, 1351 n.16 (N.D. Ga. 
+1998) (“Defendant’s argument that negotiations were ongoing is undermined by 
+
+the  fact  that  there  is  no  evidence  of  any  discussions  between  plaintiff  and 
+defendant concerning the alleged contract after April 11.”).              
+    Finally, even if Carr’s work during that time period was not in performance 
+
+of the agreements, the fact that the same Stoneridge employee who had attended 
+the kickoff event began work to set up the Configuration Tracker tool for SIS to 
+use in implementation of Microsoft Dynamics AX during that two-week silence 
+
+further supports SIS’s claim that the parties mutually assented to the contract 
+during the July 21 call. The email exhibits filed with Carr’s declaration show that 
+on July 28, Richmond emailed the Project team members regarding the upcoming 
+“APi Requirements Schedule.”100 Wally Carr and Kristy Loeks from Stoneridge 
+were included in that email.101 On August 4, Carr emailed a Senior Application 
+Consultant from SIS, Asoka Perera, stating, “It looks as though the powers that be 
+
+are moving Kristi and I to other projects.”102 Also on August 4, Richmond emailed 
+Carr telling him, “please check with your firm’s management on this project—
+we’ve received notice today that, effective immediately, you are no longer on the 
+
+project. Please stop billable work immediately and forward Asoka any materials 
+that you may have that would be pertinent to the project.”103             
+    The Court finds that Defendants are not entitled to summary judgment 
+because a genuine issue of material fact exists as to whether the parties entered 
+
+into an oral contract. Defendants’ motion for summary judgment as to Count I is 
+DENIED.                                                                   
+
+
+
+
+
+100  ECF 104-2, at 7.                                                     
+101  Id.                                                                  
+102  Id. at 10.                                                           
+103  Id. at 9.                                                            
+V.   Defendants’ Objections to SIS’s Supplemental Statement of Material   
+    Facts and Kershteyn’s Second Declaration                             
+    Before  addressing  the  remaining  counts,  the  Court  must  consider 
+Defendants’ objections to part of SIS’s supplemental filings. Defendants object to 
+SIS’s Supplemental Statement of Material Facts by claiming that it goes beyond the 
+Court’s Order permitting additional briefing.104 Defendants also assert that it 
+improperly groups large paragraphs of information together and the information 
+
+is (1) unsupported, (2) supported by citations that do not actually support the 
+claim,  or  (3) otherwise  inadmissible.105  Defendants  contend  that  Kershteyn’s 
+Second Declaration should be stricken because it goes beyond the Court order 
+
+allowing the supplemental briefing by presenting new evidence into the record 
+and it contains speculations and conclusions, as well as inadmissible hearsay.106  
+    The Court rejects Defendants’ claim that these filings extend beyond the 
+
+Court’s Order granting SIS leave to file a supplemental response. By necessity, the 
+Order granted leave for SIS to file evidence in support of the claims therein because 
+Rule 56 requires the parties to provide support for their factual positions. See Fed. 
+R. Civ. P. 56(c).                                                         
+
+
+104  ECF 131, at 1–3.                                                     
+105  Id. at 3.                                                            
+106  ECF 132.                                                             
+    The  Court  DENIES  Defendants’  motion  to  strike  Kershteyn’s  Second 
+Declaration  [ECF 132]  and  the  overarching  objections  thereto  and  to  the 
+Supplemental  Statement  of  Material  Facts.  However,  the  Court  will  consider 
+Defendants’ specific objections when relevant; and, to the extent specific portions 
+
+of  SIS’s  supplemental  briefing  do  not  comply  with  Rule  56’s  evidentiary 
+requirements, such portions will not be considered.                       
+VI.  Count II: Promissory Estoppel                                        
+    SIS’s  alternative  promissory  estoppel  theory  of  liability  argues  that 
+
+Defendants promised to refrain from contracting directly with SIS’s customers for 
+a period of one year after the termination of the parties’ subcontract agreement.107 
+SIS asserts the promise was made during a call on or about July 14, 2014 and 
+
+during a July 21 call when Stoneridge allegedly agreed to be bound by the written 
+terms of the SSA.108 Defendants argue that, regardless of whether this promise was 
+made during the alleged July 14 call, SIS’s claim fails because SIS did not provide 
+Stoneridge with access to any sensitive or confidential information after July 14, 
+
+
+
+
+
+107  ECF 55, ¶ 38.                                                        
+108  Id.                                                                  
+and there is no evidence that SIS suffered pecuniary losses as a result of changing 
+its position in reliance on the alleged promise.109                       
+    SIS responds that it provided Defendants with confidential information 
+following the July 14 call by pointing to the following evidence: (1) Stoneridge’s 
+
+July 21 invoice time entries for work during the kickoff event; (2) invoices from 
+July 23–25; and, (3) information allegedly provided by SIS to Newell and two 
+senior consultants during the July 21 call about SIS’s “confidential implementation 
+
+strategy” for the Project.110 SIS asserts that it invested more than $340,000 and 
+hundreds of man hours to develop the confidential implementation strategy.111 In 
+response  to  Defendants’  lack-of-pecuniary-loss  argument,  SIS  points  to  the 
+$340,000 investment in its confidential implementation strategy and the more than 
+
+$7.22  million  profit  earned  by  Defendants  through  their  work  with  APi  as 
+evidence.112  In  their  reply  brief,  Defendants  contend  that  SIS’s  evidence  is 
+insufficient  to  show  specific  confidential  information  shared  after  July 14  and 
+
+detrimental reliance, which requires a substantial change in position.113 
+
+109  ECF 99-1, at 13–14.                                                  
+110  ECF 120, at 4–5.                                                     
+111  Id. at 5.                                                            
+112  Id. at 7–8.                                                          
+113  ECF 129, at 3–4. Defendants’ supplemental reply brief attempts to make the 
+    a.   Legal Standard                                                  
+    Georgia law recognizes promissory estoppel claims in O.C.G.A. § 13-4-44,114 
+which provides:                                                           
+         (a) A  promise  which  the  promisor  should  reasonably        
+           expect to induce action or forbearance on the part of         
+           the promisee or a third person and which does induce          
+           such action or forbearance is binding if injustice can        
+           be avoided only by enforcement of the promise. The            
+           remedy granted for breach may be limited as justice           
+           requires.                                                     
+
+
+
+  additional arguments that SIS has not established that an actual promise was 
+  made and, relatedly, that any reliance on the non-established promise was 
+  unreasonable. Id. at 4–5. This argument was not raised in Defendants’ initial 
+  motion,  which  claimed  that  “putting  aside  the  truth  of  [SIS]’s  allegation 
+  regarding the existence of or contents of the alleged July 14th phone call . . .” 
+  SIS did not rely on that promise. ECF 99-1, at 13 (emphasis added). Since this 
+  argument was not raised in the original motion, preventing SIS from having 
+  the opportunity to respond, the Court will not address it. Reliance Ins. Co. of 
+  Illinois v. Richfield Hosp. Servs., Inc., 92 F. Supp. 2d 1329, 1332 (N.D. Ga. 2000) 
+  (“In general, a court should not consider arguments raised for the first time in 
+  a reply brief.”). However, the Court notes that it is skeptical SIS would be able 
+  to show that it reasonably relied on a sufficiently clear promise by Stoneridge 
+  during the alleged July 14 call given that the parties were still negotiating their 
+  written agreements at that point.                                      
+114  The SAC does not refer to a specific statute in support of its promissory 
+  estoppel claim. However, subsequent filings have made clear that SIS asserts 
+  this claim under O.C.G.A. § 13-4-44. E.g., ECF 120, at 3.              
+“Promissory estoppel claims are extremely fact specific and are not susceptible to 
+application of general rules.” DPLM, Ltd. v. J.H. Harvey Co., 241 Ga. App. 219, 220 
+(1999) (citation omitted).                                                
+         To succeed on a promissory estoppel claim, the claimant         
+         must  show:  “(1) the  defendant  made  a  promise  or          
+         promises;  (2) the  defendant  should  have  reasonably         
+         expected the plaintiffs to rely on such promise; (3) the        
+         plaintiffs relied on such promise to their detriment; and       
+         (4) an injustice can only be avoided by the enforcement         
+         of  the  promise,  because  as  a  result  of  the  reliance,   
+         plaintiffs changed their position to their detriment by         
+         surrendering, forgoing, or rendering a valuable right.”         
+Funderburk  v.  Fannie  Mae,  No.  1:13-CV-01362-LMM,  2015  WL  11216690,  at  *3 
+(N.D. Ga. Nov. 16, 2015), aff’d, 654 F. App’x 476 (11th Cir. 2016) (quoting Rental 
+Equip. Grp., LLC v. MACI, LLC, 263 Ga. App. 155, 157 (Ga. Ct. App. 2003)). Only 
+“[d]etrimental  reliance  which  causes  a  substantial  change  in  position  will 
+constitute sufficient consideration to support promissory estoppel.” Robinson v. 
+SunTrust Mortg., Inc., 785 F. App’x 671, 678 (11th Cir. 2019) (quoting Clark v. Byrd, 
+254 Ga. App. 826, 828 (2002)).                                            
+    b.   Discussion                                                      
+    In order to succeed on its promissory estoppel claim, SIS must show that 
+(1) Defendants promised not to compete with SIS’s customers for a year after the 
+termination  of  the  parties’  subcontract  agreement;  (2) Defendants  reasonably 
+expected SIS to rely on that promise; (3) SIS relied on that promise to its detriment; 
+and (4) injustice can only be avoided by enforcement of the promise. The Court 
+finds that SIS cannot show it detrimentally relied on the alleged promise and, 
+therefore, Defendants are entitled to summary judgment on this count.     
+
+    In order to show that it detrimentally relied on the alleged promise, SIS must 
+show a substantial change in position stemming from the promise. SIS asserts that 
+it substantially changed its position by providing confidential information to 
+
+Defendants  regarding  APi  or  the  Project  that  it  otherwise  would  not  have 
+shared.115 However, in comparing the information SIS provided to Defendants 
+before and after July 14, the Court finds that SIS has failed to show a substantial—
+if any—change.                                                            
+
+    The record evidence shows that Stoneridge was aware of APi’s identity and 
+involved in the Project as early as April 2, 2014, when a Stoneridge employee 
+performed a demonstration for APi as part of SIS’s final sales pitch.116 SIS and 
+
+Stoneridge entered into a confidentiality agreement, the MCA, on April 10 to 
+discuss the Project in more detail.117 On May 28, SIS provided a copy of the Work 
+
+
+115  ECF 120, at 3.                                                       
+116  ECF 99-1, at 13.                                                     
+117  ECF 99-2, at 5. See ECF 99-3, at 10–12 (MCA).                        
+Order from APi to Stoneridge.118 The email exchange shows that Stoneridge had 
+discussed the implementation plan with SIS prior to receiving the Work Order.119 
+Thus, the record shows that SIS shared confidential information with Defendants 
+prior to the alleged July 14 promise.                                     
+
+    The  confidential  information  shared  with  Defendants  after  the  alleged 
+promise is not substantially different from the confidential information already 
+provided. First, SIS claims that the July 21 invoice shows a difference in the type 
+
+of information shared with Defendants.120 The invoice shows that Stoneridge 
+employees were included in meetings discussing the Project during the kickoff 
+event. However, SIS has failed to show that the information provided in those 
+meetings differed from the information previously provided to Stoneridge. SIS’s 
+
+Statement of Material Facts explains that the kickoff event covered the use of the 
+project  management  tool  to  be  used  on  the  Project  (Compass),  and  the 
+requirements set by APi in its Request for Proposal (“RFP”).121 SIS does not argue 
+
+
+
+118  ECF 99-2, ¶ 26; ECF 99-8, at 13–14; ECF 99-8, at 15–25 (Work Order).  
+119  ECF 99-8, at 13 (email from Newell to SIS asking if the pilot implementation 
+  discussed in the Work Order affected the overall implementation plan or if the 
+  plan was still as the parties had “previously discussed”).             
+120  Id. at 3–4.                                                          
+121  ECF 102-1, ¶ 5.                                                      
+that APi’s RFP was confidential and not previously available to or shared with 
+Defendants. Further, the Work Order previously provided to Defendants had 
+already identified Compass as the project management tool for the Project.122  
+    SIS next points to the July 23–25 invoice as evidence showing that a senior 
+
+Stoneridge consultant (Carr) began building the software system for the Project.123 
+However, SIS does not state what confidential information was shared with Carr 
+to build this system. Furthermore, the undisputed evidence regarding the general 
+
+nature of the Configuration Tracker that Carr was working on during this time 
+does  not  support  an  inference  that  he  required  or  was  given  confidential 
+information to build the tool.124                                         
+    SIS also claims that a SIS project manager provided Newell and two other 
+
+Stoneridge  employees  information  “gleaned  from”  SIS’s  confidential  
+implementation strategy during a July 21 call.125 In support of this assertion, SIS 
+provides  Kershteyn’s  Second  Declaration.  Defendants  assert  that  Kershteyn’s 
+
+testimony regarding the information provided during this call is inadmissible 
+
+
+122  ECF 99-8, at 25.                                                     
+123  ECF 120, at 4.                                                       
+124  ECF 104-1, ¶¶ 8–9; ECF 104-2, ¶¶ 7–11.                               
+125  ECF 120, at 5.                                                       
+hearsay  because  Kershteyn  did  not  participate  in  the  call.  Regardless  of  the 
+admissibility of this evidence, Kershteyn’s Second Declaration fails to provide 
+specific details about the type of confidential information provided and how that 
+information  substantially  differed  from  previous  information  provided  to 
+
+Defendants.                                                               
+    Moreover,  other  portions  of  Kershteyn’s  Second  Declaration  support  a 
+finding  that  the  confidential  information  provided  on  this  call  was  not 
+
+substantially  different  from  the  information  provided  prior  to  July 14.  In 
+describing the email from Jim Westerman of Microsoft to Boedigheimer on April 
+15,  2014,126  Kershteyn  states,  “[l]ike  the  information  imparted  by  [SIS]  to 
+Defendants in the internal kickoff/knowledge transfer meetings and in Newell’s 
+
+call with the project manager, this information was gleaned from [SIS]’s multiyear 
+sales cycle in which it invested hundreds of thousands of dollars and hundreds of 
+man hours.”127 SIS claims it did not give Westerman permission to share that 
+
+information with Defendants.128 However, SIS did ultimately provide much of this 
+
+126  Defendants object to the consideration of this email. It is referenced here not 
+  for the contents of the email itself, but for Kershteyn’s description of the email. 
+  The Court addresses the document’s admissibility infra in Section VIII.b.i.  
+127  ECF 120-1, ¶ 9.                                                      
+128  Id.                                                                  
+information to Defendants on May 28 when it supplied them with a copy of the 
+Work  Order.129  Therefore,  according  to  Kershteyn’s  declaration,  similar 
+information  “gleaned”  from  SIS’s  multiyear  sales  cycle  was  provided  to 
+Defendants by SIS prior to July 14.                                       
+
+    The Court finds that SIS has failed to show that it detrimentally relied on 
+Defendants’ alleged promise because the information provided to Defendants 
+before and after the promise did not substantially differ. Accordingly, Defendants’ 
+
+motion for summary judgment on Count II is GRANTED.                       
+VII.  Counts III and IV: Negligent Misrepresentation and Fraud            
+    SIS’s claims for negligent misrepresentation and fraud are based on the 
+same contentions as its promissory estoppel claim. SIS alleges that Defendants 
+
+negligently misrepresented and/or fraudulently agreed on or about July 14 or 21 
+to refrain from contracting with SIS’s customers for a period of one year following 
+the  termination  of  the  subcontract.130  Defendants  argue  that  the  negligent 
+misrepresentation  claim  fails  because  it  (1) is  not  pled  with  the  particularity 
+
+required  under  Rule 9(b);131  (2) there  is  no  evidence  of  statements  made  by 
+
+129  ECF 99-8, at 13–25 (Work Order). Compare ECF 122-2, at 14–15 (Westerman’s 
+  email) and ECF 99-8, at 22.                                            
+130  ECF 55, ¶¶ 42, 46.                                                   
+131  The Court has already twice denied Defendants’ assertion that these counts 
+Defendants Newell and Boedigheimer giving rise to this claim; (3) Defendants 
+cannot be held liable in tort for violating a contractual term in a contract to which 
+it  never  agreed;  (4) there  is  no  evidence  Stoneridge  agreed  to  this  provision; 
+(5) and, even if it had agreed, SIS did not rely on that agreement and was not 
+
+injured by it.132 Defendants raise largely the same objections to SIS’s fraud count 
+with the additional argument that a promise of future conduct cannot serve as the 
+basis for fraud.133                                                       
+
+    a.   Legal Standard                                                  
+    “Under Georgia law, the tort of negligent misrepresentation consists of 
+[three]  elements:  (1) the  defendant’s  negligent  supply  of  false  information  to 
+foreseeable persons, known or unknown; (2) such persons’ reasonable reliance 
+
+upon that false information; and (3) economic injury proximately resulting from 
+such reliance.” Next Century Commc’ns Corp. v. Ellis, 318 F.3d 1023, 1030 (11th Cir. 
+2003) (citing Hardaway Co. v. Parsons, Brinckerhoff, Quade & Douglas, Inc., 267 Ga. 
+424,  426  (1997)).  “[T]he  tort  of  fraud  consists  of  five  elements:  ‘(1) false 
+
+representation by defendant; (2) scienter; (3) intent to induce the plaintiff to act or 
+
+  should be dismissed for failing to satisfy Rule 9(b)’s particularity standard. See 
+  ECF 54, at 8; ECF 66, at 13–14.                                        
+132  ECF 99-1, at 14–19.                                                  
+133  Id. at 21.                                                           
+refrain from acting; (4) justifiable reliance by the plaintiff; and (5) damage to the 
+plaintiff.’” Id. at 1027 (quoting Ades v. Werther, 256 Ga. App. 8, 11 (2002)).  
+    “[T]he  same  principles  apply  to  both  fraud  and  negligent     
+misrepresentation . . . .” Artzner v. A & A Exterminators, Inc., 242 Ga. App. 766, 771–
+
+72 (2000) (quoting Real Estate Intl v. Buggay, 220 Ga. App. 449, 452 (1996)); see also 
+Ellis,  318  F.3d  at  1030  (“[T]he  reasonable  reliance  that  is  required  to  state  a 
+negligent  misrepresentation  claim  is  equivalent  to  that  needed  in  the  fraud 
+
+context.”).                                                               
+    b.   Discussion                                                      
+    The Court finds that SIS failed to satisfy the reliance element necessary to 
+these claims. In support thereof, SIS proffered the same evidence raised in support 
+
+of its promissory estoppel claim.134 As explained above, the evidence presented by 
+SIS fails to show that SIS detrimentally relied on the alleged promise because it did 
+not change the type of confidential information being shared with Defendants 
+following the promise. The Court likewise finds that SIS has failed to carry its 
+
+burden on the reliance element for its negligent misrepresentation and fraud 
+
+
+134  ECF 120, at 13 (“Defendants assert [SIS] did not change its status based on a 
+  false promise to honor the [SSA]. . . . This argument fails for the same reasons 
+  the same argument fails in the context of [SIS]’s promissory estoppel claim.”).  
+claims. See Home Depot U.S.A., Inc. v. Wabash Nat. Corp., 314 Ga. App. 360, 373 n.10 
+(2012) (finding that “to the extent that [the plaintiff’s] promissory estoppel claim 
+was predicated on the same alleged representations forming the basis for its fraud 
+and  negligent  misrepresentation  claims,”  it  failed  for  the  same  reasons). 
+
+Accordingly, the Court GRANTS Defendants’ motion for summary judgment on  
+Counts III and IV.                                                        
+VIII.  Count VI: Misappropriation of Trade Secrets                        
+    SIS alleges that it provided trade secrets and confidential information in the 
+
+context of the confidential relationship governed by the MCA and the SSA, and 
+Defendants misappropriated that information.135 SIS contends that Defendants 
+used that information to obtain APi’s business, and, as a result, SIS suffered 
+
+damages exceeding $7 million.136 Defendants counter that they are not in the 
+possession of information from SIS that could be considered a trade secret.137 
+Further,  they  allege  that,  even  if  the  information  qualified  as  a  trade  secret, 
+
+
+
+
+
+135  ECF 55, ¶¶ 53–55.                                                    
+136  Id. ¶ 56.                                                            
+137  ECF 99-1, at 22.                                                     
+Defendants did not misappropriate that information, and APi’s dismissal of SIS 
+was completely unrelated to Defendants.138                                
+    a.   Legal Standard                                                  
+    The Georgia Trade Secret Act (“GTSA”) is codified under O.C.G.A. § 10-1-
+
+760 et seq.139 To prove a claim under the GTSA, a plaintiff must establish that “(1) it 
+had a trade secret and (2) the opposing party misappropriated the trade secret.” 
+Cap. Asset Rsch. Corp. v. Finnegan, 160 F.3d 683, 685 (11th Cir. 1998) (quoting Camp 
+Creek Hosp. Inns, Inc. v. Sheraton Franchise Corp., 139 F.3d 1396, 1410 (11th Cir. 
+
+1998)). “The party asserting the existence of a trade secret has the burden of 
+proving that the information so qualifies and that the accused party violated the 
+Act.” Id. at 685. “Whether a particular type of information constitutes a trade secret 
+
+under the GTSA is ordinarily a question of fact. However, the Court can determine 
+that the information at issue is not a trade secret as a matter of law if there is no 
+evidence in the record to support [Plaintiff]’s claim.” Coal. Am., Inc. v. Nat’l Health 
+Benefits Corp., No. 1:03-CV-4012-CC, 2009 WL 10664900, at *3 (N.D. Ga. Feb. 6, 
+
+2009) (citations omitted).                                                
+
+
+138  Id. at 24–25.                                                        
+139  The SAC does not state the basis for SIS’s trade secrets cause of action, but the 
+  parties briefing refers to the GTSA. ECF 99-1, at 22; ECF 120, at 14.  
+    Trade secrets are defined under O.C.G.A § 10-1-761(4):               
+         (4) “Trade secret” means information, without regard to         
+         form,  including,  but  not  limited  to,  technical  or        
+         nontechnical data, a formula, a pattern, a compilation, a       
+         program, a device, a method, a technique, a drawing, a          
+         process, financial data, financial plans, product plans, or     
+         a list of actual or potential customers or suppliers which      
+         is not commonly known by or available to the public and         
+         which information:                                              
+              (A) Derives economic value, actual or potential,           
+              from not being generally known to, and not being           
+              readily ascertainable by proper means by, other            
+              persons who can obtain economic value from its             
+              disclosure or use; and                                     
+              (B)  Is  the  subject  of  efforts  that  are  reasonable  
+              under the circumstances to maintain its secrecy.           
+Thus, in order to show that the information qualifies as a trade secret, a plaintiff 
+must show the following elements: “(i) information not commonly known by or 
+available to the public, (ii) which derives economic value from not being generally 
+known to or ascertainable by proper means by others who can obtain economic 
+value from the information; and (iii) that was subject to reasonable efforts to 
+maintain its secrecy.” EarthCam, Inc. v. OxBlue Corp., 49 F. Supp. 3d 1210, 1224–25 
+(N.D. Ga. 2014), aff’d, 703 F. App’x 803 (11th Cir. 2017).                
+    A defendant misappropriates a trade secret under O.C.G.A. § 10-1-761(2)(B) 
+when “it discloses or uses a trade secret of another, without express or implied 
+consent, knowing that at the time of disclosure or use the trade secret was acquired 
+under circumstances giving rise to a duty to maintain its secrecy or limit its use.” 
+Penalty Kick Mgmt. Ltd. v. Coca Cola Co., 318 F.3d 1284, 1292 (11th Cir. 2003) 
+(citations omitted). A non-disclosure agreement can be the basis for imposing the 
+
+duty not to disclose. Id. “‘Acquisition,’ ‘disclosure,’ or ‘use’ of a trade secret is a 
+question of fact.” Diamond Power Int’l, Inc. v. Davidson, 540 F. Supp. 2d 1322, 1338 
+(N.D. Ga. 2007) (citing Penalty Kick, 318 F.3d at 1292 n.6).              
+
+    b.   Discussion                                                      
+         i.   Admissibility of Exhibit H                                 
+    Prior to addressing the parties’ arguments on this count, the Court must 
+resolve  Defendants’  objection  to  Exhibit  H  of  SIS’s  supplemental  response.140 
+Exhibit H is relevant to both of Defendants’ objections because it contains an email 
+
+chain  between  SIS  and  Microsoft  regarding  the  “APi  Operations  Scope 
+Documents”  that  a  Microsoft  employee,  Jim  Westerman,  forwarded  to 
+Boedigheimer on April 15, 2014.141 Westerman’s email notes, “Also, please don’t 
+
+let Max know I shared this with you. He tends to be very sensitive and secretive. 
+
+
+
+140  ECF 122-2, at 12–18.                                                 
+141  Id.                                                                  
+So I don’t want to lose my source of information on this deal.”142 Boedigheimer 
+forwarded the email to other Stoneridge employees, including Newell, that same 
+day.143 Additionally, Boedigheimer re-forwarded the email on January 14, 2015 to 
+Newell and others noting, “Additional info regarding API group. None of these 
+
+items has come up in our discussions with them. We are talking with them  
+tomorrow about the outliers like these items. I will make sure to have these items 
+on my list.”144 The substance of these emails is highly relevant to whether SIS took 
+
+reasonable  efforts  to  maintain  the  secrecy  of  its  trade  secrets  and  whether 
+Defendants misappropriated SIS’s trade secrets by using the information to garner 
+APi’s business.                                                           
+    Defendants object to the use of this email by claiming that it constitutes 
+
+inadmissible hearsay and has not been authenticated.145 Accepting that the email 
+constitutes hearsay for purposes of this argument,146 the Court finds that it may 
+
+
+142  Id. at 13. “Max” presumably refers to Maxwell Thomas, who is the originating 
+  author of this email chain.                                            
+143  Id.                                                                  
+144  Id.                                                                  
+145  ECF 131, at 14.                                                      
+146  Westerman’s statement that Thomas “tends to be sensitive and secretive,” is 
+  arguably hearsay to the extent it is offered to show SIS’s reasonable efforts to 
+  maintain secrecy. However, it is not clear that Boedigheimer’s January 14 
+  email constitutes hearsay to the extent it is not being offered for the truth, but 
+consider the email nonetheless because “it could easily be ‘reduced to admissible 
+evidence at trial or reduced to an admissible form,’ say, by ‘hav[ing] the hearsay 
+declarant testify directly to the matter at trial.’” Meunier Carlin & Curfman, LLC v. 
+Scidera, Inc., 324 F. Supp. 3d 1269, 1278 (N.D. Ga. 2018) (quoting Jones v. UPS 
+
+Ground Freight, 683 F.3d 1283, 1293 (11th Cir. 2012)), reconsideration denied, No. 1:15-
+CV-1665-RWS, 2018 WL 10396435 (N.D. Ga. Dec. 26, 2018), aff’d, No. 19-11852, 2020 
+WL 2188667 (11th Cir. May 6, 2020). Defendants have not argued that the email is 
+
+incapable of being presented in an admissible form at trial; therefore, the Court 
+overrules this objection. See Rindfleisch v. Gentiva Health Servs., Inc., No. 1:10-CV-
+3288-SCJ, 2015 WL 12551173, at *6 (N.D. Ga. Oct. 28, 2015) (“Plaintiffs make no 
+argument that this information cannot be reduced to admissible evidence at trial 
+
+and the Court will consider it.”); Gen. Elec. Cap. Corp., 2010 WL 11597655, at *4 
+(“The Court cannot determine, at this point, that Plaintiff will not be able to reduce 
+the  e-mail  and  the  statement  contained  in  Mr.  Wingate’s  first  declaration  to 
+
+admissible form at trial. The Court therefore overrules this objection for purposes 
+of the instant Motions.”).                                                
+
+
+  rather to show Defendants’ potential misappropriation of SIS’s trade secrets. 
+  Defendants have failed to provide an explanation for why the email would 
+  constitute hearsay in this context.                                    
+    Further, Defendants’ attempt to question the authenticity of the emails is 
+unavailing. “[C]ircumstantial evidence can be relied upon to show the authenticity 
+of a document, ‘including the document’s own distinctive characteristics and the 
+circumstances surrounding its discovery.’” U.S. for Use & Ben. of WFI Ga., Inc., v. 
+
+Gray Ins. Co., 701 F. Supp. 2d 1320, 1332 (N.D. Ga. 2010) (quoting U.S. v. Smith, 918 
+F.2d 1501, 1510 (11th Cir. 1990)), aff’d sub nom. U.S. ex rel. Cap. Computer Grp., LLC 
+v.  Gray  Ins.  Co.,  453  F.  App’x  905  (11th  Cir.  2011).  Here,  SIS  contends  and 
+
+Defendants do not deny that the email was produced by Stoneridge.147 This is 
+further  supported  by  the  fact  that  the  document  bears  the  following  Bates 
+numbers:  STONERIDGE  000602–607.  “Because  the  emails  were  produced  by 
+[Defendants] during the discovery process, the circumstances surrounding their 
+
+discovery indicate authenticity.” Gray Ins. Co., 701 F. Supp. 2d at 1332 (citing Sklar 
+v.  Clough,  No.  1:06–CV–0627–JOF,  2007  WL  2049698,  at  *4  (N.D.  Ga.  2007)). 
+Accordingly, the Court will consider the evidence.                        
+
+         ii.  Trade Secret                                               
+    Defendants claim that the information it received was either not a trade 
+secret,  or  not  entitled  to  trade  secret  protection  because  SIS  failed  to  take 
+
+
+
+147  ECF 134, at 18.                                                      
+reasonable  efforts  to  maintain  its  privacy.148  The  Court  rejects  both  these 
+arguments.                                                                
+    First, SIS properly identified the applicable trade secrets in the SAC.149 In 
+summary, the trade secrets include confidential information regarding APi, the 
+
+Project, SIS’s capabilities, particularized software implementation strategies and 
+techniques, and the Work Order.150 Further, contrary to Defendants’ assertions, 
+the record evidence shows countless emails and communications between the 
+
+parties discussing the Project and at least one specific example of a compilation of 
+confidential  information  being  shared  with  Defendants  (the  Work  Order).151 
+Therefore, the Court finds that SIS identified the purported trade secrets with 
+sufficient detail.                                                        
+
+    Defendants  do  not  provide  any  support  for  their  broad  assertion  that 
+“information regarding APi’s needs, the Project, and [SIS]’s abilities with respect 
+to the Project” cannot constitute a trade secret under Georgia law.152 Nor does the 
+
+Court find this argument persuasive. SIS’s compilation of information regarding 
+
+148  ECF 99-1, at 24.                                                     
+149  ECF 55, ¶ 34.                                                        
+150  Id.                                                                  
+151  ECF 99-8, at 13–25.                                                  
+152  ECF 99-1, at 24.                                                     
+APi and the Project, collected for the purpose of gaining APi’s business, has clear 
+economic  value  to  SIS  derived  from  not  being  generally  known  or  readily 
+ascertainable to other companies competing with SIS for APi’s business. The 
+advantage  a  competing  company  would  receive  in  knowing  and  using  this 
+
+information  is  apparent.  Accordingly,  the  Court  finds  that  the  confidential 
+information regarding APi, the Project, and SIS’s implementation plan may qualify 
+as trade secrets so long as SIS took reasonable efforts to maintain their secrecy.  
+
+    The Court finds that there is a genuine issue of material fact as to whether 
+SIS  took  reasonable  efforts  to  maintain  the  secrecy  of  its  trade  secrets.  It  is 
+undisputed that SIS shared APi’s identity with Defendants and a Stoneridge 
+employee performed a demonstration for APi as part of SIS’s sales pitch prior to 
+
+the parties entering into the MCA. However, APi’s identity is not a purported 
+trade secret; rather, the potential trade secrets are the compilation of information 
+about APi and the Project. SIS asserts that the Stoneridge employee participating 
+
+in the sales pitch did not receive such information as his role was to demonstrate 
+“a  discrete  functionality  of  the  Microsoft  software  (Enterprise  portal).”153 
+Defendants have not provided any evidence to the contrary. Thus, based on the 
+
+
+
+153  ECF 120, at 18; ECF 99-6, at 6–7.                                    
+evidence before the Court, SIS did not share any trade secrets with Defendants 
+prior to entering into the MCA.154                                        
+    Defendants next assert that the purported trade secrets are not covered by 
+the MCA.155 In support, they idly cite to the entire MCA without identifying where 
+
+the document excludes such trade secrets. However, the express language of the 
+MCA covers “lists of and information about . . . customers, potential customers, 
+and associated statistical and financial information; . . . sales, marketing, business 
+
+and strategic plans; and other significant and valuable business information that 
+would otherwise be considered to be ‘trade secrets’ under applicable law.”156 Thus, 
+it appears to cover exactly the type of information SIS is claiming qualifies as a 
+trade secret.                                                             
+
+    In addition to relying on the MCA to show it protected the confidentiality 
+of its trade secrets, SIS asserts that it stored such information only on password 
+protected devices and shared this information only with those involved in the 
+
+
+154  In contrast, SIS’s claim that it did not share trade secrets until after it believed 
+  Defendants  had  agreed  to  the  non-compete  clause,  ECF 120,  at 17,  is  not 
+  supported by the evidence. As discussed above, SIS shared the Work Order 
+  with Defendants prior to the alleged promise not to compete. This fact is not 
+  determinative, however, because the MCA was in place.                  
+155  ECF 99-1, at 24.                                                     
+156  ECF 99-3, at 10 (MCA).                                               
+sales pitch who needed to know—all of whom were subject to non-disclosure 
+agreements, such as the agreements in place with Stoneridge and Microsoft.157 
+Further, SIS’s own consultants were subject to non-disclosure and non-compete 
+agreements.158 Finally, when forwarding confidential information regarding the 
+
+APi Project provided by Max Thomas, Westerman asked Boedigheimer to keep  
+the fact that he is sharing the information secret because Thomas “tends to be very 
+sensitive and secretive.”159 This email provides circumstantial evidence of the 
+
+emphasis SIS placed on secrecy when dealing with its trade secrets. Accordingly, 
+the Court finds that the totality of the measures taken by SIS creates a genuine 
+issue of material fact as to the reasonableness of SIS’s efforts to maintain the 
+secrecy of its trade secrets.                                             
+
+         iii.  Misappropriation                                          
+    There  is  also  an  issue  of  material  fact  as  to  whether  Defendants 
+misappropriated SIS’s trade secrets. On January 14, 2015, Boedigheimer forwarded 
+the email from Westerman containing SIS’s alleged trade secrets to Newell and 
+
+
+157  See id. at 10-12; ECF 122-2, at 53-55 (Microsoft Non-Disclosure Agreement). 
+158  ECF 120,  at 17  (citing  ECF 120-1  (Kershteyn’s  Second  Declaration),  ¶ 10 
+  (Ex. A)). Defendants did not specifically object to ¶ 10 of Kershteyn’s Second 
+  Declaration. Further, the Court finds that Kershteyn would be competent to 
+  testify on these issues given his oversight of the Project.            
+159  ECF 122-2, at 13.                                                    
+others. In the email, Boedigheimer states, “Additional info regarding API group. 
+None of these items has come up in our discussions with them. We are talking 
+with them tomorrow about the outliers like these items. I will make sure to have 
+these items on my list.”160 According to Defendants’ Statement of Material Facts, 
+
+APi separated from SIS on February 4, 2015.161 Further, “APi retained Stoneridge 
+to review work by SIS, and to proceed with a 9-week project to complete the 
+analysis phase begun by SIS, before moving to the implementation phase of the 
+
+project” in February 2015.162                                             
+    Given the language in the email and the undisputed timeline, a reasonable 
+trier of fact could conclude that Stoneridge used the confidential information 
+provided to it through its relationship with SIS to secure APi’s business. Such a 
+
+use would constitute a misappropriation of SIS’s trade secrets. See Diamond Power, 
+540 F. Supp. 2d at 1340 (N.D. Ga. 2007) (“There are no technical limitations on the 
+nature of the conduct that constitutes ‘use’ of a trade secret. . . . As a general 
+
+matter, any exploitation of the trade secret that is likely to result in injury to the 
+trade secret owner or enrichment to the defendant is a ‘use’ . . . .’”) (quoting Penalty 
+
+
+160  Id.                                                                  
+161  ECF 99-2, ¶ 75.                                                      
+162  Id. ¶ 76.                                                            
+Kick, 318 F.3d at 1292). Accordingly, SIS has provided sufficient evidence to create 
+a genuine issue of material fact as to whether Defendants misappropriated its 
+purported trade secrets.                                                  
+    In  their  supplemental  reply  brief,  Defendants  acknowledge  that  the 
+
+Westerman email chain is evidence of potential misappropriation.163 They then 
+argue that this “sole evidence” of misappropriation is “circumstantial (at best)” 
+and “cannot contradict the direct evidence provided by [Defendant] Newell in his 
+
+Declaration  in  support  of  Defendants’  Motion  for  summary  judgment.”164 
+However, Defendants fail to cite to the portion of Newell’s Declaration that the 
+email  allegedly  contradicts.  Upon  its  own  review,  the  Court  finds  that  the 
+declaration  does  not  address  the  allegations  of  misappropriation.  As  such, 
+
+Defendants have not provided any direct evidence to contradict the circumstantial 
+evidence provided by SIS.                                                 
+    Finally, Defendants’ assertion that it was not on notice that the email from 
+
+Westerman contained trade secrets is unavailing.165 Westerman’s email expressly 
+
+163  ECF 129, at 14–15.                                                   
+164  Id. at 15.                                                           
+165  Id. at 13 (“Stoneridge was not on notice and could not have ascertained from 
+  the email that any information shared by Microsoft regarding the APi Project 
+  was subject to trade secret protection.”).                             
+notes the secretive nature of the information being shared.166 This was echoed by 
+Boedigheimer  when  he  originally  forwarded  the  email  to  other  Stoneridge 
+employees and noted, “[w]e need to keep this confidential.”167 Thus, viewing the 
+evidence in the light most favorable to SIS, there is at least a question of material 
+
+fact as to whether Defendants misappropriated SIS’s purported trade secrets.  
+    In sum, the Court finds that genuine issues of material fact exist regarding 
+whether SIS took reasonable efforts to protect its alleged trade secrets and whether 
+
+Defendants misappropriated those alleged trade secrets by using them to gain 
+APi’s business over SIS. Accordingly, the Court DENIES Defendants’ motion for 
+summary judgment as to Count VI.                                          
+IX.  Conclusion                                                           
+
+    Defendants’ motion for summary judgment [ECF 99] is DENIED IN PART   
+and GRANTED IN PART. The motion is DENIED as to Counts I and VI. The      
+motion  is  GRANTED  as  to  Counts  II,  III,  and  IV.  The  parties  are  hereby 
+DIRECTED  to  file  their  Proposed  Consolidated  Pretrial  Order  regarding  the 
+
+remaining counts within 30 days after entry of this Order. To the extent SIS is still 
+seeking discovery of Stoneridge’s functional design documents, the parties should 
+
+
+166  ECF 122-2, at 13.                                                    
+167  Id.                                                                  
+present their respective positions (in 500 words or less, consistent with the Court's 
+Standing  Order  concerning  discovery  disputes)  in  the  Proposed  Consolidated 
+Pretrial Order. 
+     Defendants’ Motion to Strike SIS’s Second Kershteyn Declaration [ECF 132] 
+is DENIED. For good cause shown, SIS’s Motion for Leave to File Matters Under 
+Seal  [ECF 121]  is GRANTED.  The Clerk is  DIRECTED to  seal ECF 122 and its 
+attachments. 
+     SO ORDERED this the 20th day of August 2020. 
+                                        SK     Lew 
+                                                 Steven D. Grimberg 
+                                          United States District Court Judge 

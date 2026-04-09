@@ -1,0 +1,457 @@
+             UNITED STATES DISTRICT COURT                            
+             NORTHERN DISTRICT OF ILLINOIS                           
+                   EASTERN DIVISION                                  
+
+                           )                                         
+XIANSONG LIU,                   )                                         
+                           )                                         
+     Plaintiff,            )                                         
+                           )       No. 24-cv-6422                    
+v.                         )                                         
+                           )       Judge April M. Perry              
+HONGYE LI, and NORTH PACIFIC LLC,  )                                      
+a Delaware limited liability company,  )                                  
+                           )                                         
+     Defendants.           )                                         
+                           )                                         
+
+
+                  OPINION AND ORDER                                  
+Plaintiff Xiansong Liu, a real estate broker living in Chicago, brings this action against 
+Defendants Hongye Li (“Defendant”), a resident of China, and North Pacific LLC, a Delaware 
+company. Plaintiff alleges that Defendant presented herself to Plaintiff as a skilled equities trader 
+and manager of a profitable investment fund. In March 2024, Plaintiff executed an investment 
+agreement with North Pacific LLC and transferred $370,000 to Defendant’s bank account. Three 
+months later, Defendant told Plaintiff that the fund was liquidating and returned just $51,126 of 
+Plaintiff’s investment. The gravamen of Plaintiff’s complaint is that Defendant defrauded him 
+into making his investment based on false representations about the fund and Defendant’s 
+trading prowess. Before this Court is Defendant’s motion to dismiss Plaintiff’s complaint for 
+lack of personal jurisdiction under Rule 12(b)(2) or, in the alternative, for an evidentiary hearing. 
+Doc. 55. For the following reasons, Defendant’s motion is denied.         
+                   LEGAL STANDARD                                    
+When a defendant challenges personal jurisdiction under Rule 12(b)(2), the plaintiff bears 
+the burden of affirmatively establishing personal jurisdiction. Purdue Rsch. Found. v. Sanofi-
+Synthelabo, S.A., 338 F.3d 773, 782 (7th Cir. 2003). To decide whether jurisdiction exists, a 
+court may reach beyond the complaint’s allegations and consider evidence submitted by the 
+
+parties. Curry v. Revolution Labs., 949 F.3d 385, 393 (7th Cir. 2020). A court may resolve a 
+Rule 12(b)(2) motion based solely on the parties’ written materials, and in such cases the 
+plaintiff “need only make out a prima facie case of personal jurisdiction.” Hyatt Int’l Corp. v. 
+Coco, 302 F.3d 707, 713 (7th Cir. 2002). In this posture, courts “take as true all well-pleaded 
+facts alleged in the complaint and resolve any factual disputes in the affidavits in favor of the 
+plaintiff.” Tamburo v. Dworkin, 601 F.3d 693, 700 (7th Cir. 2010). However, if the evidence 
+presents material factual disputes, an evidentiary hearing is then appropriate. Hyatt, 302 F.3d at 
+713. At such a hearing, “the plaintiff must establish jurisdiction by a preponderance of the 
+evidence.” Purdue Rsch., 338 F.3d at 782.                                 
+
+              PERSONAL JURSDICTION FACTS                             
+Plaintiff is a real estate broker who lives and works in Chicago. Doc. 56-1 at 2. 
+Defendant is a Chinese national who has lived in China since April 2021 and last lived in Illinois 
+in June 2020. Doc. 22-1 ¶¶ 2–3.                                           
+In 2023, Plaintiff and Defendant met virtually through a mutual acquaintance. Doc. 56-1 
+at 2. The reason for the introduction was for Plaintiff to help Defendant manage a condominium 
+Defendant owned in Chicago. Id. Because Defendant lived in China at the time, the parties 
+primarily communicated through WeChat, a Chinese mobile app with a messaging function. Id. 
+at 3.                                                                     
+
+                           2                                         
+On January 3, 2024, the parties met in person while Plaintiff was on vacation in China. 
+Doc 56-1 at 4; Doc. 22-1 ¶ 4. At this meeting, Defendant shared with Plaintiff that she had 
+graduated from business school in Chicago and was an equities trader with AMC China, a 
+Chinese asset management firm. Doc. 56-1 at 4. Defendant attests it was at this meeting that 
+Plaintiff first learned of Defendant’s participation in an investment group comprised of 
+
+Defendant and a few of her close friends. Doc. 22-1 ¶¶ 5–6. Defendant further attests that some 
+members of the group invest together as North Pacific LLC in order to access U.S. markets. Id. 
+After Plaintiff’s departure from China, the parties continued to communicate through 
+WeChat. The chat records show that throughout January, the parties discussed Defendant 
+connecting Plaintiff with a TikTok/Douyin executive in need of commercial real estate 
+assistance. Doc. 56-1 at 72–81, 83. Defendant proposed she should earn a commission for 
+connecting Plaintiff to the executive and forwarded Plaintiff draft agreements outlining payment 
+terms. Id. at 77–79. No agreement was signed or commission paid for this proposed deal. See id. 
+at 5.                                                                     
+
+On February 4, 2024, Plaintiff asked Defendant for advice on whether to purchase a 
+Nvidia call option.1 Id. at 80. Defendant advised Plaintiff against the purchase due to the option’s 
+limited appreciation potential. Id. Plaintiff then sent a screenshot of a different option to 
+Defendant that he intended to buy instead. Id. at 81. Defendant told Plaintiff this option was 
+satisfactory and then shared that she had bought a Nvidia call option the week before and seen 
+the price triple. Id. at 81. Plaintiff responded that he was impressed by the threefold gain, to 
+
+
+
+1 Nvidia is a U.S. technology company. A call option is a financial contract that gives the option-holder 
+the right, but not obligation, to buy a share of stock at a specific price before some future date. 
+
+                           3                                         
+which Defendant explained that she had been in the option business for a long time and was 
+aiming for up to tenfold return for the month of February. Id. at 81–82. To this, Plaintiff 
+expressed awe, noting, “One month? 10 times? OMG. I’m honestly getting a little tempted just 
+listening to this—I might jump in first thing at market open tomorrow.” Id. at 82. 
+Plaintiff then asked Defendant if he could follow her trades. Id. at 83. Defendant 
+
+responded that she already had “people giving me money to trade” and lacked capacity to take on 
+other investors and could not “squeeze [Plaintiff] in” beyond “a few hundred thousand dollars.” 
+Id. at 83–84. When Plaintiff told Defendant he was fine participating at that dollar value, 
+Defendant began sharing details of her investment group, including the specific split of profits. 
+Id. at 84. Defendant then asked Plaintiff if he found these investment terms acceptable. Plaintiff 
+did not immediately respond. Id.                                          
+The next day, on February 5, Defendant messaged Plaintiff that Nvidia’s option price had 
+increased by fifty percent. Id. Plaintiff asked Defendant whether her other investors were subject 
+to the same profit-sharing structure Defendant had shared the day before. Id. at 85. After 
+
+Defendant confirmed the “same structure for everyone,” Plaintiff replied, “[T]hat works for me,” 
+and asked to discuss next steps. Id. The parties then began discussing a written instrument 
+memorializing the business arrangement, with Defendant explaining that trading could begin 
+within five business days of Plaintiff transferring the funds. Id. at 86. Defendant also sent 
+Plaintiff a graph showing she had achieved a return rate of roughly 154% on her trading in just 
+five days. Id. at 87. The parties also discussed other details, including whether Defendant had an 
+English version of her typical written instrument and whether she accepted U.S. or Chinese 
+currency, to which Defendant responded that she wanted U.S. dollars only. Id. at 87–88. Later 
+that day, Defendant sent Plaintiff the written agreements to review. Again, Plaintiff did not 
+
+                           4                                         
+immediately respond, which he explains in his affidavit was because he “wanted to take time to 
+consider investing what is a substantial sum of money for my family and I—$370,000.” Id. at 6. 
+On February 8, with no agreement yet signed, Defendant sent Plaintiff another screenshot 
+showing her trading performance and bragged that she “already made 20% profit tonight.” Id. at 
+91–92. Defendant then told Plaintiff that the fund would close next week, and “if you are 
+
+interested … please sign the agreement, otherwise we can do this next time.” Id. at 92. Plaintiff 
+responded that he would review the agreement but did not commit to signing it. Id. 
+Although the parties continued texting on other topics, they did not discuss Defendant’s 
+investment fund again until February 27. That day, Plaintiff asked Defendant for more details on 
+her fund and the two agreed to schedule a time to speak by phone or Zoom to discuss it. Id. at 97. 
+On February 29, Defendant sent another screenshot showing a 558% monthly return rate on her 
+fund, alongside the message, “Come to check out something fun.” Id. at 98. 
+On March 4, Defendant sent Plaintiff an agreement for Plaintiff to sign, instructions for 
+Plaintiff to wire his $370,00 investment to Defendant’s bank account, and another graph showing 
+
+Defendant’s 82.26% trading profits over four days, alongside the message, “[d]oubling it again 
+this month should be about enough.” Id. at 102. That same day, the parties spoke by phone for 
+over an hour about the details of the agreement. Id. at 8. One topic of concern for Plaintiff was 
+why Defendant’s aunt, Ying Hua, was executing the agreement rather than Defendant herself. Id. 
+Defendant explained that she did not want her Chinese employer knowing she was operating a 
+fund in the United States but assured Plaintiff that Defendant, not her aunt, would make all 
+trading decisions for the fund. Id.                                       
+Between March 7 and March 9, the parties discussed and exchanged edits to the 
+agreement, with the final agreement executed by both parties on March 10 (the “Agreement”). 
+
+                           5                                         
+See id. at 104–5; see also id. at 68–70 (English version of the Agreement). The Agreement 
+included a clause for Defendant to return Plaintiff’s money by May 31, 2024 and an Illinois 
+choice of law provision. Id. at 68, 70. On March 14, Plaintiff wired $370,000 from his Illinois 
+bank account to Defendant’s bank account, which was linked to an Illinois residential address. 
+Id. at 9.                                                                 
+
+Two months later, on May 18, Defendant messaged Plaintiff that the fund had been 
+largely inactive. Id. at 107. When Plaintiff asked whether the fund was losing money, Defendant 
+assured Plaintiff it was not. Id. On May 31, Plaintiff messaged Defendant asking about the fund’s 
+performance and whether it had matured. Id. Defendant replied that she wanted everyone to keep 
+their money in the fund. Defendant then sent a screenshot showing an 886.96% gain in trading 
+and had a phone call with Plaintiff. Id. at 9, 108. After the phone call, Plaintiff sent Defendant a 
+new executed agreement agreeing to let Defendant keep his money for another month. Id. at 109. 
+A few hours later, Plaintiff sent another message to Defendant, explaining that he had placed 
+trust in Defendant and that while he was “okay with continuing through June,” going “beyond 
+
+that … might not work for me.” Id. To this, Defendant replied that “[g]ood opportunities are 
+meant to be waited for” and that there were “plenty of doubling opportunities …it just takes 
+patience.” Id. at 109–10.                                                 
+On June 11, Defendant messaged that the fund was down 40% and would be liquidated. 
+Id. at 111. Over the following days, Plaintiff requested the return of his investment. Id. at 10. 
+Around June 24, Defendant told Plaintiff that she had lost around 85% of Plaintiff’s $370,000 
+investment. Id. On June 27, Defendant returned the remaining $51,126 to Plaintiff’s bank 
+account. On July 25, Plaintiff filed this action in federal court. See Doc. 1. 
+
+
+                           6                                         
+The Court draws the foregoing factual account primarily from the WeChat records. In her 
+affidavit, Defendant summarizes the conversations between the parties by stating that after their 
+January 3 meeting, it was Plaintiff who “persisted to contact [her] throughout January and 
+February 2024, asking to invest his money alongside North Pacific’s investment group” and that 
+Defendant “rejected him many times” before finally allowing him to join in March 2024. Doc. 
+
+22-1 ¶¶ 7–8.  Defendant further adds—and Plaintiff does not dispute—that Plaintiff was the only 
+person in the investment group residing in the United States, that Plaintiff never advertised in the 
+United States or solicited in the United States to seek members for her investment group, and 
+never spoke to anyone in the United States about contributing to the fund other than Plaintiff. Id. 
+¶¶ 10–11. Finally, Defendant notes that Plaintiff also filed a claim against Defendant based on 
+the facts underlying this case with the China Securities Regulatory Commission. Id. ¶ 12. 
+                       ANALYSIS                                      
+A federal court sitting in diversity “has personal jurisdiction over a nonresident only if a 
+court of the state in which it sits would have such jurisdiction.” Klump v. Duffus, 71 F.3d 1368, 
+
+1371 (7th Cir. 1995). The Illinois long-arm statute permits the exercise of personal jurisdiction to 
+the fullest extent permitted by the Fourteenth Amendment's Due Process Clause. See Bilek v. 
+Fed. Ins. Co., 8 F.4th 581, 590 (7th Cir. 2021). Under the Due Process Clause, a court may not 
+exercise personal jurisdiction over an out-of-state defendant unless the defendant has “certain 
+minimum contacts with [the forum state] such that the maintenance of the suit does not offend 
+traditional notions of fair play and substantial justice.” Int'l Shoe Co. v. Washington, 326 U.S. 
+310, 316 (1945).                                                          
+Personal jurisdiction can be general or specific. Felland v. Clifton, 682 F.3d 665, 673 (7th 
+Cir. 2012). Plaintiff does not argue that any basis exists for general jurisdiction, and so the Court 
+
+                           7                                         
+focuses on specific jurisdiction. The minimum contacts necessary for the proper exercise of 
+specific jurisdiction arise when a defendant “purposefully directs its activities at the forum state 
+and the alleged injury arises out of those activities.” Mobile Anesthesiologists of Chicago, LLC v. 
+Anesthesia Assocs. of Houston Metroplex, P.A., 623 F.3d 440, 444 (7th Cir. 2010). When such 
+contacts are established, and the exercise of jurisdiction “comport[s] with traditional notions of 
+
+fair play and substantial justice,” specific personal jurisdiction may be exercised over the 
+defendant. See B.D. by and through Myers v. Samsung SDI Co., Ltd., 91 F.4th 856, 861 (7th Cir. 
+2024) (articulating three requirements of specific jurisdiction).         
+The Court begins by determining whether Defendant purposefully directed her activities 
+at Illinois, or rather whether she is being haled into court here “for merely random, fortuitous, or 
+attenuated contacts with the forum state.” Curry v. Revolution Labs., 949 F.3d 385, 398 (7th Cir. 
+2020) (cleaned up). For the purpose of specific jurisdiction, purposeful availment must be 
+considered in light of the claims a plaintiff brings. Felland, 682 F.3d at 674. Here, Plaintiff’s 
+claims fall into two broad categories: (1) fraud claims premised on misrepresentations to get 
+Plaintiff to invest money with Defendant; and (2) breach of contract.2    
+
+As they constitute the majority of Plaintiff’s claims, the Court will start by considering 
+the fraud claims. Fraud is an intentional tort, and to establish purposeful direction courts look 
+for:                                                                      
+(1) intentional conduct (or allegedly intentional and allegedly tortious conduct); (2) 
+expressly aimed at the forum state; (3) with the defendant’s knowledge that the effects 
+would be felt—that is—plaintiff would be injured—in the forum state. 
+
+
+2 Specifically, the complaint brings claims for unregistered practice as a security broker in violation of 15 
+U.S.C. § 78 (Count I); securities fraud under 15 U.S.C. § 78j(b) (Count II); securities fraud under the 
+Illinois Securities Law (Count III); violation of the Illinois Consumer Fraud and Deceptive Business 
+Practices Act (Count IV): common law fraud (Count V); and breach of contract (Count VI). Doc. 42. 
+
+                           8                                         
+Tamburo v. Dworkin, 601 F.3d 693, 703 (7th Cir. 2010) (internal citations omitted). 
+Plaintiff easily has satisfied the first and third requirements. Defendant does not dispute 
+Plaintiff’s assertation that she messaged him about her trading performance, and that these 
+representations were intentional acts. Plaintiff alleges that at least some of these statements were 
+actionable misrepresentations, which satisfies the intentional conduct requirement. Tamburo, 949 
+
+F.3d at 704. Moreover, Defendant does not dispute Plaintiff’s assertion that Defendant was 
+aware that Plaintiff lived in Illinois, which supports the inference that Defendant knew any 
+scheme to defraud Plaintiff of over $300,000 would cause injury in Illinois. 
+That leaves only the question of whether the record demonstrates that that these 
+communications were “expressly aimed” at Illinois. Plaintiff argues they were, while Defendant 
+asserts that because she did not initiate or pursue the business relationship, Plaintiff cannot rely 
+on the messages to establish the express aiming requirement.              
+Communications by an out-of-state defendant to an in-state plaintiff count towards 
+minimum contacts if those communications “were part of the wrongful conduct that forms the 
+
+basis of the claim.” Felland, 682 F.3d at 679. Defendant does not dispute this, but argues that 
+what is decisive is which party—Plaintiff or Defendant—initiated the problematic transaction. 
+For support, Defendant cites Northern Grain Marketing, LLC v. Greving, which instructs that 
+“which party initiated or solicited a business transaction has long been considered pertinent to 
+the … personal jurisdiction [question],” 743 F.3d 487, 493 (7th Cir. 2014) (citation omitted). 
+Defendant also cites Philos Technologies, Inc. v. Philos & D, Inc., which held that the mere fact 
+that a defendant “made a contract with an Illinois company … does not outweigh the fact that 
+[the defendant] neither solicited the Illinois company to enter into an agreement nor travelled to 
+
+
+                           9                                         
+the state for the purpose of conducting business with that company.” 802 F.3d 905, 915 (7th Cir. 
+2015).                                                                    
+The Court does not read Greving or Philos Technologies as broadly as does Defendant. 
+Of course, it is relevant to the purposeful direction analysis which party instigated a transaction. 
+Madison Consulting Grp. v. State of S.C., 752 F.2d 1193, 1202 (7th Cir. 1985). But the Court has 
+
+not seen any case that holds that it is the only factor. Furthermore, both Greving and Philos 
+Technologies are distinguishable from the present case because neither involved claims that the 
+defendant attempted to procure the plaintiff’s business through fraudulent misrepresentations 
+sent to the forum state. Thus, while the Court will consider who instigated the transaction, it sees 
+no reason to hinge the entire express aiming determination on which party began the 
+communications.                                                           
+To prove that that it was Plaintiff who instigated the investment contract, Defendant 
+submits an affidavit where she provides her impressions of her conversations with Plaintiff. In 
+approximately four sentences, Defendant explains that she met Plaintiff in person in China in 
+
+January 2024. Doc. 22-1 ¶ 4. At this meeting, Plaintiff first learned about Defendant’s 
+investment group. Id. ¶ 5.  Defendant then claims that Plaintiff “persisted to contact [Defendant] 
+throughout January and February 2024, asking to invest his money” with her. Id. ¶ 7. According 
+to Defendant, she “rejected him many times” before allowing him to invest in March 2024. Id. ¶¶ 
+7-8.                                                                      
+In contrast to Defendant’s high-level summary of the conversations between Plaintiff and 
+Defendant, Plaintiff submits the WeChat communications themselves.3 Based upon the WeChat 
+
+
+
+3 Defendant does not challenge the authenticity of these exhibits or claim that Plaintiff has failed to 
+translate any relevant communication between the parties.                 
+                          10                                         
+transcript between the parties, they first discussed the possibility of Plaintiff joining Defendant’s 
+investment group on February 4, when Plaintiff asked if he could follow Defendant’s trades. 
+Doc. 56-1 at 83. This is not inconsistent with Defendant’s claim that Plaintiff first suggested 
+investing with Defendant, although Defendant omits from her affidavit any reference to her 
+preceding unprompted boasts of monthly tenfold returns on her investments. Similarly, the chat 
+
+transcripts are not inconsistent with Defendant’s claim that she rejected Plaintiff’s request to join 
+her investment group. However, again, the transcripts demonstrate that instead of a flat rejection,  
+Defendant told Plaintiff that she had little capacity to take on new investors, and would have to 
+limit any investment to a few hundred thousand dollars. See Doc. 56-1 at 83-84. When Plaintiff 
+confirmed this was possible, Defendant immediately began to describe the profit-sharing terms 
+of her investment group and ask Plaintiff if he found those terms acceptable. Id. at 84.  
+The continuing conversations between the parties show the same pattern of Defendant 
+sending Plaintiff screenshots of her stellar trading performance when there was a lag in 
+communications from Plaintiff, or otherwise exerting subtle pressure on Plaintiff by indicating 
+
+that the deal was only open for a limited time, a limited amount of money, or to a limited number 
+of people. Based upon this, the Court accepts Defendant’s factual representations in her affidavit 
+as true but also finds that the chat records between the parties more completely tell the story and 
+that the story as a whole shows both parties mutually pursuing the first investment contract.   
+The same cannot be said of the second investment contract, which was the contract that 
+resulted in Plaintiff losing nearly all of his money. The undisputed evidence shows that the first 
+investment contract was set to expire on May 31, and when Plaintiff asked on May 18 if he had 
+lost any money, Defendant told him he had not lost anything, but he had not made much either. 
+Id. at 107. When Plaintiff asked again on May 31 if their fund had matured and how it had 
+
+                          11                                         
+performed, Defendant then encouraged Plaintiff to “keep moving forward” and sign a second 
+agreement because “[g]ood opportunities are meant to be waited for” and that there were “plenty 
+of doubling opportunities” to come, after having sent a screenshot showing 886.96% gains in one 
+of Defendant’s funds. Id. at 108–10. Defendant’s affidavit does not so much as mention the 
+second contract, nor does Defendant provide any argument that it was Plaintiff who instigated or 
+
+pursued this second investment opportunity. Thus, even if instigation and pursuit of a contract 
+were the decisive factors for purposeful direction, it is adequately established here with respect 
+to the contract that ultimately led to Plaintiff’s injury.                
+To be clear: the Court does not find that who begins the business conversation is decisive 
+for the purposes of purposeful direction when the case involves fraudulent misrepresentations. 
+Accepting Plaintiff’s allegations and undisputed facts as true, Defendant’s repeated 
+misrepresentations to Plaintiff about her massive returns and investing expertise were “part of 
+the wrongful conduct that forms the basis of the claim,” and thus can establish that Defendant 
+engaged in conduct expressly aimed at Illinois.  Felland, 682 F.3d at 679.  Similarly, it is well-
+
+settled that communications that lull victims who have been defrauded “into a false sense of 
+security” may constitute forum contacts in a personal jurisdiction inquiry, as they may be 
+“considered part of a larger scheme to defraud, even after the money itself was obtained.” Id. at 
+675–76. Thus, messages after the first deal was signed where Defendant sent a screenshot 
+showing an 886.96% gain in one of her funds, Doc. 56-1 at 108, and told Plaintiff that he needed 
+to be patient, id. at 110, also constitute express aiming for purposes of minimum contacts 
+analysis. Based upon all of this, the Court finds that Defendant purposefully aimed her fraudulent 
+conduct at Illinois.                                                      
+
+
+                          12                                         
+The Court next turns to Plaintiff’s contract claim, which calls for a different minimum 
+contacts inquiry. “[A] contract between a state resident and an out-of-state defendant alone does 
+not automatically establish sufficient minimum contacts.” Citadel Grp. Ltd. v. Wash. Regional 
+Med. Ctr., 536 F.3d 757, 761 (7th Cir. 2008). Instead, courts look to the parties’ “prior 
+negotiations and contemplated future consequences, along with the terms of the contract and the 
+
+parties’ actual course of dealing.” Id. Various factors may be analyzed, including “who initiated 
+the transaction, where the contract was entered into, where the performance of the contract was   
+to take place, and where the contract was negotiated.” Id. at 762. Courts focus on these factors 
+because they help courts evaluate whether “defendant purposefully availed [herself] of the 
+privileges of conducting business in the forum state.” Felland, 682 F.3d at 674. 
+As was already discussed, the question of who initiated the investment contract is murky 
+as to the first contract, but it is undisputed that Defendant initiated the second contract (which 
+resulted in the loss of investment funds) by reaching out to Plaintiff in Illinois. Plaintiff’s 
+performance of the contract consisted entirely of his payment to Defendant, which took place in 
+
+Illinois via a transfer from Plaintiff’s Illinois bank account to Defendant’s bank account which 
+also listed an Illinois address. Defendant also agreed that the contract would be governed in part 
+based upon Illinois law. Doc. 56-1 at 70. Given that Defendant negotiated both contracts with 
+someone she knew to be an Illinois resident who she knew signed the contracts in Illinois, agreed 
+to the application of Illinois law, took payment from an Illinois bank account and deposited it 
+into a bank account in her name at an Illinois address, and entirely initiated the second contract, 
+
+
+
+
+                          13                                         
+the Court finds that Defendant purposefully directed her activities to Illinois for the purpose of 
+the breach of contract claim.4                                            
+Not only did Defendant purposefully direct contacts to Illinois, the claims in this case 
+also arise out of those contacts. The ‘arising out of’ prong of minimum contacts analysis 
+examines whether there is “adequate connection … between the defendant’s activities in the 
+
+forum and the underlying lawsuit.” B.D. by & through Myers v. Samsung Sdi Co., 143 F.4th 757, 
+766 (7th Cir. 2025). Here, Plaintiff’s claims plainly arise out of Defendant’s alleged 
+communications to Plaintiff in Illinois, as the entire cause of action is based on the 
+communications between the parties surrounding the investment contracts. As in Felland, these 
+representations “were not just incidental but are central to the fraudulent course of conduct 
+alleged in the complaint, and are sufficient evidence of both the factual and proximate cause of 
+[Plaintiff’s] alleged injury.” 682 F.3d at 677. Accordingly, the Court finds the second prong of 
+minimum contacts analysis is satisfied.                                   
+Finally, the Court concludes that exercising personal jurisdiction over Defendant does 
+
+“not offend traditional notions of fair play and substantial justice.” Int'l Shoe Co. v. Washington, 
+326 U.S. 310, 316 (1945). Making this determination requires the court to consider factors 
+including                                                                 
+the burden on the defendant, the forum State's interest in adjudicating the dispute, the 
+plaintiff's interest in obtaining convenient and effective relief, the interstate judicial 
+
+
+4 Defendant argues repeatedly that it is relevant that she did not sign the investment contracts on behalf of 
+North Pacific LLC. The Court disagrees. It is undisputed that Defendant and her friends pooled their 
+resources as North Pacific LLC to be able to invest in U.S. markets, Doc. 22-1 at ¶ 6, Defendant made the 
+decision to allow Plaintiff to invest with the group and sent him the contract, id. ¶¶ 8-9, and Defendant 
+accepted Plaintiff’s money into her personal bank account. According to North Pacific’s answer to the 
+complaint, North Pacific was formed by Defendant. Doc. 21 ¶ 4. Moreover, Defendant does not provide 
+any evidence to contradict Plaintiff’s statement that the only reason Defendant’s aunt signed the contract 
+was so Defendant could hide her U.S. investing activity from her employer. Doc. 56-1 at 8. 
+
+                          14                                         
+system's interest in obtaining the most efficient resolution of [the underlying dispute], and 
+the shared interest of the several States in furthering fundamental substantive social 
+policies.                                                            
+Purdue Rsch. Found. v. Sanofi-Synthelabo, S.A., 338 F.3d 773, 781 (7th Cir. 2003). Where a 
+plaintiff has satisfactorily established minimum contacts, it is defendant’s burden to “present a 
+compelling case that the presence of some other considerations would render jurisdiction 
+unreasonable,” Burger King Corp. v. Rudzewicz , 471 U.S. 462, 477 (1985), though to be sure, 
+“the weaker the defendant’s contacts with the forum state … the less likely it is that exercising 
+jurisdiction over that defendant is appropriate.” Ill. v. Hemi Grp. LLC, 622 F.3d 754, 759–60 (7th 
+Cir. 2010).                                                               
+Defendant raises two fairness arguments. First, she argues that as a Chinese national, 
+extending jurisdiction over her would be highly burdensome, as it would require her to expend 
+excessive time and resources to travel to Illinois to appear and litigate this case. Second, she 
+points out that Plaintiff has also filed a claim against her premised on the same facts with the 
+Chinese Securities Regulatory Commission. This, Defendant argues, would further burden her by 
+forcing her to defend duplicative claims in different jurisdictions.      
+
+The Court accords “significant weight” to the “unique burdens placed upon one who 
+must defend oneself in a foreign legal system.” Asahi Metal Indus. Co., Ltd. v. Superior Ct. of 
+California, Solano Cnty., 480 U.S. 102, 114 (1987). Plaintiff contends that Defendant’s burden is 
+lessened because she owns property in Chicago and therefore regularly transacts business in 
+Illinois. As Defendant points out, however, property management can happen remotely without 
+Defendant needing to travel regularly from China to the United States. Nothing in Plaintiff’s 
+evidence suggests otherwise, and so on balance, the Court finds that the burden factor cuts 
+against the reasonableness of extending personal jurisdiction over Defendant. 
+
+                          15                                         
+Still, burden is not the only fairness factor. The Court also must consider the forum 
+state’s interest in adjudicating the dispute. In so doing, the Court finds that there is no question 
+that Illinois has a strong interest in providing a forum for its residents to seek redress for injuries 
+suffered within the state inflicted by out-of-state actors. See, e.g., Curry v. Revolution Labs., 949 
+F.3d 385, 402 (7th Cir. 2020). Similarly, the Plaintiff’s interest in obtaining convenient and 
+
+effective relief is best served by the case being heard in Illinois. While the Court should consider 
+whether China has any interests that would be affected by the exercise of jurisdiction here, it is 
+Defendant’s burden to demonstrate how that would be the case and Defendant has not done so. 
+Although it is undisputed that Plaintiff brought proceedings against Defendant before the 
+Chinese Securities Regulatory Commission, Defendant does not argue that China has greater 
+interest in the parties’ dispute than Illinois, or that having this dispute heard in Illinois would 
+result in some interference with China’s proceeding, or that there is a risk of double-recovery to 
+Plaintiff based upon the China proceeding. In weighing all of the fairness factors, the Court finds 
+that the exercise of personal jurisdiction over Defendant comports with the traditional notions of 
+
+fair play and substantial justice.  Defendant allegedly defrauded a U.S. citizen, via use of a U.S. 
+LLC, taking money from Plaintiff’s U.S. bank account and depositing it into Defendant’s own 
+U.S. bank account, for the purposes of trading in the secondary market of U.S. stocks. It is more 
+than fair for Defendant to be required to answer these allegations in a U.S. court in the state 
+where Defendant knew her victim resided.                                  
+                      CONCLUSION                                     
+Defendant’s motion to dismiss for lack of personal jurisdiction is denied. The Court does 
+not require an evidentiary hearing as Defendant’s four-sentence summary of her conversations 
+with Plaintiff does not create a material dispute of fact, especially considering that Defendant’s 
+
+                          16                                         
+summary does not address any communication relating to the second investment contract. 
+Personal jurisdiction over Defendant is proper in Illinois. 
+
+Dated: January 23, 2026                                               
+                                           APRIL M. PERRY 
+                                           United States District Judge 
+
+                                 17 

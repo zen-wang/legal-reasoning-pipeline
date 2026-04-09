@@ -1,0 +1,17 @@
+{
+  "source": "CourtListener/RECAP",
+  "search_query": "Enron Securities Litigation",
+  "docket_id": 69627506,
+  "case_name": "In re ICON plc Securities Litigation",
+  "court": "nyed",
+  "date_filed": "2025-02-10",
+  "date_terminated": null,
+  "num_entries": 0,
+  "num_pdfs_downloaded": 0,
+  "num_opinion_clusters": 0,
+  "num_opinion_texts": 0,
+  "num_parties": 0,
+  "nature_of_suit": "850 Securities/Commodities",
+  "pacer_case_id": "527272",
+  "ia_link": ""
+}

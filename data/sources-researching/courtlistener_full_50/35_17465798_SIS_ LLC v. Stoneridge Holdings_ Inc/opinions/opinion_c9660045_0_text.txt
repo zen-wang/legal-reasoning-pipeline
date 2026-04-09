@@ -1,0 +1,555 @@
+            IN THE UNITED STATES DISTRICT COURT                          
+           FOR THE NORTHERN DISTRICT OF GEORGIA                          
+                      ATLANTA DIVISION                                   
+
+SIS, LLC,                                                                
+     Plaintiff,                                                          
+                  v.                          Civil Action No.           
+                                             1:17-cv-01816-SDG           
+STONERIDGE HOLDINGS, INC., ERIC                                          
+NEWELL, and SCOTT BOEDIGHEIMER,                                          
+     Defendants.                                                         
+
+                     OPINION AND ORDER                                   
+    This matter is before the Court, by consent of the parties, on Plaintiff SIS, 
+LLC’s motion for attorneys’ fees and expenses [ECF 239]. Also before the Court 
+are Defendants’ motions for judgment as a matter of law or, in the alternative, 
+remittitur  [ECF  241],  and  for  sanctions  [ECF  242],  and  Defendant  Stoneridge 
+Holdings, Inc.’s (Stoneridge) objection to SIS’s bill of costs [ECF 244]. After careful 
+review of the parties’ briefing, and in consideration of the evidence presented at 
+trial,  the  Court  SUSTAINS  Stoneridge’s  objection  to  SIS’s  bill  of  costs  and 
+DENIES the remaining motions.                                             
+I.   BACKGROUND                                                           
+    Both  SIS  and  Stoneridge  provide  services  related  to  the  sale  and 
+implementation  of  large  scale  and  often  business-wide  Microsoft  software 
+packages. Stoneridge also provides training services related to these Microsoft 
+software packages.1 In early 2014, SIS engaged in discussions with Stoneridge 
+regarding an anticipated Microsoft software package implementation project with 
+APi Group Inc. (APi), and the parties began negotiating a subcontract agreement.2 
+To facilitate negotiations, SIS and Stoneridge entered into a mutual confidentiality 
+
+agreement  (the  MCA),  which  prohibited  a  party  receiving  confidential 
+information from accessing, reproducing, disclosing, or using that information  
+unrelated to the business relationship between the parties.3              
+
+    Though drafts of a subcontract agreement were exchanged between SIS and 
+Stoneridge, a final subcontract agreement was never signed by both parties.4 
+Stoneridge did not agree with SIS’s final estimated hours of work for Stoneridge 
+employees,  which  was  considerably  less  than  that  to  which  Stoneridge  had 
+
+originally agreed.5 Stoneridge did not respond to SIS’s final proposed contract, 
+
+
+
+
+
+1   ECF 249-2, Trial Tr. at 78:1–23.                                      
+2   ECF 249, Trial Tr. at 165:21–25; 166:1–25.                            
+3   Pl. Trial Ex. 7.                                                      
+4   ECF 249, Trial Tr. at 258:1–17.                                       
+5   Id. at 258:19–25; 249:1–2; Pl. Trial Ex. 32.                          
+sent on June 12, 2014,6 and informed SIS that it no longer intended to go forward 
+with the subcontract on August 4, 2014.7                                  
+    APi was ultimately dissatisfied with SIS’s performance and decided to end 
+its  engagement  with  SIS  after  the  first  phase  of  the  project,  which  it  was 
+
+contractually permitted to do.8 Based on a positive experience with Stoneridge’s 
+training services, APi communicated to Stoneridge that it was interested in having 
+it take over the project.9  On January 14, 2015, a day before a meeting with APi, 
+
+Scott  Boedigheimer,  Stoneridge’s  then-current  Vice  President,  forwarded  two 
+emails to Eric Newell, President of Stoneridge, and another Stoneridge employee, 
+one containing an organizational chart outlining SIS’s “implementation plan” for 
+the  APi  project10  and  one  listing  some  of  SIS’s  proposed  prices  for  the  APi 
+
+implementation.11 APi ultimately hired Stoneridge to take over the project.12 
+
+
+
+6   Pl. Trial Ex. 13.                                                     
+7   Pl. Trial Ex. 32.                                                     
+8   ECF 258, Trial Tr. at 986:2–21,1064:20–24.                            
+9   ECF 249, Trial Tr. at 218:16–24; ECF 258, Trial Tr. at 984:16–23.     
+10   Pl. Trial Ex. 43.                                                    
+11   Pl. Trial Ex. 57.                                                    
+12   ECF 258, Trial Tr. at 1094:6–25, 1095:1–20.                          
+    SIS  filed  its  first  Complaint  on  May  19,  2017,  alleging  breach  of  the 
+subcontract  agreement.13  SIS  first  amended  its  Complaint  to  add  alternative 
+claims,14 and amended it a second time to include an allegation that, in the event 
+the subcontract agreement is unenforceable, Stoneridge breached the MCA, as 
+
+well as to add a claim for misappropriation of trade secrets.15 On May 20, 2021, 
+four years after initiating this suit, after the Court ruled on Stoneridge’s motion for 
+summary judgment, and after the parties had filed all pre-trial motions, SIS again 
+
+moved to amend its Complaint, this time to abandon its claim for breach of the 
+subcontract.16 The Court permitted amendment, but only to allow SIS to remove 
+allegations related to the subcontract agreement.17                       
+    After an eight-day trial, the jury returned a verdict in favor of SIS on its 
+
+breach of contract claim related to the MCA, against SIS on its misappropriation 
+of trade secrets claim, and in favor of Stoneridge on its counterclaim for services 
+
+
+
+
+13   ECF 1.                                                               
+14   ECF 24.                                                              
+15   ECF 55.                                                              
+16   ECF 199.                                                             
+17   ECF 212 (Third Amended Complaint); ECF 213.                          
+provided.18 The jury awarded $85,000 in nominal damages to SIS and $1,700.68 in 
+damages to Stoneridge.19                                                  
+    The parties agreed to submit the determination of appropriateness and 
+amount of attorneys’ fees to the Court.20 Accordingly, SIS moved for attorneys’ 
+
+fees pursuant to O.C.G.A. § 13-6-11.21 Stoneridge responded in opposition to SIS’s 
+motion  for  fees,22  to  which  SIS  replied.23  SIS  also  filed  a  bill  of  costs  as  the 
+prevailing party,24 to which Stoneridge objects.25 Stoneridge filed two post-trial 
+
+motions, one for judgment as a matter of law or, in the alternative, remittitur,26 
+and one for Rule 11 sanctions.27 These motions are fully briefed.28       
+
+
+
+18   ECF 232.                                                             
+19   Id.                                                                  
+20   ECF 259, Trial Tr. at 1172:25, 1173:1–25, 1174:1–25, 1175:1–11.      
+21   ECF 239.                                                             
+22   ECF 248.                                                             
+23   ECF 252.                                                             
+24   ECF 240.                                                             
+25   ECF 244.                                                             
+26   ECF 241.                                                             
+27   ECF 242.                                                             
+28   ECF 246 (SIS’s response in opposition to Stoneridge’s motion for sanctions); 
+  ECF 247 (SIS’s response in opposition to Stoneridge’s motion for judgment as 
+  a matter of law or remittitur); ECF 253 (Stoneridge’s reply in support of its 
+II.  SIS’S MOTION FOR ATTORNEYS’ FEES AND EXPENSES                        
+    SIS moves for attorneys’ fees pursuant to O.C.G.A. § 13-6-11 on the ground 
+that Stoneridge acted in bad faith and was stubbornly litigious with respect to its 
+claim that Stoneridge breached the MCA. SIS seeks $615,935.03 in attorneys’ fees 
+
+and other expenses.29 SIS also requests $33,750 for achieving a final judgment 
+before this Court.30 Stoneridge responds that it could not, as a matter of law, have 
+acted in bad faith or been stubbornly litigious and,31 even if it did, SIS’s attorneys’ 
+fees award must be limited to the fees accrued only in furtherance of its MCA 
+
+claim.32                                                                  
+    A.   LEGAL STANDARD                                                  
+    Pursuant to O.C.G.A. § 13-6-11, a finder of fact may award attorneys’ fees 
+“where the plaintiff has specially pleaded and has made prayer therefor and 
+
+where the defendant has acted in bad faith, has been stubbornly litigious, or has 
+caused the plaintiff unnecessary trouble and expense.” Recovery of attorneys’ fees 
+
+
+  motion for sanctions); ECF 254 (Stoneridge’s reply in support of its motion for 
+  judgment as a matter of law or remittitur).                            
+29   ECF 239, at 14.                                                      
+30   Id. SIS also initially sought preemptive fees for anticipated appellate litigation 
+  but has since withdrawn that request. ECF 252, at 8.                   
+31   ECF 248, at 7–13.                                                    
+32   Id. at 13–18.                                                        
+and expenses under O.C.G.A. § 13-6-11 is limited to  those “attributable solely to 
+the claims on which [the plaintiff] prevailed.” Roberts v. JP Morgan Chase Bank, Nat’l 
+Ass'n, 342 Ga. App. 73, 80 (2017). Further, “[t]he elements which will authorize an 
+award under OCGA § 13–6–11,” bad faith, stubborn litigiousness, or unnecessary 
+
+trouble, must “relate to the conduct arising from the transaction underlying the 
+cause of action being litigated, not conduct during the course of the litigation 
+itself.” David G. Brown, P.E., Inc. v. Kent, 274 Ga. 849, 850 (2002).     
+
+    B.   DISCUSSION                                                      
+    SIS prevailed at trial on its claim against Stoneridge for breach of the MCA, 
+and so it may recover attorneys’ fees if it can show that Stoneridge acted in bad 
+faith or was stubbornly litigious with respect to the MCA claim. After carefully 
+
+observing the trial, reviewing the trial record and evidence, and with the benefit 
+of the parties’ briefing, the Court finds that Stoneridge neither acted in bad faith 
+nor was stubbornly litigious with respect to the MCA claim. Accordingly, SIS is 
+not entitled to attorneys’ fees under O.C.G.A. § 13-6-11.                 
+
+        i.    Bad Faith                                                  
+    SIS argues that Stoneridge acted in bad faith in breaching the MCA because 
+it used SIS’s confidential information to its advantage in taking over the project 
+with APi. In support, it cites to the two emails Boedigheimer forwarded to Newell 
+and another Stoneridge employee prior to Stoneridge’s pitch meeting with APi.33 
+In the body of one of the forwarded emails, which reflected the pricing information 
+for SIS’s implementation, a Microsoft employee requested that Stoneridge keep 
+the document private because Max Thomas, an SIS representative, was “secretive 
+
+and sensitive” about the exchange of information.34                       
+    To  find  bad  faith  that  would  support  an  award  of  attorneys’  fees,  the 
+offensive conduct must have been “more than bad judgment or negligence.” Powell 
+
+Co. v. McGarey Grp., LLC, 508 F. Supp. 2d 1202, 1219 (N.D. Ga. 2007). There must 
+be “a dishonest purpose or some moral obliquity and implies conscious doing of 
+wrong and a breach of known duty through some motive of interest of ill will.” Id. 
+(cleaned up). The fact that a party breached a contract, without more, is insufficient 
+
+to  support  a  finding  of  bad  faith.  Pulte  Home  Corp.  v.  Woodland  Nursery  & 
+Landscapes, Inc., 230 Ga. App. 455, 457 (1998).                           
+    Though the timing of the emails sent by Boedigheimer could evidence bad 
+
+faith,  the  Court  is  persuaded  by  the  credible  testimony  of  Newell  and  Neil 
+Ammentorp, a former APi employee, who testified that most, if not all, of the 
+information in the emails was either information provided by Stoneridge to SIS, 
+
+
+33   Pl. Trial Ex. 43; Pl. Trial Ex. 57.                                  
+34   Pl. Trial Ex. 43.                                                    
+constituted public information, or had little to no competitive value.35 At most, the 
+emails  reflect  poor  judgment  on  Boedigheimer’s  part  because  he  could  have 
+gathered the same or similar information through appropriate means rather than 
+relying on SIS’s work product.                                            
+
+    SIS also failed to show that there was some ill motive in acquiring the 
+confidential information. The evidence shows that, at the time SIS and Stoneridge 
+were negotiating the subcontract, Stoneridge was invested in the APi project’s 
+
+success and worked with SIS to perfect its pitch to APi.36 The purpose of one of the 
+emails was to ensure the pricing SIS presented to Microsoft was accurate.37 The 
+second email was sent from Max Thomas during the subcontract negotiations, 
+presumably to demonstrate the team working on the implementation.38 Moreover, 
+
+as SIS’s own expert testified, takeovers are common in this niche industry,39 and 
+so the fact that Stoneridge was able to take over for SIS after APi decided to hire 
+another implementation partner is neither unusual nor unfair. In the absence of a 
+
+
+35   ECF 249, Trial Tr. at 241:7–13, 313:2–6; ECF 258, Trial Tr. 1049:12–15, 1052:20–
+  25, 1053:1–11, 17–25, 1054:1.                                          
+36   ECF 249-2, Trial Tr. at 230–38; Def. Trial Ex. 2; Def. Trial Ex. 25.  
+37   Pl. Trial Ex. 43.                                                    
+38   Pl. Trial Ex. 57.                                                    
+39   ECF 256, Trial Tr. at 577:14–25, 578:1–8, 580:1–8.                   
+valid subcontract agreement, Stoneridge was free to compete with SIS even though 
+it  had  helped  SIS  prepare  for  the  implementation.  SIS  has  not  shown  that 
+Stoneridge breached the MCA in bad faith.                                 
+       ii.  Stubborn Litigiousness                                       
+
+    SIS argues that it is also entitled to attorneys’ fees under O.C.G.A. § 13-6-11 
+because  Stoneridge  was  stubbornly  litigious  with  respect  to  the  MCA  claim. 
+Stoneridge responds that it could not, as a matter of law, have been stubbornly 
+litigious regarding its breach of the MCA because SIS did not pursue the claim 
+
+until late in litigation.40                                               
+    “[S]tubborn litigiousness and causing the plaintiff unnecessary trouble and 
+expense refer to a defendant’s forcing of the plaintiff to sue where no bona fide 
+
+controversy exists.” McElroy v. Courtney Ajinca Events LLC, 512 F. Supp. 3d 1328, 
+1341 (N.D. Ga. 2021) (quoting Jeff Goolsby Homes Corp. v. Smith, 168 Ga. App. 218, 
+221 (1983)). Though “evidence created after a lawsuit’s filing may be relevant to 
+whether a bona fide controversy existed,” that evidence must relate to “conduct 
+
+arising from the transaction underlying the cause of action, not conduct during the 
+
+
+
+
+40   ECF 248, at 7–10.                                                    
+course of litigation itself.” Caradigm USA LLC v. PruittHealth, Inc., 964 F.3d 1259, 
+1282 (11th Cir. 2020) (quoting David G. Brown, P.E., Inc., 274 Ga. at 850 (2002)).  
+    Stoneridge’s argument raises an interesting question of whether a claim 
+asserted for the first time after litigation begins can support a finding of stubborn 
+
+litigiousness.  Though  SIS  first  raised  its  MCA  claim  in  its  Second  Amended 
+Complaint, it did so in the alternative to its claim that Stoneridge breached the 
+subcontract agreement.41 SIS decided to abandon its breach of the subcontract 
+
+agreement claim and pursue its MCA claim a month before trial began.42 Up until 
+this point, SIS’s position was that the MCA was only valid if the subcontract 
+agreement was not.43                                                      
+    The Court need not reach the timing issue because SIS cannot credibly argue 
+
+that no bona fide dispute existed as to the validity of the MCA when SIS itself 
+questioned the validity of the MCA for almost the entirety of this litigation. 
+Moreover, at trial, Stoneridge reasonably disputed the scope of the MCA, whether 
+
+it was applicable to Boedigheimer’s emails, and the timing of when the MCA 
+became effective. SIS has not shown that Stoneridge was stubbornly litigious.  
+
+
+41   ECF 55, ¶ 33.                                                        
+42   ECF 212.                                                             
+43   ECF 55, ¶ 32.                                                        
+    Accordingly, SIS’s motion for attorneys’ fees pursuant to O.C.G.A. § 13-6-11 
+is denied.                                                                
+III.  DEFENDANTS’ MOTION FOR JUDGMENT AS A MATTER OF LAW                  
+    OR, IN THE ALTERNATIVE, FOR REMITTITUR                               
+    At trial, SIS’s sole breach of contract claim related to the MCA. SIS did not 
+present any evidence of actual damages, instead relying on a liquidated damages 
+provision in the MCA that purportedly allowed SIS to recover “all forms of 
+
+compensation or benefits which [Stoneridge] directly or indirectly realizes as a 
+result of such breach.”44 Because this provision did not employ a reasonable 
+method  for  estimating  probable  loss,  the  Court  held  that  it  constituted  an 
+
+unenforceable liquidated damages provision.45 Absent evidence of actual loss or 
+an  enforceable  liquidated  damages  provision,  SIS’s  recovery  was  limited  to 
+nominal damages. O.C.G.A. § 13-6-6. The jury found in favor of SIS on its claim 
+
+that  Stoneridge  breached  the  MCA  and  awarded  SIS  $85,000  in  nominal 
+damages.46 Defendants now move for judgment as a matter of law or, in the 
+alternative, for remittitur, arguing that the nominal damages awarded to SIS 
+
+
+
+44   Pl. Trial Ex. 7, ¶ 5.                                                
+45   ECF 250-1, Trial Tr. at 531–33.                                      
+46   ECF 231.                                                             
+exceeds the amount “sufficient to cover the costs of bringing the action” under 
+O.C.G.A. § 13-6-6.                                                        
+    “In general, a remittitur order reducing a jury’s award to the outer limit of 
+the proof is the appropriate remedy where the jury’s damage award exceeds the 
+
+amount established by the evidence.” Goldstein v. Manhattan Indus., Inc., 758 F.2d 
+1435, 1448 (11th Cir. 1985). The Court’s authority to order remittitur is grounded 
+in its authority to grant a new trial. Johansen v. Combustion Eng’g, Inc., 170 F.3d 
+
+1320, 1328 (11th Cir. 1999).  Where, as here, a party disputes the jury award because 
+it  is  excessive,  the  Court  may  either  reduce  the  amount  of  damages  to  the 
+maximum amount proved by the evidence or order a new trial. Goldstein, 758 F.2d 
+at 1447–48. The Court may not, however, “substitute [its] own judgment for that 
+
+of the jury.” Lipphardt v. Durango Steakhouse of Brandon, Inc., 267 F.3d 1183, 1186 
+(11th Cir. 2001).                                                         
+    Stoneridge  contends  that  the  jury  was  confused  as  to  the  definition  of 
+
+nominal damages and, as a result, awarded more than permissible under O.C.G.A. 
+§ 13-6-6. Stoneridge argues that O.C.G.A. § 13-6-6 permits recovery of “[nominal] 
+damages sufficient to cover the costs of bringing the action,” and, therefore, SIS is 
+limited to the $400 it incurred in filing fees.47                         
+    Damages “sufficient to cover the costs of bringing the action,” is not defined, 
+but Georgia courts have elaborated that an award of damages under O.C.G.A. 
+
+§ 13-6-6 is not meant to compensate the injured party, but to “prevent his being 
+mulcted in the costs after he has established his cause of action.” Fowler’s Holdings, 
+LLLP v. CLP Fam. Invs., L.P., 318 Ga. App. 73, 74 (2012) (quoting Foote & Davies Co. 
+
+v. Malony, 115 Ga. 985, 988(4) (1902)). A common descriptor of nominal damages 
+is “a trivial sum.” Brock v. King, 279 Ga. App. 335, 343 (2006).          
+         However, in Georgia, the term “nominal damages” is              
+         purely  relative,  and  carries  with  it  no  suggestion  of   
+         certainty as to amount. Instead of being restricted to a        
+         very  small  amount,  the  sum  awarded  as  nominal            
+         damages may, according to circumstances, vary almost            
+         indefinitely. In some cases a very small amount might           
+         constitute  the  trivial  sum  contemplated  by  the  term      
+         “nominal damages”; in others a much larger amount               
+         might measure down to the same standard of triviality.          
+         And even though a verdict for nominal damages may be            
+         apparently large in its amount, it cannot be set aside          
+         simply because the amount is large, absent evidence of          
+         prejudice or bias in any incident at trial or a mistake on      
+         the part of the jury.                                           
+
+47   ECF 241-1, at 9.                                                     
+Wright v. Wilcox, 262 Ga. App. 659, 662 (2003) (cleaned up) (citing First Fed. Sav. & 
+Assn. v. White, 168 Ga. App. 516–17 (1983), Sellers v. Mann, 113 Ga. 643, 644 (1901), 
+and Atl. Coast Line R. Co. v. Stephens, 14 Ga. App. 173, 174 (1914)).     
+    In charging the jury, the Court instructed that “[n]ominal damages are 
+
+generally defined as a trivial sum . . .  [i]t is intended as a vindication of the right 
+of the party who brings an action upon good cause, but it is not intended to 
+compensate the party for the breach of the contract.”48 And, when the jury later 
+
+submitted a question asking what a reasonable “trivial sum” is for purposes of a 
+nominal damages award, the Court answered that it was for the jury to decide.49  
+    Stoneridge cites the jury’s question as evidence that it was confused and 
+argues that this confusion caused the jury to mistakenly award an amount above 
+
+what would cover the costs of bringing the action.50  The Court disagrees. There is 
+no evidence that the jury did not follow the Court’s instructions. If anything, the 
+question posed by the jury reflects an understanding of the purpose of nominal 
+
+damages but an effort to seek clarity on the jury instruction’s reference to a “trivial 
+sum.”  Given  the  state  of  the  law  in  Georgia  on  nominal  damages,  what  a 
+
+
+48   ECF 259, Trial Tr. 1294:15–20.                                       
+49   ECF 231-1, at 2.                                                     
+50   ECF 241-1, at 7–8.                                                   
+reasonable amount of nominal damages can be depends on the circumstances of 
+the case and is up to the jury to decide.                                 
+    Though  the  Eleventh  Circuit  has  stated  that  nominal  damages  are 
+“ordinarily” $1 or $100, Quainoo v. City of Huntsville, Alabama, 611 F. App’x 953, 
+
+955 (11th Cir. 2015), it has not limited nominal damages awards to these amounts. 
+Stoneridge relies primarily on XTec, Inc. v. Hembree Consulting Services, Inc., 183 
+F. Supp. 3d 1245, 1271–72 (S.D. Fla. 2016), in which the Southern District of Florida 
+
+reduced the nominal damages award in that case from $250,000 to $1. Notably, 
+however, the court distinguished the applicable Florida law from the “flexible 
+definition for ‘nominal damages’ applicable only in Georgia.”  Id. at 1272. Under 
+Georgia’s “flexible definition,” courts have approved nominal damages awards of 
+
+up to at least $625,000. MTW Inv. Co. v. Alcovy Props., Inc., 273 Ga. App. 830, 832 
+(2005) (without evidence of prejudice, bias, or mistake, court would not set aside 
+nominal damages award on the grounds that it was excessive). See also Wright, 262 
+
+Ga. App. at 662 (award of $22,000 in nominal damages was not excessive as a 
+matter of law).                                                           
+    Stoneridge narrowly reads O.C.G.A. § 13-6-6 to set the ceiling of nominal 
+
+damages as the cost to file the action, which in this case was $400, and argues that 
+any amount awarded over $400 is contrary to law and the evidence.51 The Court 
+does not read the statute so narrowly. O.C.G.A. § 13-6-6 does not define “costs” as 
+filing fees, and the law does not support this definition. If this were true, then the 
+proper instruction to the jury would have been to explicitly tell them that any 
+
+nominal damages award in this case should not exceed $400. This runs counter to 
+the “flexible definition” of nominal damages under Georgia law.           
+    The Court declines to disturb the jury’s verdict to set aside the $85,000 
+
+nominal damages award.                                                    
+IV.  DEFENDANTS’ MOTION FOR RULE 11 SANCTIONS                             
+    Defendants move for sanctions under Federal Rule of Civil Procedure 11 
+and request $732,177.99 in attorneys’ fees.52 Defendants argue that SIS engaged in 
+
+sanctionable  conduct  by  frivolously  litigating  its  claim  for  breach  of  the 
+subcontract agreement for four years only to abandon the claim a month before 
+trial.53 SIS responds that its breach of the subcontract claim was neither frivolous 
+nor improper and that Rule 11 sanctions cannot be imposed because the breach of 
+
+the subcontract claim survived summary judgment. The Court agrees with SIS.  
+
+
+51   ECF 241-1, at 8.                                                     
+52   ECF 242.                                                             
+53   ECF 242-1, at 3.                                                     
+    Under Eleventh Circuit precedent, three types of conduct can justify the 
+imposition of Rule 11 sanctions:                                          
+         (1) when a party files a pleading that has no reasonable        
+         factual basis; (2) when the party files a pleading that is      
+         based on a legal theory that has no reasonable chance of        
+         success and that cannot be advanced as a reasonable             
+         argument to change existing law; and (3) when the party         
+         files a pleading in bad faith for an improper purpose.          
+Didie v. Howes, 988 F.2d 1097, 1104 (11th Cir. 1993) (quoting Pelletier v. Zweifel, 921 
+F.2d 1465, 1514 (11th Cir. 1991)).                                        
+    SIS had a factual basis for its claim that Stoneridge breached the subcontract 
+agreement, its theory was reasonable, and there is no evidence it pursued this 
+claim for an improper purpose. Though there is no “bright-line rule” that a claim 
+that survives summary judgment cannot be the basis for a Rule 11 sanction, the 
+fact that a claim survived summary judgment is strong evidence that it has a 
+
+reasonable factual basis and is based on a reasonable legal theory. Fed R. Civ. P. 
+11(b) & (C) advisory committee’s note to the 1993 amendment (“[I]f a party has 
+evidence with respect to a contention that would suffice to defeat a motion for 
+summary judgment based thereon, it would have sufficient ‘evidentiary support’ 
+
+for purposes of Rule 11.”). See Manhattan Const. Co. v. Place Props. LP, 559 F. App’x 
+856, 858 (11th Cir. 2014) (affirming denial of Rule 11 sanctions where sole claim 
+survived summary judgment).                                               
+     Stoneridge’s motion for sanctions reads like a motion for reconsideration 
+that  disputes  the  Court’s  reasoning  on  Stoneridge’s  motion  for  summary 
+judgment. The Court held that an issue of material fact existed as to whether SIS 
+and Stoneridge entered into an oral subcontract agreement.54 The Court detailed 
+
+the factual support SIS had for its claim and cited supporting Georgia law.55 
+Nothing in Stoneridge’s current motion convinces the Court otherwise. The Court 
+finds that SIS did not engage in sanctionable conduct by litigating the subcontract 
+
+claim.                                                                    
+V.   STONERIDGE’S OBJECTION TO SIS’S BILL OF COSTS                        
+    Finally,  Stoneridge  objects  to  SIS’s  bill  of  costs.56  Following  trial,  SIS 
+submitted  a  bill  of  costs  totaling  $13,082.33  and  witness  fees  of  $4,318.32.57 
+
+Stoneridge objects on the grounds that SIS is not the prevailing party and it failed 
+to substantiate the costs with receipts.58 SIS has not responded to Stoneridge’s 
+objections. The Court agrees with Stoneridge that SIS is not entitled to costs. 
+
+
+
+54   ECF 137, 18–27.                                                      
+55   Id.                                                                  
+56   ECF 244.                                                             
+57   ECF 240.                                                             
+58   ECF 244, at 1–6.                                                     
+    “Under  Fed.R.Civ.P.  54(d),  costs  shall  be  allowed  as  of  course  to  the 
+prevailing party unless the court directs otherwise.” Gilchrist v. Bolger, 733 F.2d 
+1551, 1556 (11th Cir. 1984). Rule 54(d) presumes that the prevailing party will be 
+awarded  costs  “and  it  is  incumbent  on  the  losing  party  to  overcome  that 
+
+presumption” because denial of costs is considered a penalty assessed against the 
+prevailing party. Id. (quoting Walters v. Roadway Express, Inc., 557 F.2d 521, 526 
+(5th Cir. 1977)). Though a district court has considerable discretion in denying or 
+
+awarding costs, “[t]he rule in this circuit is that where the trial court denies the 
+prevailing party its costs, the court must give a reason for its denial of costs so that 
+the appellate court may have some basis upon which to determine if the trial court 
+acted within its discretionary power.” Id.                                
+
+    SIS’s Second Amended Complaint was the operative complaint for the lion’s 
+share  of  this  litigation.59  That  pleading  asserted  claims  for  (1)  breach  of  the 
+subcontract agreement or, in the alternative, the MCA; (2) promissory estoppel in 
+
+the  alternative  to  its  claim  for  breach  of  the  subcontract;  (3)  negligent 
+misrepresentation in the alternative to its claim for breach of the subcontract; 
+(4) fraud in the alternative to its claim for breach of the subcontract; (5) tortious 
+
+
+
+59   ECF 55.                                                              
+interference with economic advantage; and (6) misappropriation of trade secrets.60 
+On Stoneridge’s motion for summary judgment, the Court dismissed each of SIS’s 
+claims except those for breach of contract and misappropriation of trade secrets,61 
+but also found that the subcontract agreement could only be enforceable as an oral 
+
+agreement.62 A month before trial began, SIS abandoned its subcontract agreement 
+claim, indicating that it would only pursue its claims for breach of the MCA  and 
+for misappropriation of trade secrets.63 The jury found in favor SIS on its claim for 
+
+breach of the MCA and against SIS on its trade secrets claim.64 The jury also found 
+in favor of Stoneridge on its counterclaim for services provided.65       
+    In  determining  whether  a  party  is  a  prevailing  party,  courts  consider 
+whether it prevailed “on ‘any significant issue’ and thereby achieves some of the 
+
+benefits sought by bringing suit.” Loggerhead Turtle v. Cnty. Council of Volusia Cnty., 
+Fla., 307 F.3d 1318, 1323 n.4 (11th Cir. 2002) (quoting Tex. State Teachers Ass’n v. 
+Garland Indep. Sch. Dist., 489 U.S. 782, 791–92 (1989)). In cases such as this, “in 
+
+
+60   Id. ¶¶ 29–56.                                                        
+61   ECF 137 at 53–54.                                                    
+62   Id. at 27.                                                           
+63   ECF 199.                                                             
+64   ECF 232.                                                             
+65   Id.                                                                  
+which both parties have partially prevailed and partially failed on their claims,” 
+the Court has wide discretion to allocate costs, including ordering that each party 
+bear its own costs. Wheatley v. Moe’s Sw. Grill, LLC, 580 F. Supp. 2d 1319, 1322 
+(N.D. Ga. 2008).                                                          
+
+    Considering the case as a whole, both SIS and Stoneridge prevailed on some 
+claims and failed on others. SIS’s claim that Stoneridge breached the subcontract 
+agreement was the significant issue for most of this case, yet SIS voluntarily 
+
+abandoned  this  claim  shortly  before  trial.  Stoneridge’s  motion  for  summary 
+judgment was largely successful and, at trial, it prevailed on its services-provided 
+counterclaim as well as SIS’s trade secrets claim. Moreover, Scott Boedigheimer 
+and Eric Newell prevailed on all of SIS’s claims against them as individuals.66 As 
+
+for SIS, it succeeded on its claim that Stoneridge breached the MCA, which was 
+also a significant claim in this case. Considering the mixed results, the Court finds 
+it appropriate for SIS and Stoneridge to each bear its own costs. Stoneridge’s 
+
+objection is sustained.                                                   
+
+
+
+
+66   Boedigheimer and Newell did not file bills of costs and so the Court will not 
+  address whether they are entitled to costs as prevailing parties.      
+VI.    CONCLUSION 
+     SIS’s motion for attorneys’ fees and expenses [ECF 239]; Stoneridge’s motion 
+for judgment as a matter of law or, in the alternative, remittitur  [ECF 241]; and 
+Stoneridge’s motion for sanctions [ECF 242] are DENIED. Stoneridge’s objection 
+to SIS’s bill of costs [ECF 244] is SUSTAINED. The Clerk is DIRECTED to vacate 
+SIS’s bill of costs [ECF 240] and to close this case. 
+     SO ORDERED this the 30th day of September 2021. 
+                                         Lore 
+                                                 Steven D. Grimberg 
+                                          United States District Court Judge 

@@ -1,0 +1,17 @@
+{
+  "source": "CourtListener/RECAP",
+  "search_query": "SEC v. Elon Musk Tesla",
+  "docket_id": 69755346,
+  "case_name": "In re: Elon Musk",
+  "court": "cadc",
+  "date_filed": "2025-03-18",
+  "date_terminated": "2025-07-11",
+  "num_entries": 0,
+  "num_pdfs_downloaded": 0,
+  "num_opinion_clusters": 3,
+  "num_opinion_texts": 3,
+  "num_parties": 0,
+  "nature_of_suit": "",
+  "pacer_case_id": "41858",
+  "ia_link": ""
+}

@@ -1,0 +1,86 @@
+{
+  "absolute_url": "/opinion/4893422/goldman-sachs-group-inc-v-arkansas-teacher-retirement-system/",
+  "attorney": "",
+  "caseName": "Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System",
+  "caseNameFull": "",
+  "citation": [
+    "594 U.S. 113",
+    "210 L. Ed. 2d 347",
+    "141 S. Ct. 1951"
+  ],
+  "citeCount": 58,
+  "cluster_id": 4893422,
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "court_id": "scotus",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2021-06-21",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "20-222",
+  "docket_id": 59999713,
+  "judge": "Amy Coney Barrett",
+  "lexisCite": "",
+  "meta": {
+    "timestamp": "2025-11-26T18:12:30.952887Z",
+    "date_created": "2021-06-21T15:01:17.690568Z",
+    "score": {
+      "bm25": 116.83102
+    }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+    {
+      "author_id": 8543,
+      "cites": [
+        96405,
+        110424,
+        110966,
+        218178,
+        614550,
+        856346,
+        2802784,
+        4037382,
+        4236373,
+        4523088,
+        4548945,
+        8415006,
+        9015735,
+        9426318,
+        9426800,
+        9431229,
+        9432645,
+        9432885,
+        9441858,
+        9502835
+      ],
+      "download_url": "https://www.supremecourt.gov/opinions/20pdf/20-222_2c83.pdf",
+      "id": 4697201,
+      "joined_by_ids": [],
+      "local_path": "pdf/2021/06/21/goldman_sachs_group_inc._v._arkansas_teacher_retirement_system.pdf",
+      "meta": {
+        "timestamp": "2025-11-27T10:17:19.867020Z",
+        "date_created": "2021-06-21T15:01:17.717703Z"
+      },
+      "ordering_key": null,
+      "per_curiam": false,
+      "sha1": "a65e22eb99e8459b2dc742efd430ae2bc2fa4b6c",
+      "snippet": "(Slip Opinion)              OCTOBER TERM, 2020                                       1\n\n                                       Syllabus\n\n         NOTE: Where it is feasible, a syllabus (headnote) will be released, as is\n       being done in connection with this case, at the time the opinion is issued.\n       The syllabus constitutes no part of the opinion of the Court but has been\n       prepared by the Reporter of Decisions for the convenience of the reader.\n       See United States v. Detroit ",
+      "type": "combined-opinion"
+    }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+    4697201
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+}

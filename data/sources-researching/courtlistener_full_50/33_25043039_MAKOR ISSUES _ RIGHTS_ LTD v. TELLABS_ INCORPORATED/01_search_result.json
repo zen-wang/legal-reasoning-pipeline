@@ -1,0 +1,42 @@
+{
+  "assignedTo": "UNASSIGNED",
+  "assigned_to_id": null,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "MAKOR ISSUES & RIGHTS, LTD v. TELLABS, INCORPORATED",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "District Court, M.D. North Carolina",
+  "court_citation_string": "M.D.N.C.",
+  "court_id": "ncmd",
+  "dateArgued": null,
+  "dateFiled": "2008-08-06",
+  "dateTerminated": null,
+  "docketNumber": "1:08-mc-00033",
+  "docket_absolute_url": "/docket/25043039/makor-issues-rights-ltd-v-tellabs-incorporated/",
+  "docket_id": 25043039,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-03-11T05:44:07.333465Z",
+    "date_created": "2020-12-27T04:38:27.721551Z",
+    "score": {
+      "bm25": 926.1645
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "49236",
+  "party": [
+    "MAKOR ISSUES & RIGHTS, LTD",
+    "TELLABS, INCORPORATED"
+  ],
+  "party_id": [],
+  "recap_documents": [],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

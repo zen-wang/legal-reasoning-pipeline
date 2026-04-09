@@ -1,0 +1,103 @@
+{
+  "source": "SEC EDGAR",
+  "name": "WELLS FARGO & COMPANY/MN",
+  "cik": 72971,
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "tickers": [
+    "WFC",
+    "WFC-PY",
+    "WFC-PL",
+    "WFC-PC",
+    "WFCNP",
+    "WFC-PA",
+    "WFC-PD",
+    "WFC-PZ"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "stateOfIncorporation": "DE",
+  "why_selected": "假帳戶醜聞",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "8-K",
+      "date": "2026-03-18",
+      "accession": "0001193125-26-113964",
+      "filename": "8-K_2026-03-18_d32842d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-03-17",
+      "accession": "0001193125-26-110792",
+      "filename": "8-K_2026-03-17_d246307d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-02-25",
+      "accession": "0001193125-26-068647",
+      "filename": "8-K_2026-02-25_d116246d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-K",
+      "date": "2026-02-24",
+      "accession": "0000072971-26-000133",
+      "filename": "10-K_2026-02-24_wfc-20251231_d2.htm",
+      "description": "FORM 10-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-02-13",
+      "accession": "0001839882-26-009703",
+      "filename": "8-K_2026-02-13_wfc-8k_021326.htm",
+      "description": "CURRENT REPORT"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-29",
+      "accession": "0000072971-26-000061",
+      "filename": "8-K_2026-01-29_wfc-20260127.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-23",
+      "accession": "0001193125-26-021049",
+      "filename": "8-K_2026-01-23_d95043d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-22",
+      "accession": "0000072971-26-000011",
+      "filename": "8-K_2026-01-22_wfc-20260113.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-14",
+      "accession": "0000072971-26-000009",
+      "filename": "8-K_2026-01-14_wfc-20260114.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-12",
+      "accession": "0001193125-25-316858",
+      "filename": "8-K_2025-12-12_d937850d8k.htm",
+      "description": "8-K"
+    }
+  ],
+  "total_filings_available": 1009
+}

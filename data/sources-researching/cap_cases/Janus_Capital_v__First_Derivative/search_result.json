@@ -1,0 +1,127 @@
+{
+  "absolute_url": "/opinion/218666/janus-capital-group-inc-v-first-derivative-traders/",
+  "attorney": "Mark A. Perry argued the cause for petitioners. With him on the briefs was Thomas G. Hungar., David C. Frederick argued the cause for respondent. With him on the brief were Brendan J. Crimmins and Ira M. Press., Curtis E. Gannon argued the cause for the United States as amicus curiae in support of respondent. With him on the brief were Acting Solicitor General Katyal, Deputy Solicitor General Stewart, David M. Becker, Mark D. Cahn, Jacob H. Stillman, and John W. Avery *",
+  "caseName": "Janus Capital Group, Inc. v. First Derivative Traders",
+  "caseNameFull": "JANUS CAPITAL GROUP, INC., Et Al. v. FIRST DERIVATIVE TRADERS",
+  "citation": [
+    "180 L. Ed. 2d 166",
+    "131 S. Ct. 2296",
+    "564 U.S. 135",
+    "2011 U.S. LEXIS 4380",
+    "22 Fla. L. Weekly Fed. S 1124",
+    "79 U.S.L.W. 4466"
+  ],
+  "citeCount": 389,
+  "cluster_id": 218666,
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "court_id": "scotus",
+  "court_jurisdiction": null,
+  "dateArgued": "2010-12-07",
+  "dateFiled": "2011-06-13",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "09-525",
+  "docket_id": 665839,
+  "judge": "Thomas, Breyer, Ginsburg, Sotomayor, Kagan",
+  "lexisCite": "2011 U.S. LEXIS 4380",
+  "meta": {
+    "timestamp": "2024-06-20T19:12:47.570792Z",
+    "date_created": "2015-05-21T21:31:05.381391Z",
+    "score": {
+      "bm25": 92.86799
+    }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+    {
+      "author_id": null,
+      "cites": [],
+      "download_url": null,
+      "id": 9441742,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-23T20:38:06.069439Z",
+        "date_created": "2023-08-03T18:06:01.556740Z"
+      },
+      "ordering_key": 1,
+      "per_curiam": false,
+      "sha1": "",
+      "snippet": "\nJustice Thomas\ndelivered the opinion of the Court.\nThis case requires us to determine whether Janus Capital Management LLC (JCM), a mutual fund investment adviser, can be held hable in a private action under Securities and Exchange Commission (SEC) Rule 10b-5 for false statements included in its client mutual funds’ prospectuses. Rule 10b-5 prohibits “mak[ing] any untrue statement of a material fact” in connect",
+      "type": "lead-opinion"
+    },
+    {
+      "author_id": null,
+      "cites": [],
+      "download_url": null,
+      "id": 9441743,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-23T20:38:06.065858Z",
+        "date_created": "2023-08-03T18:06:01.563695Z"
+      },
+      "ordering_key": 2,
+      "per_curiam": false,
+      "sha1": "",
+      "snippet": "\nJustice Breyer,\nwith whom Justice Ginsburg, Justice Sotomayor, and Justice Kagan join,\ndissenting.\nThis case involves a private Securities and Exchange Commission (SEC) Rule 10b-5 action brought by a group of investors against Janus Capital Group, Inc., and Janus Capital Management LLC (Janus Management), a firm that acted as an investment adviser to a family of mutual funds (collective",
+      "type": "dissent"
+    },
+    {
+      "author_id": null,
+      "cites": [
+        96405,
+        102752,
+        108391,
+        109267,
+        109420,
+        109604,
+        110825,
+        111009,
+        112022,
+        117837,
+        118362,
+        145837,
+        152706,
+        171183,
+        714096,
+        769157,
+        778688,
+        1028747,
+        1232340,
+        1345085,
+        1431857,
+        2313812
+      ],
+      "download_url": "http://www.supremecourt.gov/opinions/10pdf/09-525.pdf",
+      "id": 218666,
+      "joined_by_ids": [],
+      "local_path": "pdf/2011/06/13/Janus_Capital_Group_Inc._v._First_Derivative_Traders.pdf",
+      "meta": {
+        "timestamp": "2025-10-24T18:04:02.480255Z",
+        "date_created": "2011-06-13T14:13:17Z"
+      },
+      "ordering_key": null,
+      "per_curiam": false,
+      "sha1": "f28d8a8dac3abfbaad2f087d5d080b47c191cc25",
+      "snippet": "(Slip Opinion)              OCTOBER TERM, 2010                                       1\n\n                                       Syllabus\n\n         NOTE: Where it is feasible, a syllabus (headnote) will be released, as is\n       being done in connection with this case, at the time the opinion is issued.\n       The syllabus constitutes no part of the opinion of the Court but has been\n       prepared by the Reporter of Decisions for the convenience of the reader.\n       See United States v. Detroit ",
+      "type": "combined-opinion"
+    }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "2010-063",
+  "sibling_ids": [
+    218666,
+    9441742,
+    9441743
+  ],
+  "source": "CU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+}

@@ -1,0 +1,131 @@
+{
+  "assignedTo": "Steven Daniel Grimberg",
+  "assigned_to_id": 14415,
+  "attorney": [
+    "Amy M. Stewart",
+    "Carson Modrall",
+    "Scott Lester Bonder",
+    "Amy Davis",
+    "Matthew Robert Kahn",
+    "Barton Carl Gernander",
+    "Steven C. Rosen"
+  ],
+  "attorney_id": [
+    7266730,
+    7266731,
+    7266732,
+    7266733,
+    7266734,
+    7266735,
+    7266736
+  ],
+  "caseName": "SIS, LLC v. Stoneridge Holdings, Inc",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "chapter": null,
+  "court": "District Court, N.D. Georgia",
+  "court_citation_string": "N.D. Ga.",
+  "court_id": "gand",
+  "dateArgued": null,
+  "dateFiled": "2017-05-19",
+  "dateTerminated": "2021-09-30",
+  "docketNumber": "1:17-cv-01816",
+  "docket_absolute_url": "/docket/17465798/sis-llc-v-stoneridge-holdings-inc/",
+  "docket_id": 17465798,
+  "firm": [
+    "Fried Bonder White, LLC",
+    "Christiansen Davis, LLC",
+    "The Stewart Law Group, PLLC TX",
+    "Berman Fink Van Horn P.C.",
+    "Office of Steven C. Rosen",
+    "Burns & Hansen, P.A.",
+    "Butler Law Firm"
+  ],
+  "firm_id": [
+    84642,
+    513989,
+    621003,
+    515248,
+    272660,
+    713243,
+    762110
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Both",
+  "meta": {
+    "timestamp": "2025-03-08T08:27:26.589632Z",
+    "date_created": "2020-08-21T08:22:01.074756Z",
+    "score": {
+      "bm25": 462.66827
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "238050",
+  "party": [
+    "SIS, LLC",
+    "Scott Boedigheimer",
+    "Stoneridge Software, Inc",
+    "Eric Newell",
+    "Stoneridge Holdings, Inc."
+  ],
+  "party_id": [
+    11098883,
+    11098884,
+    11098885,
+    11098886,
+    11098887
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/17465798/230/sis-llc-v-stoneridge-holdings-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "JURY INSTRUCTIONS.(cmd) (Entered: 07/02/2021)",
+      "docket_entry_id": 216697834,
+      "document_number": 230,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2021-06-30",
+      "entry_number": 230,
+      "filepath_local": "recap/gov.uscourts.gand.238050/gov.uscourts.gand.238050.230.0.pdf",
+      "id": 222718589,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-05-23T09:23:05.157467Z",
+        "date_created": "2023-01-17T20:54:38.326825Z"
+      },
+      "pacer_doc_id": "055013792211",
+      "page_count": 12,
+      "short_description": "",
+      "snippet": "       Case 1:17-cv-01816-SDG Document 230 Filed 06/30/21 Page 1 of 12\n\n\n\n\n                                                                FILED IN OPEN COURT\n                                                                  U.S.D.C.-Atlanta\n\n                      UNITED STATES DISTRICT COURT\n                                                                  JUN ^ c 2021\n                      NORTHERN DISTRICT OF GEORGIA\n                                                                    •M:^\n\n  "
+    },
+    {
+      "absolute_url": "/docket/17465798/203/sis-llc-v-stoneridge-holdings-inc/",
+      "attachment_number": null,
+      "cites": [
+        73257,
+        152948
+      ],
+      "description": "ORDER denying  167   Motion to Exclude James Bowman as an expert witness.  Signed by Judge Steven D. Grimberg on 05/28/2021. (jkb)",
+      "docket_entry_id": 216697796,
+      "document_number": 203,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2021-05-28",
+      "entry_number": 203,
+      "filepath_local": "recap/gov.uscourts.gand.238050/gov.uscourts.gand.238050.203.0.pdf",
+      "id": 222718551,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-11-13T01:25:44.589276Z",
+        "date_created": "2023-01-17T20:54:37.604163Z"
+      },
+      "pacer_doc_id": "055013709694",
+      "page_count": 11,
+      "short_description": "",
+      "snippet": "      Case 1:17-cv-01816-SDG Document 203 Filed 05/28/21 Page 1 of 11\n\n\n\n\n                IN THE UNITED STATES DISTRICT COURT\n               FOR THE NORTHERN DISTRICT OF GEORGIA\n                         ATLANTA DIVISION\n\n SIS, LLC,\n       Plaintiff,\n                       v.                                  Civil Action No.\n STONERIDGE HOLDINGS, INC., ERIC                          1:17-cv-01816-SDG\n NEWELL, and SCOTT BOEDIGHEIMER,\n       Defendants.\n\n                            OPINION AND ORDER"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+}

@@ -1,0 +1,2516 @@
+                                       PRECEDENTIAL
+
+        UNITED STATES COURT OF APPEALS
+             FOR THE THIRD CIRCUIT
+
+
+                      No. 23-3202
+
+
+                   COINBASE, INC.,
+
+                                           Petitioner
+
+                           v.
+
+    SECURITIES AND EXCHANGE COMMISSION
+
+
+
+    On Petition for Review of Securities and Exchange
+              Commission Order (No. 4-789)
+
+           _____________________________
+
+
+
+             Argued on September 23, 2024
+
+ Before: BIBAS, FREEMAN, and AMBRO, Circuit Judges
+
+                (Filed January 13, 2025)
+
+Eugene Scalia [ARGUED]
+Jonathan C. Bond
+D. Nicholas Harper
+GIBSON, DUNN & CRUTCHER LLP
+1050 Connecticut Avenue, NW
+Washington, DC 20036
+            Counsel for Petitioner
+
+Tracey A. Hardin
+David D. Lisitza
+Ezekiel L. Hill [ARGUED]
+SECURITIES AND EXCHANGE COMMISSION
+100 F Street, NE
+Washington, DC 20549
+              Counsel for Respondent
+
+Kyle D. Hawkins
+LEHOTSKY KELLER COHN LLP
+408 West 11th Street
+5th Floor
+Austin, TX 78701
+             Counsel for Amicus-Petitioner Paradigm Oper-
+             ations LP
+
+Jeremy M. Creelan
+Kayvan B. Sadeghi
+JENNER & BLOCK LLP
+1155 Avenue of the Americas
+New York, NY 10036
+
+Michelle Kallen
+STEPTOE LLP
+1330 Connecticut Avenue NW
+Washington, DC 20036
+             Counsel for Amicus-Petitioner Crypto Council
+             for Innovation
+
+
+
+
+                              2
+Eric Tung
+JONES DAY
+555 South Flower Street
+50th Floor
+Los Angeles, CA 90071
+             Counsel for Amicus-Petitioner Chamber of Com-
+             merce of the United States of America
+
+Frank Scaduto
+WILEY REIN LLP
+2050 M Street NW
+Washington, DC 20036
+            Counsel for Amicus-Petitioner Satoshi Action
+            Fund and Texas Blockchain Council
+
+
+
+
+                            3
+                  OPINION OF THE COURT
+
+
+AMBRO, Circuit Judge
+
+        Coinbase Global, Inc., a trading platform that facilitates
+the exchange of digital assets, petitioned the Securities and Ex-
+change Commission (SEC) to promulgate rules clarifying how
+and when the federal securities laws apply to digital assets like
+cryptocurrencies and tokens. Coinbase argued in its petition
+that the existing securities-law framework does not account for
+certain unique attributes of digital assets, which make compli-
+ance economically and even technically infeasible. It also as-
+serted that the SEC has exacerbated these difficulties by failing
+to articulate a clear and consistent position about when a digital
+asset is a security, and thus subject to the federal securities laws
+at all.
+       The SEC denied Coinbase’s rulemaking petition. In a
+single paragraph, it explained that it disagreed with the peti-
+tion’s concerns; that it had higher-priority agenda items—
+namely, everything else it was doing; and that it may prefer to
+gather additional information through incremental action be-
+fore engaging in more far-reaching rulemaking. Coinbase’s
+U.S. subsidiary, Coinbase, Inc., petitions us to review the
+SEC’s denial.
+        Before us is whether the Administrative Procedure Act
+(APA), 5 U.S.C. § 500 et seq., or other principles of adminis-
+trative law require the SEC to engage in notice-and-comment
+rulemaking and, if not, whether the SEC’s explanation for its
+decision was sufficiently reasoned. Because we believe the
+
+
+
+
+                                 4
+SEC’s order was conclusory and insufficiently reasoned, and
+thus arbitrary and capricious, we grant Coinbase’s petition in
+part and remand to the SEC for a more complete explanation.
+But we decline at this stage to order the agency to institute rule-
+making proceedings.
+I.     BACKGROUND
+       A.     What Are Digital Assets?
+        Coinbase is a trading platform for digital assets. They
+come in many forms—coins and tokens are the most popular—
+but their common attribute is that they are issued and trans-
+ferred using a “blockchain,” which is essentially a decentral-
+ized public ledger spread across a network of many computers.
+See What Is Blockchain?, IBM, https://perma.cc/5C8Y-ET76.
+Unlike banks, which hold a single authoritative version of a
+ledger, every participant on a blockchain network holds a copy
+of the full chain of transactions. All computers in the network
+digitally record each transaction in data packages called
+“blocks.” Each block contains a set of transaction records, in-
+cluding a timestamp and a reference to the previous block in
+the sequence. To verify a transaction, another block irreversi-
+bly joins the chain of all previous transactions—hence, block-
+chain. Every new transaction increases the reliability of the
+ledger because “[e]ach additional block strengthens the verifi-
+cation of the previous block and hence the entire blockchain.”
+Id.
+       To achieve agreement among all users about the state of
+the ledger and to prevent tampering, blockchains use protocols
+called “consensus mechanisms.” Parma Bains, Int’l Monetary
+Fund, Blockchain Consensus Mechanisms: A Primer for Su-
+pervisors 3 (2022), https://perma.cc/PEK9-D5RL. Consensus
+mechanisms also come in many forms, but they all work by
+
+
+
+
+                                5
+using written decision rules requiring some amount of compu-
+ting power to verify that certain conditions have been met with-
+out the need for human middlemen. Id. at 4 (“Consensus in dis-
+tributed systems is ensuring that a state, value, or piece of in-
+formation is correct and agreed on by most nodes. A consensus
+mechanism guarantees this effort is carried out fairly and inde-
+pendently of any interested party ….”). To incentivize partici-
+pants to lend their computing power to verify each transaction,
+blockchain networks often reward participants with “coins.”
+See id. at 9 (“[T]he concept of rewarding active nodes with
+crypto assets is replicated in many other consensus mecha-
+nisms.”).
+        Take Bitcoin—the most popular blockchain network—
+as an example. It uses a consensus mechanism called “proof of
+work.” Id. at 8–10. After each transaction, participants in the
+network use enormous amounts of computing power to solve a
+difficult computational problem. The first to solve the problem
+earns a set number of “bitcoins”—the coin generated by the
+Bitcoin network. See Satoshi Nakamoto, Bitcoin: A Peer-to-
+Peer      Electronic    Cash     System      2,    4     (2008),
+https://perma.cc/59ZY-QPG5.
+        Blockchains can also support “tokens.” Unlike coins,
+tokens are issued not by the blockchain itself but by programs
+supported by the blockchain called “decentralized applica-
+tions.” Andrew Loo, Corp. Fin. Inst., Types of Cryptocurrency
+(2023), https://perma.cc/Q236-KQZ2. Tokens vary widely and
+serve many purposes. For example, there are utility tokens,
+which pay for specific services on decentralized applications;
+governance tokens, which grant governance rights over a
+
+
+
+
+                               6
+project; and security tokens, which represent ownership of
+some other, usually more traditional, asset. Id.
+        The core innovation of a blockchain network is decen-
+tralization. In a mature blockchain network, verifying transac-
+tions, issuing coins, and using tokens do not require oversight
+by a central authority or participation by human intermediaries.
+Blockchain & Distributed Ledger Technologies, GAO
+(Sept. 2019), https://perma.cc/KUT3-LVGX. But this feature,
+which proponents of blockchain technology hail as its primary
+virtue, has run up against a major obstacle—the federal securi-
+ties laws.
+       B.     The Federal Securities Laws and Digital As-
+              sets
+        The SEC brought its first enforcement actions involving
+digital assets in the early 2010s. 1 These were typically fraud
+actions that incidentally involved bitcoin. See, e.g., SEC v.
+Shavers, No. 4:13-cv-416, 2014 WL 12622292 (E.D. Tex.
+Aug. 26, 2014). Not until 2017 did the SEC start to train its
+attention on whether digital assets themselves are securities. In
+July of that year, the SEC issued its Report of Investigation
+Pursuant to Section 21(a) of the Securities Exchange Act of
+1934: The DAO, Release No. 81207, 2017 WL 7184670
+(July 25, 2017) (DAO Report). The DAO was a specific ver-
+sion of a more general concept called a “Decentralized Auton-
+omous Organization.” DAO Report at *1. It worked by accept-
+ing payments in ether—the coin for the blockchain network
+
+
+1
+    For a list of other SEC enforcement actions against digital-
+    asset firms, see Crypto Assets, SEC (Oct. 18, 2024),
+    https://www.sec.gov/securities-topics/crypto-assets.
+
+
+
+
+                               7
+Ethereum—in exchange for special governance tokens. Id.
+at *2–3. These DAO tokens conferred voting rights on mem-
+bers, who could make and vote on project proposals for the
+DAO to pursue, subject to approval from “Curators” selected
+by the DAO’s creators. Id. at *4–5. The holders of these tokens
+stood to share in the anticipated earnings of those projects. Id.
+at *2.
+        The SEC referred to the transactions contemplated by
+the DAO and other undertakings like it as “Initial Coin Offer-
+ings” or “Token Sales,” id. at *7, and explained that tokens re-
+sulting from those transactions are securities that must comply
+with the requirements of the federal securities laws. It
+“stress[ed] that the U.S. federal securities law may apply
+to … distributed ledger technology, depending on the particu-
+lar facts and circumstances, without regard to the form of the
+organization or technology used to effectuate a particular offer
+or sale.” Id. At a minimum, the SEC claimed that a digital asset
+is a security, and thus subject to the federal securities laws, if
+it is an “investment contract.” Id. at *8 (quoting 15 U.S.C.
+§§ 77b, 78c). Citing the Supreme Court’s decision in Security
+& Exchange Commission v. W.J. Howey Co., 328 U.S. 293,
+301 (1946), the SEC explained that “[a]n investment contract
+is an investment of money in a common enterprise with a rea-
+sonable expectation of profits to be derived from the entrepre-
+neurial or managerial efforts of others.” DAO Report at *8. The
+DAO tokens easily satisfied the Howey test—the DAO raised
+money by exchanging ether for special-purpose tokens, and
+those tokens promised future profits resulting from projects un-
+dertaken by the DAO. Id. at *8–12.
+       The DAO Report did not provide a precise formula for
+determining when a digital asset is a security. It instead em-
+phasized that the definition of investment contract “embodies
+
+
+
+
+                                8
+a ‘flexible rather than a static principle, one that is capable of
+adaptation to meet the countless and variable schemes devised
+by those who seek the use of the money of others on the prom-
+ise of profits.’” Id. at *8 (quoting Howey, 328 U.S. at 299 (em-
+phasis omitted)). The SEC thus “advise[d] those who would
+use … distributed ledger or blockchain-enabled means for cap-
+ital raising[] to take appropriate steps to ensure compliance
+with the U.S. federal securities laws,” and again “stress[ed] the
+obligation to comply with the registration provisions of the fed-
+eral securities laws with respect to products and platforms in-
+volving emerging technologies and new investor interfaces.”
+Id. at *1, *2.
+        In 2019, the SEC staff produced a more comprehensive
+framework for analyzing whether a digital asset is an invest-
+ment contract. See SEC, Framework for “Investment Con-
+tract”          Analysis        of         Digital         Assets,
+https://www.sec.gov/about/divisions-offices/division-corpora-
+tion-finance/framework-investment-contract-analysis-digital-
+assets (Digital Asset Framework); see also Game Stopped?
+Who Wins and Loses When Short Sellers, Social Media, and
+Retail Investors Collide, Part III, 117th Cong. 1, 11 (2021),
+https://perma.cc/DR9A-RHB2 (statement of then-Ranking
+Member of the U.S. House Committee on Financial Services,
+Rep. Patrick McHenry, noting that “[i]n 2019, SEC staff pro-
+duced the framework for investment contract analysis of digital
+assets”). This framework again emphasized that “issuers and
+other persons and entities engaged in the marketing, offer, sale,
+resale, or distribution of any digital asset will need to analyze
+the relevant transactions to determine if the federal securities
+laws apply,” and explained that Howey provides the touch-
+stone. Digital Asset Framework. The framework provided sev-
+eral more specific “factors market participants should consider
+
+
+
+
+                                9
+in assessing whether a digital asset is offered or sold as an in-
+vestment contract and, therefore, is a security.” Id.
+       Individual Commissioners and staff members have
+made public, non-official comments about digital assets as
+well. For example:
+•      In June 2018, William Hinman, the SEC’s then-Director
+       of the Division of Corporation Finance, stated that a
+       digital asset “all by itself is not a security.” William Hin-
+       man, Dir., Div. of Corp. Fin., SEC, Digital Asset Trans-
+       actions: When Howey Met Gary (Plastic) (June 14,
+       2018), https://www.sec.gov/newsroom/speeches-state-
+       ments/speech-hinman-061418.
+•      In May 2021, the current Commission Chair, Gary
+       Gensler, testified before Congress that “the exchanges
+       trading in these crypto assets do not have a regulatory
+       framework either at the SEC, or our sister agency, the
+       Commodity Futures Trading Commission, that could
+       instill greater confidence,” and that “only Con-
+       gress … could really address … bring[ing] greater in-
+       vestor protection to the crypto exchanges.” Game
+       Stopped? 117th Cong. at 12.
+•      In August 2021, Gensler told the Aspen Security Forum
+       that he believes “[t]here’s actually a lot of clarity” about
+       whether existing securities laws apply to digital assets.
+       Gary Gensler, SEC Chair, Remarks Before the Aspen Se-
+       curity        Forum          (Aug.          3,        2021),
+       https://www.sec.gov/newsroom/speeches-state-
+       ments/gensler-aspen-security-forum-2021-08-03.
+•      In December 2022, Gensler told a reporter that he
+       “feel[s] that [the SEC] ha[s] enough authority … in this
+
+
+
+
+                                10
+       space” to regulate digital assets. SEC’s Gensler: The
+       ‘Runway Is Getting Shorter’ for Non-Compliant Crypto
+       Firms, Yahoo (Dec. 7, 2022), https://yhoo.it/3EJrqo1. In
+       response to the reporter’s comment that he has “repeat-
+       edly called on these exchanges to come in and register,”
+       Gensler said, “not just register, come into compliance.”
+       Id.
+•      In October 2023, Gensler said that “without prejudging
+       any one asset, the vast majority of crypto assets likely
+       meet the investment contract test, making them subject
+       to the securities laws.” Gary Gensler, SEC Chair, Part-
+       ners of Honest Business and Prosecutors of Dishonesty:
+       Remarks Before the 2023 Securities Enforcement Fo-
+       rum (Oct. 25, 2023), https://www.sec.gov/news-
+       room/speeches-statements/gensler-remarks-securities-
+       enforcement-forum-102523.
+       The SEC expanded its enforcement agenda to digital-
+asset exchanges in 2023, and in June of that year filed an en-
+forcement complaint against Coinbase. See Complaint
+at 96–100, SEC v. Coinbase, Inc., No. 23-cv-4738 (S.D.N.Y.
+June 6, 2023), ECF No. 1. In its complaint, the SEC alleges
+that Coinbase, through its trading platform for digital assets,
+had operated as an unregistered broker, exchange, and clearing
+agency. Id. At the time of our writing, the SEC’s enforcement
+action against Coinbase remains ongoing.
+       C.     Coinbase’s Rulemaking Petition
+       In July 2022—before the enforcement action—Coin-
+base petitioned the SEC to propose new rules addressing how
+and when digital assets qualify as securities subject to existing
+
+
+
+
+                               11
+securities laws. 2 Coinbase expressed its view that the existing
+securities-law framework is “fundamentally incompatible with
+the operation of digital asset securities” and urged the SEC to
+adopt new rules tailored specifically to digital assets. App. 15.
+Coinbase identified many purported workability issues, includ-
+ing the following:
+•      Digital assets have non-investment uses such as “paying
+       transaction, or ‘gas’ fees; voting on governance pro-
+       posals related to the operation of the protocol; serving
+       as a medium of exchange for native applications; and
+       helping secure a network”—uses that would be bur-
+       dened if digital-asset transactions had to occur within a
+       broker-dealer and registered-exchange framework.
+       App. 18.
+•      Blockchain networks are decentralized, so there is often
+       no one who can register digital assets or make required
+       disclosures. App. 22–23, 25–26.
+•      Existing registration and disclosure requirements do not
+       provide owners of digital assets with useful information
+       because those requirements were “designed for tradi-
+       tional corporate entities that typically issue and register
+       equity and debt securities,” and “poorly fit the
+
+
+2
+    The APA provides that an “agency shall give an interested
+    person the right to petition for the issuance, amendment, or
+    repeal of a rule.” 5 U.S.C. § 553(e). Similarly, the SEC’s
+    Rules of Practice provide that “[a]ny person desiring the is-
+    suance, amendment or repeal of a rule of general applica-
+    tion may file a petition therefor with the Secretary.”
+    17 C.F.R. § 201.192(a).
+
+
+
+
+                               12
+      decentralized and open-source nature of blockchain-
+      based digital asset securities.” App. 25.
+•     Custody rules, which require broker-dealers to maintain
+      “physical possession” or “control” over customers’
+      fully paid and excess-margin securities, “do[] not list
+      holding blockchain private keys as a permitted method
+      of physical possession or control,” and “the SEC Staff’s
+      general position has been that holding blockchain pri-
+      vate keys does not qualify as good physical possession
+      or control,” App. 33.
+•     The “Net Capital Rule,” which is “designed to ensure
+      that broker-dealers maintain sufficient unencumbered,
+      liquid capital available at all times to satisfy customer
+      claims promptly,” may require companies “that hold
+      custody of customers’ digital assets” to record “(i) a li-
+      ability on their balance sheet for their obligation to re-
+      turn the digital assets, and (ii) an offsetting asset ‘simi-
+      lar in nature to an indemnification asset,’ but ‘separate
+      and distinct from the crypto-asset itself.’” App. 34. Ac-
+      cording to Coinbase, “the parent company of the broker-
+      dealer would need to contribute a dollar of cash as ad-
+      ditional equity into the broker-dealer for every dollar
+      worth of digital asset security custodied by the broker-
+      dealer,” which would “be non-economic and unsustain-
+      able.” Id.
+       About nine months after Coinbase filed its rulemaking
+petition, it petitioned us for a writ of mandamus ordering the
+SEC to act on its request. In re Coinbase, Inc., 23-1779
+(3d Cir.), ECF No. 1. In June 2023, we ordered the SEC to pro-
+vide an update on the status of Coinbase’s rulemaking petition
+by October 11, four months hence. Id., ECF No. 32. On that
+
+
+
+
+                              13
+date, the SEC informed us that its staff had made a recommen-
+dation to the Commissioners, but that the Commissioners had
+not yet made a final decision on the petition. Id., ECF No. 33
+at 2. Coinbase moved on October 13 for leave to file a re-
+sponse, id., ECF No. 34, which we granted in November, id.,
+ECF No. 35. 3
+      The SEC denied Coinbase’s rulemaking petition in De-
+cember 2023. It confined its reasoning to a single paragraph:
+       The Commission disagrees with the Petition’s
+       assertion that application of existing securities
+       statutes and regulations to crypto asset securities,
+       issuers of those securities, and intermediaries in
+       the trading, settlement, and custody of those se-
+       curities is unworkable. Moreover, the Commis-
+       sion has discretion to determine the timing and
+       priorities of its regulatory agenda, including with
+       respect to discretionary rulemaking such as that
+       requested in the Petition. See Massachusetts v.
+       EPA, 549 U.S. 497, 527 (2007). Any considera-
+       tion of whether and, if so, how to alter the exist-
+       ing regulatory regime may be informed by,
+
+
+3
+    Coinbase claims that this order “suggested that a decision
+    on Coinbase’s mandamus petition might be imminent,” and
+    that the SEC was moved by this threat. Pet. Br. 17. But the
+    order states only that “[t]he foregoing motion for leave to
+    file a Response to the Court’s June 20, 2023 order is
+    GRANTED. Petitioner is instructed to refile the attachment
+    to the motion as its submission no later than Tuesday, No-
+    vember 21, 2023.” In re Coinbase, Inc., 23-1779, ECF
+    No. 35.
+
+
+
+
+                               14
+       among other things, data and information pro-
+       vided by numerous undertakings directly or indi-
+       rectly relating to crypto asset securities that the
+       Commission is currently pursuing. Accordingly,
+       the Commission concludes that it is appropriate
+       to deny the Petition. The Commission is also en-
+       gaged in many undertakings that relate to regu-
+       latory priorities extending well beyond crypto
+       asset securities. The requested regulatory action
+       would significantly constrain the Commission’s
+       choices regarding competing priorities, and the
+       Commission declines to undertake it at this time.
+App. 6 (footnotes omitted).
+       Coinbase petitions us to review the SEC’s decision and
+asks that we order the SEC to institute a notice-and-comment
+rulemaking proceeding.
+II.    JURISDICTION AND STANDARD OF REVIEW
+       We have jurisdiction to review final orders issued by the
+SEC under the Securities Act of 1933, 15 U.S.C. § 77i, and the
+Securities Exchange Act of 1934, 15 U.S.C. § 78y. An agency’s
+order denying a petition for rulemaking is a final order. See
+Int’l Union, United Auto., Aerospace & Agric. Implement
+Workers of Am. v. Chao, 361 F.3d 249, 251 (3d Cir. 2004).
+       We will vacate an agency’s order denying a petition for
+rulemaking if the denial is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.” 5 U.S.C.
+§ 706(2)(A). The APA’s arbitrary-and-capricious standard,
+however, “encompasses a range of levels of deference to the
+agency,” Am. Horse Prot. Ass’n v. Lyng, 812 F.2d 1, 4
+(D.C. Cir. 1987), and “denials of petitions to institute rulemak-
+ing proceedings … are scrutinized at the most deferential end
+
+
+
+
+                               15
+of the arbitrary and capricious spectrum,” Int’l Union, 361 F.3d
+at 254–55; see also WWHT, Inc. v. FCC, 656 F.2d 807, 817
+(D.C. Cir. 1981) (“Where … the agency simply declines to in-
+itiate any rulemaking procedures, … the scope of judicial re-
+view should be extremely limited, if permitted at all.”).
+          This is not to say we will rubber stamp an agency’s or-
+der. Agency decisions denying petitions for rulemaking are still
+subject to judicial review, and may be “overturn[ed] … for
+compelling cause, such as plain error of law or a fundamental
+change in the factual premises previously considered by the
+agency.” Flyers Rts. Educ. Fund, Inc. v. FAA, 864 F.3d 738, 743
+(D.C. Cir. 2017) (internal quotation marks and citation omit-
+ted). And as with any other agency order, it must be “reasoned
+if it is to survive arbitrary and capricious review.” Env’t Health
+Tr. v. FCC, 9 F.4th 893, 903 (D.C. Cir. 2021) (internal quota-
+tion marks omitted). That means the agency must “adequately
+explain[] the facts and policy concerns it relied on” and its fac-
+tual explanation must have “some basis in the record.” Nat.
+Res. Def. Council v. SEC, 606 F.2d 1031, 1053 (D.C. Cir.
+1979).
+III.   WAS THE SEC’S DECISION ARBITRARY AND CAPRI-
+       CIOUS?
+
+        Coinbase argues that the SEC’s order was arbitrary and
+capricious for three reasons. First, the SEC’s decision to apply
+the securities laws to digital assets in enforcement actions con-
+stitutes a “significant policy change[]” that “presumptively” re-
+quires rulemaking. Pet. Br. 20. Second, the emergence of digi-
+tal assets removes a fundamental factual predicate underlying
+the entire existing regulatory framework—that compliance by
+all potential market participants is possible. And third, the
+SEC’s explanation for its decision was conclusory and insuffi-
+ciently reasoned. Coinbase argues that if the agency’s order
+
+
+
+
+                               16
+was arbitrary and capricious for any of these reasons, then we
+should order it to institute rulemaking proceedings. We address
+each argument in turn.
+       A.     Was the SEC Presumptively Required to En-
+              gage in Notice-and-Comment Rulemaking?
+       Absent a specific congressional mandate, agencies have
+“broad discretionary powers to promulgate (or not [to] prom-
+ulgate)” rules. WWHT, 656 F.2d at 816 (quoting Nat. Res. Def.
+Council, 606 F.2d at 1045). We afford that discretion because
+those decisions are “inevitably based, in large measure, on fac-
+tors not susceptible [of] judicial resolution,” like “internal
+management considerations as to budget and personnel; evalu-
+ations of [an agency’s] own competence; [and] weighing of
+competing policies within a broad statutory framework.” Id.
+at 817 (quoting Nat. Res. Def. Council, 606 F.2d at 1046). An
+order denying a petition to institute rulemaking proceedings
+therefore is “scrutinized at the most deferential end of the arbi-
+trary and capricious spectrum.” Int’l Union, 361 F.3d at 255. If
+an agency does elect to develop rules, it also has primary dis-
+cretion in choosing whether to do so through wide-ranging no-
+tice-and-comment rulemaking or piecemeal adjudication, or
+some combination of the two. See SEC v. Chenery Corp.
+(Chenery II), 332 U.S. 194, 202–03 (1947).
+       Coinbase argues that, despite this ordinary deference,
+the SEC’s decision here was arbitrary and capricious. By bring-
+ing enforcement actions against digital-asset firms, and thus
+applying the federal securities laws to digital assets, the agency
+made a “significant policy change[],” Pet. Br. 24, which in
+Coinbase’s view triggered a presumptive obligation to engage
+in rulemaking. This presumption ensures that an agency like
+the SEC “provide[s] a cogent explanation for its actions on the
+record, including its purported legal basis,” id. at 25;
+
+
+
+
+                               17
+“consider[s] every ‘important aspect of the problem’ when ex-
+ercising policymaking authority,” id. at 27 (quoting Motor Ve-
+hicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins., 463 U.S. 29, 43
+(1983)); and “provide[s] fair notice to regulated parties,” id.
+at 28. According to Coinbase, this presumption not only inval-
+idates any digital-asset rules the SEC has developed through
+enforcement actions; it affirmatively requires the SEC to insti-
+tute rulemaking proceedings. Coinbase cites no case applying
+this presumption to mandate rulemaking. Instead, it argues that
+the presumption flows from “[f]oundational principles of ad-
+ministrative law ….” Pet. Br. 23–24.
+        Coinbase also argues that the SEC lacks discretion to
+formulate policy on digital assets incrementally through en-
+forcement actions because adjudicatory rulemaking is reserved
+for when the agency “‘could not reasonably foresee’ the prob-
+lem”; “lacks ‘sufficient experience with a particular problem
+to warrant rigidifying its tentative judgment into a hard and fast
+rule’”; or confronts a “problem … ‘so specialized and varying
+in nature as to be impossible of capture within the boundaries
+of a general rule.’” Id. at 36 (quoting Chenery II, 332 U.S.
+at 202–03). Coinbase believes that none of these special cir-
+cumstances is present here, so the SEC abused its discretion by
+purportedly choosing adjudication over notice-and-comment
+rulemaking and thus “must engage in rulemaking ….” Id.
+at 38.
+       1.     Is There a Presumption in Favor of Rulemak-
+              ing?
+        We first address Coinbase’s contention that “[f]ounda-
+tional principles of administrative law” create a presumption
+that the SEC must engage in rulemaking regarding digital as-
+sets. Id. at 23–24.
+
+
+
+
+                               18
+              i.      Explaining the Legal Basis for Agency
+                      Action
+        The first principle Coinbase identifies is that agencies
+must explain the legal bases for their actions. According to
+Coinbase, the SEC’s enforcement actions are based on a
+“newly minted understanding of its authority [that] has no basis
+in the securities statutes,” and that “is out of step with almost a
+century of case law.” Id. at 30. The SEC can apply existing se-
+curities laws to new areas only if it “specifically articulates the
+purported basis for [its] jurisdiction in advance.” Id. In Coin-
+base’s view, this requires notice-and-comment rulemaking. Id.
+        We are unpersuaded by Coinbase’s claim that notice-
+and-comment rulemaking is the only way an agency can ex-
+plain the legal basis for its actions. As the SEC emphasizes, an
+agency bringing an enforcement action must “set[] out its view
+of the application of the existing law to the facts,” and Coin-
+base, as well as other digital-asset firms, “have the opportunity
+to argue to the contrary in [the] district court and on appeal.”
+Resp. Br. 39. Coinbase does not explain why this is insuffi-
+cient.
+        More fundamentally, Coinbase confuses a ground for
+setting aside an agency action with a ground for mandating
+rulemaking. Failure to articulate an adequate legal basis for
+agency action is the former, not the latter. When an agency fails
+to articulate an adequate legal basis for its action, the proper
+course for the regulated entity is to object in the enforcement
+proceeding, and the proper remedy is to dismiss the action or
+to vacate or remand the agency’s order. This makes sense be-
+cause it appropriately balances the discretion courts ought to
+afford agencies to set their own agenda with principles of fair
+notice and due process.
+
+
+
+
+                                19
+         Whether the SEC has articulated adequate legal bases
+for any of its particular enforcement actions against digital-as-
+set firms is not before us. This is an appeal from an order deny-
+ing a petition for wide-ranging rulemaking. Given this posture,
+Coinbase does not object to any specific enforcement actions;
+it instead claims that the general effort to apply existing secu-
+rities laws to digital assets is a “sea change.” Pet. Br. 20. But if
+Coinbase believes the SEC’s interpretations of existing securi-
+ties rules lack any basis in law, then it should make those argu-
+ments in enforcement proceedings and, if necessary, on appeal,
+where it can more clearly connect its objection to specific
+agency actions.
+               ii.    Considering Important Aspects of the
+                      Problem
+        The second principle Coinbase identifies is that an
+agency must “contend with all important aspects of its sweep-
+ing view of the securities laws” when choosing to engage, or
+not to engage, in regulatory action. Id. at 32 (citing State Farm,
+463 U.S. at 43).
+        To begin, the APA requires less engagement by an
+agency with the views of regulated entities when the agency is
+considering a petition for rulemaking than it does when the
+agency has already engaged in notice-and-comment rulemak-
+ing. In State Farm itself, the National Highway Traffic Safety
+Administration (NHTSA) promulgated a rule requiring that
+certain percentages of newly manufactured cars have airbags
+or automatic seatbelts. 463 U.S. at 36–37. Four years later,
+when it became clear that almost all cars would have automatic
+seatbelts, which had diminished safety benefits because they
+could be easily detached, NHTSA rescinded the rule because it
+believed it would no longer increase the effective use of re-
+straints. Id. at 38–39. According to the Supreme Court, that
+
+
+
+
+                                20
+decision was arbitrary and capricious because NHSTA did not
+consider the life-saving effects of airbags, id. at 47–49, and be-
+cause it did not adequately explain why it believed automatic
+detachable seatbelts would not be safer than existing manual
+seatbelts, id. at 51–57. State Farm holds that agency action
+must be based on some “reasoned analysis,” which NHTSA did
+not provide, and that action based on a nonrational deci-
+sionmaking process is arbitrary and capricious. Id. at 57.
+        But as we have explained, the arbitrary-and-capricious
+standard is at its least demanding when we are evaluating an
+agency’s decision not to engage in rulemaking. Our review of
+the agency’s conclusion in that case is highly deferential, and
+we will rarely second-guess it if the agency provides us suffi-
+cient reasoning to understand how it reached that conclusion. 4
+If NHTSA had denied a petition for rulemaking in State Farm,
+rather than rescinded a final rule, then it is likely its decision
+would have cleared the arbitrary-and-capricious standard. With
+the standard in mind, we turn to Coinbase’s argument that the
+principle underlying State Farm compels notice-and-comment
+rulemaking here.
+        If Coinbase means to argue that the SEC’s explanation
+for its decision was arbitrary and capricious because it failed
+adequately to consider the issues raised in Coinbase’s petition,
+then this argument goes to the substantive rationality of its de-
+cision, not whether there is some general presumption in favor
+of rulemaking. But that does not seem to be Coinbase’s point—
+at least not at this stage of its argument. Instead, it apparently
+means to argue that the SEC categorically cannot consider
+
+
+4
+    As we explain below, the SEC has not provided us with suf-
+    ficient reasoning here. See infra at Section III.C.
+
+
+
+
+                               21
+important aspects of a problem when regulating through adju-
+dication because enforcement actions lack the information-
+gathering benefits of notice-and-comment rulemaking. We dis-
+agree. The Supreme Court held expressly in National Labor
+Relations Board v. Bell Aerospace Co., 416 U.S. 267, 295
+(1974), that although “rulemaking would provide the [agency]
+with a forum for soliciting the informed views of those af-
+fected … before embarking on a new course,” “surely the
+[agency] has discretion to decide that the adjudicative proce-
+dures … may also produce the relevant information necessary
+to mature and fair consideration of the issues.”
+        Coinbase seizes on language from our decision in Fed-
+eral Labor Relations Authority v. Department of Navy that
+“‘notice and comment rulemaking’ is ‘particularly appropriate’
+because it is ‘advisable’ for an agency to solicit and learn from
+the insights of affected parties.” Pet. Br. 32 (quoting 966 F.2d
+747, 763 n.15 (3d Cir. 1992) (en banc)). Coinbase distorts that
+decision. We held that an interpretive rule from the Office of
+Personnel Management (OPM) was unenforceable because it
+was disseminated only in an amicus brief and an unpublished
+letter, making it “extremely difficult if not impossible” for an
+outside party to learn of it. Dep’t of Navy, 966 F.2d at 764. We
+did “note,” in dicta, that OPM should have considered formal-
+izing its purported interpretive rule through notice-and-com-
+ment rulemaking. Id. at 763 n.15. But we did not say, or even
+suggest, that OPM could only consider all aspects of the prob-
+lem through notice-and-comment rulemaking. Indeed, our de-
+cision did not rest on either OPM’s decision to forgo notice-
+and-comment rulemaking or any purported failure to consider
+all aspects of a problem.
+
+
+
+
+                               22
+              iii.    Fair Notice and Due Process
+        The final principle Coinbase highlights is fair notice. It
+contends that the SEC’s decision not to promulgate compre-
+hensive rules governing digital assets deprives it and other dig-
+ital-asset firms of fair notice. FCC v. Fox Television Stations
+Inc., 567 U.S. 239, 253–54 (2012) (ruling that the Due Process
+Clause requires that agencies bringing an enforcement action
+“provide” through written guidance, regulations, or other ac-
+tivity “a person of ordinary intelligence fair notice” that the
+regulated conduct was “prohibited”). Those fair-notice con-
+cerns are heightened here because Coinbase believes that the
+SEC and its officials, by purportedly changing their position on
+whether existing securities laws cover digital assets, have led
+it down the garden path.
+        The SEC responds that it has provided fair notice of its
+view that digital assets may qualify as securities as far back as
+the DAO Report in 2017. And even if it had not, “fair notice is
+a defense that defendants may attempt to assert to enforcement
+in certain circumstances,” “not a basis for mandating rulemak-
+ing.” Resp. Br. 40.
+       Assuming for argument’s sake that the SEC has tried to
+make major regulatory changes in some or all of its enforce-
+ment actions, the appropriate way for Coinbase to raise a fair-
+notice argument would be as a defense in those enforcement
+actions, not on appeal from a petition to begin broad and open-
+ended rulemaking. That is because whether an enforcement ac-
+tion violates a regulated entity’s due-process rights depends on
+the nature of the specific enforcement action. See FTC v. Wynd-
+ham Worldwide Corp., 799 F.3d 236, 250 (3d Cir. 2015) (“[a]
+different set of [due-process] considerations is implicated
+when agencies are involved in statutory or regulatory interpre-
+tation” and “‘[l]esser degrees of specificity’ are allowed in civil
+
+
+
+
+                                23
+cases because the consequences are smaller than in the criminal
+context” (quoting San Filippo v. Bongiovanni, 961 F.2d 1125,
+1135 (3d Cir. 1992))).
+       Coinbase insists that fair-notice problems are “height-
+ened” here because the SEC “itself has experienced ‘consider-
+able difficulty’ interpreting a statute that it administers and its
+actions [have] produce[d] ‘considerable uncertainty.’” Pet.
+Br. 33 (quoting Gen. Elec. Co. v. EPA, 53 F.3d 1324, 1332
+(D.C. Cir. 1995) and SNR Wireless LicenseCo, LLC v. FCC,
+868 F.3d 1021, 1044 (D.C. Cir. 2017)). And those fair-notice
+problems are heightened further still by the “‘new liability’ that
+the SEC is attempting to impose on the digital asset industry
+‘for past actions which were taken in good-faith reliance on
+[the SEC’s] pronouncements ….’” Id. (quoting Bell Aerospace,
+416 U.S. at 295).
+        Again, this procedural posture does not afford the par-
+ties an adequate opportunity to air this issue, or for us to con-
+sider it properly, because the objection is abstract and not
+grounded in challenges to any particular enforcement actions.
+But even if an appeal from an order denying a petition to initi-
+ate rulemaking were an appropriate vehicle for raising fair-no-
+tice objections, this one fails.
+       Coinbase repeatedly insists that the SEC has changed its
+position on whether the securities laws apply to digital assets.
+As proof, Coinbase points to comments from agency staff and
+individual Commissioners to the press and Congress. But indi-
+vidual Commissioners and staff members do not speak for the
+SEC, and their statements do not necessarily reflect the
+agency’s official position. Indeed, Coinbase has recognized as
+much. See, e.g., Coinbase Global, Inc., Form S-1 Registration
+Statement, at 29 (Feb. 25, 2021) (explaining that “such state-
+ments are not official policy statements by the SEC and reflect
+
+
+
+
+                                24
+only the speakers’ views, which are not binding on the SEC or
+any other agency or court”); see also SEC v. Terraform Labs
+Pte. Ltd., 684 F. Supp. 3d 170, 192 (S.D.N.Y. 2023) (digital-
+asset defendants’ “attempt to manufacture a ‘fair notice’ prob-
+lem here comes down to asserting the SEC’s position in this
+litigation is inconsistent with a position that the SEC never
+adopted”).
+        The SEC directs our attention instead to an early, and
+official, articulation of its position: the DAO Report in 2017,
+explaining that a digital asset qualifies as a security if it satis-
+fies the criteria for an investment contract laid out in Howey.
+DAO Report at *8 (quoting Howey, 328 U.S. at 299). The SEC
+expressly warned “that the U.S. federal securities law may ap-
+ply to various activities, including distributed ledger technol-
+ogy, depending on the particular facts and circumstances, with-
+out regard to the form of the organization or technology used
+to effectuate a particular offer or sale,” id. at *7 (emphasis
+added), and “advise[d] those who would use … distributed
+ledger or blockchain-enabled means for capital raising[] to
+take appropriate steps to ensure compliance with the U.S. fed-
+eral securities laws,” id. at *1 (emphasis added).
+        Coinbase responds that the SEC’s position—“whether a
+crypto asset implicates the federal securities laws depends on
+the facts and circumstances of its offer and sale”—is a “truism”
+and thus “no test at all.” Reply Br. 8 (quoting Resp. Br. 26). In
+Coinbase’s view, the relevant question for purposes of fair no-
+tice is not “whether the securities laws can apply to certain dig-
+ital asset transactions, but rather how and to what extent they
+apply.” Id. (emphasis in original). But an agency need not ex-
+haustively catalog in a rule how a statute or regulation will ap-
+ply in every circumstance. See Transp. Div. of the Int’l Ass’n
+of Sheet Metal, Air, Rail & Transp. Workers v. Fed. R.R.
+
+
+
+
+                                25
+Admin., 10 F.4th 869, 875 (D.C. Cir. 2021) (“Agencies do not
+ordinarily have to regulate a particular area all at once.”). If
+that were true, then rulemaking by adjudication would be in-
+feasible. And although the SEC’s application of the Howey test
+to a particular digital asset may sufficiently depart from its past
+conduct to raise fair-notice concerns, its general position that
+some digital assets may qualify as securities does not. The for-
+mer class of challenges will turn on case-dependent factors like
+what kind of digital asset is at issue, whether the SEC is en-
+forcing a statute or a regulation, and how far its interpretation
+of the statute or regulation deviates from its prior positions—
+factors properly raised in individual enforcement actions.
+                         *      *       *
+        Coinbase argues that the SEC acted arbitrarily and ca-
+priciously by bringing enforcement actions that seek to apply
+the securities laws to digital assets without engaging in rule-
+making. This argument fails for a fundamental reason: Coin-
+base repeatedly confuses grounds for setting aside an agency’s
+rule with grounds for mandating rulemaking. None of the prin-
+ciples it invokes supports its argument that the SEC acted arbi-
+trarily and capriciously by failing to engage in notice-and-com-
+ment rulemaking, and none supports its request that we compel
+the SEC to institute rulemaking proceedings now. If a particu-
+lar enforcement action violated any of the administrative-law
+precepts Coinbase offers, then the proper recourse would be to
+move to dismiss that action or to vacate or remand the resulting
+order, not to mandate rulemaking.
+       2.     Adjudication Versus Notice-and-Comment
+              Rulemaking
+       Rulemaking on digital assets through enforcement ac-
+tions does not categorically violate any of the administrative-
+
+
+
+
+                                26
+law principles Coinbase has identified as forming its presump-
+tion in favor of notice-and-comment rulemaking. And, as
+noted, if any particular adjudication does, Coinbase can raise
+those fact-dependent objections as a defense in those enforce-
+ment actions. So why does this not end the analysis? Although
+“the choice made between proceeding by general rule or by in-
+dividual, ad hoc litigation is one that lies primarily in the in-
+formed discretion of the administrative agency,” Chenery II,
+332 U.S. at 203, “there may be situations where the [agency]’s
+reliance on adjudication would amount to an abuse of discre-
+tion,” Bell Aerospace, 416 U.S. at 294. Coinbase argues that
+this is one of those situations.
+        According to Coinbase, “the ‘function of filling in the
+interstices of [statutes] should be performed, as much as possi-
+ble, through th[e] quasi-legislative promulgation of rules to be
+applied in the future.’” Reply Br. 5 (quoting Chenery II, 332
+U.S. at 202). It argues that regulating through adjudication is
+appropriate only when the agency “‘could not reasonably fore-
+see’ the problem,” “lacks ‘sufficient experience with a particu-
+lar problem to warrant rigidifying its tentative judgment into a
+hard and fast rule,’” or confronts a problem “so specialized and
+varying in nature as to be impossible of capture within the
+boundaries of a general rule.” Pet. Br. 36 (quoting Chenery II,
+332 U.S. at 202–03). And even though “agencies sometimes
+have discretion to make policy through adjudication rather than
+rulemaking,” Coinbase argues “that leeway is irrelevant here”
+because “the SEC has already formed a new and sweeping (if
+indeterminate) view of the securities laws’ applicability to dig-
+ital assets that it is asking federal courts to enforce with penal-
+ties.” Id. at 35–36.
+      This argument relies on Chenery II to carry a load it can-
+not bear. Chenery II does not, as Coinbase claims, restrict
+
+
+
+
+                                27
+rulemaking by adjudication to those situations in which “‘spe-
+cialized problems’ arise that are ill-suited to the rulemaking
+process.” Id. at 36 (quoting Chenery II, 332 U.S. at 202). To
+the contrary, the Supreme Court clarified that requiring an
+agency to choose notice-and-comment rulemaking over rule-
+making by adjudication “would be to stultify the administrative
+process,” Chenery II, 332 U.S. at 202, and that “[t]he scope of
+[a court’s] review of an administrative order wherein a new
+principle is announced and applied is no different from that
+which pertains to ordinary administrative action,” id. at 207.
+“[A]n administrative agency must be equipped to act either by
+general rule or by individual order,” and “[t]o insist upon one
+form of action to the exclusion of the other is to exalt form over
+necessity.” Id. at 202.
+        The Supreme Court has since reaffirmed that “[t]he
+views expressed in Chenery II … make plain that [an agency]
+is not precluded from announcing new principles in an adjudi-
+cative proceeding and that the choice between rulemaking and
+adjudication lies in the first instance within the [agency]’s dis-
+cretion.” Bell Aerospace, 416 U.S. at 294. We have cited this
+line of cases ourselves for the proposition that “[a]n agency’s
+‘judgment that adjudication best serves [its] purpose is entitled
+to great weight.’” Wyndham, 799 F.3d at 254 n.19 (quoting Bell
+Aerospace, 416 U.S. at 294).
+        Coinbase’s argument also cannot account for the
+longstanding practices of certain agencies. For example, the
+National Labor Relations Board “has chosen to promulgate vir-
+tually all the legal rules in its field through adjudication rather
+than [through] rulemaking.” NLRB v. FedEx Freight, Inc., 832
+F.3d 432, 445 n.13 (3d Cir. 2016) (brackets in original). It is
+hard to reconcile Coinbase’s narrow view of rulemaking by ad-
+judication with actual agency practice.
+
+
+
+
+                                28
+        To be sure, the APA constrains an agency’s choice be-
+tween rulemaking and adjudication—“courts have sometimes
+found the choice of adjudication inappropriate [when] an
+agency purports to establish a new rule of widespread applica-
+tion.” Nestle Dreyer’s Ice Cream Co. v. NLRB, 821 F.3d 489,
+501 (4th Cir. 2016). But Coinbase warps this principle, which
+provides only that an agency cannot use adjudication to prom-
+ulgate and retroactively enforce rules that depart significantly
+from past agency practice. When an agency does so, a regu-
+lated entity can challenge the new rule defensively and have it
+set aside. It does not follow, however, that the agency may also
+be compelled to begin notice-and-comment rulemaking.
+Whether a particular enforcement action announces a new rule
+of widespread application or merely applies an existing rule to
+new facts depends on both the rule the SEC invokes and the
+fact pattern to which it means to apply that rule. And the ap-
+propriate redress would not be to mandate that the agency start
+rulemaking—it would be to dismiss the action or to vacate or
+remand the agency’s order.
+        Coinbase cites no cases in which a court has determined
+that an agency improperly promulgated new law through adju-
+dication and ordered the agency to engage in rulemaking. Its
+cited cases follow a more familiar path: A defendant in an en-
+forcement action appeals from an adverse determination and
+the reviewing court sets aside the agency’s order for improp-
+erly applying new rules of widespread application retroac-
+tively. For example, in Ford Motor Co. v. Federal Trade Com-
+mission, 673 F.2d 1008, 1010 (9th Cir. 1981), the Ninth Circuit
+held that the FTC’s effort to reinterpret its regulations to apply
+to conduct that had never been held unlawful before was im-
+proper because the adjudication “change[d] existing law, and
+ha[d] widespread application.” But the Ninth Circuit did not
+mandate rulemaking—it merely vacated the FTC’s order. Id.
+
+
+
+
+                               29
+        But even if we accept Coinbase’s premises—that rule-
+making by adjudication is limited to the special circumstances
+it enumerates in its briefs and that it may appropriately chal-
+lenge the validity of individual enforcement actions elsewhere
+in an appeal from a denial of a rulemaking petition—it still
+would not be clear that the SEC abused its discretion by choos-
+ing to regulate partially through adjudication. Coinbase con-
+cedes, for instance, that one “specialized problem” that justi-
+fies rulemaking by adjudication is “when the agency lacks ‘suf-
+ficient experience with a particular problem to warrant rigidi-
+fying its tentative judgment into a hard and fast rule.’” Pet.
+Br. 36 (quoting Chenery II, 332 U.S. at 202–03). In Coinbase’s
+view, the SEC cannot justify rulemaking by adjudication on
+that ground because it has already “formed a new and sweeping
+(if indeterminate) view of the securities laws’ applicability to
+digital assets that it is asking federal courts to enforce with pen-
+alties.” Id. at 35–36. But this argument confuses different is-
+sues. By bringing an enforcement action, the SEC must con-
+clude that existing law supports its position with respect to that
+action. It does not follow, however, that the SEC has further
+concluded that it does not need more information to formulate
+additional rules or policies about digital assets. If the agency
+determines that a particular digital asset qualifies as a security
+and brings an enforcement action based on that conclusion, it
+may still use the information and experience it develops in that
+action to shape its general policymaking on digital assets going
+forward. 5
+
+
+5
+    The SEC has explained in both its order and its brief that it
+    has not settled exclusively on enforcement actions and that
+
+
+
+
+                                30
+        We are not persuaded that the SEC categorically lacks
+discretion to regulate digital assets through adjudication or in-
+dividualized enforcement actions. And whether it has abused
+its discretion by proposing new and retroactive rules of wide-
+spread application in any particular enforcement action is not
+properly before us.
+       B.     Was There a Fundamental Change in a Sig-
+              nificant Factual Predicate Underlying Exist-
+              ing Securities Regulations?
+       A reviewing court may overturn an administrative
+agency’s decision not to initiate rulemaking if there is “com-
+pelling cause, such as … a fundamental change in the factual
+premises previously considered by the agency.” Flyers Rts.,
+864 F.3d at 743 (internal quotation marks and citation omitted);
+
+
+   it may engage in notice-and-comment rulemaking as it ac-
+   cumulates more experience. App. 6 (“Any consideration of
+   whether and, if so, how to alter the existing regulatory re-
+   gime may be informed by, among other things, data and in-
+   formation provided by numerous undertakings directly or
+   indirectly relating to crypto asset securities that the Com-
+   mission is currently pursuing.”); Resp. Br. 41 (“[T]he Com-
+   mission’s denial of Coinbase’s rulemaking petition was not
+   a decision to address crypto asset securities exclusively
+   through adjudication instead of rulemaking; no such choice
+   was presented or made. Indeed, far from choosing to pro-
+   ceed solely by enforcement, the Commission explained that
+   several ongoing rulemakings directly or indirectly relate to
+   crypto asset securities and that their results may inform its
+   future regulatory undertakings.” (brackets and internal quo-
+   tation marks omitted)).
+
+
+
+
+                               31
+see also EMR Network v. FCC, 391 F.3d 269, 273–74
+(D.C. Cir. 2004) (noting that one of the “strongest potential ba-
+ses for overturning an agency’s refusal to initiate rulemaking”
+is “that a significant factual predicate of a prior decision on the
+subject has been removed” (internal quotation marks and ellip-
+ses omitted)). A “refusal to initiate a rulemaking naturally sets
+off a special alert when a petition has sought modification of a
+rule on the basis of a radical change in its factual premises.”
+Am. Horse, 812 F.2d at 5.
+        Coinbase contends there has been just that kind of radi-
+cal change here. In its view, “[a] key premise of the SEC’s ex-
+isting regulations is that compliance is possible for the firms
+that the SEC seeks to subject to those rules. But the emergence
+of digital assets and the SEC’s claim that many or all are secu-
+rities have deeply undermined that premise.” Pet. Br. 40. Coin-
+base argues that digital assets are largely incompatible with ex-
+isting securities regulations for several reasons, including the
+following:
+•      Digital assets, unlike securities, can be “used” for “pay-
+       ing transaction, or ‘gas’ fees,” “as a medium of ex-
+       change for native applications,” and for “helping secure
+       a network.” Id. at 41 (quoting App. 18). Registering dig-
+       ital assets would make these uses “impossible” because
+       “all transactions would have to occur within a broker-
+       dealer and registered-exchange framework.” Id.
+•      Existing securities regulations require disclosures about
+       “the operation of the issuer, its financial statements, its
+       leadership, what risks it may face, and information
+       about various other parts of the business.” Id. (quoting
+       App. 22). But many digital assets are “created or man-
+       aged by a diffuse group of individuals, who are not a
+
+
+
+
+                                32
+       central ‘team,’ and ‘may not even know each other’s
+       true identities.’” Id. (quoting App. 23–24).
+•      The information required by existing disclosure regula-
+       tions is largely unhelpful to “digital asset user[s],” who
+       are “far more likely to care about the details of the as-
+       set’s underlying protocol.” Id. at 42 (citing App. 49).
+•      Requiring digital asset platforms to register as ex-
+       changes would limit them “to offering only registered
+       securities,” even though “the vast majority of digital as-
+       sets are commodities, not securities.” Id. at 43–44 (cit-
+       ing App. 28) (emphasis in original).
+        The SEC responds that “the purported ‘changed circum-
+stances’ to which Coinbase points—that some market partici-
+pants may find compliance with longstanding requirements of
+the federal securities laws ‘not possible or not economically
+viable’—differs in kind from the type of change referred to in
+the caselaw Coinbase cites.” Resp. Br. 33. The SEC asserts that
+a “significant factual predicate of a prior decision on the sub-
+ject” must change, and that because Coinbase does not base its
+arguments on any particular prior agency decisions, it has iden-
+tified no changes in factual predicates. Id. at 34 (emphasis in
+original).
+        Coinbase’s workability concerns are not fundamental
+changes in the factual predicates underlying the existing secu-
+rities-law framework. The cases it cites trace the following pat-
+tern: a federal agency adopts or declines to adopt a regulation
+at Time 1 and expressly rests its decision in part on certain ev-
+idence or reasons; the agency is petitioned at Time 2 to modify
+or repeal its rules in light of intervening developments that con-
+tradict the basis for the agency’s initial decision; and the
+
+
+
+
+                               33
+agency declines, with minimal explanation or in reliance on its
+earlier justification, to reconsider its prior decision.
+        For example, in Geller v. Federal Communications
+Commission, 610 F.2d 973, 979 (D.C. Cir. 1979), the FCC
+adopted a set of cable-television rules solely as part of a com-
+promise agreement to facilitate the passage of certain copyright
+legislation. Four years later, Congress had adopted, and the
+President had enacted, that legislation. At that point, the peti-
+tioner asked the FCC to reexamine the rules it had earlier
+adopted because “the Commission can no longer validly ad-
+here to provisions that do not, in its judgment, best serve the
+public interest in view of the undisputed fact that the [compro-
+mise] agreement is now a dead letter.” Id. at 976 (internal quo-
+tation marks omitted). Even though the basis for the regula-
+tions had changed when the copyright legislation was enacted,
+the agency refused either to terminate the regulations or to
+show how they continued to have a basis in law. Id. at 979–80.
+The D.C. Circuit thus ordered the FCC to provide a new expla-
+nation for its decision to retain the regulations. Id. at 980–81.
+        Similarly, in American Horse, 812 F.2d at 1–2, the De-
+partment of Agriculture had adopted a regulation to implement
+a statutory prohibition on “soring” horses, which involved fas-
+tening heavy chains to a horse’s front limbs to encourage it to
+adopt a desired gait. In its initial rulemaking, the Department
+“made quite clear its recognition that the premises for not en-
+acting broader specific prohibitions might erode,” and ex-
+plained that “it relied on evidence from three test clinics which
+appeared to exonerate action devices weighing less than those
+that it proposed to forbid.” Id. at 2. “At the same time it also
+mentioned that it had recently commissioned a study of soring
+methods and techniques at a major university that might even-
+tually result in further changes in the regulations.” Id. (internal
+
+
+
+
+                                34
+quotation marks omitted). The study eventually suggested that
+certain methods not expressly prohibited by the Department
+may have fallen within the statutory definition of soring. Id.
+at 2–3. The petitioner requested rulemaking and noted that the
+study “presented new facts that merited a new rulemaking.” Id.
+at 5. The Department denied the petition and noted only that it
+had “reviewed studies and other materials,” and “[o]n the basis
+of this information, … believe[d] that the most effective
+method of enforcing the Act [wa]s to continue the current reg-
+ulations.” Id. The D.C. Circuit held that the Department’s de-
+cision was not adequately reasoned and that “the finding of the
+[intervening] study may or may not remove a ‘significant fac-
+tual predicate’ of the original rules’ gaps.” 6 Id. at 7. The court
+ordered the Secretary to “explain his decision or to institute a
+new rulemaking proceeding on action devices and other soring
+practices.” Id. at 7–8.
+       Coinbase here insists that “[a] key premise of the SEC’s
+existing regulations”—it does not specify which—“is that
+compliance is possible for the firms that the SEC seeks to
+
+
+
+6
+    The court also held that the Secretary’s decision involved
+    “plain errors of law” because his reasoning indicated that
+    the Department misunderstood the authorizing statute,
+    which was “clearly designed to end soring.” Am. Horse,
+    812 F.2d at 5, 6 (internal quotation marks omitted). Besides
+    failing to “present[] a reasonable explanation of his failure
+    to grant the rulemaking petition … , particularly in light of
+    the apparent message of the [intervening] study,” the Sec-
+    retary’s conduct “strongly suggest[ed] that he ha[d] been
+    blind to the nature of his mandate from Congress.” Id. at 7.
+    That is not the case here.
+
+
+
+
+                                35
+subject to those rules.” Pet. Br. 40. But it does not support that
+claim. It simply asserts that the alternative—that the SEC “has
+no duty to make compliance with its rules possible”—is
+“astounding.” Reply Br. 2. That is not, however, what the SEC
+said. It has reasonably explained that the existing securities-
+law framework is not predicated on the assumption that it will
+never burden any potential new market participants. To the
+contrary, law often works by regulating or even prohibiting
+conduct that some would like to pursue. In the securities-law
+context, it is unremarkable that novel complex financial instru-
+ments may not always fit neatly within existing securities rules,
+especially if inherent attributes of those novel financial instru-
+ments may undermine the objectives of those rules. 7
+
+
+7
+    Coinbase draws on the D.C. Circuit’s decision in Alliance
+    for Cannabis Therapeutics v. Drug Enforcement Agency for
+    the proposition that “[i]mpossible requirements imposed by
+    an agency are perforce unreasonable.” Reply Br. 12 (quot-
+    ing 930 F.2d 936, 940 (D.C. Cir. 1991)). But our case is
+    easily distinguishable from Cannabis Therapeutics. The
+    regulated entities there sought to reclassify marijuana as a
+    Schedule II drug, and to do so they had to show that it “en-
+    joy[ed] general ‘availability’ or ‘use.’” Cannabis Thera-
+    peutics, 930 F.2d at 940. But the agency’s designation of
+    marijuana as a Schedule I drug made that showing defini-
+    tionally impossible. The core conundrum in Cannabis
+    Therapeutics was that the regulated entity was subject to
+    “intractably contradictory agency directives” that “created
+    a seemingly permanent Catch-22,” POET Biorefining, LLC
+    v. EPA, 970 F.3d 392, 412 (D.C. Cir. 2020) (citing Cannabis
+
+
+
+
+                               36
+        The more fundamental problem with Coinbase’s argu-
+ment, however, is that it miscomprehends the doctrine it in-
+vokes. The changed-factual-predicate principle applies only in
+the narrow set of cases in which an agency explicitly justifies
+its action on a fact that subsequently changes. The logic under-
+lying this principle is that the agency’s action is no longer rea-
+soned when its stated justification no longer holds. But unlike
+the petitioners in Geller and American Horse, Coinbase does
+not point to specific SEC actions, let alone any of its stated
+justifications. Instead, it points to the entire securities-law edi-
+fice and insists that it rests on an unstated assumption about
+ease of compliance. If this were sufficient, then “overturn[ing]
+an agency judgment not to institute rulemaking” would no
+longer be limited only to “the rarest and most compelling of
+circumstances.” WWHT, 656 F.2d at 818.
+       To be sure, Coinbase’s workability concerns are not
+frivolous. See infra at 39–43. But it confuses the analysis by
+arguing that ease of compliance is a factual predicate underly-
+ing existing securities regulations rather than merely a relevant
+and significant consideration of its petition.
+       C.      Was the SEC’s Explanation Sufficiently Rea-
+               soned?
+        The SEC is not compelled by the APA or other admin-
+istrative-law principles to start notice-and-comment rulemak-
+ing here. Whether it does so is a matter of discretion to which
+
+
+
+
+   Therapeutics, 930 F.2d at 940)—not merely that the agency
+   adopted regulations that prohibited or regulated some con-
+   duct that the regulated entity wanted to pursue.
+
+
+
+
+                                37
+we afford great deference. But has the SEC provided us with a
+sufficiently reasoned explanation to which we can defer?
+        An agency’s decision to deny a petition for rulemaking
+“must be ‘reasoned’ if it is to survive arbitrary and capricious
+review.” Env’t Health Tr., 9 F.4th at 903 (quoting Am. Horse,
+812 F.2d at 5). The agency must provide us with “assurance
+that [it] considered the relevant factors” as well as “a discern-
+able path to which [we] may defer.” Am. Radio, 524 F.3d
+at 241.
+         The SEC provided three reasons in its order for denying
+Coinbase’s rulemaking petition. First, it “disagree[d] with the
+Petition’s assertion that application of existing securities stat-
+utes and regulations to crypto asset securities, issuers of those
+securities, and intermediaries in the trading, settlement, and
+custody of those securities is unworkable.” App. 6. Second, it
+claimed that its “consideration of whether and, if so, how to
+alter the existing regulatory regime may be informed by,
+among other things, data and information provided by numer-
+ous undertakings directly or indirectly relating to crypto asset
+securities that the Commission is currently pursuing.” App. 6.
+It listed several of these undertakings in a footnote. App. 6 n.3.
+And third, it noted that it is “engaged in many undertakings
+that relate to regulatory priorities extending well beyond crypto
+asset securities,” and believes “[t]he requested regulatory ac-
+tion would significantly constrain the Commission’s choices
+regarding competing priorities.” App. 6.
+      Coinbase argues that the SEC’s order was insufficiently
+reasoned. For the reasons below, we agree.
+       1.     Workability
+        Coinbase characterizes the SEC’s response to its work-
+ability concerns as “ipse dixit” (that is, mere assertion without
+
+
+
+
+                               38
+proof) and “conclusory.” Pet. Br. 47. Coinbase claims it is not
+enough that the SEC says it disagrees; it must explain “why it
+disagrees.” Id. at 48 (emphasis in original). The SEC responds
+by noting that 5 U.S.C. § 555(e) requires only a “brief state-
+ment” that “need not be exhaustive.” Resp. Br. 42 (quoting Fly-
+ers Rts. Educ. Fund v. U.S. Dep’t of Transp., 957 F.3d
+1359, 1363 (D.C. Cir. 2020)). In its view, “[n]o additional ex-
+plication is required to understand the Commission’s policy de-
+cision not to replace the entire existing regulatory framework
+that has governed the multi-trillion dollar securities markets for
+decades simply to make compliance easier for a small set of
+market participants offering a purportedly new asset.” Id. at 22.
+       The SEC also argues that ongoing enforcement actions
+show that applying the existing securities-law framework to
+digital assets is workable. According to the agency, “[f]or
+years, federal courts have applied Congress’s definitions and
+the Supreme Court’s precedents to the particular facts and cir-
+cumstances of crypto asset security offers, sales, and transac-
+tions in Commission enforcement actions, with no court con-
+cluding that the current regulatory framework is unworkable
+for issuers of crypto asset securities or intermediaries in the
+trading, settlement, and custody of such securities.” Id.
+at 23–24.
+       Coinbase is right that the SEC’s explanation is insuffi-
+ciently reasoned. “[W]hen an agency denies a petition for rule-
+making, the record can be slim, but it cannot be vacuous.” Fly-
+ers Rts., 864 F.3d at 747. That is “[e]specially so when, as here,
+the petition identifies an important issue that falls smack-dab
+within the agency’s regulatory ambit.” Id. “Rather, the agency
+must provide ‘assurance that it considered the relevant factors,’
+and it must provide analysis that follows ‘a discernable path to
+which the court may defer.’” Env’t Health Tr., 9 F.4th at 903
+
+
+
+
+                               39
+(quoting Am. Radio, 524 F.3d at 241) (brackets omitted). A sin-
+gle sentence disagreeing with the main concerns of a rulemak-
+ing petition is conclusory and does not provide us with any as-
+surance that the SEC considered Coinbase’s workability objec-
+tions, nor does it explain how it accounted for them.
+        Environmental Health Trust is instructive. In that case,
+the petitioners challenged the FCC’s decision to terminate its
+notice of inquiry about whether to modify its guidelines for ex-
+posure to radiofrequency radiation. The petitioners pointed to
+“multiple studies and reports” “purporting to show that RF ra-
+diation at levels below the Commission’s current limits cause
+negative health effects.” Env’t Health Tr., 9 F.4th at 903. The
+FCC responded by stating that “the FDA has reviewed, and will
+continue to review, many sources of scientific and medical ev-
+idence,” and that “[b]ased on our ongoing evaluation of the is-
+sue, the totality of the available scientific evidence continues
+to not support adverse health effects in humans caused by ex-
+posures at or under the current radiofrequency energy exposure
+limits.” Id. at 904. This explanation was not sufficiently rea-
+soned considering the studies and comments provided by the
+petitioners because the FCC did “not explain why the FDA de-
+termined, despite the studies and comments that Petitioners
+cite[d], that exposure to RF radiation at levels below the Com-
+mission’s current limits does not cause harmful health effects.”
+Id. at 905. The FCC’s explanation was “conclusory,” and “con-
+clusory statements ‘cannot substitute for a reasoned explana-
+tion.’” Id. (quoting Am. Radio, 524 F.3d at 241).
+        The SEC argues that Environmental Health Trust is dis-
+tinguishable. In that case, “the agency’s explanation was found
+inadequate because it failed to assess the implications of new
+scientific evidence,” whereas Coinbase’s “petition identified
+no new evidence requiring such an assessment.” Resp. Br. 25.
+
+
+
+
+                              40
+It is unclear why this distinction matters. The SEC’s minimum
+obligation is to “clearly indicate that it has considered the po-
+tential problem identified in the petition and provide a ‘reason-
+able explanation as to why it cannot or will not exercise its dis-
+cretion’ to initiate rulemaking.” Compassion Over Killing v.
+FDA, 849 F.3d 849, 857 (9th Cir. 2017) (quoting Massachu-
+setts v. EPA, 549 U.S. 497, 533 (2007)). Whether the problem
+identified involves new scientific evidence does not have any
+bearing on whether the agency must explain its reasoning.
+        Although Environmental Health Trust involved evi-
+dence that exposed changed factual circumstances while this
+case does not, the point is that when an agency is prompted to
+explain itself—either because of a changed factual predicate or
+simply because a petition for rulemaking raises a relevant and
+significant argument—it must provide “assurance that [it] con-
+sidered the relevant factors,” Am. Radio, 524 F.3d at 241, and
+“sufficiently explain[] its reasoning,” id. at 245 (Ka-
+vanaugh, J., concurring in part and dissenting in part); see also
+Grand Canyon Air Tour Coal. v. FAA, 154 F.3d 455, 468 (D.C.
+Cir. 1998) (“An agency must … demonstrate the rationality of
+its decision-making process by responding to those comments
+that are relevant and significant.”). The SEC’s response to
+Coinbase’s workability concerns—which are relevant and sig-
+nificant—is “of the conclusory variety that [courts] have pre-
+viously rejected as insufficient to sustain an agency’s refusal to
+initiate a rulemaking.” Env’t Health Tr., 9 F.4th at 904–05. It
+has said that it believes the existing securities-law framework
+is not unworkable for digital assets, but we have no basis in the
+record for determining why it believes that or how it arrived at
+that conclusion. This explanation is not “slim”—it is “vacu-
+ous.” Flyers Rts., 864 F.3d at 747.
+
+
+
+
+                               41
+        The SEC insists before us that Coinbase’s workability
+concerns are unfounded because it has pursued successful civil
+and criminal enforcement actions against digital-asset firms.
+Resp. Br. 23–24. But it did not identify this reason in its order.
+When “assessing the reasonableness of [an agency’s action,]
+we look only to what the agency said at the time of the [ac-
+tion]—not to its lawyers’ post-hoc rationalizations.” Good For-
+tune Shipping SA v. Comm’nr of IRS, 897 F.3d 256, 263
+(D.C. Cir. 2018) (internal quotation marks and citation omit-
+ted); see also SEC v. Chenery Corp. (Chenery I), 318 U.S. 80,
+87 (1943) (“The grounds upon which an administrative order
+must be judged are those upon which the record discloses that
+its action was based.”). “We are bound on review to the record
+that was before the agency at the time it made its decision.”
+Defs. of Wildlife v. Gutierrez, 532 F.3d 913, 919 (D.C. Cir.
+2008). That record includes “the petition for rulemaking, com-
+ments pro and con where deemed appropriate, and the agency’s
+explanation of its decision to reject the petition.” WWHT, 656
+F.2d at 817–18.
+        The record here says nothing to suggest that successful
+enforcement actions factored into the agency’s workability
+conclusion. The SEC cannot retroactively build the record by
+providing a conclusory justification at a high level of generality
+in the order itself and then divulging its concrete reasons only
+after its order has been challenged. Nor can we fill the gap in
+the record by drawing our own inferences about how we think
+the SEC reached its conclusion. See Env’t Health Tr., 9 F.4th
+at 914 (“But we cannot supply reasoning in the agency’s stead,
+and here the Commission has failed to provide any reasoning
+to which we may defer.” (internal citation omitted)); Am. Ra-
+dio, 524 F.3d at 241 (“[S]o conclusory a statement cannot sub-
+stitute for a reasoned explanation,” and we “cannot fill the
+void.” (internal citations omitted)).
+
+
+
+
+                               42
+       2.      Resource Allocation
+        Coinbase next challenges the SEC’s explanation that it
+has other regulatory priorities. According to Coinbase, the
+SEC’s own conduct shows that digital assets are a regulatory
+priority, and that its order did not adequately identify any spe-
+cific competing priorities, “let alone priorities of a higher or-
+der.” Pet. Br. 54. This argument comprises two sub-argu-
+ments—one is compelling, the other is not.
+        The uncompelling argument first. Coinbase’s conten-
+tion that “the digital asset industry is a priority for the SEC,”
+id. (emphasis in original), is not responsive to the latter’s posi-
+tion that it has wide discretion to select its regulatory priorities
+and allocate resources accordingly. Even if the SEC had made
+digital assets a priority, it may choose how to order those pri-
+orities. That an issue is a priority “does not compel [an agency]
+to promulgate a rule.” Int’l Union, 361 F.3d at 256.
+        Coinbase’s second argument is that the SEC’s order
+does not adequately explain which other regulatory efforts it is
+prioritizing or why—it merely cites to all its ongoing rule-
+makings. Coinbase is correct that citing all ongoing rule-
+makings is insufficient. An agency’s “resource-allocation judg-
+ments … fall squarely within the agency’s” discretion. Flyers
+Rts., 864 F.3d at 749. But, as always, the agency must at least
+explain its decision. For example, in International Union, 361
+F.3d at 251–52, the petitioners requested that OSHA regulate
+metalworking fluids. The agency declined the petition on the
+ground that regulating metalworking fluids would require an
+“enormous allocation” of agency resources, and that it had
+other regulatory priorities. Id. at 255 (internal quotation marks
+omitted). Critically, OSHA “weighed the scientific evidence of
+health hazards posed by exposure to [metalworking fluids]
+against its other regulatory priorities” and “named three
+
+
+
+
+                                43
+priorities more pressing.” Id. It explained that these priorities
+each addressed more dangerous toxic substances. Id. OSHA
+did not merely assert that it had other priorities—it identified
+its other priorities and explained why it believed they were
+more pressing than regulating metalworking fluids.
+       When an agency explains its allocation of resources and
+ordering of regulatory priorities, courts ordinarily should not
+disturb that decision because the agency is in “a unique—and
+authoritative—position to view its projects as a whole, estimate
+the prospects for each, and allocate its resources in the optimal
+way.” In re Barr Lab’ys, Inc., 930 F.2d 72, 76 (D.C. Cir. 1991).
+But resource allocation is not a talisman that an agency may
+invoke to escape judicial review. It is one explanation for
+agency inaction among many. It is an explanation entitled to a
+high level of deference, to be sure, but like any other explana-
+tion for agency action, it must be sufficiently reasoned. If it
+were sufficient for an agency to assert that it has other priorities
+and then point generally, without further explanation, to all of
+its ongoing rulemakings, then this “broad discretion” would
+become a “blanket exception to APA review in any matter in-
+volving the allocation of agency resources.” Compassion Over
+Killing, 849 F.3d at 857; see also WWHT, 656 F.2d at 814
+(“[W]e reject the suggestion that agency denials of requests for
+rulemaking are exempt from judicial review.”).
+        The SEC’s explanation that it has other regulatory pri-
+orities may be a sufficient basis for denying a rulemaking peti-
+tion, see Int’l Union, 361 F.3d at 255–56, but it must do more
+than claim it has other priorities and point to “the 43 rules iden-
+tified on the fall 2023 agency rule list,” Resp. Br. 19. At a min-
+imum, it must explain why it is prioritizing other regulatory
+actions.
+
+
+
+
+                                44
+       3.     Incremental Action
+       Finally, Coinbase asserts that the SEC’s decision to pro-
+ceed incrementally is a smokescreen because the digital-asset
+rules currently in development do not get at the heart of its re-
+quest—global clarity on how digital-asset firms “could comply
+with [existing federal securities regulations], and why the law
+requires them to do so.” Pet. Br. 52. The SEC responds that this
+argument “misses the point” because it never “claim[ed] that
+those undertakings were entirely coextensive with Coinbase’s
+requested rulemaking.” Resp. Br. 13. “Rather, … those under-
+takings may provide information and data that could inform its
+consideration of future regulatory action.” Id. at 14.
+        The SEC is right that it may justify its decision to hold
+off on more extensive rulemaking on the ground that it would
+prefer first to accumulate experience and information. After all,
+“agencies have great discretion to treat a problem partially”
+and “regulat[e] in a piecemeal fashion.” Ctr. for Biological Di-
+versity v. EPA, 722 F.3d 401, 409–10 (D.C. Cir. 2013) (quoting
+City of Las Vegas v. Lujan, 891 F.2d 927, 935 (D.C. Cir. 1989));
+see also Massachusetts, 549 U.S. at 524 (recognizing that
+“[a]gencies, like legislatures, do not generally resolve massive
+problems in one fell regulatory swoop”). That Coinbase disa-
+grees with the proposed incremental rules or finds them insuf-
+ficient says nothing about the adequacy of the SEC’s explana-
+tion that it needs additional information and experience before
+initiating more expansive rulemaking.
+         Although the SEC is correct as a general matter that it
+may justifiably decide to proceed by incremental rulemaking
+or adjudication before undertaking more comprehensive ac-
+tion, it still must explain its decision in a way that allows us to
+understand, and thus defer to, its reasoning. The explanation
+provided by the SEC in its order, however, is conclusory. It
+
+
+
+
+                                45
+states, in full, that “[a]ny consideration of whether and, if so,
+how to alter the existing regulatory regime may be informed
+by, among other things, data and information provided by nu-
+merous undertakings directly or indirectly relating to crypto as-
+set securities that the Commission is currently pursuing.”
+App. 6. These are many words that mean very little—the SEC
+might take future action on digital assets, and if it does, it might
+consider experience it accumulates from other agency actions
+that might deal directly with digital assets. This is not a suffi-
+ciently reasoned explanation because it does not allow us to
+understand why it prefers to proceed by incremental action,
+particularly considering the significant workability concerns
+identified by Coinbase in its petition.
+                         *       *      *
+        Any of the three grounds to which the SEC gestures in
+its order—that it disagrees with the workability concerns out-
+lined in the rulemaking petition; that it has other priorities; or
+that it would prefer to proceed incrementally—could be sound
+and independently sufficient bases for denying a rulemaking
+petition. But the SEC must provide more than these conclusory
+statements; it must explain its reasoning so that we can assure
+ourselves that its decision considered all important aspects pre-
+sented by the petition and resulted from reasoned decisionmak-
+ing. 8 Because the record before us, however, does not provide
+
+
+
+8
+    The SEC does not need to show, as Coinbase insists, that
+    digital-asset firms can seamlessly comply with existing
+    rules. See Oral Arg. Tr. 8:5–10 (“I think that [the SEC]
+    would need to address the different points regarding
+
+
+
+
+                                46
+that kind of reasoned explanation, we conclude that the SEC’s
+order is arbitrary and capricious.
+IV.      WHAT IS THE APPROPRIATE REMEDY?
+       Having found the SEC’s order insufficiently reasoned,
+we next consider the appropriate remedy. Coinbase asks that
+we order the SEC “to proceed directly to rulemaking” rather
+than remand for further explanation because it has “had more
+than enough opportunity to answer Coinbase’s workability
+concerns.” Oral Arg. Tr. 10:13–16. That we will not do.
+        If we “simply cannot evaluate the challenged agency ac-
+tion on the basis of the record before it, the proper course, ex-
+cept in rare circumstances, is to remand to the agency for addi-
+tional investigation or explanation.” Fla. Power & Light Co. v.
+Lorion, 470 U.S. 729, 744 (1985). Recall that “[i]t is only in
+the rarest and most compelling of circumstances that” courts
+have “acted to overturn an agency judgment not to institute
+rulemaking.” WWHT, 656 F.2d at 818. Coinbase insists that
+this case is one of those circumstances because the SEC is mo-
+tivated by “entrenched hostility towards the digital asset indus-
+try,” Reply Br. 25, and has “proven in this litigation and
+
+
+
+
+      workability that we set out. We set out a number of different
+      problems in our petition, … [and] it would be arbitrary and
+      capricious if they did not respond to each of them.”). It
+      would likely be enough to provide a well-reasoned expla-
+      nation for why it believes Coinbase’s workability concerns,
+      regardless of their merit, do not justify rulemaking—for ex-
+      ample, if the SEC were to provide a reasoned explanation
+      why it needs more information or has higher priorities.
+
+
+
+
+                                 47
+elsewhere that it will not take action unless compelled by a
+court,” Pet. Br. 49.
+        We are not persuaded that this is the rare case that war-
+rants the extraordinary remedy Coinbase seeks. Our decision
+in Public Citizen Health Research Group v. Chao, 314 F.3d 143
+(3d Cir. 2002), illustrates the kind of extreme situation that may
+justify ordering an agency to institute rulemaking. In 1993,
+OSHA began rulemaking to lower the permissible exposure
+limit for hexavalent chromium, a dangerous carcinogen. 9 Id.
+at 145. By 2002—almost ten years later—OSHA still had not
+promulgated a rule, and indeed said that it “might not promul-
+gate a rule for another ten or twenty years, if at all.” Id. We
+held, given the extreme delay and the “human lives … at
+stake,” 10 id. at 148, that “OSHA’s delay … [had] exceeded the
+bounds of reasonableness” and ordered “OSHA to proceed ex-
+peditiously with its … rulemaking,” id. at 159. In International
+Union, we emphasized that “the human lives at stake played a
+critical role in Public Citizen.” 361 F.3d at 255 n.1 (cleaned
+up).
+      An extreme delay that endangers human lives is our par-
+adigm case for ordering agency rulemaking. By contrast, when,
+
+
+
+9
+     Hexavalent chromium was one of the “three priorities more
+     pressing than [metalworking fluids]” later identified by
+     OSHA in International Union, 361 F.3d at 255.
+10
+     OSHA’s risk assessment of hexavalent chromium had con-
+     cluded that exposure “over a 45-year working lifetime
+     could be expected to result in between 88 and 342 excess
+     cancer deaths per thousand workers.” Public Citizen, 314
+     F.3d at 147.
+
+
+
+
+                               48
+as here, “the interests at stake are primarily economic[,] [s]uch
+interests, without more, do not present the unusual or compel-
+ling circumstances that are required in order to justify a judg-
+ment by [a] court overturning a decision of [an agency] not to
+proceed with rulemaking.” Nat’l Customs Brokers & Forward-
+ers Ass’n of Am. v. United States, 883 F.2d 93, 97 (D.C. Cir.
+1989) (cleaned up). 11
+V.      CONCLUSION
+        The SEC was not presumptively required to engage in
+notice-and-comment rulemaking for digital assets. Nor has
+Coinbase identified a fundamental change in a significant fac-
+tual predicate underlying existing securities regulations suffi-
+cient to require rulemaking. But the SEC’s order was arbitrary
+and capricious because it was conclusory and insufficiently
+reasoned. We thus grant Coinbase’s petition in part. The rem-
+edy is not at this stage to order the SEC to institute rulemaking
+proceedings but to remand to the agency for a sufficiently rea-
+soned disposition of Coinbase’s petition.
+
+
+
+
+11
+     We recognize, however, that digital assets are a growing
+     part of the financial sector and are emerging as an increas-
+     ingly important form of online payment. See generally
+     Concurring Op. of Judge Bibas.
+
+
+
+
+                               49
+BIBAS, Circuit Judge, concurring.
+    I join the majority’s excellent opinion in full. The Admin-
+istrative Procedure Act lets agencies choose between rulemak-
+ing and adjudication. But they must explain their choice, and
+the SEC failed to do so.
+    I write separately only to consider a constitutional issue that
+is not yet teed up but that lurks beneath this statutory one.
+Nearly a century ago, Congress created the SEC to serve as a
+watchdog for securities markets, including by developing
+rules. The SEC insists that its old rules apply to the novel
+crypto market but refuses to spell out how.
+    Crypto companies like Coinbase are confused about how to
+comply with the law and have repeatedly asked the SEC to
+clarify. Instead of doing so, the SEC sues the companies indi-
+vidually. It wants to proceed with ex post enforcement without
+announcing ex ante rules or guidance. As I explain, its old reg-
+ulations fit poorly with this new technology, and its enforce-
+ment strategy raises constitutional notice concerns.
+      I. OLD RULES COLLIDE WITH A NEW INVENTION
+   A. The old rules
+    Modern securities regulations flow from the Roaring ’20s.
+In that bull market, stock prices soared. John Kenneth Gal-
+braith, The Great Crash 1929, at 7–9, 11–12 (2009). But about
+half of new securities turned out to be worthless, or almost
+worthless, and the market crashed. Joel Seligman, The Trans-
+formation of Wall Street 1–2 (3d ed. 2003). That crash trig-
+gered the Great Depression. And as the Depression unfolded,
+academics and legislators probed its causes. Two stood out.
+    First, there were information problems. Stock sellers had
+lied or misled buyers, and investors sometimes learned that
+they had bought not a golden goose but a dead duck. Seligman
+at 44–49. Scholars realized a source of this problem: a com-
+pany’s ownership is separated from its control. See, e.g., Adolf
+A. Berle, Jr. & Gardiner C. Means, The Modern Corporation
+and Private Property 1–125 (1933). Without accurate infor-
+mation, how can shareholders know that managers are not rip-
+ping them off? That core problem persists today.
+     Second, trading stocks creates financial risks. Many secu-
+rities trades happen through middlemen: exchanges, broker-
+ages, and clearinghouses. Before the Crash, some middlemen
+let investors gamble on credit with few restrictions. Galbraith
+at 20–22, 67–68. Though that credit fueled the stock market’s
+rise, that same fuel helped burn it all down. See id. at 89–90, 103
+(documenting the role of margin loans in the stock-market crash).
+    In response, Congress passed two blockbuster laws and cre-
+ated a new agency to enforce and administer them: the SEC.
+15 U.S.C. § 78d. First, the Securities Act of 1933 addressed the
+information problems. Laylin K. James, The Securities Act of
+1933, 32 Mich. L. Rev. 624, 630, 632 (1934). Under the ’33
+Act, some securities issuers must register their securities and
+disclose important information to the public. See 15 U.S.C.
+§§ 77e (registration); 77g (required information in registration
+statement); 77j (required information in prospectus).
+    Second, the Securities Exchange Act of 1934 addressed the
+financial risks by regulating the financial system’s plumbing.
+John Hanna & Edgar Turlington, Protection of the Public Un-
+der the Securities Exchange Act, 21 Va. L. Rev. 251, 257–61
+
+
+
+
+                                2
+(1935). The ’34 Act regulates brokers, securities exchanges,
+and dealers, and requires them to register with the government.
+15 U.S.C. §§ 78o(a)(1), 78e, 78f. It also regulates clearing-
+houses. § 78q-1.
+    Today, each part of the securities-trading system works to-
+gether. Securities trade through intermediaries who move risks
+onto the parties best suited to bear them. Exchanges foster co-
+ordination and trust. They are platforms for buyers and sellers
+to coordinate what they are trading and at what price. Ex-
+changes also decide what gets listed to trade. In doing that, they
+vet to make sure their wares are legal and high quality. See Will
+Kenton, Exchanges: Explanation, Types and Examples, In-
+vestopedia (July 31, 2020), https://perma.cc/Q9ZN-ALXZ.
+    The diagram below shows this structure, with an exchange
+linking buyers and sellers:
+
+
+
+
+   Imagine that you want to buy something on an exchange. If
+you cannot meet your counterparty in person, you must send
+him your money. There is a delay between when you do so and
+when you get the goods. But what if he takes the money and
+runs? That is called settlement risk.
+
+
+
+
+                                3
+    That risk is absorbed by clearinghouses. They step between
+the buyer and seller, acting as a counterparty to each. Akhilesh
+Ganti, Clearinghouse: An Essential Intermediary in the Finan-
+cial     Markets,      Investopedia      (Feb.      7,    2023),
+https://perma.cc/JKQ3-JCG6. Each side can transact confi-
+dently because clearinghouses are trusted and regulated.
+
+
+
+
+    Because clearinghouses absorb risk from their counterpar-
+ties, they need to ensure that those counterparties are trustwor-
+thy. That would be hard if anybody could trade on an exchange.
+But only members can. See 15 U.S.C. § 78f(c)(1); see also, e.g.,
+Temp. Dual FINRA-NYSE Member Rule 2T(a) (2019) (defin-
+ing “member” as someone “approved … to effect transactions
+on the … Exchange”). And only registered brokers and dealers
+and their associates may become members. § 78f(c)(1). A bro-
+ker sits between the buyer or seller and the exchange or clear-
+inghouse. It takes custody of the buyer’s or seller’s assets and
+executes the trade when the customer says so. Tim Smith,
+
+
+
+
+                               4
+Broker: Definition, Types, Regulation, and Examples, In-
+vestopedia (Aug. 16, 2024), https://perma.cc/QZ95-ECVV.
+
+
+
+
+   Each entity faces its own suite of regulations. Those that fit
+one are unlikely to fit the others. For instance, a clearinghouse
+needs to hold capital reserves to guard against runs; but reserves
+make little sense for an exchange and would cause big compli-
+ance headaches. See 17 C.F.R. § 240.17ad-22(e)(4)(i).
+    This complicated system produced complicated regulations
+that are sensitive to how each piece of the system influences
+the next. But then a change hit: blockchain entered the game.
+   B. A new invention
+    Eight decades after the Crash of ’29, a coder pen-named
+Satoshi Nakamoto released a white paper proposing a novel
+digital currency named Bitcoin. Satoshi Nakamoto, Bitcoin: A
+Peer-to-Peer Electronic Cash System (2008), https://pa-
+pers.ssrn.com/sol3/papers.cfm?abstract_id=3440802&down-
+load=yes. The idea was to change how people pay for things.
+Without financial institutions, buying something on the inter-
+net would be risky. Because the transaction is not face to face,
+each side would worry that the other would not pay up. Id. at
+1. So financial institutions act as trusted middlemen. Id.
+
+
+
+
+                                5
+Nakamoto proposed a more efficient and secure solution:
+blockchain technology.
+    A blockchain is a decentralized ledger that tracks who owns
+what. It exists as copies on multiple computers; when one copy
+is changed on one system, every copy changes along with it.
+What Is Blockchain?, IBM, https://perma.cc/3VPD-NZRX.
+Transactions on this ledger are executed automatically and
+cannot be reversed. Id.; see also Chris Brummer, Disclosure,
+Dapps and DeFi, 5 Stan. J. Blockchain L. & Pol’y 137, 140
+(2022). Blockchain solves the danger that a counterparty will
+not pony up. But if transactions are irreversible, the system
+must get them right. To do that, a blockchain validates every
+transaction to make sure it is correct. Each transaction on a
+blockchain is represented by a block and each block is linked
+to the others. Each new transaction adds a new block to the
+chain. To tell if the new block is valid, computers process a
+“hash” that works like a password. Nakamoto at 2. All of that
+requires computing power.
+    Enter coins. When someone lends his computing power to
+validate a transaction, the blockchain rewards him with the
+possibility of earning some Bitcoin or other coin. Because the
+process resembles “gold miners expending resources to add
+gold to circulation,” it is called “mining.” Id. at 4. Though new
+blockchains have since developed new processes to validate
+transactions, the incentive created by distributing digital cur-
+rency remains the cornerstone of blockchains. See Amy Cas-
+tor, Ethereum Moved to Proof of Stake. Why Can’t Bitcoin?,
+MIT Tech. Rev. (Feb. 28, 2023), http://perma.cc/7QAZ-EAL9.
+
+
+
+
+                               6
+    People took Nakamoto’s idea and built on it. Blockchains
+are now used to run programs, and applications are built on top
+of them. See Brummer at 141. So blockchains act not only as
+ledgers, but also as the infrastructure supporting complex pro-
+cesses. These “decentralized” applications issue “tokens,” a
+different type of crypto asset. Andrew Loo, Types of Crypto-
+currency, CFI, https:/perma.cc/95TD-6ZR5. As the majority
+notes, these tokens may entitle the holder to governance rights
+“within a cryptocurrency network,” to a service offered by the
+issuer (a bit like a gift card), or to something else entirely. Id.
+           II. POURING NEW CRYPTO WINE INTO
+                OLD REGULATORY BOTTLES
+    The SEC says that cryptocurrencies must comply with exist-
+ing securities regulations. But applying the old securities regu-
+lations to this new technology raises thorny questions. Are
+crypto assets really securities at all? If so, which ones? And,
+from a practical standpoint, how do the regulations fit them?
+   A. When are crypto assets securities, commodities, or
+      something else?
+    To tell if an unconventional arrangement is a security (an
+“investment contract”), we use the Howey test. 15 U.S.C.
+§ 78c(a)(10); SEC v. W. J. Howey Co., 328 U.S. 293, 298–99
+(1946). Howey deems something an investment contract if it
+involves (1) an investment of money (2) in a common enter-
+prise (3) with the expectation of profit (4) from someone else’s
+effort. Howey, 328 U.S. at 298–99.
+    Since Howey, the Supreme Court has applied this definition
+to various creative agreements to discern if they were disguised
+
+
+
+
+                                7
+securities. These include “withdrawable capital shares” that
+look a lot like stock and payphone sale-and-leaseback arrange-
+ments. Tcherepnin v. Knight, 389 U.S. 332, 333, 339–40
+(1967) (capital shares); SEC v. Edwards, 540 U.S. 389, 391,
+397 (2004) (payphones).
+     Lower courts have confronted even more creative schemes:
+a pyramid scheme in which people bought rights to sell cos-
+metics and earned money by recruiting salesmen, an online
+game that mimicked stock trading but for imaginary compa-
+nies, and the sale of life-insurance contracts held by the termi-
+nally ill. SEC v. Koscot Interplanetary, Inc., 497 F.2d 473,
+474–75, 478 (5th Cir. 1974) (cosmetics-selling pyramid
+scheme); SEC v. SG Ltd., 265 F.3d 42, 44, 48 (1st Cir. 2001)
+(stock-trading game); SEC v. Mut. Benefits Corp., 408 F.3d
+737, 738, 745 (11th Cir. 2005) (life insurance). In each case, a
+lower court found either that the defendant was offering secu-
+rities or that the SEC had alleged facts that, if true, would
+amount to offering securities. Koscot, 497 F.2d at 485–86; SG
+Ltd., 265 F.3d at 55; Mut. Benefits Corp., 408 F.3d at 745.
+    Some crypto assets are likewise nothing but creative
+schemes to evade securities regulations. Take a crypto asset
+that comes with an exclusive deal to lend it out at a high interest
+rate. SEC v. Terraform Labs Pte. Ltd., 684 F. Supp. 3d 170,
+195–96 (S.D.N.Y. 2023). Or take one that entitles holders to
+voting rights and dividends. Report of Investigation Pursuant
+to Section 21(a) of the Securities Exchange Act of 1934: The
+DAO, Exchange Act Release No. 81207, 2017 WL 7184670,
+at *2–3 (July 25, 2017) (DAO Report).
+
+
+
+
+                                8
+    But not all crypto assets fit this mold. Some resemble bank
+accounts, others seem like commodities, and still others defy
+traditional labels altogether.
+    Take stablecoins. They are crypto tokens whose value is
+pegged to something else, like the dollar. Gary B. Gorton &
+Jeffery Y. Zhang, Taming Wildcat Stablecoins, 90 U. Chi. L.
+Rev. 909, 915–17 (2023). Speculation in cryptocurrencies
+makes their prices volatile, and volatility makes currency a
+poor store of value. Stablecoins promise to solve that problem.
+An issuer sells them to the public and promises to use the
+money to buy and hold safe assets. Id. Then, anyone can redeem
+a stablecoin on demand for its cash equivalent. Id. at 915. So
+stablecoins work a lot like demand deposits, and their issuers
+“are essentially unregulated banks.” Id. at 929. If it works like
+a bank account, then maybe it should be regulated by bank reg-
+ulators, not the SEC.
+    Other crypto assets lack central promoters and so look more
+like currencies or commodities. Take Ether, a coin issued on
+the Ethereum blockchain. Ethereum goes a step beyond the
+Bitcoin blockchain by letting programmers create decentral-
+ized applications that run on its blockchain. Vitalik Buterin,
+Ethereum: A Next-Generation Smart Contract and Decentral-
+ized Application Platform 1 (2014), https://perma.cc/A5DY-
+XNXH. To validate a transaction facilitated by one of these
+decentralized applications, a user must pay a “gas” fee in Ether
+coins. Id. at 13–14. These coins are then paid to the person who
+lent his computing power to validate the change to the block-
+chain. See id. Because Ether has a specific practical function in
+the private economy, it works a lot like a commodity. But unlike
+
+
+
+
+                               9
+a commodity, when used, it is not consumed. Instead, it is paid
+to someone else for services rendered, like a currency.
+   Whether Ether works more like a commodity or more like
+a currency, it certainly does not work like a security. That is
+because it is now fully decentralized, so there is no third-party
+promoter. True, investors may speculate in Ether, but they also
+speculate in oil, gold, pork bellies, and the U.S. dollar. These
+characteristics explain why the Commodity Futures Trading
+Commission has staked a claim to regulate some crypto assets.
+See Complaint ¶ 21, CFTC v. Bankman-Fried, 1:22-cv-10503
+(S.D.N.Y. Dec. 13, 2022) (“Certain digital assets are ‘com-
+modities,’ including bitcoin (BTC), ether (ETH), tether
+(USDT) and others.”).
+    Still other crypto assets have no clear traditional analogue.
+Take “utility tokens” or “service tokens.” Decentralized appli-
+cations on blockchains sometimes issue tokens that entitle their
+holders to goods or services. For instance, Filecoin holders can
+rent data-storage space from people who have free space on
+their hard drives. See Filecoin Found., Filecoin Foundation
+2023                Annual                Report                 18,
+https://www.figma.com/proto/OpRYFQO34ycc5N7YIMe-
+GAe/2023-FF-Annual-Report?node-id=1-11370. Some people
+may have bought Filecoin expecting the service to succeed and
+the coin’s value to rise. Relying on a third party’s efforts to turn
+a profit looks somewhat like buying a security. See Howey, 328
+U.S. at 299. But the analogy is strained because the token also
+entitles them to a service. Is the purchase made for consump-
+tion or for investment? And once a decentralized application or
+blockchain takes off, that question is no longer relevant. It no
+longer needs a third party to promote it and so is no longer even
+
+
+
+
+                                10
+plausibly a security. This suggests that some crypto assets
+could be securities in infancy and something else in adulthood.
+But, as I explain below, classifying them as securities could
+strangle them in their cribs.
+   In sum, not all crypto assets are the same. And their differ-
+ences matter when evaluating whether a crypto asset is a security.
+   B. The ’33 and ’34 Acts fit crypto awkwardly
+    The ’33 Act’s disclosure requirements do not fit many
+crypto assets. The ’33 Act levels the playing field for investors
+by making securities issuers disclose all sorts of important infor-
+mation. 15 U.S.C. § 78o(d)(1). For instance, public companies
+must put out audited financial statements stating the names of
+their corporate directors and officers and whether those direc-
+tors    are    independent.     See      Form       10-K,    SEC,
+https://perma.cc/5UBJ-FD5F. But for many crypto assets, that
+information is nonexistent or meaningless. Instead, owners
+might care more about how they can use a token or how the
+relevant blockchain’s code might be changed. See Brummer at
+146–49. Even if the disclosures would be useful, who should
+make them? Once crypto assets become decentralized, is there a
+single party who even has access to all the required information?
+   The same is true of the ’34 Act’s rules. A key term in that
+Act and its regulations is the word “physical.” Brokers and
+dealers must keep “physical possession or control” of the assets
+with which they are entrusted. 17 C.F.R. § 240.15c3-3(b). Because
+crypto assets cannot be physically delivered, it is unclear
+whether brokers and dealers can deal in them. Meanwhile, the
+Act defines a “clearing agency” as, among other things, anyone
+who “permits or facilitates the settlement of securities
+
+
+
+
+                                11
+transactions … without physical delivery of securities certifi-
+cates.” 15 U.S.C. § 78c(a)(23)(A) (emphasis added). But
+crypto assets do not have physical certificates, so almost any-
+one involved in validating a crypto transaction could count as
+a “clearing agency.” Clearing agencies have heavy burdens:
+they must register with the SEC, create risk-management sys-
+tems, and monitor their counterparties. 15 U.S.C.
+§ 78q-1(b)(1); 17 C.F.R. § 240.17ad-22. Even that first step
+poses problems—who is supposed to register?
+    Exchanges complicate the picture even more. One potential
+promise of blockchain is to eliminate settlement risk, bypass-
+ing the clunky system of intermediaries. People could use de-
+centralized exchanges to avoid concentrated risk and transform
+how assets trade. See generally Lindsay X. Lin, Deconstruct-
+ing Decentralized Exchanges, 2 Stan. J. Blockchain L. & Pol’y
+58 (2019). True, the technology has not yet realized that prom-
+ise. Coinbase itself is largely a centralized exchange, using a
+single ledger rather than blockchain. See Coinbase Global,
+Inc., Annual Report (Form 10-K) 10, 34 (Feb. 15, 2024). But
+the future is open to such innovation unless clunky legacy reg-
+ulation stifles it. See Hester M. Peirce, Comm’r, SEC, Render-
+ing Innovation Kaput: Statement on Amending the Definition
+of Exchange (Apr. 14, 2023) (“Today’s [SEC] treats its basic
+approach to exchange regulation as something that must not—
+indeed cannot—be altered to allow room for new technologies
+or for new ways of doing business.”).
+   That is not some far-off scenario; it is the status quo. Id. An
+exchange hosting “any transaction in a security” must register
+with the SEC as a securities exchange. 15 U.S.C. § 78e. Neither
+brokers nor dealers may trade on an unregistered exchange. Id.
+
+
+
+
+                               12
+But decentralized exchanges, like current exchanges for crypto
+assets, have no centralized entity to complete the registration,
+so they cannot comply.
+    To its credit, the SEC has tried to handle part of the physical-
+control problem. Through February 2026, the Commission will
+not bring enforcement actions against broker-dealers who
+transact in crypto assets without physically possessing or con-
+trolling them. Custody of Digital Asset Securities by Special
+Purpose Broker-Dealers, Exchange Act Release No. 34-90788,
+86 Fed. Reg. 11627, 11628 (Feb. 26, 2021). This is progress, but
+so far only one entity has managed to register. Pet’r’s Br. 45.
+    But the SEC has not tried to resolve the clearinghouse prob-
+lem. And it has doubled down on the exchanges problem, pro-
+posing to treat some decentralized crypto exchanges as securi-
+ties exchanges or even dealers. Supplemental Information and
+Reopening of Comment Period for Amendments Regarding the
+Definition of “Exchange,” Exchange Act Release No. 34-
+97309, 88 Fed. Reg. 29448, 29449–58 (May 5, 2023); Further
+Definition of “As Part of a Regular Business” in the Definition
+of Dealer and Government Securities Dealer in Connection
+with Certain Liquidity Providers, Exchange Act Release
+No. 34-99477, 89 Fed. Reg. 14938, 14960 (Feb. 29, 2024).
+        III. THE SEC’S POSITION ON HOW THE OLD
+              APPLIES TO THE NEW IS UNCLEAR
+   A. Originally, the SEC took a light touch with crypto
+   The SEC did not start policing crypto assets until about
+2017, nine years after Bitcoin was introduced. In the early
+2010s, it brought a few enforcement actions in fraud cases that
+
+
+
+
+                                13
+involved crypto only tangentially, usually when a fraudster got
+paid in crypto assets. See, e.g., SEC v. Shavers, No. 13-CV-
+416, 2014 WL 12622292 (E.D. Tex. Aug. 26, 2014); Com-
+plaint, SEC v. Garza, No. 15-cv-1760 (D. Conn. Dec. 1, 2015).
+Those cases alleged straightforward securities frauds that coin-
+cidentally relied on crypto assets as a medium of exchange; they
+did not allege that the crypto assets themselves were securities.
+    In 2017, the SEC started targeting crypto assets as securi-
+ties, focusing on those that looked like substitutes for issuing
+stock. First, it released the DAO Report, stressing that crypto
+assets that grant part of an organization’s profits along with
+governance rights count as investment contracts under the
+Howey test. DAO Report at *7–12. But that report was silent
+on other crypto assets.
+     Around this time, SEC officials spoke publicly about how
+they viewed crypto assets. William Hinman, director of the
+corporate-finance division, noted that Bitcoin and Ether do not
+appear to be securities and that disclosure requirements make
+little sense for them. William Hinman, Dir., Div. of Corp. Fin.,
+Sec. & Exch. Comm’n, Digital Asset Transactions: When
+Howey Met Gary (Plastic) (June 14, 2018). At the same time,
+he worried that some utility-token offerings are really securi-
+ties marketed as investments. Id. So in his view, an initial coin
+offering could be a security offering even if some people buy
+it for its underlying utility.
+    Hinman’s thinking aligned with some of the SEC’s enforce-
+ment post-2017. While most of it still focused on crypto assets
+that worked just like stock, the SEC also went after a few utility
+tokens. The premise was that utility tokens sold in initial coin
+
+
+
+
+                               14
+offerings would appreciate. See, e.g., In re CarrierEQ, Inc.,
+Securities Act Release No. 10575 (Nov. 16, 2018); SEC v. Kik
+Interactive Inc., 492 F. Supp. 3d 169, 176, 179–80 (S.D.N.Y.
+2020) (suit filed in 2019); SEC v. Ripple Labs, Inc., 682 F.
+Supp. 3d 308, 326–28 (S.D.N.Y. 2023) (suit filed in 2020);
+SEC v. LBRY, Inc., 639 F. Supp. 3d 211, 217 (D.N.H. 2022)
+(suit filed in 2021). In all these enforcement actions, the SEC
+argued that buying a token for its future usefulness and appre-
+ciation is just an investment contract.
+     On that theory, almost all crypto assets would count as secu-
+rities. But the SEC did not go after many crypto assets. Nor did
+it issue a rule or further guidance to clarify its views on utility
+tokens. Instead, it pursued a patchwork of enforcement actions
+against crypto assets, focusing on serious fraud. So for the next
+few years, thousands of initial coin offerings went off without
+a hitch, and the crypto market swelled to $3 trillion.
+   B. Only after crypto crashed did the SEC clamp down
+    Until 2022, crypto prices soared, fueled in part by pan-
+demic-era expansionary monetary policy. See Cristina Polizu
+et al., S&P Glob., Are Crypto Markets Correlated with Macro-
+economic Factors? 6–7 (May 2023), https://perma.cc/MXK5-
+WZ8M (documenting the relationship between quantitative
+easing and crypto prices). But then, inflation and interest rates
+rose. The bubble popped, as bubbles do, and crypto prices cra-
+tered. In mid-2022, an algorithmic stablecoin called Terra
+crashed, portending worse. Jiageng Liu, Igor Makarov & An-
+toinette Schoar, Anatomy of a Run: The Terra Luna Crash
+(Nat’l Bureau of Econ. Rsch., Working Paper No. 31160,
+2023). Depressed crypto prices eventually contributed to the
+
+
+
+
+                                15
+collapse of FTX, a crypto exchange that turned out to be a
+fraud. Max Zahn, A Timeline of Cryptocurrency Exchange
+FTX’s Historic Collapse, ABC News (Mar. 28, 2024),
+https://perma.cc/YCN9-K9DJ.
+    Suddenly, the crypto mania took on a darker tone, and the
+SEC changed its tune. In September 2022, when crypto prices
+were down about 70% from their peak, Chairman Gary Gensler
+stated: “Of the nearly 10,000 tokens in the crypto market, I be-
+lieve the vast majority are securities.” Gary Gensler, Chair,
+Sec. & Exch. Comm’n, Kennedy and Crypto (Sept. 8, 2022);
+see also Crypto Total Market Cap, $, TradingView,
+https://perma.cc/2Y5B-5DWK (showing decline in crypto
+prices); Global Cryptocurrency Market Cap Charts,
+CoinGecko, https://www.coingecko.com/en/global-charts.
+   In the two years since the FTX crash, the SEC has pursued
+a new and aggressive enforcement campaign against crypto:
+   • Chairman Gensler doubled down: “Everything other than
+     bitcoin …. [T]hese tokens are securities.” Ankush Khar-
+     dori, Can Gary Gensler Survive Crypto Winter?, N.Y.
+     Mag. (Feb. 23, 2023), https://perma.cc/J5ZB-RRWM.
+   • Then the SEC investigated a stablecoin. Paxos Issues State-
+     ment, Paxos (Feb. 13, 2023), https://perma.cc/QF9S-G7B7.
+   • Then it investigated developers who use Ethereum, the
+     blockchain for Ether. Jeff John Roberts, Ethereum Wins a
+     Major Battle Against the SEC, but Gensler’s War Rages On,
+     Yahoo! Fin. (June 21, 2024), https://perma.cc/2SZ6-5LF2.
+   • And it launched suits against crypto exchanges, arguing
+     that they list securities. See Jinwan Cho, Cryptocurrency
+
+
+
+
+                              16
+    Under the Gavel: The Implications of SEC Lawsuits
+    Against Binance and Coinbase, Colum. Sci. & Tech. L.
+    Rev. (Mar. 3, 2024), https://perma.cc/M24W-9R3P.
+   C. Now the SEC refuses to take a clear stance
+   The surge in enforcement prompted many in the crypto
+market to seek clearer guidance from the SEC about how
+crypto would be regulated. One can hardly blame them. Con-
+sider a few examples of the SEC’s contradictory signals:
+   • The SEC sued two exchanges, Coinbase and Binance, one
+     day apart. Betraying internal inconsistency, it named six
+     crypto assets as securities in the Coinbase suit that Binance
+     also lists, but without targeting them in the Binance suit.
+     Conversely, it named three tokens in the Binance suit that
+     Coinbase also lists, without targeting them in the Coin-
+     base suit. Compare Compl. ¶ 114, SEC v. Coinbase, Inc.,
+     No. 23-cv-4738 (S.D.N.Y. June 6, 2023) (calling CHZ,
+     DASH, FLOW, ICP, NEAR, and NEXO securities)
+     (Coinbase Compl.), with Compl. ¶ 352, SEC v. Binance
+     Holdings Ltd., No. 23-cv-1599 (D.D.C. June 5, 2023)
+     (calling ATOM, COTI, and MANA securities) (Binance
+     Compl.). It is hard to explain the inconsistency. The SEC
+     did not have to sift through enormous amounts of assets
+     in either suit. When it sued Coinbase, it focused on only
+     fifteen of the hundred crypto assets listed on Coinbase.
+     And it picked out only ten of Binance’s. True, the SEC did
+     qualify the complaints by saying: “This includes, but is not
+     limited to,” before calling out specific assets by their trad-
+     ing symbols. Coinbase Compl. ¶ 114; Binance Compl. ¶
+
+
+
+
+                               17
+ 352. But it is confusing at best that the SEC called out dif-
+ ferent assets by name as securities in suits filed a day apart.
+• The SEC is not suing the issuers of these crypto assets, but
+  only the exchanges. And it is taking legal action only after
+  the exchanges list an asset that the SEC thinks is a security.
+• Some brokers, like eToro and Cumberland, have tried to
+  work with the SEC to broker crypto assets. They accepted
+  Chairman Gensler’s invitation to “come in and register,”
+  but after registering they were told that they could not
+  deal in any crypto assets except Bitcoin and Ether. Matt
+  Levine, The Trump Trades Worked, Bloomberg (Nov. 6,
+  2024), https://perma.cc/S3KM-PS72.
+• At oral argument in this very case, the SEC’s lawyer
+  refused to say whether Bitcoin and Ether are securities,
+  saying only that he was “not aware of the Commission
+  statement about the status of Bitcoin as a whole” and that
+  “there’s not an answer to [the] question” “whether Bitcoin
+  … is subject to the federal securities laws as part of an
+  investment contract.” Oral Arg. Tr. 24, 32. That evasive-
+  ness is puzzling. Earlier in the year, when the SEC approved
+  an exchange-traded fund that tracks the price of Bitcoin, the
+  agency seemed to say the opposite: that Bitcoin is a “non-
+  security commodity.” Gary Gensler, Chairman, SEC,
+  Statement on the Approval of Spot Bitcoin Exchange-
+  Traded Products (Jan. 10, 2024).
+
+
+
+
+                            18
+IV. THE SEC’S FOGGINESS DEPRIVES CRYPTO COMPANIES
+                  OF FAIR NOTICE
+
+    The SEC repeatedly sues crypto companies for not comply-
+ing with the law, yet it will not tell them how to comply. That
+caginess creates a serious constitutional problem; due process
+guarantees fair notice. “[R]egulated parties should know what
+is required of them so they may act accordingly ….” FCC v.
+Fox TV Stations, Inc., 567 U.S. 239, 253 (2012).
+    Usually, agency rulemaking is preferable to case-by-case
+enforcement because it clarifies the law ahead of time. “The
+function of filling in the interstices of the Act should be per-
+formed, as much as possible, through this quasi-legislative
+promulgation of rules to be applied in the future.” SEC v.
+Chenery Corp. (Chenery II), 332 U.S. 194, 202 (1947). But an
+agency may choose to pursue its aims through ex post enforce-
+ment rather than ex ante rulemaking. Id. Sometimes, a scalpel
+works better than a sledgehammer for those “specialized prob-
+lems” whose solutions cannot “be cast immediately into the
+mold of a general rule.” Id. For instance, in labor law, employ-
+ers’ circumstances vary so greatly that “[i]t is doubtful whether
+any generalized standard could be framed which would have
+more than marginal utility.” NLRB v. Bell Aerospace Co. Div.
+of Textron, Inc., 416 U.S. 267, 294 (1974). Ordinarily, the
+agency gets to choose which path to take. Id. (“[T]he choice
+between rulemaking and adjudication lies in the first instance
+within the Board’s discretion.”).
+   But while the APA lets agencies choose enforcement, the
+Constitution’s due-process requirements still protect defend-
+ants. Laws that punish and deter must meet due process’s
+
+
+
+
+                               19
+heightened notice requirements. “[T]he standards of due pro-
+cess” do not turn on “the simple label [Congress] chooses to
+fasten upon … its statute.” Giaccio v. Pennsylvania, 382 U.S.
+399, 402 (1966). They turn on what the law does. See, e.g.,
+Fox, 567 U.S. at 253–54 (applying the criminal law’s fair-notice
+requirements to an agency’s civil enforcement action). So due
+process’s heightened notice requirements apply not only to crim-
+inal laws, but also to others that seek only to punish and deter.
+    And the SEC is using the federal securities laws against the
+crypto industry to do just that. Its earlier enforcement actions
+against fraudsters sought to compensate victims. But now, in
+suing exchanges, the SEC has pursued injunctions, fines, and
+disgorgement. See, e.g., Coinbase Compl. at 99–100; Binance
+Compl. at 134–35. No victims are evident, yet the agency
+keeps seeking penalties. It targets not just fraudsters, but also
+the infrastructure on which much of the crypto industry relies.
+    To be sure, the SEC seeks regulatory penalties, which are
+usually called civil. But they are functionally criminal. They
+go beyond compensating victims to deter and punish. And
+when a defendant lacks notice of them, they cannot serve these
+purposes: one cannot deter or fairly blame the defendant who
+does not know what the law forbids. This is why Congress may
+create retroactive compensatory liability, but the “[r]etroactive
+imposition of punitive damages would raise a serious constitu-
+tional question.” Landgraf v. USI Film Prods., 511 U.S. 244,
+281 (1994) (emphasis added); accord Usery v. Turner Elkhorn
+Mining Co., 428 U.S. 1, 17 (1976) (“[W]e would nevertheless
+hesitate to approve the retrospective imposition of liability on any
+theory of deterrence or blameworthiness.” (citations omitted)).
+
+
+
+
+                                20
+     So the SEC’s haphazard enforcement strategy of targeting
+entities that are trying to follow the law does not give potential
+defendants the notice that due process requires. That is espe-
+cially true because the field is novel. The agency has offered
+no meaningful guidance on which crypto assets it views as secu-
+rities. The DAO Report gives guidance only about the clearest
+crypto assets: tokens that look just like stocks. But what about
+stablecoins, utility tokens, or even Bitcoin and Ether? Existing
+rules do not fit blockchain technology, but the SEC refuses to
+recognize this. Its official silence and contradictory unofficial
+signals breed uncertainty. Crypto issuers and exchanges are left to
+cross their fingers and pray that the agency does not fault them.
+    Yet that is cold comfort under the SEC’s current crypto
+enforcement strategy. As one financial journalist put it,
+through this strategy, SEC Chairman Gary Gensler is practi-
+cally saying: “I should be the main regulator of crypto, and as
+the main regulator my plan is mostly to ban it.” Matt Levine,
+Gary Gensler Wants to Regulate Crypto, Bloomberg (Sept. 8,
+2022), https://perma.cc/C8KX-DX6S.
+    If the SEC were to promulgate a rule banning crypto assets,
+it would surely face legal challenges. One might wonder if an
+agency whose mission is maintaining fair, orderly, and effi-
+cient markets is authorized to ban an emerging technology. See
+West Virginia v. EPA, 597 U.S. 697, 744 (2022) (Gorsuch, J.,
+concurring) (“[A]n agency must point to clear congressional
+authorization when it seeks to regulate a significant portion of
+the American economy ….” (internal quotation marks omit-
+ted)). So the SEC has sidestepped the rulemaking process by
+pursuing a de facto ban through enforcement instead. By com-
+bining regulatory uncertainty with unpredictable enforcement
+
+
+
+
+                                21
+against the infrastructure for trading crypto, it can get near-to-
+tal deterrence.
+    This case makes obvious the bind that defendants face. In
+its briefing, the best that the SEC could muster to guide parties
+is that a crypto asset is a security when “the facts and circum-
+stances” say so—in other words, when the Howey test says so.
+Resp’t’s Br. 26. But the crypto industry is confused about how
+the SEC thinks that test applies.
+   Coinbase filed this petition because it wanted to understand
+what the SEC considers a security and how to follow the law.
+Before listing a crypto asset, the company screens it using a
+questionnaire that tracks Howey’s four prongs. Coinbase
+Compl. ¶¶ 106–10. But until the company knows how the SEC
+applies the ill-fitting Howey test, it cannot always get it right.
+While the SEC was reviewing Coinbase’s petition, it sued
+Coinbase for listing unregistered securities. And it used Coin-
+base’s screening process as evidence that the company was on
+notice—after all, its survey proved that Coinbase knew about
+the Howey test. Id. If that is the reward for trying to comply
+with the SEC’s likely positions, then why try at all?
+    In this posture, Coinbase’s constitutional concern is prem-
+ature. As the SEC rightly points out, “fair notice is a defense
+that defendants may attempt to assert to enforcement in certain
+circumstances. [It is] not a basis for mandating rulemaking.”
+Resp’t’s Br. 40. This is a petition to review a denial of rule-
+making, not an appeal from an enforcement action, so the issue
+is not squarely before us. Rather than force the agency to make
+a rule, we order it to explain its decision not to. Indeed, a rule may
+
+
+
+
+                                 22
+not prove necessary to solve the notice problems here; the agency
+could just state its position on crypto assets unequivocally.
+    When courts confront such enforcement-by-surprise in future
+cases, they must bar penalties that were not reasonably foresee-
+able. Cf. Franklin v. Navient, Inc., 534 F. Supp. 3d 341, 347–
+48 (D. Del. 2021) (allowing compensatory damages but bar-
+ring civil penalties for actions that violated an unforeseeable
+change in the law). The SEC may not play gotcha, and Article
+III courts must ensure that the SEC plays fair.
+                          * * * * *
+     We properly remand to the SEC to explain itself; it should
+not give yet another poor explanation in an already-long line
+of them. New inventions create new fraud risks, and the agency
+needs to guard against them. But sporadically enforcing ill-
+fitting rules against crypto companies that are trying to follow
+the law goes way beyond fighting fraud. It targets a whole in-
+dustry and risks de facto banning it. On remand, the SEC must
+grapple with that problem.
+
+
+
+
+                               23
+

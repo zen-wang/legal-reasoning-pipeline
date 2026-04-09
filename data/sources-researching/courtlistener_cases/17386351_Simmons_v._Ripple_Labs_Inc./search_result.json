@@ -1,0 +1,134 @@
+{
+  "assignedTo": "Phyllis Jean Hamilton",
+  "assigned_to_id": 1346,
+  "attorney": [
+    "Ross Evan Pitcoff",
+    "Damien Jerome Marshall",
+    "Andrew Zenner Michaelson"
+  ],
+  "attorney_id": [
+    6447445,
+    6447446,
+    6447447
+  ],
+  "caseName": "Simmons v. Ripple Labs Inc.",
+  "case_name_full": "",
+  "cause": "28:1331 Fed. Question: Securities Violation",
+  "chapter": null,
+  "court": "District Court, N.D. California",
+  "court_citation_string": "N.D. Cal.",
+  "court_id": "cand",
+  "dateArgued": null,
+  "dateFiled": "2020-07-27",
+  "dateTerminated": "2020-08-21",
+  "docketNumber": "4:20-cv-05127",
+  "docket_absolute_url": "/docket/17386351/simmons-v-ripple-labs-inc/",
+  "docket_id": 17386351,
+  "firm": [
+    "The Law Offices of Ross Pitcoff, Ross Pitcoff Law",
+    "King & Spalding LLP",
+    "King & Spalding",
+    "Boies, Schiller & Flexner LLP"
+  ],
+  "firm_id": [
+    36952,
+    618442,
+    236019,
+    19924
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-04-13T05:38:20.144542Z",
+    "date_created": "2020-07-27T23:32:11.744004Z",
+    "score": {
+      "bm25": 2200.808
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "363196",
+  "party": [
+    "Bradley Garlinghouse",
+    "Daniel Simmons",
+    "Ripple Labs Inc.",
+    "XRP II, LLC"
+  ],
+  "party_id": [
+    9783411,
+    9783412,
+    9783413,
+    9783414
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/17386351/5/simmons-v-ripple-labs-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "ELECTRONIC SUMMONS ISSUED as to Bradley Garlinghouse, Ripple Labs Inc., XRP II LLC..(pne)",
+      "docket_entry_id": 136013993,
+      "document_number": 5,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-03-19",
+      "entry_number": 5,
+      "filepath_local": "recap/gov.uscourts.cand.363196/gov.uscourts.cand.363196.5.0.pdf",
+      "id": 140596508,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-04-13T05:38:20.130767Z",
+        "date_created": "2020-07-28T12:45:12.168310Z"
+      },
+      "pacer_doc_id": "035019522157",
+      "page_count": 2,
+      "short_description": "ECF Transfer In - converted docket entry",
+      "snippet": "                       Case\n                       Case4:20-cv-05127-PJH Document35 Filed\n                            1:20-cv-02236-ER Document   Filed03/18/20\n                                                              03/19/20 Page\n                                                                       Page11of\n                                                                             of22\n\nAO 440 (Rev. 06/12) Summons in a Civil Action\n\n\n                                      UNITED STATES D"
+    },
+    {
+      "absolute_url": "/docket/17386351/11/simmons-v-ripple-labs-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE OF APPEARANCE by Andrew Zenner Michaelson on behalf of Bradley Garlinghouse, Ripple Labs Inc., XRP II LLC..(Michaelson, Andrew)",
+      "docket_entry_id": 136014000,
+      "document_number": 11,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-07-01",
+      "entry_number": 11,
+      "filepath_local": "recap/gov.uscourts.cand.363196/gov.uscourts.cand.363196.11.0.pdf",
+      "id": 140596515,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-04-13T05:38:20.130767Z",
+        "date_created": "2020-07-28T12:45:12.360631Z"
+      },
+      "pacer_doc_id": "035019522180",
+      "page_count": 1,
+      "short_description": "Notice of Appearance",
+      "snippet": "        Case 4:20-cv-05127-PJH Document 11 Filed 07/01/20 Page 1 of 1\n\n\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\n                                              )\nSIMMONS,                                      )\n                                              )\n                           Plaintiff,         )\n                                              )\n                      v.                      )\n                                              ) Case No. 20-cv-2236 -ER\nRIPPLE"
+    },
+    {
+      "absolute_url": "/docket/17386351/12/simmons-v-ripple-labs-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE of Stipulation and Consent to Transfer Case to Northern District of California. Document filed by Bradley Garlinghouse, Ripple Labs Inc., XRP II LLC..(Marshall, Damien)",
+      "docket_entry_id": 136014002,
+      "document_number": 12,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-07-22",
+      "entry_number": 12,
+      "filepath_local": "recap/gov.uscourts.cand.363196/gov.uscourts.cand.363196.12.0.pdf",
+      "id": 140596517,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-04-13T05:38:20.130767Z",
+        "date_created": "2020-07-28T12:45:12.411910Z"
+      },
+      "pacer_doc_id": "035019522185",
+      "page_count": 2,
+      "short_description": "Notice (Other)",
+      "snippet": "              Case 4:20-cv-05127-PJH Document 12 Filed 07/22/20 Page 1 of 2\n\n\n\n\n 1\n                                   UNITED STATES DISTRICT COURT\n 2                                SOUTHERN DISTRICT OF NEW YORK\n 3\n     DANIEL SIMMONS, an individual                       Case No. 1:20-cv-2236-ER\n 4\n                                    Plaintiff,\n 5                                                       STIPULATION AND CONSENT TO\n                    v.                                   TRANSFER CASE"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

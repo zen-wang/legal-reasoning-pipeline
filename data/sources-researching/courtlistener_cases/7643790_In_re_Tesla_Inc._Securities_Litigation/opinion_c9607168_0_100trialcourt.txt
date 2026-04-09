@@ -1,0 +1,1461 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    IN RE TESLA, INC. SECURITIES     Case No.  18-cv-04865-EMC           
+     LITIGATION                                                           
+8                                                                         
+                                      FINAL PRETRIAL CONFERENCE           
+9                                     ORDER                               
+10                                                                         
+11                                                                         
+
+12                                                                         
+13                                                                         
+14                           I.   BACKGROUND                               
+15        The lead plaintiff and class representative in this case is Glen Littleton.  Mr. Littleton is an 
+16   investor who formerly traded for the Kansas City Board of Trade and the Chicago Mercantile 
+17   Exchange.  Mr. Littleton has traded Tesla, Inc. securities since 2015.  Mr. Littleton represents a 
+18   certified class (the “Class”) of all individuals and entities who purchased or sold Tesla stock, 
+19   options, and other securities from 12:48 p.m. EST on August 7, 2018 to August 17, 2018 (the 
+20   “Class Period”), and allegedly were damaged thereby.                  
+21        The defendants in this case are Tesla, Inc., Elon Musk, Brad W. Buss, Robyn Denholm, Ira 
+22   Ehrenpreis, Antonio J. Gracias, James Murdoch, Kimbal Musk, and Linda Johnson Rice 
+23   (collectively, “Defendants”).  Elon Musk (“Musk”) was Tesla’s Chief Executive Officer and 
+24   Chairman of the Board of Directors during the Class Period.  Brad W. Buss, Robyn Denholm, Ira 
+25   Ehrenpreis, Antonio J. Gracias, James Murdoch, Kimbal Musk, and Linda Johnson Rice each 
+26   served as a director of Tesla’s Board during the Class Period.  Defendant Denholm replaced Mr. 
+27   Musk as Tesla’s Chairman of the Board in November 2018.               
+1        Plaintiff intends to prove at trial that Mr. Musk and Tesla violated Sections 10(b) of the 
+2   Securities Exchange Act of 1934 (15 U.S.C. §§ 78j, 78t) and SEC Rule 10b-5(b) (17 C.F.R. 
+3   § 240.10b-5) promulgated thereunder.  Specifically, on August 7, 2018, at 9:48 a.m. PST, Mr. 
+4   Musk tweeted the following message to over 22 million followers: “Am considering taking Tesla 
+5   private at $420. Funding secured.” Musk made additional, subsequent tweets about the potential 
+6   transaction including: “Investor support is confirmed. Only reason why this is not certain is that 
+7   it’s contingent on a shareholder vote.”  The Court will refer to these two tweets on August 7 as the 
+8   Musk Tweets.  On April 1, 2022, the Court issued an order granting in part Plaintiff’s motion for 
+9   partial summary judgment regarding these statements, finding certain statements were false and 
+10   that scienter—recklessness—had been established as a matter of law.  See Docket No. 387 
+11   (Summary Judgment Order).                                             
+12        Further, Plaintiff alleges that these tweets were material and artificially affected the price 
+13   of Tesla’s stock and other securities immediately after they were made.  Defendants contend that 
+14   Plaintiff has not and cannot prove that any of Mr. Musk’s statements were materially false, and 
+15   that these statements regarding secured funding, as opposed to Mr. Musk’s statement that he 
+16   planned to take Tesla private at $420 per share, did not result in any artificial price inflation.  The 
+17   parties dispute the materiality and significance of an August 13, 2018 “update” contained in a blog 
+18   post from Mr. Musk regarding the potential going private transaction.   
+19        Following the tweets on August 7, 2018, there was intense media and investor scrutiny of 
+20   the proposed going-private transaction.  After reaching a high of $386.48 on August 7, 2018, 
+21   Tesla’s stock price declined to $335.45 by close on August 16, 2018.  On August 17, 2018, The 
+22   New York Times published an article based on a lengthy interview with Musk and others, which 
+23   included a statement by the reporter that funding for a Tesla take-private “was far from secure.” 
+24   Plaintiff alleges that The New York Times article corrected the false and/or materially misleading 
+25   information previously disseminated by Defendants about the going-private transaction and, as a 
+26   result, finally dissipated the artificial impact on the prices of Tesla stock and other securities. 
+27   Defendants disagree and argue that the article did not disclose any new information regarding the 
+1        Plaintiff intends to prove that Defendants’ false statements were materially misleading and 
+2   damaged Plaintiff and the Class (i.e., caused economic losses) and that losses were realized by the 
+3   Class during the Class Period.  Plaintiff further intends to prove that the members of Tesla’s Board 
+4   are liable under Section 20(a) of the Securities Exchange Act of 1934 (15 U.S.C. § 78t) as control 
+5   persons for securities laws violations by Tesla.                      
+6        Defendants deny liability and intend to prove at trial that Plaintiff’s claims have no merit.  
+7   Among other things, Defendants intend to prove that Plaintiff and the Class cannot prove the 
+8   material falsity of the challenged statements or reliance thereon; cannot prove the challenged 
+9   statements were material; cannot prove that Mr. Musk acted with the requisite scienter with 
+10   respect to a materially false statement; cannot show damages or loss causation; and cannot show 
+11   that there is control person liability.                               
+12                  II.   TRIAL DATE & LENGTH OF TRIAL                     
+13        Jury selection shall take place on January 17, 2023, beginning at 8:30 a.m.  Counsel shall 
+14   be present in the Courtroom at 8:00 a.m.                              
+15        The jury trial shall begin on January 17, 2023, immediately following the conclusion of 
+16   jury selection.  Trial shall last from 8:30 a.m. to 1:30 p.m. on each day, except for Thursdays, 
+17   which are dark.  On all trial days counsel shall be present in the Courtroom at 8:00 a.m. to discuss 
+18   any matters requiring resolution prior to commencement of trial at 8:30 a.m. 
+19        The trial shall last for approximately ten days: from January 17, 2023, to February 1, 2023.  
+20   The ten allotted trial days will include jury selection.  Each party will be given eighteen hours to 
+21   present their case.  This includes time examining witnesses (whether on direct or cross), and 
+22   opening statements and closing arguments.                             
+23        The Court will hold a second pretrial conference by Zoom on January 4, 2023, at 10:00 
+24   a.m.                                                                  
+25           III.  ADVANCED NOTICE OF WITNESSES AND EXHIBITS               
+26        Each party shall provide 48 hours/two court days in advance for notice of witnesses and 
+27   exhibits to be called each day.  The Court reserves the authority to exclude witness for non-
+1        All objections to witnesses and exhibits must be filed with the Court at least one court day 
+2   (24 hours) before the witness is scheduled to testify.  The Court will address objections before 
+3   8:30 a.m. on the following day.  All objections should be provided in writing and filed with the 
+4   Court, and a courtesy copy should be given to chambers immediately.  The courtesy copy should 
+5   be provided electronically to the Courtroom Deputy and should include a version of the objections 
+6   in Microsoft Word as well as PDF.                                     
+7        Should a party fail to have enough witnesses to complete the trial day, the Court shall 
+8   charge the surplus time remaining on that day against the party’s total allotted time.  For instance, 
+9   if a party concludes a witness’s examination with an hour remaining in the day and is not prepared 
+10   to call another witness, then the Court will subtract that hour from the party’s allotted eighteen 
+11   hours.                                                                
+12                           IV.   WITNESSES                               
+13   A.   Plaintiff                                                        
+14        Mr. Littleton has identified the following individuals as witnesses that he may call in his 
+15   case-in-chief.                                                        
+16          (1)  Deepak Ahuja.  Mr. Ahuja will testify regarding, among other things, his 
+17               experience as Tesla’s Chief Financial Officer, his reaction to the August 7, 
+18               2018 tweets, discussions with investors regarding the potential going private, 
+19               his attendance at Tesla board meetings, and his involvement with the August 7, 
+20               2018 blog post.                                           
+21          (2)  Dave Arnold.  Mr. Arnold will testify regarding, among other things, to his 
+22               experience as Tesla’s Senior Director of Global Communications, in particular, 
+23               his conversations with various investors and news outlets following Mr. Musk’s 
+24               tweets on August 7, 2018, his familiarity with the topics of public reporting 
+25               regarding the August 7 tweets, his involvement in the drafting of the August 7, 
+26               2018 letter to Tesla employees and the August 13 blog post, and his practice of 
+27               escalating critical media inquiries and press coverage to Mr. Musk, the Tesla 
+1          (3)  Ryan Brinkman (by deposition).  Mr. Brinkman will testify regarding, among 
+2               other things, his professional background and experience as an analyst at 
+3               JPMorgan, the market’s response to Defendants’ statements on August 7 and 
+4               13, 2018, and considerations behind his decision to initially increase, and later 
+5               reduce, JPMorgan’s price target for Tesla stock.          
+6          (4)  Brad Buss.  Mr. Buss will testify regarding, among other things, his experience 
+7               as a member of Tesla’s Board of Directors, the Board’s consideration and 
+8               discussion of Mr. Musk’s proposal to take Tesla private, Mr. Musk’s use of 
+9               Twitter as a means of Tesla marketing, and Tesla’s implementation of a 
+10               disclosure policy relating to Mr. Musk’s Twitter usage.  Mr. Buss is a defendant 
+11               in this case.                                             
+12          (5)  Aaron Chew.  Mr. Chew will testify regarding, among other things, his 
+13               experience as Tesla’s Senior Director of Investor Relations in the summer of 
+14               2018, investor feedback on Musk’s use of Twitter generally and in particular in 
+15               August of 2018, his interactions with NASDAQ on August 7, 2018, his 
+16               correspondence with Tesla investors regarding the August 7, 2018 tweets, and 
+17               feedback regarding the proposed going private.            
+18          (6)  Dan Dees (by deposition).  Mr. Dees will testify regarding, among other things, 
+19               his professional background and experience at Goldman Sachs Group Inc. (GS) 
+20               and, in particular, his interactions with Mr. Musk, the Tesla Board, Silver Lake 
+21               Partners, and others concerning the proposed take-private transaction, GS’s role 
+22               and engagement as financial advisor, and GS’s outreach to potential sources of 
+23               funding after Mr. Musk’s August 7, 2018 tweets.           
+24          (7)  Robyn Denholm.  Ms. Denholm will testify regarding, among other things, her 
+25               experience as a member of Tesla’s Board of Directors, the Board’s 
+26               consideration and discussion of Mr. Musk’s proposal to take Tesla private, her 
+27               role and experience as a member of Tesla’s audit committee and the Special 
+1               knowledge of Mr. Musk’s use of Twitter, the Board’s knowledge of Mr. 
+2               Musk’s use of Twitter, and Tesla’s implementation of a disclosure policy 
+3               relating to Mr. Musk’s Twitter usage.  Ms. Denholm is a defendant in this case. 
+4          (8)  Egon Durban.   Mr. Durban will testify regarding, among other things, his 
+5               professional background and experience as one of Silver Lake Partner’s 
+6               managing partners, his interactions with Mr. Musk and others concerning the 
+7               proposal to take Tesla private at $420 per share, the work that Silver Lake 
+8               performed in connection with the going private, and Silver Lake’s presentation 
+9               to the Tesla board on August 23.                          
+10          (9)  Joseph Fath (by deposition).  Mr. Fath will testify regarding, among other 
+11               things, his professional background and experience as a portfolio manager at T. 
+12               Rowe Price, his and T. Rowe Price’s response to Defendants’ statements on 
+13               August 7 and 13, 2018, T. Rowe Price’s ability to invest in Tesla if the 
+14               proposed going-private transaction were to have occurred, and his meeting with 
+15               Mr. Musk to discuss concerns about Mr. Musk’s Twitter use. 
+16          (10)  Timothy Fries.  Mr. Fries will testify regarding, among other things, his reasons 
+17               for investing in Tesla, his response to Defendants’ statements on August 7 and 
+18               13, 2018, and the losses he suffered in Tesla securities due to Mr. Musk and 
+19               Tesla’s false statements.                                 
+20          (11)  Antonio Gracias.  Mr. Gracias will testify regarding, among other things, his 
+21               Valor fund’s investment in Tesla and Valor’s involvement with Tesla, the 
+22               nature of his relationship with Mr. Musk, his role and experience as a member 
+23               of Tesla’s audit committee, his knowledge of Musk’s use of Twitter, the 
+24               Board’s knowledge of Musk’s use of Twitter and the economic benefits to 
+25               Tesla derived from it, and the Board’s consideration and discussion of Mr. 
+26               Musk’s proposal to take Tesla private.  Mr. Gracias is a defendant. 
+27          (12)  Michael Hartzmark (expert).   Dr. Hartzmark will testify regarding the opinions 
+1               2021, including the price and trading of Tesla’s securities during the Class 
+2               Period and the amount of inflation/deflation and damages allegedly caused by 
+3               Defendants’ statements on August 7 and 13, 2018.          
+4          (13)  Steven Heston (expert).  Professor Steven Heston will testify regarding the 
+5               opinions set forth in his expert report dated November 8, 2021, including, 
+6               various pricing models and principles concerning option securities, the changes 
+7               in the prices and implied volatilities of Tesla options during and around the 
+8               Class Period, and methods for measuring the impact on Tesla option prices as a 
+9               result of the alleged misstatements.                      
+10          (14)  Nii Owuraka Koney (by deposition).  Mr. Koney will testify regarding, among 
+11               other things, his professional background and experience as an analyst at 
+12               Jennison, Mr. Musk’s prior interest in taking Tesla private, the market’s 
+13               response to Defendants’ statements on August 7 and 13, 2018, and his 
+14               communications with Tesla’s investor relations regarding the potential going 
+15               private.                                                  
+16          (15)  Plaintiff Glen Littleton.  Mr. Littleton will testify regarding, among other 
+17               things, his personal and professional background, including his reasons for 
+18               investing in Tesla, his response to Defendants’ statements on August 7 and 13, 
+19               2018, and the losses he suffered in Tesla securities due to Musk and Tesla’s 
+20               false statements.                                         
+21          (16)  Joshua Mitts (expert).  Professor Mitts will testify regarding the opinions set 
+22               forth in his expert report dated November 8, 2021, including the market 
+23               conditions for Tesla stock at and around August 2018, the short interest in Tesla 
+24               common stock, and Musk’s conduct and public statements with regard to short 
+25               investors in Tesla.                                       
+26          (17)  Elon Musk.  Mr. Elon Musk will testify regarding, among other things, his 
+27               desire to take Tesla private, with whom he had discussed taking Tesla private 
+1               August 7, 2018 concerning his proposal to take Tesla private at $420 per share, 
+2               including his conversations with the Saudi PIF and Tesla’s Board of Directors, 
+3               his outreach to Tesla institutional investors after the August 7, 2018 tweets, his 
+4               usage of Twitter both before and after the August 7, 2018 tweets, the August 
+5               13, 2018 blog post, and practices concerning public announcements of past 
+6               deals.                                                    
+7          (18)  Kimbal Musk.  Mr. Kimbal Musk will testify regarding, among other things, his 
+8               relationship with his brother Elon, his knowledge of his brother’s desire to take 
+9               Tesla private, his experience as a member of Tesla’s Board of Directors, the 
+10               Board’s consideration and discussion of Mr. Musk’s proposal to take Tesla 
+11               private, and his communications about Musk’s tweets on August 7, 2018. 
+12          (19)  Rick Polhemus (by deposition).  Mr. Polhemus will testify regarding, among 
+13               other things, his professional background and experience at Morgan Stanley 
+14               and, in particular, his work in investment banking, capital raises for Tesla 
+15               including Tesla’s IPO, periodic discussions with Tesla’s CFO regarding the 
+16               company’s capital needs, his response as well as Morgan Stanley’s response to 
+17               the potential going private transaction, and Morgan Stanley’s involvement with 
+18               the going private transaction.                            
+19          (20)  Guhan Subramarian (expert).  Professor Subramanian will testify regarding the 
+20               opinions set forth in his expert report dated November 8, 2021, including 
+21               customary practices and procedures in management buyouts as well as his 
+22               experience with the Dell Inc. buyout, that Mr. Musk’s conduct with respect to 
+23               the proposed going private transaction allegedly deviated from ordinary 
+24               practices in the industry, and that the proposal to take Tesla private was inter 
+25               alia illusory.                                            
+26          (21)  Martin Viecha.  Mr. Viecha will testify regarding, among other things, his 
+27               experience as Tesla’s Director of Investor Relations and his conversations with 
+1   B.   Defendants                                                       
+2        Defendants have identified the following individuals as witnesses that they may call in 
+3   their case-in-chief or cross-examine.                                 
+4          (1)  Elon Musk.  Mr. Musk, who is also listed on Plaintiff’s witness list, will testify 
+5               regarding, among other things, the statements at issue in this case and 
+6               background related thereto; facts related to the materiality of  the statements 
+7               challenged by Plaintiff, and to whether those statements altered the total mix of 
+8               information available, including relative to the events that took place between 
+9               July 31, 2018 and August 17, 2018; the potential go-private transaction and 
+10               communications related thereto; facts related to the capacity in which Mr. Musk 
+11               acted when he made communications, including the statements challenged by 
+12               Plaintiff; facts related to the board’s good faith; and facts related to whether the 
+13               board directly or indirectly controlled Mr. Musk’s Twitter account. 
+14          (2)  Sam Teller.  Mr. Teller is Tesla’s former Director of the Office of the CEO.  
+15               Defendants expect that Mr. Teller will testify regarding the statements at issue 
+16               in this case and background related thereto; facts related to the materiality of 
+17               the statements challenged by Plaintiff, and to whether those statements altered 
+18               the total mix of information available, including relative to the events that took 
+19               place between July 31, 2018 and August 17, 2018; and the potential go-private 
+20               transaction and communications related thereto.           
+21          (3)  Deepak Ahuja.  Mr. Ahuja also appears on Plaintiff’s witness list.  Mr. Ahuja is 
+22               Tesla’s former Chief Financial Officer.  Defendants expect that Mr. Ahuja will 
+23               testify regarding, among other things, the statements at issue in this case and 
+24               background related thereto; facts related to the materiality of the statements 
+25               challenged by Plaintiff, and to whether those statements altered the total mix of 
+26               information available, including relative to the events that took place between 
+27               July 31, 2018 and August 17, 2018; and the potential go-private transaction and 
+1          (4)  Robyn Denholm.  Ms. Denholm is also on Plaintiff’s witness list.  She is a 
+2               member of Tesla’s Board of Directors.  Ms. Denholm will testify regarding, 
+3               among other things, her experience as a member of Tesla’s Board of Directors, 
+4               Mr. Musk’s communications with the board regarding the potential go-private 
+5               transaction, board meetings and communications regarding the potential go-
+6               private transaction, facts related to whether the Board of Directors directly or 
+7               indirectly controlled Mr. Musk’s Twitter account, and facts related to whether 
+8               the Board of Directors acted in good faith.               
+9          (5)  Ira Ehrenpreis.  Mr. Ehrenpreis is a member of Tesla’s Board of Directors.  Mr. 
+10               Ehrenpreis will testify regarding, among other things, his experience as a 
+11               member of Tesla’s Board of Directors, Mr. Musk’s communications with the 
+12               board regarding the potential go-private transaction, board meetings and 
+13               communications regarding the potential go-private transaction, facts related to 
+14               whether the Board of Directors directly or indirectly controlled Mr. Musk’s 
+15               Twitter account, and facts related to whether the Board of Directors acted in 
+16               good faith.                                               
+17          (6)  James Murdoch.  Mr. Murdoch is a member of Tesla’s Board of Directors.  Mr. 
+18               Murdoch will testify regarding, among other things, his experience as a member 
+19               of Tesla’s Board of Directors, Mr. Musk’s communications with the board 
+20               regarding the potential go-private transaction, board meetings and 
+21               communications regarding the potential go-private transaction, facts related to 
+22               whether the Board of Directors directly or indirectly controlled Mr. Musk’s 
+23               Twitter account, and facts related to whether the Board of Directors acted in 
+24               good faith.                                               
+25          (7)  Kimball Musk.  Mr. Musk is also listed on Plaintiff’s witness list.  Mr. Musk 
+26               will testify regarding, among other things, the statements at issue in this case 
+27               and background related thereto; facts related to the materiality of the statements 
+1               information available, including relative to the events that took place between 
+2               July 31, 2018 and August 17, 2018; the potential go-private transaction and 
+3               communications related thereto; facts related to the capacity in which Mr. Musk 
+4               acted when he made  communications, including the statements challenged by 
+5               Plaintiff; facts related to the Board of Directors’ good faith; and facts related to 
+6               whether the Board of Directors directly or indirectly controlled Mr. Musk’s 
+7               Twitter account.                                          
+8          (8)  Antonio Gracias.  Mr. Gracias is a former member of Tesla’s Board of 
+9               Directors.  Mr. Gracias will testify regarding, among other things, his 
+10               experience as a member of Tesla’s Board of Directors, Mr. Musk’s 
+11               communications with the board regarding the potential go-private transaction, 
+12               board meetings and communications regarding the potential go-private 
+13               transaction, facts related to whether the Board of Directors directly or 
+14               indirectly controlled Mr. Musk’s Twitter account, and facts related to whether 
+15               the Board of Directors acted in good faith.               
+16          (9)  Brad Buss.  Mr. Buss is also on Plaintiff’s witness list.  Mr. Buss is a former 
+17               member of Tesla’s Board of Directors.  Mr. Buss will testify regarding, among 
+18               other things, his experience as a member of Tesla’s Board of Directors, Mr. 
+19               Musk’s communications with the board regarding the potential go-private 
+20               transaction, board meetings and communications regarding the potential go-
+21               private transaction, facts related to whether the Board of Directors directly or 
+22               indirectly controlled Mr. Musk’s Twitter account, and facts related to whether 
+23               the Board of Directors acted in good faith.               
+24          (10)  Linda Johnson Rice.  Ms. Johnson Rice is a former member of Tesla’s Board of 
+25               Directors.  Ms. Johnson Rice will testify regarding, among other things, her 
+26               experience as a member of Tesla’s Board of Directors, Mr. Musk’s 
+27               communications with the board regarding the potential go-private transaction, 
+1               transaction, facts related to whether the Board of Directors directly or indirectly 
+2               controlled Mr. Musk’s Twitter account, and facts related to whether the Board 
+3               of Directors acted in good faith.                         
+4          (11)  Larry Ellison.  Mr. Ellison is a former member of Tesla’s Board of Directors.  
+5               Defendants expect that Mr. Ellison will testify regarding the potential go-
+6               private transaction and communications related thereto.   
+7          (12)  JB Straubel.  Mr. Straubel is a Tesla co-founder and its former Chief 
+8               Technology Officer.  Defendants expect that Mr. Straubel will testify regarding, 
+9               among other things, the potential go-private transaction and communications 
+10               related thereto.                                          
+11          (13)  Egon Durban.  Mr. Durban is also listed on Plaintiff’s witness list.  He is a 
+12               Managing Partner at Silver Lake Partners.  Defendants expect that Mr. Durban 
+13               will testify regarding, among other things, the potential go-private transaction 
+14               and communications related thereto.                       
+15          (14)  Dan Dees.  Mr. Dees is also listed on Plaintiff’s witness list (by deposition).  He 
+16               is Co-Head of Global Investment Banking at Goldman Sachs.  Defendants 
+17               expect that Mr. Dees will testify regarding, among other things, the potential 
+18               go-private transaction and communications related thereto. 
+19          (15)  Rick Polhemus.  Mr. Polhemus is also listed on Plaintiff’s witness list (by 
+20               deposition).  He is a Managing Director at Morgan Stanley.  Defendants expect 
+21               that Mr. Polhemus will testify regarding, among other things, the potential go-
+22               private transaction and other transactions and communications related thereto. 
+23          (16)  Daniel Fischel (expert).  Defendants expect Mr. Fischel will testify, among 
+24               other things, that Mr. Musk’s actions in August 2018 were consistent with his 
+25               prior-stated interest in taking Tesla private and in protecting investors who 
+26               believed in his vision, it was reasonable to believe that the proposed go-private 
+27               transaction would have been funded if it moved forward, the $420 potential 
+1               benefited from the fraud that Plaintiff alleges.  Mr. Fischel will also critique the 
+2               opinions of Dr. Hartzmark, Professor Mitts, and Professor Subramanian. 
+3          (17)  Amit Seru (expert).  Professor Seru has been identified as one of Defendants’ 
+4               expert witnesses, and his opinions are disclosed in his expert reports.  
+5               Defendants expect Professor Seru will testify, among other things, that 
+6               Professor Heston’s methodology for estimating damages to Tesla option 
+7               holders is fundamentally flawed in the context of a merger or acquisition deal, 
+8               and that Professor Heston’s other opinions are speculative, unsupported by 
+9               academic literature, and fail to use actual prices to measure damages.  
+10               Defendants expect Professor Seru will testify, among other things, that Dr. 
+11               Hartzmark’s implementation of Professor Heston’s methodology is similarly 
+12               speculative, unreliable, and inaccurate.                  
+13          (18)  Yasir Al-Rumayyan.  Mr. Al-Rumayyan is the Governor of the PIF, the 
+14               sovereign wealth fund of the Kingdom of Saudi Arabia.  Defendants expect that 
+15               Mr. Al-Rumayyan will testify regarding the potential go-private transaction and 
+16               communications related thereto.                           
+17          (19)  Saad Al Jarboa.  Mr. Al Jarboa is employed by the PIF.  Defendants expect that 
+18               Mr. Al Jarboa will testify regarding the potential go-private transaction and 
+19               communications related thereto.                           
+20          (20)  Naif Al Mogren.  Mr. Al Mogren is employed by the PIF.  Defendants expect 
+21               that Mr. Al Mogren will testify regarding the potential go-private transaction 
+22               and communications related thereto.                       
+23          (21)  Turqi Alnowaiser.  Mr. Alnowaiser is employed by the PIF.  Defendants expect 
+24               that Mr. Alnowaiser will testify regarding the potential go-private transaction 
+25               and communications related thereto.                       
+26          (22)  Glen Littleton.   Mr. Littleton is the Class Plaintiff.  Defendants plan to cross-
+27               examine Mr. Littleton.                                    
+1          (23)  Guhan Subramanian.  Professor Subramanian has been identified as one of 
+2               Plaintiff’s expert witnesses.  Defendants plan to cross-examine Professor 
+3               Subramanian.                                              
+4          (24)  Joshua Mitts.  Professor Mitts has been identified as one of Plaintiff’s expert 
+5               witnesses.  Defendants plan to cross-examine Professor Mitts.   
+6          (25)  Steven Heston.  Dr. Heston has been identified as one of Plaintiff’s expert 
+7               witnesses.  Defendants plan to cross-examine Dr. Heston.  
+8          (26)  Michael Hartzmark.  Dr. Hartzmark has been identified as one of Plaintiff’s 
+9               expert witnesses.  Defendants plan to cross-examine Dr. Hartzmark. 
+10          (27)  Timothy Fries.  Mr. Fries is on Plaintiff’s witness list.  Defendants plan to 
+11               cross-examine Mr. Fries.                                  
+12          (28)  Dave Arnold.  Mr. Arnold is on Plaintiff’s witness list.  Defendants plan to 
+13               cross-examine Mr. Arnold.                                 
+14          (29)  Martin Viecha.  Mr. Viecha is on Plaintiff’s witness list.  Defendants plan to 
+15               cross-examine Mr. Viecha.                                 
+16          (30)  Aaron Chew (by deposition).  Mr. Chew is on Plaintiff’s witness list.  
+17               Defendants plan to cross-examine Mr. Chew.                
+18          (31)  Ryan Brickman (by deposition).  Mr. Brinkman is on Plaintiff’s witness list.  
+19               Defendants plan to cross-examine Mr. Brinkman.            
+20          (32)  Joshua Fath (by deposition).  Mr. Fath is on Plaintiff’s witness list.  Defendants 
+21               plan to cross-examine Mr. Fath.                           
+22          (33)  Nii Owuraka Koney (by deposition).  Mr. Koney is on Plaintiff’s witness list.  
+23               Defendants plan to cross-examine Mr. Koney.               
+24   ///                                                                   
+25   ///                                                                   
+26   ///                                                                   
+27   ///                                                                   
+    1                        V.      THE AUGUST 13, 2018 BLOG POST 
+    2          In addition to the Musk Tweets, Plaintiff alleges that the August 13, 2018 blog post 
+    3  || contains fraudulent statements in violation of federal securities laws.  In particular, Plaintiff 
+    4    alleges that the portion of the blog post featured below is misleading because it omits information 
+    5    regarding interactions that Mr. Musk had with the Saudi PIF in the days following August 7, 2018. 
+    6 
+         Why did | say “funding secured”? 
+    7      30ing  back  almost two  years, the  Saudi  Arabian  sovereign  wealth fund  has  approached  me 
+
+   10     has more than  enough   capital  needed to  execute on such  a  transactior 
+
+a    12     mine meeting  the nie GING Directo   f the fund ERIS  regret tn a  naa  not   moved  □ 
+    13     support for   funding a  going  private transaction  for  Tesla  at this time. |  understood  from 
+ a          him that no  other  decision  makers  were needed and   that they  were eager  to  proceed. 
+    I           
+ Oo           eft the  July  31st meeting   with  no  question  that a  deal  with  the  Saudi  sovereign  fund 
+ 5          referred to  “funding  secured”  in the August  7th  annc  1¢ ement            
+   16 
+
+      17          Under this omission theory of liability, Plaintiff contends that Mr. Musk’s characterization 
+
+2   18    of the likelihood of the privatization transaction occurring as of August 7 is at odds with the actual 
+   19    state of affairs given his text exchange with Yassir al-Rumayyan of the Saudi PIF on August 12 
+   20    telling him that the Saudi PIF’s opportunity to invest was “over.”  Ex. 121.!  By omitting 
+   21    information regarding the apparent deterioration of his relationship with the Saudi PIF, Mr. Musk 
+   22 || misled investors and the market into believing that the privatization transaction was still on the 
+   23    table. 
+   24          Defendants object that this theory is both procedurally and substantively untenable.  See 
+   25    Docket No. 504.  Because the Court finds that Plaintiff failed to plead or timely disclose this 
+   26    theory of liability, the Court concludes that this theory is precluded from trial and does not 
+   27 
+   28    ' Unless otherwise noted, the cited exhibits may be found at Docket Nos. 453 and 485. 
+
+1   consider Defendants’ arguments on the merit.                          
+2        Under the Private Securities Litigation Reform Act (“PSLRA”) and the Court’s Standing 
+3   Order, Plaintiff was required to disclose all allegedly misleading statements and omissions along 
+4   with “the reason or reasons why the statement is misleading” at the pleadings stage.  See 15 U.S.C. 
+5   § 78u—4(b)(1)(B); Civil Standing Order R. 10.  Plaintiff did not do so.  Plaintiff cited the August 
+6   13 blog post in his complaint and included portions of the blog post in the addendum, but he did 
+7   not allege that the blog post was misleading because of the near-breakdown of communications 
+8   between Mr. Musk and the PIF.                                         
+9        During the pretrial conference, Plaintiff acknowledged that this theory was not specifically 
+10   alleged in the pleadings, but claimed that he had sufficiently disclosed this theory of liability to 
+11   Defendants during discovery and pretrial proceedings and, in particular, within his responses to 
+12   Defendants’ contention interrogatories.  After reviewing the relevant portions of the interrogatory 
+13   responses, the Court disagrees.  While the interrogatory responses assert that “the August 13 blog 
+14   post” was misleading because of, inter alia, the breakdown between Mr. Musk and the Saudi PIF, 
+15   Plaintiff did not allege that the specific statements from the blog post quoted above were 
+16   actionable under that theory.  See Docket No. 503-1 (Plaintiff’s Interrogatory Responses) at 6, 8–
+17   9.  Instead, the interrogatory response broadly contended that “the August 13 blog post left 
+18   investors with a misleading impression of the nature and status of Musk’s proposal to take Tesla 
+19   private at $420 per share as well as misrepresented the status of Musk and Tesla’s discussions 
+20   with the Saudi Arabia Public Investment Fund and other existing and potential investors.”  Id. at 8 
+21   (capitalization altered for clarity).  It was inadequate for Plaintiff to generally allege that the entire 
+22   blog post—which is fourteen paragraphs long and spans three pages of the Consolidated 
+23   Complaint—supported this theory of liability.  See Docket No. 184 at 24–26.  The failure to 
+24   articulate particular statements within the blog post which supported Plaintiff’s theory runs 
+25   counter to the heightened pleading requirements of the PSLRA and the Court’s Standing Order 
+26   which require that the plaintiff’s complaint “specify each statement alleged to have been 
+27   misleading” and “the reason or reasons why the statement is misleading,” among other things.  See 
+1   allegedly fraudulent statement or omission and the reason why the statement was false or 
+2   misleading).  Notably, in July, Plaintiff argued that this same interrogatory response purportedly 
+3   put Defendants on notice of this particular omissions theory with respect to a different statement in 
+4   the blog post.  See Docket No. 452-1 at 3–5 (arguing that blog post statement “I have continued to 
+5   communicate with the Managing Director of the Saudi fund . . .” was misleading in part because 
+6   Mr. Musk omitted facts regarding the alleged deterioration of his relationship with the Saudi PIF).  
+7   Further, without linking the particular statement asserted here—“I left the July 31 meeting with no 
+8   question that a deal with the Saudi fund could be closed . . .”—to this particular theory of liability, 
+9   Plaintiff did not sufficiently disclose this theory to Defendants.  To find otherwise would be an 
+10   end-run around the PSLRA.  Cf. 15 U.S.C. § 78u—4(b)(1)(B) (requiring that “the complaint shall 
+11   specify each statement alleged to have been misleading [and] the reason or reasons why the 
+12   statement is misleading”); see also In re Twitter, Inc. Sec. Litig., No. 16-cv-05314-JST, 2020 WL 
+13   4188787, at *4 (N.D. Cal. May 19, 2020) (precluding plaintiff from asserting statements as a basis 
+14   for liability at trial where plaintiffs failed to allege statements in complaint).  Such vague and 
+15   imprecise pleading cannot be squared with the heightened pleading requirements of the PSLRA.   
+16        In sum: because Plaintiff did not timely plead or disclose this theory of liability, he is 
+17   precluded from arguing that these statements from the August 13 blog post are independently 
+18   actionable under an omissions theory of liability.                    
+19                        VI.   MOTIONS IN LIMINE                          
+20   A.   Mr. Littleton’s Motions in Limine                                
+21        1.   Motion in Limine No. 2 (Docket No. 480)                     
+22        Plaintiff moves to preclude Defendants from introducing any undisclosed testimony, 
+23   opinion, or evidence from Professor Fischel or Professor Seru.2  Professor Fischel is Defendants’ 
+24   loss causation expert, while Professor Seru rebuts Professor Heston’s methodology for estimating 
+25   damages to option holders and Professor Hartzmark’s calculation of damages for Tesla option 
+26                                                                         
+
+27                                                                         
+    2 Because Plaintiff does not identify any previously undisclosed testimony, opinion, or evidence 
+1   holders.  See Ex. 423 (Fischel Rebuttal Report) ¶ 5; Ex. 370 (Expert Rebuttal Report of Amit 
+2   Seru) ¶ 7.  Plaintiff argues that Professor Fischel’s expert reports did not disclose evidence 
+3   concerning: (1) “the immateriality of the alleged misstatements and omissions;” and (2) “opinions 
+4   on Tesla common stock.”  Mot. at 6.  Because information not disclosed in expert reports is 
+5   inadmissible at trial “unless the failure was substantially justified or is harmless,” see Fed. R. Civ. 
+6   P. 26(a)(2), 37(c)(1), Plaintiff contends that Professor Fischel is barred from offering such 
+7   evidence or testimony at trial.                                       
+8        As set forth below, the Court GRANTS IN PART AND DENIES IN PART this motion.  
+9   The motion is DENIED with respect to materiality because Professor Fischel implicitly discussed 
+10   materiality in his report.  But because Professor Fischel did not opine on Tesla’s stock options in 
+11   his reports, the Court GRANTS the motion with respect to that issue.  
+12             a.   Professor Fischel Implicitly Opined that the Musk Tweets were Immaterial   
+13        Plaintiff argues that Professor Fischel should not be permitted to offer evidence or opinion 
+14   regarding the materiality of the Musk Tweets because his reports “are silent as to the immateriality 
+15   of any of the alleged misstatements and omissions,” and “any untimely introduction of evidence 
+16   would be highly prejudicial to Plaintiff.”  Mot. at 3, 5.  Plaintiff observes that Professor Fischel’s 
+17   reports do not contain the words “immaterial,” “material,” and “materiality” “except when 
+18   paraphrasing Plaintiff’s allegations and the report of Plaintiff’s expert, Dr. Michael Hartzmark.”  
+19   Id. at 3, 3 n.2.  Plaintiff further argues that during his deposition, Professor Fischel conceded that 
+20   the statements and omissions were in fact material.  Id. at 3.  And “given this unambiguous 
+21   testimony,” Plaintiff contends that Professor Fischel “should not be permitted to change his 
+22   testimony at trial in an effort to walk back his prior conclusions and introduce opinions and 
+23   testimony to the contrary.”  Id. at 4.                                
+24        Although the words “immaterial,” “material,” and “materiality” do not appear in the report, 
+25   Professor Fischel implicitly asserted that the “funding secured” statement did not impact the 
+26   market and was thus immaterial.  For instance, Professor Fischel observed that Tesla’s stock price 
+27   increased rather than decreased following Mr. Musk’s discussion of his tweets in his blog post on 
+1   Fischel Rebuttal Report ¶¶ 5, 23–24.  Professor Fischel also criticized Dr. Hartzmark’s purported 
+2   failure to disaggregate the impact of “funding secured” from other statements in the Musk Tweets 
+3   because Defendants contend that Tesla’s stock price rose because of the $420 per share 
+4   information, not the fact that funding was secured.  Opp. at 2–3; see also Fischel Rebuttal Report 
+5   ¶¶ 5, 9–14 (“Dr. Hartzmark’s analysis of alleged damages is fundamentally flawed from the outset 
+6   because he makes no attempt to isolate the effect of the allegedly false information from the 
+7   uncontested true statement that Mr. Musk was considering taking Tesla private at $420 per 
+8   share.”).  Professor Fischel also argued that market participants “understood from the beginning 
+9   that Mr. Musk’s proposal lacked details and was uncertain,” see Fischel Rebuttal Report ¶ 5, and 
+10   that “it is reasonable to believe that the Company’s stock price still would have increased” even 
+11   without the alleged misrepresentations.  Id. ¶ 35.  These portions of Professor Fischel’s reports 
+12   support Defendants’ theory that the “funding secured” statement was immaterial.   
+13        As to Plaintiff’s second argument that Professor Fischel’s purportedly inconsistent 
+14   deposition testimony warrants exclusion of his opinions, see Mot. at 3, Plaintiff has not identified 
+15   any legal basis to support exclusion of evidence simply because a witness’s testimony is 
+16   inconsistent with their report.  A prior inconsistent statement is grounds for impeachment.  See 
+17   Fed. R. Evid. 613.  Plaintiff may, of course, choose to cross-examine Professor Fischel regarding 
+18   the purported inconsistency.  But Plaintiff has not shown that the inconsistency is grounds for 
+19   exclusion under Federal Rule of Civil Procedure 37(c)(1).             
+20        In sum: the fact that Professor Fischel’s reports do not include the specific words 
+21   “immaterial,” “material,” and “materiality” does not mean that Professor Fischel does not offer 
+22   opinions related to materiality in his reports.  Plaintiff’s argument elevates form over substance.  
+23   Professor Fischel may opine on materiality, but his testimony will be limited to the opinions in his 
+24   report which set forth the bases for his contention that the Musk Tweets were immaterial. 
+25   ///                                                                   
+26   ///                                                                   
+27   ///                                                                   
+1             b.   Professor Fischel did not Opine on Tesla Stock Options in His Report 
+2        In contrast to materiality, Professor Fischel did not discuss Tesla stock options in his 
+3   reports.3  The closest that Professor Fischel came is when he criticized Professor Hartzmark’s use 
+4   of “Bloomberg evaluated prices” for Tesla’s Notes.  See Fischel Rebuttal Report ¶¶ 37–38.  
+5   Professor Fischel opined that Professor Hartzmark should have used actual transaction prices 
+6   instead of the “Bloomberg evaluated prices” to evaluate artificial inflation for Tesla’s Notes.  Id.  
+7   Because Defendants mount a similar challenge to Professor Heston’s analysis of Tesla’s stock 
+8   options, see Section VI.B.2 infra, Defendants argue that Professor Fischel’s attacks on Professor 
+9   Hartzmark’s analysis of damages for Tesla’s Notes applies with equal force to Professor 
+10   Hartzmark’s analysis of damages to Tesla options holders.  Opp. at 6.  But notes are not stock 
+11   options.  Defendants cannot simply substitute the topic of one argument for another.  Moreover, it 
+12   is not clear that Professor Hartzmark’s use of “Bloomberg evaluated prices” is analogous to 
+13   Professor Heston’s use of straddles.  Defendants have not shown that Professor Fischel opined on 
+14   stock options in his reports.                                         
+15        Because Professor Fischel’s critique of Professor Hartzmark’s use of artificial data for 
+16   stock options was not timely disclosed, Defendants needed to show that its failure to comply with 
+17   Rule 37 was “substantially justified” or “harmless.”  See Fed. R. Civ. P. 37; see also San 
+18   Francisco Baykeeper v. W. Bay Sanitary Dist., 791 F. Supp. 2d 719, 733 (N.D. Cal. 2011) 
+19   (holding that the plaintiff’s failure to disclose witnesses prior to filing its motion was substantially 
+20   justified and harmless).  Defendants did not make this showing.  Therefore, the Court GRANTS 
+21   Plaintiff’s motion as it applies to Professor Fischel’s opinions regarding Tesla stock options. 
+22             c.   Conclusion                                             
+23        In sum, the Court GRANTS IN PART AND DENIES IN PART Plaintiff’s second 
+24   motion in limine.  Despite the lack of express wording, Professor Fischel’s reports bear on the 
+25   materiality of the alleged misstatements.  He may testify regarding the materiality of the tweets.  
+26   But Professor Fischel may not opine regarding Tesla’s stock options: these opinions were not 
+27                                                                         
+1   disclosed in his reports, and Defendants have not shown that this failure was substantially justified 
+2   or harmless.                                                          
+3        2.   Motion in Limine No. 3 (Docket No. 481)                     
+4        Plaintiff moves to preclude Defendants from arguing or introducing into evidence at trial, 
+5   documents or testimony from Elon Musk that relate to subjects that contradict the Court’s 
+6   summary judgment order.  Mot. at 1.  Plaintiff contends that because the Court has already 
+7   decided as a matter of law that the Musk Tweets were false and made with the requisite scienter, 
+8   “any evidence or testimony regarding the truth of the statements or Mr. Musk’s state of mind 
+9   when making the tweets are irrelevant to the remaining elements of Plaintiff’s claims.”  Id.  But 
+10   because, as explained below, Mr. Musk’s testimony regarding these issues is relevant to 
+11   materiality and other issues remaining in the case, the Court DENIES this motion in limine.    
+12             a.   Background                                             
+13        On April 1, 2022, the Court held that Plaintiff was entitled to partial summary judgment 
+14   for certain issues, ruling that:                                      
+
+15             [B]ased on the evidence presented, there is no genuine dispute that 
+              the first three representations at issue were false and that Mr. Musk 
+16             recklessly made those representations.  To that extent, the motion is 
+              granted.  In all other respects, the motion for partial summary 
+17             judgment is denied.                                         
+18   Docket No. 387 (Summary Judgment Order) at 32–33.  As the Court subsequently made clear at 
+19   the June 16, 2022 hearing, however, Plaintiff must still prove at trial that Mr. Musk’s statements 
+20   were materially false and the level of scienter.  See Docket No. 445 at 5:6–8 (June 16, 2022 
+21   Hearing Tr.) (“To be clear, I did not find materiality with respect to the misrepresentation or a 
+22   reckless disregard or knowingly scienter with regard to any such material misrepresentations.”).  
+23   While the Court found that Mr. Musk “recklessly made” the three tweets at issue, see Summary 
+24   Judgment Order at 32–33, the Court did not determine whether or not Plaintiff had shown that Mr. 
+25   Musk “knowingly” made the tweets (which is subject to a higher standard). 
+26        The Court addresses Plaintiff’s evidentiary objections regarding Mr. Musk’s testimony 
+27   below.                                                                
+1             b.   Mr. Musk’s Testimony is Relevant                       
+2        The first question is whether Mr. Musk’s testimony regarding (1) the truth of the August 7, 
+3   2018 tweets or (2) his state of mind when he tweeted is relevant to any issue remaining in the case.  
+4   The answer is yes.  Mr. Musk’s testimony is relevant because it is probative of materiality, 
+5   scienter, and the apportionment of damages (should liability be established).   
+6                  i.   Mr. Musk’s Testimony is Probative of the Materiality of the Tweets 
+7        Mr. Musk’s testimony regarding the objective facts leading up to the August 7 tweets is 
+8   relevant because it provides context into the statements at issue and thus goes towards whether the 
+9   tweets are materially false.  In his deposition, for instance, Mr. Musk described the July 31 
+10   meeting with members of the Saudi PIF in which they discussed taking Tesla private and the 
+11   Saudi PIF investing in Tesla.  See Exhibit T (Elon Musk Depo. Tr.) at 92:12-22, 99:17–100:15, 
+12   102:21–103:11.  Mr. Musk testified extensively regarding his interactions with the Saudi PIF and 
+13   their alleged representations to him regarding funding for the privatization transaction.  Id. at 100: 
+14   11-12, 102:11–103:15, 107:18-25.                                      
+15        An alleged misstatement or omission is material where there is a “substantial likelihood 
+16   that a reasonable shareholder would consider it important in deciding how to vote.”  TSC Indus., 
+17   Inc. v. Northway, Inc., 426 U.S. 438, 449 (1976).  “The determination requires delicate 
+18   assessments of the inferences a reasonable shareholder would draw from a given set of facts and 
+19   the significance of those inferences to him, and these assessments are peculiarly ones for the trier 
+20   of fact.”  Id. at 450 (internal quotation marks omitted).             
+21        The law is clear that context matters for purposes of determining materiality.  See id. at 449 
+22   (explaining that the materiality standard requires showing “a substantial likelihood that, under all 
+23   the circumstances, the omitted fact would have assumed actual significance in the deliberations of 
+24   the reasonable shareholder”) (emphasis added); 17 C.F.R. § 240.10b–5(b) (“It shall be 
+25   unlawful . . .  [t]o make any untrue statement of a material fact or to omit to state a material fact 
+26   necessary in order to make the statements made, in the light of the circumstances under which they 
+27   were made, not misleading.”) (emphasis added); see also Matrixx Initiatives, Inc. v. Siracusano, 
+1   content, and context of the [statement]”).  To understand whether “Funding secured” is a 
+2   materially false statement, then, the jury must first understand the full context, including the actual 
+3   status of the funding.  Mr. Musk’s testimony provides context for the tweets.  TSC Indus., 426 
+4   U.S. at 449.                                                          
+5        In sum: his testimony regarding his efforts to take Tesla private, the meeting with the 
+6   Saudi PIF, and other background information regarding the tweets is relevant to materiality.  Facts 
+7   regarding the actual status of the funding and the Saudi PIF’s representations therein may inform 
+8   the jury’s determination of whether Mr. Musk’s statements regarding the funding were materially 
+9   false.  His testimony will provide key contextual facts that will aid the jury in their consideration 
+10   of the statements at issue.                                           
+11                  ii.  Mr. Musk’s Testimony is Also Relevant to Scienter 
+12        For the same reasons, Mr. Musk’s testimony is also relevant to the element of scienter.  To 
+13   establish scienter, Mr. Littleton must prove that Mr. Musk “knew that a statement was materially 
+14   false or misleading” or acted with deliberate recklessness as to its material falsity.  See GIA-GMI, 
+15   LLC v. Michener, No. 06-cv-7949-SBA, 2007 WL 2070280, at *9 (N.D. Cal. July 16, 2007) 
+16   (articulating “knowingly” element as requiring knowledge of material falsity).  As noted above, 
+17   the Court found that Mr. Musk “recklessly made” the three tweets at issue, see Summary 
+18   Judgment Order at 32–33, but the Court did not determine whether Mr. Musk “knowingly” made 
+19   false tweets.  Mr. Musk’s testimony of the events giving rise to the August 7 tweets may be 
+20   probative to whether Mr. Musk acted knowingly or merely recklessly.   
+21                  iii.  Evidence of Mr. Musk’s Knowledge is Relevant to Apportionment 
+22        Finally, evidence of Mr. Musk’s knowledge is also relevant to the question of 
+23   apportionment of damages.  Under the PSLRA, defendants are jointly and severally liable “only if 
+24   the trier of fact specifically determines that [the defendant] knowingly committed a violation of the 
+25   securities laws.”  See 15 U.S.C. § 78u-4(f)(2)(A) (emphasis added).  A defendant who engages in 
+26   “reckless conduct,” on the other hand, “shall be liable solely for the portion of the judgment that 
+27   corresponds to the percentage of [their] responsibility . . .”  15 U.S.C. § 78u-4(f)(2)(B)(i). 
+1   “knowing [they were] false” as opposed to merely with “recklessness as to [their] falsity,” 
+2   Summary Judgment Order at 26, 32–33, the issue of scienter is still undecided.  Indeed, both 
+3   parties’ verdict forms provide that the jury will decide whether each defendant engaged in a 
+4   knowing or reckless violation in this case.  Opp. at 5; see also Docket Nos. 476, 484.  Because Mr. 
+5   Musk is entitled to introduce evidence demonstrating that his statements were merely reckless and 
+6   not knowing, his testimony regarding the statements at issue is also relevant to the question of 
+7   apportionment.                                                        
+8        In sum: Mr. Musk’s testimony regarding the tweets at issue is relevant because it is 
+9   relevant to materiality, the degree of scienter, and apportionment of damages.   
+10             c.   The Risk of Juror Confusion is Minimal                 
+11        Plaintiff contends that even if the evidence is relevant, it should be excluded under Rule 
+12   403 because the probative value of this evidence is substantially outweighed by the risk of 
+13   confusing the jury.  Mot. at 5.  Plaintiff further contends that if Defendants are allowed to offer 
+14   this evidence, Plaintiff will want to introduce evidence to rebut it, which will—in Plaintiff’s 
+15   view—lead to a mini-trial on a collateral issue that the Court has already decided, i.e. the falsity of 
+16   the Musk Tweets.  Id.  Plaintiff is wrong.                            
+17        The risk of juror confusion is slight and does not substantially outweigh the probative 
+18   value discussed above.  Defendants are bound by the Court’s summary judgment order and cannot 
+19   make any arguments to the jury that contradict the Court’s summary judgment order.  Opp. at 3.  
+20   The Court will make clear to the jury that the questions of falsity and recklessness have already 
+21   been resolved.                                                        
+22             d.   Conclusion                                             
+23        In sum: Defendants may not argue at trial that the Musk Tweets were true.  The issues of 
+24   factual falsity and Mr. Musk’s recklessness were decided as a matter of law at summary judgment.  
+25   Crucially, however, Mr. Musk’s testimony regarding the tweets remains probative and relevant to 
+26   the questions of materiality, the level of scienter, and to the appointment of damages.  The Court 
+27   DENIES Plaintiff’s Motion in Limine No. 3.                            
+1        3.   Motion in Limine No. 4 (Docket No. 482)                     
+2        In a slight twist on the preceding motion in limine, Plaintiff moves to preclude 
+3   “Defendants from introducing any evidence or testimony at trial that would dispute the factual 
+4   findings or otherwise cause a jury to question the Court’s holding” on summary judgment.  Mot. at 
+5   1.  The thrust of Plaintiff’s motion is again that because the Court has already found that literal 
+6   falsity and scienter were proven, evidence which bears on falsity and scienter for the August 7, 
+7   2018 tweets is irrelevant.  Id.  Plaintiff casts a broad net with this motion: he cites testimony from 
+8   Sam Teller and any representative of the PIF as illustrative of the type of evidence that he seeks to 
+9   exclude, id., but his motion is not limited to these witnesses.  See id. at 4 (quoting deposition 
+10   testimony of various members of Tesla’s Board of Directors, including Robyn Denholm, Ira 
+11   Ehrenpreis, and James Murdoch).4  As with the previous motion in limine, the Court DENIES this 
+12   motion because it rests on the faulty premise that this evidence is irrelevant. 
+13        Mr. Teller is Tesla’s former Director of the Office of CEO.  At Mr. Teller’s deposition, he 
+14   testified extensively regarding the July 31 meeting that he attended at the Tesla Fremont factory 
+15   that included members of the PIF and Mr. Musk.  See Ex. J (Teller Depo. Tr.) at 130:8–143:23.  
+16   According to Mr. Teller, Yasir Al-Rumayyan told Mr. Musk during the meeting that the Saudi PIF 
+17   “want[ed] to diversify from oil,” that he had “support from the most senior levels of the 
+18   government,” and that Mr. Al-Rumayyan was “the decisionmaker.”  Id. at 142:1-15.  And when 
+19   Mr. Musk told Mr. Al-Rumayyan that the privatization transaction would require a lot of money, 
+20   “like tens of billions of dollars,” Mr. Al-Rumayyan responded with something to the effect of 
+21   “Don’t worry about it.  We got it.”  Id. at 143:2-9.  Mr. Teller also testified regarding Mr. Musk’s 
+22   communications with Mr. Al-Rumayyan on August 10.  Id. at 246:4–248:4; see also Ex. X (Teller 
+23   Depo. Tr.) at 242:8-243:16.                                           
+24                                                                         
+
+25                                                                         
+    4 The Court focuses on Mr. Teller and the PIF members because they feature prominently in 
+    Plaintiff’s motion.  But because the members of the Board of Directors are encompassed within 
+26                                                                         
+    the motion, the Court notes that their understanding of the Musk Tweets is relevant to a potential 
+    “good faith” defense to control person liability.  See Howard v. Everex Sys., Inc., 228 F.3d 1057, 
+27                                                                         
+    1065 (9th Cir. 2000) (“[A] defendant is entitled to a good faith defense if he can show no scienter 
+1             a.   The Testimony of Sam Teller and Representatives of the PIF is Relevant to 
+2                  Materiality and Scienter                               
+3        Plaintiff contends that the anticipated testimony by Mr. Teller offers no insight into the 
+4   materiality of the Musk Tweets.  Mot. at 3.  Plaintiff further attacks Mr. Teller’s testimony 
+5   because (1) Mr. Teller was traveling from August 3 to August 7 and did not remember 
+6   conversations that occurred during this time, and (2) Mr. Teller’s testimony about events that 
+7   occurred after August 7 is irrelevant because materiality is determined at the time that the 
+8   statement is made.  Id.                                               
+9        Mr. Teller’s testimony (and that of the PIF representatives) about objective facts bearing 
+10   upon the Musk Tweets is relevant for materiality and scienter.  To determine whether a 
+11   misrepresentation is material, the jury will be tasked with determining whether the misrepresented 
+12   fact would have been significant to a reasonable investor.  TSC Indus., 426 U.S. at 445.  To make 
+13   that determination, the jury will need to hear evidence regarding the actual state of affairs so that 
+14   the jury can determine whether the difference between the actual state of funding and Mr. Musk’s 
+15   misrepresentations regarding funding would have been significant to a reasonable investor.   
+16        Mr. Teller and various PIF representatives were personally involved in discussions 
+17   regarding the prospective financing to take Tesla private.  See Opp. at 3 (citing portions of Mr. 
+18   Teller’s deposition).  As noted above, Mr. Teller testified about the July 31 meeting between Mr. 
+19   Musk and members of the Saudi PIF at his deposition.  See Ex. J (Teller Depo. Tr.) at 130:8-
+20   143:23.  As a result, Mr. Teller (and, presumably, the PIF representatives who attended the 
+21   meeting) may offer testimony about the actual state of affairs leading up to the Musk Tweets.  
+22   Such testimony would be probative of materiality because it may inform the difference between 
+23   Mr. Musk’s representations regarding funding and the actual state of funding.   
+24        Mr. Teller’s failure to recall certain events at his deposition does not mean that he is not a 
+25   competent witness.  Should Mr. Teller testify differently at trial, then Plaintiff may impeach him 
+26   with his prior deposition testimony.                                  
+27        As for Plaintiff’s theory that Mr. Teller’s testimony about events that occurred after 
+1   about an August 10 phone call between Mr. Musk and Mr. Al-Rumayyan.  See Ex. X at 242:8-
+2   243:16.  According to Mr. Teller, the “overall takeaway” of this phone call was that Mr. Al-
+3   Rumayyan “was not, in fact, the final decisionmaker.  And that was news to us. And Elon silently 
+4   kind of made a gesture to me like – signaling like what’s he talking about?  Like, I guess you 
+5   could summarize it as like a WTF.”  Id. at 243:10-16.  Mr. Teller’s testimony about the August 10 
+6   conversation between Mr. Musk and Mr. Al-Rumayyan bears on Mr. Musk’s understanding of the 
+7   state of funding on or around August 7, and is thus relevant to whether Mr. Musk acted knowingly 
+8   or merely recklessly.                                                 
+9        It is possible that Mr. Teller’s testimony may be inadmissible for other reasons, such as 
+10   hearsay or being cumulative.5  The Court’s ruling here does not preclude Plaintiff from raising 
+11   these evidentiary objections at trial.                                
+12             b.   Testimony from Mr. Teller, the Saudi PIF, and Other Witnesses Regarding 
+13                  the Tweets or Mr. Musk’s Scienter does not Violate Rule 403 
+14        The Court finds that the probative value of the testimony from Mr. Teller and the Saudi 
+15   PIF representatives regarding Mr. Musk’s tweets and the facts that led to his tweets is not 
+16   substantially outweighed by the risk of unfair prejudice or confusion.  And as noted above, the risk 
+17   of juror confusion is minimal because the Court will explain that factual falsity has already been 
+18   proven.                                                               
+19             c.   Conclusion                                             
+20        Because testimony from other witnesses regarding the Musk Tweets and Mr. Musk’s 
+21   scienter is relevant to disputed issues in the case, the Court DENIES Plaintiff’s Motion in Limine 
+22   No. 4.                                                                
+23        4.   Motion in Limine No. 5 (Docket No. 483)                     
+24        Plaintiff moves to exclude all testimony and evidence pertaining to events and information 
+25   beyond the 90-day lookback period under the theory that such evidence is irrelevant or unduly 
+26                                                                         
+
+27                                                                         
+    5 To the extent that Mr. Teller’s testimony is offered to show Mr. Musk’s state of mind, however, 
+1   prejudicial.  Mot. at 1.  The Court GRANTS IN PART AND DENIES IN PART this motion.  
+2   The Court DENIES this motion because Plaintiff has failed to demonstrate how events within the 
+3   PSLRA’s 90-day lookback period are per se relevant or that events that occurred after the 90-day 
+4   lookback period are per se irrelevant.  But because the specific evidence that Plaintiff has 
+5   identified in his motion is either inadmissible or irrelevant, the Court GRANTS the motion with 
+6   respect to that evidence.                                             
+7             a.   The PSLRA 90-Day Lookback Period is Used to Cap Damages 
+8        Under the PSLRA, the 90-day “lookback period” is used to limit a plaintiff’s damage 
+9   award; it measures the difference between the price a plaintiff paid for the stock and the mean 
+10   closing price in the 90 days following the corrective disclosure.  See 15 U.S.C. § 78u-4(e)(1).  In 
+11   particular, the PSLRA provides that:                                  
+
+12             Except as provided in paragraph (2), in any private action arising 
+              under this chapter in which the plaintiff seeks to establish damages by 
+13             reference to the market price of a security, the award of damages to 
+              the plaintiff shall not exceed the difference between the purchase or 
+14             sale price paid or received, as appropriate, by the plaintiff for the 
+              subject security and the mean trading price of that security during the 
+15             90-day  period  beginning  on  the  date  on  which  the  information 
+              correcting the misstatement or omission that is the basis for the action 
+16             is disseminated to the market.                              
+17   15 U.S.C. § 78u-4(e)(1).  The 90-day lookback period limits the ultimate damages a plaintiff can 
+18   recover because a pure out-of-pocket damages measure “‘may substantially overestimate 
+19   plaintiff’s actual damages.’”  In re Mego Fin. Corp. Sec. Litig., 213 F.3d 454, 461 n.4 (9th Cir. 
+20   2000) (emphasis in original) (quoting Sen. Rep. 104-98, at 20 (1995)); see also Mandalevy v. BofI 
+21   Holding, Inc., No. 17-cv-667, 2022 WL 4474263, at *9 n.3 (S.D. Cal. Sept. 26, 2022) (stating that 
+22   the 90-day lookback “prevents the possibility of class members receiving a windfall should a 
+23   corrective disclosure drop the share price, but the price later rebounds despite the disclosure”).  In 
+24   other words, the 90-day lookback period is a timeline for capping damages; whether events within 
+25   those 90-days bear on liability is not the subject of the lookback period of § 78u-4(e)(1).  That 
+26   provision does not supersede normal rules of relevance.               
+27             b.   Post-Class Period Events are not Per Se Irrelevant     
+1   after the class period is per se irrelevant and thus inadmissible.  See, e.g., Wade v. WellPoint, Inc., 
+2   892 F. Supp. 2d 1102, 1134 n.21 (S.D. Ind. 2012) (stating that events after the class period “bear 
+3   no relevance to Defendants’ knowledge at the time of the alleged misstatements and omissions”).  
+4   Here Plaintiff is not asking the Court to bar evidence after the Class Period; rather, Plaintiff seeks 
+5   to bar all evidence after the 90-day lookback period.  Mot. at 1.  But as noted above, the 90-day 
+6   lookback period is not a metric for determining relevancy.  The Court rejects Plaintiff’s suggested 
+7   imposition of such a rule as unsupported by statute.6                 
+8             c.   The Specific Evidence Cited by Plaintiff Is Irrelevant 
+9        As part of his motion, Plaintiff argued that the following specific post-Class Period 
+10   evidence is inadmissible: (1) publicity stunts by Mr. Musk, such as Mr. Musk’s November 16, 
+11   2021 “Twitter poll;”7 (2) any “good acts” by Mr. Musk, such as donations to various charities;8 (3) 
+12   Mr. Musk’s “lack of consumption” (e.g., not owning a yacht); (4) evidence that “Tesla is driven 
+13   by a sense of charitable or moral purpose;” (5) evidence of Plaintiff’s post-Class Period 
+14   investments and trading; and (6) evidence related to Tesla’s economic and financial performance 
+15   since 2018.  Mot. at 2.  The majority of this evidence is not in dispute.  Defendants do not contend 
+16   that the Twitter poll from November 2021 is relevant.  Opp. at 3.  Nor do they intend to offer 
+17   evidence regarding Mr. Musk’s donations to charities, or Tesla’s current share price or subsequent 
+18   trading prices in Tesla’s securities.  Id. at 3, 6.  Finally, Defendants acknowledge that character 
+19   evidence such as charitable acts is generally inadmissible.  See id. at 4 (Defendants do not intend 
+20   to offer “evidence of good character with respect to Mr. Musk or any of the Director Defendants, 
+21   unless of course Plaintiff attacks their character for truthfulness”).   
+22        As for Defendants’ contention that Tesla’s “mission” to ensure a sustainable future is 
+23   relevant, see id. at 4 n.1, the Court disagrees.  Defendants have not shown that Tesla’s “mission” 
+24                                                                         
+
+25                                                                         
+    6 The Court need not address whether it is appropriate to apply, e.g., the close of the Class Period 
+    on August 17, 2018, as a relevancy cutoff date as neither party seeks such a ruling. 
+26                                                                         
+
+    7 Mr. Musk asked his followers on Twitter whether he should sell Tesla stock to pay taxes in an 
+27                                                                         
+    effort to take a stand against “tax avoidance.”  Mot. at 2 (citing Ex. DD). 
+1   has any probative value for any fact of consequence in the case.  See Fed. R. Evid. 401.  In 
+2   Defendants’ view, “Tesla’s mission and long-term strategic goals were intimately tied to Elon 
+3   Musk’s rationale for considering a go-private transaction in the summer of 2018, as Musk and 
+4   numerous other witnesses and documents confirm.”  Opp. at 4 n.1.  But Mr. Musk’s desire to take 
+5   Tesla private is not at issue.  This case deals with Mr. Musk’s knowledge of the falsity of the 
+6   “funding secured” statement, not his rationale for considering the go-private transaction.  As a 
+7   result, Defendants have not shown that Tesla’s “mission” is relevant.  
+8        Lastly, the parties dispute the relevance of Plaintiff’s post-Class Period investments and 
+9   trading in Tesla.  First, Defendants assert that “[t]he fact that the lead Plaintiff—the individual 
+10   who is supposedly typical and representative of the entire class—still invests in Tesla is probative 
+11   of whether the alleged misrepresentations were at all material to the reasonable investor.”  Opp. at 
+12   5.  Second, Defendants argue that Plaintiff’s continued investment in Tesla “presents a basic 
+13   credibility issue” because these investments are “inconsistent” with his allegations of fraud.  Id. at 
+14   5–6.  These arguments are meritless.  Plaintiff’s decision to invest in Tesla in December 2019—
+15   eighteen months after the Musk Tweets—has no relevance as to whether he or anyone else would 
+16   have found the misrepresentations material in 2018.  Furthermore, there is no inconsistency 
+17   between Plaintiff’s allegations that Defendants committed fraud in August 2018 and Plaintiff’s 
+18   decision to invest in Tesla in December 2019.  Therefore, the Court grants Plaintiff’s motion to 
+19   exclude evidence of Plaintiff’s trades in Tesla stock after the Class Period. 
+20             d.   Conclusion                                             
+21        The Court DENIES Plaintiff’s motion to preclude all events after the 90-day lookback 
+22   period.  However, the Court GRANTS Plaintiff’s motion to exclude the specific evidence 
+23   identified in his motion: (1) publicity stunts by Mr. Musk, such as Mr. Musk’s November 16, 2021 
+24   “Twitter poll;” (2) any “good acts” by Mr. Musk, such as donations to various charities; (3) Mr. 
+25   Musk’s “lack of consumption” (e.g., not owning a yacht); (4) evidence that “Tesla is driven by a 
+26   sense of charitable or moral purpose;” (5) evidence related to Tesla’s economic and financial 
+27   performance since 2018; and (6) evidence of Mr. Littleton’s post-Class Period investments and 
+1   B.   Defendants’ Motions in Limine                                    
+2        1.   Motion in Limine No. 4 (Docket No. 478)                     
+3        Defendants move to preclude Plaintiff from offering evidence of Tesla’s and Musk’s 
+4   settlement agreements with the Securities and Exchange Commission (SEC) as well as the 
+5   underlying SEC complaints.  Mot. at 1–2.  As described below, the Court GRANTS this motion 
+6   on Rule 403 grounds because the danger of unfair prejudice outweighs the probative value of the 
+7   SEC settlements and complaints.  The Court further finds that the SEC complaints are hearsay and 
+8   that while the SEC settlement agreements may be admissible to show Mr. Musk’s bias under Rule 
+9   408, their probative value is dwarfed by the substantial Rule 403 concerns. 
+10             a.   Background                                             
+11        On August 8, 2018—the day after the Musk Tweets—it became public knowledge that the 
+12   SEC had initiated an investigation related to Musk’s August 7, 2018 tweets.  See Consolidated 
+13   Compl. ¶ 192.  On September 27, 2018, the SEC filed a securities-fraud complaint against Mr. 
+14   Musk personally; two days later, the SEC filed a related complaint against Tesla.  Mot. at 2; see 
+15   also Case No. 18-cv-8865 (S.D.N.Y. Sept. 27, 2018); Case No. 18-cv-8947 (S.D.N.Y. Sept. 29, 
+16   2018)).  Tesla’s stock price decreased at a statistically significant level on September 28 following 
+17   the first SEC complaint.  Hartzmark Report ¶ 144.  On the same day that the second complaint 
+18   was filed, Mr. Musk and Tesla entered into settlement agreements with the SEC.  Mot. at 2 (citing 
+19   Exs. A, B).  Neither Musk nor Tesla admitted any liability or wrongdoing, and the settlement did 
+20   not impact their “right to take legal or factual positions in litigation or other legal proceedings in 
+21   which the Commission is not a party.”  Id.  After news of the SEC settlements broke, Tesla’s stock 
+22   price rose at a statistically significant level.  Hartzmark Report ¶ 145.   
+23        Defendants acknowledge that evidence of the SEC’s investigation may be admissible 
+24   because news of the investigation became public during the Class Period and bears on Plaintiff’s 
+25   theory of consequential harm.  See Opp. at 1.  But Defendants distinguish between the fact of the 
+26   investigation and the facts following the investigation (i.e., the complaints and settlements).  
+27   Specifically, Defendants argue that the SEC settlement agreements are inadmissible under Federal 
+1   Defendants argue that both are irrelevant and unduly prejudicial under Rules 401–403.  Mot. at 1.   
+2             b.   Relevance and Rule 403                                 
+3        Plaintiff first argues that the SEC investigation, which ultimately resulted in the SEC’s 
+4   complaints and settlements, is powerful evidence of the consequential harm9 of Defendants’ fraud.  
+5   Opp. at 3 (citing Hartzmark Report ¶ 46).  The SEC investigation is indisputably relevant: 
+6   Professor Hartzmark, Plaintiff’s loss causation expert, opines that the SEC investigation caused by 
+7   the Musk Tweets proximately led to a decline in Tesla’s stock price, resulting in damages to the 
+8   Class.  Hartzmark Report ¶¶ 13, 46, 78, 115; see also Docket No. 494 (Order Denying Motion to 
+9   Exclude) at 23–28 (describing Hartzmark’s theory of consequential harm).  But the problem with 
+10   Plaintiff’s theory is that while it is true that the SEC investigation—which began during the Class 
+11   Period—may be relevant to loss causation and damages, this theory does not explain how the 
+12   complaints and settlements—which materialized more than a month after the end of the Class 
+13   Period—are relevant.                                                  
+14        Plaintiff claims that the complaints and settlements are relevant because the statistically 
+15   significant stock price movements following these filings could “rebut any attempt by Defendants 
+16   to attribute movements in the prices of Tesla securities during the Class Period to news and 
+17   developments that are less directly related to the August 7, 2018 tweets.”  Opp. at 4.  Because the 
+18   complaints and settlements resulted from and directly concerned the August 7, 2018 tweets, stock 
+19   price movements following those events could support the argument that stock price movements 
+20   during the Class Period were also because of the tweets.  In other words, stock prices responded to 
+21   significant news related to the subject matter of the tweets.  Therefore, such evidence could be 
+22   used to rebut arguments that other non-related events caused the stock price movements.  Given 
+23   the liberal relevancy standard of Rule 401—requiring only that evidence have “any tendency to 
+24   make a fact more or less probable than it would be without the evidence and the fact is of 
+25   consequence in determining the action”—the complaints and settlements could have some 
+26                                                                         
+
+27                                                                         
+    9 Dr. Hartzmark defines “Consequential Harm” as harm that “is a direct and foreseeable 
+1   relevance to Plaintiff’s damages and causation argument, even if only by inference.  See Fed. R. 
+2   Evid. 401 (punctuation omitted) (emphasis added).                     
+3        But the relevancy of this evidence is minimal at best.  As noted below in the discussion of 
+4   hearsay, the complaints and settlements resulted in no agency findings.  Thus, their probative 
+5   value (even if admissible) is minimal.  It is also outweighed by the risk of undue prejudice because 
+6   a jury could be tempted to find liability based on the SEC complaints and subsequent settlements.  
+7   See United States v. Bailey, 696 F.3d 794, 801 (9th Cir. 2012) (stating that evidence of a 
+8   complaint may “permitted the jurors to succumb to the simplistic reasoning that if the defendant 
+9   was accused of the conduct, it probably or actually occurred,” and “[s]uch inferences are 
+10   impermissible”).  The risk of unfair prejudice is heightened here because, as Plaintiff himself 
+11   notes, Plaintiff’s claims are “virtually identical to the SEC claims with regard to the August 7, 
+12   2018 tweets [].”  Opp. at 6.  Courts from around the country have excluded material from federal 
+13   agencies where the agency has made a determination regarding one of the parties.  See Siqueiros v. 
+14   Gen. Motors LLC, No. 16-cv-07244-EMC, 2022 WL 3974752, at *4 (N.D. Cal. Aug. 31, 2022) 
+15   (collecting authorities).  The fact that the SEC complaints are “virtually identical” to the case at 
+16   hand increases the risk that the jury would impermissibly assume that Defendants are liable for the 
+17   accused conduct and thus magnifies the unfair prejudice.              
+18        Additionally, this evidence raises other Rule 403 issues, such as a risk of confusing the 
+19   issues and undue delay.  Admission of the SEC materials could create a “mini-trial” in which 
+20   Defendants would have to defend against both Plaintiff’s claims and the SEC’s now-dismissed 
+21   claims.  See Grace v. Apple, Inc., No. 17-cv-00551-LHK, 2020 WL 227404, at *2 (N.D. Cal. Jan. 
+22   15, 2020) (excluding evidence of prior litigations to avoid “time-consuming tangents” and a “side 
+23   trial,” among other Rule 403 considerations)).10  Plaintiff suggests that a mini trial would not 
+24   develop because “Plaintiff’s claims are virtually identical to the SEC claims with regard to the 
+25                                                                         
+
+26                                                                         
+    10 Plaintiff argues that Defendants’ reliance on Grace v. Apple is unpersuasive because in Grace, 
+    the court excluded evidence of prior litigations which involved four district court trials and three 
+27                                                                         
+    appeals.  The evidence here, however, only involves “a two-month investigation and three or four 
+1   August 7, 2018 tweets;” thus, “[t]here are no additional factual issues unique to the SEC 
+2   complaints that would require some superfluous mini-trial.”  Opp. at 6.  This is not necessarily 
+3   true, however: Defendants allege that they would proffer evidence “as to the Commission’s history 
+4   of singling out Musk and Tesla for increased scrutiny, as well as all the reasons Musk and Tesla 
+5   opted to settle the SEC’s claims instead of litigating.”  Mot. at 6.  And regardless of whether the 
+6   two claims involve the same factual issues, Defendants will want to explain their decision to settle 
+7   the claims.11  Defendants’ decision to settle with the SEC should not bear on any issues at trial, but 
+8   there is a risk that the jury may become confused or unduly influenced.   
+9        Plaintiff argued at the pretrial conference that admission of the investigation without the 
+10   subsequent proceedings would prejudice him because it would lead the jury to conclude that 
+11   nothing materialized from the investigation.  But any such prejudice could be remedied by a 
+12   proper limiting instruction.  Upon request, the Court will issue a limiting instruction informing the 
+13   jury that they should not make any assumptions regarding the outcome of the SEC investigation. 
+14        In addition to Rule 403, there are also issues with hearsay and Rule 408. 
+15             c.   Hearsay                                                
+16        The SEC complaints are hearsay for which no exception to the rule against hearsay applies.  
+17   Plaintiff incorrectly contends that the complaints are admissible as factual findings from a legally 
+18   authorized investigation under Rule 803(8)(A)(iii).  Opp. at 5.  Rule 803(8) provides that “[a] 
+19   record or statement of a public office” is admissible if “it sets out . . . in a civil case . . . factual 
+20   findings from a legally authorized investigation. . .” and “the opponent does not show that the 
+21   source of information or other circumstances indicate a lack of trustworthiness.”  Fed. R. Evid. 
+22   803(8)(A)(iii).  Plaintiff has not provided any evidence to show that the SEC complaints include 
+23   “factual findings” as opposed to mere “allegations.”  Because the public record exception is 
+24   limited to where there are factual findings, this hearsay exception does not apply to the SEC 
+25   complaints.  See United States v. Klein, No. 16-cr-44, 2017 WL 1316999, at *3–4 (E.D.N.Y. Feb. 
+26                                                                         
+    11 Defendants explained that they would want to introduce evidence that Tesla was “in the throes 
+27                                                                         
+    of . . . ‘production hell’ in connection with the Tesla Model 3, a new, mass-market vehicle that had 
+1   10, 2017) (excluding SEC complaint on hearsay grounds because complaint contained 
+2   “allegations,” not “factual findings,” making Rule 803(8) inapplicable); In re EpiPen (Epinephrine 
+3   Injection, USP) Mktg., Sales Pracs. & Antitrust Litig., 507 F. Supp. 3d 1289, 1348 n.21 (D. Kan. 
+4   2020) (same).                                                         
+5        The Court concludes that the public record exception does not apply and thus the SEC 
+6   complaints are inadmissible hearsay.  The Court turns to Rule 408, which is Defendants’ final 
+7   evidentiary objection to the SEC materials.                           
+8             d.   Rule 408                                               
+9        “Federal Rule of Evidence 408 bars the admission of settlement agreements to prove 
+10   liability.”  Brocklesby v. United States, 767 F.2d 1288, 1292 (9th Cir. 1985) (citation omitted); see 
+11   also United States v. Whitney, 180 F. App’x 670, 673 (9th Cir. 2006) (holding that evidence that 
+12   the defendant settled with the SEC was properly excluded under Rule 408).  But such evidence 
+13   can be “offered for another purpose, such as proving bias or prejudice of a witness. . . .”  Fed. R. 
+14   Evid. 408(b).                                                         
+15        Plaintiff argues that the SEC settlements are admissible under Rule 408(b) because they 
+16   show Mr. Musk’s bias against short sellers and bear on Mr. Musk’s credibility.12  In Plaintiff’s 
+17   view, the Musk Tweets were “a deliberate attempt to ‘burn’ short sellers and cause them financial 
+18   harm.”  Opp. at 5 (citing Consolidated Compl. ¶ 162).  Plaintiff asserts that the SEC settlements 
+19   provide “relevant and necessary context” to some of Mr. Musk’s tweets, such as the tweet from 
+20   October 4, 2018 which states: “Just want to [sic] that the Shortseller Enrichment Commission is 
+21   doing incredible work.  And the name change is so on point!”  Id. at 4–5.  But Plaintiff can 
+22   demonstrate this supposed bias by offering the October 4, 2018 tweet without reference to the 
+23   settlement agreements.  Plaintiff has failed to show that the SEC settlements are necessary to show 
+24   Mr. Musk’s purported bias against short sellers.                      
+25        In sum: while the SEC settlement agreements may be admissible to show Mr. Musk’s bias 
+26   under Rule 408, the Court finds that their probative value is dwarfed by the substantial Rule 403 
+27                                                                         
+1   concerns.                                                             
+2             e.   Conclusion                                             
+3        To the extent that Plaintiff seeks to use the SEC settlement agreements to show bias rather 
+4   than liability, Rule 408 does not bar their admission.  But because the probative value of the SEC 
+5   materials is low and the risk of unfair prejudice is high, especially because the complaints are 
+6   hearsay, the Court GRANTS Defendants’ motion to exclude this evidence under Rule 403. 
+7        2.   Motion in Limine No. 5 (Docket No. 479)                     
+8        Defendants move to exclude the opinions of Steven Heston and Michael Hartzmark’s 
+9   opinions that rely on Professor Heston’s opinions.  Mot. at 1.  Professor Heston created a damages 
+10   model to predict damages to Tesla stock option holders during the Class Period.  Id.  Professor 
+11   Hartzmark implemented Professor Heston’s predictions to calculate damages for Tesla option 
+12   holders during the Class Period.  Id.  Defendants, who characterize Professor Heston’s model as 
+13   “junk financial engineering,” raise four challenges to Professor Heston’s report.  Id.  Defendants’ 
+14   core challenge focuses on Professor Heston’s use of theoretical prices based on synthetic Tesla 
+15   instruments to calculate the “re-valued fitted option value,” rather than actual market data for the 
+16   2,443 Tesla options traded during the Class Period.  Id. at 1–2.      
+17        As set forth below, the Court finds that Professor Heston’s use of the Black-Scholes-
+18   Merton model to calculate the counterfactual but-for price of stock options is sufficiently reliable 
+19   to pass muster under Daubert.  The process of calculating but-for prices inevitably requires some 
+20   degree of theoretical modeling, and the Black-Scholes-Merton model appears sufficiently 
+21   scientifically valid and widely accepted.  But Professor Heston’s use of artificial data to calculate 
+22   the “re-valued fitted option value” (i.e. the “actual” price) is another matter.  There are substantial 
+23   questions regarding Professor Heston’s use of adjusted prices rather than the actual observed 
+24   trading data for each individual stock option.  Unlike with counterfactual prices, which must be 
+25   modeled, the actual prices for Tesla’s stock options are observable from actual market data.  
+26   Professor Heston’s decision to use theoretical prices derived from straddles rather than the actual 
+27   market price for each Tesla stock option appears to be unprecedented, and poses serious Daubert 
+1   during the pretrial conference Plaintiff agreed to rerun the stock option calculations using actual 
+2   option price data instead of the theoretical prices.  Finally, the Court finds that Professor 
+3   Hartzmark sufficiently addressed potentially confounding factors to survive Daubert, so it 
+4   DENIES Defendants’ motion to exclude on that ground.                  
+5             a.   Legal Standard                                         
+6        Under Daubert, in assessing the admissibility of expert testimony under Federal Rule of 
+7   Evidence 702,13 the Court must perform “a preliminary assessment of whether the reasoning or 
+8   methodology underlying the testimony is scientifically valid and of whether that reasoning or 
+9   methodology properly can be applied to the facts in issue.”  Daubert v. Merrell Dow Pharms. Inc., 
+10   509 U.S. 579, 592–93 (1993); see also Kumho Tire Co., Ltd. v. Carmichael, 526 U.S. 137, 141 
+11   (1999) (explaining that Daubert standards apply to all expert testimony, not only scientific 
+12   experts).  The Supreme Court has identified a non-exhaustive list of factors that may bear on the 
+13   inquiry:                                                              
+
+14             •  whether the theory or technique can be or has been tested; 
+              •  whether the theory or technique has been subjected to peer 
+15               review and publication;                                   
+              •  the known or potential rate of error with a scientific technique; 
+16             •  acceptance of the technique by a relevant scientific community; 
+17   Daubert, 509 U.S. at 593–94; see also United States v. Hankey, 203 F.3d 1160, 1167 (9th Cir. 
+18   2000).  None of these factors is dispositive and, ultimately, “[t]he inquiry envisioned by Rule 702 
+19   is. . . a flexible one” which is focused “solely on principles and methodology, not on the 
+20   conclusions that they generate.”  Id. at 594–95.  The district court “must act as a ‘gatekeeper’ to 
+21   exclude junk science that does not meet Federal Rule of Evidence 702’s reliability standards by 
+22   making a preliminary determination that the expert’s testimony is reliable.”  Ellis v. Costco 
+23   Wholesale Corp., 657 F.3d 970, 982 (9th Cir. 2011) (citation omitted).  The trial court “has broad 
+24   latitude not only in determining whether an expert’s testimony is reliable, but also in deciding how 
+25                                                                         
+    13 “A witness who is qualified as an expert by knowledge, skill, experience, training, or education 
+26                                                                         
+    may testify in the form of an opinion or otherwise if: (a) the expert’s scientific, technical, or other 
+    specialized knowledge will help the trier of fact to understand the evidence or to determine a fact 
+27                                                                         
+    in issue; (b) the testimony is based on sufficient facts or data; (c) the testimony is the product of 
+1   to determine the testimony’s reliability.”  Id. (citation omitted).   
+2        In this role, the judge is “a gatekeeper, not a fact finder,” and the “gate [should] not be 
+3   closed to [a] relevant opinion offered with sufficient foundation by one qualified to give it.”  
+4   Primiano v. Cook, 598 F.3d 558, 568 (9th Cir. 2010).  The purpose of the gatekeeping role is to 
+5   ensure that expert testimony is “properly grounded, well-reasoned and not speculative,” but it is 
+6   not meant to substitute for “[v]igorous cross-examination, presentation of contrary evidence, and 
+7   careful instruction on the burden and proof [which] are the traditional and appropriate means of 
+8   attacking shaky but admissible evidence.”  Fed. R. Evid. 702, Adv. Comm. Notes (2000) 
+9   (quotation omitted).  Thus, “[a]fter an expert establishes admissibility to the judge’s satisfaction, 
+10   challenges that go to the weight of the evidence are within the province of a fact finder, not a trial 
+11   court judge.”  Pyramid Technologies, Inc. v. Hartford Cas. Ins. Co., 752 F.3d 807, 814 (9th Cir. 
+12   2014).                                                                
+13        Because the Court acts as a gatekeeper and not a factfinder, an expert whose methodology 
+14   is otherwise reliable should not be excluded simply because the facts upon which his or her 
+15   opinions are predicated are in dispute, unless those factual assumptions are “indisputably wrong.”  
+16   See Guillory v. Domtar Indus. Inc., 95 F.3d 1320, 1331 (5th Cir. 1996) (excluding expert opinion 
+17   based on a “fictitious set of facts”); see also Fed. R. Evid. 702, Adv. Comm. Notes (2000) 
+18   (explaining that “[w]hen facts are in dispute, experts sometimes reach different conclusions” and a 
+19   trial court is not “authorize[d] . . . to exclude an expert’s testimony on the ground that the court 
+20   believes one version of the facts and not the other”).  Indeed, Rule 702 is “broad enough to allow 
+21   an expert to rely on hypothetical facts that are supported by the evidence.”  Fed. R. Evid. 702, 
+22   Adv. Comm. Notes (2000).  “It traditionally falls upon cross-examination to negate the facts or 
+23   factual assumptions underlying an expert’s opinion.”  In re MyFord Touch Consumer Litig., 291 
+24   F. Supp. 3d 936, 967 (N.D. Cal. 2018).                                
+25             b.   Overview of Professor Heston and His Report            
+26        Professor Heston is a Professor of Finance at the University of Maryland, Robert H. Smith 
+27   School of Business.  Exhibit 368 (Heston Report) ¶ 1.  He has held faculty positions as a Professor 
+1   sector at Goldman Sachs, where he served as Vice President in two different divisions.  Id. ¶¶ 1, 4.  
+2   According to Plaintiff, Professor Heston is “the preeminent scholar for option pricing theory and 
+3   practice in the United States.”  Opp. at 1.                           
+4        Professor Heston was asked to examine the price movements of Tesla’s stock options14 
+5   over the Class Period.  Heston Report ¶ 10.  In his report, Professor Heston offered five opinions 
+6   based on his observations and analysis of Tesla stock option pricing following the Musk Tweets.  
+7   Id. § 2 (Summary of Opinions).  Professor Heston’s opinions are as follows: (1) at-the-money-
+8   forward Tesla option prices, including straddles, provide a reasonable and reliable measurement of 
+9   option prices relative to underlying stock prices; (2) following 12:48 p.m. on August 7, 2018, 
+10   Tesla stock price rose, and long-term ATM-forward Tesla option straddle prices fell sharply; (3) 
+11   all long-term Tesla put options lost value on August 7, 2018; (4) prices of long-term out-of-the 
+12   money Tesla call options fell, while prices of long-term in-the-money Tesla call options rose on 
+13   August 7, 2018; and (5) the combined impact of the alleged misstatements on Tesla option prices 
+14   can be reliably and reasonably calculated using the Black-Scholes-Merton model.  Id. ¶¶ 11–15.  
+15   In sum, Professor Heston concluded that:                              
+
+16             [O]n August 7, 2018, following 12:48 p.m., the price of Tesla 
+              common stock rose which generally increased the prices of Tesla 
+17             call options and decreased the prices of Tesla put options.  
+              Simultaneously, long-term ATM-forward straddle prices fell  
+18             significantly as a percentage of the stock price (i.e., implied 
+              volatility fell).  Given but-for stock prices and but-for implied 
+19             volatilities, the Black-Scholes-Merton formulas can quantify the 
+              impact of but-for stock prices and implied volatilities on all Tesla 
+20             options traded during the Class Period.                     
+21   Id. ¶ 16.                                                             
+22             c.   Heston’s Report and Methodology                        
+23        Professor Heston’s report is divided into six sections.  In the first two sections, he provides 
+24   information regarding his qualifications and he summarizes his opinions.  Id. §§ 1 and 2.  In the 
+25   third section, Professor Heston provides background information on stock options and financial 
+26                                                                         
+    14 A stock option confers a right (but not an obligation) to buy stock at a fixed price, called the 
+27                                                                         
+    “strike price.”  Heston Report ¶ 18.  There are two types of options: a call option (which is an 
+1   terminology.  Id. § 3 (Background on Equity Options).  Professor Heston also discusses six factors 
+2   that can affect option prices, including implied volatility.  Id. ¶ 59.   
+3        Because implied volatility is important to Professor Heston’s analyses, the Court discusses 
+4   the matter.  Volatility is a measure of how much prices vary in a given market.  United States v. 
+5   Bogucki, 316 F. Supp. 3d 1177, 1181 (N.D. Cal. 2018).  Mathematically, it represents the average 
+6   deviation from the mean price.  Id.  “A high-volatility stock varies widely in price over a given 
+7   period of time, whereas a low-volatility stock varies little.”  Id. at 1181–82.  There are two 
+8   accepted methods for defining volatility: implied volatility and historical volatility.  In re Zoran 
+9   Corp. Derivative Litig., No. 06-cv-05503-WHA, 2008 WL 941897, at *6 n.3 (N.D. Cal. Apr. 7, 
+10   2008).  Historical volatility uses the past fluctuations of a stock price to arrive at volatility over a 
+11   given time period.  Id.  Implied volatility uses the trading prices of actual options (as opposed to 
+12   the underlying stock) to arrive at a result.  Id.  “Implied volatility thus takes into account the 
+13   current market view of the future volatility of the underlying stock while historical volatility uses 
+14   historical fluctuations.”  Id.; see also Heston Report ¶ 60 (explaining the difference between 
+15   historical volatility and implied volatility).                        
+16        Importantly, “[w]hen volatility is high, an option is generally more valuable, because the 
+17   chance that the option will need to be exercised increases.”  Bogucki, 316 F. Supp. 3d at 1182.  
+18   Meanwhile, an option is generally less valuable when volatility is low.  Id.  “This should make 
+19   sense intuitively: markets with high volatility are more uncertain, so traders have more incentive 
+20   to hedge.”  Id.  As Professor Heston puts it: “put and call options protect their holders from 
+21   downside risk: the most a holder can ever lose with an option is the premium.”15  Heston Report 
+22   ¶ 68.  “Option holders therefore benefit from implied volatility, because they stand to rake in large 
+23   profits given extreme favorable price movements, but are protected against similarly extreme 
+24   unfavorable price changes.”  Id.                                      
+25        Another important financial concept that Professor Heston explains in the background 
+26   section is an option straddle.  A “long straddle” is formed when an investor buys both a call and 
+27                                                                         
+1   put option of the same underlying asset with the same strike price and expiry date.  Id. ¶ 73.  The 
+2   rationale behind a long straddle is that the investor believes that the stock price will change 
+3   substantially but is not sure whether the price will rise or fall.  Id.  A “short straddle” occurs when 
+4   an investor sells a call and put option of the same underlying asset with the same strike price and 
+5   expiry date.  Id. ¶ 74.16  A short straddle writer is betting that the stock price will remain stable 
+6   (i.e., that there will be less implied volatility).  Id.  When holders buy a straddle, they benefit from 
+7   a large change in the stock price, regardless of the direction.  Id. ¶ 75.  If the stock price goes up, 
+8   for instance, the investor will exercise the call option and allow the put option to expire; 
+9   conversely, if the stock price decreases, the investor will exercise the put option and allow the call 
+10   option to expire.  Id.                                                
+11        In the fourth section of Professor Heston’s report, he explains options theory and the 
+12   Black-Scholes-Merton (“BSM”) model.  See Heston Report § 4.  The BSM model is a theoretical 
+13   mathematical valuation of an option contract consisting of various equations.  Id. ¶¶ 101, 105.  
+14   The BSM model considers several variables, including stock price, strike price, implied volatility, 
+15   and time to expiration, in order to determine the value of a stock option.  Id. ¶ 101; see also id. ¶¶ 
+16   105–06 (listing the variables used in the BSM formula and explaining how the variables interact 
+17   with each other).  Aside from implied volatility, the other variables in the BSM formula are 
+18   directly observable; as a result, the BSM model can be used to derive implied volatility.  See 
+19   Heston Report ¶¶ 59–60, 82; see also Exhibit HH (Heston Depo. Tr.) at 104:6-24 (explaining that 
+20   he calculated implied volatility by “inverting” price “to find what volatility would match that 
+21   price”).  According to Professor Heston, the BSM model is the accepted industry and academic 
+22   standard for option pricing.  Id. § 4.4; see also id. ¶ 113 (“[The] Black-Scholes option pricing 
+23   model is the most widely used formula, with embedded probabilities, in human history.”) (citation 
+24   omitted).  Many variations on the BSM model have emerged in the decades following its original 
+25   publication which relax or generalize particular assumptions.  Id. ¶ 113.  The original BSM 
+26                                                                         
+
+27                                                                         
+    16 As explained in the Heston Report, there is no temporal element to a “short” versus “long” 
+1   formula assumes that implied volatility is constant across stock and strike prices.  Id. ¶ 61. 
+2        In the fifth section of Professor Heston’s report, he described his analyses of Tesla’s stock 
+3   options during the Class Period.  See Heston Report § 5 (“Equity Options on Tesla Common Stock 
+4   During the Class Period”).  Professor Heston found that there were 2,443 Tesla option series 
+5   traded during the Class Period, which were roughly evenly divided between call options and pull 
+6   options.  Id. ¶ 114.  The strike prices of these option series ranged from $10 to $700, and the 
+7   maturities ranged from August 10, 2018 to January 17, 2020.  Id.  In total, seventeen maturity 
+8   dates were traded.  Id. ¶ 114 n.71.                                   
+9        Professor Heston further found that Tesla common stock price movements affected the 
+10   value of Tesla options.  Id. ¶¶ 118–23.  He observed that the price of long-term17 at-the-money 
+11   (“ATM”)-forward18 straddles dropped sharply after 12:48 p.m. on August 7, 2018.  Id. ¶¶ 130–31, 
+12   133.  Heston opined that all of the long-term Tesla stock options lost value because of a drop in 
+13   implied volatility.  Id. ¶¶ 154, 161.  The short-term stock options, on the other hand, slightly 
+14   gained in value.  Id. ¶ 133.  As Professor Heston put it, “the longer term an option was, the more 
+15   its price fell on the afternoon of August 7, 2018.”  Id. ¶ 146.  According to Professor Heston, the 
+16   straddle price movements that Professor Heston observed on August 7 deviated in statistically 
+17   significant ways from Tesla’s straddle price movements in the six months preceding August 7.  Id. 
+18   ¶ 137.  Professor Heston opined that these option price movements were consistent with the 
+19   academic literature on option prices following a merger and buyout announcement: typically, 
+20   implied volatility decreases when the deal is perceived as “close to being successful.”  Id. ¶¶ 134–
+21   35 (internal citation omitted).                                       
+22                                                                         
+    17 Professor Heston defined long-term Tesla options as those expiring on or after October 19, 
+23                                                                         
+    2018.  Id. ¶ 131.  Of the seventeen different maturity dates traded during the Class Period, nine of 
+    them were on or after October 19, 2018.  See id. ¶ 131 n.81.          
+24                                                                         
+
+    18 Options can be “in-the-money” (“ITM”), “at-the-money” (“ATM”), or “out-of-the-money” 
+25                                                                         
+    (“OTM”).  Id. ¶ 21.  Generally, an investor will only an exercise an option if it is in-the-money—
+    i.e. it would be profitable to exercise the option.  Id. ¶¶ 21, 33, 42.  An option is at-the-money 
+26                                                                         
+    when the current price of the stock (the “spot price”) equals the strike price.  Id. ¶ 21.  An ATM-
+    forward straddle, as opposed to a simple ATM straddle, means that the forward (rather than the 
+27                                                                         
+    spot) price equals the strike for both option positions in the straddle.  Id. ¶¶ 80 & 80 n.32 
+1        In the sixth section of Professor Heston’s report, he applies the BSM model and other 
+2   economic principles to calculate Tesla’s “counterfactual” prices for Tesla’s stock options.  See 
+3   Heston Report § 6 (“The BSM Model Can Calculate Counterfactual Option Prices.”).  Professor 
+4   Heston uses an “impact quantum”19 to calculate the difference between option prices based on 
+5   actual option transactions and the calculated price for an option using counterfactual stock price 
+6   and implied volatility.  Id. ¶ 164.  Professor Heston’s methodology is designed to capture the 
+7   change in option prices as opposed to the level of prices.  Id. (“We apply the BSM model with a 
+8   robust methodology that measures changes in value, thereby differencing out potential biases in 
+9   levels.”) (emphasis in original); Ex. C (Heston Depo. Tr.) at 249:11-17; cf. Heston Rebuttal Report 
+10   ¶ 22.                                                                 
+11        Professor Heston’s five-step methodology for calculating the counterfactual prices for 
+12   Tesla’s stock options is as follows.  First, he creates a synthetic Tesla instrument—an ATM-
+13   forward straddle—based on the actual prices of Tesla put and call options just below and just 
+14   above the money to calculate the price of a straddle that is exactly at-the-money.20  Heston Report 
+15   ¶ 165(a); Ex. C (Heston Depo. Tr.) at 72:25–73:6.  Second, based on the price of the ATM-
+16   forward straddle, Professor Heston applies the BSM model to derive the implied volatility.  
+17   Heston Report ¶ 165(a); Ex. HH (Heston Depo. Tr.) at 93:10–14 (“I’m observing the actual quoted 
+18   price of a portfolio of options, which is exactly at-the-money forward, and then I’m inverting that 
+19   actual price to find what volatility would match that price.”).  Professor Heston refers to this 
+20   calculated implied volatility as the “Actual Implied Volatility.”  Heston Report ¶ 165(a).  Third, 
+21   Professor Heston calculates the price for the ATM-forward straddle, and a corresponding implied 
+22                                                                         
+    19 An impact quantum measures the magnitude of a shift.  Heston Report ¶¶ 163, 181 (explaining 
+23                                                                         
+    that an impact quantum shows a dollar or percentage amount by which an option would have been 
+    more or less expensive).  As Professor Heston says in his rebuttal report, “the measurement of 
+24                                                                         
+    impact quantum is the difference between option values under one set of assumptions, and option 
+    values under an alternative but-for scenario.  It is essentially the change in option values under two 
+25                                                                         
+    different scenarios.”  Heston Rebuttal Report ¶ 29.                   
+
+26                                                                         
+    20 Professor Heston created an ATM-forward straddle “because ATM-forward straddle prices 
+    represent the total price of a portfolio of ATM-forward options for a particular maturity.”  Id. ¶ 81.  
+27                                                                         
+    Professor Heston further explained that, according to the BSM model, “implied volatility of an 
+1   volatility, for the seventeen Tesla option maturities traded during the Class Period.  Fourth, for 
+2   each of the seventeen ATM-forward straddles, Professor Heston uses Tesla’s stock price on each 
+3   day of the Class Period and the calculated implied volatility, to derive a “Re-Valued Fitted Option 
+4   Value.”  Id. ¶ 165(b).  Finally, Professor Heston opines that a “but-for” option price can be 
+5   calculated for each Tesla option traded during the Class Period by plugging into his formula a 
+6   “counterfactual implied volatility and stock price,” which is based on Tesla’s implied volatility 
+7   and stock price at 12:47 p.m. on August 7, 2018 (i.e. the minute before Mr. Musk published his 
+8   first tweet), and identifying the difference between the Re-Valued Fitted Option Value and But-for 
+9   Fitted Option Value.   Id. ¶¶ 166, 183; see also Table 5 (providing an “illustrative impact 
+10   example”).                                                            
+11             d.   Professor Heston’s Use of the BSM Model for But-For Prices is Sound 
+12        Professor Heston was tasked with analyzing the price movements of options on Tesla stock 
+13   during the Class Period and attempting to create, through the use of statistical modeling, 
+14   counterfactual (but-for) option prices in a world where the Musk Tweets did not exist.  In this 
+15   hypothetical but-for world, Tesla’s stock options would still have been bought and sold, and 
+16   option prices still would have risen and fallen.  Of course, the precise prices and levels of implied 
+17   volatility are unknowable: this counterfactual world is marked by educated guesses and well-
+18   informed assumptions.  As a result, some form of modeling must be used to derive counterfactual 
+19   prices.  The question for the Court is whether Professor Heston’s model to predict these 
+20   counterfactual but-for prices is sufficiently reliable to satisfy Daubert. 
+21        The Court finds that Professor Heston’s use of the BSM model to derive implied volatility 
+22   and calculate counterfactual prices is sufficiently reliable for Daubert.  Putting aside Professor 
+23   Heston’s use of artificial data, which is discussed below, his methodology is otherwise sufficiently 
+24   sound: it draws from peer-reviewed and published work and is subject to peer testing, and the 
+25   BSM model enjoys widespread acceptance in the scientific community.  Academic research 
+26   supports the general idea of modelling option values by fitting an implied volatility curve.  
+27   Hartzmark Rebuttal Report ¶ 27 (citing John Hull, Option, Futures and Other Derivatives (2015)).  
+1   Litig., 273 F.R.D. 586, 618 (C.D. Cal. 2009), for which Robert Merton and Myron Scholes 
+2   received the Nobel Memorial Prize in Economics.  Heston Report ¶ 111.  The Black-Scholes paper 
+3   from 1973 has over 40,000 citations on Google Scholar.  Heston Rebuttal Report ¶ 12.  And 
+4   Defendants themselves do not dispute that the BSM model can be used to predict option prices in 
+5   certain circumstances; as explained below, the issues raised in their motion primarily flow from 
+6   Professor Heston’s use of “theoretical prices” for “synthetic Tesla instruments” that did not 
+7   actually trade.  Opp. at 1, 2 n.1.                                    
+8        To the extent that Defendants take issue with Professor Heston’s assumption that implied 
+9   volatility will remain constant across a portfolio of options with the same date of expiry for but-for 
+10   prices, the Court finds that this assumption is sufficiently supported for Daubert.  The use of one 
+11   implied volatility for all options with the same maturity is an assumption that is derived from the 
+12   BSM model itself.  See Heston Report ¶ 61; see also Heston Rebuttal Report ¶ 25 (“By definition, 
+13   the BSM formula assumes constant implied volatility.”).  As noted by Plaintiff, “the application of 
+14   one implied volatility to value multiple option series for the same maturity is widely accepted in 
+15   the finance industry and, indeed, Tesla itself does this when valuing options for its financial 
+16   statements.”  Opp. at 2, 4; see also Ex. II (Excerpts from Tesla Inc.’s 10-K, dated December 31, 
+17   2021) at 60, 82–83 (showing that Tesla uses the Black-Scholes option-pricing model to derive the 
+18   fair value of stock option awards); Ex. JJ (Seru Depo. Tr.) at 28:3-6 (testifying that he was aware 
+19   that Tesla uses the Black-Scholes formula to value its options for accounting purposes and that use 
+20   of the Black-Scholes model to evaluate stock options was “a pretty standard practice”).  
+21        In the same vein, to the extent that Defendants argue that Professor Heston’s methodology 
+22   is unreliable because his calculations (based on an assumed constant implied volatility) yielded 
+23   different figures than Professor Seru’s calculations (based on a variable implied volatility), this 
+24   does not warrant exclusion under Daubert.  As to Defendants’ disagreement with Professor 
+25   Heston’s choice—based on the BSM model—to assume a constant rate of implied volatility, 
+26   Professor Heston’s decision is supported by academic research; there is evidence that models 
+27   using constant implied volatility perform better than models with variable implied volatility for 
+1   Defendants are, of course, free to argue to the jury that a different model with different 
+2   assumptions is better suited to calculating option price changes.  But these differences do not 
+3   make Professor Heston’s methodology fatally unreliable under Daubert.   
+4        In sum, the Court is satisfied that Professor Heston’s use of the BSM model to derive 
+5   implied volatility and calculate the but-for curve satisfies Daubert. 
+6        The Court next addresses Professor Heston’s use of theoretical data instead of actual 
+7   market data for each stock option at issue to calculate the “actual option curve,” or, as Professor 
+8   Heston refers to it, the “re-valued fitted option value.”  Heston Report ¶ 183. 
+9             e.   Professor Heston’s Use of Theoretical Data Raises Serious Questions 
+10        Defendants argue that Professor Heston’s model for calculating damages to Tesla’s option 
+11   holders is unreliable because it does not compare actual Tesla option prices or quotes with “but 
+12   for” prices.  Mot. at 1.  Instead, Professor Heston calculates prices for 17 synthetic Tesla 
+13   instruments via ATM-forward straddles and then applies these prices to the 2,443 Tesla options 
+14   that traded during the Class Period, even though—according to Defendants—these stock options 
+15   had “markedly different strike prices, maturities, and moneyness.”  Id. at 3.  Professor Heston and 
+16   Professor Hartzmark use the difference between these calculated predicted “actual” prices with the 
+17   calculated but-for prices to measure damages.  Defendants assert that the flaws in Professor 
+18   Heston’s use of model-generated price predictions are evidenced by the fact that, at least a 
+19   hundred times, his model assigns damages to some class members which exceed their investment.  
+20   Id. at 3–4.  Defendants conclude that Professor Heston’s use theoretical prices rather than actual 
+21   market data is “junk financial engineering with no semblance to reality.”  Mot. at 2.   
+22        Defendants have raised serious questions about Professor Heston’s use of theoretical data 
+23   to calculate the “re-valued” curve.  As noted above, the “but-for” curve requires predictive 
+24   modeling to derive counterfactual prices.  But it is not clear why calculated theoretical re-valued 
+25   prices are needed to determine damages when actual option prices and implied volatility exist, are 
+26   available, and can be used to generate the actual curve.  During the hearing, in response to the 
+27   Court’s questioning, Plaintiff could not point to any precedent in caselaw or practice where 
+1   each specific stock option.  Plaintiff also conceded that he could use actual option prices to 
+2   compare with the hypothetical but-for price to calculate damages.  Finally, the instances where the 
+3   purported damages for certain investors exceeded their investments indicate a potential problem 
+4   with the integrity of the model for which Plaintiff had no good answer.  During the hearing, in 
+5   response to the concerns expressed by the Court, Plaintiff agreed to use actual, not adjusted, data 
+6   to calculate the “actual” (not but-for) curve.  As a result, the Court need not decide whether 
+7   Professor Heston’s use of theoretical data to calculate the “re-valued fitted option value” fails 
+8   Daubert; that issue is now moot.                                      
+9        The Court now turns to a purported failure to account for potential confounding factors, 
+10   which is the final issue raised by Defendants in their motion.21      
+11             f.   Implications for Hartzmark’s Report                    
+12        Finally, Defendants object that neither Professor Heston nor Professor Hartzmark showed 
+13   that the changes in implied volatility were not caused by confounding variables (such as market-
+14   wide or industry-specific forces).  Id. at 1, 6–7.  As discussed below, Professor Hartzmark 
+15   conducted an event study in which he accounted for market and industry factors and potential 
+16   firm-specific confounding news that could have impacted Tesla’s common stock price.  Hartzmark 
+17   Report ¶¶ 49, 146–50.  The question for the Court is whether Professor Hartzmark sufficiently 
+18   addressed potentially confounding factors for implied volatility.     
+19        Both Professor Heston and Professor Hartzmark found that there were “large and unusual 
+20   movements” in options prices and related implied volatility following the Musk Tweets, which 
+21   Professor Hartzmark opined were caused by the Musk Tweets and “reflected an increased 
+22   probability of a going private transaction being completed.”  Hartzmark Report ¶¶ 185–86; see 
+23   also id. ¶ 206 (noting that “the predominant cause” of Tesla’s stock price declines and anomalous 
+24   changes in implied volatility over the Class Period was the continual incorporation of news (or 
+25   lack thereof) correcting the alleged misrepresentations and omissions of the Musk Tweets and the 
+26                                                                         
+    21 The other issues raised by Defendants in their motion with respect to Professor Heston’s 
+27                                                                         
+    methodology—such as the purportedly “nonsensical” results and their disagreement with 
+1   revelations about the Consequential Harm).  In reaching this conclusion, Professor Hartzmark first 
+2   adjusted for overall market-wide and industry-wide influences which lowered Tesla’s stock 
+3   price.22  Hartzmark Report ¶¶ 147–48 (calculating the adjusted price of Tesla common stock from 
+4   August 7 to 17); see also Table 5 (listing adjusted prices for Tesla common stock).  Professor 
+5   Hartzmark also conducted an event study and reviewed hundreds of news articles and analyst 
+6   reports to determine whether Tesla’s stock price might have been impacted by disclosure of 
+7   company-specific information unrelated to the alleged misstatements.  Id. ¶¶ 149–150.  Professor 
+8   Hartzmark did not find any materially negative new confounding information that would have 
+9   caused Tesla’s stock price to fall.  Id. ¶¶ 150–69; see also Table 6 (listing disclosures with 
+10   potentially confounding news).                                        
+11        It stands to reason that Professor Hartzmark’s event study which found no new, company-
+12   specific confounding information decreased Tesla’s stock price carries some weight with respect 
+13   to implied volatility.  While the Court recognizes that implied volatility is different from stock 
+14   price, they are related, and neither party described any evidence nor articulated any reason to 
+15   believe that the observed movements in implied volatility were due to something other than the 
+16   Musk Tweets.  And in fact, both Professor Heston and Professor Hartzmark cited academic 
+17   research demonstrating that implied volatility typically falls for options with successively longer 
+18   expiration dates following announcement of a merger or buyout.  Heston Report ¶ 134; Hartzmark 
+19   Report ¶¶ 187–88, 194.  Professor Heston found that this “exact pattern [was] visible in the Tesla 
+20   options data”: after 12:48 p.m. on August 7, “the longest maturing options lost the most value and 
+21   recovered the slowest, while the very short-term options saw little effect.”  Heston Report ¶ 135 
+22   (emphasis in original); see also Hartzmark Report ¶ 189 (describing how other analysts noted a 
+23   relationship between changes in volatility of Tesla’s long-dated options and the Musk Tweets).  
+24   According to Professor Heston, this pattern deviated significantly from the previously observed 
+25                                                                         
+    22 During the hearing, Plaintiff explained that Professor Hartzmark uses these adjusted prices when 
+26                                                                         
+    determining the but-for price for Tesla’s stock options to account for market-wide influences.  See 
+    Docket No. 507 (October 25, 2022 PTC Tr.) at 58:5-9 (“So when it comes to determining the but-
+27                                                                         
+    for price for stock options, Dr. Hartzmark doesn’t propose to use the $305.50, which is the 
+1   relationship between short- and long-term straddles in the six months leading up to August 7 and 
+2   the six months following August 7; the pattern remained in flux during the Class Period.  Heston 
+3   Report ¶¶ 136, 138; see also Figure 16 (showing statistically significant deviations in short- and 
+4   long-term straddles on multiple days in the Class Period).  Professor Heston found that “[i]t was 
+5   not until August 17, 2018, that the relationship between short- and long-term straddles returned to 
+6   the normal levels observed historically.”  Heston Report ¶ 139; see also Hartzmark Report ¶ 190 
+7   (“Professor Heston demonstrates that for longer-term options the volatility over the Class Period 
+8   immediately declines and then rises by August 17, 2018.”).            
+9        In light of the event study for stock price and the evidence put forth linking changes in 
+10   implied volatility to privatization transactions analogized here, and in the absence of any evidence 
+11   suggesting that unrelated facts contributed to the changes in implied volatility, the Court finds that 
+12   Professor Hartzmark sufficiently addressed potentially confounding factors to survive Daubert.  
+13   See S.E.C. v. Leslie, No. 07-cv-3444, 2010 WL 2991038, at *15 (N.D. Cal. July 29, 2010) (“While 
+14   [defendant] certainly may argue to the jury that [the expert] did not reliably filter out other 
+15   confounding variables that would have affected the stock price[,]  . . .  he has not shown that [the] 
+16   opinion is so unreliable that it must be excluded.”); Smilovits v. First Solar, Inc., No. 12-cv-0555, 
+17   2019 WL 7282026, at *9 (D. Ariz. Dec. 27, 2019) (“Defendants’ criticisms that Feinstein 
+18   discounted the confounding information and exaggerated the impact of the alleged fraud go to his 
+19   credibility and the weight of his opinions, not their admissibility.”).  Defendants’ motion to 
+20   exclude Professor Hartzmark’s report on the basis of a purported failure to disaggregate 
+21   confounding information for stock options is DENIED.                  
+22             g.   Conclusion                                             
+23        Professor Heston’s use of the BSM model to derive the but-for curve is sufficiently 
+24   justifiable to pass Daubert scrutiny.  Defendants raised substantial questions regarding Professor 
+25   Heston’s use of theoretical data to calculate the “actual” curve, but because Plaintiff agreed to 
+26   rerun his calculations to use actual, not adjusted market data, for each individual stock option, the 
+27   Court ultimately does not rule on whether that aspect of Professor Heston’s methodology fails 
+1   an alleged failure to address confounding information.                
+2                          VII.   CONCLUSION                              
+3        In summary, the Court rules on the parties’ motions in limine as follows: 
+4          •  Plaintiff’s Motion in Limine No. 2 to Exclude Testimony, Opinion, and Evidence 
+5             by Defendants’ Experts not Contained in their Written Reports (Docket No. 480): 
+6             GRANTED IN PART AND DENIED IN PART.  Despite the lack of express 
+7             wording, Professor Fischel’s reports bear on materiality, so he may testify 
+8             regarding the materiality of the Musk Tweets.  But Professor Fischel may not opine 
+9             regarding Tesla’s stock options because these opinions were not disclosed in his 
+10             reports, and Defendants have not shown that this failure was substantially justified 
+11             or harmless.                                                
+12          •  Plaintiff’s Motion in Limine No. 3 to Preclude Evidence or Testimony from Elon 
+13             Musk that Contradicts the Court’s Summary Judgment Order (Docket No. 481): 
+14             DENIED.  Defendants may not argue at trial that the Musk Tweets were true.  The 
+15             issues of factual falsity and Mr. Musk’s recklessness were decided as a matter of 
+16             law at summary judgment.  But Mr. Musk’s testimony regarding the Musk Tweets 
+17             remains probative and relevant to the questions of materiality, the level of scienter, 
+18             and to the appointment of damages.                          
+19          •  Plaintiff’s Motion in Limine No. 4 to Exclude Irrelevant and Duplicative Evidence 
+20             re: Falsity or Scienter (Docket No. 482): DENIED.  As with the previous motion in 
+21             limine, this motion rests on the faulty premise that this evidence is irrelevant. 
+22          •  Plaintiff’s Motion in Limine No. 5 to Preclude Evidence re: Post-Class Period 
+23             Events (Docket No. 483): GRANTED IN PART AND DENIED IN PART. 
+24             Plaintiff has failed to demonstrate how events within the PSLRA’s 90-day 
+25             lookback period are per se relevant or that events that occurred after the 90-day 
+26             lookback period are per se irrelevant.  But because the specific evidence that 
+27             Plaintiff has identified in his motion is either inadmissible or irrelevant, the Court 
+1          •  Defendants’ Motion in Limine No. 4 to Exclude Evidence Regarding the SEC 
+2             Complaints and Settlements (Docket No. 478): GRANTED.  The danger of unfair 
+3             prejudice outweighs the probative value of these materials.    
+4          •  Defendants’ Motion in Limine No. 5 to Exclude the Opinions of Steven Heston and 
+5             Michael Hartzmark’s Opinions that Rely on Them (Docket No. 479): DENIED.  
+6             Professor Heston’s use of the BSM model to calculate the counterfactual but-for 
+7             price of stock options is sufficiently reliable for Daubert.  And while Defendants 
+8             raised serious questions about Professor Heston’s use of artificial data to calculate 
+9             the “actual” price, the Court DENIES this portion of the motion as moot in light of 
+10             Plaintiff’s decision to rerun his analyses using actual option price data instead of 
+11             the theoretical prices derived from straddles.  Defendants’ motion to exclude 
+12             Professor Hartzmark’s report on the basis of a purported failure to disaggregate 
+13             confounding information for stock options is DENIED.        
+14                                                                         
+15        IT IS SO ORDERED.                                                
+16                                                                         
+17   Dated: December 7, 2022                                               
+18                                                                         
+19                                   ______________________________________ 
+                                    EDWARD M. CHEN                        
+20                                   United States District Judge          
+21                                                                         
+22                                                                         
+23                                                                         
+24                                                                         
+25                                                                         
+26                                                                         
+27                                                                         

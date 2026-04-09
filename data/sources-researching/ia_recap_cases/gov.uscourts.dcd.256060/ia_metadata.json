@@ -1,0 +1,29 @@
+{
+  "identifier": "gov.uscourts.dcd.256060",
+  "collection": [
+    "usfederalcourts",
+    "USGovernmentDocuments",
+    "government-documents"
+  ],
+  "contributor": "<a href=\"https://free.law\" rel=\"ugc nofollow\">Free Law Project</a>",
+  "court": "dcd",
+  "description": "This item represents a case in PACER, the U.S. Government's website for federal case data. If you wish to see the entire case, please consult PACER directly.",
+  "language": "eng",
+  "licenseurl": "https://www.usa.gov/government-works",
+  "mediatype": "texts",
+  "scanner": "Internet Archive Python library 3.3.0",
+  "source_url": "https://www.courtlistener.com/docket/67474542/2/v-securities-and-exchange-commission/",
+  "title": "v. SECURITIES AND EXCHANGE COMMISSION",
+  "uploader": "info@free.law",
+  "publicdate": "2023-06-06 09:28:45",
+  "addeddate": "2023-06-06 09:28:45",
+  "identifier-access": "http://archive.org/details/gov.uscourts.dcd.256060",
+  "identifier-ark": "ark:/13960/s2gxspvv0f6",
+  "ppi": "300",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "pdf-to-hocr 1.1.57",
+  "collection_added": [
+    "USGovernmentDocuments",
+    "government-documents"
+  ]
+}

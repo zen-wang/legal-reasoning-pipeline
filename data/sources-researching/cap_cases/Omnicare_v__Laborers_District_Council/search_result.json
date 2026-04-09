@@ -1,0 +1,79 @@
+{
+  "absolute_url": "/opinion/2788684/omnicare-inc-v-laborers-dist-council-constr-industry-pension-fund/",
+  "attorney": "Kannon K. Shanmugam, Washington, DC, for Petitioners., Thomas C. Goldstein, Washington, DC, for Respondents., Nicole A. Saharshky for the United States as amicus curiae, by special leave of the Court, supporting the Respondents., Linda T. Coberly, Winston & Strawn LLP, Chicago, IL, Harvey Kurzweil, Richard W. Reinthaler, John E. Schreiber, Winston & Strawn LLP, New York, NY, Andrew C. Nichols, Winston & Strawn LLP, Washington, DC, Kannon K. Shanmugam, Counsel of Record, Joseph M. Terry, John S. Williams, Sarah K. Campbell, A. Joshua Podoll, Williams & Connolly LLP, Washington, DC, for Petitioners., Thomas C. Goldstein, Kevin K. Russell, Goldstein & Russell, P.C., Washington, DC, Kevin L. Murphy, Graydon Head & Ritchey LLP, Fort Mitchell, KY, Darren J. Robbins, Eric Alan Isaacson, Counsel of Record, Henry Rosen, Joseph D. Daley, Steven F. Hubachek, Amanda M. Frame, Susannah R. Conn, David J. Harris, Jr., Robbins Geller Rudman & Dowd LLP, San Diego, CA, for Respondents.",
+  "caseName": "Omnicare, Inc. v. Laborers Dist. Council Constr. Industry Pension Fund",
+  "caseNameFull": "OMNICARE, INC., Et Al., Petitioners v. LABORERS DISTRICT COUNCIL CONSTRUCTION INDUSTRYPENSION FUND Et Al.",
+  "citation": [
+    "575 U.S. 175",
+    "135 S. Ct. 1318",
+    "191 L. Ed. 2d 253",
+    "2015 U.S. LEXIS 2120",
+    "25 Fla. L. Weekly Fed. S 139",
+    "83 U.S.L.W. 4187"
+  ],
+  "citeCount": 513,
+  "cluster_id": 2788684,
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "court_id": "scotus",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2015-03-24",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "13-435",
+  "docket_id": 2644090,
+  "judge": "KAGANdelivered",
+  "lexisCite": "2015 U.S. LEXIS 2120",
+  "meta": {
+    "timestamp": "2026-03-12T18:49:51.692764Z",
+    "date_created": "2015-03-24T15:43:11.147489Z",
+    "score": {
+      "bm25": 56.40409
+    }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+    {
+      "author_id": null,
+      "cites": [
+        96405,
+        109481,
+        110825,
+        112098,
+        112648,
+        145875,
+        205202,
+        612337,
+        745349,
+        1568810
+      ],
+      "download_url": "http://www.supremecourt.gov/opinions/14pdf/13-435_8o6b.pdf",
+      "id": 2788684,
+      "joined_by_ids": [],
+      "local_path": "pdf/2015/03/24/omnicare_inc._v._laborers_dist._council_constr._industry_pension_fund.pdf",
+      "meta": {
+        "timestamp": "2026-03-12T18:49:51.671342Z",
+        "date_created": "2015-03-24T15:01:05.174756Z"
+      },
+      "ordering_key": null,
+      "per_curiam": false,
+      "sha1": "b9447cea4c034dcdeb055418b9cae2db367532bd",
+      "snippet": "\n\n\n\n   Opinion\n  \n\n   *1323\n  \n  Justice KAGANdelivered the opinion of the Court.\n \n\n  Before a company may sell securities in interstate commerce, it must file a registration statement with the Securities and Exchange Commission (SEC). If that document either \"contain[s] an untrue stat",
+      "type": "combined-opinion"
+    }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "2014-012",
+  "sibling_ids": [
+    2788684
+  ],
+  "source": "CU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+}

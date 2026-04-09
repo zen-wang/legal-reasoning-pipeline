@@ -1,0 +1,89 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Kraft Heinz Co",
+  "cik": 1637459,
+  "sic": "2030",
+  "sic_description": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+  "tickers": [
+    "KHC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "stateOfIncorporation": "DE",
+  "why_selected": "SEC 調查會計問題",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "8-K",
+      "date": "2026-02-18",
+      "accession": "0001637459-26-000013",
+      "filename": "8-K_2026-02-18_khc-20260211.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-K",
+      "date": "2026-02-12",
+      "accession": "0001637459-26-000009",
+      "filename": "10-K_2026-02-12_khc-20251227.htm",
+      "description": "10-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-02-11",
+      "accession": "0001637459-26-000006",
+      "filename": "8-K_2026-02-11_khc-20260211.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-20",
+      "accession": "0001104659-26-005094",
+      "filename": "8-K_2026-01-20_tm263487d1_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-16",
+      "accession": "0001193125-25-319938",
+      "filename": "8-K_2025-12-16_d95367d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-10-29",
+      "accession": "0001637459-25-000166",
+      "filename": "10-Q_2025-10-29_khc-20250927.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-10-29",
+      "accession": "0001637459-25-000164",
+      "filename": "8-K_2025-10-29_khc-20251029.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-10-22",
+      "accession": "0001637459-25-000160",
+      "filename": "8-K_2025-10-22_khc-20251022.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-09-02",
+      "accession": "0000950142-25-002336",
+      "filename": "8-K_2025-09-02_eh250673203_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-07-30",
+      "accession": "0001637459-25-000152",
+      "filename": "10-Q_2025-07-30_khc-20250628.htm",
+      "description": "10-Q"
+    }
+  ],
+  "total_filings_available": 834
+}

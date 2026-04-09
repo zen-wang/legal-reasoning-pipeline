@@ -1,0 +1,100 @@
+{
+  "cik": "0001605326",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Servabo, Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "463285210",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1214",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "addresses": {
+    "mailing": {
+      "street1": "60 HAZELWOOD DRIVE",
+      "street2": null,
+      "city": "CHAMPAIGN",
+      "stateOrCountry": "IL",
+      "zipCode": "61820",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "60 HAZELWOOD DRIVE",
+      "street2": null,
+      "city": "CHAMPAIGN",
+      "stateOrCountry": "IL",
+      "zipCode": "61820",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "309-398-7710",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001605326-14-000001"
+      ],
+      "filingDate": [
+        "2014-04-11"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2014-04-11T10:48:36.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-215373"
+      ],
+      "filmNumber": [
+        "14759014"
+      ],
+      "items": [
+        "06b"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "size": [
+        6800
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

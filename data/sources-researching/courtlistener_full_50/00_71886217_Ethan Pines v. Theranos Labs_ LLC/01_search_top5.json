@@ -1,0 +1,562 @@
+[
+  {
+    "assignedTo": "Maria A. Audero",
+    "assigned_to_id": 9046,
+    "attorney": [
+      "Stephen M. Doniger",
+      "Benjamin Firestone Tookey"
+    ],
+    "attorney_id": [
+      10878630,
+      10857174
+    ],
+    "caseName": "Ethan Pines v. Theranos Labs, LLC",
+    "case_name_full": "",
+    "cause": "17:101 Copyright Infringement",
+    "chapter": null,
+    "court": "District Court, C.D. California",
+    "court_citation_string": "C.D. Cal.",
+    "court_id": "cacd",
+    "dateArgued": null,
+    "dateFiled": "2025-11-06",
+    "dateTerminated": "2026-02-02",
+    "docketNumber": "2:25-cv-10703",
+    "docket_absolute_url": "/docket/71886217/ethan-pines-v-theranos-labs-llc/",
+    "docket_id": 71886217,
+    "firm": [
+      "Doniger Burroughs APC",
+      "Doniger Burroughs"
+    ],
+    "firm_id": [
+      28059,
+      15055
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2026-02-27T17:26:13.103485Z",
+      "date_created": "2025-11-07T02:02:25.819523Z",
+      "score": {
+        "bm25": 1074.3744
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "994656",
+    "party": [
+      "Does",
+      "Access Medical Laboratories, LLC",
+      "Theranos Labs, LLC",
+      "Ethan Pines",
+      "Ryan ElHosseiny"
+    ],
+    "party_id": [
+      16688754,
+      16649909,
+      16649910,
+      16649911,
+      16649912
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/71886217/5/pines-v-theranos-labs-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Request for Clerk to Issue Summons on Complaint (Attorney Civil Case Opening) 1 filed by Plaintiff Ethan Pines. (Doniger, Stephen) (Entered: 11/06/2025)",
+        "docket_entry_id": 443412287,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-06",
+        "entry_number": 5,
+        "filepath_local": "recap/gov.uscourts.cacd.994656/gov.uscourts.cacd.994656.5.0.pdf",
+        "id": 458047954,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-27T17:26:13.073142Z",
+          "date_created": "2025-11-07T02:02:25.865030Z"
+        },
+        "pacer_doc_id": "031046277778",
+        "page_count": 2,
+        "short_description": "Summons Request",
+        "snippet": "             Case 2:25-cv-10703                 Document 5      Filed 11/06/25        Page 1 of 2 Page ID #:29\n\nAO 440 (Rev. 06/12) Summons in a Civil Action\n\n\n                                      UNITED STATES DISTRICT COURT\n                                                                 for the\n                                                     Central District\n                                                  __________  DistrictofofCalifornia\n                                             "
+      },
+      {
+        "absolute_url": "/docket/71886217/1/pines-v-theranos-labs-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT Receipt No: ACACDC-40865786 - Fee: $405, filed by Plaintiff Ethan Pines. (Attorney Stephen M. Doniger added to party Ethan Pines(pty:pla))(Doniger, Stephen) (Entered: 11/06/2025)",
+        "docket_entry_id": 443412308,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-06",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.cacd.994656/gov.uscourts.cacd.994656.1.0.pdf",
+        "id": 458047975,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-27T17:26:13.073142Z",
+          "date_created": "2025-11-07T02:02:28.118965Z"
+        },
+        "pacer_doc_id": "031046277742",
+        "page_count": 23,
+        "short_description": "Complaint (Attorney Civil Case Opening)",
+        "snippet": "       Case 2:25-cv-10703      Document 1     Filed 11/06/25    Page 1 of 23 Page ID #:1\n\n\n\n 1 Stephen M. Doniger (SBN 179314)\n     stephen@donigerlawfirm.com\n 2 Benjamin Tookey (SBN 330508)\n 3 btookey@donigerlawfirm.com\n     DONIGER / BURROUGHS\n 4 603 Rose Avenue\n 5 Venice, California 90291\n     Telephone: (310) 590-1820\n 6\n 7 Attorneys for Plaintiff\n 8                            UNITED STATES DISTRICT COURT\n 9                           CENTRAL DISTRICT OF CALIFORNIA\n\n10   Ethan Pines, an indiv"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "820 Copyright",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Yvonne Gonzalez Rogers",
+    "assigned_to_id": 2766,
+    "attorney": [
+      "Sean Eskovitz",
+      "Marc A. Wites",
+      "Laurence D. King",
+      "Linda M. Fong"
+    ],
+    "attorney_id": [
+      1471712,
+      1471713,
+      3154098,
+      3154097
+    ],
+    "caseName": "Brown v. Theranos, Inc.",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, N.D. California",
+    "court_citation_string": "N.D. Cal.",
+    "court_id": "cand",
+    "dateArgued": null,
+    "dateFiled": "2016-06-21",
+    "dateTerminated": "2016-08-24",
+    "docketNumber": "4:16-cv-03454",
+    "docket_absolute_url": "/docket/4495565/brown-v-theranos-inc/",
+    "docket_id": 4495565,
+    "firm": [
+      "Kaplan Fox & Kilsheimer LLP",
+      "Kaplan Fox and Kilsheimer LLP",
+      "Wilkinson Walsh Eskovitz LLP",
+      "Wites Law Firm",
+      "Eskovitz Law LLP"
+    ],
+    "firm_id": [
+      293410,
+      367925,
+      857209,
+      592445,
+      14047
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-03T08:05:26.357482Z",
+      "date_created": "2016-11-15T09:53:38.303010Z",
+      "score": {
+        "bm25": 638.9484
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "300048",
+    "party": [
+      "Bobbie Brown",
+      "Theranos, Inc."
+    ],
+    "party_id": [
+      4236726,
+      4236727
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/4495565/4/brown-v-theranos-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "AFFIDAVIT re 2 Complaint [Declaration of Laurence D. King Pursuant to California Civil Code Section 1780(d)] by BOBBIE BROWN. (King, Laurence) (Filed on 6/21/2016) (Entered: 06/21/2016)",
+        "docket_entry_id": 13157817,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2016-06-21",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 9640129,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-03-30T16:06:50.836648Z",
+          "date_created": "2016-11-15T09:53:38.417023Z"
+        },
+        "pacer_doc_id": "035014321816",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Richard Gibson Andrews",
+    "assigned_to_id": 113,
+    "attorney": [
+      "Kevin R. Shannon",
+      "Alan Richard Silverstein",
+      "Kristen R. Seeger",
+      "Christopher Nicholas Kelly",
+      "David A. Gordon",
+      "G. David Dean , II"
+    ],
+    "attorney_id": [
+      3632520,
+      3632521,
+      3632522,
+      3632523,
+      3632524,
+      3632525
+    ],
+    "caseName": "Walgreen Co. v. Theranos, Inc.",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Breach of Contract",
+    "chapter": null,
+    "court": "District Court, D. Delaware",
+    "court_citation_string": "D. Del.",
+    "court_id": "ded",
+    "dateArgued": null,
+    "dateFiled": "2018-07-02",
+    "dateTerminated": "2018-10-01",
+    "docketNumber": "1:18-cv-00989",
+    "docket_absolute_url": "/docket/7342380/walgreen-co-v-theranos-inc/",
+    "docket_id": 7342380,
+    "firm": [
+      "Cole, Schotz, Meisel, Forman & Leonard, P.A."
+    ],
+    "firm_id": [
+      65019
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "None",
+    "meta": {
+      "timestamp": "2025-03-04T11:07:31.232387Z",
+      "date_created": "2018-07-02T21:07:18.112307Z",
+      "score": {
+        "bm25": 629.0275
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "65681",
+    "party": [
+      "Theranos, Inc.",
+      "Walgreen Co."
+    ],
+    "party_id": [
+      4959168,
+      4959169
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/7342380/7/walgreen-co-v-theranos-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "REDACTED VERSION of 2 Complaint, by Walgreen Co.. (Shannon, Kevin) (Entered: 07/10/2018)",
+        "docket_entry_id": 31274883,
+        "document_number": 7,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-07-10",
+        "entry_number": 7,
+        "filepath_local": "recap/gov.uscourts.ded.65681/gov.uscourts.ded.65681.7.0.pdf",
+        "id": 33426204,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-04-21T14:04:45.818722Z",
+          "date_created": "2018-07-10T17:12:47.809886Z"
+        },
+        "pacer_doc_id": "04304039398",
+        "page_count": 5,
+        "short_description": "Redacted Document",
+        "snippet": " Case 1:18-cv-00989-RGA Document 7 Filed 07/10/18 Page 1 of 5 PageID #: 24\n\n\n\n                        IN THE UNITED STATES DISTRICT COURT\n                           FOR THE DISTRICT OF DELAWARE\n\n\nWALGREEN CO.                              )\n                                          )\n                Plaintiff,                ) C.A. No. 18­989­RGA\n                                          )\n       v.                                 ) PUBLIC VERSION\n                                          )\nTHERA"
+      },
+      {
+        "absolute_url": "/docket/7342380/18/walgreen-co-v-theranos-inc/",
+        "attachment_number": null,
+        "cites": [
+          77081,
+          1461773,
+          1488138,
+          1897925,
+          1956408,
+          2328604,
+          2575287,
+          8697794
+        ],
+        "description": "REDACTED VERSION of 16 Opening Brief in Support by Walgreen Co.. (Shannon, Kevin) (Entered: 09/24/2018)",
+        "docket_entry_id": 38644194,
+        "document_number": 18,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-09-24",
+        "entry_number": 18,
+        "filepath_local": "recap/gov.uscourts.ded.65681/gov.uscourts.ded.65681.18.0.pdf",
+        "id": 40861735,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-04-23T04:20:55.075230Z",
+          "date_created": "2018-09-24T16:31:07.886356Z"
+        },
+        "pacer_doc_id": "04304113524",
+        "page_count": 10,
+        "short_description": "Redacted Document",
+        "snippet": "Case 1:18-cv-00989-RGA Document 18 Filed 09/24/18 Page 1 of 10 PageID #: 76\n\n\n\n                     IN THE UNITED STATES DISTRICT COURT\n                        FOR THE DISTRICT OF DELAWARE\n\n                                           )\nWALGREEN CO.,                              )\n                                           )\n             Plaintiff,                    ) Civil Action No. 18-cv-989-RGA\n                                           )\n      v.                                   ) PUBLIC VE"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "190 Contract: Other",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "David G. Campbell",
+    "assigned_to_id": 517,
+    "attorney": [
+      "Dan W Goldfine",
+      "Katie Moran",
+      "Matthew Benedetto",
+      "Michael Mugmon",
+      "Bambo Obaro",
+      "Sean Eskovitz",
+      "Roger N Heller",
+      "T David Copley",
+      "Patricia Lee Refo",
+      "Evan Edmund North",
+      "Michael Walter Sobol",
+      "Christopher Thomas Casamassima",
+      "David R Singh",
+      "Michael A Brille",
+      "Brianna Lynn Long",
+      "Diane P Sullivan",
+      "Amy J Mauser",
+      "Mark D Samson"
+    ],
+    "attorney_id": [
+      753217,
+      1466601,
+      1466602,
+      945387,
+      1466603,
+      1466604,
+      1466605,
+      1120111,
+      1466606,
+      1466607,
+      1466608,
+      1466609,
+      844501,
+      5501494,
+      5501496,
+      5501499,
+      5501501,
+      5501503
+    ],
+    "caseName": "BP v. Theranos Incorporated",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, D. Arizona",
+    "court_citation_string": "D. Ariz.",
+    "court_id": "azd",
+    "dateArgued": null,
+    "dateFiled": "2016-08-17",
+    "dateTerminated": "2024-02-06",
+    "docketNumber": "2:16-cv-02775",
+    "docket_absolute_url": "/docket/4490027/bp-v-theranos-incorporated/",
+    "docket_id": 4490027,
+    "firm": [
+      "Weil Gotshal & Manges LLP - Princeton, NJ",
+      "Weil Gotshal & Manges LLP - New York, NY",
+      "Wilmer Cutler Pickering Hale & Dorr LLP - Palo Alto, CA",
+      "Wilkinson Walsh & Eskovitz LLP",
+      "Lieff Cabraser Heimann & Bernstein LLP - San Francisco, CA",
+      "Dickinson Wright PLLC",
+      "Snell & Wilmer LLP",
+      "Lewis Roca Rothgerber Christie LLP Phoenix Office",
+      "Boies Schiller & Flexner LLP - Washington, DC",
+      "Keller Rohrback LLP",
+      "Snell & Wilmer LLP - Phoenix, AZ",
+      "Weil Gotshal & Manges LLP - Redwood Shores, CA",
+      "Wilmer Cutler Pickering Hale & Dorr LLP - Los Angeles, CA"
+    ],
+    "firm_id": [
+      6720,
+      282790,
+      282791,
+      759097,
+      6697,
+      784743,
+      759098,
+      6799,
+      8051,
+      10101,
+      10102,
+      10103,
+      9560,
+      10105,
+      708410,
+      10107,
+      6781
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-03T08:02:18.935958Z",
+      "date_created": "2016-11-15T07:27:56.094532Z",
+      "score": {
+        "bm25": 609.2666
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "995138",
+    "party": [
+      "BP",
+      "Unknown Parties",
+      "DL",
+      "Theranos Incorporated",
+      "Walgreens Boots Alliance Incorporated"
+    ],
+    "party_id": [
+      9890,
+      32997,
+      22075,
+      22141,
+      22142
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/4490027/1/bp-v-theranos-incorporated/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT. Filing fee received: $ 400.00, receipt number 0970-13295703 filed by BP, DL (submitted by Mark Samson). (Attachments: # 1 Civil Cover Sheet)(KGM) (Entered: 08/18/2016)",
+        "docket_entry_id": 12889892,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2016-08-17",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.azd.995138.1.0.pdf",
+        "id": 9313943,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-01-01T08:07:07.795765Z",
+          "date_created": "2016-11-15T07:27:56.142813Z"
+        },
+        "pacer_doc_id": "025016275601",
+        "page_count": 29,
+        "short_description": "",
+        "snippet": "          Case 2:16-cv-02775-HRH Document 1 Filed 08/17/16 Page 1 of 29\n\n\n\n 1   Mark D. Samson\n     KELLER ROHRBACK L.L.P.\n 2   3101 North Central Ave., Suite 1400\n     Phoenix, AZ 85012\n 3   Telephone: (602) 248-0088\n     Facsimile: (602) 248-2822\n 4   msamson@kellerrohrback.com\n\n 5   Michael W. Sobol (pro hac vice application forthcoming)\n     Roger N. Heller (pro hac vice application forthcoming)\n 6   LIEFF CABRASER HEIMANN & BERNSTEIN, LLP\n     275 Battery Street, 29th Floor\n 7   San Francis"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Yvonne Gonzalez Rogers",
+    "assigned_to_id": 2766,
+    "attorney": [
+      "Eric H. Gibbs",
+      "Richard Clay Stockton",
+      "David Ramraj Singh",
+      "Diane P. Sullivan",
+      "David K. Stein",
+      "Sean Eskovitz",
+      "James Zouras",
+      "Ryan F. Stephan"
+    ],
+    "attorney_id": [
+      3154176,
+      3154177,
+      3154169,
+      3154170,
+      3154172,
+      3154173,
+      3154174,
+      3154175
+    ],
+    "caseName": "C.M. v. Theranos, Inc.",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, N.D. California",
+    "court_citation_string": "N.D. Cal.",
+    "court_id": "cand",
+    "dateArgued": null,
+    "dateFiled": "2016-06-15",
+    "dateTerminated": "2016-08-24",
+    "docketNumber": "4:16-cv-03349",
+    "docket_absolute_url": "/docket/8476976/cm-v-theranos-inc/",
+    "docket_id": 8476976,
+    "firm": [
+      "Weil, Gotshal and Manges LLP",
+      "Wilkinson Walsh Eskovitz LLP",
+      "Gibbs Law Group LLP",
+      "Stephan Zouras, LLP"
+    ],
+    "firm_id": [
+      46543,
+      29712,
+      367925,
+      44536,
+      45759
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-04T22:22:48.614168Z",
+      "date_created": "2019-01-05T04:44:29.895832Z",
+      "score": {
+        "bm25": 552.39154
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "299882",
+    "party": [
+      "C.M.",
+      "Theranos, Inc.",
+      "Walgreens Boots Alliance, Inc.",
+      "S.G."
+    ],
+    "party_id": [
+      4236784,
+      4236785,
+      4236786,
+      4236781
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/8476976/4/cm-v-theranos-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Eric H. Gibbs Pursuant to California Civil Code Section 1780(d) filed byC.M., S.G.. (Gibbs, Eric) (Filed on 6/15/2016) (Entered: 06/15/2016)",
+        "docket_entry_id": 51797348,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2016-06-15",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 55309004,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-26T09:01:11.245397Z",
+          "date_created": "2019-01-05T04:44:30.861582Z"
+        },
+        "pacer_doc_id": "035014304763",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  }
+]

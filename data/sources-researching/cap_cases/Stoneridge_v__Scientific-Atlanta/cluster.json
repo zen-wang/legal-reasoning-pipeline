@@ -1,0 +1,101 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/145837/",
+  "id": 145837,
+  "absolute_url": "/opinion/145837/stoneridge-investment-partners-llc-v-scientific-atlanta-inc/",
+  "panel": [],
+  "non_participating_judges": [],
+  "docket_id": 352190,
+  "docket": "https://www.courtlistener.com/api/rest/v4/dockets/352190/",
+  "sub_opinions": [
+    "https://www.courtlistener.com/api/rest/v4/opinions/9435277/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/9435278/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/145837/"
+  ],
+  "citations": [
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "552",
+      "reporter": "U.S.",
+      "page": "148",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "128",
+      "reporter": "S. Ct.",
+      "page": "761",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "169",
+      "reporter": "L. Ed. 2d",
+      "page": "627",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "2008",
+      "reporter": "U.S. LEXIS",
+      "page": "1091",
+      "type": 6
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "76",
+      "reporter": "U.S.L.W.",
+      "page": "4039",
+      "type": 4
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "21",
+      "reporter": "Fla. L. Weekly Fed. S",
+      "page": "46",
+      "type": 1
+    }
+  ],
+  "cluster_redirections": [],
+  "date_created": "2016-01-08T13:32:23.525104-08:00",
+  "date_modified": "2024-11-15T12:25:25.643679-08:00",
+  "judges": "Kennedy, Stevens, Breyer",
+  "date_filed": "2008-01-15",
+  "date_filed_is_approximate": false,
+  "slug": "stoneridge-investment-partners-llc-v-scientific-atlanta-inc",
+  "case_name_short": "Scientific-Atl.",
+  "case_name": "Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.",
+  "case_name_full": "STONERIDGE INVESTMENT PARTNERS, LLC v. SCIENTIFIC-ATLANTA, INC., Et Al.",
+  "scdb_id": "2007-011",
+  "scdb_decision_direction": 1,
+  "scdb_votes_majority": 5,
+  "scdb_votes_minority": 3,
+  "source": "LCU",
+  "procedural_history": "",
+  "attorneys": "Stanley M. Grossman argued the cause for petitioner. With him on the briefs were Marc I. Gross and Joshua B. Silverman., Stephen M. Shapiro argued the cause for respondents. With him on the brief were Andrew J. Pincus, Timothy S. Bishop, John P. Schmitz, Charles Rothfeld, J. Brett Busby, Oscar N. Persons, Susan E. Hurd, Stephen M. Sacks, and John C. Massaro., Deputy Solicitor General Hungar argued the cause for the United States as amicus curiae urging affirmance. With him on the brief were Solicitor General Clement and Kannon K. Shanmugam*",
+  "nature_of_suit": "",
+  "posture": "",
+  "syllabus": "",
+  "headnotes": "",
+  "summary": "",
+  "disposition": "",
+  "history": "",
+  "other_dates": "Argued October 9, 2007",
+  "cross_reference": "",
+  "correction": "",
+  "citation_count": 935,
+  "precedential_status": "Published",
+  "date_blocked": null,
+  "blocked": false,
+  "filepath_json_harvard": "law.free.cap.us.552/148.3675633.json",
+  "filepath_pdf_harvard": "harvard_pdf/145837.pdf",
+  "filepath_xml_scan": null,
+  "filepath_pdf_scan": null,
+  "arguments": "",
+  "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b406-4\">\n    STONERIDGE INVESTMENT PARTNERS, LLC\n    <em>\n     v.\n    </em>\n    SCIENTIFIC-ATLANTA, INC., et al.\n   </parties><br><p data-order=\"1\" data-type=\"parties\" id=\"b406-5\">\n    CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT\n   </p><br><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b406-6\">\n    No. 06-43.\n   </docketnumber><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"ATA\">\n    Argued October 9, 2007\n   </otherdate><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"Arq\">\n    Decided January 15, 2008\n   </decisiondate><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b408-7\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"150\"> \n     *150\n     </span>\n<em>\n     Stanley M. Grossman\n    </em>\n    argued the cause for petitioner. With him on the briefs were\n    <em>\n     Marc I. Gross\n    </em>\n    and\n    <em>\n     Joshua B. Silverman.\n    </em>\n</attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b408-8\">\n<em>\n     Stephen M. Shapiro\n    </em>\n    argued the cause for respondents. With him on the brief were\n    <em>\n     Andrew J. Pincus, Timothy S. Bishop, John P. Schmitz, Charles Rothfeld, J. Brett Busby, Oscar N. Persons, Susan E. Hurd, Stephen M. Sacks,\n    </em>\n    and\n    <em>\n     John C. Massaro.\n    </em>\n</attorneys><br><attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b408-9\">\n<em>\n     Deputy Solicitor General Hungar\n    </em>\n    argued the cause for the United States as\n    <em>\n     amicus curiae\n    </em>\n    urging affirmance.\n    <span citation-index=\"1\" class=\"star-pagination\" label=\"151\"> \n     *151\n     </span>\n    With him on the brief were\n    <em>\n     Solicitor General Clement\n    </em>\n    and\n    <em>\n     Kannon K. Shanmugam\n    </em>\n<a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n<em>\n      *\n     </em>\n</a>\n</attorneys><div class=\"footnotes\"><div class=\"footnote\" data-order=\"8\" data-type=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b409-5\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging reversal were filed for the State of Arkansas et al. by\n     <em>\n      Dustin McDaniel,\n     </em>\n     Attorney General of Arkansas, and\n     <em>\n      Stanley D. Bernstein,\n     </em>\n     and by the Attorneys General for their respective States as follows:\n     <em>\n      Stuart Rabner\n     </em>\n     of New Jersey and\n     <em>\n      Patrick C. Lynch\n     </em>\n     of Rhode Island; for the State of Ohio et al. by Marc\n     <em>\n      Dann,\n     </em>\n     Attorney General of Ohio,\n     <em>\n      Elise W. Porter,\n     </em>\n     Acting Solicitor General,\n     <em>\n      Christopher R. Geidner\n     </em>\n     and\n     <em>\n      Robert J. Krummen,\n     </em>\n     Deputy Solicitors,\n     <em>\n      Beth A. Finnerty, Randall W. Knutti,\n     </em>\n     and\n     <em>\n      Andrea L. Seidt,\n     </em>\n     Assistant Attorneys General, by\n     <em>\n      Greg Abbott,\n     </em>\n     Attorney General of Texas, and\n     <em>\n      David C. Mattax,\n     </em>\n     and by the Attorneys General for their respective jurisdictions as follows:\n     <em>\n      Talis J. Colberg\n     </em>\n     of Alaska,\n     <em>\n      Terry Goddard\n     </em>\n     of Arizona,\n     <em>\n      Richard Blumenthal\n     </em>\n     of Connecticut,\n     <em>\n      Linda Singer\n     </em>\n     of the District of Columbia,\n     <em>\n      Mark J. Bennett\n     </em>\n     of Hawaii,\n     <em>\n      Lisa Madigan\n     </em>\n     of Illinois,\n     <em>\n      Thomas J. Miller\n     </em>\n     of Iowa,\n     <em>\n      Gregory D. Stumbo\n     </em>\n     of Kentucky,\n     <em>\n      G. Steven Rowe\n     </em>\n     of Maine,\n     <em>\n      Douglas F Gansler\n     </em>\n     of Maryland,\n     <em>\n      Martha Coakley\n     </em>\n     of Massachusetts,\n     <em>\n      Michael A Fox\n     </em>\n     of Michigan,\n     <em>\n      Lori Swanson\n     </em>\n     of Minnesota,\n     <em>\n      Jim Hood\n     </em>\n     of Mississippi,\n     <em>\n      Jeremiah W. (Jay) Nixon\n     </em>\n     of Missouri,\n     <em>\n      Mike McGrath\n     </em>\n     of Montana,\n     <em>\n      Catherine Cortez Mosto\n     </em>\n     of Nevada,\n     <em>\n      Kelly A Ayotte\n     </em>\n     of New Hampshire,\n     <em>\n      Gary King\n     </em>\n     of New Mexico,\n     <em>\n      Andrew Cuomo\n     </em>\n     of New York,\n     <em>\n      Wayne Stenehjem\n     </em>\n     of North Dakota,\n     <em>\n      W. A Drew Edmondson\n     </em>\n     of Oklahoma,\n     <em>\n      Hardy Myers\n     </em>\n     of Oregon,\n     <em>\n      Roberto J. SdnchezRamos\n     </em>\n     of Puerto Rico,\n     <em>\n      Henry McMaster\n     </em>\n     of South Carolina,\n     <em>\n      Robert E. Cooper, Jr.,\n     </em>\n     of Tennessee,\n     <em>\n      Mark L. Shurtleff\n     </em>\n     of Utah,\n     <em>\n      William H Sorrell\n     </em>\n     of Vermont,\n     <em>\n      Darrell V. McGrow, Jr.,\n     </em>\n     of West Virginia, and\n     <em>\n      J. B. Van Hollen\n     </em>\n     of Wisconsin; for AARP et al. by\n     <em>\n      Deborah Zuckerman, Jonathan W. Cuneo, Robert J. Cynkar, Michael G. Lenett,\n     </em>\n     and\n     <em>\n      Matthew Wiener;\n     </em>\n     for the American Association for Justice by\n     <em>\n      Louis M. Bograd;\n     </em>\n     for the California State Teachers’ Retirement System by\n     <em>\n      Steven N. Williams\n     </em>\n     and\n     <em>\n      Joseph W. Cotchett;\n     </em>\n     for Change to Win et al. by\n     <em>\n      Patrick J. Szymanski;\n     </em>\n     for Former SEC Commissioners by\n     <em>\n      Arthur R. Miller\n     </em>\n     and\n     <em>\n      Meyer Eisenberg;\n     </em>\n     for the Los Angeles County Employees Retirement Association et al. by\n     <em>\n      Stuart M. Grant, David L. Muir,\n     </em>\n     and\n     <em>\n      Peter H. Mixon,\n     </em>\n     by Mr.\n     <em>\n      Blumenthal,\n     </em>\n     Attorney General of Connecticut, and by\n     <em>\n      Michael A. Cardozo;\n     </em>\n     for the New York State Teachers’ Retirement System et al. by\n     <em>\n      Max W. Berger;\n     </em>\n     for the North American Securities Administrators Association, Inc., by\n     <em>\n      Alfred E. T. Rusch;\n     </em>\n     for the Honorable John Conyers, Jr., et al. by\n     <em>\n      James Segel\n     </em>\n     and\n     <em>\n      Lawranne Stewart;\n     </em>\n     and for James D. Cox et al. by\n     <em>\n      Jill E. Fisch, pro se.\n     </em>\n</p>\n<p id=\"b409-6\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging affirmance were filed for the American Bankers Association et al. by\n     <em>\n      H. Rodgin Cohen, David H. Braff, Robert J.\n     </em>\n<span citation-index=\"1\" class=\"star-pagination\" label=\"152\"> \n      *152\n      </span>\n<em>\n      Giuffra, Jr., Marc De Leeuw, Jeffrey T. Scott,\n     </em>\n     and\n     <em>\n      Steven J. Purcell;\n     </em>\n     for the American Institute of Certified Public Accountants by\n     <em>\n      Lawrence S. Robbins, Gary A. Orseck, Kathryn S. Zecca,\n     </em>\n     and\n     <em>\n      Richard I. Miller;\n     </em>\n     for the American Insurance Association et al. by\n     <em>\n      John E. McKeever;\n     </em>\n     for the Attorneys’ Liability Assurance Society, Inc., by\n     <em>\n      John K. Villa, Richard A. Olderman,\n     </em>\n     and\n     <em>\n      Mark D. Nozette;\n     </em>\n     for the Business Roundtable by\n     <em>\n      Seth P. Waxman, Louis R. Cohen, Stuart F. Delery, Robert B. McCaw,\n     </em>\n     and\n     <em>\n      Christopher J. Meade;\n     </em>\n     for the Chamber of Commerce of the United States of America by\n     <em>\n      Carter G. Phillips, Richard D. Bernstein, Daniel A. McLaughlin, Robert N. Hochman, Jacqueline G. Cooper, Robin S. Conrad,\n     </em>\n     and\n     <em>\n      Amar D. Sarwal;\n     </em>\n     for the Defense Research Institute by\n     <em>\n      Jerrold J. Ganzfried\n     </em>\n     and\n     <em>\n      Fiona A. Philip;\n     </em>\n     for Former SEC Commissioners and Officials et al. by\n     <em>\n      Mark A. Perry\n     </em>\n     and\n     <em>\n      Amanda M. Rose;\n     </em>\n     for Merrill Lynch &amp; Co., Inc., by\n     <em>\n      Dick Thornburgh, Paul Gonson,\n     </em>\n     and\n     <em>\n      Glenn R. Reichardt;\n     </em>\n     for the NASDAQ Stock Market, Inc., et al. by\n     <em>\n      Kathleen M. Sullivan, Daniel H. Bromberg,\n     </em>\n     and\n     <em>\n      Elizabeth B. Wydra;\n     </em>\n     for the National Association of Manufacturers by\n     <em>\n      George M. Newcombe, Michael J. Chepiga, Jan S. Amundson,\n     </em>\n     and\n     <em>\n      Quentin Riegel;\n     </em>\n     for the Organization for International Investment et al. by\n     <em>\n      Stuart J. Baskin\n     </em>\n     and\n     <em>\n      Herbert S. Washer;\n     </em>\n     for the Securities Industry and Financial Markets Association et al. by\n     <em>\n      Walter Dellinger, Jonathan Rosenberg, William J. Sushon, B. Andrew Bednark,\n     </em>\n     and\n     <em>\n      Kevin M. Carroll;\n     </em>\n     for the Washington Legal Foundation by\n     <em>\n      Kenneth W. Starr, Robert R. Gasaway, Ashley C. Parrish, Daniel J. Popeo,\n     </em>\n     and\n     <em>\n      Richard A Samp;\n     </em>\n     and for Richard I. Beattie et al. by\n     <em>\n      Richard W. Clary.\n     </em>\n</p>\n<p id=\"b410-7\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     were filed for the Council of Institutional Investors by\n     <em>\n      Mark C. Hansen\n     </em>\n     and\n     <em>\n      Priya R. Aiyar;\n     </em>\n     for Regents of the University of California by\n     <em>\n      William S. Lerach, Patrick J. Coughlin, Byron S. Georgiou, Eric Alan Isaacson,\n     </em>\n     and\n     <em>\n      Joseph D. Daley;\n     </em>\n     and for Charles W. Adams et al. by\n     <em>\n      Mr. Adams\n     </em>\n     and\n     <em>\n      William von Glahn,\n     </em>\n     both\n     <em>\n      pro se.\n     </em>\n</p>\n</div></div>"
+}

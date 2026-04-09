@@ -1,0 +1,33 @@
+[
+  {
+    "absolute_url": "/audio/72408/aly-v-valeant-pharmaceuticals/",
+    "caseName": "Aly v. Valeant Pharmaceuticals",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Third Circuit",
+    "court_citation_string": "3rd Cir.",
+    "court_id": "ca3",
+    "dateArgued": "2020-10-21",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "19-3326",
+    "docket_id": 18560539,
+    "download_url": "http://www2.ca3.uscourts.gov/Oralargument/audio/19-3326_Alyv.ValeantPharmaceuticals.mp3",
+    "duration": 3017,
+    "file_size_mp3": 18476726,
+    "id": 72408,
+    "judge": "",
+    "local_path": "mp3/2020/10/21/aly_v._valeant_pharmaceuticals_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T06:53:59.413511Z",
+      "date_created": "2020-10-21T21:55:52.205141Z",
+      "score": {
+        "bm25": 13279334000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "25dc46535a6083dc4d2784fa87bd5e5e53e00014",
+    "snippet": "Good afternoon or good morning if any of you are in California and welcome. We are going to have argument in Baha Ali et al versus Valeant Pharmaceuticals. Who will speak for the plaintiffs and the plaintiff appellants in the first instance? Good afternoon, Your Honor. My name is Hung Ta. It's my privilege to represent the plaintiffs appellants and I'd like to reserve two minutes for rebuttal, please. Two minutes it is, sir. And go ahead if you will. Good afternoon, Your Honors. The primary",
+    "source": "C"
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "assignedTo": "Pamela Ki Mai Chen",
+    "assigned_to_id": 597,
+    "attorney": [
+      "Steven Cooper",
+      "Erik J. Dykema",
+      "Edward Andrew Paltzik",
+      "Robert Carnes",
+      "Charles P. Hyun",
+      "Meredith Lloyd",
+      "Serge Krimnus"
+    ],
+    "attorney_id": [
+      9630081,
+      9630082,
+      9613667,
+      9630084,
+      9630083,
+      10836775,
+      9765527
+    ],
+    "caseName": "PleasrDAO v. Shkreli",
+    "case_name_full": "",
+    "cause": "18:1836(a) - Injunction against Misappropriation of Trade Secrets",
+    "chapter": null,
+    "court": "District Court, E.D. New York",
+    "court_citation_string": "E.D.N.Y",
+    "court_id": "nyed",
+    "dateArgued": null,
+    "dateFiled": "2024-06-10",
+    "dateTerminated": null,
+    "docketNumber": "1:24-cv-04126",
+    "docket_absolute_url": "/docket/68843927/pleasrdao-v-shkreli/",
+    "docket_id": 68843927,
+    "firm": [
+      "Erik J. Dykema",
+      "Bochner PLLC",
+      "Taylor Dykema, PLLC",
+      "Reed Smith",
+      "Reed Smith LLP",
+      "Taylor Dykema PLLC"
+    ],
+    "firm_id": [
+      855073,
+      961126,
+      856689,
+      153043,
+      1078036,
+      1069943,
+      319001,
+      975101
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-07-14T05:14:45.698413Z",
+      "date_created": "2024-06-11T03:24:25.352880Z",
+      "score": {
+        "bm25": 1020.6286
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "516318",
+    "party": [
+      "PleasrDAO",
+      "Receiver  Derek C. Abbott",
+      "Martin Shkreli",
+      "Robert Diggs",
+      "Tarik Azzougarh"
+    ],
+    "party_id": [
+      14262481,
+      14262482,
+      17884791,
+      17884792,
+      17884793
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68843927/53/1/pleasrdao-v-shkreli/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Letter Response to January 21, 2025 Order by Martin Shkreli (Attachments: # 1 Declaration of Martin Shkreli) (Lloyd, Meredith) (Entered: 02/04/2025)",
+        "docket_entry_id": 415613586,
+        "document_number": 53,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-04",
+        "entry_number": 53,
+        "filepath_local": "recap/gov.uscourts.nyed.516318/gov.uscourts.nyed.516318.53.1.pdf",
+        "id": 447213341,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-10-30T23:41:57.876880Z",
+          "date_created": "2025-07-28T20:38:33.414282Z"
+        },
+        "pacer_doc_id": "123022177169",
+        "page_count": 3,
+        "short_description": "Declaration of Martin Shkreli",
+        "snippet": "Case 1:24-cv-04126-PKC-MMH   Document 53-1   Filed 02/04/25   Page 1 of 3 PageID #:\n                                    530\n\fCase 1:24-cv-04126-PKC-MMH   Document 53-1     Filed 02/04/25        Page 2 of 3 PageID #:\n                                    531\n\n\n\n                                  Pharmaceuticals, Mr. Smith’s\n                                  last known employer, which\n                                  returned no results. Mr. Smith’s\n                                  current email ad"
+      },
+      {
+        "absolute_url": "/docket/68843927/47/pleasrdao-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of MOTION to Dismiss for Failure to State a Claim by Martin Shkreli. (Attachments: # 1 Memorandum in Support, # 2 Proposed Order) (Paltzik, Edward) (Entered: 01/06/2025)",
+        "docket_entry_id": 412757773,
+        "document_number": 47,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-06",
+        "entry_number": 47,
+        "filepath_local": "recap/gov.uscourts.nyed.516318/gov.uscourts.nyed.516318.47.0.pdf",
+        "id": 426295033,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-09-28T14:30:56.584022Z",
+          "date_created": "2025-01-07T02:44:19.483968Z"
+        },
+        "pacer_doc_id": "123022070668",
+        "page_count": 2,
+        "short_description": "Motion to Dismiss for Failure to State a Claim",
+        "snippet": "Case 1:24-cv-04126-PKC-MMH             Document 47         Filed 01/06/25      Page 1 of 2 PageID #:\n                                             439\n\n\n\n                        IN THE UNITED STATES DISTRICT COURT\n                       FOR THE EASTERN DISTRICT OF NEW YORK\n\n\n\n  PleasrDAO,                                         Civ. No.: 1:24-cv-04126-PKC\n\n                 Plaintiff,\n                                                     ORAL ARGUMENT REQUESTED\n  v.\n\n  Martin Shkreli,\n\n            "
+      },
+      {
+        "absolute_url": "/docket/68843927/47/2/pleasrdao-v-shkreli/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Notice of MOTION to Dismiss for Failure to State a Claim by Martin Shkreli. (Attachments: # 1 Memorandum in Support, # 2 Proposed Order) (Paltzik, Edward) (Entered: 01/06/2025)",
+        "docket_entry_id": 412757773,
+        "document_number": 47,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-01-06",
+        "entry_number": 47,
+        "filepath_local": "recap/gov.uscourts.nyed.516318/gov.uscourts.nyed.516318.47.2.pdf",
+        "id": 428238094,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-14T05:14:45.803931Z",
+          "date_created": "2025-01-25T23:38:55.513806Z"
+        },
+        "pacer_doc_id": "123022070670",
+        "page_count": 1,
+        "short_description": "Proposed Order",
+        "snippet": "Case 1:24-cv-04126-PKC-MMH           Document 47-2       Filed 01/06/25     Page 1 of 1 PageID #:\n                                            472\n\n\n\n                        IN THE UNITED STATES DISTRICT COURT\n                       FOR THE EASTERN DISTRICT OF NEW YORK\n\n\n\n   PleasrDAO,                                       Civ. No.: 1:24-cv-04126-PKC\n\n                 Plaintiff,\n\n   v.\n\n   Martin Shkreli,\n\n                 Defendant\n\n\n\n                                      PROPOSED ORDER\n\n\n      "
+      }
+    ],
+    "referredTo": "Marcia M. Henry",
+    "referred_to_id": null,
+    "suitNature": "880 Defend Trade Secrets Act (of 2016)",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Shkreli",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": null,
+    "dateFiled": "2018-04-16",
+    "dateTerminated": "2018-05-31",
+    "docketNumber": "18-1084",
+    "docket_absolute_url": "/docket/7205385/united-states-v-shkreli/",
+    "docket_id": 7205385,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-04T09:50:10.936056Z",
+      "date_created": "2018-06-19T12:02:58.874340Z",
+      "score": {
+        "bm25": 843.8009
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "",
+    "party": [
+      "United States",
+      "Shkreli"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/7205385/13/united-states-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ATTORNEY, Mark M. Baker for Martin Shkreli, in case 18-1084, [12], ADDED.[2282417] [18-1084] [Entered: 04/18/2018 12:52 PM]",
+        "docket_entry_id": 29225327,
+        "document_number": 13,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-04-18",
+        "entry_number": 13,
+        "filepath_local": null,
+        "id": 31317810,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-21T03:25:21.646861Z",
+          "date_created": "2018-06-19T12:02:59.081844Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/7205385/16/united-states-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER, dated 05/03/2018, dismissing appeal by 05/17/2018, unless Appellant Martin Shkreli, submits form B, FILED.[2294295] [18-1084] [Entered: 05/03/2018 11:06 AM]",
+        "docket_entry_id": 29225330,
+        "document_number": 16,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-05-03",
+        "entry_number": 16,
+        "filepath_local": null,
+        "id": 31317813,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-21T03:25:21.749094Z",
+          "date_created": "2018-06-19T12:02:59.213468Z"
+        },
+        "pacer_doc_id": "00206150349",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/7205385/17/united-states-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER, dated 05/03/2018, dismissing appeal by 05/17/2018, unless Appellant Martin Shkreli, submits form Acknowledgment and Notice of Appearance, FILED.[2294303] [18-1084] [Entered: 05/03/2018 11:11 AM]",
+        "docket_entry_id": 29225331,
+        "document_number": 17,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-05-03",
+        "entry_number": 17,
+        "filepath_local": null,
+        "id": 31317814,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-21T03:25:21.760117Z",
+          "date_created": "2018-06-19T12:02:59.256883Z"
+        },
+        "pacer_doc_id": "00206150381",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Shkreli",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": null,
+    "dateFiled": "2018-03-26",
+    "dateTerminated": "2019-07-18",
+    "docketNumber": "18-819",
+    "docket_absolute_url": "/docket/7205367/united-states-v-shkreli/",
+    "docket_id": 7205367,
+    "firm": [
+      "Direct: 212-750-7800, Brafman & Associates, P.C.",
+      "Direct: 718-254-6103, United States Attorney's Office for the Eastern District of New York",
+      "Direct: 718-254-6370, United States Attorney's Office for the Eastern District of New York"
+    ],
+    "firm_id": [
+      451376,
+      451377,
+      451375
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-04T09:50:10.287785Z",
+      "date_created": "2018-06-19T12:02:32.712766Z",
+      "score": {
+        "bm25": 830.6716
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "",
+    "party": [
+      "United States",
+      "Shkreli"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/7205367/26/united-states-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NEW CASE 18-1084, on behalf of Martin Shkreli, FILED.[2280718] [18-819] [Entered: 04/17/2018 09:23 AM]",
+        "docket_entry_id": 55658447,
+        "document_number": 26,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-04-16",
+        "entry_number": 26,
+        "filepath_local": null,
+        "id": 59714011,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-27T08:17:40.983940Z",
+          "date_created": "2019-02-11T02:12:13.217990Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/7205367/33/united-states-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ATTORNEY, Mark M. Baker for Martin Shkreli, in case 18-1084, [32], ADDED.[2282417] [18-1084] [Entered: 04/18/2018 12:52 PM]",
+        "docket_entry_id": 29225199,
+        "document_number": 33,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-04-18",
+        "entry_number": 33,
+        "filepath_local": null,
+        "id": 31317682,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-21T03:25:20.591792Z",
+          "date_created": "2018-06-19T12:02:32.938784Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/7205367/13/united-states-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ATTORNEY, Mark M. Baker for Martin Shkreli, in case 18-819, [12], ADDED.[2272957] [18-819] [Entered: 04/05/2018 03:21 PM]",
+        "docket_entry_id": 30126859,
+        "document_number": 13,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-04-05",
+        "entry_number": 13,
+        "filepath_local": null,
+        "id": 32226161,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-21T07:59:11.301037Z",
+          "date_created": "2018-06-27T20:13:05.873069Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "George B. Daniels",
+    "assigned_to_id": 794,
+    "attorney": [
+      "Seth Maxwell Pavsner",
+      "Daniel Brett Rehns"
+    ],
+    "attorney_id": [
+      1733065,
+      1733066
+    ],
+    "caseName": "Costopoulos v. Shkreli",
+    "case_name_full": "",
+    "cause": "28:1332t Diversity-Torts",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2018-05-03",
+    "dateTerminated": "2018-05-21",
+    "docketNumber": "1:18-cv-03980",
+    "docket_absolute_url": "/docket/6386074/costopoulos-v-shkreli/",
+    "docket_id": 6386074,
+    "firm": [
+      "Hach Rose Schirripa & Cheverie, LLP"
+    ],
+    "firm_id": [
+      279784
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-04T01:51:35.120248Z",
+      "date_created": "2018-05-04T18:33:47.961863Z",
+      "score": {
+        "bm25": 816.73193
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "493191",
+    "party": [
+      "Martin Shkreli",
+      "Eve Costopoulos"
+    ],
+    "party_id": [
+      1880608,
+      1880609
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/6386074/1/costopoulos-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT against Martin Shkreli. (Filing Fee $ 400.00, Receipt Number 0208-15025428)Document filed by Eve Costopoulos.(Rehns, Daniel) (Entered: 05/03/2018)",
+        "docket_entry_id": 24914907,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-05-03",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.nysd.493191/gov.uscourts.nysd.493191.1.0.pdf",
+        "id": 26977465,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-04-20T06:02:16.964923Z",
+          "date_created": "2018-05-04T18:33:47.999764Z"
+        },
+        "pacer_doc_id": "127022373906",
+        "page_count": 29,
+        "short_description": "",
+        "snippet": "             Case 1:18-cv-03980-GBD Document 1 Filed 05/03/18 Page 1 of 29\n\n\n\n                            UNITED STATES DISTRICT COURT\n                           SOUTHERN DISTRICT OF NEW YORK\n\n\n\n    EVE COSTOPOULOS,                                    Civil No.:\n\n                         Plaintiff,\n                                                        COMPLAINT\n                  v.\n\n    MARTIN SHKRELI,                                     JURY TRIAL DEMANDED\n\n                         Defendant.\n"
+      },
+      {
+        "absolute_url": "/docket/6386074/8/costopoulos-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE OF VOLUNTARY DISMISSAL Pursuant to Rule 41(a)(1)(A)(i) of the Federal Rules of Civil Procedure, the plaintiff(s) and or their counsel(s), hereby give notice that the above-captioned action is voluntarily dismissed, without prejudice against the defendant(s) Martin Shkreli. Document filed by Eve Costopoulos. (Rehns, Daniel) (Entered: 05/21/2018)",
+        "docket_entry_id": 26524388,
+        "document_number": 8,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-05-21",
+        "entry_number": 8,
+        "filepath_local": "recap/gov.uscourts.nysd.493191/gov.uscourts.nysd.493191.8.0.pdf",
+        "id": 28597048,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-04-20T13:59:22.654587Z",
+          "date_created": "2018-05-21T13:27:55.265756Z"
+        },
+        "pacer_doc_id": "127022476509",
+        "page_count": 2,
+        "short_description": "Notice of Voluntary Dismissal",
+        "snippet": "          Case 1:18-cv-03980-GBD Document 8 Filed 05/21/18 Page 1 of 2\n\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\n EVE COSTOPOULOS,\n                                                         Case No.: 1:18-cv-03980\n                               Plaintiff,\n\n                v.                                       NOTICE OF VOLUNTARY\n                                                         DISMISSAL PURSUANT TO\n MARTIN SHKRELI.,                                        FED.R.CIV.P"
+      },
+      {
+        "absolute_url": "/docket/6386074/10/costopoulos-v-shkreli/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE OF VOLUNTARY DISMISSAL pursuant to Rule 41(a)(1)(A)(i) of the Federal Rules of Civil Procedure, the plaintiff(s) and or their counsel(s), hereby give notice that the above-captioned action is voluntarily dismissed, with prejudice and without costs against the defendant(s) Martin Shkreli. Document filed by Eve Costopoulos. Proposed document to be reviewed and processed by Clerk's Office staff (No action required by chambers.(Pavsner, Seth) Modified on 10/30/2018 (dt). (Entered: 10/30/2018)",
+        "docket_entry_id": 41825948,
+        "document_number": 10,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-10-30",
+        "entry_number": 10,
+        "filepath_local": "recap/gov.uscourts.nysd.493191/gov.uscourts.nysd.493191.10.0.pdf",
+        "id": 44073923,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-04-23T20:56:41.495746Z",
+          "date_created": "2018-10-30T14:08:35.277979Z"
+        },
+        "pacer_doc_id": "127023502418",
+        "page_count": 2,
+        "short_description": "Notice of Voluntary Dismissal",
+        "snippet": "         Case 1:18-cv-03980-GBD Document 10 Filed 10/30/18 Page 1 of 2\n\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\n EVE COSTOPOULOS,\n                                                             Case No.: 1:18-cv-03980\n                               Plaintiff,\n\n                v.                                           NOTICE OF VOLUNTARY\n                                                             DISMISSAL PURSUANT TO\n MARTIN SHKRELI,                                        "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "320 Assault Libel & Slander",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Deborah A. Batts",
+    "assigned_to_id": 208,
+    "attorney": [
+      "Edward Kang",
+      "Kandis Lynn Kovalsky",
+      "Gregory Mathews"
+    ],
+    "attorney_id": [
+      4938361,
+      4965214,
+      4965215
+    ],
+    "caseName": "Shkreli v. Aselage",
+    "case_name_full": "",
+    "cause": "28:1332fr Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2019-05-31",
+    "dateTerminated": "2019-06-18",
+    "docketNumber": "1:19-cv-05120",
+    "docket_absolute_url": "/docket/15705778/shkreli-v-aselage/",
+    "docket_id": 15705778,
+    "firm": [
+      "Kang Haggerty & Fetbroyt LLC"
+    ],
+    "firm_id": [
+      141688,
+      263999
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-07T15:31:49.344608Z",
+      "date_created": "2019-05-31T17:11:43.774661Z",
+      "score": {
+        "bm25": 783.1083
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "516768",
+    "party": [
+      "Gary Lyons",
+      "Martin Shkreli",
+      "Stephen Aselage",
+      "Margaret Valeur-Jensen"
+    ],
+    "party_id": [
+      7558737,
+      7558738,
+      7558740,
+      7577919
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/15705778/11/shkreli-v-aselage/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "REQUEST FOR ISSUANCE OF SUMMONS as to Stephen Aselage, re: 5 Complaint. Document filed by Martin Shkreli. (Kang, Edward) (Entered: 06/05/2019)",
+        "docket_entry_id": 85713733,
+        "document_number": 11,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-06-05",
+        "entry_number": 11,
+        "filepath_local": "recap/gov.uscourts.nysd.516768/gov.uscourts.nysd.516768.11.0.pdf",
+        "id": 89877163,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-03T12:54:06.726522Z",
+          "date_created": "2019-06-05T13:33:21.618600Z"
+        },
+        "pacer_doc_id": "127024872578",
+        "page_count": 2,
+        "short_description": "Request for Issuance of Summons",
+        "snippet": "AO 440 (Rev. 06/12) Summons in a Civil Action\n\n\n                                      UNITED STATES DISTRICT COURT\n                                                                  for the\n                                                     Southern District\n                                                   __________  DistrictofofNew York\n                                                                            __________\n\n                      MARTIN SHKRELI                                "
+      },
+      {
+        "absolute_url": "/docket/15705778/6/shkreli-v-aselage/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "FILING ERROR - DEFICIENT SUMMONS REQUEST As To - REQUEST FOR ISSUANCE OF SUMMONS as to ASELAGE, STEPHEN, re: 5 Complaint. Document filed by Martin Shkreli. (Kang, Edward) Modified on 6/4/2019 (pne). (Entered: 06/03/2019)",
+        "docket_entry_id": 85425611,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-06-03",
+        "entry_number": 6,
+        "filepath_local": "recap/gov.uscourts.nysd.516768/gov.uscourts.nysd.516768.6.0.pdf",
+        "id": 89586993,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-03T11:45:45.515246Z",
+          "date_created": "2019-06-03T16:17:04.375324Z"
+        },
+        "pacer_doc_id": "127024857344",
+        "page_count": 2,
+        "short_description": "Request for Issuance of Summons",
+        "snippet": "                       Case 1:19-cv-05120-DAB Document 6 Filed 06/03/19 Page 1 of 2\n\nAO 440 (Rev. 06/12) Summons in a Civil Action\n\n\n                                      UNITED STATES DISTRICT COURT\n                                                                  for the\n                                                     Southern District\n                                                   __________  DistrictofofNew York\n                                                                       "
+      },
+      {
+        "absolute_url": "/docket/15705778/7/shkreli-v-aselage/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "FILING ERROR - DEFICIENT SUMMONS REQUEST As To - REQUEST FOR ISSUANCE OF SUMMONS as to LYONS, GARY, re: 5 Complaint. Document filed by Martin Shkreli. (Kang, Edward) Modified on 6/4/2019 (pne). (Entered: 06/03/2019)",
+        "docket_entry_id": 85425585,
+        "document_number": 7,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-06-03",
+        "entry_number": 7,
+        "filepath_local": "recap/gov.uscourts.nysd.516768/gov.uscourts.nysd.516768.7.0.pdf",
+        "id": 89586967,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-03T11:45:45.417303Z",
+          "date_created": "2019-06-03T16:17:03.379995Z"
+        },
+        "pacer_doc_id": "127024857405",
+        "page_count": 2,
+        "short_description": "Request for Issuance of Summons",
+        "snippet": "                       Case 1:19-cv-05120-DAB Document 7 Filed 06/03/19 Page 1 of 2\n\nAO 440 (Rev. 06/12) Summons in a Civil Action\n\n\n                                      UNITED STATES DISTRICT COURT\n                                                                    for the\n                                                     Southern District\n                                                   __________  DistrictofofNew York\n                                                                     "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  }
+]

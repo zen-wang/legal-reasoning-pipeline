@@ -1,0 +1,19 @@
+{
+  "identifier": "gov.uscourts.nvd.137692",
+  "title": "Jackson Hole Bank Fraud Litigation Trust v. Bank of Jackson Hole",
+  "total_files": 14,
+  "pdf_count": 9,
+  "xml_count": 2,
+  "json_count": 1,
+  "pdf_files": [
+    "gov.uscourts.nvd.137692.11.0.pdf",
+    "gov.uscourts.nvd.137692.118.0.pdf",
+    "gov.uscourts.nvd.137692.143.0.pdf",
+    "gov.uscourts.nvd.137692.147.0.pdf",
+    "gov.uscourts.nvd.137692.152.0.pdf",
+    "gov.uscourts.nvd.137692.26.0.pdf",
+    "gov.uscourts.nvd.137692.72.0.pdf",
+    "gov.uscourts.nvd.137692.78.0.pdf",
+    "gov.uscourts.nvd.137692.93.0_1.pdf"
+  ]
+}

@@ -1,0 +1,654 @@
+[
+  {
+    "assignedTo": "Patrick M. Hunt",
+    "assigned_to_id": 9171,
+    "attorney": [
+      "Donnahue George",
+      "Gregory M. Boyle",
+      "David Scott Mandel",
+      "Curtis David Carlson"
+    ],
+    "attorney_id": [
+      11138672,
+      11138673,
+      11138670,
+      11138671
+    ],
+    "caseName": "George v. Bankman-Fried",
+    "case_name_full": "",
+    "cause": "18:1964 Racketeering (RICO) Act",
+    "chapter": null,
+    "court": "District Court, S.D. Florida",
+    "court_citation_string": "S.D. Fla.",
+    "court_id": "flsd",
+    "dateArgued": null,
+    "dateFiled": "2025-11-04",
+    "dateTerminated": null,
+    "docketNumber": "0:25-cv-62222",
+    "docket_absolute_url": "/docket/71870485/george-v-bankman-fried/",
+    "docket_id": 71870485,
+    "firm": [
+      "Donnahue George",
+      "Carlson & Associates, PA",
+      "Jenner & Block, LLP",
+      "Mandel & Mandel LLP"
+    ],
+    "firm_id": [
+      601784,
+      963825,
+      41530,
+      962410
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-12-31T23:52:55.360555Z",
+      "date_created": "2025-11-04T15:15:31.395233Z",
+      "score": {
+        "bm25": 2136.6663
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "700571",
+    "party": [
+      "Donnahue George",
+      "Alameda Research LLC.",
+      "CM-Equity AG",
+      "John Does 1-50",
+      "FTX Trading LTD.",
+      "Financial Industry Regulatory Authority (FINRA)",
+      "Depository Trust & Clearing Corporation (DTCC)",
+      "Caroline Ellison",
+      "Samuel Bankman-Fried"
+    ],
+    "party_id": [
+      17074528,
+      17074529,
+      17074530,
+      17074531,
+      17074532,
+      17074524,
+      17074525,
+      17074526,
+      17074527
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/71870485/32/george-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 457646858,
+        "document_number": 32,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-18",
+        "entry_number": 32,
+        "filepath_local": "recap/gov.uscourts.flsd.700571/gov.uscourts.flsd.700571.32.0.pdf",
+        "id": 472634107,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-03-18T18:02:30.232425Z",
+          "date_created": "2026-03-18T17:59:14.756163Z"
+        },
+        "pacer_doc_id": "051029582804",
+        "page_count": 5,
+        "short_description": "Expedite",
+        "snippet": "Case 0:25-cv-62222-PMH Document 32 Entered on FLSD Docket 03/18/2026 Page 1 of 5\n\n\n\n   UNITED STATES DISTRICT COURT\n\n   SOUTHERN DISTRICT OF FLORIDA\n   FORT IA UDERDA LE DIVISIO N\n\n   CA SE NO .:0:25-cv-62222-PM 11\n                                                                  FILED B '-                   D.G.\n   D O N NA H U E G EO R G E,\n   Plaintiff,\n                                                                       M),?1 1k\n                                                             "
+      },
+      {
+        "absolute_url": "/docket/71870485/3/george-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "MOTION for Preliminary Injunction by Donnahue George. (Attachments: # 1 Text of Proposed Order)(ebz) (Entered: 11/04/2025)",
+        "docket_entry_id": 443040935,
+        "document_number": 3,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-04",
+        "entry_number": 3,
+        "filepath_local": "recap/gov.uscourts.flsd.700571/gov.uscourts.flsd.700571.3.0.pdf",
+        "id": 457668184,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-31T23:52:56.279298Z",
+          "date_created": "2025-11-04T15:23:56.664438Z"
+        },
+        "pacer_doc_id": "051029080995",
+        "page_count": 3,
+        "short_description": "Preliminary Injunction",
+        "snippet": "Case 0:25-cv-62222-PMH Document 3 Entered on FLSD Docket 11/04/2025 Page 1 of 3\n\n\n                                                                  FILED BY                  .\n                                                                                                V\n                                                                                                -rL .)\n                                                                                                D.\n                        "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Jacquelyn Scott Corley",
+    "assigned_to_id": 9086,
+    "attorney": [
+      "William M. Audet"
+    ],
+    "attorney_id": [
+      8439799
+    ],
+    "caseName": "Imbert v. Bankman-Fried",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, N.D. California",
+    "court_citation_string": "N.D. Cal.",
+    "court_id": "cand",
+    "dateArgued": null,
+    "dateFiled": "2023-05-19",
+    "dateTerminated": "2023-06-15",
+    "docketNumber": "3:23-cv-02475",
+    "docket_absolute_url": "/docket/67410995/imbert-v-bankman-fried/",
+    "docket_id": 67410995,
+    "firm": [
+      "Audet & Partners, LLP"
+    ],
+    "firm_id": [
+      34980
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-06-13T19:33:26.708942Z",
+      "date_created": "2023-05-20T02:31:34.084584Z",
+      "score": {
+        "bm25": 2035.9374
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "412948",
+    "party": [
+      "Kenny Imbert",
+      "Caroline Ellison",
+      "Nishad Singh",
+      "Samuel  Bankman-Fried",
+      "Zixiao \"Gary\" Wang"
+    ],
+    "party_id": [
+      12620879,
+      12620880,
+      12620881,
+      12620882,
+      12620883
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67410995/1/imbert-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT CLASS ACTION COMPLAINT against Samuel Bankman-Fried, Caroline Ellison, Nishad Singh, Zixiao \"Gary\" Wang ( Filing fee $ 402, receipt number ACANDC-18286185.). Filed byKenny Imbert. (Attachments: # 1 Civil Cover Sheet)(Audet, William) (Filed on 5/19/2023) (Entered: 05/19/2023)",
+        "docket_entry_id": 331582320,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-05-19",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.cand.412948/gov.uscourts.cand.412948.1.0.pdf",
+        "id": 337859099,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-13T19:33:26.706459Z",
+          "date_created": "2023-05-20T02:31:34.097033Z"
+        },
+        "pacer_doc_id": "035023165816",
+        "page_count": 36,
+        "short_description": "Complaint",
+        "snippet": "              Case 3:23-cv-02475 Document 1 Filed 05/19/23 Page 1 of 36\n\n\n\n 1                                                     0\n     WILLIAM M. AUDET (CA SBN 117456)\n 2   LING (DAVID) KUANG (CA SBN 296873)\n     KURT D. KESSLER (CA SBN 327334)\n 3    waudet@audetlaw.com\n      lkuang@audetlaw.com\n 4    kkessler@audetlaw.com\n     AUDET & PARTNERS, LLP\n 5    711 Van Ness Avenue, Suite 500\n      San Francisco, CA 94102-3275\n 6    Telephone: (415) 568-2555\n      Facsimile: (415) 568-2556\n 7\n\n 8   C"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Anthony Joseph Battaglia",
+    "assigned_to_id": 202,
+    "attorney": [
+      "Richard M. Simins",
+      "Marc Robert Lewis",
+      "Steven C. Vondran",
+      "Marshal Hoda",
+      "Zachary Christian Flood",
+      "Kirk Austin Hornbeck",
+      "Patrick Yarborough",
+      "Christopher William Johnstone",
+      "Bruce Roger Braun",
+      "Joanna Rubin Travalini",
+      "Sarah Alison Hemmendinger",
+      "Tommy Hoyt",
+      "Peter Neiman",
+      "Ann Marie Mortimer",
+      "Jeremy Mishkin",
+      "Nicholas Werle"
+    ],
+    "attorney_id": [
+      8481344,
+      8481345,
+      8481346,
+      8481347,
+      8481348,
+      8481349,
+      8481350,
+      8481351,
+      8481352,
+      8481337,
+      8481338,
+      8481339,
+      8481340,
+      8481341,
+      8481342,
+      8481343
+    ],
+    "caseName": "Pierce v. Bankman-Fried",
+    "case_name_full": "",
+    "cause": "28:1331ra Fed. Question: Racketeering (RICO) Act",
+    "chapter": null,
+    "court": "District Court, S.D. California",
+    "court_citation_string": "S.D. Cal.",
+    "court_id": "casd",
+    "dateArgued": null,
+    "dateFiled": "2023-06-09",
+    "dateTerminated": "2023-06-09",
+    "docketNumber": "3:23-cv-01077",
+    "docket_absolute_url": "/docket/67490214/pierce-v-bankman-fried/",
+    "docket_id": 67490214,
+    "firm": [
+      "Foster Yarborough PLLC",
+      "Hunton Andrews Kurth LLP, Los Angeles Office",
+      "Wilmer Cutler Pickering Hale and Dorr LLP",
+      "MONTGOMERY McCRACKEN WALKER & RHOADS LLP",
+      "Montgomery McCracken",
+      "Lewis and Llewellyn",
+      "Sidley Austin LLP",
+      "The Hoda Law Firm, PLLC",
+      "The Law Offices of Steven C. Vondran, PC",
+      "Hunton Andrews Kurth LLP"
+    ],
+    "firm_id": [
+      288707,
+      640804,
+      718692,
+      331320,
+      23979,
+      383533,
+      591918,
+      795345,
+      2227,
+      465043,
+      21016,
+      754073,
+      789918
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-07-12T14:54:09.091864Z",
+      "date_created": "2023-06-09T18:14:53.912523Z",
+      "score": {
+        "bm25": 1922.6726
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "761164",
+    "party": [
+      "Zixiao Wang",
+      "Armanino, LLP",
+      "Caroline Ellison",
+      "Nishad Singh",
+      "Samuel  Bankman-Fried",
+      "Prager Metis CPA's",
+      "Stephen T Pierce"
+    ],
+    "party_id": [
+      12673376,
+      12673377,
+      12673378,
+      12673379,
+      12673380,
+      12673381,
+      12673382
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67490214/58/pierce-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [
+          7225945
+        ],
+        "description": "ORDER TRANSFERRING CASE. Actions listed on Schedule A and pending outside the Southern District of Florida are transferred to the Southern District of Florida and, with the consent of that court, assigned to the Honorable K. Michael Moore for coordinated or consolidated pretrial proceedings to be part of the MDL 3076 In re: FTX Cryptocurrency Exchange Collapse Litigation. (cv, COURT STAFF) (Filed on 6/9/2023) [Transferred from California Northern on 6/9/2023.] (Entered: 06/09/2023)",
+        "docket_entry_id": 346150960,
+        "document_number": 58,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-06-09",
+        "entry_number": 58,
+        "filepath_local": "recap/gov.uscourts.casd.761164/gov.uscourts.casd.761164.58.0.pdf",
+        "id": 352511790,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-12T14:54:08.609797Z",
+          "date_created": "2023-06-09T18:14:55.504540Z"
+        },
+        "pacer_doc_id": "037019238152",
+        "page_count": 5,
+        "short_description": "Transfer Document",
+        "snippet": "Case 3:23-cv-01077-AJB-BLM Document 58 Filed 06/09/23 PageID.212 Page 1 of 5\n\n\n\n\n                              UNITED STATES JUDICIAL PANEL\n                                           on\n                               MULTIDISTRICT LITIGATION\n                                                                                                 Patrick Edwards\n\n                                                                                                 Jun 6, 2023\nIN RE: FTX CRYPTOCURRENCY EXCHANGE\n"
+      }
+    ],
+    "referredTo": "Barbara L. Major",
+    "referred_to_id": 9109,
+    "suitNature": "470 Racketeer/Corrupt Organization",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Kevin Michael Moore",
+    "assigned_to_id": 2297,
+    "attorney": [
+      "Yaman Salahi",
+      "Richard M. Simins",
+      "Glenn K. Vanzura",
+      "Jeremy D. Mishkin",
+      "Peter G. Neiman",
+      "Zachary Christian Flood",
+      "Jason D. Linder",
+      "Rafey S. Balabanian",
+      "Marc R. Lewis",
+      "Christopher William Johnstone",
+      "Jonathan Samuel Klein",
+      "Andrew J. Demko",
+      "Todd M. Logan",
+      "Nicholas Werle"
+    ],
+    "attorney_id": [
+      8489248,
+      8489249,
+      8489250,
+      8489237,
+      8489238,
+      8489239,
+      8489240,
+      8489241,
+      8489242,
+      8489243,
+      8489244,
+      8489245,
+      8489246,
+      8489247
+    ],
+    "caseName": "Jessup v. Bankman-Fried",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, S.D. Florida",
+    "court_citation_string": "S.D. Fla.",
+    "court_id": "flsd",
+    "dateArgued": null,
+    "dateFiled": "2023-06-14",
+    "dateTerminated": "2023-06-14",
+    "docketNumber": "1:23-cv-22200",
+    "docket_absolute_url": "/docket/67500626/jessup-v-bankman-fried/",
+    "docket_id": 67500626,
+    "firm": [
+      "Wilmer Cutler Pickering Hale and Dorr LLP",
+      "MONTGOMERY McCRACKEN WALKER & RHOADS LLP",
+      "Montgomery McCracken",
+      "Lewis and Llewellyn",
+      "Mayer Brown LLP",
+      "Lieff Cabraser Heimann & Bernstein LLP",
+      "Edelson PC"
+    ],
+    "firm_id": [
+      695872,
+      2371,
+      640804,
+      14213,
+      791784,
+      23979,
+      591918,
+      795345,
+      465043,
+      683383,
+      42520
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-05-27T00:05:41.585846Z",
+      "date_created": "2023-06-14T17:59:20.591094Z",
+      "score": {
+        "bm25": 1892.9446
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "648948",
+    "party": [
+      "Caroline Ellison",
+      "Nishad Singh",
+      "Michael Elliott Jessup",
+      "Samuel  Bankman-Fried",
+      "Gary Wang",
+      "Sam Trabucco"
+    ],
+    "party_id": [
+      12685026,
+      12685027,
+      12685028,
+      12685029,
+      12685030,
+      12685031
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67500626/47/jessup-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [
+          7225945
+        ],
+        "description": "MDL ORDER TRANSFERRING CASE to the Southern District of Florida.  (far, COURT STAFF) (Filed on 6/9/2023)",
+        "docket_entry_id": 346629020,
+        "document_number": 47,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-06-09",
+        "entry_number": 47,
+        "filepath_local": "recap/gov.uscourts.flsd.648948/gov.uscourts.flsd.648948.47.0.pdf",
+        "id": 353017686,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-05-27T00:05:41.495377Z",
+          "date_created": "2023-06-15T14:42:36.663255Z"
+        },
+        "pacer_doc_id": "051026087418",
+        "page_count": 5,
+        "short_description": "",
+        "snippet": "     1:23-md-03076-KMM Document\nCase 1:23-cv-22200-KMM  Document47\n                                 1 Entered on FLSD Docket 06/06/2023\n                                                          06/09/2023 Page 1 of 5\n                Case MDL No. 3076 Document 138 Filed 06/05/23 Page 1 of 5\n\n\n\n\n                                UNITED STATES JUDICIAL PANEL\n                                             on\n                                 MULTIDISTRICT LITIGATION\n                                      "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Kevin Michael Moore",
+    "assigned_to_id": 2297,
+    "attorney": [
+      "Nicholas Werle",
+      "Matthew Kahn",
+      "Zachary Christian Flood",
+      "Jeremy D. Mishkin",
+      "Michael Kahn",
+      "Christopher William Johnstone",
+      "Itak K. Moradi",
+      "Peter G. Neiman",
+      "Joseph R. Saveri",
+      "William M. Audet",
+      "Christopher Kar-Lun Young",
+      "Steven Noel Williams",
+      "Richard M. Simins",
+      "Ling Y. Kuang",
+      "Jamila MacEbong",
+      "Yaman Salahi",
+      "Kurt Kessler",
+      "Laurence D. King",
+      "Stuart Andrew Davidson",
+      "Marc R. Lewis"
+    ],
+    "attorney_id": [
+      10514765,
+      8487880,
+      8487881,
+      8487882,
+      8487883,
+      8487884,
+      8487885,
+      8487886,
+      8487887,
+      10514764,
+      8487889,
+      8487890,
+      8487891,
+      8487892,
+      8487893,
+      8487894,
+      8487895,
+      8487896,
+      8487897,
+      8487898
+    ],
+    "caseName": "Lam v. Bankman-Fried",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Fraud",
+    "chapter": null,
+    "court": "District Court, S.D. Florida",
+    "court_citation_string": "S.D. Fla.",
+    "court_id": "flsd",
+    "dateArgued": null,
+    "dateFiled": "2023-06-05",
+    "dateTerminated": "2023-06-14",
+    "docketNumber": "1:23-cv-22195",
+    "docket_absolute_url": "/docket/67500311/lam-v-bankman-fried/",
+    "docket_id": 67500311,
+    "firm": [
+      "MONTGOMERY McCRACKEN WALKER & RHOADS LLP",
+      "Gibson Dunn Crutcher LLP",
+      "Lewis and Llewellyn",
+      "Robbins Geller Rudman & Dowd LLP",
+      "Edelson PC",
+      "Joseph Saveri Law Firm, LLP",
+      "Audet & Partners, LLP",
+      "Joseph Saveri Law Firm",
+      "Audet and Partners LLP",
+      "Kaplan Fox and Kilsheimer LLP",
+      "Steven Williams Law, P.C.",
+      "Wilmer Cutler Pickering Hale and Dorr LLP",
+      "Lieff Cabraser Heimann & Bernstein LLP",
+      "Gibson Dunn and Crutcher",
+      "Montgomery McCracken"
+    ],
+    "firm_id": [
+      695872,
+      905731,
+      34980,
+      14213,
+      640804,
+      5447,
+      26537,
+      28778,
+      23979,
+      810860,
+      902956,
+      591918,
+      225232,
+      795345,
+      465043,
+      683383,
+      281272,
+      14047
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-05-27T00:06:19.538997Z",
+      "date_created": "2023-06-14T16:58:13.730349Z",
+      "score": {
+        "bm25": 1885.5729
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "648937",
+    "party": [
+      "Caroline Ellison",
+      "Kenny Imbert",
+      "Russell Hawkins",
+      "Elliott Lam",
+      "Golden State Warriors LLC",
+      "Sam Bankman-Fried",
+      "Mark Girshovich"
+    ],
+    "party_id": [
+      12683922,
+      12683924,
+      12683925,
+      12683926,
+      12683927,
+      12683928,
+      15821279
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67500311/67/lam-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [
+          7225945
+        ],
+        "description": "MDL ORDER TRANSFERRING CASE to the Southern District of Florida. (far, COURT STAFF) (Filed on 6/9/2023) (Entered: 06/09/2023)",
+        "docket_entry_id": 346584555,
+        "document_number": 67,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-06-09",
+        "entry_number": 67,
+        "filepath_local": "recap/gov.uscourts.flsd.648937/gov.uscourts.flsd.648937.67.0.pdf",
+        "id": 352969913,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-22T12:59:32.494534Z",
+          "date_created": "2023-06-14T23:08:47.000866Z"
+        },
+        "pacer_doc_id": "051026086601",
+        "page_count": 5,
+        "short_description": "",
+        "snippet": "     1:23-md-03076-KMM Document\nCase 1:23-cv-22195-KMM  Document67\n                                 1 Entered on FLSD Docket 06/06/2023\n                                                          06/09/2023 Page 1 of 5\n                Case MDL No. 3076 Document 138 Filed 06/05/23 Page 1 of 5\n\n\n\n\n                                UNITED STATES JUDICIAL PANEL\n                                             on\n                                 MULTIDISTRICT LITIGATION\n                                      "
+      },
+      {
+        "absolute_url": "/docket/67500311/1/lam-v-bankman-fried/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT Class Action Complaint against all Defendants. Filed by Elliott Lam (Attachments: # 1 Civil Cover Sheet)(Audet, William) (Filed on 11/21/2022) Modified on 11/21/2022 (far, COURT STAFF). (Entered: 11/21/2022)",
+        "docket_entry_id": 346584486,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-11-21",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.flsd.648937/gov.uscourts.flsd.648937.1.0.pdf",
+        "id": 352969844,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-25T15:53:04.493049Z",
+          "date_created": "2023-06-14T23:08:45.690404Z"
+        },
+        "pacer_doc_id": "051026086332",
+        "page_count": 25,
+        "short_description": "",
+        "snippet": "Case 1:23-cv-22195-KMM Document 1 Entered on FLSD Docket 11/21/2022 Page 1 of 25\n\n\n\n\n  1   William M. Audet (CA SBN 117456)\n      Ling Y. Kuang (CA SBN 296873)\n  2   Kurt D. Kessler (CA SBN 327334)\n        waudet@audetlaw.com\n  3     lkuang@audetlaw.com\n        kkessler@audetlaw.com\n  4   AUDET & PARTNERS, LLP\n        711 Van Ness Avenue, Suite 500\n  5     San Francisco, CA 94102-3275\n        Telephone: (415) 568-2555\n  6     Facsimile: (415) 568-2556\n  7   Robert L. Lieff (CA SBN 037568)\n      "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "370 Other Fraud",
+    "trustee_str": null
+  }
+]

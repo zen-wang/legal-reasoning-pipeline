@@ -1,0 +1,78 @@
+[
+  {
+    "source": "Pile-of-Law (HuggingFace)",
+    "subset": "courtlistener_opinions",
+    "description": "CourtListener 法院判決意見書",
+    "why_selected": "判決書全文，可用於 RAG 語料庫",
+    "num_samples": 10,
+    "sample_keys": [
+      "text",
+      "created_timestamp",
+      "downloaded_timestamp",
+      "url"
+    ],
+    "first_sample_preview": {
+      "text": "—Appeal by the defendant from a judgment of the Supreme Court, Queens County (Brennan, J.), rendered December 1, 1983, adjudicating him a youthful offender, upon his plea of guilty to robbery in the first degree (two counts), robbery in the second degree, and assault in the first degree (two counts)",
+      "created_timestamp": "01-13-2022",
+      "downloaded_timestamp": "01-03-2023",
+      "url": "https://www.courtlistener.com/api/rest/v3/opinions/5901619/"
+    }
+  },
+  {
+    "source": "Pile-of-Law (HuggingFace)",
+    "subset": "courtlistener_docket_entry_documents",
+    "description": "CourtListener 案件摘要條目",
+    "why_selected": "程序性文件紀錄",
+    "num_samples": 10,
+    "sample_keys": [
+      "text",
+      "created_timestamp",
+      "downloaded_timestamp",
+      "url"
+    ],
+    "first_sample_preview": {
+      "text": "             Case 2:19-bk-14989-WB                   Doc 533 Filed 01/08/20 Entered 01/08/20 15:48:48                                       Desc\n                                                      Main Document    Page 1 of 38\n\n    Attorney or Party Name, Address, Telephone & FAX                  ",
+      "created_timestamp": "2020-01-08",
+      "downloaded_timestamp": "11-08-2021",
+      "url": "https://www.courtlistener.com/api/rest/v3/recap-documents/119540967/"
+    }
+  },
+  {
+    "source": "Pile-of-Law (HuggingFace)",
+    "subset": "atticus_contracts",
+    "description": "合約文件",
+    "why_selected": "法律文件的另一種類型",
+    "num_samples": 10,
+    "sample_keys": [
+      "text",
+      "created_timestamp",
+      "downloaded_timestamp",
+      "url"
+    ],
+    "first_sample_preview": {
+      "text": "Exhibit 10.2\nINDEMNIFICATION AGREEMENT\n     This Indemnification Agreement (this “Agreement”) is made as of the 3rd day\nof February, 2009, by and between Magellan Petroleum Corporation, a Delaware\ncorporation (the “Company”), and William H. Hastings, an individual residing at\n2 Thurston Lane, Falmou",
+      "created_timestamp": "",
+      "downloaded_timestamp": "08-28-2021",
+      "url": "https://github.com/TheAtticusProject/cuad"
+    }
+  },
+  {
+    "source": "Pile-of-Law (HuggingFace)",
+    "subset": "federal_register",
+    "description": "聯邦公報",
+    "why_selected": "行政法規和公告",
+    "num_samples": 10,
+    "sample_keys": [
+      "text",
+      "created_timestamp",
+      "downloaded_timestamp",
+      "url"
+    ],
+    "first_sample_preview": {
+      "text": "\n      \n        DEPARTMENT OF TRANSPORTATION\n        National Highway Traffic Safety Administration\n        49 CFR Part 571\n        [Docket No. NHTSA-2010-0112]\n        RIN 2127-AK56\n         Federal Motor Vehicle Safety Standards; Motorcoach Definition; Occupant Crash Protection\n        \n          ",
+      "created_timestamp": "08-18-2010",
+      "downloaded_timestamp": "09-14-2021",
+      "url": "https://www.govinfo.gov/bulkdata/FR/2010/08/FR-2010-08-18.xml"
+    }
+  }
+]

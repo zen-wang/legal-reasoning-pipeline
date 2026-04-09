@@ -1,0 +1,196 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>h18788e8vk.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                              ---------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+      DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): SEPTEMBER 30, 2004
+
+
+                                   ENRON CORP.
+               (Exact name of Registrant as specified in charter)
+
+<Table>
+<S>                                        <C>                           <C>
+               OREGON                             1-13159                    47-0255140
+      (State or other jurisdiction         (Commission file number)       (I.R.S. employer
+           of incorporation)                                             identification no.)
+
+
+            1221 LAMAR #1600                                                  77010-1221
+             HOUSTON, TEXAS                                                   (Zip Code)
+(Address of principal executive offices)
+</Table>
+
+
+       Registrant's telephone number, including area code: (713) 853-6161
+
+        Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+        [ ]     Written communications pursuant to Rule 425 under the Securities
+                Act (17 CFR 230.425)
+
+        [ ]     Soliciting material pursuant to Rule 14a-12 under the Exchange
+                Act (17 CFR 240.14a-12)
+
+        [ ]     Pre-commencement communications pursuant to Rule 14d-2(b) under
+                the Exchange Act (17 CFR 240.14d-2(b))
+
+        [ ]     Pre-commencement communications pursuant to Rule 13e-4(c) under
+                the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+                              ---------------------
+
+
+
+<PAGE>
+
+ITEM 5.02.      DEPARTURE OF DIRECTORS OR PRINCIPAL OFFICERS; ELECTION OF
+                DIRECTORS; APPOINTMENT OF PRINCIPAL OFFICERS.
+
+        (b)     On September 30, 2004, the board of directors of Enron Corp.
+(the "Company") accepted the resignation of Raymond M. Bowen as Executive Vice
+President, Chief Financial Officer and Treasurer of the Company, which
+resignation is effective as of October 1, 2004.
+
+        (c)     On September 30, 2004, the board of directors of the Company
+elected Robert S. Bingham to replace Mr. Bowen as Interim Chief Financial
+Officer and Interim Treasurer of the Company, effective as of October 1, 2004.
+
+        Mr. Bingham is 56 years old and has been an employee of Kroll Zolfo
+Cooper, LLC (formerly Zolfo Cooper, LLC) ("KZC") since February 1999. During his
+tenure with KZC through KZC's services provided to the Company as further
+described in the next paragraph below, he has served as Associate Director of
+Restructuring for the Company since February 2002. Prior to joining KZC, he
+served as Vice President and Chief Financial Officer of Pick Telecommunications
+Corp., a publicly-traded provider of long distance and prepaid calling card
+telecommunications services, from January 1997 to February 1999. He is a
+certified public accountant. Mr. Bingham serves as a director for Portland
+General Electric Company ("PGE"), an electric utility company reporting under
+the Securities Exchange Act of 1934 and wholly owned subsidiary of the Company.
+Mr. Bingham is the Chair of PGE's Audit Committee and a member of PGE's
+Compensation Committee. Mr. Bingham does not have an employment agreement
+directly with the Company. Instead, the Company and its debtor subsidiaries
+(collectively with the Company, the "Debtors"), in the Chapter 11 bankruptcy
+case commenced December 2, 2001 (Case. No 01-16034 (AJG)) (the "Bankruptcy
+Case") in the United States Bankruptcy Court for the Southern District of New
+York (the "Bankruptcy Court"), compensate Stephen Forbes Cooper, LLC (an entity
+which has a shared employee arrangement with KZC pursuant to a separate
+agreement) ("SFC") for its services pursuant to an agreement entered into
+effective as of January 28, 2002, by and among the Company, SFC and Stephen F.
+Cooper (the "SFC Agreement"), which was approved by the Bankruptcy Court. Under
+the SFC Agreement, SFC performs certain management services for the Company
+associated with the Bankruptcy Case, and the Company agrees to pay SFC, among
+other amounts for services rendered by other individuals, $545 per hour of work
+for Mr. Bingham's services.
+
+        THIS FORM 8-K MAY CONTAIN STATEMENTS THAT ARE FORWARD-LOOKING WITHIN THE
+MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933 AND SECTION 21E OF THE
+SECURITIES EXCHANGE ACT OF 1934. INVESTORS ARE CAUTIONED THAT ANY SUCH
+FORWARD-LOOKING STATEMENTS ARE BASED ON MANAGEMENT'S CURRENT EXPECTATION AND, AS
+SUCH, ARE NOT GUARANTEES OF FUTURE PERFORMANCE. ACCORDINGLY, ACTUAL RESULTS
+COULD DIFFER MATERIALLY AS A RESULT OF KNOWN AND UNKNOWN RISKS AND
+UNCERTAINTIES, INCLUDING, BUT NOT LIMITED TO: VARIOUS REGULATORY ISSUES; THE
+OUTCOME OF THE COMPANY'S CHAPTER 11 PROCESS; RISKS INHERENT IN THE COMPANY'S
+CHAPTER 11 PROCESS, SUCH AS THE NON-OCCURRENCE OR DELAYED OCCURRENCE OF THE
+EFFECTIVE DATE OF THE
+
+
+
+                                       2
+
+<PAGE>
+
+SUPPLEMENTAL MODIFIED FIFTH AMENDED JOINT PLAN OF AFFILIATED DEBTORS PURSUANT TO
+CHAPTER 11 OF THE UNITED STATES BANKRUPTCY CODE (THE "CHAPTER 11 PLAN") OR
+DELAYED DISTRIBUTION OR NON-DISTRIBUTION OF SECURITIES OR OTHER ASSETS UNDER THE
+CHAPTER 11 PLAN; THE UNCERTAIN OUTCOMES OF ONGOING LITIGATION AND GOVERNMENTAL
+INVESTIGATIONS INVOLVING THE COMPANY'S OPERATING SUBSIDIARIES AND THE DEBTORS,
+INCLUDING THOSE INVOLVING FOREIGN REGULATORS AND THE U.S. CONGRESS, THE
+DEPARTMENT OF JUSTICE, THE SECURITIES AND EXCHANGE COMMISSION ("SEC"), THE
+DEPARTMENT OF LABOR, THE INTERNAL REVENUE SERVICE, THE PENSION BENEFIT GUARANTY
+CORPORATION, THE NATIONAL ASSOCIATION OF SECURITIES DEALERS, INC., THE FEDERAL
+ENERGY REGULATORY COMMISSION, THE COMMODITY FUTURES TRADING COMMISSION, THE
+FEDERAL TRADE COMMISSION, THE CALIFORNIA AND CONNECTICUT ATTORNEYS GENERAL AND
+NUMEROUS CONGRESSIONAL COMMITTEES AND STATE AGENCIES; THE UNCERTAIN OUTCOMES OF
+NUMEROUS LAWSUITS AND CLAIMS; THE EFFECTS OF NEGATIVE PUBLICITY ON THE COMPANY'S
+OPERATING SUBSIDIARIES' BUSINESS OPPORTUNITIES; THE EFFECTS OF THE DEPARTURE OF
+PAST AND PRESENT EMPLOYEES OF THE DEBTORS; UNCERTAIN RESOLUTION OF SPECIAL
+PURPOSE ENTITY ISSUES; THE PRELIMINARY AND UNCERTAIN NATURE OF VALUATIONS AND
+ESTIMATES CONTAINED IN THE CHAPTER 11 PLAN; FINANCIAL AND OPERATING RESTRICTIONS
+THAT MAY BE IMPOSED ON AN OPERATING SUBSIDIARY OF THE COMPANY UNDER THE PUBLIC
+UTILITY HOLDING COMPANY ACT; POTENTIAL ENVIRONMENTAL LIABILITIES; INCREASING
+COMPETITION AND OPERATIONAL HAZARDS FACED BY THE DEBTORS AND OPERATING
+SUBSIDIARIES OF THE COMPANY; THE POTENTIAL LACK OF A TRADING MARKET FOR THE
+SECURITIES DISTRIBUTED TO CREDITORS; UNCERTAINTIES CREATED BY THE LACK OF
+REPORTED INFORMATION FOR SECURITIES DISTRIBUTED TO CREDITORS AND THE LACK OF
+INDEPENDENT OPERATING HISTORY OF THE COMPANY'S OPERATING SUBSIDIARIES; ECONOMIC,
+POLITICAL, REGULATORY AND LEGAL RISKS AFFECTING THE FINANCES AND OPERATIONS OF
+THE DEBTORS AND THE COMPANY'S OPERATING SUBSIDIARIES; AND THE UNCERTAIN TIMING,
+COSTS AND RECOVERY VALUES INVOLVED IN THE DEBTORS' EFFORTS TO RECOVER ACCOUNTS
+RECEIVABLE AND TO LIQUIDATE THE REMAINING ASSETS.
+
+        AS EXPLAINED IN A NOVEMBER 8, 2001 FORM 8-K FILED BY THE COMPANY WITH
+THE SEC, THE PREVIOUSLY ISSUED FINANCIAL STATEMENTS OF THE COMPANY FOR THE
+FISCAL YEARS ENDED DECEMBER 31, 1997 THROUGH 2000 AND FOR THE FIRST AND SECOND
+QUARTERS OF 2001 AND THE AUDIT REPORTS COVERING THE YEAR-END FINANCIAL
+STATEMENTS FOR 1997 THROUGH 2000 SHOULD NOT BE RELIED UPON. IN ADDITION, AS
+EXPLAINED IN AN APRIL 22, 2002 FORM 8-K FILED BY THE COMPANY, THE FINANCIAL
+STATEMENTS OF THE COMPANY FOR THE THIRD QUARTER OF 2001 SHOULD NOT BE RELIED
+UPON. THE COMPANY CONTINUES TO BELIEVE THAT THE EXISTING COMMON AND PREFERRED
+STOCK OF THE COMPANY HAVE NO VALUE. HOWEVER, THE CHAPTER 11 PLAN PROVIDES THE
+COMPANY'S STOCKHOLDERS WITH A CONTINGENT RIGHT TO RECEIVE RECOVERY IN THE VERY
+UNLIKELY EVENT THAT THE AGGREGATE VALUE OF THE COMPANY'S ASSETS EXCEEDS THE
+TOTAL AMOUNT OF ALLOWED CLAIMS.
+
+
+
+                                       3
+
+<PAGE>
+
+                                   SIGNATURES
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+                                          ENRON CORP.
+
+
+Date: October 1, 2004                     By: /s/ K. WADE CLINE
+                                             -----------------------------------
+                                             Name: K. Wade Cline
+                                             Title: Managing Director and
+                                                    Assistant General Counsel
+
+
+
+
+
+                                       4
+
+
+</TEXT>
+</DOCUMENT>

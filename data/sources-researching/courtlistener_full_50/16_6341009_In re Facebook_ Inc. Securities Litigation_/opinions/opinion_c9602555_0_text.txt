@@ -1,0 +1,208 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                                                                         
+5                      UNITED STATES DISTRICT COURT                       
+6                     NORTHERN DISTRICT OF CALIFORNIA                     
+7                            SAN JOSE DIVISION                            
+8                                                                         
+9    FAN YUAN, et al.,                Case No.   5:18-cv-01725-EJD        
+
+10              Plaintiffs,            ORDER GRANTING MOTION TO            
+                                      STRIKE THE DECLARATION OF           
+11          v.                         MATTHEW CAIN AND REFERENCES         
+                                      THERETO IN THE THIRD AMENDED        
+12    FACEBOOK, INC., et al.,          COMPLAINT                           
+
+               Defendants.                                                
+13                                                                         
+                                      Re: Dkt. No. 148                    
+
+14                                                                         
+15        This is a putative securities fraud class action suit.  Plaintiffs filed a Third Amended 
+16   Complaint (“TAC”) on October 16, 2020.  Dkt. No. 142.  Exhibit C to the TAC is the Expert 
+17   Declaration of Matthew D. Cain, Ph.D., dated October 15, 2020 (“Cain Declaration”).  Id. at 304-
+18   31.  Pending before the Court is Defendants’ Motion to Strike the Declaration of Matthew Cain 
+19   and References thereto in the Third Amended Complaint (“Mot.”).  Dkt. No. 148.  Defendants 
+20   contend that the Cain Declaration should be stricken because it is not a written instrument under 
+21   Federal Rule of Civil Procedure 10(c), and therefore is not part of the pleading and may not be 
+22   considered on Defendants’ motion to dismiss.1  Mot. at 1-2.  Defendants also contend that the Cain 
+23   Declaration and references thereto in the TAC should be stricken because they are opinions, not 
+24   facts.  Plaintiffs filed an opposition (“Opp’n,” Dkt. No. 157), and Defendants filed a reply 
+25   (“Reply,” Dkt. No. 162).  For the reasons stated below, the Motion to Strike is GRANTED. 
+26                                                                         
+
+27                                                                         
+    1 Defendants’ motion to dismiss the TAC remains under submission.     
+1   I.   BACKGROUND                                                       
+2        In the Court’s order granting Defendants’ motion to dismiss Plaintiffs’ prior complaint—
+3   the Second Amended Complaint—the Court concluded that Plaintiffs had failed to plead loss 
+4   causation.  Order Granting Defendants’ Mot. to Dismiss with Leave to Amend, Dkt. No. 137.  In 
+5   an attempt to address the pleading deficiency, Plaintiffs attached the Cain Declaration as Exhibit C 
+6   to the TAC and added, among other things, the following allegations to the TAC: 
+7                                                                         
+              C.   Dr. Cain’s Expert Analysis Confirms Lead Plaintiffs’ Loss 
+8                Causation Allegations                                    
+
+9             721.  In  addition,  Lead  Counsel  retained  an  expert  economist, 
+              Matthew D. Cain, Ph.D., to opine on loss causation issues for pleading 
+10             purposes. Dr. Cain is a Senior Fellow at the Berkeley Center for Law 
+              and Business and a Senior Visiting Scholar at Berkeley Law School, 
+11             University of California. He has a Ph.D. in Finance from Purdue 
+              University and has published research in leading finance, accounting, 
+12             law,  and  economics  journals,  including  the  Journal  of  Financial 
+              Economics,  the  Journal  of  Law  and  Economics,  the  Journal  of 
+13             Accounting and Economics, the Journal of Empirical Studies, and the 
+              Journal of Financial and Quantitative Analysis. From 2014 to 2018, 
+14             Dr. Cain worked at the SEC, where he provided economic analysis 
+              and expert witness testimony on behalf of the SEC in a wide variety 
+15             of enforcement investigations, settlement negotiations and litigation. 
+              He also served as an advisor to SEC Commissioner Robert J. Jackson, 
+16             Jr. and was awarded the Chairman’s Award for Economic Research. 
+              Prior to working at the SEC, Dr. Cain was an Assistant Professor of 
+17             Finance at the University of Notre Dame.                    
+
+18             722.    In  particular,  Lead  Counsel  retained  Dr.  Cain  to  provide 
+              opinions on: (1) whether the alleged misstatements and/or omissions 
+19             would be expected to impact the investing decisions of a reasonable 
+              investor; and (2) whether price declines in Facebook’s common stock 
+20             in March 2018 and on July 26, 2018 following corrective disclosures 
+              were statistically significant and were, from an economic perspective, 
+21             proximately  caused  by  the  revelation  of  the  truth  concerning 
+              Defendants’ alleged prior misstatements and/or omissions (i.e., loss 
+22             causation) and whether the price increase on April 26, 2018 was due 
+              to  artificial  inflation  created  by  Defendants’  alleged 
+23             misrepresentations and/or omissions.                        
+
+24             723.  Based on his analysis, Dr. Cain opined that, on each of the 
+              alleged  corrective  disclosures  discussed  in  his  declaration,  “new 
+25             information was revealed to the market concerning the continued 
+              misuse of user data by Cambridge Analytica, the extent and scope of 
+26             Facebook’s data privacy issues, and the lack of user control over data 
+              provided to Facebook. This information would be expected to carry 
+27             importance in the investing decisions of a reasonable investor.”  Dr. 
+              Cain  further  opined  that  these  alleged  corrective  disclosures 
+1             “significantly  altered  the  information  environment  available  to 
+              investors in Facebook securities” and “would be expected to have an 
+2             impact on the investing decisions of a reasonable investor.” 
+
+3             724. Dr. Cain also opined that: “the price declines in Facebook’s 
+              common stock on March 19, 2018, March 20, 2018, March 27, 2018 
+4             and  July  25,  2018  were  statistically  significant”  and  were 
+              “economically  sizeable,  representing  many  billions  of  dollars  of 
+5             shareholder losses.”  Dr. Cain further opined that: “from an economic 
+              perspective, these declines were proximately caused by the revelation 
+6             of the truth concerning Defendants’ alleged misrepresentations and/or 
+              omissions.”                                                 
+7                                                                         
+8   TAC ¶¶ 721-24.                                                        
+9   II.  LEGAL STANDARDS                                                  
+10        Federal Rule of Civil Procedure 12(f) permits a court to “strike from a pleading an 
+11   insufficient defense or any redundant, immaterial, impertinent, or scandalous matter.”  Fed. R. 
+12   Civ. P. 12(f).  “Immaterial matter is that which has no essential or important relationship to the 
+13   claim for relief or the defenses being pleaded.”  Fantasy, Inc. v. Fogerty, 984 F.2d 1524, 1527 (9th 
+14   Cir. 1993), rev’d on other grounds, 510 U.S. 517 (1994) (internal quotations omitted). 
+15   III.  DISCUSSION                                                      
+16        A.   Cain Declaration                                            
+17        The inclusion of Dr. Cain’s Declaration and opinions in the TAC is procedurally improper.  
+18   Affidavits and declarations “are not allowed as pleading exhibits unless they form the basis of the 
+19   complaint.”  United States v. Ritchie, 342 F.3d 903, 907 (9th Cir. 2003).  And specifically in the 
+20   context of securities fraud litigation, courts have stricken expert declarations that are attached to a 
+21   complaint.   See In re Ashworth, Inc. Sec. Litig., No. 99CV0121-L(JAH), 2001 WL 37119391, at 
+22   *3 (S.D. Cal. Dec. 3, 2001) (striking a declaration from an expert in the fields of statistics and 
+23   applied mathematics as well as his legal conclusions cited in the complaint); City of Royal Oak 
+24   Ret. Sys. v. Juniper Networks, Inc., No. 5:11-CV-04003-LHK, 2013 WL 2156358, at *7 (N.D. Cal 
+25   May 17, 2013) (disregarding expert declaration attached to the complaint and the expert’s 
+26   “opinions” copied into the complaint).                                
+27        Although Federal Rule of Civil Procedure 10(c) permits the Court to treat a “written 
+1   instrument that is an exhibit to a pleading” as part of the pleading for all purposes, an expert 
+2   affidavit such as the Cain Declaration does not qualify as a “written instrument.”  In re Rigel 
+3   Pharms., No. C 09-00546 JSW, 2010 WL 8816155, at *1 n. 1 (N.D. Cal. Aug. 24, 2010) (citing 
+4   DeMarco v. Depotech Corp., 149 F. Supp. 2d 1212, 1220 (S.D. Cal. 2001) (A “written 
+5   instrument” within the meaning of Rule 10(c) is “a document evidencing legal rights or duties or 
+6   giving formal expression to a legal act or agreement, such as a deed, will, bond, lease, insurance 
+7   policy or security agreement.”)).  An expert affidavit such as the Cain Declaration “is merely a 
+8   piece of evidentiary matter that does not exist independently of the complaint,” and not a “written 
+9   instrument” within the meaning of Rule 10(c).  DeMarco, 149 F. Supp. 2d at 1220; see also Stuart 
+10   v. Cadbury Adams USA, LLC, No. CV 09-6295 AHM (CWX), 2010 WL 1407303, at *4 (C.D. 
+11   Cal. Apr. 5, 2010), aff’d, 458 F. App’x 689 (9th Cir. 2011) (finding that an expert report in the 
+12   complaint generated for the purposes of litigation is not a “written instrument” under Rule 10(c)); 
+13   In re Herbalife, Ltd. Sec. Litig., No. CV142850DSFJCGX, 2015 WL 12734014, at *1 (C.D. Cal. 
+14   July 28, 2015) (striking expert reports that “appear to have been generated for purposes of 
+15   prosecuting this litigation” because they “do not constitute ‘written instrument[s]’ under Rule 
+16   10(c)”); Thaut v. Hsieh, 2016 WL 3058235, at *10 (E.D. Cal. May 31, 2016), report and 
+17   recommendation adopted, 2016 WL 10672012 (E.D. Cal. Aug. 11, 2016), aff’d sub nom. Edwards 
+18   v. Hsieh, 745 F. App’x 6 (9th Cir. 2018) (striking expert declaration attached to complaint and 
+19   disregarding same for purposes of considering motions to dismiss).    
+20         Plaintiffs do not address or distinguish many of the cases cited above.  Instead, Plaintiffs 
+21   rely on other cases, none of which the Court finds particularly helpful.  In MannKind, the court 
+22   denied a motion to strike the expert report, reasoning that there exists “no inflexible rule” 
+23   governing the sort of “written instruments” that may be attached to a pleading and that the expert 
+24   report served merely to buttress Plaintiffs’ contentions.  In re MannKind Sec. Actions, 835 F. 
+25   Supp. 2d 797, 821 (C.D. Cal. 2011).  In Cole, the court similarly denied the defendants’ motion to 
+26   strike expert reports attached to the complaint, reasoning that the reports merely served to buttress 
+27   the plaintiffs’ allegations of excessive force.  Cole v. Hunter, No. 3:13-CV-02719-O, 2014 WL 
+1   266501, at *4 (N.D. Tex. Jan. 24, 2014).  To the extent MannKind and Cole suggest that expert 
+2   reports are “written instruments” under Rule 10(c), the Court finds Ashworth, Royal Oak, and the 
+3   other cases cited above to be more persuasive.2   Furthermore, in In re Enzymotec Sec. Litig., 2015 
+4   WL 8784065, at *19 (D.N.J. Dec. 15, 2015), the defendants did not move to strike the expert 
+5   declaration, and so the opinion does not mention, much less analyze, Rule 10(c).  Similarly, in In 
+6   re Wash. Mut., Inc. Sec., Derivative & ERISA Litig., 694 F. Supp. 2d 1192, 1210 (W.D. Wash. 
+7   2009), as well as in Nursing Home Pension Fund, Loc. 144 v. Oracle Corp., 380 F.3d 1226, 1234 
+8   (9th Cir. 2004), the defendants did not raise any challenge to the experts.  Wash. Mut. and Nursing 
+9   Home are also distinguishable from the present case in terms of the type of expert information 
+10   being proffered.  In Wash Mut. and Nursing Home, the courts considered calculations prepared by 
+11   the experts—data analysis regarding the home appraisal process in the former, and financial 
+12   calculations in the latter.  In contrast, Plaintiffs in this case retained Dr. Cain to render opinions 
+13   beyond merely data analysis.  Specifically, Plaintiffs rely on Dr. Cain to render opinions as to (1) 
+14   whether the alleged misstatements and/or omissions would be expected to impact the investing 
+15   decisions of a reasonable investor; and (2) proximate cause.          
+16        B.   Portions of TAC That Cite or Rely on Dr. Cain’s Opinions    
+17        Plaintiffs acknowledge in their Opposition that Dr. Cain’s Declaration “does not contain 
+18   new facts or evidence,” and implicitly concede that it consists of opinions.  Opp’n at 5.  Dr. Cain’s 
+19   opinions “cannot substitute for facts under the PSLRA” in the TAC.  City of Royal Oak Retirement 
+20   System, 2013 WL 2156358, at *7 (quoting Fin. Acquisition Partners LP v. Blackwell, 440 F.3d 
+21   278, 286 (5th Cir. 2006)); see also Koehler v. Litehouse, Inc., No. CV 12-04055 SI, 2012 WL 
+22   6217635, at *3 (N.D. Cal. Dec. 13, 2012) (striking from the complaint “conclusory assertions” 
+23   from an expert report); In re Ashworth, Inc. Securities Litigation, 2001 WL 37119391, at *3 
+24                                                                         
+
+25                                                                         
+    2  Plaintiffs also rely on Sanchez v. Bay Area Rapid Transit Dist., No. 13-CV-1885 YGR, 2013 
+26   WL 4764485, at *9 (N.D. Cal. Sept. 5, 2013).  In Sanchez, the court denied the defendants’ motion 
+    to strike a putative expert report and photographs attached to the complaint.  Inasmuch as Sanchez 
+27   relied on MannKind, the Court finds the Sanchez decision unpersuasive as well.   
+    1    (striking expert’s “legal conclusions” from complaint).  Therefore, when deciding Defendants’ 
+    2  || motion to dismiss, the Court will not consider Dr. Cain’s opinions as set forth in paragraphs 722 
+    3    through 724 of the TAC and any other portions of the TAC that rely on those opinions. 
+    4  ||} IV.    CONCLUSION 
+    5          Defendants’ Motion to Strike is GRANTED. 
+    6          IT IS SO ORDERED. 
+    7    Dated: September 30, 2021 
+    8 
+    9 
+                                                        EDWARD J. DAVILA 
+   10                                                    United States District Judge 
+   11 
+a    12 
+
+
+
+
+    15 
+   16 
+
+    it 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28  || Case No.: 5:18-cv-01725-EJD 
+        ORDER GRANTING MOTION TO STRIKE 

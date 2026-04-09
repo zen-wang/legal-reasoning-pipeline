@@ -1,0 +1,241 @@
+================================================================================
+COURTLISTENER FULL DATA EXPLORATION REPORT
+Generated: 2026-03-29T20:54:56.106758
+Cases scraped: 50
+================================================================================
+
+## ENDPOINT AVAILABILITY ACROSS ALL CASES
+
+  docket                   : 50/50 cases have data
+  docket_entries           : 0/50 cases have data
+  recap_documents          : 0/50 cases have data
+  opinion_clusters         : 22/50 cases have data
+  parties                  : 0/50 cases have data
+  attorneys                : 0/50 cases have data
+  oral_arguments           : 41/50 cases have data
+
+## PER-CASE DATA SUMMARY
+
+  # Case Name                                           Entries  RECAP  PDFs  Opinions  Parties  Attys  OralArg
+------------------------------------------------------------------------------------------------------------------------
+  1 Ethan Pines v. Theranos Labs, LLC                         0      0     0         0        0      0        4
+  2 Simmons v. Ripple Labs Inc.                               0      0     0         0        0      0        4
+  3 In re: Elon Musk                                          0      0     0         3        0      0       11
+  4 In re Goldman Sachs Group, Inc                            0      0     0         1        0      0        2
+  5 Ellis v. Madoff                                           0      0     0         0        0      0       20
+  6 Stanford v. Vida                                          0      0     0         1        0      0       20
+  7 Lim v. Citigroup Inc.                                     0      0     0         0        0      0       20
+  8 Bitcoin Manipulation Abatement LLC v. FTX Trading         0      0     0         0        0      0        3
+  9 Lee v. Binance                                            0      0     0         1        0      0        4
+ 10 Coinbase Inc v. SEC                                       0      0     0         1        0      0       20
+ 11 In re Tesla Inc. Securities Litigation                    0      0     0         6        0      0       14
+ 12 In re ICON plc Securities Litigation                      0      0     0         0        0      0       20
+ 13 In re Luckin Coffee Inc. Securities Litigation            0      0     0         4        0      0        0
+ 14 IN RE NIKOLA CORPORATION DERIVATIVE LITIGATION            0      0     0         0        0      0        1
+ 15 In re IronNet, Inc. Securities Litigation                 0      0     0         2        0      0        1
+ 16 IN RE AT&T SECURITIES LITIGATION                          0      0     0         1        0      0       20
+ 17 In re Facebook, Inc. Securities Litigation"               0      0     0         3        0      0       20
+ 18 IN RE: ALIBABA GROUP HOLDING LTD. SECURITIES LITIG        0      0     0         2        0      0        1
+ 19 In re Uber Technologies, Inc. Shareholder Derivati        0      0     0         0        0      0       10
+ 20 In re: The Boeing Company Securities Litigation           0      0     0         0        0      0       20
+ 21 United States v. Elizabeth Holmes                         0      0     0         1        0      0       20
+ 22 George v. Bankman-Fried                                   0      0     0         0        0      0        1
+ 23 PleasrDAO v. Shkreli                                      0      0     0         0        0      0        1
+ 24 United States v. Raj Rajaratnam                           0      0     0         0        0      0        2
+ 25 United States v. Skilling                                 0      0     0         0        0      0       20
+ 26 United States v. Ebbers                                   0      0     0         0        0      0        2
+ 27 United States v. Kozlowski                                0      0     0         0        0      0       16
+ 28 Payless Holdings, LLC v. Martha Stewart Living Omn        0      0     0         0        0      0       20
+ 29 J.D. SAC Consulting LLC                                   0      0     0         0        0      0        0
+ 30 United States v. Aleynikov                                0      0     0         0        0      0        0
+ 31 Levinson v. Citibank N.A.                                 0      0     0         0        0      0       20
+ 32 Broudo v. Dura Pharmaceuticals                            0      0     0         0        0      0        0
+ 33 Erica P John Fund Inc v. Halliburton Company              0      0     0         0        0      0        2
+ 34 MAKOR ISSUES & RIGHTS, LTD v. TELLABS, INCORPORATE        0      0     0         0        0      0        0
+ 35 Plunkett v. U.S. Bank National Association                0      0     0         1        0      0       16
+ 36 SIS, LLC v. Stoneridge Holdings, Inc                      0      0     0         2        0      0        0
+ 37 First Amendment Coalition v. Chiu                         0      0     0         0        0      0        3
+ 38 Faber v. Chicago Vicinity Laborers District Counci        0      0     0         0        0      0        2
+ 39 Francis Lorenzo v. SEC                                    0      0     0         0        0      0       20
+ 40 Liu v. Li                                                 0      0     0         1        0      0       20
+ 41 Mark DalPoggetto v. Wirecard AG                           0      0     0         0        0      0        0
+ 42 IN RE WELLS FARGO & COMPANY SECURITIES LITIGATION         0      0     0         0        0      0       20
+ 43 In re Portland General Electric Company Securities        0      0     0         1        0      0       20
+ 44 In Re Peloton Interactive, Inc. Securities Litigat        0      0     0         2        0      0        4
+ 45 In re Lordstown Motors Corp. Shareholder Derivativ        0      0     0         2        0      0        0
+ 46 In Re: Kraft Heinz Shareholder Derivative Litigati        0      0     0         3        0      0        0
+ 47 In re VIATRIS INC. 2025 SECURITIES LITIGATION             0      0     0         0        0      0        6
+ 48 In re Under Armour Securities Litigation                  0      0     0         7        0      0       17
+ 49 In Re: Mylan N.V. Securities Litigation                   0      0     0         1        0      0       11
+ 50 IN RE BED BATH & BEYOND INC. SECTION 16(b) LITIGAT        0      0     0         2        0      0        1
+
+## FIELDS AVAILABLE IN EACH ENDPOINT
+
+  [docket] (30 fields):
+    - absolute_url
+    - assigned_to
+    - assigned_to_str
+    - blocked
+    - case_name
+    - cause
+    - court
+    - court_id
+    - date_created
+    - date_filed
+    - date_last_filing
+    - date_modified
+    - date_terminated
+    - docket_number
+    - docket_number_core
+    - docket_number_raw
+    - docket_number_source
+    - federal_dn_case_type
+    - federal_dn_judge_initials_assigned
+    - federal_dn_office_code
+    - ia_date_first_change
+    - ia_needs_upload
+    - id
+    - jurisdiction_type
+    - jury_demand
+    - nature_of_suit
+    - pacer_case_id
+    - resource_uri
+    - slug
+    - source
+
+  [opinion_clusters] (46 fields):
+    - absolute_url
+    - arguments
+    - attorneys
+    - blocked
+    - case_name
+    - case_name_full
+    - case_name_short
+    - citation_count
+    - citations
+    - cluster_redirections
+    - correction
+    - cross_reference
+    - date_blocked
+    - date_created
+    - date_filed
+    - date_filed_is_approximate
+    - date_modified
+    - disposition
+    - docket
+    - docket_id
+    - filepath_json_harvard
+    - filepath_pdf_harvard
+    - filepath_pdf_scan
+    - filepath_xml_scan
+    - headmatter
+    - headnotes
+    - history
+    - id
+    - judges
+    - nature_of_suit
+    - non_participating_judges
+    - other_dates
+    - panel
+    - posture
+    - precedential_status
+    - procedural_history
+    - resource_uri
+    - scdb_decision_direction
+    - scdb_id
+    - scdb_votes_majority
+    - scdb_votes_minority
+    - slug
+    - source
+    - sub_opinions
+    - summary
+    - syllabus
+
+  [oral_arguments] (23 fields):
+    - absolute_url
+    - caseName
+    - case_name_full
+    - court
+    - court_citation_string
+    - court_id
+    - dateArgued
+    - dateReargued
+    - dateReargumentDenied
+    - docketNumber
+    - docket_id
+    - download_url
+    - duration
+    - file_size_mp3
+    - id
+    - judge
+    - local_path
+    - meta
+    - pacer_case_id
+    - panel_ids
+    - sha1
+    - snippet
+    - source
+
+
+## DOCKET METADATA FIELD FILL RATES
+
+  absolute_url                            : 50/50 (100%)
+  appeal_from                             : 6/50 (12%)
+  appeal_from_str                         : 9/50 (18%)
+  appellate_case_type_information         : 9/50 (18%)
+  appellate_fee_status                    : 9/50 (18%)
+  assigned_to                             : 27/50 (54%)
+  assigned_to_str                         : 37/50 (74%)
+  audio_files                             : 6/50 (12%)
+  bankruptcy_information                  : 1/50 (2%)
+  blocked                                 : 50/50 (100%)
+  case_name                               : 50/50 (100%)
+  case_name_full                          : 2/50 (4%)
+  case_name_short                         : 17/50 (34%)
+  cause                                   : 32/50 (64%)
+  clusters                                : 22/50 (44%)
+  court                                   : 50/50 (100%)
+  court_id                                : 50/50 (100%)
+  date_argued                             : 6/50 (12%)
+  date_blocked                            : 2/50 (4%)
+  date_cert_denied                        : 0/50 (0%)
+  date_cert_granted                       : 0/50 (0%)
+  date_created                            : 50/50 (100%)
+  date_filed                              : 50/50 (100%)
+  date_last_filing                        : 47/50 (94%)
+  date_last_index                         : 37/50 (74%)
+  date_modified                           : 50/50 (100%)
+  date_reargued                           : 0/50 (0%)
+  date_reargument_denied                  : 0/50 (0%)
+  date_terminated                         : 34/50 (68%)
+  docket_number                           : 50/50 (100%)
+  docket_number_core                      : 50/50 (100%)
+  docket_number_raw                       : 50/50 (100%)
+  docket_number_source                    : 50/50 (100%)
+  federal_defendant_number                : 0/50 (0%)
+  federal_dn_case_type                    : 30/50 (60%)
+  federal_dn_judge_initials_assigned      : 29/50 (58%)
+  federal_dn_judge_initials_referred      : 9/50 (18%)
+  federal_dn_office_code                  : 30/50 (60%)
+  filepath_ia                             : 2/50 (4%)
+  filepath_ia_json                        : 8/50 (16%)
+  ia_date_first_change                    : 50/50 (100%)
+  ia_needs_upload                         : 50/50 (100%)
+  ia_upload_failure_count                 : 0/50 (0%)
+  id                                      : 50/50 (100%)
+  idb_data                                : 10/50 (20%)
+  jurisdiction_type                       : 30/50 (60%)
+  jury_demand                             : 29/50 (58%)
+  mdl_status                              : 0/50 (0%)
+  nature_of_suit                          : 35/50 (70%)
+  original_court_info                     : 9/50 (18%)
+  pacer_case_id                           : 47/50 (94%)
+  panel                                   : 0/50 (0%)
+  panel_str                               : 0/50 (0%)
+  parent_docket                           : 0/50 (0%)
+  referred_to                             : 11/50 (22%)
+  referred_to_str                         : 14/50 (28%)
+  resource_uri                            : 50/50 (100%)
+  slug                                    : 50/50 (100%)
+  source                                  : 50/50 (100%)
+  tags                                    : 5/50 (10%)

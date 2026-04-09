@@ -1,0 +1,89 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Bausch Health Companies Inc.",
+  "cik": 885590,
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "tickers": [
+    "BHC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "stateOfIncorporation": "NJ",
+  "why_selected": "藥品定價詐欺",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "8-K",
+      "date": "2026-03-02",
+      "accession": "0001193125-26-085755",
+      "filename": "8-K_2026-03-02_d938319d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-K",
+      "date": "2026-02-19",
+      "accession": "0000885590-26-000023",
+      "filename": "10-K_2026-02-19_bhc-20251231.htm",
+      "description": "10-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-02-18",
+      "accession": "0000885590-26-000020",
+      "filename": "8-K_2026-02-18_bhc-20260218.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-23",
+      "accession": "0000885590-26-000008",
+      "filename": "8-K_2026-01-23_bhc-20260123.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-13",
+      "accession": "0000885590-26-000005",
+      "filename": "8-K_2026-01-13_bhc-20260113.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-02",
+      "accession": "0000950103-26-000052",
+      "filename": "8-K_2026-01-02_dp239511_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-29",
+      "accession": "0000885590-25-000059",
+      "filename": "8-K_2025-12-29_bhc-20251226.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-23",
+      "accession": "0000885590-25-000057",
+      "filename": "8-K_2025-12-23_bhc-20251223.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-12",
+      "accession": "0000950103-25-016089",
+      "filename": "8-K_2025-12-12_dp238710_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-12-09",
+      "accession": "0000885590-25-000054",
+      "filename": "8-K_2025-12-09_bhc-20251208.htm",
+      "description": "8-K"
+    }
+  ],
+  "total_filings_available": 1000
+}

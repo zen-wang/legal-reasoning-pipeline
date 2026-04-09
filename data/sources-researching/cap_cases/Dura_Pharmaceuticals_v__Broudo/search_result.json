@@ -1,0 +1,82 @@
+{
+  "absolute_url": "/opinion/142888/dura-pharmaceuticals-inc-v-broudo/",
+  "attorney": "William F. Sullivan argued the cause for petitioners. With him on the briefs were Christopher H. McGrath and Tracey L. DeLange., Deputy Solicitor General Hungar argued the cause for the United States as amicus curiae urging reversal. With him on the brief were Acting Solicitor General Clement, Dan Himmelfarb, Jacob H. Stillman, Eric Summergrad, and Allan A. Capute., Patrick J. Coughlin argued the cause for respondents. With him on the brief were Sanford Svetcov, Eric Alan Isaacson, Joseph D. Daley, Alan Schulman, Myron Mosko-vitz, Daniel S. Sommers, and Paul R. Hoeber.*",
+  "caseName": "Dura Pharmaceuticals, Inc. v. Broudo",
+  "caseNameFull": "DURA PHARMACEUTICALS, INC., Et Al. v. BROUDO Et Al.",
+  "citation": [
+    "161 L. Ed. 2d 577",
+    "125 S. Ct. 1627",
+    "544 U.S. 336",
+    "2005 U.S. LEXIS 3478",
+    "73 U.S.L.W. 4283",
+    "18 Fla. L. Weekly Fed. S 233"
+  ],
+  "citeCount": 2216,
+  "cluster_id": 142888,
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "court_id": "scotus",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2005-04-19",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "03-932",
+  "docket_id": 214725,
+  "judge": "Breyer, Breyek",
+  "lexisCite": "2005 U.S. LEXIS 3478",
+  "meta": {
+    "timestamp": "2024-06-20T18:39:59.243973Z",
+    "date_created": "2016-01-15T21:26:37.594485Z",
+    "score": {
+      "bm25": 92.92062
+    }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+    {
+      "author_id": 384,
+      "cites": [
+        92191,
+        105573,
+        109267,
+        109420,
+        111753,
+        112022,
+        118143,
+        118482,
+        534261,
+        742677,
+        769968,
+        783121,
+        783517
+      ],
+      "download_url": null,
+      "id": 142888,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-24T08:19:20.998558Z",
+        "date_created": "2010-04-28T17:35:37Z"
+      },
+      "ordering_key": null,
+      "per_curiam": false,
+      "sha1": "0c84fd974766a6b6e22f765e0a89e28f38b1c0d9",
+      "snippet": "\n544 U.S. 336 (2005)\nDURA PHARMACEUTICALS, INC., ET AL.\nv.\nBROUDO ET AL.\nNo. 03-932.\nSupreme Court of United States.\nArgued January 12, 2005.\nDecided April 19, 2005.\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n*337 BREYER, J., delivered the opinion for a unanimous Court.\nWilli",
+      "type": "combined-opinion"
+    }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "2004-040",
+  "sibling_ids": [
+    142888
+  ],
+  "source": "LRU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+}

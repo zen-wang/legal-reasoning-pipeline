@@ -1,0 +1,17 @@
+{
+  "source": "CourtListener/RECAP",
+  "search_query": "SEC v. Goldman Sachs Abacus",
+  "docket_id": 65365844,
+  "case_name": "In re Goldman Sachs Group, Inc",
+  "court": "ca2",
+  "date_filed": "2022-03-09",
+  "date_terminated": "2023-08-10",
+  "num_entries": 0,
+  "num_pdfs_downloaded": 0,
+  "num_opinion_clusters": 1,
+  "num_opinion_texts": 1,
+  "num_parties": 0,
+  "nature_of_suit": "3850 STATUTES-Secur Comm Exchange",
+  "pacer_case_id": "56846",
+  "ia_link": ""
+}

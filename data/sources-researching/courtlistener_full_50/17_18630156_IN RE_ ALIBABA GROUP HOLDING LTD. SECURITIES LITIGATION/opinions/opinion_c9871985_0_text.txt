@@ -1,0 +1,236 @@
+UNITED STATES DISTRICT COURT                    Up 
+SOUTHERN DISTRICT OF NEW YORK                   ees 
+    nee ee eee ee   ee  -     ----------  X            eo     ae 
+LAURA CICCARELLO, individually and on behalf       :            ae 
+of others similarly situated,                      :              a  FEB ] 0  2022 
+                       Plaintiff,                 : 
+        -against-                                 :    MEMORANDUM DECISION AND 
+                                                  :                ORDER 
+ALIBABA GROUP HOLDING LIMITED, DANIEL: 
+ZHANG, MAGGIE WU,                                  :           20 Civ. 9568 (GBD) 
+                       Defendants.                : 
+
+  = =  we  ww  ww   ee  mw we         XY 
+GEORGE B. DANIELS, District Judge: 
+     Before this Court is a consolidated securities fraud class action suit against Alibaba Group 
+Holding  Limited  (“Alibaba”),  Daniel  Zhang,  and  Maggie  Wu  (collectively,  “Defendants”).! 
+Plaintiffs in all cases purchased shares of Alibaba and allege that Defendants made materially false 
+and/or  misleading  statements,  as  well  as  failed  to  disclose  material  adverse  facts  about  the 
+Company’s  business,  operations,  and  prospects.  Putative  class  members  Salem  Gharsalli 
+(“Gharsalli”),  Dineshchandra  Makadia  and  Yan  Tongbiao  (“Makadia/Tongbiao  Group”),  and 
+1199 SEIU Health Care Employees Pension Fund (the “Pension Fund”) each filed motions for 
+
+' See April 20, 2021 Order Granting Unopposed Motions to Consolidate, ECF No. 43: The consolidated 
+actions are Ciccarello v. Alibaba Grp. Holding Ltd. et al., No. 20 Civ. 9568 (GBD) (S.D.N.Y. November 
+13, 2020), Romnek v. Alibaba Grp. Holding Ltd. et al., No. 20 Civ. 10267 (GBD) (S.D.N.Y. December 4, 
+2020), and Hess v. Alibaba Grp. Holding Ltd. et al., No. 21 Civ. 136 (GBD) (S.D.N.Y January 7, 2021). 
+Hereinafter, the actions shall be referred to collectively as In re: Alibaba Group Holding Ltd. Securities 
+Litigation, No. 20 Civ. 9568 (GBD) (the “Consolidated Alibaba Class Action”).  The Clerk of the Court 
+shall file a copy of this Order in the separate file for each of the above-referenced Alibaba class action 
+cases. Unless otherwise ordered by this Court, future filings in any Alibaba class action herein consolidated 
+shall be filed and docketed only under docket number 20 Civ. 9568 (GBD).  All counsel who have entered 
+appearances  in the  above-referenced  Alibaba class action  cases  shall  be deemed to  have  entered  an 
+appearance in the Consolidated Alibaba Class Action under docket number 20 Civ. 9568 (GBD).  Counsel 
+is directed to alert the Clerk of Court to the filing or transfer of any case that might properly be consolidated 
+as part of this litigation.
+
+appointment as lead plaintiff and to appoint their attorneys as lead counsel.”  For the reasons 
+articulated below, this Court appoints Gharsalli as lead plaintiff and approves his selection of 
+Glancy Prongay & Murray LLP as lead counsel. 
+
+                            I    RELEVANT FACTS 
+     Alibaba is the largest e-retailer in the world and operates, among other online marketplaces, 
+Tmall, an online and mobile commerce platform. Alibaba also owns a 33% equity interest in Ant 
+Small  and  Micro  Financial  Services  Group  Co.,  Ltd.  (“Ant  Group”),  a  financial  technology 
+company best known for operating Alipay, a mobile and online payment platform.  (Elissa Hess, 
+as Trustee for the EH Living Trust y. Alibaba Group Holding Ltd., Case No.  1:21-cv-136, Dkt. 
+No. 1 (“Hess Compl.”), at § 2.)  Five relevant publications were released regarding the companies 
+between July 2020 and December 2020: (1) a July 20, 2020 announcement that Ant Group was 
+preparing  for  its  initial public  offering;  (2)  a November 2,  2020  Financial  Times report that 
+Chinese regulators  had  conducted  “regulatory  interviews”  with Ant  Group executives?;  (3)  a 
+November 3, 2020 announcement that Ant Group suspended its IPO because it “may not meet 
+listing qualifications or disclosure requirements due to material! matters”; (4) draft rules published 
+on November 10, 2020 by China’s anti-monopoly regulator, the State Administration for Market 
+Regulation, aimed at curtailing Alibaba’s coercive cooperation pacts; and (5) the announcement 
+by Chinese authorities on December 23, 2020 of an antitrust investigation into Alibaba.  The 
+
+ Putative class member Thomas J. Popovitch also filed a motion for appointment as lead plaintiff, (ECF 
+No. 9), but subsequently filed a notice of Non-Opposition to the Competing Motions for Lead Plaintiffs, 
+(ECF No. 25). 
+3 The article stated that the executives received a “dressing down by authorities” and included a statement 
+from Ant Group that it will “implement the meeting opinions in depth”.
+
+authorities were acting on reports that Alibaba had improperly pressured merchants to exclusively 
+sell goods on Tmall.  (Hess Compl. at 4 3-8.) 
+
+     After the November 3, November 20, and December 2020 disclosures, the Alibaba share 
+price dropped roughly 8%, 8%, and 13%, respectively. 
+
+   Il.    GHARSALLI’S MOTION FOR APPOINTMENT AS LEAD PLAINTIFF  IS 
+                                    GRANTED. 
+        A.  Gharsalli  is  Entitled  to  a  Rebuttable  Presumption  of  Appropriate  Lead 
+           Plaintiff 
+     Under the  Private  Securities  Litigation Reform  Act  (“PSLRA”),  there  is  a rebuttable 
+presumption that the appropriate lead plaintiff is the person that (1) “has either filed the complaint 
+or made a motion in response to a notice under subparagraph (A)(1i),” (2) “has the largest financial 
+interest in the relief sought by the class,” and (3) “otherwise satisfies the requirements of Rule 23 
+of the Federal Rules of Civil Procedure.  15 U.S.C. § □□□□□□□□□□□□□□□□□□□□□ 
+
+     Gharsalli provides enough evidence to support a rebuttable presumption that he is the most 
+appropriate lead plaintiff.* First, Gharasalli timely filed his motion to be appointed as lead plaintiff 
+on  January  12,  2021  —  well  within  the  sixty-day  period  to  make  a  motion  under  §  78u- 
+4(a)(3)(A)(i).  Second,  out of all the putative class members who have filed motions for lead 
+plaintiff, Gharsalli appears to have the largest financial interest.  To determine the plaintiff with 
+the largest financial interest, the following factors are considered: 
+
+            (1) the total number of shares purchased during the class period; (2) the net 
+      shares purchased during the class period (in other words, the difference between 
+      the number of shares purchased and the number of shares sold during the class 
+4 Mem. of Law in Supp. of Mot. to Consol. the Related Actions, Appoint Salem Gharsalli as Lead Pl. and 
+Approve the Selection of Lead Counsel (“Gharsalli Mem.”), ECF No. 7, Mem. of Law in Opp. to Comp. 
+Mot. For Appoint. Lead Pl. and Approval of Lead Counsel (“Gharsalli Opp.”), ECF No. 28, Reply Mem. 
+of Law in Supp. of Mot. For Appoint. Lead Pl. and Approval of Lead Counsel (“Gharsalli Reply”), ECF 
+No. 30, Decl. of Gregory B. Linkh (“Linkh Declaration”), ECF No. 8.
+
+     period); (3) the net funds expended during the class period (in other words, the 
+     difference between the amount spent to purchase shares and the amount received 
+     for the  sale of shares  during the class  period);  and  (4)  the  approximate  losses 
+     suffered. 
+      Varghese v. China Shenghuo Pharm. Holdings, Inc., 589 F. Supp. 2d 388, 395 (S.D.N.Y. 
+2008).  Financial loss, the last factor, is the most important element of the test.  Jd.  Gharasalli 
+claims to have purchased 90,000 gross shares (90,000 net shares), expended $23,700,269.13, and 
+had a net total loss of $2,934,323.81.°  (Gharsalli Opp. at 4; Linkh Declaration at Ex. C.)  Those 
+figures are larger than any other putative class member.  Third, Gharasalli makes the preliminary 
+showing that he satisfies the typicality and adequacy requirements of Rule 23.  Clifford v.  TRON 
+Found., No.  20-CV-2804  (VSB),  2020  WL  3577923,  at  *2  (S.D.N.Y.  June  30,  2020)  (“This 
+determination ‘need not be as complete as would a similar determination for the purpose of class 
+certification,’ and the movant is only required to make a prima facie showing that it meets the 
+typicality and adequacy requirements.)  Gharsalli, like all members of the putative class, alleges 
+that  he  purchased  Alibaba  securities  in  reliance  on  Defendants  alleged  misstatements  and 
+omissions.  (Gharsalli Mem. at 8-9.)  Additionally, Gharsalli has retained qualified, experienced 
+counsel, he is not aware of any conflict between his claims and those asserted on behalf of the 
+putative class, and he submits that he has sufficient incentive to provide vigorous advocacy in this 
+litigation.   (Jd. at 9.)  Thus, Gharsalli has sufficiently established a rebuttable presumption that 
+he is the appropriate lead plaintiff. 
+
+> Makadia/Tongbiao Group has the second largest financial loss of $2,237,802.
+
+        B.  The Presumption Has Not Been Rebutted 
+
+     Competing putative class members have failed to rebut the presumption that Gharsalli is 
+the  appropriate lead plaintiff.  The PSLRA allows  other putative class  members to  rebut the 
+presumption of the appropriate lead plaintiff by presenting proof that “the presumptively most 
+adequate plaintiff (1) will not fairly and adequately protect the interests of the class, or (2) is subject 
+to unique defenses that render such plaintiff incapable of adequately representing the class.”  15 
+U.S.C. § 78u-4(a)(3)(B)Gii)D. 
+
+     The Pension Fund, relying primarily on Erickson v. Snap, Inc., 2017 WL 11592635 (N.D. 
+Cal. Sept.  18, 2017), GAMCO Invs., Inc.  v.  Vivendi, S.A., 917 F. Supp. 2d 246 (S.D.N.Y. 2013) 
+and this Court’s decision in Lundy vy.  Ideanomics,  Inc., 2020 WL 7389027 (S.D.N.Y. Dec.  16, 
+2020), argues that the timing of Gharsalli’s Alibaba stock purchases will subject him to a unique 
+defense if Gharsalli is appointed lead plaintiff.  (Pension Fund’s Opp. to Competing Lead Pl. 
+Mots.,  ECF  No.  27,  at  2-6.).  It  asserts  that the  November  2,  2020  and  November  3,  2020 
+publications  were  corrective  disclosures  and  the  fact  that  Gharsalli  purchased  “100%  of his 
+Alibaba [shares]” after those publications undermines his ability to rely on the fraud-on-the-market 
+presumption of reliance.  /d.  at 4.  The publications  in both Lundy and Erickson  specifically 
+disclosed or at least partially disclosed the alleged fraud to the market.®  See Lundy, 2020 WL 
+7389027 at n. 5 (publications alleged “various misrepresentations by [defendants]”’) and Erickson, 
+2017  WL  11592635  at  *3  (Half of plaintiffs  shares  were  purchased  after  “news  surfaced 
+
+ The Court in GAMCO Invs. Inc.  had already certified the class and conducted a jury trial—a wholly 
+separate stage of litigation than this present action.  917 F. Supp. 2d at 260.  Indeed, the Court in GAMCO 
+Inys. even stated that plaintiff's citations to cases on class certification were “inapposite at this stage in the 
+litigation. ...”  Id.
+
+questioning the strength of the [defendant’s] growth” and more than 60% were purchased after an 
+allegation of fraud). 
+
+     Here,  the November 2 and 3  publications did not reveal  any  alleged misstatements or 
+omissions—they disclosed that Ant Group met with Chinese regulators and that Ant Group “may 
+not meet listing qualifications or disclosure requirements due to material matters...  .”  (Hess 
+Compl. at □□ 5-6.)  The fact that Ant Group met with regulators does not necessarily amount to a 
+corrective disclosure, even if the meeting was allegedly described as a “dressing down”.  Similarly 
+inconclusive is that Ant Group may not meet listing qualifications or disclosure requirements— 
+this was simply a possibility not a previously undisclosed fact.  Jn re Omnicom Grp.,  Inc.  Sec. 
+Litig., 597 F.3d 501, 511 (2d Cir. 2010) (“[N]one of these matters even purported to reveal some 
+then-undisclosed fact with regard to the specific misrepresentations alleged in the complaint”); 
+Goldstein v. Puda Coal, Inc., 827 F. Supp. 2d 348, 355 (S.D.N.Y. 2011) (“Since the article could 
+not actually concede the existence of the fraudulent schemes at issue in this litigation,  such a 
+disclosure  cannot  have  provided  any  curative  disclosure.”)  (citation  omitted);  compare  In  re 
+Tronox, Inc. Sec. Litig., 262 F.R.D. 338, 346 (S.D.N.Y. 2009) (Partial corrective disclosure did 
+not mention fraud or government investigations or “sufficiently correct” defendant’s “prior false 
+and misleading statements” or make class members “actually aware of the fraud.”) with Jn re 
+Hebron Tech. Co., Ltd. Sec. Litig., No. 20 CIV. 4420 (PAE), 2020 WL 5548856, at n.7 (S.D.N.Y. 
+Sept.  16,  2020)  (Public presentation expressly  concluded that  [defendant corporation]  was an 
+“insider enrichment scheme without economic basis” and this was the only cited disclosure that 
+provided information to the market.) 
+
+      Further, the Pension Fund does not articulate how knowledge that Ant Group met with 
+regulators  sufficiently  corrects  prior  statements  made  by  Defendants  (in  their Form  6-Ks  or
+
+elsewhere). See Lentell v. Merrill Lynch & Co., 396 F.3d 161, 175 n. 4 (2d Cir. 2005) (Defendant’s 
+buy/sell recommendation did not amount to a corrective disclosure because it did not “reveal to 
+the market the falsity of the prior recommendations.”)’  Thus, the timing of Gharsalli’s purchases 
+will not necessarily subject him to unique defenses because the publications issued before his 
+purchases did not reveal the alleged fraud.  The Pension Funds have failed to rebut the presumption 
+that Gharsalli is the appropriate lead plaintiff.® 
+
+     Finally, Gharsalli submits that he “is willing to add an additional plaintiff in the amended 
+complaint to assuage any concerns... .”  (Gharsalli Reply at 10.)  According to Gharsalli, his 
+counsel at Glancy Prongay & Murray LLP already represents “the investor, Laura Ciccarello, that 
+filed the initial complaint in this action, and she is willing to serve as additional plaintiff going 
+forward.’”?  (/d.)  Laura Ciccarello may be added as a named plaintiff in the amended complaint. 
+See Hevesi v. Citigroup Inc., 366 F.3d 70, 83 (2d Cir, 2004) (“[T]he PSLRA does not in any way 
+prohibit the addition of named plaintiffs to aid the lead plaintiff in representing a class.”); Christian 
+v.  BT Grp. PLC, 2017 WL 3705804, at *8 (D.N.J. Aug. 28, 2017) (“I take some comfort in the 
+Pension Fund’s offer to ‘include an additional class representative who held shares of BT group 
+
+7 Some courts in this Circuit have found that the announcement of a governmental investigation into the 
+precise subject matter which forms the basis of the fraudulent practices at issue can qualify as a partial 
+corrective disclosure.  See Kux-Kardos v.  VimpelCom, Ltd.,  \51 F. Supp. 3d 471, 477 (S.D.N.Y. 2016) 
+(citing In re Gentiva Sec. Litig., 932 F. Supp. 2d 352, 388 (E.D.N.Y. 2013)); Jn re Take-Two Interactive 
+Sec. Litig., 551  F. Supp. 2d 247, 288 (S.D.N.Y. 2008).  However, the announcement of a meeting with 
+regulators is not the same as the announcement of a governmental investigation. 
+§ Makadia/Tongbiao Group asserts that it should be appointed Lead Plaintiff if the Court declines to appoint 
+Gharsalli.  (Mem. of Law in Further Supp. Of Mo. of Dineshchandra Makadia and Yan Tongbiao for 
+Consol. and Appoint. As Co-Lead Pls. and Approval of Lead Counsel, ECF No. 26, at 3-7.)  Since this 
+Court is appointing Gharsalli, it need not address Makadia/Tongbiao Group’s motion. 
+° Laura Ciccarello purchased 70 shares of Alibaba stock on October 30, 2020.  (Ciccarello Compl. at 22.)
+
+through the final disclosure’ in an amended complaint.”) (citing In re WorldCom, Inc. Sec. Litig., 
+219 F.R.D. 267, 286 (S.D.N.Y. 2003)). 
+
+        C.  Glancy Prongay & Murray LLP is Appointed as Lead Counsel 
+
+     Under the PLSRA, “the most adequate plaintiff shall, subject to approval of the court, select 
+and retain counsel to  represent the  class.”  15  U.S.C.  §  78u-4(a)(3)(B)(v).  “There  is  a strong 
+presumption in favor of approving a properly selected lead plaintiff's decision as to counsel.” 
+Gharsalli selected Glancy Prongay & Murray LLP, whose “resume indicates that it has extensive 
+experience in the field of securities litigation, and that it has successfully prosecuted numerous 
+securities fraud class actions.”  Topping v. Deloitte Touche Tohmatsu CPA, 95 F.Supp.3d 607, 624 
+(S.D.N.Y. 2015); (see also Linkh Declaration, Ex. E.) The Court is persuaded that Glancy Prongay 
+& Murray LLP can capably represent the class here, given the firm's experience in litigating class 
+action lawsuits.  Plymouth County Retirement Association v. Innovative Technology, Inc.  et al., 
+No. 21 CIV. 4390 (VM), 2021 WL 4298191, at *6(S.D.N.Y. Sept. 21, 2021).  Gharsalli’s selection 
+of lead counsel is approved. 
+                            Il.    CONCLUSION’? 
+  Makadia/Tongbiao Group and Pension Fund’s motions for appointment as lead plaintiff and 
+lead counsel, (ECF Nos.  13 and 16), are DENIED.  Gharsalli’s motion for appointment as lead 
+
+'° The Court has considered the assertions (about the abandoned prosecution of Gharsalli for battery and 
+the motion for sanctions filed against him in a civil action where he ultimately prevailed) made by Pension 
+Funds in their letters submitted to this Court after briefing on the motions concluded (and Gharsalli’s letter 
+in response).  See (1) Letter, dated May 5, 2021, ECF No. 45; (2) Letter, dated May 6, 2021, and (3) Letter, 
+dated May 10, 2021, ECF No. 47.  The Court finds the assertions unavailing as they do not make Gharsalli 
+“vulnerable to unique defenses and sharp attacks relevant to the issues in the litigation.” Stinson v. City of 
+New York, 282 F.R.D. 360, 373 (S.D.N.Y. 2012) (citing German v. Federal Home Mortg. Corp., 168 F.R.D. 
+145, 155 (S.D.N.Y.1996)).
+
+plaintiff and  approval  of Glancy  Prongay  &  Murray  LLP  as  lead  counsel,  (ECF  No.  6),  is 
+GRANTED. 
+
+                                           SO ORDERED. 
+Dated: New York, New York                                 QO,          
+     February 10, 2022                            hig,  6      Qi  es 
+                                               RGE    B. DANIELS 
+                                              tedStates District Judge

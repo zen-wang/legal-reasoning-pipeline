@@ -1,0 +1,197 @@
+             IN THE UNITED STATES DISTRICT COURT                         
+                FOR THE DISTRICT OF DELAWARE                             
+
+
+In re LORDSTOWN MOTORS CORP.                                             
+SHAREHOLDER DERIVATIVE                                                   
+LITIGATION                                                               
+                                   Lead Case No. 1:21-cv-00604-SB        
+                                 (Consolidated with Case Nos. 1:21-cv-   
+                                00724-SB, 1:21-cv-00910-SB, and 1:21-    
+                                          cv-01010-SB)                   
+
+
+Blake A. Bennett, Michael I. Fistel, Jr., COOCH AND TAYLOR, Wilmington,  
+Delaware; Peter B. Andrews, Craig J. Springer, David M. Sborz, ANDREWS & 
+SPRINGER LLC, Wilmington, Delaware; Benny C. Goodman, III, Erik W. Luedeke, 
+ROBBINS GELLER RUDMAN & DOWD LLP, San Diego, California; Ryan M. Ernst,  
+BIELLI & KLAUDER, LLC, Wilmington, Delaware.                             
+                                              Counsel for Plaintiffs.    
+
+Jonathan A. Choa, Michael A. Pittenger, POTTER ANDERSON & CORROON, LLP,  
+Wilmington, Delaware; Raymond J. DiCamillo, RICHARDS, LAYTON & FINGER, PA, 
+Wilmington, Delaware.                                                    
+
+                                             Counsel for Defendants.     
+
+
+                      MEMORANDUM OPINION                                 
+March 7, 2021                                                             
+
+BIBAS, Circuit Judge, sitting by designation.                             
+ A ruling in one case can change the course of another. To avoid needless toil, courts 
+can stay one until the other is resolved. But to tell needless from needed toil, judges 
+must weigh several factors. The balance here tips in favor of a limited stay. So I grant 
+one.                                                                      
+                         I. BACKGROUND                                   
+ Lordstown Motors plans to make electric pickup trucks. D.I. 25 ¶¶ 2–4. It boasted 
+that consumers would swarm to buy its trucks. Id. ¶¶ 6–7. Presumably as a result of 
+
+that, investors bought its stock. Id. ¶¶ 9–13.                            
+ But Lordstown may have exaggerated how quickly it could make the trucks and 
+how many people would want them. Id. ¶ 14. So a shareholder class sued the company 
+in Ohio, alleging securities fraud. Consol. Am. Compl., Rico v. Lordstown Motors 
+Corp., No. 21-616 (N.D. Oh. Sept. 10, 2021), D.I. 61. Meanwhile, other shareholders 
+sued Lordstown’s bosses in Delaware, alleging that they had contributed to the 
+
+company’s fraud, breached fiduciary duties, and unjustly enriched themselves. D.I. 
+25 ¶ 1.                                                                   
+ Lordstown moved to dismiss the Ohio case. Mot. to Dismiss, Rico, No. 21-616 (N.D. 
+Oh. Nov. 9, 2021), D.I. 70.  And it asks me to stay the Delaware case until the Ohio 
+Court decides that motion. D.I. 28. Because a short stay will limit prejudice while 
+streamlining this case, I will grant one. But before I do that, there is an unripe claim 
+that I must dismiss.                                                      
+
+            II. I DISMISS THE UNRIPE CONTRIBUTION CLAIM                  
+ Article III of the Constitution limits the cases and claims that federal courts can 
+hear. § 2. One such limit is the ripeness doctrine. Reno v. Catholic Soc. Servs., 509 
+U.S. 43, 57 n.18 (1993). Federal judges may not review claims that are unripe—ones 
+that “rest[] upon contingent future events that may not occur as anticipated, or 
+indeed may not occur at all.” Texas v. United States, 523 U.S. 296, 300 (1998) (internal 
+quotation marks omitted). But see D.I. 35 at 2 (citing, in part, state law on ripeness). 
+ Here, the shareholders’ contribution claim depends on “contingent future events.” 
+The  shareholders  claim  contribution  from  the  Lordstown  bosses,  but  only  “[i]f 
+
+[Lordstown] is found liable” for Exchange Act violations in the Ohio case. D.I. 25 
+¶ 208; 15 U.S.C. § 78u-4(f). Judgment has not been entered in that case yet. So the 
+shareholders’ claim depends on a cascade of uncertain future events: that the Ohio 
+action does not settle before judgment, barring contribution; that the court finds 
+Lordstown liable; and that the court also finds that the Lordstown bosses “knowingly 
+committed” a securities violation. Id. § 78u-4(f)(2)(A), 4(f)(7); see also Pall v. KPMG, 
+
+LLP, 2006 WL 2800064, at *3 (D. Conn. Sept. 29, 2006). Thus, this claim is not ripe. 
+And though neither party raised it, ripeness is “sufficiently important” that I must 
+raise it on my own. Peachlum v. City of York, 333 F.3d 429, 433 (3d Cir. 2003). So I 
+notified the parties and solicited supplemental letter briefs on ripeness.  
+ Plus, many courts have found the same when a claim seeks contribution for 
+another court’s forthcoming judgment. See, e.g., Pall,  2006 WL 2800064, at *3  
+(dismissing contribution claim as unripe until judgment in other action); DiBattista 
+
+v. Greco, 2021 WL 327399, at *7 (D. Del. Jan. 31, 2021), report and recommendation 
+adopted, 2021 WL 5061720 (D. Del. Feb. 17, 2021) (same); In re Cendant Corp. 
+Derivative Action Litig., 96 F. Supp. 2d 394, 397 (D.N.J. 2000) (dismissing similar 
+contribution claim when defendant still had “no current obligation to pay”); see also 
+Sea-Land Serv., Inc. v. United States, 874 F.2d 169, 171 (3d Cir. 1989) (same principle 
+for common-law contribution claims).                                      
+ Because this claim is unripe, I must dismiss it. True, “ripeness doctrine is drawn 
+both” from the constitutional limits “on judicial power and from prudential reasons 
+for refusing to exercise jurisdiction.” Reno, 509 U.S. at 57 n.18. Though prudential 
+
+limits can be overridden, constitutional ones cannot. See id. And this claim involves 
+the latter: its flaw is the absence of an “actual or threatened injury [that] … is likely 
+to be redressed by a favorable decision.” See Valley Forge Christian Coll. v. Ams. 
+United for Separation of Church & State, 454 U.S. 464, 472 (1982) (internal quotation 
+marks  omitted).  This  injury  is,  “at  an  irreducible  minimum,”  a  constitutional 
+requirement. Id.                                                          
+
+ But  because  the  claim  may  ripen  later,  I  dismiss  it  without  prejudice.  The 
+shareholders do not need to bring this claim here to “preserve [Lordstown’s] right to 
+contribution.” D.I. 35, at 2. If the Lordstown officers are found liable for fraud in Ohio, 
+they can move to add this claim back in. See, e.g., Tansey v. Rogers, 2016 WL 3519887, 
+at *1 (D. Del. June 27, 2016) (amending complaint with a contribution claim after 
+liability found in sister securities class action).                       
+       III. I STAY THIS CASE UNTIL THE OHIO MOTION IS RESOLVED           
+
+ On to the main event: the stay. I have discretion to grant stays. Janklow ex rel. 
+Stericycle, Inc. v. Alutto, 2018 WL 6499869, at *2 (D. Del. Dec. 11, 2018) (citing Cost 
+Bros., Inc. v. Travelers Indem. Co., 760 F.2d 58, 60 (3d Cir. 1985)). In deciding, I ask 
+if a stay would simplify the case, avoid undue prejudice to the shareholders, and 
+promote judicial economy. Id.                                             
+ A. A stay may simplify this case                                        
+ Even without the contribution claim, the Ohio class action and this case have 
+“substantially similar” allegations. In re Twitter, Inc. Shareholder Derivative Litig., 
+
+2018 WL 3536085, at *3 (D. Del. July 23, 2018), report and recommendation adopted, 
+2018 WL 4326986 (D. Del. Sept. 10, 2018). Both actions involve identical Exchange 
+Act  claims  against  two  Lordstown  executives.  D.I.  25  ¶¶ 196–205;  Rico,  D.I.  61 
+¶¶ 469–82 If the Ohio court dismisses those claims, the shareholders may drop them 
+here too. Plus, if the shareholders fall within the Ohio plaintiff class, they will likely 
+be collaterally estopped from asserting any dismissed claims here. See United States 
+
+v. Stauffer Chem. Co., 464 U.S. 165, 170–71 (1984) (“[C]ollateral estoppel can apply 
+to  preclude  relitigation  of  both  issues  of  law  and …  fact  if  those  issues  were 
+conclusively determined in a prior action.”). It is too soon to tell.     
+ So dismissing one case would streamline the other. While that does not say 
+whether this or that action should go first, the other two factors weigh in favor of the 
+latter.                                                                   
+ B. A limited stay will not unduly prejudice the shareholders            
+
+ Though  a  stay  will  delay  this  derivative  action,  denying  one  would  harm 
+Lordstown far more than granting one would harm the shareholders. See Alutto, 2018 
+WL 6499869, at *2. Denying a stay risks avoidable cost to Lordstown by making it 
+fight a similar battle on two fronts: here and Ohio.                      
+ True, this derivative action makes claims not at issue in Ohio—insider selling, 
+unjust enrichment, and breach of fiduciary duties. D.I. 25 ¶ 1. So staying this case 
+delays the shareholders’ pursuit of these claims. See D.I. 32 at 11–12.   
+ But it should not be delayed for long. Briefing for the Ohio motion to dismiss just 
+finished. See Reply, Rico, No. 21-616, D.I. 76; see also Alutto, 2018 WL 6499869, at *2 
+
+(finding similar stay not unduly prejudicial). And any prejudice from that delay is not 
+undue.  Even  without  their  contribution  claim,  the  shareholders  expressly 
+piggybacked their complaint on the first-filed class action. See, e.g., D.I. 25 at 1 & 
+¶ ¶ 51, 149, 151, 178, 186. So they knew the result in Ohio would be important here. 
+And mere delay is not unjust. See, e.g., Twitter, 2018 WL 3536085, at *3 (staying 
+despite non-identical claims); Alutto, 2018 WL 6499869 at *2 (same).      
+
+ Likewise, the shareholders’ fear that evidence will be “lost or misplaced” does not 
+show undue prejudice. D.I. 32 at 5; see also In re STEC, Inc. Derivative Litig., 2012 
+WL 8978155, at *8 (C.D. Cal. Jan. 11, 2012). Parties must preserve information for 
+litigation. Id. And since the two lawsuits implicate the same facts, a short stay in one 
+is unlikely to spoil evidence relevant to both.                           
+ Plus, this is a derivative action with any relief going to Lordstown, so all parties 
+benefit from avoiding needless expense to the company. See id. at *7. And expense 
+
+may be avoided here because the outcome in Ohio may “bear … on the prudence of 
+pursuing the derivative action.” Id.                                      
+ The shareholders think that I could reduce the cost of parallel proceedings, as 
+other courts have, by coordinating discovery with the Ohio class action. D.I. 32 at 8–
+9. But the cases showcasing this tactic are clearly distinguishable: they involve 
+conditions conducive to coordinated discovery that are not present here. See In re 
+Galena Biopharma, Inc. Derivative Litig., 83 F. Supp. 3d 1033, 1044 (D. Or. 2015) 
+(rejecting stay of one action where the second action was in the same court under the 
+same judge); In re Am. Apparel, Inc. S’holder Derivative Litig., 2012 WL 9506072, at 
+
+*47 (C.D. Cal. July 31, 2012) (coordinating discovery where the parties in one case 
+had agreed to a discovery stay).                                          
+ Last,  the  nature  of  these  allegations  does  not  change  this  calculus.  The 
+shareholders point to courts that denied stays when shareholders allege “severe 
+internal control[] deficiencies” out of fear of letting them go unchecked. D.I. 32  at 7 
+(collecting cases). But even though the allegations in this case are serious, those in 
+
+the cases the shareholders identify were even more so. See In re Universal Health 
+Servs. Inc., Derivative Litig., 2018 WL 8758704, at *1 n.1 (E.D. Pa. Dec. 10, 2018) 
+(institutionalizing patients against their will “to maximize insurance payouts”); see 
+In re CytRX Corp. Stockholder Derivative Litig., 2015 WL 12745085, at *1 (C.D. Cal. 
+June 24, 2015) (allegations of gross mismanagement as part of a pump-and-dump 
+scheme). Besides, those cases rejected stays pending final resolution of sister cases, 
+including appeals—stays far longer than the one I grant here. In re CytRx, at *3; 
+
+Universal Health, at *1 n.1; see also D.I. 33 at 3–4. Alone, those two cases do not 
+amount to a categorical ban on stays when shareholders bring serious allegations. 
+See, e.g., Brenner v. Albrecht, 2012 WL 252286, at *1 (Del. Ch. Jan. 27, 2012).  
+ C. A stay will promote judicial economy                                 
+ One final reason to stay this case: if the overlapping Exchange Act claims are 
+doomed to fail in Ohio, litigating them here is redundant. See Alutto, 2018 WL 
+6499869, at *2. And since this case “is in its infancy,” staying it now will not waste 
+spent resources. Id. Meanwhile, the Ohio case is fully briefed. See id. at *2 (staying 
+derivative action when sister class action was more advanced). So a stay will conserve 
+
+court resources.                                                          
+ If things change and the Ohio case is severely delayed, the parties can always ask 
+me for leave to file a motion to lift the stay. See, e.g., In re First Solar Derivative Litig., 
+2016 WL 687138, at *1 (D. Ariz. Feb. 19, 2016).                           
+                            * * * * *                                    
+
+ I thus stay this derivative action until the Ohio court decides the pending motion 
+to dismiss in the sister class action. And if it has not done so by September 3, 2022, I 
+ask the parties to update me that following week.                         

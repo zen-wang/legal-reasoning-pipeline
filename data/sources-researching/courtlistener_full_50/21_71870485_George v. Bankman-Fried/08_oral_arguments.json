@@ -1,0 +1,33 @@
+[
+  {
+    "absolute_url": "/audio/101157/united-states-of-america-v-bankman-fried/",
+    "caseName": "United States v. Bankman-Fried",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2025-11-04",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "24-961",
+    "docket_id": 69143697,
+    "download_url": "http://ww3.ca2.uscourts.gov/decisions/isysquery/cd286161-7133-4203-9f03-d6c12c977727/2/doc/24-961.mp3",
+    "duration": 3997,
+    "file_size_mp3": 24102996,
+    "id": 101157,
+    "judge": "",
+    "local_path": "mp3/2025/11/04/united_states_v._bankman-fried_cl.mp3",
+    "meta": {
+      "timestamp": "2025-11-04T20:35:09.606034Z",
+      "date_created": "2025-11-04T20:30:58.158341Z",
+      "score": {
+        "bm25": 13438310000000.0
+      }
+    },
+    "pacer_case_id": "9d455c17-4ee8-40a0-bafd-1eeeb19acafb",
+    "panel_ids": [],
+    "sha1": "8b806349f1cc4a31a08b54802c0683cc2ba7596c",
+    "snippet": "United States v. Samuel Bankman-Fried Good morning, and may it please the Court. My name is Alexandra Shapiro, and I represent Sam Bankman-Fried on this appeal. Mr. Bankman-Fried's trial was fundamentally unfair because the jury only got to hear one side of the story, the prosecution's side, which was demonstrably false. In a series of evidentiary and procedural rulings, the district court deprived Mr. Bankman-Fried of the most basic principle of due process, the ability to rebut the",
+    "source": "C"
+  }
+]

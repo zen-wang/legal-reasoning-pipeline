@@ -1,0 +1,110 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/149289/",
+  "id": 149289,
+  "absolute_url": "/opinion/149289/morrison-v-national-australia-bank-ltd/",
+  "panel": [],
+  "non_participating_judges": [],
+  "docket_id": 1359056,
+  "docket": "https://www.courtlistener.com/api/rest/v4/dockets/1359056/",
+  "sub_opinions": [
+    "https://www.courtlistener.com/api/rest/v4/opinions/9435821/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/9435822/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/9435823/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/149289/"
+  ],
+  "citations": [
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "561",
+      "reporter": "U.S.",
+      "page": "247",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "130",
+      "reporter": "S. Ct.",
+      "page": "2869",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "177",
+      "reporter": "L. Ed. 2d",
+      "page": "535",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "2010",
+      "reporter": "U.S. LEXIS",
+      "page": "5257",
+      "type": 6
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "22",
+      "reporter": "Fla. L. Weekly Fed. S",
+      "page": "575",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "76",
+      "reporter": "Fed. R. Serv. 3d",
+      "page": "1330",
+      "type": 4
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "78",
+      "reporter": "U.S.L.W.",
+      "page": "4700",
+      "type": 4
+    }
+  ],
+  "cluster_redirections": [],
+  "date_created": "2016-01-28T17:34:41.339589-08:00",
+  "date_modified": "2024-11-15T12:26:23.215676-08:00",
+  "judges": "Scalia, Roberts, Kennedy, Thomas, Alito, Breyer, Stevens, Ginsberg, Sotomayor, Ginsburg",
+  "date_filed": "2010-06-24",
+  "date_filed_is_approximate": false,
+  "slug": "morrison-v-national-australia-bank-ltd",
+  "case_name_short": "Morrison",
+  "case_name": "Morrison v. National Australia Bank Ltd.",
+  "case_name_full": "MORRISON Et Al. v. NATIONAL AUSTRALIA BANK LTD. Et Al.",
+  "scdb_id": "2009-082",
+  "scdb_decision_direction": 1,
+  "scdb_votes_majority": 8,
+  "scdb_votes_minority": 0,
+  "source": "CU",
+  "procedural_history": "",
+  "attorneys": "Thomas A. Dubbs argued the cause for petitioners. With him on the briefs were James W. Johnson, Barry M. Okun, and Samuel Issacharoff., George T. Conway III argued the cause for respondents. With him on the briefs were John F Lynch, Carrie M. Reilly, Eric Seiler, and A. Graham Allen., Matthew D. Roberts argued the cause for the United States as amicus curiae in support of respondents. With him on the brief were Solicitor General Kagan, Deputy Solicitor General Stewart, David M. Becker, Mark D. Cohn, Jacob H. Stillman, Mark Pennington, and William K. Shirey. *",
+  "nature_of_suit": "",
+  "posture": "",
+  "syllabus": "",
+  "headnotes": "",
+  "summary": "",
+  "disposition": "",
+  "history": "",
+  "other_dates": "Argued March 29, 2010",
+  "cross_reference": "",
+  "correction": "",
+  "citation_count": 1200,
+  "precedential_status": "Published",
+  "date_blocked": null,
+  "blocked": false,
+  "filepath_json_harvard": "law.free.cap.us.561/247.3644388.json",
+  "filepath_pdf_harvard": "harvard_pdf/149289.pdf",
+  "filepath_xml_scan": null,
+  "filepath_pdf_scan": null,
+  "arguments": "",
+  "headmatter": "<parties id=\"b297-4\">\n    MORRISON et al.\n    <em>\n     v.\n    </em>\n    NATIONAL AUSTRALIA BANK LTD. et al.\n   </parties><br><docketnumber id=\"b297-7\">\n    No. 08-1191.\n   </docketnumber><otherdate id=\"A_l\">\n    Argued March 29, 2010\n   </otherdate><decisiondate id=\"AS_\">\n    Decided June 24, 2010\n   </decisiondate><br><judges id=\"b299-6\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"249\"> \n     *249\n     </span>\n    Scalia, J., delivered the opinion of the Court, in which Roberts, C. J., and Kennedy, Thomas, and Alito, JJ., joined. Breyer, J., filed an opinion concurring in part and concurring in the judgment,\n    <em>\n     post,\n    </em>\n    p. 273. Stevens, J., filed an opinion concurring in the judgment, in which Ginsberg, J., joined,\n    <em>\n     post,\n    </em>\n    p. 274. Sotomayor, J., took no part in the consideration . or decision of the case.\n   </judges><br><attorneys id=\"b299-7\">\n<em>\n     Thomas A. Dubbs\n    </em>\n    argued the cause for petitioners. With him on the briefs were\n    <em>\n     James W. Johnson, Barry M. Okun,\n    </em>\n    and\n    <em>\n     Samuel Issacharoff.\n    </em>\n</attorneys><br><attorneys id=\"b300-3\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"250\"> \n     *250\n     </span>\n<em>\n     George T. Conway III\n    </em>\n    argued the cause for respondents. With him on the briefs were\n    <em>\n     John F Lynch, Carrie M. Reilly, Eric Seiler,\n    </em>\n    and\n    <em>\n     A. Graham Allen.\n    </em>\n</attorneys><br><attorneys id=\"b300-4\">\n<em>\n     Matthew D. Roberts\n    </em>\n    argued the cause for the United States as\n    <em>\n     amicus curiae\n    </em>\n    in support of respondents. With him on the brief were\n    <em>\n     Solicitor General Kagan, Deputy Solicitor General Stewart, David M. Becker, Mark D. Cohn, Jacob H. Stillman, Mark Pennington,\n    </em>\n    and\n    <em>\n     William K. Shirey.\n    </em>\n<a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n</attorneys><div class=\"footnotes\"><div class=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b300-7\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging reversal were filed for Aleeta pensionsforsakring, omsesidigt et al. by\n     <em>\n      Max W. Berger;\n     </em>\n     and for Mn Services Vermogensbeheer B. V. et al. by\n     <em>\n      Eric Alan Isaacson\n     </em>\n     and\n     <em>\n      Randi D. Bandman.\n     </em>\n</p>\n<p id=\"b300-8\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging affirmance were filed for the Competitive Enterprise Institute by\n     <em>\n      Sam Kazman;\n     </em>\n     for the European Aeronautic Defence &amp; Space Co. N. Y. et al. by\n     <em>\n      Ira M. Feinberg\n     </em>\n     and\n     <em>\n      John A. Redmon;\n     </em>\n     for the Government of the Commonwealth of Australia by\n     <em>\n      Donald I. Baker\n     </em>\n     and\n     <em>\n      W. Todd Miller;\n     </em>\n     for Infineon Technologies AG by\n     <em>\n      Deanne E. Maynard\n     </em>\n     and\n     <em>\n      Brian R. Matsui;\n     </em>\n     for the Institute of International Bankers et al. by\n     <em>\n      Paul A. Engelmayer, Louis R. Cohen,\n     </em>\n     and\n     <em>\n      Ali M. Stoeppelwerth;\n     </em>\n     for the International Chamber of Commerce et al. by\n     <em>\n      Andrew J. Pincus\n     </em>\n     and\n     <em>\n      Alex C. Lakatos;\n     </em>\n     for Law Professor Richard W. Painter et al. by\n     <em>\n      Douglas W. Dunham\n     </em>\n     and\n     <em>\n      Ellen P. Quackenbos;\n     </em>\n     for NYSE Euronext by\n     <em>\n      Richard A. Martin, Patryk J. Chudy, Warrington Parker,\n     </em>\n     and\n     <em>\n      Holly K. Kulka;\n     </em>\n     for Professors and Students of the Yale Law School Capital Markets and Financial Instruments Clinic by\n     <em>\n      Jonathan R. Macey;\n     </em>\n     for the Republic of France by\n     <em>\n      Stephen J. Marzen\n     </em>\n     and\n     <em>\n      Wendy E. Ackerman;\n     </em>\n     for the Securities Industry and Financial Markets Association et al. by\n     <em>\n      Deborah M. Buell, Meredith Hotter, Lauren L. Peacock,\n     </em>\n     and\n     <em>\n      Jorge G. Tenreiro;\n     </em>\n     for the United Kingdom of Great Britain and Northern Ireland by\n     <em>\n      John E. Beerbower;\n     </em>\n     and for the Washington Legal Foundation by\n     <em>\n      Nicholas I. Porritt, Daniel J. Popeo,\n     </em>\n     and\n     <em>\n      Cory L. Andrews.\n     </em>\n</p>\n<p id=\"b300-9\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     were filed for the Australian Shareholders’ Association et al. by\n     <em>\n      Allyn Z. Lite\n     </em>\n     and\n     <em>\n      Joseph J. DePalma;\n     </em>\n     and for the Organization for International Investment by\n     <em>\n      David M. Rice, Matthew J. Kemner,\n     </em>\n     and\n     <em>\n      Troy M. Yoshino.\n     </em>\n</p>\n</div></div>"
+}

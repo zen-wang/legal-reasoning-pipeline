@@ -1,0 +1,508 @@
+[
+  {
+    "assignedTo": "Kathy Surratt-States",
+    "assigned_to_id": 8854,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "Payless Holdings, LLC v. Martha Stewart Living Omnimedia, Inc.",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "United States Bankruptcy Court, E.D. Missouri",
+    "court_citation_string": "Bankr. E.D. Mo.",
+    "court_id": "moeb",
+    "dateArgued": null,
+    "dateFiled": "2020-06-19",
+    "dateTerminated": "2022-06-09",
+    "docketNumber": "20-04044",
+    "docket_absolute_url": "/docket/17267418/payless-holdings-llc-v-martha-stewart-living-omnimedia-inc/",
+    "docket_id": 17267418,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-17T02:06:20.528863Z",
+      "date_created": "2020-06-19T18:41:27.686866Z",
+      "score": {
+        "bm25": 1185.8682
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "436328",
+    "party": [
+      "Payless Holdings, LLC",
+      "Martha Stewart Living Omnimedia, Inc."
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/17267418/12/payless-holdings-llc-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 142165329,
+        "document_number": 12,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-09-25",
+        "entry_number": 12,
+        "filepath_local": null,
+        "id": 146834044,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-03-17T02:06:20.522765Z",
+          "date_created": "2020-09-25T19:59:54.208625Z"
+        },
+        "pacer_doc_id": "106024687298",
+        "page_count": null,
+        "short_description": "Appear pro hac vice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/17267418/13/payless-holdings-llc-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 142260992,
+        "document_number": 13,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-09-28",
+        "entry_number": 13,
+        "filepath_local": null,
+        "id": 146931254,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-03-17T02:06:20.522765Z",
+          "date_created": "2020-09-28T12:05:49.294780Z"
+        },
+        "pacer_doc_id": "106024689471",
+        "page_count": null,
+        "short_description": "BNC Certificate of Mailing",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 142300100,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-09-28",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 146970578,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-03-17T02:06:20.522765Z",
+          "date_created": "2020-09-28T15:51:13.666881Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Receipt Number and Filing Fee - Generic",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Christoffer Lee",
+      "Jessica Yu",
+      "Neal Cho Hong"
+    ],
+    "attorney_id": [
+      9655681,
+      9655682,
+      10155975
+    ],
+    "caseName": "United States v. Stewart",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, N.D. California",
+    "court_citation_string": "N.D. Cal.",
+    "court_id": "cand",
+    "dateArgued": null,
+    "dateFiled": "2024-06-27",
+    "dateTerminated": "2024-07-15",
+    "docketNumber": "5:24-mj-70958",
+    "docket_absolute_url": "/docket/68904489/united-states-v-stewart/",
+    "docket_id": 68904489,
+    "firm": [
+      "United States Attorney's Office, Criminal",
+      "Federal Public Defender, Northern District of California",
+      "DOJ-USAO, Northern District of California"
+    ],
+    "firm_id": [
+      335376,
+      790788,
+      760646
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-06-30T04:42:19.971827Z",
+      "date_created": "2024-07-01T16:32:26.586894Z",
+      "score": {
+        "bm25": 877.06366
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "431677",
+    "party": [
+      "Seth Daniel Stewart",
+      "USA"
+    ],
+    "party_id": [
+      14328044,
+      14328045
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68904489/1/united-states-v-stewart/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Proceedings on Out-of-District Criminal Charges Pursuant to Rules 5(c)(2) and (3) of the Federal Rules of Criminal Procedure as to Seth Daniel Stewart (1). (cfe, COURT STAFF) (Filed on 6/27/2024) (Entered: 06/28/2024)",
+        "docket_entry_id": 395418428,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2024-06-27",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.cand.431677/gov.uscourts.cand.431677.1.0.pdf",
+        "id": 404532985,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-30T04:42:19.966534Z",
+          "date_created": "2024-07-03T12:14:17.739302Z"
+        },
+        "pacer_doc_id": "035024562273",
+        "page_count": 28,
+        "short_description": "",
+        "snippet": "               Case 5:24-mj-70958-MAG Document 1 Filed 06/27/24 Page 1 of 28\n\n\n\n\n 1 ISMAIL J. RAMSEY (CABN 189820)\n   United States Attorney\n 2\n   MARTHA BOERSCH (CABN 126569)\n 3 Chief, Criminal Division\n\n 4 NEAL C. HONG (ILBN 6309265)\n   Assistant United States Attorney\n 5\n          150 Almaden Boulevard, Suite 900\n 6        San Jose, California 95113\n          Telephone: (408) 535-5081\n 7        neal.hong@usdoj.gov\n\n 8 Attorneys for United States of America\n\n 9                                 "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Unassigned",
+    "assigned_to_id": null,
+    "attorney": [
+      "Areszt Sleoczy"
+    ],
+    "attorney_id": [
+      11121104
+    ],
+    "caseName": "Areszt Sleoczy v. Martha Stewart",
+    "case_name_full": "",
+    "cause": "28:1331 Fed. Question",
+    "chapter": null,
+    "court": "District Court, C.D. California",
+    "court_citation_string": "C.D. Cal.",
+    "court_id": "cacd",
+    "dateArgued": null,
+    "dateFiled": "2022-01-31",
+    "dateTerminated": "2022-03-18",
+    "docketNumber": "2:22-cv-00771",
+    "docket_absolute_url": "/docket/62979806/areszt-sleoczy-v-martha-stewart/",
+    "docket_id": 62979806,
+    "firm": [
+      "Areszt Sleoczy"
+    ],
+    "firm_id": [
+      1145398
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "None",
+    "meta": {
+      "timestamp": "2025-12-31T01:42:19.254504Z",
+      "date_created": "2022-02-07T20:31:42.499327Z",
+      "score": {
+        "bm25": 859.6553
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "843232",
+    "party": [
+      "Martha Stewart",
+      "Areszt Sleoczy"
+    ],
+    "party_id": [
+      17054616,
+      17054617
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/62979806/2/areszt-sleoczy-v-martha-stewart/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER OF DISMISSAL OR REMAND by Judge Philip S. Gutierrez (Made JS-6. Case Terminated.) (yl) (Entered: 03/18/2022)",
+        "docket_entry_id": 190387178,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-03-18",
+        "entry_number": 2,
+        "filepath_local": "recap/gov.uscourts.cacd.843232/gov.uscourts.cacd.843232.2.0.pdf",
+        "id": 195967836,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-31T01:42:19.241634Z",
+          "date_created": "2022-03-19T00:03:38.570352Z"
+        },
+        "pacer_doc_id": "031037455065",
+        "page_count": 1,
+        "short_description": "~Util - Terminate Civil Case AND Order",
+        "snippet": "           Case 2:22-cv-00771-UA            Document 2               Filed 03/18/22      Page 1 of 1 Page ID #:76\n                                                                                                                      JS-6\n\n\n\n\n                                         UNITED STATES DISTRICT COURT\n                                        CENTRAL DISTRICT OF CALIFORNIA\nAreszt Sleoczy                                                           CASE NUMBER\n\n                                "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "890 Other Statutory Actions",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Jesse Matthew Furman",
+    "assigned_to_id": 1136,
+    "attorney": [
+      "Anne Melissa Seelig",
+      "Sarah Malke Lightdale",
+      "C.K. Lee"
+    ],
+    "attorney_id": [
+      2101520,
+      3327813,
+      2101519
+    ],
+    "caseName": "Sullivan, Jr. v. Martha Stewart Living Omnimedia, Inc.",
+    "case_name_full": "",
+    "cause": "28:1331 Fed. Question",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2018-09-18",
+    "dateTerminated": "2018-12-12",
+    "docketNumber": "1:18-cv-08506",
+    "docket_absolute_url": "/docket/7896923/sullivan-jr-v-martha-stewart-living-omnimedia-inc/",
+    "docket_id": 7896923,
+    "firm": [
+      "Lee Litigation Group PLLC",
+      "Cooley LLP (NY)"
+    ],
+    "firm_id": [
+      359621,
+      80469
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-04T16:18:48.116112Z",
+      "date_created": "2018-09-18T22:11:25.006138Z",
+      "score": {
+        "bm25": 563.59015
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "501111",
+    "party": [
+      "Phillip Sullivan, Jr.",
+      "Martha Stewart Living Omnimedia, Inc."
+    ],
+    "party_id": [
+      2474492,
+      2474493
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Magistrate Judge Katharine H. Parker is so designated. Pursuant to 28 U.S.C. Section 636(c) and Fed. R. Civ. P. 73(b)(1) parties are notified that they may consent to proceed before a United States Magistrate Judge. Parties who wish to consent may access the necessary form at the following link: http://nysd.uscourts.gov/forms.php. (pne)",
+        "docket_entry_id": 52912664,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-09-19",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 56943413,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-26T17:33:06.460183Z",
+          "date_created": "2019-01-12T11:20:58.499813Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/7896923/1/sullivan-jr-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [
+          7245537
+        ],
+        "description": "COMPLAINT against Martha Stewart Living Omnimedia, Inc.. (Filing Fee $ 400.00, Receipt Number 0208-15587560)Document filed by Phillip Sullivan, Jr..(Lee, C.K.) (Entered: 09/18/2018)",
+        "docket_entry_id": 38194299,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-09-18",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.nysd.501111/gov.uscourts.nysd.501111.1.0.pdf",
+        "id": 40408031,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-04-23T02:17:46.875500Z",
+          "date_created": "2018-09-18T22:11:26.268981Z"
+        },
+        "pacer_doc_id": "127023239096",
+        "page_count": 25,
+        "short_description": "Complaint",
+        "snippet": "          Case 1:18-cv-08506-JMF Document 1 Filed 09/18/18 Page 1 of 25\n\n\n\nLEE LITIGATION GROUP, PLLC\nC.K. Lee (CL 4086)\nAnne Seelig (AS 3976)\n30 East 39th Street, Second Floor\nNew York, NY 10016\nTel.: 212-465-1188\nFax: 212-465-1181\nAttorneys for Plaintiff and the Class\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\n\nPHILLIP SULLIVAN, JR.,\non behalf of himself and all others similarly situated,\n                                                             Case No.:\n\n       Plaintiff"
+      },
+      {
+        "absolute_url": "/docket/7896923/15/sullivan-jr-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER OF DISMISSAL: The Court having been advised (Docket No. 14) that all claims asserted herein have been settled in principle, it is ORDERED that the above-entitled action be and is hereby dismissed and discontinued without costs, and without prejudice to the right to reopen the action within thirty days of the date of this Order if the settlement is not consummated. Any pending motions are moot. All conferences are vacated. The Clerk of Court is directed to terminate Docket No. 14 and to close the case. SO ORDERED. (Signed by Judge Jesse M. Furman on 12/12/2018) (ne) (Entered: 12/12/2018)",
+        "docket_entry_id": 48902061,
+        "document_number": 15,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-12-12",
+        "entry_number": 15,
+        "filepath_local": "recap/gov.uscourts.nysd.501111/gov.uscourts.nysd.501111.15.0.pdf",
+        "id": 52400676,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-31T20:02:39.241990Z",
+          "date_created": "2018-12-12T22:10:45.553274Z"
+        },
+        "pacer_doc_id": "127023778098",
+        "page_count": 1,
+        "short_description": "Order of Dismissal",
+        "snippet": "         Case 1:18-cv-08506-JMF               Document 15           Filed 12/12/18   Page 1 of 1\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n---------------------------------------------------------------------- X\n                                                                       :\nPHILLIP SULLIVAN, JR.,                                                 :\n                                                                       :\n                                    Plaintiff,    "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "446 Civil Rights: Americans with Disabilities - Other",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Lorna Gail Schofield",
+    "assigned_to_id": 2867,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "Capital Art, Inc. v. Martha Stewart Living Omnimedia, Inc.",
+    "case_name_full": "",
+    "cause": "17:101 Copyright Infringement",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2019-05-22",
+    "dateTerminated": "2019-07-17",
+    "docketNumber": "1:19-cv-04751",
+    "docket_absolute_url": "/docket/15664534/capital-art-inc-v-martha-stewart-living-omnimedia-inc/",
+    "docket_id": 15664534,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-07T15:10:17.054434Z",
+      "date_created": "2019-05-23T04:34:42.626867Z",
+      "score": {
+        "bm25": 552.9912
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "516178",
+    "party": [
+      "Capital Art, Inc.",
+      "Martha Stewart Living Omnimedia, Inc."
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/15664534/9/capital-art-inc-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 95147760,
+        "document_number": 9,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-07-17",
+        "entry_number": 9,
+        "filepath_local": "recap/gov.uscourts.nysd.516178/gov.uscourts.nysd.516178.9.0.pdf",
+        "id": 99353995,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-05T06:16:21.265319Z",
+          "date_created": "2019-07-17T00:36:50.348686Z"
+        },
+        "pacer_doc_id": "127025122837",
+        "page_count": 1,
+        "short_description": "Notice of Settlement",
+        "snippet": "          Case 1:19-cv-04751-LGS Document 9 Filed 07/16/19 Page 1 of 1\n\n\n\n\nJuly 16, 2019\n\nHonorable Lorna G. Schofield\nUnited States District Judge\nSouthern District of New York\n40 Foley Square\nNew York, New York 10007\n\nRe:    Capital Art, Inc. v. Martha Stewart Living Omnimedia, Inc. (1:19-cv-4751-LGS)\n\nDear Judge Schofield,\n\nWe represent Plaintiff, Capital Art, Inc., in the above in-captioned case. The parties have reached\na settlement in principle and respectfully request that this Court admi"
+      },
+      {
+        "absolute_url": "/docket/15664534/10/capital-art-inc-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 95219177,
+        "document_number": 10,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-07-17",
+        "entry_number": 10,
+        "filepath_local": "recap/gov.uscourts.nysd.516178/gov.uscourts.nysd.516178.10.0.pdf",
+        "id": 99426379,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-05T06:35:14.655614Z",
+          "date_created": "2019-07-17T17:51:47.700338Z"
+        },
+        "pacer_doc_id": "127025127480",
+        "page_count": 1,
+        "short_description": "Order of Dismissal",
+        "snippet": "            Case 1:19-cv-04751-LGS Document 10 Filed 07/17/19 Page 1 of 1\n                                                                            USDC SDNY\n                                                                            DOCUMENT\nUNITED STATES DISTRICT COURT                                                ELECTRONICALLY FILED\nSOUTHERN DISTRICT OF NEW YORK                                               DOC #:\n--------------------------------------------------------------X            "
+      },
+      {
+        "absolute_url": "/docket/15664534/8/capital-art-inc-v-martha-stewart-living-omnimedia-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 94530925,
+        "document_number": 8,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-07-11",
+        "entry_number": 8,
+        "filepath_local": "recap/gov.uscourts.nysd.516178/gov.uscourts.nysd.516178.8.0.pdf",
+        "id": 98732249,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-05T03:39:34.186895Z",
+          "date_created": "2019-07-11T18:03:21.425052Z"
+        },
+        "pacer_doc_id": "127025090664",
+        "page_count": 1,
+        "short_description": "Affidavit of Service Other",
+        "snippet": "Case 1:19-cv-04751-LGS Document8 Filed 07/11/19 Page 1 of 1\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n\n \n\nCAPITAL ART, INC.,\n\n \n\nPlaintiff,\nCivil Action No.: 19 Civ.4751\n(LGS)\n-against-\nAFFIDAVIT OF SERVICE\nMARTHA STEWART LIVING OMNIMEDIA,\nINC.,\nDefendant.\nState of New York)\nSS.:\nCounty of Albany)\n\nJeffrey Teitel, being duly sworn deposes and says that deponent is over the age of\neighteen years and is not a party in this proceeding. Deponent served a true copy of\nOrder dated 07/"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "820 Copyright",
+    "trustee_str": null
+  }
+]

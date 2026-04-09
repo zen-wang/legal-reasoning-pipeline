@@ -1,0 +1,33 @@
+[
+  {
+    "absolute_url": "/audio/84764/jorgovanka-dordevic-v-gus-paloian/",
+    "caseName": "Jorgovanka Dordevic v. Gus Paloian",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Seventh Circuit",
+    "court_citation_string": "7th Cir.",
+    "court_id": "ca7",
+    "dateArgued": "2023-01-19",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "22-2500",
+    "docket_id": 66742837,
+    "download_url": "http://media.ca7.uscourts.gov/sound/external/lp.22-2500.22-2500_01_19_2023.mp3",
+    "duration": 1018,
+    "file_size_mp3": 6260488,
+    "id": 84764,
+    "judge": "",
+    "local_path": "mp3/2023/01/19/jorgovanka_dordevic_v._gus_paloian_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-22T22:21:32.970731Z",
+      "date_created": "2023-01-19T19:30:37.213410Z",
+      "score": {
+        "bm25": 13350182000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "ff294443eaa8fa18f2941caabee7b19474ca5708",
+    "snippet": "We're going to move now to case number four, Dordevic v. Paloian. This is appeal 22-2500. And Mr. Bolton, we're going to begin with you. Stephen Bolton May it please the Court, my name is Stephen Bolton. I represent Jorgovanka Dordevic in this appeal, Your Honor. I'll dispense with the facts with the permission of the Court. I would like to move right to the main legal issue of the case, which is the standard of proof. And our position on that, Your Honor, is that if you look at the Supreme",
+    "source": "C"
+  }
+]

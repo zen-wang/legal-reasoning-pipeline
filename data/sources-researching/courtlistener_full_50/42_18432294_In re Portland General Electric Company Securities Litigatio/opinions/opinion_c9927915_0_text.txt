@@ -1,0 +1,544 @@
+          IN THE UNITED STATES DISTRICT COURT                        
+              FOR THE DISTRICT OF OREGON                             
+
+In re PORTLAND GENERAL ELECTRIIC  Case No. 3:20-cv-1583-SI (Lead)         
+SECURITIES LITIGATION             Case No. 3:20-cv-1786-SI (Consolidated) 
+
+                             OPINION AND ORDER APPROVING             
+                             SETTLEMENT, ATTORNEY’S FEES,            
+                             AND EXPENSES                            
+
+Keith S. Dubanevich and Keil M. Mueller, STOLL STOLL BERNE LOKTING & SHLACHTER PC, 
+209 SW Oak Street. Suite 500, Portland, OR 97204; Daniel L. Berger, Barbara Hart, and Caitlin 
+M. Moyna, GRANT & EISENHOFER PA, 485 Lexington Avenue, 29th Floor, New York, NY 10017. 
+Of Attorneys for Plaintiffs and the Putative Class.                       
+
+David B. Markowitz, Dallas S. DeLuca, and Stanton R. Gallegos, MARKOWITZ HERBOLD PC, 
+1455 SW Broadway, Suite 1900, Portland, OR 97201; Susan L. Salzstein, Alexander C. 
+Drylewski, Shaud G. Tavakoli, SKADDEN, ARPS, SLATE, MEAGHER & FLOM LLP, One Manhattan 
+West, New York, NY 10001; and Peter B. Morrison and Virginia Milstead, SKADDEN, ARPS, 
+SLATE, MEAGHER & FLOM LLP, 300 South Grand Avenue, Suite 3400, Los Angeles, CA 90071. 
+Of Attorneys for Defendants.                                              
+
+Michael H. Simon, District Judge.                                         
+
+Lead Plaintiff Public Employees Retirement System of Mississippi brings this securities 
+fraud class action individually and on behalf of others similarly situated against Portland General 
+Electric Company, its President and Chief Executive Officer Maria Pope, and its Chief Financial 
+Officer James F. Lobdell (collectively, Defendants). In Claim One, Lead Plaintiff alleges that 
+Defendants violated Section 10(b) of the Securities and Exchange Act (Act) and Rule 10b-5 
+promulgated thereunder. In Claim Two, Lead Plaintiff alleges that Defendants Pope and Lobdell 
+violated Section 20(a) of the Act. Defendants filed a motion to dismiss, and the Lead Plaintiff 
+responded. Before Defendants filed their reply brief, however, the parties reached a Stipulation 
+of Settlement dated July 10, 2021 (Settlement Agreement).1 ECF 45-1. The Court preliminarily 
+
+approved the Settlement Agreement and appointed Grant & Eisenhofer, P.A. as Lead Counsel for 
+the Settlement Class. ECF 46. Now before the Court is Lead Plaintiff’s unopposed Motion for 
+Final Approval of Class Action Settlement and Lead and Liaison Counsel’s (collectively, Class 
+Counsel) Motion for Award of Attorney’s Fees and Expenses. ECF 50.        
+                     BACKGROUND                                      
+This action arises from Defendants’ alleged misrepresentations about PGE’s energy 
+trading practices. Lead Plaintiff alleges that PGE maintained a risk-averse, conservative profile, 
+that lead investors and analysts to characterize PGE as a low-risk investment. Lead Plaintiff 
+further alleges that this low-risk profile was especially important to PGE given its relationship 
+with Enron before Enron filed for bankruptcy. As with other power companies, PGE allegedly 
+
+traded within the energy market to hedge against the uncertainty of future energy prices. This 
+price-hedging form of energy trading is known as trading for “retail purposes.” Lead Plaintiff 
+also alleges that beginning in early 2020, PGE engaged in energy trading for “non-retail 
+purposes,” that is, energy trading for the purpose of generating profit. As a result, Lead Plaintiff 
+contends, PGE’s statements in its filings with the Securities and Exchange Commission stating 
+that PGE did not engage in energy trading practices for “non-retail purposes” were false and 
+
+
+1 Unless otherwise indicated, all capitalized terms used in this Opinion and Order have 
+the same meanings as defined in the Settlement Agreement.                 
+misleading. In August 2020, PGE announced that it suffered a $127 million loss due to these 
+high-risk non-retail trades. After PGE’s announcement, its stock price dropped from $41.64 to 
+$37.16. This lawsuit followed. As noted above, the parties have reached a settlement, which is 
+before the Court for final approval.                                      
+                      DISCUSSION                                     
+
+A.  Settlement Class Certification                                        
+1.  Notice to the Class                                              
+The Court granted preliminary approval to the parties’ proposed notice procedure. 
+ECF 46. The Court is satisfied that the notice procedure was carried out according to the 
+applicable standards. The Court finds that notice of the Stipulation was given to the Settlement 
+Class by the best means practicable under the circumstances, including mailing the Notice to 
+Class Members, posting the Notice, Proof of Claim, Stipulation, and Preliminary Approval Order 
+on a dedicated website, and publishing the Summary Notice in Investor’s Business Daily and on 
+PR Newswire.                                                              
+The Notice provided Class Members with all required information including, among 
+other things: (1) a summary of the Action and the claims asserted; (2) a clear definition of the 
+
+Settlement Class; (3) a description of the material terms of the Stipulation; (4) the fact that no 
+affirmative action was needed to receive the benefit of class membership, but notice that Class 
+Members could opt out of the Settlement Class; (5) an explanation of Class Members’ opt-out 
+rights, the date by which Class Members must opt out, and information about how to do so; 
+(6) explaining the release of claims should Class Members choose to remain in the Settlement 
+Class; (7) instructions about how to object to the Stipulation and the deadline for Class Members 
+to submit any objections; (8) instructions about how to object to the requested attorney’s fees, 
+expenses, and service awards and the deadline for Class Members to submit any objections; 
+(9) the date, time, and location of the final approval hearing; (10) the internet address for the 
+settlement website and the telephone number from which Class Members could obtain more 
+information on the Stipulation; (11) contact information for the  settlement administrator and the 
+Court; and (12) information about how Lead Counsel and the Class Representative would be 
+compensated. The notice is sufficient. See Lane v. Facebook, Inc., 696 F.3d 811, 826 (9th 
+
+Cir. 2012) (reaffirming that a class notice need only “generally describe[] the terms of the 
+settlement in sufficient detail to alert those with adverse viewpoints to investigate and to come 
+forward and be heard” (alteration in original) (quoting Rodriguez v. W. Publ’g Corp., 563 
+F.3d 948, 962 (9th Cir. 2009))).                                          
+The form and method of notifying the Settlement Class fairly and adequately advised 
+Class Members of all relevant and material information about the Action and the proposed 
+Stipulation. The Court finds that the notice satisfies the requirements of due process and Rule 23 
+and the Private Securities Litigation Reform Act.                         
+2.  Rule 23 Requirements                                             
+To certify either a settlement class or a litigation class, the requirements of Rule 23 of the 
+
+Federal Rules of Civil Procedure must be satisfied. See Hanlon v. Chrysler Corp., 150 
+F.3d 1011, 1019 (9th Cir. 1998). Rule 23 of the Federal Rules of Civil Procedure affords this 
+Court with “broad discretion over certification of class actions . . . .” Stearns v. Ticketmaster 
+Corp., 655 F.3d 1013, 1021 (9th Cir. 2011). A plaintiff seeking class certification must satisfy 
+each requirement of Rule 23(a)—numerosity, commonality, typicality, and adequacy of 
+representation—and one subsection of Rule 23(b). See, e.g., Lozano v. AT & T Wireless Servs., 
+Inc., 504 F.3d 718, 724 (9th Cir. 2007). Rule 23 sets forth more than a “mere pleading standard.” 
+Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338, 350 (2011). On the other hand, Rule 23 provides 
+district courts with broader discretion to certify a class than to deny certification. See Abdullah v. 
+U.S. Sec. Assocs., Inc., 731 F.3d 952, 956 (9th Cir. 2013).               
+“The criteria for class certification are applied differently in litigation classes and 
+settlement classes.” In re Hyundai & Kia Fuel Econ. Litig., 926 F.3d 539, 556 (9th Cir. 2019) (en 
+banc). In considering a litigation class, the court “must be concerned with manageability at trial,” 
+
+whereas in considering a settlement class, “such manageability is not a concern . . . [because], by 
+definition, there will be no trial.” Id. at 556-57. “[I]n deciding whether to certify a settlement 
+class, a district court must give heightened attention to the definition of the class or subclasses.” 
+Id. at 557. This determination “demand[s] undiluted, even heightened, attention in the settlement 
+context” because the court “lack[s] the opportunity, present when a case is litigated, to adjust the 
+class, informed by the proceedings as they unfold.” Amchem Prods., Inc. v. Windsor, 521 
+U.S. 591, 620 (1997); see also Ortiz v. Fibreboard Corp., 527 U.S. 815, 848-49 (1999) (“When a 
+district court, as here, certifies for class action settlement only, the moment of certification 
+requires heightened attention.”).                                         
+
+The Rule 23 analysis is “rigorous” and may “entail some overlap with the merits of the 
+plaintiff’s underlying claim.” Wal-Mart, 564 U.S. at 351 (quotation marks omitted); Comcast 
+Corp., 569 U.S. at 33-34. Nevertheless, Rule 23 “grants courts no license to engage in free-
+ranging merits inquiries at the certification stage.” Amgen Inc. v. Conn. Ret. Plans & Trust 
+Funds, 568 U.S. 455, 466 (2013). “Merits questions may be considered to the extent—but only 
+to the extent—that they are relevant to determining whether the Rule 23 prerequisites for class 
+certification are satisfied.” Id. A district court, however, “must consider the merits if they overlap 
+with the Rule 23(a) requirements.” Ellis v. Costco Wholesale Corp., 657 F.3d 970, 981 (9th 
+Cir. 2011) (emphasis in original).                                        
+Plaintiffs move without objection to certify the Settlement Class defined as:  
+     All persons or entities who, directly or through an intermediary, 
+     purchased or otherwise acquired common stock of PGE at any time 
+     during the period of February 13, 2020 through August 24, 2020, 
+     inclusive. Excluded from the Settlement Class are: (i) Defendants; 
+     (ii) the present or former executive officers or members of the 
+     Board of Directors of PGE and their immediate family members    
+     (as defined in 17 C.F.R. § 229.404 (Instructions to Item 404(a) 
+     (1)(a)(iii), substituting “PGE” for “the registrant”)) of any   
+     excluded person; (iii) any entity in which any Defendant has, or 
+     had during the Class Period, a controlling interest; and (iv) any 
+     affiliate of PGE. Also excluded from the Settlement Class are any 
+     persons and entities who exclude themselves by submitting a     
+     request for exclusion that is accepted by the Court.            
+The Court previously agreed that the Class met the requisite factors in conditionally certifying 
+the Class for settlement purposes in the preliminary approval of the Settlement. The Court, 
+however, must now conduct a “rigorous” analysis of the Rule 23 factors.   
+     a.  Numerosity                                                  
+Rule 23(a)(1) requires Plaintiffs to demonstrate that the proposed class “is so numerous 
+that joinder of all members is impracticable.” Rule 23(a)(1) provides no bright-line test or 
+minimum number of class members necessary to meet the numerosity requirement. Instead, the 
+court must evaluate the specific facts of each case. Gen. Tel. Co. of the Nw., Inc. v. EEOC, 446 
+U.S. 318, 330 (1980). In general, classes of 20 members or fewer are too small, classes of 21 
+to 40 members may or may not be sufficiently numerous depending on the facts of the case, and 
+classes of 41 and higher are sufficiently numerous. See 5 James Wm. Moore et al., Moore’s 
+Federal Practice - Civil § 23.22(1)(b) (3d ed. 2021). In this district, there is a “rough rule of 
+thumb” that more than 40 class members meets the numerosity requirement. Giles v. St. Charles 
+Health Sys., Inc., 294 F.R.D. 585, 590 (D. Or. 2013); see also Wilcox Dev. Co. v. First Interstate 
+Bank of Or., N.A., 97 F.R.D. 440, 443 (D. Or. 1983) (same); 1 McLaughlin on Class Actions 
+§ 4:5 (17th ed.) (“The rule of thumb adopted by most courts is that proposed classes in excess 
+of 40 generally satisfy the numerosity requirement.”); 5 Moore’s Federal Practice - Civil 
+§ 23.22(1)(b) (“A class of 41 or more is usually sufficiently numerous. Once again, many courts 
+have ruled that classes with more than 40 members satisfy the numerosity requirement.”). The 
+claims administrator mailed over 67,000 Notice packets to potential Class Members, which 
+shows there are likely thousands of Class members. The Court therefore finds that the Class 
+
+meets the numerosity requirement.                                         
+     b.  Commonality                                                 
+Rule 23(a)(2) states that class certification is appropriate only when the case presents 
+“questions of law or fact common to the class.” To satisfy the commonality requirement, 
+Plaintiffs must show that the class members suffered the “same injury” and that their claims 
+depend upon a “common contention.” Wal-Mart, 564 U.S. at 350. “That common contention, 
+moreover, must be of such a nature that it is capable of classwide resolution—which means that 
+determination of its truth or falsity will resolve an issue that is central to the validity of each one 
+of the claims in one stroke.” Id. But class members need not have every issue in common. 
+Commonality requires only “a single significant question of law or fact” in common. Mazza v. 
+
+Am. Honda Motor Co., 666 F.3d 581, 589 (9th Cir. 2012); see also Wal-Mart, 564 U.S. at 359. 
+“These common questions may center on ‘shared legal issues with divergent factual predicates 
+[or] a common core of salient facts coupled with disparate legal remedies.’” Jimenez v. Allstate 
+Ins. Co., 765 F.3d 1161, 1165 (9th Cir. 2014) (alteration in original) (quoting Hanlon, 150 F.3d 
+at 1019).                                                                 
+Lead Plaintiff alleges that the Class incurred losses due to Defendants’ 
+misrepresentations about PGE’s high-risk energy trading practices. Specifically, Lead Plaintiff 
+alleges that Defendants repeatedly represented that PGE maintained only low-risk trading 
+practices when in fact, between February and August of 2020, PGE allegedly engaged in risky 
+energy trading for non-retail purposes. There are common issues of law and fact stemming from 
+these allegations, including whether Defendants materially misrepresented the risk of PGE’s 
+trading practices, whether Defendants made any alleged misrepresentations with an intent to 
+deceive, and whether any alleged misrepresentation caused Plaintiffs’ harm. The Court finds that 
+the Settlement Class meets the commonality requirement.                   
+
+     c.  Typicality                                                  
+To meet the typicality requirement, Plaintiffs must show that the named parties’ claims or 
+defenses are typical of the claims or defenses of the class. Fed. R. Civ. P. 23(a)(3). Under the 
+“permissive standards” of Rule 23(a)(3), the “representative’s claims are ‘typical’ if they are 
+reasonably co-extensive with those of absent class members; they need not be substantially 
+identical.” Hanlon, 150 F.3d at 1020. “The purpose of the typicality requirement is to assure that 
+the interest of the named representative aligns with the interests of the class.” Hanon v. 
+Dataproducts Corp., 976 F.2d 497, 508 (9th Cir. 1992). To determine whether claims and 
+defenses are typical, courts look to “whether other members have the same or similar injury, 
+whether the action is based on conduct which is not unique to the named plaintiffs, and whether 
+
+other class members have been injured by the same course of conduct.” Wolin v. Jaguar Land 
+Rover N. Am., LLC, 617 F.3d 1168, 1175 (9th Cir. 2010) (quoting Hanon, 976 F.3d at 508). 
+Lead Plaintiff’s claims are based on the same conduct as the claims of the Settlement 
+Class and there is nothing to suggest that Lead Plaintiff’s claims are not coextensive with the 
+Class. Thus, the Class meets the typicality requirement.                  
+     d.  Adequacy of Representation                                  
+Rule 23(a)(4) states that before a class can be certified, a court must find that “the 
+representative parties will fairly and adequately protect the interests of the class.” This 
+requirement turns on two questions: (1) whether “the named plaintiffs and their counsel have any 
+conflicts of interest with other class members”; and (2) whether “the named plaintiffs and their 
+counsel [will] prosecute the action vigorously on behalf of the class.” Hanlon, 150 F.3d at 1020; 
+see also Fed. R. Civ. P. 23(g) (setting out factors to consider before appointing class counsel). 
+The adequacy requirement is based on principles of constitutional due process. Accordingly, a 
+court cannot bind absent class members if class representation is inadequate. Hansberry v. 
+
+Lee, 311 U.S. 32, 42-43 (1940); Hanlon, 150 F.3d at 1020.                 
+Lead Plaintiff is an adequate representative of the class because there is no evidence to 
+suggest that Lead Plaintiff has any conflicts of interest with other Class members. Lead Counsel 
+has extensive experience prosecuting securities fraud class actions and has vigorously pursued 
+the interests of the Class by conducting a private investigation, preparing a Consolidated 
+Amended Complaint in anticipation of Defendants’ motion to dismiss, opposing Defendants’ 
+motion to dismiss, and participating in mediation. Thus, the Court finds that the Lead Plaintiff 
+and Lead Counsel are adequate to represent the Class.                     
+     e.  Predominance                                                
+Rule 23(b)(3) requires a court to find that “the questions of law or fact common to class 
+
+members predominate over any questions affecting only individual members, and that a class 
+action is superior to other available methods for fairly and efficiently adjudicating the 
+controversy.” This analysis, in accord with Rule 23’s “principal purpose” of “promot[ing] 
+efficiency and economy of litigation,” inquires into “the relationship between the common and 
+individual issues in the case, and tests whether the proposed class is sufficiently cohesive to 
+warrant adjudication by representation.” Abdullah, 731 F.3d at 963-64 (simplified). The focus of 
+this inquiry, however, is on “questions common to the class.” Amgen Inc. v. Conn. Ret. Plans & 
+Tr. Funds, 568 U.S. 455, 459 (2013) (emphasis in original). Plaintiffs need not, at this threshold, 
+“prove that the predominating question[s] will be answered in their favor.” Id. at 468.  
+“[T]here is substantial overlap between” the test for commonality under Rule 23(a)(2) 
+and the predominance test under 23(b)(3). Wolin, 617 F.3d at 1172. The predominance test, 
+however, “is ‘far more demanding,’ and asks ‘whether proposed classes are sufficiently cohesive 
+to warrant adjudication by representation.’” Id. (citation omitted) (quoting Amchem, 521 U.S. 
+at 623-24). To determine whether common questions predominate, the Court begins with “the 
+
+elements of the underlying cause of action.” Erica P. John Fund, Inc. v. Halliburton Co., 563 
+U.S. 804, 809 (2011).                                                     
+The common questions relevant to Plaintiffs’ claims predominate over any issues 
+relevant to any individual Plaintiff. Plaintiffs’ claims share essential factual issues including 
+whether Defendants misrepresented PGE’s trading practices, whether Defendants made any 
+misrepresentations with an intent to deceive, and whether any misrepresentations caused 
+Plaintiffs’ losses. See Amchem, 521 U.S. at 625 (“Predominance is a test readily met in certain 
+cases alleging consumer or securities fraud or violations of the antitrust laws.”). Thus, the Class 
+meets the predominance requirement.                                       
+
+     f.  Superiority                                                 
+Rule 23(b)(3)’s superiority requirement tests whether “classwide litigation of common 
+issues will reduce litigation costs and promote greater efficiency.” Valentino v. Carter-Wallace, 
+Inc., 97 F.3d 1227, 1234 (9th Cir. 1996). To make this determination, a court looks to “whether 
+the objectives of the particular class action procedure will be achieved in the particular case.” 
+Hanlon, 150 F.3d at 1023. In turn, this inquiry “necessarily involves a comparative evaluation of 
+alternative mechanisms of dispute resolution.” Id. The Ninth Circuit recognizes that “[d]istrict 
+courts are in the best position to consider the most fair and efficient procedure for conducting 
+any given litigation, and so must be given wide discretion to evaluate superiority.” Bateman v. 
+Am. Multi-Cinema, Inc., 623 F.3d 708, 712 (9th Cir. 2010) (quotation marks and citation 
+omitted). Relating to superiority, the purpose of Rule 23(b)(3) is “to allow integration of 
+numerous small individual claims into a single powerful unit.” Id. at 722. This allows plaintiffs 
+that otherwise likely would be “unable to proceed as individuals because of the disparity between 
+their litigation costs and what they hope to recover. . . . ‘to pool claims which would be 
+uneconomical to litigate individually.’” Local Joint Exec. Bd. of Culinary/Bartender Tr. Fund v. 
+
+Las Vegas Sands, Inc., 244 F.3d 1152, 1163 (9th Cir. 2001) (quoting Phillips Petroleum Co. v. 
+Shutts, 472 U.S. 797, 809 (1985)).                                        
+Rule 23(b)(3) provides four non-exhaustive factors for courts to consider. These factors 
+are:                                                                      
+     (A) the class members’ interests in individually controlling the 
+     prosecution or defense of separate actions; (B) the extent and  
+     nature of any litigation concerning the controversy already begun 
+     by or against class members; (C) the desirability or undesirability 
+     of concentrating the litigation of the claims in the particular forum; 
+     and (D) the likely difficulties in managing a class action.     
+Fed. R. Civ. P. 23(b)(3).                                                 
+As to the first factor, “[w]here recovery on an individual basis would be dwarfed by the 
+cost of litigating on an individual basis, this factor weighs in favor of class certification.” 
+Wolin, 617 F.3d at 1175. The cost of litigating individual securities fraud claims is high when 
+compared to the amount of damages at stake for putative class members. See In re Synchrony 
+Fin. Sec. Litig., 988 F.3d 157, 161 (2d Cir. 2021) (“Securities fraud cases are often complex 
+and costly . . . .”). Accordingly, “[b]ecause individual damages pale in comparison to the costs of 
+litigation, this factor points toward certification.” In re Anthem, Inc. Data Breach Litig., 327 
+F.R.D. 299, 316 (N.D. Cal. 2018).                                         
+As to the second factor, all outstanding related cases, apart from the derivative suit, have 
+been consolidated into this action. The second factor therefore favors certification. As to the third 
+factor, concentrating this litigation in the District of Oregon is appropriate because the 
+challenged conduct occurred in Oregon and potential Class Members are not centralized in any 
+one geographic location.                                                  
+The Court need not consider the fourth factor because the parties only seek certification 
+of a settlement class, not a litigation class. Amchem, 521 U.S. at 620 (“Confronted with a request 
+
+for settlement-only class certification, a district court need not inquire whether the case, if tried, 
+would present intractable management problems, see Fed. Rule Civ. Proc. 23(b)(3)(D), for the 
+proposal is that there be no trial.”). The Court finds that he Class meets the superiority 
+requirement.                                                              
+3.  Conclusion                                                       
+The Class meets the requirements for class certification. The Court finally certifies for 
+settlement purposes the following class: all persons or entities who, directly or through an 
+intermediary, purchased or otherwise acquired common stock of PGE at any time during the 
+period of February 13, 2020, through August 24, 2020, inclusive. Excluded from the Settlement 
+Class are: (i) Defendants; (ii) the present or former executive officers or members of the Board 
+
+of Directors of PGE and their immediate family members (as defined in 17 C.F.R. § 229.404 
+(Instructions to Item 404(a) (1)(a)(iii), substituting “PGE” for “the registrant”)) of any excluded 
+person; (iii) any entity in which any Defendant has, or had during the Class Period, a controlling 
+interest; and (iv) any affiliate of PGE. Also excluded from the Settlement Class are any persons 
+and entities who exclude themselves by submitting a request for exclusion that is accepted by the 
+Court.                                                                    
+B.  Settlement Approval                                                   
+1.  General Standards                                                
+Under Rule 23(e) of the Federal Rules of Civil Procedure, “[t]he claims, issues, or 
+defenses of a certified class may be settled, voluntarily dismissed, or compromised only with the 
+court’s approval.” “The purpose of Rule 23(e) is to protect the unnamed members of the class 
+from unjust or unfair settlements affecting their rights.” In re Syncor ERISA Litig., 516 
+
+F.3d 1095, 1100 (9th Cir. 2008). Thus, to approve a class action settlement, a court must find 
+that the settlement is “fair, reasonable, and adequate.” Fed. R. Civ. P. 23(e)(2); Lane v. 
+Facebook, Inc., 696 F.3d 811, 818 (9th Cir. 2012).                        
+The settlement must be considered as a whole, and although there are “strict procedural 
+requirements on the approval of a class settlement, a district court’s only role in reviewing the 
+substance of that settlement is to ensure it is ‘fair, adequate, and free from collusion.’” Lane, 696 
+F.3d at 818-19 (quoting Hanlon, 150 F.3d at 1027). A court must consider whether: “(A) the 
+class representatives and class counsel have adequately represented the class; (B) the proposal 
+was negotiated at arm’s length; (C) the relief provided for the class is adequate; and (D) the 
+proposal treats class members equitably relative to each other.” Fed. R. Civ. P. 23(e)(2). The 
+
+Ninth Circuit has articulated a number of factors guiding this review, including: (1) the strength 
+of the plaintiffs’ case; (2) the risk, expense, complexity, and likely duration of further litigation; 
+(3) the risk of maintaining class action status throughout the trial; (4) the amount offered in 
+settlement; (5) the extent of discovery completed and the stage of the proceedings; (6) the 
+experience and views of counsel; (7) the presence of a governmental participant; and (8) the 
+reaction of the class members to the proposed settlement. Lane, 696 F.3d at 819. Courts within 
+the Ninth Circuit “put a good deal of stock in the product of an arms-length, non-collusive, 
+negotiated resolution.” Rodriguez v. W. Publ’g Corp., 563 F.3d 948, 965 (9th Cir. 2009). 
+Class action settlements involve “‘unique due process concerns for absent class 
+members’ who are bound by the court’s judgments.” Radcliffe v. Experian Info. Sols. Inc., 715 
+F.3d 1157, 1168 (9th Cir. 2013) (quoting In re Bluetooth Headset Prods. Liab. Litig., 654 
+F.3d 935, 946 (9th Cir. 2011)). When the settlement agreement is negotiated before formal class 
+certification, as in this case, the court should engage in “an even higher level of scrutiny for 
+
+evidence of collusion or other conflicts of interest than is ordinarily required under Rule 23(e).” 
+Id. (quoting In re Bluetooth, 654 F.3d at 946). This more “exacting review” is warranted “to 
+ensure that class representatives and their counsel do not secure a disproportionate benefit at the 
+expense of the unnamed plaintiffs who class counsel had a duty to represent.” Lane, 696 F.3d 
+at 819.                                                                   
+The Ninth Circuit has recognized, however, that “[j]udicial review also takes place in the 
+shadow of the reality that rejection of a settlement creates not only delay but also a state of 
+uncertainty on all sides, with whatever gains were potentially achieved for the putative class put 
+at risk.” Staton v. Boeing Co., 327 F.3d 938, 952 (9th Cir. 2003). Thus, there is a “strong judicial 
+
+policy that favors settlements, particularly where complex class action litigation is concerned.” 
+In re Hyundai, 926 F.3d at 556 (quoting Allen v. Bedolla, 787 F.3d 1218, 1223 (9th Cir. 2015)). 
+2.  Strength of Plaintiffs’ Case; Risk, Expense, Complexity, and Likely Duration of 
+  Future Litigation; and Risk of Maintaining Class Action Status Throughout 
+  Trial                                                              
+Lead Plaintiff contends that although it believes it has meritorious claims, proceeding 
+with this litigation would be risky. Lead Plaintiff notes that it faced challenges opposing 
+Defendant’s motion to dismiss, which the Court had not resolved before the parties reached a 
+settlement. Lead Plaintiff also notes that even if its claims had survived a motion to dismiss, it 
+would continue to face additional hurdles at the summary judgment stage and lengthy litigation 
+beyond that, including a trial and likely appeals. Besides the risk of dismissal before trial or loss 
+at trial, continued litigation would be expensive and time-consuming. Further, class certification 
+had not begun at the time the parties reached a settlement, and both sides bore the risk that a 
+class would or would not be certified. Thus, given the parties’ uncertainty of the outcome and the 
+complexity of this case, these factors favor approval of the Settlement Agreement.  
+3.  Amount Offered in Settlement                                     
+
+The Settlement amount is $6.75 million. The Plan of Allocation awards each claimant a 
+pro rata share of the Settlement Fund based on the claimant’s losses. Lead Plaintiff’s damages 
+expert calculated the total possible damages to be from $46.1 million to $51.3 million. The 
+Settlement amount therefore provides a recovery of 13.2 percent to 14.6 percent of the total 
+estimated damages. This factor favors approval. See Vataj v. Johnson, 2021 WL 5161927, at *6 
+(N.D. Cal. Nov. 5, 2021) (“This 2% aggregate recovery is consistent with the 2–3% average 
+recovery that the parties identified in other securities class action settlements.”); Ontiveros v. 
+Zamora, 303 F.R.D. 356, 370 (E.D. Cal. 2014) (“[I]t is well-settled law that a proposed 
+settlement may be acceptable even though it amounts to only a fraction of the potential recovery 
+that might be available to the class members at trial.” (quoting Nat’l Rural Telecomms. Coop. v. 
+
+DIRECTV, Inc., 221 F.R.D. 523, 527 (C.D. Cal. 2004)).                     
+4.  Extent of Discovery Completed                                    
+Formal discovery is not required before a class action settlement. Linney v. Cellular 
+Alaska P’ship, 151 F.3d 1234, 1239-40 (9th Cir. 1998). Rather, “[a]pproval of a class action 
+settlement is proper as long as discovery allowed the parties to form a clear view of the strengths 
+and weaknesses of their cases.” Monterrubio v. Best Buy Stores, L.P., 291 F.R.D. 443, 454 (E.D. 
+Cal. 2013). The parties assert that although this case settled before resolution of Defendants’ 
+motion to dismiss, they nevertheless exchanged sufficient information to adequately determine 
+the strengths and weaknesses of their positions. The parties exchanged information during 
+negotiations, during mediation sessions, in mediation statements, and in briefing Defendants’ 
+motion to dismiss. Thus, this factor does not weigh against approval. See Zepeda v. PayPal, 
+Inc., 2017 WL 1113293, at *14 (N.D. Cal. Mar. 24, 2017) (concluding that although the parties 
+had not engaged in formal discovery, “the parties informally exchanged information and 
+documents in connection with the three prior mediations conducted in this action,” which 
+
+favored approval of the settlement).                                      
+5.  Experience and Views of Counsel                                  
+“Parties represented by competent counsel are better positioned than courts to produce a 
+settlement that fairly reflects each party’s expected outcome in litigation.” In re Pac. Enters. Sec. 
+Litig., 47 F.3d 373, 378 (9th Cir. 1995). While counsel’s views are instructive, they do not entitle 
+the settlement to a presumption of fairness. See Roes, 1-2 v. SFBSC Mgmt., LLC, 944 F.3d 1035, 
+1049 (9th Cir. 2019). The Court is satisfied that Lead Counsel has extensive experience litigating 
+securities fraud class actions. Thus, Lead Counsel’s recommendation that the Settlement is fair, 
+reasonable, and adequate favors approval.                                 
+6.  Presence of a Government Participant                             
+The Class Action Fairness Act (CAFA) provides in relevant part:      
+
+     Not later than 10 days after a proposed settlement of a class action 
+     is filed in court, each defendant . . . shall serve upon the    
+     appropriate State official of each State in which a class member 
+     resides and the appropriate Federal official, a notice of the   
+     proposed settlement[.]                                          
+     * * *                                                           
+     An order giving final approval of a proposed settlement may not be 
+     issued earlier than 90 days after the later of the dates on which the 
+     appropriate Federal official and the appropriate State official are 
+     served with the notice required under subsection (b).           
+28 U.S.C. § 1715(b), (d). Defendants mailed notices of the proposed settlement to the U.S. 
+Attorney General and state Attorneys General of all 50 states, the District of Columbia, and the 
+United States Territories by the required deadline under CAFA. Defendants also sent notices to 
+officials at the Oregon Public Utility Commission and the Securities and Exchange Commission. 
+No state or federal official has objected to the Settlement or otherwise become involved in the 
+
+case. This factor therefore favors approval.                              
+7.  Reaction of the Class Members to the Settlement                  
+No Class members objected to the Settlement and only two members opted out. The low 
+rate of opt-outs and the lack of objections show that Class members favor the Settlement. This 
+factor favors approval.                                                   
+8.  Evidence of Collusion                                            
+When the settlement agreement is negotiated before formal class certification, as in this 
+case, the court should engage in “an even higher level of scrutiny for evidence of collusion or 
+other conflicts of interest than is ordinarily required under Rule 23(e).” In re Bluetooth, 654 F.3d 
+at 946. The Ninth Circuit has identified three signs of collusion: (1) class counsel receives a 
+disproportionate distribution of the settlement, or when the class receives no monetary 
+
+distribution but counsel is amply awarded; (2) the parties negotiate a “clear sailing” arrangement 
+providing for the payment of attorneys’ fees separate and apart from class funds without 
+objection by a defendant; or (3) the parties arrange for payments not awarded to revert to a 
+defendant rather than to be added to the class fund. Id. at 947.          
+Class Counsel seeks 25 percent of the Settlement amount, which is not a disproportionate 
+share. Further, the Settlement contains no “clear sailing” or reversion provisions. The Court 
+identifies no evidence of collusion or other conflicts of interest, which favors approval. 
+9.  Conclusion                                                       
+The above factors support approval of the Settlement Agreement. The Court therefore 
+finds that the Settlement and Plan of Allocation are fair, reasonable, and adequate. 
+C.  Attorney’s Fees and Expenses                                          
+Requests for attorney’s fees must be made by a motion pursuant to Rule 54(d)(2) and 
+Rule 23(h) of the Federal Rules of Civil Procedure. In addition, notice of the motion must be 
+
+served on all parties and class members. Fed. R. Civ. P. 23(h). When settlement is proposed 
+along with a motion for class certification, notice to class members of the fee motion ordinarily 
+accompanies the notice of the settlement proposal itself. Fed. R. Civ. P. 23(h) advisory 
+committee’s notes to 2003 amendment. The deadline for class members to object to requested 
+fees must be set after the motion for the fees and documents supporting the motion have been 
+filed. In re Mercury Interactive Corp. Sec. Litig., 618 F.3d 988, 993 (9th Cir. 2010). “Allowing 
+class members an opportunity thoroughly to examine counsel’s fee motion, inquire into the bases 
+for various charges and ensure that they are adequately documented and supported is essential 
+for the protection of the rights of class members.” Id. at 994. Here, Class Counsel filed its motion 
+for attorney’s fees and supporting documents four weeks before the deadline to file objections, 
+
+thereby complying with In re Mercury.                                     
+In considering the amount of attorney’s fees for class counsel where there is a common 
+fund, “courts have discretion to employ either the lodestar method or the percentage-of-recovery 
+method.” In re Bluetooth, 654 F.3d at 942. Under either method, the court must exercise its 
+discretion to achieve a “reasonable” result. Id. Because reasonableness is the goal, “mechanical 
+or formulaic application of either method, where it yields and unreasonable result, can be an 
+abuse of discretion.” Fischel v. Equitable Life Assurance Soc’y of the U.S., 307 F.3d 997, 1006 
+(9th Cir. 2002). When using the percentage method, 25 percent is the “benchmark” fee award, 
+but this amount may be adjusted upward or downward when “special circumstances” warrant a 
+departure. In re Bluetooth, 654 F.3d at 942. Courts must place in the record the relevant special 
+circumstances. Id. As the Ninth Circuit has explained,                    
+     In Vizcaino, we identified several factors courts may consider  
+     when assessing requests for attorneys’ fees calculated pursuant to 
+     the percentage-of-recovery method: (1) the extent to which class 
+     counsel achieved exceptional results for the class; (2) whether the 
+     case was risky for class counsel; (3) whether counsel’s         
+     performance generated benefits beyond the cash settlement fund; 
+     (4) the market rate for the particular field of law; (5) the burdens 
+     class counsel experienced while litigating the case; (6) and whether 
+     the case was handled on a contingency basis.                    
+     Vizcaino did not establish an exhaustive list of factors for assessing 
+     fee requests calculated using the percentage-of-recovery method, 
+     but district courts have frequently referred to the factors it  
+     identified when considering fee awards for class counsel.       
+     Ultimately, district courts must ensure their fee awards are    
+     “supported by findings that take into account all of the        
+     circumstances of the case.”                                     
+In re Optical Disk Drive Prods. Antitrust Litig., 959 F.3d 922, 930 (9th Cir. 2020) (citations 
+omitted) (quoting Vizcaino v. Microsoft Corp., 290 F.3d 1043, 1048 (9th Cir. 2002)); see also In 
+re Online DVD-Rental Antitrust Litig., 779 F.3d 934, 954-55 (9th Cir. 2015) (noting that the 
+Vizcaino factors “include the extent to which class counsel achieved exceptional results for the 
+class, whether the case was risky for class counsel, whether counsel’s performance generated 
+benefits beyond the cash settlement fund, the market rate for the particular field of law (in some 
+circumstances), the burdens class counsel experienced while litigating the case (e.g., cost, 
+duration, foregoing other work), and whether the case was handled on a contingency basis” and 
+that in addition, “a court may cross-check its percentage-of-recovery figure against a lodestar 
+calculation” (quotation marks omitted)).                                  
+The Court exercises its discretion to use the percentage-of-recovery method in this case. 
+As described above, this case presents complex legal issues and litigation risks, and Class 
+Counsel secured a favorable Settlement amount in comparison to the Class’s estimated damages. 
+These factors favor the 25 percent benchmark fee. Further, a lodestar cross check confirms that 
+a 25 percent fee is appropriate. Lead Counsel expended 924.6 hours at hourly rates ranging from 
+$220 to $1,000. Liaison Counsel expended 60.95 hours at hourly rates of $470 and $635. Liaison 
+Counsel represents that these rates are standard rates in Oregon. Lead Plaintiff also notes that 
+
+Lead and Liaison Counsel made an effort to staff the case leanly in order to avoid duplicative 
+work. The total lodestar amount is $624,015.25. The requested 25 percent fee is $1,687,500, 
+which represents a 2.7 multiplier of the lodestar cross check. A 2.7 multiplier is reasonable, 
+given the complexity of this case and Class Counsel’s efforts to curb repetitive work. See Van 
+Vranken v. Atl. Richfield Co., 901 F. Supp. 294, 298 (N.D. Cal. 1995) (“Multipliers in the 3–4 
+range are common in lodestar awards for lengthy and complex class action litigation.”). The 
+Court therefore finds that a 25 percent fee is reasonable.                
+Class Counsel also seeks recovery of $86,382.59 in expenses. These costs include 
+expenses for an energy trading expert, an economics expert, an investigative firm to develop the 
+
+facts of the case, an experienced mediator, as well as travel, filing fees, and legal research. The 
+Court finds that these expenses have been reasonably and necessarily incurred in this case and 
+are recoverable from the Settlement Fund. See, e.g., Wininger v. SI Mgmt., L.P., 301 F.3d 1115, 
+1120-21 (9th Cir. 2002) (“[J]urisdiction over a fund allows for the district court to spread the 
+costs of the litigation among the recipients of the common benefit.”); In re Media Vision Tech. 
+Sec. Litig., 913 F. Supp. 1362, 1366 (N.D. Cal. 1996) (“Reasonable costs and expenses incurred 
+by an attorney who creates or preserves a common fund are reimbursed proportionately by those 
+class members who benefit by the settlement.”).                           
+                      CONCLUSION                                     
+The Court GRANTS Lead Plaintiff’s unopposed Motion for Final Approval of Class 
+Action Settlement and Class Counsel’s unopposed Motion for Award of Attorney’s Fees and 
+Expenses (ECF 50). The Court awards Class Counsel $1,687,500 in attorney’s fees and 
+$86,382.59 in costs, to be paid from the Settlement Fund. This case is dismissed, but the Court 
+
+retains jurisdiction over the parties and all matters relating to the Lawsuit and Settlement, 
+including the administration, interpretation, construction, effectuation, enforcement, and 
+consummation of the Settlement and this Opinion and Order.                
+IT IS SO ORDERED.                                                    
+
+DATED this 22nd day of March, 2022.                                  
+
+                              /s/ Michael H. Simon                   
+                              Michael H. Simon                       
+                              United States District Judge           

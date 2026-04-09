@@ -1,0 +1,61 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/9482366/",
+    "id": 9482366,
+    "absolute_url": "/opinion/9482366/williams-v-binance/",
+    "panel": [],
+    "non_participating_judges": [],
+    "docket_id": 66801867,
+    "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66801867/",
+    "sub_opinions": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/9948979/"
+    ],
+    "citations": [
+      {
+        "date_created": "2025-11-17T13:55:14.715967-08:00",
+        "date_modified": "2025-11-17T13:55:14.715980-08:00",
+        "volume": "96",
+        "reporter": "F.4th",
+        "page": "129",
+        "type": 1
+      }
+    ],
+    "cluster_redirections": [],
+    "date_created": "2024-03-08T08:00:27.177543-08:00",
+    "date_modified": "2024-03-08T08:00:30.991306-08:00",
+    "judges": "",
+    "date_filed": "2024-03-08",
+    "date_filed_is_approximate": false,
+    "slug": "williams-v-binance",
+    "case_name_short": "Binance",
+    "case_name": "Williams v. Binance",
+    "case_name_full": "",
+    "scdb_id": "",
+    "scdb_decision_direction": null,
+    "scdb_votes_majority": null,
+    "scdb_votes_minority": null,
+    "source": "C",
+    "procedural_history": "",
+    "attorneys": "",
+    "nature_of_suit": "",
+    "posture": "",
+    "syllabus": "",
+    "headnotes": "",
+    "summary": "",
+    "disposition": "",
+    "history": "",
+    "other_dates": "",
+    "cross_reference": "",
+    "correction": "",
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "date_blocked": null,
+    "blocked": false,
+    "filepath_json_harvard": null,
+    "filepath_pdf_harvard": null,
+    "filepath_xml_scan": null,
+    "filepath_pdf_scan": null,
+    "arguments": "",
+    "headmatter": ""
+  }
+]

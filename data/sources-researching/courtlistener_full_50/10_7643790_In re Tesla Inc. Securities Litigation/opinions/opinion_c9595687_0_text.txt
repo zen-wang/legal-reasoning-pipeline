@@ -1,0 +1,130 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    IN RE TESLA, INC. SECURITIES     Case No.  18-cv-04865-EMC           
+
+8    LITIGATION.                                                          
+                                      ORDER RE JOINT DISCOVERY            
+9                                     LETTER                              
+10                                     Docket No. 226                      
+11                                                                         
+
+12                                                                         
+13        Currently pending before the Court is a discovery dispute.  Lead Plaintiff asks the Court to 
+14   issue a subpoena to the SEC.  Lead Plaintiff had been trying to secure certain information from the 
+15   SEC through a FOIA request but apparently changed course because (1) the administrative process 
+16   would take up to eighteen months to conclude and (2) the SEC agreed that the FOIA 
+17   administrative process could, in essence, be bypassed if Plaintiffs could get this Court to issue a 
+18   subpoena.  Defendants oppose the request because the PSLA generally provides for a stay of 
+19   discovery pending resolution of a motion to dismiss.                  
+20        The PSLRA provides as follows: “In any private action arising under this title, all 
+21   discovery and other proceedings shall be stayed during the pendency of any motion to dismiss, 
+22   unless the court finds upon the motion of any party that particularized discovery is necessary to 
+23   preserve evidence or to prevent undue prejudice to that party.”  15 U.S.C. § 78u-4(b)(3)(B). 1  
+24   “The legislative history of the PSLRA indicates that Congress enacted the discovery stay in order 
+25   to minimize the incentives for plaintiffs to file frivolous securities class actions in the hope either 
+26                                                                         
+
+27                                                                         
+    1 See also In re Carnegie Int'l Corp. Sec. Litig., 107 F. Supp. 2d 676, 679 (D. Md. 2000) (noting 
+1   that corporate defendants will settle those actions rather than bear the high cost of discovery, or 
+2   that the plaintiff will find during discovery some sustainable claim not alleged in the complaint.”  
+3   In re Worldcom Sec. Litig., 234 F. Supp. 2d 301, 305 (S.D.N.Y. 2002). 
+4        As Lead Plaintiff asserts, allowing the production of documents from the SEC would not 
+5   appear to impose any burden on Defendants.  See Pension Tr. Fund for Operating Eng’r v. 
+6   Assisted Living Concepts, Inc., 943 F. Supp. 2d 913, 915 (E.D. Wis. 2013) (noting that “[c]ourts 
+7   have lifted stays with regard to certain documents already produced in other actions with 
+8   governmental agencies or others” – “partly because, where documents have already been collated 
+9   and produced to other entities, the burdens of discovery are far less substantial”).  Nevertheless, 
+10   the PSLRA carves out exceptions from the discovery stay only in limited circumstances – i.e., 
+11   where “particularized discovery is necessary to preserve evidence or to prevent undue prejudice to 
+12   that party.”  15 U.S.C. § 78u-4(b)(3)(B); see Assisted Living, 943 F. Supp. 2d at 915-16 (although 
+13   noting that the burden of discovery is “far less substantial” where already produced in another 
+14   action, still going on to evaluate whether the discovery was needed to preserve evidence or prevent 
+15   undue prejudice).                                                     
+16        Here, Lead Plaintiff makes no claim that the information sought from the SEC is necessary 
+17   to preserve evidence.  Nor does Lead Plaintiff clearly assert that he would suffer undue prejudice 
+18   without the information from the SEC.  The cases on which Lead Plaintiff relies are 
+19   distinguishable largely because, there, the courts articulated that production was needed so as to 
+20   prevent undue prejudice to the plaintiff.  For example, in In re Worldcom Securities Litigation, 
+21   234 F. Supp. 2d 301 (S.D.N.Y. 2002), the court held that,             
+
+22             [b]ased upon the unique circumstances of this case, the documents 
+              requested by NYSCRF [the lead plaintiff] must be produced in order 
+23             to prevent undue prejudice to the interests of the putative investor 
+              class it represents.  All of the investigations and proceedings 
+24             concerning WorldCom are moving apace.  Without access to    
+              documents already made available to the U.S. Attorney, the SEC, 
+25             and in whole or in part to the WorldCom's Creditors Committee and 
+              the documents that will in all likelihood soon be in the hands of the 
+26             ERISA plaintiffs, NYSCRF would be prejudiced by its inability to 
+              make informed decisions about its litigation strategy in a rapidly 
+27             shifting landscape.  It would essentially be the only major interested 
+              proceedings.  This is especially troubling given the likelihood that 
+1             settlement discussions will begin in December and involve both the 
+              securities plaintiffs and the ERISA plaintiffs.  The former would be 
+2             severely disadvantaged in those discussions if they are denied access 
+              to the documents they now request.  If NYSCRF must wait until the 
+3             resolution of a motion to dismiss to obtain discovery and formulate 
+              its settlement or litigation strategy, it faces the very real risk that it 
+4             will be left to pursue its action against defendants who no longer 
+              have anything or at least as much to offer.                 
+5                                                                         
+6   Id. at 305-06; see also Assisted Living, 943 F. Supp. 2d at 916 (noting that, in cases such as 
+7   WorldCom, “the courts were particularly concerned with the plaintiffs’ abilities to adequately 
+8   pursue settlement and other options when at an informational disadvantage compared to other 
+9   parties”); In re Rambus, Inc. Sec. Litig., No. C 06-4346 JF (HRL), 2007 U.S. Dist. LEXIS 38056, 
+10   at *9 (N.D. Cal. May 14, 2007) (stating that in WorldCom and another case, the courts essentially 
+11   “held that the securities fraud plaintiffs would be unduly prejudiced if they were the only parties 
+12   on the playing field without access to the documents”); In re FirstEnergy Corp. Sec. Litig., 229 
+13   F.R.D. 541, 545 (N.D. Ohio 2004) (“find[ing] that the plaintiffs in this action face a similar risk of 
+14   undue prejudice as the plaintiffs in WorldCom[;] [w]ithout discovery of documents already made 
+15   available to government entities, Plaintiffs would be unfairly disadvantaged in pursuing litigation 
+16   and settlement strategies”).                                          
+17        In the instant case, Lead Plaintiff may be at an informational disadvantage compared to, 
+18   e.g., the SEC; however, what was critical in WorldCom was the lead plaintiff’s informational 
+19   disadvantage in a rapidly changing legal landscape – i.e., because there were multiple other 
+20   proceedings being brought against the defendant.  Here, while the SEC did bring suit against Tesla 
+21   and Mr. Musk, it appears that the both cases have now been resolved via consent judgments.  Lead 
+22   Plaintiff, therefore, is not in the same situation as the lead plaintiff in WorldCom and other similar 
+23   cases.  There is at this point no demonstrable urgency attendant to Lead Plaintiff’s request. 
+24   ///                                                                   
+25   ///                                                                   
+26   ///                                                                   
+27   ///                                                                   
+    1          Accordingly, Lead Plaintiffs request for issuance of a subpoena is hereby DENIED, but 
+    2  || without prejudice. 
+    3          This order disposes of Docket No. 226. 
+    4 
+    5          IT IS SO ORDERED. 
+    6 
+    7    Dated: November 26, 2019 
+    8                                           LL 
+    9                                                   ir                         
+                                               ED       M.C 
+   10                                           United States District Judge 
+   11 
+    12 
+
+
+
+
+    15 
+   16 
+
+ =    17 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28 

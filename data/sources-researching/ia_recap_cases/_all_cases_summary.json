@@ -1,0 +1,82 @@
+[
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.dcd.256060",
+    "title": "v. SECURITIES AND EXCHANGE COMMISSION",
+    "total_files": 2785,
+    "pdfs_available": 748,
+    "pdfs_downloaded": 10
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.nysd.524448",
+    "title": "Securities and Exchange Commission v. Telegram Group Inc.",
+    "total_files": 726,
+    "pdfs_available": 721,
+    "pdfs_downloaded": 10
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.nysb.116892",
+    "title": "Enron Corp. v. Avenue Special Situation, Fund II, LP",
+    "total_files": 10,
+    "pdfs_available": 5,
+    "pdfs_downloaded": 5
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.ohsd.103803",
+    "title": "Newby v. Enron Corp",
+    "total_files": 6,
+    "pdfs_available": 1,
+    "pdfs_downloaded": 1
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.cand.319709",
+    "title": "Di-az v. Tesla, Inc.",
+    "total_files": 732,
+    "pdfs_available": 727,
+    "pdfs_downloaded": 10
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.cand.400427",
+    "title": "Matsko v. Tesla, Inc.",
+    "total_files": 501,
+    "pdfs_available": 497,
+    "pdfs_downloaded": 10
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.nvd.137692",
+    "title": "Jackson Hole Bank Fraud Litigation Trust v. Bank of Jackson Hole",
+    "total_files": 14,
+    "pdfs_available": 9,
+    "pdfs_downloaded": 9
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.flmd.425845",
+    "title": "American Integrity Insurance Company v. John Doe, owner/user of the email address fraud@americanintegrityfraud.com",
+    "total_files": 24,
+    "pdfs_available": 20,
+    "pdfs_downloaded": 10
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.nynd.77547",
+    "title": "O'Neil v. Ponzi-Flett",
+    "total_files": 9,
+    "pdfs_available": 4,
+    "pdfs_downloaded": 4
+  },
+  {
+    "source": "RECAP on Internet Archive",
+    "identifier": "gov.uscourts.nynd.77548",
+    "title": "O'Neil v. Weeno Ponzi",
+    "total_files": 7,
+    "pdfs_available": 2,
+    "pdfs_downloaded": 2
+  }
+]

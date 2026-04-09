@@ -1,0 +1,174 @@
+{
+  "absolute_url": "/opinion/145709/tellabs-inc-v-makor-issues-rights-ltd/",
+  "attorney": "Carter G. Phillips argued the cause for petitioners. With him on the briefs were Richard D. Bernstein, Eamon P. Joyce, David F. Graham, and Robert N. Hochman., Kannon K. Shanmugam argued the cause for the United States as amicus curiae in support of petitioners. With him on the brief were Solicitor General Clement, Assistant Attorney General Keisler, Deputy Solicitor General Hungar, Michael Jay Singer, John S. Koppel, Andrew N. Vollmer, Jacob H. Stillman, Luis de la Torre, and Michael L. Post., Arthur R. Miller argued the cause for respondents. With him on the brief were Melvyn I. Weiss, Jerome M. Congress, Richard H. Weiss, and Clifford S. Goodstein.*",
+  "caseName": "Tellabs, Inc. v. Makor Issues & Rights, Ltd.",
+  "caseNameFull": "TELLABS, INC., Et Al. v. MAKOR ISSUES & RIGHTS, LTD., Et Al.",
+  "citation": [
+    "168 L. Ed. 2d 179",
+    "127 S. Ct. 2499",
+    "551 U.S. 308",
+    "2007 U.S. LEXIS 8270",
+    "20 Fla. L. Weekly Fed. S 374",
+    "75 U.S.L.W. 4462"
+  ],
+  "citeCount": 5936,
+  "cluster_id": 145709,
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "court_id": "scotus",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2007-06-21",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "06-484",
+  "docket_id": 129555,
+  "judge": "Alito, Ginsburg, Roberts, Kennedy, Squter, Thomas, Breyer, Scalia, Auto, Stevens",
+  "lexisCite": "2007 U.S. LEXIS 8270",
+  "meta": {
+    "timestamp": "2024-06-20T18:41:28.388040Z",
+    "date_created": "2016-01-28T21:28:20.379906Z",
+    "score": {
+      "bm25": 52.75797
+    }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+    {
+      "author_id": null,
+      "cites": [],
+      "download_url": null,
+      "id": 9435034,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-27T06:04:52.614807Z",
+        "date_created": "2023-08-03T00:01:22.255149Z"
+      },
+      "ordering_key": 4,
+      "per_curiam": false,
+      "sha1": "",
+      "snippet": "\nJustice Stevens,\ndissenting.\nAs the Court explains, when Congress enacted a heightened pleading requirement for private actions to enforce the federal securities laws, it “left the key term ‘strong inference’ undefined.” Ante, at 314. It thus implicitly delegated significant lawmaking authority to the Judiciary in determining how that standard should operate in practice. Today the majority crafts a perf",
+      "type": "dissent"
+    },
+    {
+      "author_id": null,
+      "cites": [],
+      "download_url": null,
+      "id": 9435033,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-27T06:04:52.606808Z",
+        "date_created": "2023-08-03T00:01:22.252942Z"
+      },
+      "ordering_key": 3,
+      "per_curiam": false,
+      "sha1": "",
+      "snippet": "\nJustice Alito,\nconcurring in the judgment.\nI agree with the Court that the Seventh Circuit used an erroneously low standard for determining whether the plaintiffs in this case satisfied their burden of pleading “with particularity facts giving rise to a strong inference that the defendant acted with the required state of mind.” 15 U. S. C. § 78u-4(b)(2). I further agree that the case should be remanded to a",
+      "type": "concurrence-opinion"
+    },
+    {
+      "author_id": null,
+      "cites": [],
+      "download_url": null,
+      "id": 9435032,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-27T06:04:52.603956Z",
+        "date_created": "2023-08-03T00:01:22.250601Z"
+      },
+      "ordering_key": 2,
+      "per_curiam": false,
+      "sha1": "",
+      "snippet": "\nJustice Scalia,\nconcurring in the judgment.\nI fail to see how an inference that is merely “at least as compelling as any opposing inference,” ante, at 314, can conceivably be called what the statute here at issue requires: a “strong inference,” 15 U. S. C. § 78u-4(b)(2). If a jade falcon were stolen from a room to which only A and B had access, could it possibly be said there was a “stron",
+      "type": "concurrence-opinion"
+    },
+    {
+      "author_id": 1213,
+      "cites": [
+        27571,
+        76625,
+        94632,
+        95734,
+        98896,
+        99615,
+        106845,
+        109420,
+        110825,
+        111221,
+        112825,
+        112903,
+        118482,
+        142888,
+        145671,
+        145751,
+        163756,
+        201960,
+        355917,
+        370517,
+        590895,
+        671465,
+        773420,
+        778587,
+        784557,
+        785871,
+        788631,
+        789390,
+        792151,
+        793282,
+        1184099,
+        2504392,
+        2764185
+      ],
+      "download_url": "http://www.supremecourt.gov/opinions/06pdf/06-484.pdf",
+      "id": 145709,
+      "joined_by_ids": [],
+      "local_path": "pdf/2007/06/21/Tellabs_Inc._v._Makor_Issues__Rights_Ltd..pdf",
+      "meta": {
+        "timestamp": "2025-10-24T08:38:41.374865Z",
+        "date_created": "2010-05-06T00:06:49Z"
+      },
+      "ordering_key": null,
+      "per_curiam": false,
+      "sha1": "084c272ce1ae8ff44682fa642a3dfd6e17359f68",
+      "snippet": "\n127 S.Ct. 2499 (2007)\nTELLABS, INC., et al., Petitioners,\nv.\nMAKOR ISSUES & RIGHTS, LTD., et al.\nNo. 06-484.\nSupreme Court of United States.\nArgued March 28, 2007.\nDecided June 21, 2007.\n*2503 Carter G. Phillips, Washington, DC, for petitioners.\nKannon K. Shanmugam, Washington, DC, for the United State",
+      "type": "combined-opinion"
+    },
+    {
+      "author_id": null,
+      "cites": [],
+      "download_url": null,
+      "id": 9435031,
+      "joined_by_ids": [],
+      "local_path": null,
+      "meta": {
+        "timestamp": "2025-10-27T06:04:52.612132Z",
+        "date_created": "2023-08-03T00:01:22.246121Z"
+      },
+      "ordering_key": 1,
+      "per_curiam": false,
+      "sha1": "",
+      "snippet": "\n*313Justice Ginsburg\ndelivered the opinion of the Court.\nThis Court has long recognized that meritorious private actions to enforce federal antifraud securities laws are an essential supplement to criminal prosecutions and civil enforcement actions brought, respectively, by the Department of Justice and the Securities and Exchange Commission (SEC). See, ",
+      "type": "lead-opinion"
+    }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "2006-066",
+  "sibling_ids": [
+    145709,
+    9435031,
+    9435032,
+    9435033,
+    9435034
+  ],
+  "source": "LCU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+}

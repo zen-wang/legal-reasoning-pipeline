@@ -1,0 +1,64 @@
+[
+  {
+    "absolute_url": "/audio/36548/rajaratnam-v-united-states-of/",
+    "caseName": "Rajaratnam v. United States of",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2018-05-14",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "17-1405",
+    "docket_id": 6667741,
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/2440534c-a789-4b72-9a2c-5a0538a1c167/2/doc/17-1405.mp3",
+    "duration": 1441,
+    "file_size_mp3": 8997400,
+    "id": 36548,
+    "judge": "",
+    "local_path": "mp3/2018/05/14/rajaratnam_v._united_states_of_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T09:21:58.334904Z",
+      "date_created": "2018-05-14T20:36:54.844955Z",
+      "score": {
+        "bm25": 13202352000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "26a00dccba9feec12b89ea0266b18237e60cbbcb",
+    "snippet": "Good morning, Your Honors. My name is Christine Chung. I'm from the law firm 70 and Gay, and I represent today the petitioner-appellant Raj Rajaratnam. The government's proof-at-trial encompassed two categories of trades, Your Honors. In one category, Mr. Rajaratnam dealt directly with insiders. That was the majority of trades on which the government put on proof-at-trial, and they are not challenged in this habeas appeal. Then there was another category of trades where Mr. Rajaratnam dealt with",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/31648/rajaratnam-v-united-states-of/",
+    "caseName": "Rajaratnam v. United States of",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2017-09-12",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "17-1405, 17-4111",
+    "docket_id": 6151140,
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/56331ef6-4ad4-4f9a-9db0-ed360348a9aa/5/doc/17-1405%2C%2017-1411.mp3",
+    "duration": 808,
+    "file_size_mp3": 5213486,
+    "id": 31648,
+    "judge": "",
+    "local_path": "mp3/2017/09/12/rajaratnam_v._united_states_of_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T09:48:44.703222Z",
+      "date_created": "2017-09-12T21:34:31.096870Z",
+      "score": {
+        "bm25": 13181270000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "12401288cf2c0dbcf258b7bb37c28563c59b6b79",
+    "snippet": "At this time, we'll hear Rajaratnam v. United States. Oh yeah, this is, thank you. This is the case with Judge Presco, right? That's right, Your Honor. Now I'm, now I'm there. And it is also a case in which our burden on this motion for a certificate of appealability is to establish merely that there is a debatable question. My name is Christine Chung. I represent the petitioner, Raj Rajaratnam. Your Honor, this is an appeal, or a potential appeal, in which the central holding of Newman, a",
+    "source": "C"
+  }
+]

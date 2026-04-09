@@ -1,0 +1,107 @@
+[
+  {
+    "absolute_url": "/audio/96062/balentine-v-united-states/",
+    "caseName": "Balentine v. United States",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Fifth Circuit",
+    "court_citation_string": "5th Cir.",
+    "court_id": "ca5",
+    "dateArgued": "2025-01-08",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "24-40212",
+    "docket_id": 69528172,
+    "download_url": "https://www.ca5.uscourts.gov/OralArgRecordings/24/24-40212_01-08-2025.mp3",
+    "duration": 1460,
+    "file_size_mp3": 8793819,
+    "id": 96062,
+    "judge": "",
+    "local_path": "mp3/2025/01/08/balentine_v._united_states_cl.mp3",
+    "meta": {
+      "timestamp": "2025-02-11T22:52:28.018257Z",
+      "date_created": "2025-01-08T19:31:36.971195Z",
+      "score": {
+        "bm25": 13412390000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "bde2e67f8fedcf3b1f97c31634cd50011033a3cf",
+    "snippet": "and we'll begin with Andrew Matalka. May it please the court, this case presents the question of what a district court can examine to determine whether a FLORA assessment has been discharged. There are three main factual issues that the district court should be allowed to examine in determining jurisdiction. The first is the IRS in this case transformed reported losses into gains and reported hundreds of thousands of dollars of capital gains where there was less than $100 total. Two, the IRS",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/10269/state-of-tennessee-v-latickia-tashay-burgins/",
+    "caseName": "Raymond Heck v. Kenneth Buhler",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Fifth Circuit",
+    "court_citation_string": "5th Cir.",
+    "court_id": "ca5",
+    "dateArgued": "2014-12-03",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "E2014-02110-CCA-R8-CO",
+    "docket_id": 2611312,
+    "download_url": "http://www.ca5.uscourts.gov/OralArgRecordings/14/14-30146_12-3-2014.mp3",
+    "duration": 2661,
+    "file_size_mp3": 16316590,
+    "id": 10269,
+    "judge": "",
+    "local_path": "mp3/2014/12/03/raymond_heck_v._kenneth_buhler_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T12:49:52.775044Z",
+      "date_created": "2014-12-03T23:33:56.384760Z",
+      "score": {
+        "bm25": 13093661000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "cc69cc463cc674d81adab94af1afd32b90d3622c",
+    "snippet": "May it please the court, I'm Claude Raynaud, I'm here with my partner Carol DeVilliers and my client Wayne P. Trish who is seated in the gallery. I hope to spend the 15 minutes that I have allotted for my direct argument on two issues. The first is to address Mr. Trish's status as at most a secondary actor in the securities suit, at most. I mean we even argue that he wasn't even reaches that level. And the second, if I have time, is to address the issue of scienter. There is just no evidence in",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/89573/janus-capital-group-inc-v-first-derivative-traders/",
+    "caseName": "Janus Capital Group, Inc. v. First Derivative Traders",
+    "case_name_full": "",
+    "court": "Supreme Court of the United States",
+    "court_citation_string": "SCOTUS",
+    "court_id": "scotus",
+    "dateArgued": "2010-12-07",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "09-525",
+    "docket_id": 665839,
+    "download_url": "http://www.supremecourt.gov/media/audio/mp3files/09-525.mp3",
+    "duration": 3673,
+    "file_size_mp3": 22128424,
+    "id": 89573,
+    "judge": "",
+    "local_path": "mp3/2010/12/07/janus_capital_group_inc._v._first_derivative_traders_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-22T18:21:12.374640Z",
+      "date_created": "2023-12-13T19:22:01.527729Z",
+      "score": {
+        "bm25": 12967776000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      77,
+      384,
+      1213,
+      1691,
+      1747,
+      2738,
+      2852,
+      3045,
+      3200,
+      8522,
+      15376
+    ],
+    "sha1": "1eb706efad868199acdccee1bea740334a45b8b5",
+    "snippet": "We'll hear argument first this morning, Case 09-525, Janus Capital Group v. First Derivative Traders. Mr. Perry? Mr. Chief Justice, and may it please the Court, affirming the judgment below would authorize private securities fraud class actions against every service provider that participates in the drafting of a public company's prospectus. It is therefore nothing less than a frontal assault on this Court's decisions in Central Bank and Stone Ridge. In those cases, Your Honors, this Court held",
+    "source": "C"
+  }
+]

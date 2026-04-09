@@ -1,0 +1,22 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Goldman Sachs v. Arkansas Teacher Retirement",
+  "cluster_id": 4893422,
+  "case_name_cl": "Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System",
+  "date_filed": "2021-06-21",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "594 U.S. 113",
+    "210 L. Ed. 2d 347",
+    "141 S. Ct. 1951"
+  ],
+  "docket_number": "20-222",
+  "docket_id": 59999713,
+  "judges": "Amy Coney Barrett",
+  "num_opinions": 1,
+  "num_cited_by": 7,
+  "absolute_url": "/opinion/4893422/goldman-sachs-group-inc-v-arkansas-teacher-retirement-system/",
+  "legal_principle": "price impact and class certification",
+  "year": 2021
+}

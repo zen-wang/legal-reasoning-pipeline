@@ -1,0 +1,61 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/9419318/",
+    "id": 9419318,
+    "absolute_url": "/opinion/9419318/ark-tchr-ret-sys-v-goldman-sachs-grp-inc/",
+    "panel": [],
+    "non_participating_judges": [],
+    "docket_id": 65365844,
+    "docket": "https://www.courtlistener.com/api/rest/v4/dockets/65365844/",
+    "sub_opinions": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/9554880/"
+    ],
+    "citations": [
+      {
+        "date_created": "2025-11-17T13:51:50.655761-08:00",
+        "date_modified": "2025-11-17T13:51:50.655771-08:00",
+        "volume": "77",
+        "reporter": "F.4th",
+        "page": "74",
+        "type": 1
+      }
+    ],
+    "cluster_redirections": [],
+    "date_created": "2023-08-10T08:00:33.554591-07:00",
+    "date_modified": "2023-08-10T08:01:27.918186-07:00",
+    "judges": "",
+    "date_filed": "2023-08-10",
+    "date_filed_is_approximate": false,
+    "slug": "ark-tchr-ret-sys-v-goldman-sachs-grp-inc",
+    "case_name_short": "",
+    "case_name": "Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc.",
+    "case_name_full": "",
+    "scdb_id": "",
+    "scdb_decision_direction": null,
+    "scdb_votes_majority": null,
+    "scdb_votes_minority": null,
+    "source": "C",
+    "procedural_history": "",
+    "attorneys": "",
+    "nature_of_suit": "",
+    "posture": "",
+    "syllabus": "",
+    "headnotes": "",
+    "summary": "",
+    "disposition": "",
+    "history": "",
+    "other_dates": "",
+    "cross_reference": "",
+    "correction": "",
+    "citation_count": 15,
+    "precedential_status": "Published",
+    "date_blocked": null,
+    "blocked": false,
+    "filepath_json_harvard": null,
+    "filepath_pdf_harvard": null,
+    "filepath_xml_scan": null,
+    "filepath_pdf_scan": null,
+    "arguments": "",
+    "headmatter": ""
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Dura Pharmaceuticals v. Broudo",
+  "cluster_id": 142888,
+  "case_name_cl": "Dura Pharmaceuticals, Inc. v. Broudo",
+  "date_filed": "2005-04-19",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "161 L. Ed. 2d 577",
+    "125 S. Ct. 1627",
+    "544 U.S. 336",
+    "2005 U.S. LEXIS 3478",
+    "73 U.S.L.W. 4283",
+    "18 Fla. L. Weekly Fed. S 233"
+  ],
+  "docket_number": "03-932",
+  "docket_id": 214725,
+  "judges": "Breyer, Breyek",
+  "num_opinions": 1,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/142888/dura-pharmaceuticals-inc-v-broudo/",
+  "legal_principle": "loss causation pleading standard",
+  "year": 2005
+}

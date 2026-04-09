@@ -1,0 +1,36 @@
+[
+  {
+    "absolute_url": "/audio/94647/lawanda-small-v-allianz-life-insurance-company-of-north-america/",
+    "caseName": "LaWanda Small v. Allianz Life Insurance Company of North America",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Ninth Circuit",
+    "court_citation_string": "9th Cir.",
+    "court_id": "ca9",
+    "dateArgued": "2024-10-21",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "23-55821",
+    "docket_id": 69284620,
+    "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2024/10/21/23-55821.mp3",
+    "duration": 2350,
+    "file_size_mp3": 14179687,
+    "id": 94647,
+    "judge": "TALLMAN, NELSON, BRESS",
+    "local_path": "mp3/2024/10/21/lawanda_small_v._allianz_life_insurance_company_of_north_america_cl.mp3",
+    "meta": {
+      "timestamp": "2025-02-11T22:57:11.062027Z",
+      "date_created": "2024-10-22T00:30:54.083175Z",
+      "score": {
+        "bm25": 13405565000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      3163,
+      14459
+    ],
+    "sha1": "73316a917c53ed730c1ff7e8d57f81e87a2f4a02",
+    "snippet": "Mr. Van Oort. Good morning, Your Honors, and may it please the Court, I'm Aaron Van Oort for Allianz. The central question presented by this appeal is whether people who knowingly and intentionally terminate their policies have to be treated separately from people who unknowingly and accidentally do so. If the answer is yes, if they have to be treated separately, then class certification has to be reversed because that's an individual process of sorting. And the answer is yes. The answer is yes",
+    "source": "C"
+  }
+]

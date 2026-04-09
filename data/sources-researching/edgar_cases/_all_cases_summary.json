@@ -1,0 +1,831 @@
+[
+  {
+    "source": "SEC EDGAR",
+    "name": "Tesla, Inc.",
+    "cik": 1318605,
+    "sic": "3711",
+    "sic_description": "Motor Vehicles & Passenger Car Bodies",
+    "tickers": [
+      "TSLA"
+    ],
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "stateOfIncorporation": "TX",
+    "why_selected": "Musk tweets 證券詐欺",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "10-K",
+        "date": "2026-01-29",
+        "accession": "0001628280-26-003952",
+        "filename": "10-K_2026-01-29_tsla-20251231.htm",
+        "description": "10-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-28",
+        "accession": "0001628280-26-003837",
+        "filename": "8-K_2026-01-28_tsla-20260128.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-02",
+        "accession": "0001628280-26-000016",
+        "filename": "8-K_2026-01-02_tsla-20260102.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-11-07",
+        "accession": "0001104659-25-108507",
+        "filename": "8-K_2025-11-07_tm2530590d1_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-10-23",
+        "accession": "0001628280-25-045968",
+        "filename": "10-Q_2025-10-23_tsla-20250930.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-10-22",
+        "accession": "0001628280-25-045861",
+        "filename": "8-K_2025-10-22_tsla-20251022.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-10-02",
+        "accession": "0001628280-25-043530",
+        "filename": "8-K_2025-10-02_tsla-20251002.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-09-05",
+        "accession": "0001104659-25-087862",
+        "filename": "8-K_2025-09-05_tm2525337d1_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-08-04",
+        "accession": "0001104659-25-073263",
+        "filename": "8-K_2025-08-04_tm2522385d1_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-07-24",
+        "accession": "0001628280-25-035806",
+        "filename": "10-Q_2025-07-24_tsla-20250630.htm",
+        "description": "10-Q"
+      }
+    ],
+    "total_filings_available": 1004
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "ENRON CORP/OR/",
+    "cik": 1024401,
+    "sic": "6200",
+    "sic_description": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "tickers": [],
+    "exchanges": [],
+    "stateOfIncorporation": "OR",
+    "why_selected": "會計詐欺典型案例",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "8-K",
+        "date": "2004-11-18",
+        "accession": "0000950129-04-009127",
+        "filename": "8-K_2004-11-18_h20315e8vk.txt",
+        "description": "ENRON CORP. - DATED 11/17/2004"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-11-05",
+        "accession": "0000950129-04-008539",
+        "filename": "8-K_2004-11-05_h19822e8vk.txt",
+        "description": "ENRON CORP. - NOVEMBER 2, 2004"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-10-20",
+        "accession": "0000950129-04-007877",
+        "filename": "8-K_2004-10-20_h19235e8vk.txt",
+        "description": "ENRON CORP.- OCTOBER 13, 2004"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-10-14",
+        "accession": "0000950129-04-007785",
+        "filename": "8-K_2004-10-14_h19089e8vk.txt",
+        "description": "ENRON CORP. - OCTOBER 12, 2004"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-10-01",
+        "accession": "0000950134-04-014392",
+        "filename": "8-K_2004-10-01_h18788e8vk.txt",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-09-16",
+        "accession": "0000950129-04-007090",
+        "filename": "8-K_2004-09-16_h18462e8vk.txt",
+        "description": "ENRON CORP. - SEPTEMBER 13, 2004"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-09-14",
+        "accession": "0000909518-04-000772",
+        "filename": "8-K_2004-09-14_jd9-14_8k.txt",
+        "description": ""
+      },
+      {
+        "form": "8-K",
+        "date": "2004-09-08",
+        "accession": "0000950134-04-013335",
+        "filename": "8-K_2004-09-08_d18257e8vk.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-09-03",
+        "accession": "0000950129-04-006818",
+        "filename": "8-K_2004-09-03_h18231e8vk.txt",
+        "description": "ENRON CORP.- SEPTEMBER 1, 2004"
+      },
+      {
+        "form": "8-K",
+        "date": "2004-09-03",
+        "accession": "0000909518-04-000761",
+        "filename": "8-K_2004-09-03_jd9-2_8k.txt",
+        "description": ""
+      }
+    ],
+    "total_filings_available": 351
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "Luckin Coffee Inc.",
+    "cik": 1767582,
+    "sic": "5810",
+    "sic_description": "Retail-Eating & Drinking Places",
+    "tickers": [
+      "LKNCY"
+    ],
+    "exchanges": [
+      "OTC"
+    ],
+    "stateOfIncorporation": "E9",
+    "why_selected": "跨國財務造假",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "6-K",
+        "date": "2026-03-27",
+        "accession": "0001104659-26-035718",
+        "filename": "6-K_2026-03-27_tm269670d1_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "20-F",
+        "date": "2026-03-27",
+        "accession": "0001104659-26-035712",
+        "filename": "20-F_2026-03-27_lk-20251231x20f.htm",
+        "description": "20-F"
+      },
+      {
+        "form": "6-K",
+        "date": "2026-02-26",
+        "accession": "0001104659-26-020056",
+        "filename": "6-K_2026-02-26_tm267034d1_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "6-K",
+        "date": "2025-11-17",
+        "accession": "0001104659-25-112938",
+        "filename": "6-K_2025-11-17_tm2531137d1_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "6-K",
+        "date": "2025-07-30",
+        "accession": "0001104659-25-071947",
+        "filename": "6-K_2025-07-30_tm2521712d1_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "6-K",
+        "date": "2025-04-29",
+        "accession": "0001104659-25-040611",
+        "filename": "6-K_2025-04-29_tm2513101d1_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "6-K",
+        "date": "2025-03-31",
+        "accession": "0001104659-25-029635",
+        "filename": "6-K_2025-03-31_tm2429371d2_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "20-F",
+        "date": "2025-03-31",
+        "accession": "0001410578-25-000546",
+        "filename": "20-F_2025-03-31_lk-20241231x20f.htm",
+        "description": "20-F"
+      },
+      {
+        "form": "6-K",
+        "date": "2025-02-20",
+        "accession": "0001104659-25-015436",
+        "filename": "6-K_2025-02-20_tm256832d1_6k.htm",
+        "description": "FORM 6-K"
+      },
+      {
+        "form": "6-K",
+        "date": "2024-10-30",
+        "accession": "0001104659-24-112404",
+        "filename": "6-K_2024-10-30_tm2426781d1_6k.htm",
+        "description": "FORM 6-K"
+      }
+    ],
+    "total_filings_available": 229
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "Nikola Corp",
+    "cik": 1731289,
+    "sic": "3711",
+    "sic_description": "Motor Vehicles & Passenger Car Bodies",
+    "tickers": [
+      "NKLAQ"
+    ],
+    "exchanges": [
+      null
+    ],
+    "stateOfIncorporation": "DE",
+    "why_selected": "SPAC 詐欺",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "10-K",
+        "date": "2025-10-09",
+        "accession": "0001731289-25-000065",
+        "filename": "10-K_2025-10-09_nkla-20241231.htm",
+        "description": "10-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-03-26",
+        "accession": "0001731289-25-000017",
+        "filename": "8-K_2025-03-26_nkla-20250324.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-02-21",
+        "accession": "0001731289-25-000011",
+        "filename": "8-K_2025-02-21_nkla-20250219.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-02-19",
+        "accession": "0001731289-25-000004",
+        "filename": "8-K_2025-02-19_nkla-20250218.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2024-12-09",
+        "accession": "0001193125-24-272939",
+        "filename": "8-K_2024-12-09_d564705d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2024-11-21",
+        "accession": "0001731289-24-000261",
+        "filename": "8-K_2024-11-21_nkla-20241121.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2024-11-14",
+        "accession": "0001193125-24-257936",
+        "filename": "8-K_2024-11-14_d899673d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2024-10-31",
+        "accession": "0001193125-24-248788",
+        "filename": "8-K_2024-10-31_d865726d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2024-10-31",
+        "accession": "0001731289-24-000253",
+        "filename": "10-Q_2024-10-31_nkla-20240930.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2024-10-31",
+        "accession": "0001731289-24-000248",
+        "filename": "8-K_2024-10-31_nkla-20241031.htm",
+        "description": "8-K"
+      }
+    ],
+    "total_filings_available": 1012
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "WELLS FARGO & COMPANY/MN",
+    "cik": 72971,
+    "sic": "6021",
+    "sic_description": "National Commercial Banks",
+    "tickers": [
+      "WFC",
+      "WFC-PY",
+      "WFC-PL",
+      "WFC-PC",
+      "WFCNP",
+      "WFC-PA",
+      "WFC-PD",
+      "WFC-PZ"
+    ],
+    "exchanges": [
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "NYSE",
+      "OTC",
+      "NYSE",
+      "NYSE",
+      "NYSE"
+    ],
+    "stateOfIncorporation": "DE",
+    "why_selected": "假帳戶醜聞",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "8-K",
+        "date": "2026-03-18",
+        "accession": "0001193125-26-113964",
+        "filename": "8-K_2026-03-18_d32842d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-03-17",
+        "accession": "0001193125-26-110792",
+        "filename": "8-K_2026-03-17_d246307d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-02-25",
+        "accession": "0001193125-26-068647",
+        "filename": "8-K_2026-02-25_d116246d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-K",
+        "date": "2026-02-24",
+        "accession": "0000072971-26-000133",
+        "filename": "10-K_2026-02-24_wfc-20251231_d2.htm",
+        "description": "FORM 10-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-02-13",
+        "accession": "0001839882-26-009703",
+        "filename": "8-K_2026-02-13_wfc-8k_021326.htm",
+        "description": "CURRENT REPORT"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-29",
+        "accession": "0000072971-26-000061",
+        "filename": "8-K_2026-01-29_wfc-20260127.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-23",
+        "accession": "0001193125-26-021049",
+        "filename": "8-K_2026-01-23_d95043d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-22",
+        "accession": "0000072971-26-000011",
+        "filename": "8-K_2026-01-22_wfc-20260113.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-14",
+        "accession": "0000072971-26-000009",
+        "filename": "8-K_2026-01-14_wfc-20260114.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-12",
+        "accession": "0001193125-25-316858",
+        "filename": "8-K_2025-12-12_d937850d8k.htm",
+        "description": "8-K"
+      }
+    ],
+    "total_filings_available": 1009
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "Servabo, Inc.",
+    "cik": 1605326,
+    "sic": "",
+    "sic_description": "",
+    "tickers": [],
+    "exchanges": [],
+    "stateOfIncorporation": "IL",
+    "why_selected": "排放數據造假",
+    "num_filings_downloaded": 0,
+    "downloaded_files": [],
+    "total_filings_available": 1
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "BOEING CO",
+    "cik": 12927,
+    "sic": "3721",
+    "sic_description": "Aircraft",
+    "tickers": [
+      "BA",
+      "BA-PA"
+    ],
+    "exchanges": [
+      "NYSE",
+      "NYSE"
+    ],
+    "stateOfIncorporation": "DE",
+    "why_selected": "737 MAX 安全隱瞞",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "10-K",
+        "date": "2026-01-30",
+        "accession": "0001628280-26-004357",
+        "filename": "10-K_2026-01-30_ba-20251231.htm",
+        "description": "10-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-27",
+        "accession": "0001628280-26-003518",
+        "filename": "8-K_2026-01-27_ba-20260127.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-08",
+        "accession": "0001628280-25-055825",
+        "filename": "8-K_2025-12-08_ba-20251208.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-03",
+        "accession": "0001628280-25-055122",
+        "filename": "8-K_2025-12-03_ba-20251201.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-10-29",
+        "accession": "0001628280-25-047023",
+        "filename": "10-Q_2025-10-29_ba-20250930.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-10-29",
+        "accession": "0001628280-25-046915",
+        "filename": "8-K_2025-10-29_ba-20251029.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-08-28",
+        "accession": "0000012927-25-000064",
+        "filename": "8-K_2025-08-28_ba-20250825.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-07-29",
+        "accession": "0000012927-25-000062",
+        "filename": "10-Q_2025-07-29_ba-20250630.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-07-29",
+        "accession": "0000012927-25-000058",
+        "filename": "8-K_2025-07-29_ba-20250729.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-07-03",
+        "accession": "0000012927-25-000050",
+        "filename": "8-K_2025-07-03_ba-20250627.htm",
+        "description": "8-K"
+      }
+    ],
+    "total_filings_available": 1001
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "Bausch Health Companies Inc.",
+    "cik": 885590,
+    "sic": "2834",
+    "sic_description": "Pharmaceutical Preparations",
+    "tickers": [
+      "BHC"
+    ],
+    "exchanges": [
+      "NYSE"
+    ],
+    "stateOfIncorporation": "NJ",
+    "why_selected": "藥品定價詐欺",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "8-K",
+        "date": "2026-03-02",
+        "accession": "0001193125-26-085755",
+        "filename": "8-K_2026-03-02_d938319d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-K",
+        "date": "2026-02-19",
+        "accession": "0000885590-26-000023",
+        "filename": "10-K_2026-02-19_bhc-20251231.htm",
+        "description": "10-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-02-18",
+        "accession": "0000885590-26-000020",
+        "filename": "8-K_2026-02-18_bhc-20260218.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-23",
+        "accession": "0000885590-26-000008",
+        "filename": "8-K_2026-01-23_bhc-20260123.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-13",
+        "accession": "0000885590-26-000005",
+        "filename": "8-K_2026-01-13_bhc-20260113.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-02",
+        "accession": "0000950103-26-000052",
+        "filename": "8-K_2026-01-02_dp239511_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-29",
+        "accession": "0000885590-25-000059",
+        "filename": "8-K_2025-12-29_bhc-20251226.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-23",
+        "accession": "0000885590-25-000057",
+        "filename": "8-K_2025-12-23_bhc-20251223.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-12",
+        "accession": "0000950103-25-016089",
+        "filename": "8-K_2025-12-12_dp238710_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-09",
+        "accession": "0000885590-25-000054",
+        "filename": "8-K_2025-12-09_bhc-20251208.htm",
+        "description": "8-K"
+      }
+    ],
+    "total_filings_available": 1000
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "Kraft Heinz Co",
+    "cik": 1637459,
+    "sic": "2030",
+    "sic_description": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+    "tickers": [
+      "KHC"
+    ],
+    "exchanges": [
+      "Nasdaq"
+    ],
+    "stateOfIncorporation": "DE",
+    "why_selected": "SEC 調查會計問題",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "8-K",
+        "date": "2026-02-18",
+        "accession": "0001637459-26-000013",
+        "filename": "8-K_2026-02-18_khc-20260211.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-K",
+        "date": "2026-02-12",
+        "accession": "0001637459-26-000009",
+        "filename": "10-K_2026-02-12_khc-20251227.htm",
+        "description": "10-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-02-11",
+        "accession": "0001637459-26-000006",
+        "filename": "8-K_2026-02-11_khc-20260211.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-20",
+        "accession": "0001104659-26-005094",
+        "filename": "8-K_2026-01-20_tm263487d1_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-12-16",
+        "accession": "0001193125-25-319938",
+        "filename": "8-K_2025-12-16_d95367d8k.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-10-29",
+        "accession": "0001637459-25-000166",
+        "filename": "10-Q_2025-10-29_khc-20250927.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-10-29",
+        "accession": "0001637459-25-000164",
+        "filename": "8-K_2025-10-29_khc-20251029.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-10-22",
+        "accession": "0001637459-25-000160",
+        "filename": "8-K_2025-10-22_khc-20251022.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-09-02",
+        "accession": "0000950142-25-002336",
+        "filename": "8-K_2025-09-02_eh250673203_8k.htm",
+        "description": "FORM 8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-07-30",
+        "accession": "0001637459-25-000152",
+        "filename": "10-Q_2025-07-30_khc-20250628.htm",
+        "description": "10-Q"
+      }
+    ],
+    "total_filings_available": 834
+  },
+  {
+    "source": "SEC EDGAR",
+    "name": "Under Armour, Inc.",
+    "cik": 1336917,
+    "sic": "2300",
+    "sic_description": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+    "tickers": [
+      "UAA",
+      "UA"
+    ],
+    "exchanges": [
+      "NYSE",
+      "NYSE"
+    ],
+    "stateOfIncorporation": "MD",
+    "why_selected": "營收認列調查",
+    "num_filings_downloaded": 10,
+    "downloaded_files": [
+      {
+        "form": "8-K",
+        "date": "2026-02-12",
+        "accession": "0001336917-26-000029",
+        "filename": "8-K_2026-02-12_ua-20260211.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2026-02-06",
+        "accession": "0001336917-26-000027",
+        "filename": "10-Q_2026-02-06_ua-20251231.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-02-06",
+        "accession": "0001336917-26-000025",
+        "filename": "8-K_2026-02-06_ua-20260206.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2026-01-15",
+        "accession": "0001336917-26-000017",
+        "filename": "8-K_2026-01-15_ua-20260114.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-11-14",
+        "accession": "0001336917-25-000200",
+        "filename": "8-K_2025-11-14_ua-20251113.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-11-06",
+        "accession": "0001336917-25-000198",
+        "filename": "10-Q_2025-11-06_ua-20250930.htm",
+        "description": "10-Q"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-11-06",
+        "accession": "0001336917-25-000193",
+        "filename": "8-K_2025-11-06_ua-20251103.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-09-08",
+        "accession": "0001336917-25-000173",
+        "filename": "8-K_2025-09-08_ua-20250903.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "8-K",
+        "date": "2025-08-19",
+        "accession": "0001336917-25-000147",
+        "filename": "8-K_2025-08-19_ua-20250818.htm",
+        "description": "8-K"
+      },
+      {
+        "form": "10-Q",
+        "date": "2025-08-08",
+        "accession": "0001336917-25-000136",
+        "filename": "10-Q_2025-08-08_ua-20250630.htm",
+        "description": "10-Q"
+      }
+    ],
+    "total_filings_available": 1001
+  }
+]

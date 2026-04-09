@@ -1,0 +1,84 @@
+{
+  "assignedTo": "Jeffrey Cavender",
+  "assigned_to_id": 8766,
+  "attorney": [
+    "William A. Rountree",
+    "Caitlyn Powers",
+    "Lindsay P. S. Kolba"
+  ],
+  "attorney_id": [
+    10275952,
+    10275953,
+    10275954
+  ],
+  "caseName": "J.D. SAC Consulting LLC",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": "11",
+  "court": "United States Bankruptcy Court, N.D. Georgia",
+  "court_citation_string": "Bankr. N.D. Ga.",
+  "court_id": "ganb",
+  "dateArgued": null,
+  "dateFiled": "2025-04-17",
+  "dateTerminated": null,
+  "docketNumber": "25-54195",
+  "docket_absolute_url": "/docket/69906683/jd-sac-consulting-llc/",
+  "docket_id": 69906683,
+  "firm": [
+    "Rountree Leitman Klein & Geer, LLC",
+    "Office of the U.S. Trustee"
+  ],
+  "firm_id": [
+    756012,
+    83287
+  ],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-04-18T17:31:48.332791Z",
+    "date_created": "2025-04-17T18:05:16.344246Z",
+    "score": {
+      "bm25": 855.6602
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "1272566",
+  "party": [
+    "United States Trustee",
+    "J.D. SAC Consulting LLC",
+    "Gary M. Murphey"
+  ],
+  "party_id": [
+    15356436,
+    15356437,
+    15356438
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/69906683/1/jd-sac-consulting-llc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Voluntary Petition (Chapter 11) for Non-Individual Subchapter V Filed by William A. Rountree of Rountree Leitman Klein & Geer, LLC on behalf of J.D. SAC Consulting LLC. Chapter 11 Subchapter V Plan Due by 07/16/2025. (Rountree, William)",
+      "docket_entry_id": 422701432,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-04-17",
+      "entry_number": 1,
+      "filepath_local": "recap/gov.uscourts.ganb.1272566/gov.uscourts.ganb.1272566.1.0.pdf",
+      "id": 436740377,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-08-21T04:27:06.422641Z",
+        "date_created": "2025-04-17T18:05:17.496483Z"
+      },
+      "pacer_doc_id": "054087026305",
+      "page_count": 11,
+      "short_description": "Initial Docs01: Voluntary Petition (Chapter 11)",
+      "snippet": " Fill in thisCase   25-54195-jwc\n              information                   Doc 1\n                          to identify the case:            Filed 04/17/25 Entered 04/17/25 13:48:36                              Desc Main\n                                                           Document      Page 1 of 11\n     United States Bankruptcy Court for the:\n\n     ____________________ District of _________________\n     Northern District of Georgia (State)\n\n                                               "
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": "Murphey, Gary M."
+}

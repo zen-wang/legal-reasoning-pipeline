@@ -1,0 +1,157 @@
+{
+  "assignedTo": "Marilyn L. Huff",
+  "assigned_to_id": 1545,
+  "attorney": [
+    "Lamar Ellis",
+    "Energetic Psychoanalytic Institute and Training School Inc."
+  ],
+  "attorney_id": [
+    6882816,
+    6882817
+  ],
+  "caseName": "Ellis v. Madoff",
+  "case_name_full": "",
+  "cause": "28:1331sv Fed. Question:  Securities Violation",
+  "chapter": null,
+  "court": "District Court, S.D. California",
+  "court_citation_string": "S.D. Cal.",
+  "court_id": "casd",
+  "dateArgued": null,
+  "dateFiled": "2010-06-17",
+  "dateTerminated": "2010-07-15",
+  "docketNumber": "3:10-cv-01295",
+  "docket_absolute_url": "/docket/5994273/ellis-v-madoff/",
+  "docket_id": 5994273,
+  "firm": [
+    "Lamar Ellis"
+  ],
+  "firm_id": [
+    22984
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-03-03T23:03:48.285126Z",
+    "date_created": "2017-04-29T13:13:31.664597Z",
+    "score": {
+      "bm25": 835.5516
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "326309",
+  "party": [
+    "Thadarine McIntosh",
+    "Energetic Psychoanalytic Institute and Training School Inc.",
+    "Investment Securities LLC",
+    "Pioneer Investment Firm",
+    "Moody Rating Agency",
+    "Lamelli LTD Partnership",
+    "AMSOUTH Bank",
+    "Deposit Guaranty National Bank",
+    "Dr. Lamar Ellis Charitable Remainder Trust",
+    "Lamar Ellis' Trust",
+    "Regions Bank",
+    "Lamar Ellis Revocable Trust",
+    "Lamar Ellis",
+    "Fitch Rating LTD",
+    "United States Securities and Exchange Commission",
+    "Standard and Poor's Rating Agency",
+    "Bernard L. Madoff"
+  ],
+  "party_id": [
+    10507748,
+    10507749,
+    10507750,
+    10507751,
+    10507752,
+    10507753,
+    10507754,
+    10507755,
+    10507756,
+    10507757,
+    10507758,
+    10507759,
+    10507760,
+    10507761,
+    10507762,
+    10507763,
+    10507764
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/5994273/1/ellis-v-madoff/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "COMPLAINT with Jury Demand against AMSOUTH Bank, Deposit Guaranty National Bank, Fitch Rating LTD, Investment Securities LLC, Bernard Madoff, Thadarine McIntosh, Moody Rating Agency, Pioneer Investment Firm, Regions Bank, Standard and Poor's Rating Agency, United States Securities and Exchange Commission (Filing fee $ 350.00 - Fee not paid, IFP Pending.), filed by Lamar Ellis, Dr. Lamar Ellis Charitable Remainder Trust, Lamar Ellis' Trust, Lamar Ellis Revocable Trust, Lamelli LTD Partnership, Energetic Psychoanalytical Institute and Training School Inc..(yeb) Modified on 6/18/2010 to correct party names (yeb) (mam). (Main Document 1 replaced on 6/21/2010) (yeb). (Entered: 06/18/2010)",
+      "docket_entry_id": 157753636,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2010-06-17",
+      "entry_number": 1,
+      "filepath_local": null,
+      "id": 162851345,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-11-13T07:57:19.403423Z",
+        "date_created": "2021-03-05T08:26:04.676651Z"
+      },
+      "pacer_doc_id": "03704642197",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/5994273/8/ellis-v-madoff/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "ORDER granting 7 Motion for Leave to File First Amended Complaint. The Court dismisses from this case parties not named in the First Amended Complaint the following parties: Dr. Lamar Ellis Charitable Remainder Trust, Lamar Ellis Trust, Lamar Ellis Revocable Trust, Lamelli LTD Partnership, Energetic Psychoanalytic Institute and Training School Inc., Pioneer Investment Firm, United States Securities and Exchange Commission, Moody Rating Agency, Fitch Rating Ltd., and Standard and Poors Rating Agency. The Court DISMISSES Plaintiffs First Amended Complaint pursuant to Fed. R. Civ. P. 12(b)(6) for failure to state a claim. Signed by Judge Marilyn L. Huff on 07/15/2010. (All non-registered users served via U.S. Mail Service)(ag) (av1). (Entered: 07/16/2010)",
+      "docket_entry_id": 157753642,
+      "document_number": 8,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2010-07-15",
+      "entry_number": 8,
+      "filepath_local": null,
+      "id": 162851351,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-11-13T07:57:19.403423Z",
+        "date_created": "2021-03-05T08:26:04.873187Z"
+      },
+      "pacer_doc_id": "03704720695",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/5994273/4/ellis-v-madoff/",
+      "attachment_number": null,
+      "cites": [
+        104598,
+        250797,
+        442925,
+        762241
+      ],
+      "description": " ORDER (1) Denying (Doc.  2 ) Motion for Leave to Proceed in Forma Pauperis Without Prejudice; (2) Directing Plaintiff to Pay the Filing Fee; Denying (Doc.  3 ) Motion to Appoint Counsel Without Prejudice.  If Plaintiff seeks to continue with this act ion, he must, no later than 30 days from the date this Order is filed, pay the $350.00 filing fee. If Plaintiff fails to comply with this Order, the Court will dismiss the case. Signed by Judge Marilyn L. Huff on 6/21/2010.  (All non-registered users served via U.S. Mail Service)(cap)(jrl).",
+      "docket_entry_id": 19312510,
+      "document_number": 4,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2010-06-21",
+      "entry_number": 4,
+      "filepath_local": "recap/gov.uscourts.casd.326309/gov.uscourts.casd.326309.4.0.pdf",
+      "id": 20165554,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-11-13T07:57:19.041764Z",
+        "date_created": "2017-04-29T13:13:31.691181Z"
+      },
+      "pacer_doc_id": "03704651966",
+      "page_count": 4,
+      "short_description": "",
+      "snippet": " Case 3:10-cv-01295-H-JMA Document 4 Filed 06/21/10 PageID.19 Page 1 of 4\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8                         UNITED STATES DISTRICT COURT\n 9                      SOUTHERN DISTRICT OF CALIFORNIA\n10\n11    LAMAR ELLIS; DR. LAMAR ELLIS                        CASE NO. 10-CV-1295-H (JMA)\n      CHARITABLE REMAINDER TRUST;\n12    LAMAR ELLIS’ TRUST; LAMAR                           ORDER\n      ELLIS REVOCABLE TRUST;\n13    LAMELLI LTD PARTNERSHIP; and                        (1) DENYING WITH"
+    }
+  ],
+  "referredTo": "Jan M Adler",
+  "referred_to_id": 10034,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

@@ -1,0 +1,128 @@
+{
+  "assignedTo": "Loretta A. Preska",
+  "assigned_to_id": 2623,
+  "attorney": [
+    "Jeremy Alan Lieberman"
+  ],
+  "attorney_id": [
+    6693477
+  ],
+  "caseName": "Lim v. Citigroup Inc.",
+  "case_name_full": "",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "chapter": null,
+  "court": "District Court, S.D. New York",
+  "court_citation_string": "S.D.N.Y.",
+  "court_id": "nysd",
+  "dateArgued": null,
+  "dateFiled": "2020-12-09",
+  "dateTerminated": null,
+  "docketNumber": "1:20-cv-10360",
+  "docket_absolute_url": "/docket/18727504/lim-v-citigroup-inc/",
+  "docket_id": 18727504,
+  "firm": [
+    "Pomerantz LLP"
+  ],
+  "firm_id": [
+    27679
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-05-13T22:07:51.688507Z",
+    "date_created": "2020-12-09T18:03:26.454547Z",
+    "score": {
+      "bm25": 1236.5818
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "550150",
+  "party": [
+    "Michael L. Corbat",
+    "John C. Gerspach",
+    "Mark A. L. Mason",
+    "Timothy Lim",
+    "Citigroup Inc."
+  ],
+  "party_id": [
+    10208930,
+    10208931,
+    10208932,
+    10208933,
+    10208934
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/18727504/1/lim-v-citigroup-inc/",
+      "attachment_number": null,
+      "cites": [
+        9424854
+      ],
+      "description": "COMPLAINT against Citigroup Inc., Michael L. Corbat, John C. Gerspach, Mark A. L. Mason. (Filing Fee $ 402.00, Receipt Number ANYSDC-22955216)Document filed by Timothy Lim..(Lieberman, Jeremy) (Entered: 12/09/2020)",
+      "docket_entry_id": 149231719,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-12-09",
+      "entry_number": 1,
+      "filepath_local": "recap/gov.uscourts.nysd.550150/gov.uscourts.nysd.550150.1.0.pdf",
+      "id": 154022080,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-12-22T13:35:42.133426Z",
+        "date_created": "2020-12-09T18:03:29.310182Z"
+      },
+      "pacer_doc_id": "127028129587",
+      "page_count": 32,
+      "short_description": "Complaint",
+      "snippet": "       Case 1:20-cv-10360-LAP              Document 1     Filed 12/09/20       Page 1 of 32\n\n\n\n\n                            UNITED STATES DISTRICT COURT\n                           SOUTHERN DISTRICT OF NEW YORK\n\nTIMOTHY LIM, individually and on                     Case No.\nbehalf of all others similarly situated,\n\n                                Plaintiff,           CLASS ACTION\n\n                      v.\n                                                     COMPLAINT FOR VIOLATIONS\nCITIGROUP INC.,"
+    },
+    {
+      "absolute_url": "/docket/18727504/16/lim-v-citigroup-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "MEMORANDUM OPINION AND ORDER. For the reasons stated above, PSP's motion, 20-cv-9132, Dkt. No. 37, is granted. Pursuant to Federal Rule of Civil Procedure 42(a), Case No. 20-cv-9132, and any pending, previously or subsequently filed, removed, or transferred actions that are related to the claims asserted in the above-captioned action, including Case No. 20-cv-10360, are hereby CONSOLIDATED for all purposes. The Consolidated Action shall be captioned as \"In re Citigroup Securities Litigation,\" and the file shall be maintained under Master File No. 20-cv-9132. Public Sector Pension Investment Board is APPOINTED to serve as Lead Plaintiff pursuant to Section 27(a)(3)(B) of the Securities Act of 1933, 15 U.S.C. § 77z-1(a)(3)(B), and Section 21D(a)(3)(B) of the Securities Exchange Act of 1934, 15 U.S.C. § 78u-4(a)(3)(B), as amended by the Private Securities Litigation Reform Act of 1995, 15 U.S.C. § 78u-4, in the Consolidated Action. PSP's choice of counsel is APPROVED, and Bleichmar Fonti & Auld LLP are APPOINTED as Lead Counsel for the Class. This resolves 20-cv-9132, Dkt. Nos. 18, 21, 25, 26, 31, and 37. The Clerk is respectfully directed to close case number 20-cv-9573, per Dkt. No. 13. So ordered. re: (21 in 1:20-cv-09132-AJN, 21 in 1:20-cv-09132-AJN, 21 in 1:20-cv-09132-AJN) MOTION to Consolidate Cases 1:20-cv-09573 and 20-cv-10360. MOTION to Appoint Iron Workers Local 580 Joint Funds to serve as lead plaintiff(s). MOTION to Approve Lead Counsel filed by Iron Workers Local 580 Joint Funds, (37 in 1:20-cv-09132-AJN, 37 in 1:20-cv-09132-AJN, 37 in 1:20-cv-09132-AJN) MOTION to Appoint Public Sector Pension Investment Board to serve as lead plaintiff(s). MOTION to Appoint Counsel Bleichmar Fonti & Auld LLP. MOTION to Consolidate Cases 1:20-cv-09573, 1:20-cv-10360 filed by PUBLIC SECTOR PENSION INVESTMENT BOARD, (25 in 1:20-cv-09132-AJN, 25 in 1:20-cv-09132-AJN, 25 in 1:20-cv-09132-AJN) MOTION to Appoint Counsel. MOTION to Appoint KBC Asset Management NV and Pembroke Pines Firefighters & Police Officers Pension Fund to serve as lead plaintiff(s). MOTION to Consolidate Cases 1:20-cv-9132; 1:20-cv-9573; 1:20-cv-10360 filed by KBC Asset Management NV, Pembroke Pines Firefighters & Police Officers Pension Fund, (18 in 1:20-cv-09132-AJN, 18 in 1:20-cv-09132-AJN, 18 in 1:20-cv-09132-AJN) MOTION to Appoint Counsel The Rosen Law Firm, P.A. MOTION to Appoint Dale Townsend and John Corso to serve as lead plaintiff(s). MOTION to Consolidate Cases 1:20-cv-09132; 1:20-cv-09573; 1:20-cv-10360; and filed by Dale Townsend, John Corso, (31 in 1:20-cv-09132-AJN, 31 in 1:20-cv-09132-AJN, 31 in 1:20-cv-09132-AJN) MOTION to Consolidate Cases 1:20-cv-09132-AJN; 1:20-cv-09573-AJN; 1:20-cv-10360-AJN. MOTION to Appoint Construction Laborers Pension Trust for Southern California to serve as lead plaintiff(s). MOTION to Appoint Counsel filed by Construction Laborers Pension Trust for Southern California, (26 in 1:20-cv-09132-AJN, 26 in 1:20-cv-09132-AJN, 26 in 1:20-cv-09132-AJN) MOTION to Appoint Counsel. MOTION to Appoint Rabi Ghosh to serve as lead plaintiff(s). MOTION to Consolidate Cases 1:20-cv-09132, 1:20-cv-09573, 1:20-cv-10360 filed by Rabi Ghosh. (Signed by Judge Alison J. Nathan on 2/4/2021) Filed In Associated Cases: 1:20-cv-09132-AJN, 1:20-cv-09573-AJN, 1:20-cv-10360-AJN (rjm). (Entered: 02/04/2021)",
+      "docket_entry_id": 154858780,
+      "document_number": 16,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2021-02-04",
+      "entry_number": 16,
+      "filepath_local": null,
+      "id": 159918449,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-12-29T15:42:50.688340Z",
+        "date_created": "2021-02-04T21:34:37.931146Z"
+      },
+      "pacer_doc_id": "127028475492",
+      "page_count": null,
+      "short_description": "Memorandum & Opinion",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/18727504/10/lim-v-citigroup-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "RULE 7.1 CORPORATE DISCLOSURE STATEMENT. No Corporate Parent. Document filed by Citigroup Inc...(Nelles, Sharon) (Entered: 01/22/2021)",
+      "docket_entry_id": 153695446,
+      "document_number": 10,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2021-01-22",
+      "entry_number": 10,
+      "filepath_local": null,
+      "id": 158738687,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-12-29T15:42:50.585084Z",
+        "date_created": "2021-01-23T01:02:03.543373Z"
+      },
+      "pacer_doc_id": "127028394837",
+      "page_count": null,
+      "short_description": "Rule 7.1 Corporate Disclosure Statement",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

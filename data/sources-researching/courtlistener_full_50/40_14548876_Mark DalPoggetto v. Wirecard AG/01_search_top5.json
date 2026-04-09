@@ -1,0 +1,781 @@
+[
+  {
+    "assignedTo": "Fernando Manzano Olguin",
+    "assigned_to_id": 2465,
+    "attorney": [
+      "Reed R Kathrein",
+      "Lucas E Gilmore",
+      "Michael J Kahn",
+      "Danielle Smith",
+      "Laurence M. Rosen",
+      "Brian Michael Lutz"
+    ],
+    "attorney_id": [
+      5904643,
+      5904644,
+      5904645,
+      5904646,
+      5904647,
+      9811871
+    ],
+    "caseName": "Mark DalPoggetto v. Wirecard AG",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, C.D. California",
+    "court_citation_string": "C.D. Cal.",
+    "court_id": "cacd",
+    "dateArgued": null,
+    "dateFiled": "2019-02-08",
+    "dateTerminated": "2020-10-08",
+    "docketNumber": "2:19-cv-00986",
+    "docket_absolute_url": "/docket/14548876/mark-dalpoggetto-v-wirecard-ag/",
+    "docket_id": 14548876,
+    "firm": [
+      "Gibson Dunn Crutcher LLP",
+      "Gibson Dunn and Crutcher LLP",
+      "Hagen Berman Sobol Shapiro LLP",
+      "Rosen Law Firm PA",
+      "Hagens Berman Sobol Shapiro"
+    ],
+    "firm_id": [
+      279393,
+      25923,
+      5445,
+      15734,
+      14551
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-07T04:55:31.187983Z",
+      "date_created": "2019-02-13T07:23:00.368479Z",
+      "score": {
+        "bm25": 1306.5413
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "736484",
+    "party": [
+      "Mark DalPoggetto",
+      "Susanne Steidl",
+      "Alexander von Knoop",
+      "Wirecard AG",
+      "Burkhard Ley",
+      "Ernst & Young GmbH Wirtschaftspruefungsgesellschaft",
+      "Jan Marsalek",
+      "Wulf Matthias",
+      "Markus Braun",
+      "Lawrence Gallagher"
+    ],
+    "party_id": [
+      4589735,
+      4589736,
+      4589737,
+      4589738,
+      4589739,
+      4589740,
+      4589741,
+      9834634,
+      9834635,
+      8836862
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/14548876/71/mark-dalpoggetto-v-wirecard-ag/",
+        "attachment_number": null,
+        "cites": [
+          687400
+        ],
+        "description": "NOTICE of Plaintiff's Failure to Oppose Defendants' Motion to Dismiss First Amended Class Action Complaint for Violation of the Federal Securities Laws filed by Defendants Markus Braun, Burkhard Ley, Jan Marsalek, Susanne Steidl, Wirecard AG, Alexander von Knoop. (Attachments: # 1 Declaration of Brian M. Lutz ISO Notice)(Lutz, Brian) (Entered: 04/14/2020)",
+        "docket_entry_id": 126269187,
+        "document_number": 71,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-04-14",
+        "entry_number": 71,
+        "filepath_local": "recap/gov.uscourts.cacd.736484/gov.uscourts.cacd.736484.71.0.pdf",
+        "id": 130727264,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-09T21:57:33.743703Z",
+          "date_created": "2020-04-16T14:53:48.217711Z"
+        },
+        "pacer_doc_id": "031032870462",
+        "page_count": 3,
+        "short_description": "Notice (Other)",
+        "snippet": "            Case 2:19-cv-00986-FMO-SK Document 71 Filed 04/14/20 Page 1 of 3 Page ID #:2163\n\n\n            1    BRIAN M. LUTZ, SBN 255976\n                   blutz@gibsondunn.com\n            2    MICHAEL J. KAHN, SBN 303289\n                   mjkahn@gibsondunn.com\n            3    GIBSON, DUNN & CRUTCHER LLP\n                 555 Mission Street, Suite 3000\n            4    San Francisco, CA 94105-0921\n                 Telephone: 415.393.8200\n            5    Facsimile: 415.393.8306\n            6   "
+      },
+      {
+        "absolute_url": "/docket/14548876/76/mark-dalpoggetto-v-wirecard-ag/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE of Plaintiff's Failure to Oppose Defendants' Motion to Dismiss First Amended Class Action Complaint for Violation of the Federal Securities Laws filed by Defendants Markus Braun, Burkhard Ley, Jan Marsalek, Susanne Steidl, Wirecard AG, Alexander von Knoop. (Lutz, Brian) (Entered: 05/01/2020)",
+        "docket_entry_id": 129284907,
+        "document_number": 76,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-05-01",
+        "entry_number": 76,
+        "filepath_local": null,
+        "id": 133773301,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-10T09:14:43.485860Z",
+          "date_created": "2020-05-18T13:49:11.128004Z"
+        },
+        "pacer_doc_id": "031032996354",
+        "page_count": null,
+        "short_description": "Notice (Other)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/14548876/34/1/mark-dalpoggetto-v-wirecard-ag/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "STIPULATION to Continue Deadline for Defendants' Motion to Dismiss filed by Defendant Wirecard AG. (Attachments: # 1 Proposed Order)(Lutz, Brian) (Entered: 05/31/2019)",
+        "docket_entry_id": 85391588,
+        "document_number": 34,
+        "document_type": "Attachment",
+        "entry_date_filed": "2019-05-31",
+        "entry_number": 34,
+        "filepath_local": "recap/gov.uscourts.cacd.736484/gov.uscourts.cacd.736484.34.1.pdf",
+        "id": 89552656,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-03T11:37:58.418880Z",
+          "date_created": "2019-06-03T12:11:41.346676Z"
+        },
+        "pacer_doc_id": "031030728767",
+        "page_count": 2,
+        "short_description": "",
+        "snippet": "           Case 2:19-cv-00986-FMO-SK Document 34-1 Filed 05/31/19 Page 1 of 2 Page ID #:475\n\n\n            1\n            2\n            3\n            4\n            5\n            6\n            7\n            8                         UNITED STATES DISTRICT COURT\n            9                        CENTRAL DISTRICT OF CALIFORNIA\n          10     MARK DALPOGGETTO, Individually          CASE NO. 2:19-cv-00986-FMO-SK\n                 and On Behalf of All Others Similarly\n          11     Situated,     "
+      }
+    ],
+    "referredTo": "Steve Kim",
+    "referred_to_id": 9053,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Ashely M. Chan",
+    "assigned_to_id": 8933,
+    "attorney": [
+      "JOEL C. HAIMS, ESQUIRE",
+      "GEORGE M. CONWAY",
+      "ANDREW KISSNER",
+      "JEFFREY KURTZMAN",
+      "JOHN HENRY SCHANNE",
+      "KATHERINE RICHARDSON ARNOULD, ESQUIRE",
+      "TODD M. GOREN"
+    ],
+    "attorney_id": [
+      6989120,
+      6989121,
+      6970658,
+      6970659,
+      6970661,
+      6970662,
+      8401448
+    ],
+    "caseName": "Wirecard AG and Dr. Michael Jaffe",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": "15",
+    "court": "United States Bankruptcy Court, E.D. Pennsylvania",
+    "court_citation_string": "Bankr. E.D. Pa.",
+    "court_id": "paeb",
+    "dateArgued": null,
+    "dateFiled": "2021-04-08",
+    "dateTerminated": null,
+    "docketNumber": "21-10936",
+    "docket_absolute_url": "/docket/59804032/wirecard-ag-and-dr-michael-jaffe/",
+    "docket_id": 59804032,
+    "firm": [
+      "Morrison & Foerster LLP",
+      "Willkie Farr & Gallagher LLP",
+      "DOJ-Ust, Office of the United States Trustee, Robert N.C. Nix Federal Building",
+      "Kurtzman Steady, LLC",
+      "US Department of Justice US Trustee",
+      "Morrison &Foerster LLP",
+      "Kurtzman Steady LLC"
+    ],
+    "firm_id": [
+      184355,
+      1891,
+      683239,
+      125962,
+      681514,
+      4562,
+      763413
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-18T15:08:58.536959Z",
+      "date_created": "2021-04-08T13:05:52.790308Z",
+      "score": {
+        "bm25": 659.6201
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "500643",
+    "party": [
+      "Wirecard AG,  (Company Representative: Dr. Michael Jaffé)",
+      "Dr. Michael Jaffe",
+      "United States Trustee"
+    ],
+    "party_id": [
+      10636961,
+      10636962,
+      10636963
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/59804032/5/wirecard-ag-and-dr-michael-jaffe/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: DECLARATION OF RECHTSANWALT PROF. DR. CHRISTIAN C.-W. PLEISTER IN SUPPORT OF VERIFIED PETITION FOR RECOGNITION OF A FOREIGN MAIN PROCEEDING AND APPLICATION FOR RELATED RELIEF Filed by JEFFREY KURTZMAN on behalf of Dr. Michael Jaffe (related document(s)2, 1). (KURTZMAN, JEFFREY) (Entered: 04/08/2021)",
+        "docket_entry_id": 161016785,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-04-08",
+        "entry_number": 5,
+        "filepath_local": "recap/gov.uscourts.paeb.500643/gov.uscourts.paeb.500643.5.0.pdf",
+        "id": 166157212,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-03-18T15:08:58.531530Z",
+          "date_created": "2021-04-08T13:05:52.802699Z"
+        },
+        "pacer_doc_id": "152030562524",
+        "page_count": 36,
+        "short_description": "Declaration",
+        "snippet": "    Case 21-10936-elf        Doc 5     Filed 04/08/21 Entered 04/08/21 08:57:37                   Desc Main\n                                       Document      Page 1 of 36\n\n\n\nJeffrey Kurtzman\nKURTZMAN STEADY, LLC\n401 S. 2nd Street, Suite 200\nPhiladelphia, PA 19147\nTelephone: (215) 883-1600\n\n-and-\n\nTodd M. Goren (pro hac vice pending)\nAndrew Kissner (pro hac vice pending)\nKatherine Richardson Arnould (pro hac vice pending)\nMORRISON & FOERSTER LLP\n250 West 55th Street\nNew York, NY 10019\nTelephon"
+      },
+      {
+        "absolute_url": "/docket/59804032/2/wirecard-ag-and-dr-michael-jaffe/",
+        "attachment_number": null,
+        "cites": [
+          858089,
+          1038461,
+          1542608,
+          1812124,
+          8497703
+        ],
+        "description": "Support Document VERIFIED PETITION FOR RECOGNITION OF A FOREIGN MAIN PROCEEDING AND APPLICATION FOR RELATED RELIEF, AND MEMORANDUM OF LAW IN SUPPORT THEREOF Filed by JEFFREY KURTZMAN on behalf of Dr. Michael Jaffe (related document(s)1). (KURTZMAN, JEFFREY) (Entered: 04/08/2021)",
+        "docket_entry_id": 161016792,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-04-08",
+        "entry_number": 2,
+        "filepath_local": "recap/gov.uscourts.paeb.500643/gov.uscourts.paeb.500643.2.0.pdf",
+        "id": 166157219,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-03-18T15:08:58.531530Z",
+          "date_created": "2021-04-08T13:05:53.005020Z"
+        },
+        "pacer_doc_id": "152030562500",
+        "page_count": 39,
+        "short_description": "Support Document",
+        "snippet": "    Case 21-10936-elf      Doc 2     Filed 04/08/21 Entered 04/08/21 08:52:11                 Desc Main\n                                     Document      Page 1 of 39\n\n\n\nJeffrey Kurtzman\nKURTZMAN STEADY, LLC\n401 S. 2nd Street, Suite 200\nPhiladelphia, PA 19147\nTelephone: (215) 883-1600\n\n-and-\n\nTodd M. Goren (pro hac vice pending)\nAndrew Kissner (pro hac vice pending)\nKatherine Richardson Arnould (pro hac vice pending)\nMORRISON & FOERSTER LLP\n250 West 55th Street\nNew York, NY 10019\nTelephone: 212"
+      },
+      {
+        "absolute_url": "/docket/59804032/3/wirecard-ag-and-dr-michael-jaffe/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: DECLARATION OF TODD M. GOREN IN SUPPORT OF CHAPTER 15 PETITION FOR RECOGNITION AS FOREIGN MAIN PROCEEDING Filed by JEFFREY KURTZMAN on behalf of Dr. Michael Jaffe (related document(s)2, 1). (KURTZMAN, JEFFREY) (Entered: 04/08/2021)",
+        "docket_entry_id": 161016788,
+        "document_number": 3,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-04-08",
+        "entry_number": 3,
+        "filepath_local": "recap/gov.uscourts.paeb.500643/gov.uscourts.paeb.500643.3.0.pdf",
+        "id": 166157215,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-03-18T15:08:58.531530Z",
+          "date_created": "2021-04-08T13:05:52.921574Z"
+        },
+        "pacer_doc_id": "152030562507",
+        "page_count": 38,
+        "short_description": "Declaration",
+        "snippet": "    Case 21-10936-elf       Doc 3      Filed 04/08/21 Entered 04/08/21 08:54:14                   Desc Main\n                                       Document      Page 1 of 38\n\n\n\nJeffrey Kurtzman\nKURTZMAN STEADY, LLC\n401 S. 2nd Street, Suite 200\nPhiladelphia, PA 19147\nTelephone: (215) 883-1600\n\n-and-\n\nTodd M. Goren (pro hac vice pending)\nAndrew Kissner (pro hac vice pending)\nKatherine Richardson Arnould (pro hac vice pending)\nMORRISON & FOERSTER LLP\n250 West 55th Street\nNew York, NY 10019\nTelephon"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": ""
+  },
+  {
+    "assignedTo": "Anita Blumstein Brody",
+    "assigned_to_id": 404,
+    "attorney": [
+      "Danielle Smith",
+      "LAWRENCE F. STENGEL",
+      "Brian Michael Lutz",
+      "Lucas E Gilmore",
+      "Michael J Kahn",
+      "REED KATHREIN",
+      "LAURENCE MATTHEW ROSEN"
+    ],
+    "attorney_id": [
+      6604749,
+      6604750,
+      6604751,
+      8023568,
+      6604753,
+      6604754,
+      6604755
+    ],
+    "caseName": "IN RE: WIRECARD AG SECURITIES LITIGATION",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, E.D. Pennsylvania",
+    "court_citation_string": "E.D. Pa.",
+    "court_id": "paed",
+    "dateArgued": null,
+    "dateFiled": "2020-10-09",
+    "dateTerminated": "2026-02-18",
+    "docketNumber": "2:20-cv-05017",
+    "docket_absolute_url": "/docket/18524795/in-re-wirecard-ag-securities-litigation/",
+    "docket_id": 18524795,
+    "firm": [
+      "The Rosen Law Firm Pa",
+      "Gibson Dunn Crutcher LLP",
+      "Saxton and Stump",
+      "Hagens Berman Sobol Shapiro",
+      "Gibson Dunn and Crutcher",
+      "Gibson Dunn and Crutcher LLP"
+    ],
+    "firm_id": [
+      230273,
+      25923,
+      5445,
+      380966,
+      26537,
+      14551
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2026-02-21T15:49:00.912124Z",
+      "date_created": "2020-10-09T19:27:45.028389Z",
+      "score": {
+        "bm25": 553.4235
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "576756",
+    "party": [
+      "Thanh Sam",
+      "WIRECARD AG",
+      "WULF MATTHIAS",
+      "JAN MARSALEK",
+      "SUSANNE STEIDL",
+      "LAWRENCE GALLAGHER",
+      "MARKUS BRAUN",
+      "ALEXANDER VON KNOOP",
+      "Mark DalPoggetto",
+      "BURKHARD LEY",
+      "ERNST & YOUNG GMBH WIRTSCHAFTSPRUEFUNGSGESELLSCHAFT"
+    ],
+    "party_id": [
+      10057907,
+      10057908,
+      10057909,
+      10057910,
+      10057911,
+      10057912,
+      10057913,
+      10057914,
+      10057915,
+      10057916,
+      10057917
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/18524795/93/in-re-wirecard-ag-securities-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER THAT CIVIL ACTION NO 20-CV-5017 IS CONSOLIDATED WITH CIVIL ACTION 20-CV-3326. EVERY PLEADING IN THIS ACTION MUST HAVE THE CAPTION IN RE WIRECARD AG SECURITIES LITIGATION, CIVIL ACTION 20-CV-3326; ETC.. SIGNED BY HONORABLE ANITA B. BRODY ON 10/17/20. 10/19/20 ENTERED AND E-MAILED, NOT MAILED TO COUNSEL.(JL ) (Entered: 10/19/2020)",
+        "docket_entry_id": 144413350,
+        "document_number": 93,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-10-19",
+        "entry_number": 93,
+        "filepath_local": "recap/gov.uscourts.paed.576756/gov.uscourts.paed.576756.93.0_1.pdf",
+        "id": 149118939,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-21T15:49:00.892267Z",
+          "date_created": "2020-10-19T14:17:50.868229Z"
+        },
+        "pacer_doc_id": "153019104439",
+        "page_count": 1,
+        "short_description": "Order",
+        "snippet": "          Case 2:20-cv-05017-AB Document 93 Filed 10/19/20 Page 1 of 1\n\n\n\n\n                IN THE UNITED STATES DISTRICT COURT FOR THE\n                     EASTERN DISTRICT OF PENNSYLVANIA\n\n\n                                                    No. 2:20-cv-03326-AB\n IN RE: WIRECARD AG SECURITIES\n LITIGATION                                         CLASS ACTION\n\n\n\n\n THIS DOCUMENT RELATES TO:\n Brown v. Wirecard AG, No. 2:20-cv-03326-\n AB\n DalPoggetto v Wirecard AG, No. 2:20-cv-\n 05017-TJS\n\n\n         "
+      },
+      {
+        "absolute_url": "/docket/18524795/82/in-re-wirecard-ag-securities-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Second AMENDED COMPLAINT against Defendants Markus Braun, Burkhard Ley, Jan Marsalek, Susanne Steidl, Wirecard AG, Alexander von Knoop, Wulf Matthias, Ernst & Young GmbH amending Amended Complaint/Petition,, 62, Complaint (Attorney Civil Case Opening) 1, filed by Lead Plaintiff Lawrence Gallagher (Attachments: # 1 Exhibit 1, # 2 Exhibit 2, # 3 Exhibit 3, # 4 Exhibit 4, # 5 Exhibit 5)(Kathrein, Reed) [Transferred from California Central on 10/9/2020.] (Entered: 08/14/2020)",
+        "docket_entry_id": 144404383,
+        "document_number": 82,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-08-14",
+        "entry_number": 82,
+        "filepath_local": "recap/gov.uscourts.paed.576756/gov.uscourts.paed.576756.82.0.pdf",
+        "id": 149109900,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-21T15:49:00.892267Z",
+          "date_created": "2020-10-19T13:13:22.336532Z"
+        },
+        "pacer_doc_id": "153019086974",
+        "page_count": 115,
+        "short_description": "Amended Complaint",
+        "snippet": "         Case 2:20-cv-05017-AB Document 82 Filed 08/14/20 Page 1 of 115\n\n\n\n\n 1   Reed R. Kathrein (139304)\n     Danielle Smith (291237)\n 2\n     Lucas E. Gilmore (250893)\n 3   HAGENS BERMAN SOBOL SHAPIRO LLP\n     715 Hearst Avenue, Suite 202\n 4\n     Berkeley, CA 94710\n 5   Telephone: (510) 725-3000\n 6\n     Facsimile: (510) 725-3001\n     reed@hbsslaw.com\n 7   danielles@hbsslaw.com\n 8\n     lucasg@hbsslaw.com\n\n 9   Counsel for Lead Plaintiff Lawrence Gallagher\n10   [Additional counsel listed on sign"
+      },
+      {
+        "absolute_url": "/docket/18524795/62/in-re-wirecard-ag-securities-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "First AMENDED COMPLAINT against Defendants Markus Braun, Burkhard Ley, Jan Marsalek, Susanne Steidl, Wirecard AG, Alexander von Knoop amending Complaint (Attorney Civil Case Opening) 1, filed by Lead Plaintiff Lawrence Gallagher (Attachments: # 1 Exhibit 1, # 2 Exhibit 2, # 3 Exhibit 3, # 4 Exhibit 4, # 5 Exhibit 5, # 6 Exhibit 6, # 7 Exhibit 7, # 8 Exhibit 8, # 9 Exhibit 9, # 10 Exhibit 10, # 11 Exhibit 11, # 12 Exhibit 12, # 13 Exhibit 13, # 14 Exhibit 14, # 15 Exhibit 15, # 16 Exhibit 16, # 17 Exhibit 17)(Kathrein, Reed) [Transferred from California Central on 10/9/2020.] (Entered: 02/14/2020)",
+        "docket_entry_id": 144404363,
+        "document_number": 62,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-02-14",
+        "entry_number": 62,
+        "filepath_local": "recap/gov.uscourts.paed.576756/gov.uscourts.paed.576756.62.0.pdf",
+        "id": 149109880,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-21T15:49:00.892267Z",
+          "date_created": "2020-10-19T13:13:21.846657Z"
+        },
+        "pacer_doc_id": "153019086847",
+        "page_count": 80,
+        "short_description": "Amended Complaint",
+        "snippet": "          Case 2:20-cv-05017-AB Document 62 Filed 02/14/20 Page 1 of 80\n\n\n\n\n 1   Reed R. Kathrein (139304)\n     Danielle Smith (291237)\n 2\n     Lucas E. Gilmore (250893)\n 3   HAGENS BERMAN SOBOL SHAPIRO LLP\n     715 Hearst Avenue, Suite 202\n 4\n     Berkeley, CA 94710\n 5   Telephone: (510) 725-3000\n 6\n     Facsimile: (510) 725-3001\n     reed@hbsslaw.com\n 7   danielles@hbsslaw.com\n 8\n     lucasg@hbsslaw.com\n\n 9   Attorneys for Lead Plaintiff Lawrence Gallagher\n10   [Additional counsel listed on si"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "850 Other Statutes: Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Anita Blumstein Brody",
+    "assigned_to_id": 404,
+    "attorney": [
+      "MICHAEL J. QUIRK",
+      "WESLEY A. WONG",
+      "JACOB G. GELMAN",
+      "Craig Singer",
+      "LAWRENCE F. STENGEL",
+      "REED KATHREIN",
+      "AMANDA MACDONALD",
+      "LAURENCE MATTHEW ROSEN",
+      "JOHN H. GEORGE",
+      "DAVID A. STRAITE",
+      "Lee Albert",
+      "GEORGE A. BORDEN",
+      "SHAWN A. WILLIAMS",
+      "CHRISTOPHER A. SEEGER",
+      "Vincent A. Coppola",
+      "Lucas E Gilmore",
+      "PERETZ BRONSTEIN",
+      "JACOB A. GOLDBERG",
+      "Danielle Smith",
+      "JEFFREY L. KODROFF",
+      "STEVEN M. FARINA",
+      "WILLIAM S. NORTON",
+      "HADIYA K. DESHMUKH"
+    ],
+    "attorney_id": [
+      6593178,
+      6610976,
+      6610977,
+      6610978,
+      6698408,
+      6407595,
+      7020471,
+      7020472,
+      7020473,
+      7279560,
+      7279562,
+      7279563,
+      6537175,
+      6537176,
+      9997144,
+      6537179,
+      6540779,
+      6729195,
+      8151160,
+      8151161,
+      8151162,
+      8151163,
+      6504703
+    ],
+    "caseName": "IN RE: WIRECARD AG SECURITIES LITIGATION",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, E.D. Pennsylvania",
+    "court_citation_string": "E.D. Pa.",
+    "court_id": "paed",
+    "dateArgued": null,
+    "dateFiled": "2020-07-07",
+    "dateTerminated": "2026-02-18",
+    "docketNumber": "2:20-cv-03326",
+    "docket_absolute_url": "/docket/17329315/in-re-wirecard-ag-securities-litigation/",
+    "docket_id": 17329315,
+    "firm": [
+      "Glancy Prongay and Murray LLP",
+      "Hagens Berman Sobol Shapiro",
+      "Spector Roseman & Kodroff Pc",
+      "Motley Rice LLC",
+      "Seeger Weiss LLP",
+      "Williams & Connolly LLP",
+      "Pribanic & Pribanic",
+      "Saxton and Stump",
+      "Glancy Prongay Wolke & Rotter LLP",
+      "The Rosen Law Firm Pa",
+      "Bronstein, Gewirtz & Grossman",
+      "Kaplan Fox & Kilsheimer LLP"
+    ],
+    "firm_id": [
+      14048,
+      7841,
+      230273,
+      1001669,
+      380966,
+      226984,
+      182475,
+      751,
+      165167,
+      1158992,
+      744148,
+      308309,
+      2390,
+      14551,
+      441883
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2026-02-21T15:23:37.031377Z",
+      "date_created": "2020-07-07T22:19:44.337766Z",
+      "score": {
+        "bm25": 515.08484
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "573013",
+    "party": [
+      "ALEXANDER VON KNOOP",
+      "CAROL A. BROWN",
+      "JAN MARSALEK",
+      "WIRECARD AG",
+      "LAWRENCE GALLAGHER",
+      "BURKHARD LEY",
+      "MARKUS BRAUN",
+      "Edward Haddad",
+      "ERNST & YOUNG GMBH WIRTSCHAFTSPRUEFUNGSGESELLSCHAFT",
+      "James Nguyen",
+      "Thanh Sam",
+      "Khalad Goheer",
+      "Marco  Foelske",
+      "Sen Gan",
+      "WULF MATTHIAS",
+      "Martin Goldberg",
+      "Ross S. Blust",
+      "Mark DalPoggetto",
+      "SUSANNE STEIDL"
+    ],
+    "party_id": [
+      9938819,
+      9938820,
+      9938821,
+      9938822,
+      9938823,
+      9938824,
+      9938825,
+      9938826,
+      9729355,
+      9729356,
+      9729357,
+      9729358,
+      9729359,
+      9729360,
+      9729361,
+      9729362,
+      9729363,
+      9880779,
+      10708854
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/17329315/60/in-re-wirecard-ag-securities-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "SUGGESTION OF BANKRUPTCY by WIRECARD AG under Chapter Number 15 of the Bankruptcy Code in the Bankruptcy Court for the District of Eastern District of Pennsylvania filed under case number 21-10936-ELF . (Attachments: # 1 Exhibit)(KURTZMAN, JEFFREY) (Entered: 05/10/2021)",
+        "docket_entry_id": 164056560,
+        "document_number": 60,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-05-10",
+        "entry_number": 60,
+        "filepath_local": "recap/gov.uscourts.paed.573013/gov.uscourts.paed.573013.60.0.pdf",
+        "id": 169239800,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-21T15:23:36.976332Z",
+          "date_created": "2021-05-11T00:20:19.599661Z"
+        },
+        "pacer_doc_id": "153019582644",
+        "page_count": 2,
+        "short_description": "Suggestion of Bankruptcy",
+        "snippet": "Case 2:20-cv-03326-AB Document 60 Filed 05/10/21 Page 1 of 2\n\nUNITED STATES DISTRICT COURT\nEASTERN DISTRICT OF PENNSYLVANIA\n\n \n\nCAROL A. BROWN,\nPlaintiff,\n\nv.\nCIVIL ACTION NO. 2:2020-cv-03326-AB\n\nWIRECARD AG, BURKHARD LEY,\nJAN MARSALEK, WULF MATTHIAS,\nALEXANDER VON KNOOP, MARKUS\nBRAUN, SUSANNE STEIDL, and\nERNST & YOUNG GMBH\nWIRTSHAF TSPRUEFUNGSELLSCHAFT,\n\nDefendants.\n\n \n\nSUGGESTION OF BANKRUPTCY\n\nPLEASE TAKE NOTICE that on April 8, 2021, Dr. Michael Jaffe, the duly appointed\ninsolvency administr"
+      },
+      {
+        "absolute_url": "/docket/17329315/1/3/in-re-wirecard-ag-securities-litigation/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "COMPLAINT against MARKUS BRAUN, ERNST & YOUNG GMBH WIRTSCHAFTSPRUEFUNGSGESELLSCHAFT, BURKHARD LEY, JAN MARSALEK, WULF MATTHIAS, SUSANNE STEIDL, ALEXANDER VON KNOOP, WIRECARD AG ( Filing fee $ 400 receipt number 0313-14404999.), filed by CAROL A. BROWN. (Attachments: # 1 Civil Cover Sheet, # 2 Designation Form, # 3 Case Management Track Form)(GOLDBERG, JACOB) (Entered: 07/07/2020)",
+        "docket_entry_id": 134106535,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2020-07-07",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.paed.573013/gov.uscourts.paed.573013.1.3.pdf",
+        "id": 138684203,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-21T15:23:36.976332Z",
+          "date_created": "2020-07-08T11:41:00.569162Z"
+        },
+        "pacer_doc_id": "153018868541",
+        "page_count": 2,
+        "short_description": "Case Management Track Form",
+        "snippet": "               Case 2:20-cv-03326-AB Document 1-3 Filed 07/07/20 Page 1 of 2\n                                  IN THE UNITED STATES DISTRICT COURT\n                               FOR THE EASTERN DISTRICT OF PENNSYLVANIA\n\n                              CASE MANAGEMENT TRACK DESIGNATION FORM\n                                                                               :           CIVIL ACTION\n CAROL A. BROWN Individually and on behalf of all others similarly situated,\n                              "
+      },
+      {
+        "absolute_url": "/docket/17329315/43/in-re-wirecard-ag-securities-litigation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "MOTION to Extend the Time for Service filed by Thanh Sam.Memorandum, Declaration, Certificate of Service. (Attachments: # 1 Memorandum of Law in Support of Lead Plaintiffs Motion to Extend the Time for Service, # 2 Declaration of John H. George in Support of Lead Plaintiffs Motion to Extend Time for Service, # 3 Exhibit 1 - Letter from counsel for plaintiff Brown to Wirecard defendants re Waivers, # 4 Exhibit 2 - Letter from counsel for plaintiff Brown to defendant Ernst & Young re Waiver, # 5 Exhibit 3 - Email from counsel for plaintiff Brown to counsel for defendants in the DalPoggetto Action re Waivers, # 6 Exhibit 4 - Email from counsel for defendants in the DalPoggetto Action to counsel for plaintiff Brown re Waivers, # 7 Text of Proposed Order)(STENGEL, LAWRENCE) (Entered: 10/20/2020)",
+        "docket_entry_id": 144656461,
+        "document_number": 43,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-10-20",
+        "entry_number": 43,
+        "filepath_local": "recap/gov.uscourts.paed.573013/gov.uscourts.paed.573013.43.0.pdf",
+        "id": 149365172,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-02-21T15:23:36.976332Z",
+          "date_created": "2020-10-21T00:30:59.168901Z"
+        },
+        "pacer_doc_id": "153019110565",
+        "page_count": 5,
+        "short_description": "Motion for Miscellaneous Relief",
+        "snippet": "            Case 2:20-cv-03326-AB Document 43 Filed 10/20/20 Page 1 of 5\n\n\n\n\n                            UNITED STATES DISTRICT COURT\n\n                       EASTERN DISTRICT OF PENNSYLVANIA\n\nIn re WIRECARD AG SECURITIES             )   Civ. Action No. 2:20-cv-03326-AB\nLITIGATION                               )\n                                         )   CLASS ACTION\n                                         )\nThis Document Relates To:                )   MOTION TO EXTEND THE TIME FOR\n           "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "Other Statutes: Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Steve Kim",
+    "assigned_to_id": 9053,
+    "attorney": [
+      "Frederick K Taylor",
+      "Julia Sun Choe",
+      "John J Lulejian",
+      "Anthony J Dain"
+    ],
+    "attorney_id": [
+      11197928,
+      11197929,
+      11197930,
+      11197931
+    ],
+    "caseName": "United States v. Benak",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, C.D. California",
+    "court_citation_string": "C.D. Cal.",
+    "court_id": "cacd",
+    "dateArgued": null,
+    "dateFiled": "2025-10-29",
+    "dateTerminated": null,
+    "docketNumber": "2:25-mj-06757",
+    "docket_absolute_url": "/docket/71928807/united-states-v-benak/",
+    "docket_id": 71928807,
+    "firm": [
+      "Quinn Emanuel Urquhart & Sullivan LLP",
+      "Procopio Cory Hargreaves & Savitch LLP",
+      "AUSA Office of US Attorney, Criminal Division US Courthouse"
+    ],
+    "firm_id": [
+      19781,
+      11518,
+      14199
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2026-01-21T21:10:13.656928Z",
+      "date_created": "2025-11-18T21:05:08.542607Z",
+      "score": {
+        "bm25": 104.875725
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "994513",
+    "party": [
+      "USA",
+      "Tunde Benak"
+    ],
+    "party_id": [
+      17173782,
+      17173783
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/71928807/1/united-states-v-benak/",
+        "attachment_number": null,
+        "cites": [
+          7159129
+        ],
+        "description": "COMPLAINT filed as to Defendant Tunde Benak in violation of 18:3184 Provisional Arrest with a view toward Extradition. Approved by Magistrate Judge Steve Kim as to Tunde Benak (1). (mhe) (Main Document 1 replaced on 11/18/2025) (ja). (Entered: 11/06/2025)",
+        "docket_entry_id": 451047099,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-10-29",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.cacd.994513/gov.uscourts.cacd.994513.1.0.pdf",
+        "id": 465881272,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2026-01-21T21:14:39.034595Z",
+          "date_created": "2026-01-21T21:10:14.199872Z"
+        },
+        "pacer_doc_id": "031046269190",
+        "page_count": 16,
+        "short_description": "",
+        "snippet": "Ww NO\n\nOo oO NI HD WwW\n\n10\n11\n12\n13\n14\n15\n16\n17\n18\nLo\n20\nZi.\n\n22\n\nCase 2:25-mJ-06757-SK Document1 Filed 10/29/25 Pagei1lof16 Page ID #:26\n\nLODGED\nCLERK. US DISTRICT COURT\n\n(CENTRAL DOTIUCT OF CALITORIN\nBY: perury\n\nBILAL A. ESSAYLI\n\nFirst Assistant United States Attorney FILED\n\nIAN V . YANNIEB LLO CLERK, U.S. DISTRICT COURT\nAssistant United States Attorney\n\nChief, National Security Division 10/29/2025\nJOHN J. LULEJIAN (Cal. Bar No. 186783) Lr CA\nAssistant United States Attorney py.  Cl€@  peputy\n"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "source": "CourtListener/RECAP",
+  "search_query": "Tesla Securities Litigation",
+  "docket_id": 7643790,
+  "case_name": "In re Tesla Inc. Securities Litigation",
+  "court": "cand",
+  "date_filed": "2018-08-10",
+  "date_terminated": "2023-07-11",
+  "num_entries": 0,
+  "num_pdfs_downloaded": 0,
+  "num_opinion_clusters": 6,
+  "num_opinion_texts": 6,
+  "num_parties": 0,
+  "nature_of_suit": "850 Securities/Commodities",
+  "pacer_case_id": "330489",
+  "ia_link": ""
+}

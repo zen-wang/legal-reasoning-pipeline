@@ -1,0 +1,728 @@
+[
+  {
+    "assignedTo": "April M. Perry",
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "Liu v. Li",
+    "case_name_full": "",
+    "cause": "15:77 Securities Fraud",
+    "chapter": null,
+    "court": "District Court, N.D. Illinois",
+    "court_citation_string": "N.D. Ill.",
+    "court_id": "ilnd",
+    "dateArgued": null,
+    "dateFiled": "2024-07-25",
+    "dateTerminated": null,
+    "docketNumber": "1:24-cv-06422",
+    "docket_absolute_url": "/docket/68977926/liu-v-li/",
+    "docket_id": 68977926,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2026-01-26T09:39:35.144027Z",
+      "date_created": "2024-07-25T18:18:15.151845Z",
+      "score": {
+        "bm25": 1564.8083
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "462011",
+    "party": [
+      "Liu",
+      "Li"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/68977926/42/liu-v-li/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 414537299,
+        "document_number": 42,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-24",
+        "entry_number": 42,
+        "filepath_local": null,
+        "id": 428187798,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2026-01-26T09:39:35.124524Z",
+          "date_created": "2025-01-24T22:16:18.479724Z"
+        },
+        "pacer_doc_id": "067031838498",
+        "page_count": null,
+        "short_description": "Amended Complaint",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 415229967,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-31",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 428908509,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2026-01-26T09:39:35.124524Z",
+          "date_created": "2025-01-31T22:17:59.420471Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Stay",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/68977926/1/liu-v-li/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 397508373,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2024-07-25",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 406682443,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2026-01-26T09:39:35.124524Z",
+          "date_created": "2024-07-25T18:18:15.176393Z"
+        },
+        "pacer_doc_id": "067030848315",
+        "page_count": null,
+        "short_description": "Complaint",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Carol Bagley Amon",
+    "assigned_to_id": 97,
+    "attorney": [
+      "Joshua S Kaufman",
+      "Phillip Kim",
+      "Andrew Brian Clubok"
+    ],
+    "attorney_id": [
+      8648560,
+      8648558,
+      8648559
+    ],
+    "caseName": "Liu v. Foley",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, E.D. New York",
+    "court_citation_string": "E.D.N.Y",
+    "court_id": "nyed",
+    "dateArgued": null,
+    "dateFiled": "2021-08-19",
+    "dateTerminated": "2022-02-10",
+    "docketNumber": "1:21-cv-04687",
+    "docket_absolute_url": "/docket/60220832/liu-v-foley/",
+    "docket_id": 60220832,
+    "firm": [
+      "Latham and Watkins LLP",
+      "The Rosen Law Firm"
+    ],
+    "firm_id": [
+      28784,
+      577442
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-05-28T23:31:48.576811Z",
+      "date_created": "2021-08-20T00:10:29.530182Z",
+      "score": {
+        "bm25": 1324.3066
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "468450",
+    "party": [
+      "Peloton Interactive, Inc.",
+      "Erik Blachford",
+      "Howard Draft",
+      "Pamela Thomas-Graham",
+      "City of New York",
+      "Jill Woodworth",
+      "William Lynch",
+      "Karen Boone",
+      "Jon Callaghan",
+      "John Foley",
+      "Jay Hoag",
+      "Xingqi Liu"
+    ],
+    "party_id": [
+      12911336,
+      12911337,
+      12911338,
+      12911339,
+      12911340,
+      12911341,
+      12911342,
+      12911343,
+      12911344,
+      12911345,
+      12911346,
+      12911347
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER: Pursuant to the Order at 25 in In Re Peloton Interactive, Inc. Derivative Litigation (21-cv-02862) (the \"Derivative Action\"), the following three actions have been consolidated with the Derivative Action: (1) Genack v. Foley (21-cv-4583), (2) Liu v. Foley et al (21-cv-4687), and (3) Franchi v. Blachford et al (21-cv-6544). Accordingly, the Clerk of Court is respectfully directed to consolidate these three actions with the Derivative Action, and to administratively close them out. Ordered by Magistrate Judge Peggy Kuo on 2/10/2022. (O'Neil-Berven, Ryan)",
+        "docket_entry_id": 363410407,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-02-10",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 370173248,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-28T23:31:48.629778Z",
+          "date_created": "2023-08-30T16:22:29.850866Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60220832/5/liu-v-foley/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "SUMMONS Returned Executed by Xingqi Liu. Peloton Interactive, Inc. served on 8/20/2021, answer due 9/10/2021. (Kim, Phillip) (Entered: 08/26/2021)",
+        "docket_entry_id": 173441304,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-08-26",
+        "entry_number": 5,
+        "filepath_local": null,
+        "id": 178757116,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-28T23:31:48.629778Z",
+          "date_created": "2021-08-26T15:23:10.343642Z"
+        },
+        "pacer_doc_id": "123018063995",
+        "page_count": null,
+        "short_description": "Summons Returned Executed",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60220832/1/liu-v-foley/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT against Erik Blachford, Karen Boone, Jon Callaghan, Howard Draft, John Foley, Jay Hoag, William Lynch, Peloton Interactive, Inc., Pamela Thomas-Graham, Jill Woodworth filing fee $ 402, receipt number ANYEDC-14769160 Was the Disclosure Statement on Civil Cover Sheet completed -YES,, filed by Xingqi Liu. (Attachments: # 1 Civil Cover Sheet, # 2 Proposed Summons) (Kim, Phillip) (Entered: 08/19/2021)",
+        "docket_entry_id": 172909971,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-08-19",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 178217922,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-28T23:31:48.629778Z",
+          "date_created": "2021-08-20T00:10:29.546484Z"
+        },
+        "pacer_doc_id": "123018046559",
+        "page_count": null,
+        "short_description": "Complaint",
+        "snippet": ""
+      }
+    ],
+    "referredTo": "Peggy Kuo",
+    "referred_to_id": 9418,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Lydia Kay Griggsby",
+    "assigned_to_id": null,
+    "attorney": [
+      "Nikoletta Sara Mendrinos",
+      "Robert Thomas Smith"
+    ],
+    "attorney_id": [
+      7121627,
+      6959334
+    ],
+    "caseName": "Liu v. Richman",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, D. Maryland",
+    "court_citation_string": "D. Maryland",
+    "court_id": "mdd",
+    "dateArgued": null,
+    "dateFiled": "2021-03-24",
+    "dateTerminated": "2023-08-22",
+    "docketNumber": "8:21-cv-00754",
+    "docket_absolute_url": "/docket/59796478/liu-v-richman/",
+    "docket_id": 59796478,
+    "firm": [
+      "Murphy Falcon and Murphy PA",
+      "Katten Muchin Rosenman LLP"
+    ],
+    "firm_id": [
+      590780,
+      26758
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-05-06T09:48:48.048934Z",
+      "date_created": "2021-04-06T08:00:08.112499Z",
+      "score": {
+        "bm25": 1291.4686
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "491245",
+    "party": [
+      "David Kabakoff, Ph.D.",
+      "Chau Q Khuong",
+      "Garry A Nicholson",
+      "Steven P Cobourn",
+      "Kevin N. Heller, M.D.",
+      "Elaine V. Jones, Ph.D.",
+      "NextCure, Inc.",
+      "Stephen Webster",
+      "Briggs Morrison, M.D.",
+      "Zach Liu",
+      "Michael Richman",
+      "Tim Shannon, M.D.",
+      "Judith J. Li",
+      "Stella Xu"
+    ],
+    "party_id": [
+      10618112,
+      10618113,
+      10618114,
+      10618115,
+      10618116,
+      10618117,
+      10618118,
+      10618119,
+      10618120,
+      10618121,
+      10618122,
+      10618123,
+      10618110,
+      10618111
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/59796478/1/7/liu-v-richman/",
+        "attachment_number": 7,
+        "cites": [],
+        "description": "COMPLAINT against All Defendants ( Filing fee $ 402 receipt number 0416-9181109.), filed by Zach Liu. (Attachments: # 1 Civil Cover Sheet Civil Cover Sheet, # 2 Attachment Veritication, # 3 Summons NextCure, Inc., # 4 Summons Michael Richman, # 5 Summons Steven P. Cobourn, # 6 Summons Kevin N. Heller, M.D., # 7 Summons Elaine V. Jones, Ph.D., # 8 Summons David Kabakoff, Ph.D., # 9 Summons Chau Q. Khuong, # 10 Summons Judith J. Li, # 11 Summons Briggs Morrison, M.D., # 12 Summons Garry A. Nicholson, # 13 Summons Tim Shannon, M.D., # 14 Summons Stephen Webster, # 15 Summons Stella Xu)(Mendrinos, Nikoletta) (Entered: 03/24/2021)",
+        "docket_entry_id": 160768588,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2021-03-24",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 165905527,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-06T09:48:47.471190Z",
+          "date_created": "2021-04-06T08:00:23.613520Z"
+        },
+        "pacer_doc_id": "093011607947",
+        "page_count": 1,
+        "short_description": "Summons Elaine V. Jones, Ph.D.",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/59796478/1/liu-v-richman/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT against All Defendants ( Filing fee $ 402 receipt number 0416-9181109.), filed by Zach Liu. (Attachments: # 1 Civil Cover Sheet Civil Cover Sheet, # 2 Attachment Veritication, # 3 Summons NextCure, Inc., # 4 Summons Michael Richman, # 5 Summons Steven P. Cobourn, # 6 Summons Kevin N. Heller, M.D., # 7 Summons Elaine V. Jones, Ph.D., # 8 Summons David Kabakoff, Ph.D., # 9 Summons Chau Q. Khuong, # 10 Summons Judith J. Li, # 11 Summons Briggs Morrison, M.D., # 12 Summons Garry A. Nicholson, # 13 Summons Tim Shannon, M.D., # 14 Summons Stephen Webster, # 15 Summons Stella Xu)(Mendrinos, Nikoletta) (Entered: 03/24/2021)",
+        "docket_entry_id": 160768588,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-03-24",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.mdd.491245/gov.uscourts.mdd.491245.1.0.pdf",
+        "id": 165905517,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-05-06T09:48:47.471190Z",
+          "date_created": "2021-04-06T08:00:08.334833Z"
+        },
+        "pacer_doc_id": "093011607940",
+        "page_count": 80,
+        "short_description": "",
+        "snippet": "Case 8:21-cv-00754-GJH Document1 Filed 03/24/21 Page 1 of 80\n\nIN THE UNITED STATES DISTRICT COURT\nDISTRICT OF MARYLAND\n\n(SOUTHERN DIVISION)\n\nZACH LIU, derivatively on behalf of\nNEXTCURE, INC.,\n\nc/o\n\nMurphy, Falcon & Murphy\n1 South Street\n\n30\" Floor,\n\nBaltimore, Maryland 21202\n\nPlaintiff,\nv.\n\nMICHAEL RICHMAN, STEVEN P.\nCOBOURN, KEVIN N. HELLER, M.D.,\nELAINE V. JONES, PH.D., DAVID\nKABAKOFF, PH.D., CHAU Q. KHUONG,\nJUDITH J. LI, BRIGGS MORRISON, M.D.,\nGARRY A. NICHOLSON, TIM SHANNON,\nM.D., STEPHEN W"
+      },
+      {
+        "absolute_url": "/docket/59796478/1/1/liu-v-richman/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "COMPLAINT against All Defendants ( Filing fee $ 402 receipt number 0416-9181109.), filed by Zach Liu. (Attachments: # 1 Civil Cover Sheet Civil Cover Sheet, # 2 Attachment Veritication, # 3 Summons NextCure, Inc., # 4 Summons Michael Richman, # 5 Summons Steven P. Cobourn, # 6 Summons Kevin N. Heller, M.D., # 7 Summons Elaine V. Jones, Ph.D., # 8 Summons David Kabakoff, Ph.D., # 9 Summons Chau Q. Khuong, # 10 Summons Judith J. Li, # 11 Summons Briggs Morrison, M.D., # 12 Summons Garry A. Nicholson, # 13 Summons Tim Shannon, M.D., # 14 Summons Stephen Webster, # 15 Summons Stella Xu)(Mendrinos, Nikoletta) (Entered: 03/24/2021)",
+        "docket_entry_id": 160768588,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2021-03-24",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 165905521,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-06T09:48:47.471190Z",
+          "date_created": "2021-04-06T08:00:23.298494Z"
+        },
+        "pacer_doc_id": "093011607941",
+        "page_count": 1,
+        "short_description": "Civil Cover Sheet Civil Cover Sheet",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "William Francis Kuntz II",
+    "assigned_to_id": 1830,
+    "attorney": [
+      "Matthew M. Riccardi",
+      "Thomas J. McKenna",
+      "Timothy William Brown"
+    ],
+    "attorney_id": [
+      7225372,
+      7225373,
+      7428126
+    ],
+    "caseName": "Liu v. Frohnmayer",
+    "case_name_full": "",
+    "cause": "15:78m(a) Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, E.D. New York",
+    "court_citation_string": "E.D.N.Y",
+    "court_id": "nyed",
+    "dateArgued": null,
+    "dateFiled": "2021-06-30",
+    "dateTerminated": "2023-02-13",
+    "docketNumber": "1:21-cv-03702",
+    "docket_absolute_url": "/docket/60029269/liu-v-frohnmayer/",
+    "docket_id": 60029269,
+    "firm": [
+      "The Brown Law Firm, P.C.",
+      "Gainey & McKenna",
+      "Perkins Coie LLP",
+      "Gainey McKenna & Egleston"
+    ],
+    "firm_id": [
+      592641,
+      657059,
+      597449,
+      693438
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-05-26T16:43:50.219819Z",
+      "date_created": "2021-06-30T22:41:07.762025Z",
+      "score": {
+        "bm25": 1280.2753
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "466267",
+    "party": [
+      "Mark D. Frohnmayer",
+      "Joshua Scherer",
+      "Arcimoto, Inc.",
+      "An An Liu",
+      "Nancy E. Calderon",
+      "Jeff Curl",
+      "Jesse G. Eisler",
+      "Terry L. Becker",
+      "Leslie Carranza",
+      "Douglas M. Campoli"
+    ],
+    "party_id": [
+      11039203,
+      11039204,
+      11039205,
+      11039206,
+      11039207,
+      11039208,
+      11039209,
+      11039210,
+      11039211,
+      11039212
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/60029269/2/liu-v-frohnmayer/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Civil Cover Sheet.. by An An Liu (Brown, Timothy) (Entered: 07/01/2021)",
+        "docket_entry_id": 168841893,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-07-01",
+        "entry_number": 2,
+        "filepath_local": null,
+        "id": 174087717,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-26T16:43:50.253170Z",
+          "date_created": "2021-07-01T14:04:31.429319Z"
+        },
+        "pacer_doc_id": "123017889067",
+        "page_count": null,
+        "short_description": "Proposed Summons/Civil Cover Sheet",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60029269/14/liu-v-frohnmayer/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER DISMISSING CASE: All parties to the above-captioned consolidated action stipulate and agree pursuant to Rule 41(a)(l)(A)(ii) that the action and all claims asserted therein, and each of the actions consolidated thereunder, which were filed and captioned as Liu v. Frohnmayer et al., 1 :21-cv-03702, and Carranza v. Frohnmayer et al., 1:21-cv-03888, be dismissed in their entirety and without prejudice, and that each party to each such action shall bear its own costs, expenses, and fees. So Ordered by Judge William F. Kuntz, II on 2/13/2023. Associated Cases: 1:21-cv-03702-WFK-TAM, 1:21-cv-03888-WFK-TAM (SY) (Entered: 02/13/2023)",
+        "docket_entry_id": 219333467,
+        "document_number": 14,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-02-13",
+        "entry_number": 14,
+        "filepath_local": null,
+        "id": 225400934,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-26T16:43:50.253170Z",
+          "date_created": "2023-02-13T22:25:06.344102Z"
+        },
+        "pacer_doc_id": "123019757078",
+        "page_count": null,
+        "short_description": "Order Dismissing Case",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60029269/1/liu-v-frohnmayer/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT against All Defendants filing fee $ 402, receipt number BNYEDC-14615958 Was the Disclosure Statement on Civil Cover Sheet completed -NO,, filed by An An Liu. (Attachments: # 1 Civil Cover Sheet Civil Cover Sheet, # 2 Proposed Summons Proposed Summons) (Brown, Timothy) (Entered: 06/30/2021)",
+        "docket_entry_id": 168789803,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-06-30",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.nyed.466267/gov.uscourts.nyed.466267.1.0.pdf",
+        "id": 174034878,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-05-26T16:43:50.253170Z",
+          "date_created": "2021-06-30T22:41:07.780162Z"
+        },
+        "pacer_doc_id": "123017888025",
+        "page_count": 65,
+        "short_description": "Complaint",
+        "snippet": "Case 1:21-cv-03702-WFK-TAM Document 1 Filed 06/30/21 Page 1 of 65 PageID #: 1\n\n\n\n\n                           UNITED STATES DISTRICT COURT\n                           EASTERN DISTRICT OF NEW YORK\n\n  AN AN LIU, derivatively on behalf of\n  ARCIMOTO, INC.,\n                                                      Case No.:\n         Plaintiff,\n\n         v.\n\n  MARK D. FROHNMAYER, DOUGLAS M.\n                                                      DEMAND FOR JURY TRIAL\n  CAMPOLI, TERRY L. BECKER, NANCY E.\n  CA"
+      }
+    ],
+    "referredTo": "Taryn A. Merkl",
+    "referred_to_id": 15377,
+    "suitNature": "160 Stockholders Suits",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Gordon P. Gallagher",
+    "assigned_to_id": 9117,
+    "attorney": [
+      "Naumon Amjed",
+      "David Y. Livshiz",
+      "Kathryn A. Reilly",
+      "Danielle S. Myers",
+      "Jeffrey Allen Berens",
+      "Nicholas Angelo Caselli",
+      "Boris Feldman"
+    ],
+    "attorney_id": [
+      8595929,
+      8595930,
+      8595931,
+      8595932,
+      8595933,
+      8595934,
+      8595935
+    ],
+    "caseName": "Liu v. Palantir Technologies Inc.",
+    "case_name_full": "",
+    "cause": "15:78 Securities Exchange Act",
+    "chapter": null,
+    "court": "District Court, D. Colorado",
+    "court_citation_string": "D. Colo.",
+    "court_id": "cod",
+    "dateArgued": null,
+    "dateFiled": "2022-11-04",
+    "dateTerminated": "2025-09-05",
+    "docketNumber": "1:22-cv-02893",
+    "docket_absolute_url": "/docket/65736454/liu-v-palantir-technologies-inc/",
+    "docket_id": 65736454,
+    "firm": [
+      "Freshfields US LLP",
+      "Johnson Fistel LLP",
+      "Freshfields Bruckhaus Deringer US LLP",
+      "Kessler Topaz Meltzer Check LLP",
+      "Robbins Geller Rudman & Dowd LLP",
+      "Wheeler Trigg O'Donnell LLP",
+      "Berens Law LLC"
+    ],
+    "firm_id": [
+      2499,
+      5539,
+      754980,
+      282512,
+      61557,
+      997173,
+      1028535,
+      45723
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-12-31T00:18:22.565329Z",
+      "date_created": "2022-11-07T17:01:16.977800Z",
+      "score": {
+        "bm25": 1228.4608
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "219580",
+    "party": [
+      "Afa Trygg tjanstepensionsaktiebolag",
+      "Alexander C. Karp",
+      "David Glazer",
+      "California Public Employees' Retirement System",
+      "Stephen Cohen",
+      "Palantir Technologies Inc.",
+      "Spencer Rascoff",
+      "WenHong Hu",
+      "Afa Sjuk tjanstepensionsaktiebolag",
+      "Kevin Kawasaki",
+      "Alexandra Schiff",
+      "Peter Thiel",
+      "Afa Liv tjanstepensionsaktiebolag",
+      "Alexander Moore",
+      "Shijun Liu",
+      "Shyam Sankar",
+      "William Ho"
+    ],
+    "party_id": [
+      12838666,
+      12838667,
+      12838668,
+      12838669,
+      12838670,
+      12838671,
+      12838672,
+      12838673,
+      12838674,
+      12838675,
+      12838676,
+      12838677,
+      12838678,
+      12838679,
+      12838680,
+      12838681,
+      12838682
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/65736454/1/liu-v-palantir-technologies-inc/",
+        "attachment_number": null,
+        "cites": [
+          108526
+        ],
+        "description": "COMPLAINT FOR VIOLATIONS OF THE FEDERAL SECURITIES LAWS against Stephen Cohen, David Glazer, William Ho, Alexander C. Karp, Kevin Kawasaki, Alexander Moore, Palantir Technologies Inc., Spencer Rascoff, Shyam Sankar, Alexandra Schiff, Peter Thiel (Filing fee $ 402,Receipt Number ACODC-8763394)Attorney Jeffrey Allen Berens added to party Shijun Liu(pty:pla), filed by Shijun Liu. (Attachments: # 1 Exhibit (Plaintiff Certification), # 2 Civil Cover Sheet, # 3 Summons)(Berens, Jeffrey) (Entered: 11/04/2022)",
+        "docket_entry_id": 361006532,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-11-04",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.cod.219580/gov.uscourts.cod.219580.1.0.pdf",
+        "id": 367631280,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-12-31T00:18:22.561980Z",
+          "date_created": "2023-08-05T23:25:23.032830Z"
+        },
+        "pacer_doc_id": "039010349784",
+        "page_count": 58,
+        "short_description": "",
+        "snippet": "Case No. 1:22-cv-02893-GPG-TPO   Document 1   filed 11/04/22   USDC Colorado   pg\n                                    1 of 58\n\n\n\n\n                      IN THE UNITED STATES DISTRICT COURT\n                         FOR THE DISTRICT OF COLORADO\n\n Civil Action No.\n\n SHIJUN LIU, INDIVIDUALLY AND AS TRUSTEE OF THE LIU FAMILY TRUST 2019,\n Individually and on Behalf of All Others Similarly Situated,\n\n        Plaintiff,\n\n v.\n\n PALANTIR TECHNOLOGIES INC.,\n ALEXANDER KARP,\n STEPHEN COHEN,\n PETER THIEL,\n WI"
+      },
+      {
+        "absolute_url": "/docket/65736454/8/3/liu-v-palantir-technologies-inc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "DECLARATION of Danielle S. Myers regarding MOTION to Consolidate Cases, for Appointment as Lead Plaintiff MOTION to Appoint Counsel 7 by Movant California Public Employees' Retirement System. (Attachments: # 1 Exhibit 1 - PSLRA Notice, # 2 Exhibit 2 - Allegheny Notice, # 3 Exhibit 3 - Liu Notice, # 4 Exhibit 4 - Certification, # 5 Exhibit 5 - Estimate of losses, # 6 Exhibit 6 - Declaration of Matthew Jacobs)(Myers, Danielle) (Entered: 11/14/2022)",
+        "docket_entry_id": 361006537,
+        "document_number": 8,
+        "document_type": "Attachment",
+        "entry_date_filed": "2022-11-14",
+        "entry_number": 8,
+        "filepath_local": null,
+        "id": 373343856,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-12-31T00:18:22.561980Z",
+          "date_created": "2023-10-01T00:20:21.022996Z"
+        },
+        "pacer_doc_id": "039010363747",
+        "page_count": 4,
+        "short_description": "Exhibit 3 - Liu Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/65736454/1/1/liu-v-palantir-technologies-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "COMPLAINT FOR VIOLATIONS OF THE FEDERAL SECURITIES LAWS against Stephen Cohen, David Glazer, William Ho, Alexander C. Karp, Kevin Kawasaki, Alexander Moore, Palantir Technologies Inc., Spencer Rascoff, Shyam Sankar, Alexandra Schiff, Peter Thiel (Filing fee $ 402,Receipt Number ACODC-8763394)Attorney Jeffrey Allen Berens added to party Shijun Liu(pty:pla), filed by Shijun Liu. (Attachments: # 1 Exhibit (Plaintiff Certification), # 2 Civil Cover Sheet, # 3 Summons)(Berens, Jeffrey) (Entered: 11/04/2022)",
+        "docket_entry_id": 361006532,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2022-11-04",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 373343851,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-12-31T00:18:22.561980Z",
+          "date_created": "2023-10-01T00:20:20.599648Z"
+        },
+        "pacer_doc_id": "039010349785",
+        "page_count": 3,
+        "short_description": "Exhibit (Plaintiff Certification)",
+        "snippet": ""
+      }
+    ],
+    "referredTo": "Timothy P. O'Hara",
+    "referred_to_id": null,
+    "suitNature": "850 Securities, Commodities, Exchange",
+    "trustee_str": null
+  }
+]

@@ -1,0 +1,121 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                            SAN JOSE DIVISION                            
+7                                                                         
+8    IN RE FACEBOOK, INC. SECURITIES  Case No.   5:18-cv-01725-EJD        
+
+9    LITIGATION                       ORDER GRANTING LEAVE TO             
+                                      AMEND; ADDRESSING DISCOVERY         
+10                                     AND SCHEDULING                      
+11                                     Re:  ECF No. 217                    
+12                                                                         
+
+13        Before the Court are Lead Plaintiffs’ motion for leave to amend (ECF No. 217) and 
+14   disputes over discovery and case scheduling.  The Court GRANTS the motion for leave to amend 
+15   and tentatively resolves the discovery and scheduling disputes as follows. 
+16        Leave to Amend.  On May 30, 2025, Lead Plaintiffs filed their motion for leave to amend.  
+17   ECF No. 217.  In their motion, Lead Plaintiffs indicated that they sought to amend their complaint 
+18   to include new facts learned through discovery, and they attached a proposed amended complaint.  
+19   ECF No. 217-2.  Defendants do not oppose amendment to the extent it is limited to the proposed 
+20   amended complaint.  ECF No. 222 at 1.  Given Defendants’ non-opposition, the Court GRANTS 
+21   the motion to amend.  See Fed. R. Civ. P. 15(a)(2) (a party may amend her complaint with the 
+22   opposing party’s written consent).  Since Defendants’ non-opposition to amendment is limited to 
+23   the proposed amended complaint, when Lead Plaintiffs file their amended complaint, they are 
+24   limited to the allegations in the proposed amended complaint.  Lead Plaintiffs may not add new 
+25   allegations beyond that absent leave of Court.                        
+26        Discovery Stay.  Although the parties are largely in agreement on the propriety of 
+27   amendment, they disagree on whether discovery should be stayed.  Defendants represent that they 
+1   Litigation Reform Act (PSLRA) should apply.  Lead Plaintiffs contend that discovery should 
+2   remain open to avoid further delay.                                   
+3        Defendants are correct that the PSLRA automatically stays discovery “during the pendency 
+4   of any motion to dismiss.”  15 U.S.C. § 78u-4(b)(3)(B); see also In re Volkswagen “Clean Diesel” 
+5   Mktg., Sales Pracs., & Prods. Liab. Litig., MDL No. 2672, 2016 WL 11796891, at *2 (N.D. Cal. 
+6   June 23, 2016) (the PSLRA stay is automatic).  The stay triggers even when Defendants’ motion 
+7   to dismiss is anticipated but not yet filed.  In re Volkswagen, 2016 WL 11796891, at *2 (collecting 
+8   cases).  And on the face of the PSLRA’s text, this stay applies when any motion to dismiss is 
+9   pending or anticipated, whether or not courts have previously found that some claims were 
+10   sufficiently pled.  See also Petrie v. Elec. Game Card, Inc., 761 F.3d 959, 968 (9th Cir. 2014) 
+11   (“When an amended complaint is filed after an earlier complaint has been upheld (at least in part), 
+12   the bulk of district courts have ruled that filing a motion to dismiss the amended complaint also 
+13   triggers a stay of any discovery.”).1  Therefore, the Court’s order granting leave to amend, coupled 
+14   with Defendants’ express intention to file a motion to dismiss, triggers the stay in this case. 
+15        That is not the end of the story, though.  Upon motion, courts may lift the automatic 
+16   PSLRA stay when “particularized discovery is necessary . . . to prevent undue prejudice.”  
+17   15 U.S.C. § 78u-4(b)(3)(B).  The Court construes Lead Plaintiffs’ reply as a motion to lift the stay.  
+18   See ECF No. 223.  And although Defendants have not yet had the chance to respond to that so-
+19   construed motion, in the interest of efficiency, the Court provides a tentative ruling:  In the unique 
+20   circumstances here, the Court is likely to find that it would be prejudicial to Lead Plaintiffs to stay 
+21   discovery and will likely lift the stay.                              
+22        For one, the Ninth Circuit has already held that Lead Plaintiffs “have stated a claim as to 
+23   some of their challenged statements, and the Supreme Court declined to disturb that holding.”  
+24   Order re Case Scheduling at 1, ECF No. 194.  While a decision upholding part of a complaint does 
+25   not usually justify lifting the stay, Petrie, 761 F.3d at 968, the situation here is unlike the typical 
+26                                                                         
+
+27   1 It is not clear whether this is Petrie’s holding on this matter or if Petrie is describing district 
+    courts’ consensus without adopting that consensus.  Even if this is not Petrie’s holding, this Court 
+1   one where a plaintiff immediately seeks to amend after a district court partially upholds the 
+2   complaint.  Rather, the pleadings here have been extensively tested across three rounds of motion 
+3   briefing as well as on appeal.  ECF Nos. 118, 137, 168, 175.          
+4        Additionally, this case was filed more than seven years ago, and the events underlying this 
+5   case occurred even earlier.  While the parties vigorously litigated the pleadings during that period, 
+6   little other litigation activity occurred.  On top of that, the parties’ proposed briefing schedule for 
+7   the anticipated motion to dismiss make clear that maintaining the stay will add at least another 
+8   half-a-year of discovery delay, and likely much more.  See ECF Nos. 222-1, 223-2 (proposing a 
+9   165-day briefing schedule).  Further delay would be a great disservice and prejudice to the 
+10   putative class, and the public generally, given their strong interest in the “effective enforcement of 
+11   the federal securities laws.”  Arcturus Therapeutics Ltd. v. Payne, No. 18-cv-766, 2018 WL 
+12   2316790, at *9 (S.D. Cal. May 22, 2018) (quoting Taseko Mines Ltd. v. Raging River Cap., 185 F. 
+13   Supp. 3d 87, 94 (D.D.C. 2016)).                                       
+14        The unusual confluence of these two factors—the especially vigorous testing of Lead 
+15   Plaintiffs’ claims up through appeal, and the extraordinary period of time that has passed without 
+16   discovery2—is reason to lift the PSLRA stay.  The Court therefore TENTATIVELY LIFTS the 
+17   PSLRA’s discovery stay.  Since Defendants have not had the opportunity to respond to Lead 
+18   Plaintiffs’ motion to lift the stay, they may file a brief in opposition within ten (10) days of this 
+19   Order, not to exceed five (5) pages.  If Defendants file an opposition, the Court will proceed to 
+20   consider their brief before issuing a final decision.  If Defendants do not file an opposition, this 
+21   tentative ruling shall automatically convert to a final order on the issue after the deadline to file 
+22   passes.                                                               
+23        Case Schedule.  Since the Court is tentatively lifting the discovery stay, it intends to 
+24   maintain all discovery deadlines in its case management order (ECF No. 207).  However, the 
+25   Court VACATES all briefing deadlines in the case management order, other than those related to 
+26                                                                         
+27                                                                         
+    2 There have only been a brief few months of discovery since this case returned from the Supreme 
+    1    discovery motions.  It is best to settle the pleadings before briefing class certification or 
+    2  || dispositive motions. 
+    3          The Court also adopts the parties’ proposed schedule for the anticipated motion to dismiss: 
+    4             e   Lead Plaintiffs shall file their amended complaint within fourteen (14) days of this 
+    5                Order. 
+    6             e   Defendants shall file their anticipated motion to dismiss within sixty (60) days of 
+    7                the filing of Lead Plaintiffs’ amended complaint. 
+    8             e   Any opposition shall be due within sixty (60) days of the filing of Defendants’ 
+    9                motion to dismiss. 
+   10             e   Any reply shall be due within forty-five (45) days of the filing of any opposition. 
+   11          IT IS SO ORDERED. 
+e    12    Dated:  June 17, 2025 
+
+
+
+
+                                                         EDWARD J. DAVILA 
+   15                                                    United States District Judge 
+   16 
+
+ =    17 
+
+Z    18 
+   19 
+   20 
+   21 
+   22 
+   23 
+   24 
+   25 
+   26 
+   27 
+   28 
+        Case No 5°18-cv-017295-FID 

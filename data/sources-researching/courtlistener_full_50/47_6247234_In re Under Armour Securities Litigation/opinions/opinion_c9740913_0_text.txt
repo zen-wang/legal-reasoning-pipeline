@@ -1,0 +1,998 @@
+             IN THE UNITED STATES DISTRICT COURT                        
+                FOR THE DISTRICT OF MARYLAND                            
+
+                            *                                           
+IN RE UNDER ARMOUR                                                        
+SECURITIES LITIGATION         *         Civil Action No. RDB-17-0388      
+
+                            *                                           
+
+*    *    *    *    *    *    *    *    *    *    *    *    *             
+
+                   MEMORANDUM OPINION                                   
+
+   The basic allegation in this putative class action is that Defendants Under Armour, Inc. 
+(“Under Armour”) and its former Chief Executive Officer Kevin Plank (“Plank”) (collectively, 
+“Defendants”) misrepresented the level of consumer demand for Under Armour products. 
+The Consolidated Third Amended Complaint (“TAC”) (ECF No. 153) alleges violations of 
+Sections 10(b), 20(a), and 20A of the Securities and Exchange Act of 1934 (“Exchange Act”). 
+Lead Plaintiff Aberdeen City Council as Administrating Authority for the North East Scotland 
+Pension Fund (“Aberdeen”) and Plaintiffs Monroe County Employees’ Retirement System 
+(“Monroe”) and KBC Asset Management (“KBC”) (collectively, “Plaintiffs”), contend that 
+Defendants misled investors and defrauded the market by falsely claiming that consumer 
+demand for the company’s products was strong between the third quarter of 2015 and the 
+fourth quarter of 2016. (TAC ¶¶ 20, 81, 126, 160–68.) They further allege that the Defendants 
+manipulated the company’s financial results, and otherwise led investors to believe that Under 
+Armour’s 26-consecutive quarter year-over-year growth streak was “intact,” when demand for 
+the company’s products was in decline. (TAC ¶¶ 5–7, 148–68.)              
+   Currently pending is Plaintiffs’ Motion for Class Certification (ECF No. 197). Through 
+this motion, Plaintiffs seek certification of a class of Under Armour investors pursuant to 
+Federal Rules of Civil Procedure 23(a) and 23(b)(3), defined as follows:  
+
+   All persons and entities who purchased or otherwise acquired Under Armour’s 
+   Class  A  and  Class  C  common  stock  between  September  16,  2015,  and 
+   November 1, 2019, inclusive (“Class Period”). Excluded from the Class are 
+   Defendants,  present  or  former  executive  officers  and  directors  of  Under 
+   Armour and their immediate family members (as defined in 17 C.F.R. §229.404, 
+   Instructions (1)(a)(iii) and (1)(b)(ii)).                            
+
+(Pls.’ Mem. Supp. Mot. Class Certification 1, ECF Nos. 197-1, 198 *SEALED*.) Defendants 
+challenge the breadth of this class definition, the adequacy of Aberdeen, Monroe, and KBC as 
+class representatives, and the typicality of all three Plaintiffs’ claims. (Defs.’ Resp. Opp. Mot. 
+Class Certification 1, ECF Nos. 222, 223 *SEALED*.) Specifically, Defendants contend that 
+the putative class must be narrowed to encompass only those class members who traded on 
+the same day as Plank’s alleged sales, (id. at 31–32), that all three Plaintiffs are subject to unique 
+defenses that are not typical of the proposed class, (id. at 8–9), and that KBC’s retention of 
+independent counsel brings its interests in conflict with the unnamed class members, (id. at 26 
+(quoting Fed. R. Civ. P. 23(a)(4))).                                      
+   The parties’ submissions have been reviewed and no hearing is necessary. See Local 
+Rule 105.6 (D. Md. 2018). For the following reasons, this Court is satisfied that the putative 
+class satisfies all elements of Rule 23(a) and Rule 23(b)(3) and is appropriate for certification. 
+Specifically, this Court is satisfied that Aberdeen, Monroe, and KBC possess claims that are 
+typical of the unnamed class members, and that all three Plaintiffs will “fairly and adequately 
+protect the interests of the class.” See Fed. R. Civ. P. 23(a)(4).  Accordingly, Plaintiffs’ Motion 
+for Class Certification (ECF No. 197) is hereby GRANTED.                  
+                        BACKGROUND                                      
+
+   The allegations set forth in Plaintiffs’ operative Third Amended Complaint (ECF No. 
+153) have been addressed in a prior Memorandum Opinion of this Court. See In re Under 
+Armour Securities Litigation, 540 F. Supp. 3d 513, 517–18 (D. Md. 2021). This Court recounts 
+those allegations to provide context for the pending Motion for Class Certification. 
+   Plaintiff Brian Breece filed the original class action Complaint against Under Armour, 
+Kevin Plank, and another executive of the company, Lawrence Molloy on February 10, 2017. 
+(ECF No. 1.) After consolidation with other suits filed against Under Armour, Plank, and 
+numerous  other  defendants,  this  Court  dismissed  the  Plaintiffs’  Consolidated  Amended 
+
+Complaint. (ECF No. 75.) On November 16, 2018 the Lead Plaintiff filed a Consolidated 
+Second Amended Complaint for violations of the federal securities laws (ECF No. 78), naming 
+only Under Armour and Plank as Defendants. That Second Amended Complaint alleged that 
+between September 16, 2015 and January 30, 2017, the Defendants issued a series of false and 
+misleading statements about demand for Under Armour products and the company’s financial 
+condition. (ECF No. 78 ¶¶ 2, 14.)                                         
+
+   On August 19, 2019, this Court dismissed the Second Amended Complaint with 
+prejudice. (ECF No. 98 at 26.) Judgment was entered on September 9, 2019 (ECF No. 101), 
+and on September 17, 2019, the Plaintiffs filed a notice of appeal to the United States Court 
+of Appeals for the Fourth Circuit (ECF No. 102). Based on the reports of the Wall Street 
+Journal that Under Armour was the subject of SEC investigations, Lead Plaintiff moved on 
+November 18, 2019 for an indicative ruling (ECF No. 105), requesting that this Court grant 
+
+the Plaintiffs’ Motion for Relief from the Court's September 9, 2019 Judgment pursuant 
+to Federal Rule of Civil Procedure 60(b), if the Fourth Circuit remanded for that purpose. 
+(ECF No. 106.) On January 22, 2020, this Court granted such request. (ECF No. 139.) 
+Accordingly, this Court held that it would permit Lead Plaintiff to file a third amended 
+
+complaint bringing claims against the Defendants for violations of the Securities Exchange 
+Act of 1934 (the “Exchange Act”). (Id.)                                   
+   On  October  14,  2020,  the  Lead  Plaintiff  filed  the  operative  Consolidated  Third 
+Amended Complaint (“TAC”) (ECF No. 153) for violations of the federal securities laws, 
+alleging that Defendants Under Armour and Plank misled investors during the Class Period 
+by falsely claiming that consumer demand for the company's products was strong between the 
+
+third quarter of 2015 and the fourth quarter of 2016. Plaintiffs allege that the Defendants led 
+investors to believe that Under Armour's 26-consecutive quarter 20% year-over-year revenue 
+growth streak was “safely intact,” when in reality demand for the company's products was in 
+decline. (ECF No. 153 ¶¶ 148-168.) They claim that Defendants manipulated the company's 
+financial results by pulling sales forward from future quarters and engaged in other allegedly 
+suspect sales practices. (Id.) The Plaintiffs assert violations of Section 10(b) of the Securities 
+
+Exchange Act of 1934 (the “Exchange Act”) and Rule 10b–5 promulgated thereunder against 
+Defendants Under Armour and Plank (Count I); violations of Section 20(a) of the Exchange 
+Act, again against both Under Armour and Plank (Count II); and violation of Section 20A of 
+the Exchange Act against solely Defendant Plank (Count III). (Id. ¶¶ 412-436.) 
+   On December 4, 2020, the Defendants filed a Motion to Dismiss (ECF No. 159), 
+alleging that the TAC generally failed to plead adequate factual details to support the Plaintiffs’ 
+
+claims. (Id.) This Court denied that motion, taking judicial notice of a cease-and-desist order 
+that was imposed by the Securities and Exchange Commission (“SEC”) on May 3, 2021 for 
+putative violations of Sections 17(a)(2) and (3) of the Securities Act of 1933 (“Securities Act”). 
+(ECF No. 173, at 5.) Acknowledging that “the SEC Order does not supply dispositive 
+
+evidence in this case,” and that the agency’s findings “are not binding on any other person or 
+entity in this or any other proceeding,” (id. at 11 (citation omitted)), this Court found that the 
+SEC order made plausible the allegations in the Third Amended Complaint (“TAC”) that 
+“Under Armour’s reported financial results . . . did not reflect its natural revenue and revenue 
+growth, and were not indicative of its future financial results,” (id. at 12 (citation omitted).) 
+This Court further concluded that the SEC Order and the allegations in the TAC collectively 
+
+supported “a strong inference of scienter” against both Defendants, as required to state a 
+plausible claim for relief under the Exchange Act. (Id. at 12–13.) Finally, this Court emphasized 
+that the SEC order lent support to Plaintiffs’ core allegations of falsity through its findings 
+that:                                                                     
+   As a result of Under Armour’s failure to disclose the impact of its pull forward 
+   practice on revenue growth, Under Armour’s public statements were materially 
+   misleading. In particular, throughout the Relevant Period, Under Armour made 
+   positive  statements  regarding  its  revenue  growth  rate  and  the  factors 
+   contributing  to  the  revenue  growth  rate  without  disclosing  the  significant 
+   impact on revenue from its use of pull forwards. Under Armour also failed to 
+   disclose that the sales that had been pulled forward were no longer available in 
+   the future quarter.                                                  
+
+(Id. at 13–14 (citation omitted).) Although the SEC’s findings were not, and are not, dispositive 
+in this proceeding, this Court concluded that they lent support to the allegations in the TAC. 
+(See id. at 14 (“The SEC Order and the TAC together ‘specify each statement alleged to have 
+been misleading’ and ‘the reason or reasons why the statement is misleading.’” (quoting 15 
+U.S.C. § 78u-4(b)(1)).)                                                   
+   Following the denial of Defendants’ Motion to Dismiss (ECF No. 159), this Court 
+approved the parties’ Joint Motion to Enter Scheduling Order (ECF No. 175), directing 
+Defendants to file their Motion for Class Certification by December 1, 2021, (ECF No. 176).  
+
+Although discovery remains ongoing in this case, Plaintiffs timely filed the instant motion on 
+December 1, 2021. (ECF No. 197.) This motion is now ripe for review.      
+                    STANDARD OF REVIEW                                  
+
+   To obtain class certification, Plaintiffs must satisfy all four requirements of Federal 
+Rule of Civil Procedure 23(a), and at least one of the requirements of Rule 23(b). Gunnells v. 
+Healthplan Servs., Inc., 348 F.3d 417, 423 (4th Cir. 2003). Pursuant to an “implicit threshold 
+requirement” of Rule 23(a), Plaintiffs must also establish that the class is ascertainable. EQT 
+Production Co. v. Adair, 764 F.3d 347, 358 (4th Cir. 2014). Having met this basic requirement, 
+the plaintiff must then establish the requirements of numerosity, commonality, typicality, and 
+adequacy of representation. Fed. R. Civ. P. 23(a). With respect to Rule 23(b), Plaintiffs seek 
+certification of the putative class under Rule 23(b)(3), which requires a finding that common 
+questions “predominate over any questions affecting only individual members, and that a class 
+
+action  is  superior  to  other  available  methods  for  fairly  and  efficiently  adjudicating  the 
+controversy.” Fed. R. Civ. P. 23(b)(3). Plaintiffs must then establish that the class certification 
+requirements have been met by a preponderance of the evidence. Brown v. Nucor Corp., 785 
+F.3d 895, 931–32 (4th Cir. 2015).                                         
+   “The class action is an exception to the usual rule that litigation is conducted by and 
+on behalf of the individual named parties only.” Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338, 
+
+348, 131 S. Ct. 2541, 2550 (2011) (internal quotation marks and citation omitted). “Rule 23 
+does  not  set  forth  a  mere  pleading  standard.  A  party  seeking  class  certification  must 
+affirmatively demonstrate his compliance with the Rule—that is, he must be prepared to prove 
+that there are in fact sufficiently numerous parties, common issues of law or fact, etc.” Id. at 
+
+351. In ruling on a class certification motion, a court must take a close look at the facts relevant 
+to the certification question, even if those facts “tend to overlap with the merits of the 
+underlying case.” Thorn v. Jefferson-Pilot Life Ins. Co., 445 F.3d 311, 319 (4th Cir. 2006); accord 
+Gariety v. Grant Thornton, LLP, 368 F.3d 356, 366 (4th Cir. 2004) (“[W]hile an evaluation of the 
+merits . . . is not part of a Rule 23 analysis, the factors spelled out in Rule 23 must be addressed 
+through findings, even if they overlap with issues on the merits.”).      
+
+   The Supreme Court has noted that “sometimes it may be necessary for the court to 
+probe behind the pleadings before coming to rest on the certification question,’ and that 
+certification is proper only if ‘the trial court is satisfied, after a rigorous analysis, that the 
+prerequisites of Rule 23(a) have been satisfied.” Wal-Mart, 564 U.S. at 350-51 (quoting Gen. 
+Tel. Co. of the Sw. v. Falcon, 457 U.S. 147, 160 (1982)) (emphasis added); see also Coopers & 
+Lybrand v. Livesay, 437 U.S. 463, 469 (1978) (“[T]he class determination generally involves 
+
+considerations that are ‘enmeshed in the factual and legal issues comprising the plaintiff's cause 
+of action.’” (quoting Mercantile Nat. Bank v. Langdeau, 371 U.S. 555, 558 (1963))). 
+                          ANALYSIS                                      
+
+   In this putative class action, Plaintiffs seek certification of a potentially nationwide class 
+of Under Armour shareholders, defined as follows:                         
+   All persons and entities who purchased or otherwise acquired Under Armour’s 
+   Class  A  and  Class  C  common  stock  between  September  16,  2015,  and 
+   November 1, 2019, inclusive (“Class Period”). Excluded from the Class are 
+   Defendants,  present  or  former  executive  officers  and  directors  of  Under 
+   Armour and their immediate family members (as defined in 17 C.F.R. §229.404, 
+   Instructions (1)(a)(iii) and (1)(b)(ii)).                            
+
+(Mem. Supp. 1.)                                                           
+   As discussed supra, Plaintiffs must satisfy all four requirements of Federal Rule of Civil 
+Procedure 23(a), and the predominance and superiority inquiries imposed by Rule 23(b)(3). 
+Defendants decline to dispute many of the class certification prerequisites. As Plaintiffs note, 
+“Defendants do not challenge that Plaintiffs and the proposed Class satisfy Federal Rule of 
+Civil Procedure 23(a) and (b)(3)’s requirements for numerosity, commonality, predominance 
+and superiority.” (Repl. Supp. Mot. Class Certification 1, ECF Nos. 233, 234 *SEALED*.) 
+Nowhere in their Response do Defendants argue that Plaintiffs’ proposed class is insufficiently 
+numerous, that there are not questions common to the class members, that individual issues 
+predominate over common questions, or that a class action is not a superior method for the 
+
+adjudication of this dispute. Instead, Defendants focus squarely on the definition of the class, 
+the adequacy of the class representatives, and the typicality of their claims. As set forth below, 
+Defendants’ contentions are unavailing, and Plaintiffs have satisfied all requirements for 
+certification by a preponderance of the evidence.                         
+I.   Ascertainability                                                   
+   “Rule 23 contains an implicit threshold requirement that the members of a proposed 
+
+class be ‘readily identifiable.’” Peters v. Aetna Inc., 2 F.4th 199, 241–42 (4th Cir. 2021) (quoting 
+EQT Prod. Co. v. Adair, 764 F.3d 347, 358 (4th Cir. 2014)). “Under this principle, sometimes 
+called ‘ascertainability,’ ‘[a] class cannot be certified unless a court can readily identify the class 
+members in reference to objective criteria.’” Id. (quoting EQT Prod. Co., 764 F.3d at 358). 
+While Plaintiffs ‘need not be able to identify every class member at the time of certification,” 
+certification is inappropriate “[i]f class members are impossible to identify without extensive 
+and individualized fact-finding or ‘mini-trials.’” Id. (quoting EQT Prod. Co., 764 F.3d at 358). 
+Plaintiffs must “ensure that there will be some ‘administratively feasible [way] for the court to 
+
+determine whether a particular individual is a member’ at some point.” Krakauer v. Dish 
+Network, L.L.C., 925 F.3d 643, 658 (4th Cir. 2019) (quoting EQT Prod. Co., 764 F.3d at 358) 
+(alteration in original).                                                 
+   Defendants argue the proposed class should be narrowed on two grounds. First, they 
+contend that membership in the class should be restricted to same-day purchasers of the stock 
+sold by Mr. Plank. (Resp. Opp. 31.) “Section 20A provides for a private right of action to 
+
+buyers and sellers of securities who trade ‘contemporaneously’ with an insider in possession 
+of material nonpublic information.” In re MicroStrategy, Inc., Sec. Litig., 115 F. Supp. 2d 620, 662 
+(E.D. Va. 2000); see also 15 U.S.C. § 78t-1(a).1 The statute “does not define ‘contemporaneous,’ 
+leaving courts to resolve the issue on a case-by-case basis.” Buban v. O’Brien, 1994 WL 324093, 
+at *2 (N.D. Cal. Jun. 22, 1994). Defendants ask this Court to limit the scope of the proposed 
+class to individuals who bought or sold shares on the same day as the Mr. Plank’s alleged sales.2 
+
+
+1 “This inquiry into contemporaneity proceeds from a recognition that ‘[s]ince identifying the party in actual 
+privity with the insider is virtually impossible in transactions occurring on an anonymous public market, the 
+contemporaneous standard was developed as a more feasible way to sue insiders.’” Id. (quoting Buban v. O’Brien, 
+No. C 94-0331 FMS, 1994 WL 324093, at *3 (N.D. Cal. June 22, 1994)).      
+2 This interpretation is hotly contested. Defendants cite several cases for the proposition that “[t]he same day 
+standard is the only reasonable standard given the way the stock market functions.” In re AST Rsch. Sec. Litig., 
+887 F. Supp. 231, 234 (C.D. Cal. 1995); see, e.g., Steamfitters Loc. 449 Pension Fund v. Alter, No. 09-4730, 2011 WL 
+4528385, at *13 (E.D. Pa. Sept. 30, 2011) (dismissing § 20A claims for sales not “on the same day,” even those 
+“very close in time”); In re Able Labs. Sec. Litig., No. 05-2681 (JAG), 2008 WL 1967509, at *27 (D.N.J. Mar. 24, 
+2008) (adopting same-day standard for “publicly traded company with millions of outstanding shares”). 
+However, “[d]ifferent courts have found that ‘contemporaneity’ requires the insider and the investor/plaintiff 
+to have traded anywhere from on the same day, to less than a week, to within a month, to ‘the entire period 
+while relevant and nonpublic information remains undisclosed.’” In re Cobalt Int’l Energy, Inc. Sec. Litig., 2017 WL 
+2608243, at *3 (S.D. Tex. Jun. 15, 2017) (collecting cases and concluding that “[a]n allegation of a six-day gap . 
+. . does not render [plaintiff] an atypical class representative”); Hodges v. Akeena Solar, Inc., 274 F.R.D. 259, 272 
+However, contemporaneity relates to the merits of a Section 20A insider trading claim, and is 
+“not relevant to the Court’s assessment of whether a class should be certified under Rule 23.” 
+Turocy v. El Pollo Loco Holdings, Inc., No. SA CV 15-1343-DOC (KESx), 2018 WL 3343493, at 
+
+*10 (C.D. Cal. Jul. 3, 2018) (quoting In re Merck & Co., Inc. Sec., Derivative & ERISA Litig., No. 
+CIV.A 05-1151 SRC, 2013 WL 396117, at *8 (D.N.J. Jan. 30, 2013)). Accordingly, as “Rule 23 
+grants courts no license to engage in free-ranging merits inquiries at the certification stage,” 
+Fangman v. Genuine Title, LLC, 2016 WL 6600509, at *4 (D. Md. Nov. 8, 2016) (Bennett, J.) 
+(quoting Amgen Inc. v. Conn. Ret. Plans & Tr. Funds, 568 U.S. 455, 466 (2013)), this Court 
+declines to select between competing definitions at this early stage of the litigation.3 
+
+   Second, Defendants contend that the class should be narrowed to class members 
+whose loss would not be fully compensated by a Section 10(b) recovery. As the Exchange Act 
+prohibits any litigant from recovering “a total amount in excess of [their] actual damages,” 15 
+U.S.C. § 78bb(a)(1), class members who have recovered the entirety of their damages under 
+Section 10(b) will not be not entitled to further compensation under Section 20A, In re Storage 
+
+
+(N.D. Cal. 2011) (declining to narrow class). As expressed throughout this opinion, this Court declines to 
+address the merits of this inquiry at the class certification stage. Such considerations are properly reserved for 
+later stages of the litigation, including summary judgment.               
+3 Defendants insist that Section 20A’s “contemporaneity” requirement is a function of Article III standing that 
+this Court must resolve at the class certification stage. (Resp. Opp. 31.) See Branch v. Gov’t Emps. Ins. Co., 323 
+F.R.D. 539, 552 (E.D. Va. 2018) (“[N]o class may be certified that contains members lacking Article III 
+standing.” (quoting Denney v. Deutsche Bank AG, 443 F.3d 253, 264 (2d Cir. 2006))); accord TransUnion LLC v. 
+Ramirez, 141 S. Ct. 2190, 2208 (2021) (“Article III does not give federal courts the power to order relief to any 
+uninjured plaintiff, class action or not.” (quoting Tyson Foods, Inc. v. Bouaphakeo, 577 U.S. 442, 466 (2016) 
+(Roberts, C.J., concurring))). This is not so. As several courts have observed, “the contemporaneous trading 
+requirement of Section 20A is a statutory standing requirement that ‘delineate[s] the scope’ of the cause of 
+action—and it is not a prerequisite of article III standing.” Turocy, 2018 WL 3343493, at *9 (quoting In re Connetics 
+Corp. Sec. Litig., No. C 07-02940 SI, 2008 WL 3842938, at *13 (N.D. Cal. Aug. 14, 2008)). A statutory standing 
+limitation “does not implicate subject-matter jurisdiction, i.e., the court’s statutory or constitutional power to 
+adjudicate the case.” Lexmark Int’l v. Static Control Components, Inc., 572 U.S. 118, 128 (2014) (quoting Verizon Md. 
+Inc. v. Public Serv. Comm’n of Md., 535 U.S. 635, 642–43 (2002)). Such inquiries are relevant to the merits, not to 
+class certification.                                                      
+Tech. Corp. Sec. Litig., 804 F. Supp. 1368, 1374 (D. Colo. 1992) (“If the section 20A plaintiffs 
+prove a section 10(b) and 20A claim, the damages they recover may not exceed their actual 
+damages.”). However, Plaintiffs openly acknowledge that class members whose damages are 
+
+completely satisfied under either §§ 10(b) or 20A “would have to choose between the two.” 
+(Repl. Supp. 30.) As the damages cap is mandated by statute, and individual damages are 
+subject to classwide proof, “this issue can be resolved on a class-wide basis” at a later stage in 
+the proceedings. Hayes v. MagnaChip Semiconductor Corp., No. 14-cv-01160-JST, 2016 WL 
+7406418, at *10 (N.D. Cal. Dec. 22, 2016).                                
+   At bottom, Plaintiffs’ proposed class is not difficult to identify. In this case, as in other 
+
+securities fraud actions, this Court may readily identify putative class members by reference to 
+“objective data about who bought and sold [Under Armour] stock during the class period.” In 
+re Jeld-wen Holding, Inc. Sec. Litig., No. 3:20-cv-112-JAG, 2021 WL 1186326, at *9 (E.D. Va. Mar. 
+29, 2021); Pope v. Naivent Corp., No. 17-8373, 2021 WL 926611, *5 (D.N.J. Mar. 11, 2021) 
+(“Ascertainability is easily demonstrated in securities class actions and this case is no different. 
+The class members will be readily ascertainable through their registered shares or from 
+
+Defendant's books and records.” (citing In re Urban Outfitters, Inc., Sec. Litig., No. CV 13-5978, 
+2016 WL 1043014, at *4 (E.D. Pa. Feb. 29, 2016); Fogarazzo v. Lehman Bros., 263 F.R.D. 90, 
+101 (S.D.N.Y. 2009)). Considerations such as the proper definition of “contemporaneous” 
+and the likelihood of double recovery are properly reserved for later stages of this litigation—
+and do not preclude certification of the proposed class. See Fangman, 2016 WL 6600509, at *4. 
+Accordingly, this Court concludes that the threshold ascertainability requirement is satisfied 
+
+in this case.                                                             
+II.  Rule 23(a) Requirements                                            
+   Pursuant to Federal Rule of Civil Procedure 23(a), plaintiffs seeking class certification 
+must first establish—by a preponderance of the evidence—the requirements of Rule 23(a): 
+
+numerosity, commonality, typicality, and adequacy of representation. Defendants center their 
+attack on the class representatives, arguing that “[c]lass certification is unwarranted here 
+because (i) all three Plaintiffs’ claims are atypical of the class; and (ii) all three Plaintiffs are 
+inadequate class representatives.” (Resp. Opp. 2.)4                       
+A. Numerosity                                                           
+   Rule 23(a)(1) requires that a proposed class be “so numerous that joinder of all 
+
+members is impracticable.” Robinson v. Fountainhead Title Group Corp., 252 F.R.D. 275, 284 n.12, 
+287 (D. Md. 2008). The Fourth Circuit has held that “[n]o specified number is needed to 
+maintain a class action.” Brady v. Thurston Motor Lines, 726 F.2d 136, 145 (4th Cir. 1984) (quoting 
+Cypress v. Newport News Gen. & Nonsectarian Hosp. Ass’n, 375 F.2d 648, 653 (4th Cir. 1967)). 
+“[G]enerally,  courts  find  classes  of  at  least 40  members  sufficiently  large  to  satisfy  the 
+impracticability requirement,” Peoples v. Wendover Funding, Inc., 179 F.R.D. 492, 497 (D. Md. 
+
+1998), and “[c]lasses of as few as 25 to 30 have been found to raise [ ] the presumption that 
+joinder would be impracticable.” Stanley v. Cent. Garden & Pet Corp., 891 F. Supp. 2d 757, 770 
+(D. Md. 2012) (quoting In re Kirschner Med. Corp. Sec. Litig., 139 F.R.D. 74, 78 (D. Md. 1991)). 
+“Where ‘general knowledge and common sense’ indicate the class is so large that joinder of all 
+
+
+
+4 Defendants do not actually contend that Aberdeen, the Lead Plaintiff, or Robbins Geller Rudman & Dowd 
+LLP, the Lead Counsel, would provide inadequate representation. (Repl. Supp. 1.) Rather, their allegations of 
+inadequacy refer only to KBC and Monroe. (Id. at 20; see Resp. Opp. 1–2.) 
+members is impracticable, the numerosity requirement is satisfied.” Id. (quoting Mitchell-Tracey 
+v. United Gen. Title Ins. Co., 237 F.R.D. 551, 556 (D. Md. 2006)).        
+   As “thousands of investors purchased or acquired Under Armour common stock 
+
+during the Class Period, the numerosity prong is easily satisfied in this case.” (Mem. Supp. 14.) 
+According to Plaintiffs’ expert affidavit, “Under Armour is a publicly traded company listed 
+on the NYSE with as many as 188 million shares of Class A common stock and nearly 229 
+million shares of Class C common stock issued and outstanding during the Class Period.” 
+(Mem. Supp. 14 (citing Cain Rpt. ¶ 60, ECF No. 197-3).) As several courts have observed in 
+analogous securities fraud cases, “given this trading volume, ‘common sense dictates that the 
+
+proposed class is surely sufficiently large to make joinder impracticable.’” Maiman v. Talbott, 
+2011 WL 13065750, at *3 (C.D. Cal. Aug. 29, 2011) (1.32 million shares) (citation omitted); 
+Monroe Cnty. Emps.’ Ret. Sys. v. S. Co., 332 F.R.D. 370, 378 (N.D. Ga. 2019) (22.5 million shares). 
+“Given the millions of shares that changed hands during the Class Period, it is likely that there 
+are hundreds, if not thousands, of class members. This fact supports numerosity.” Or. Lab. 
+Emps. Pension Tr. Fund v. Maxar Techs. Inc., 2021 WL 3021461, at *2 (D. Colo. Jul. 16, 2021). 
+
+Accordingly, this Court is satisfied that the proposed class is sufficiently numerous to warrant 
+class-wide adjudication.                                                  
+B.  Commonality                                                         
+   Rule 23(a)(2) requires the existence of a question of law or fact common to the class. 
+“A common question is one that can be resolved for each class member in a single hearing,” 
+and does not “turn[] on a consideration of the individual circumstances of each class member.” 
+
+Thorn v. Jefferson–Pilot Life Ins. Co., 445 F.3d 311, 319 (4th Cir. 2006) (internal quotation marks 
+and citation omitted). “A single common question will suffice, . . . but it must be of such a 
+nature that its determination ‘will resolve an issue that is central to the validity of each one of 
+the claims in one stroke.’” In re Marriott Int’l, Inc., Consumer Data Sec. Breach Litig., 341 F.R.D. 
+
+128, 147 (D. Md. 2022) (quoting EQT Prod. Co. v. Adair, 764 F.3d 347, 360 (4th Cir. 2014)). 
+“Where the injuries complained of by named plaintiffs allegedly result from the same unlawful 
+pattern,  practice,  or  policy  of  the  defendants,  the  commonality  requirement  is  usually 
+satisfied.” Id. (quoting Parker v. Asbestos Processing, LLC, No. 11-CV-01800, 2015 WL 127930, 
+at *7 (D.S.C. Jan 8., 2015)). “Minor differences in the underlying facts of individual class 
+members’ cases do not defeat a showing of commonality where there are common questions 
+
+of law.” Hewlett v. Premier Salons Int’l, Inc., 185 F.R.D. 211, 216 (D. Md. 1997); accord Mitchell-
+Tracey v. United Gen. Title Ins. Co., 237 F.R.D. 551, 557 (D. Md. 2006) (Davis, J.) (“Thus, factual 
+differences among the class members’ cases will not preclude certification if the class members 
+share the same legal theory.” (quoting Peoples v. Wendover Funding, Inc., 179 F.R.D. 492, 498 (D. 
+Md. 1998))).                                                              
+   In the case at bar, “Plaintiffs’ allegations that investors were defrauded by the same 
+
+misrepresentations and omissions over the same period of time, and suffered losses as a result, 
+are sufficient to fulfill Federal Rule of Civil Procedure 23(a)’s commonality requirement.” 
+(Mem. Supp. 15.) As “the plaintiff alleges that the same misrepresentations or omissions were 
+made to all members of the proposed class,” City of Ann Arbor Emps.’ Ret. Sys. v. Sonoco Prods. 
+Co., 270 F.R.D. 247, 251 (D.S.C. 2010), all members of the proposed class share an interest in 
+the central questions of Exchange Act liability at issue in this case, including: 
+
+   (i)  whether Defendants violated §§10(b) and 20(a) of the [Exchange] Act;  
+   (ii)  whether Defendant Plank violated §20A of the [Exchange] Act;   
+   (iii) whether Defendants publicly misrepresented or omitted material facts;  
+   (iv) whether Defendants knowingly or recklessly disregarded that their Class 
+      Period statements and omissions were false and/or misleading;     
+   (v)  whether the price of Under Armour common stock was artificially inflated 
+      as a result Defendants’ fraudulent conduct; and                   
+   (vi) whether and to what extent disclosure of the truth regarding Defendants’ 
+      misstatements and/or omissions of material facts caused Class members to 
+      suffer economic loss and damages.                                 
+
+(Mem. Supp. 15.) Each of these questions are subject to common class-wide proof, such that 
+the “determination of [their] truth or falsity will resolve an issue that is central to the validity 
+of each one of the claims in one stroke.” Wal-Mart Stores, 564 U.S. at 350. Defendants do not 
+challenge this element, and this Court finds commonality is satisfied in the case at bar. 
+C.  Typicality                                                          
+   Rule 23(a)(3) mandates that “the claims or defenses of the representative parties are 
+typical of the claims or defenses of the class,” ordinarily requiring that the class representatives’ 
+claims arise from the same event, practice, or course of conduct as the putative class members. 
+At its core, the typicality requirement ensures that “only those plaintiffs . . . who can advance 
+the same factual and legal arguments may be grouped together as a class.” Broussard v. Meineke 
+Discount Muffler Shops, Inc., 155 F.3d 331, 340 (4th Cir. 1998) (quoting Mace v. Van Ru Credit 
+Corp., 109 F.3d 338, 341 (7th Cir. 1997)); accord Gen. Tel. Co. of the Sw. v. Falcon, 457 U.S. 147, 
+157 n.13 (1982) (noting that typicality ensures that “the named plaintiff’s claim and the class 
+claims are so interrelated that the interests of the class members will be fairly and adequately 
+protected in their absence.”). To establish typicality, “a class representative must be part of the 
+class and ‘possess the same interest and suffer the same injury’ as the class members.” 
+Broussard, 155 F.3d at 338 (quoting East Texas Motor Freight Sys. Inc. v. Rodriguez, 431 U.S. 395, 
+403 (1977)); accord Deiter v. Microsoft Corp., 436 F.3d 461, 466 (4th Cir. 2006) (“The essence of 
+the typicality requirement is captured by the notion that ‘as goes the claim of the named 
+plaintiff, so goes the claims of the class.’” (quoting Broussard, 155 F.3d at 340)). 
+   Plaintiffs, the Aberdeen City Council (“Aberdeen”), the Monroe County Employees’ 
+
+Retirement System (“Monroe County”), and KBC Asset Management NV (“KBC”) bring 
+claims that are identical to those of the class, as required to satisfy the typicality requirement. 
+All three proposed representatives claim they purchased Under Armour stock during the Class 
+Period, that “they purchased [Under Armour] stock at an artificially inflated price because the 
+defendants lied,” and that the specific information they allege to be fraudulent “is the same 
+information that would be used by other class members to prove their case.” (Mem. Supp. 
+
+16–17 (quoting In re Jeld-wen Holding, Inc. Sec. Litig., 2021 WL 1186326, at *3.) Accordingly, this 
+Court is satisfied that all three representatives possess the same securities fraud claims as the 
+class, and will be required to “advance the same factual and legal arguments” as its members. 
+Broussard, 155 F.3d at 340 (quoting Mace, 109 F.3d at 341).               
+   Defendants nonetheless argue that the three class representatives are subject to several 
+unique defenses that render them atypical. (Resp. Opp. 8–9, 14, 22.) Ordinarily, “where a 
+
+purported class representative is subject to a unique defense that cannot be asserted against 
+other members of the class (other than minor discrepancies), typicality may be lacking.” Ostrof 
+v. State Farm Mut. Auto Ins. Co., 200 F.R.D. 521, 529 (D. Md. 2001). However, while “typicality 
+can be defeated by the existence of a unique defense that is not ultimately successful, ‘[a] 
+unique defense will render the proposed class representative’s claims atypical only if it is likely 
+to be a major focus of the litigation.’” Fernandez v. RentGrow, Inc., 341 F.R.D. 174, 204 (D. Md. 
+
+2022) (citing Shiring v. Tier Technologies, Inc., 244 F.R.D. 307, 313 (E.D. Va. 2007); quoting 1 
+Newberg § 3.43 (5th Ed. 2021)) (alteration in original). “To defeat class certification, a 
+defendant must show some degree of likelihood that a unique defense will play a significant 
+role at trial.” Id. (quoting In re Zetia (Ezetimibe) Antitrust Litig., 7 F.4th 227, 237 (4th Cir. 2021)); 
+
+see also Gordon v. Sonar Cap. Mgmt. LLC, 92 F. Supp. 3d 193, 201 (S.D.N.Y. 2015) (reasoning 
+that the unique defense must be “meritorious enough to require the plaintiff to devote 
+considerable time to rebut the unique defense” (quoting Hallet v. Li & Fung Ltd., No. 95-cv-
+8917, 1997 WL 621111, at *3 (S.D.N.Y. Oct. 6, 1997))).                    
+   In this case, Defendants argue that all three class representatives are subject to a variety 
+of unique defenses that render their claims atypical. Specifically, Defendants contend that: 
+
+  Aberdeen and KBC are not eligible for the presumption of reliance as they  
+   “continued to purchase significant amounts of Under Armour stock” following 
+   the partial corrective disclosures alleged in the TAC, and the filing of this action. 
+
+  The investments made by Aberdeen and Monroe “were managed by an external 
+   investment advisor whose internal analysis of Under Armour contradicts core 
+   theories of Plaintiffs’ case.”                                       
+
+  Aberdeen “did not buy shares of Class C stock contemporaneously with Mr. 
+   Plank’s sales,” but “in fact, . . . sold Class C stock in April 2016 right alongside 
+   Mr. Plank.”                                                          
+
+(Resp. Opp. 1–2.) All three arguments fail. As set forth below, this Court is satisfied that the 
+Plaintiffs bring claims that are typical of the class members, and that these defenses are unlikely 
+to be a “major focus of the litigation.” Cf. Fernandez, 341 F.R.D. at 204 (quoting 1 Newberg § 
+3.43).                                                                    
+   1.  Post-Disclosure Purchases of Under Armour Stock                  
+
+   First, Defendants rely on several out-of-circuit decisions for the proposition that 
+“putative class representatives who purchase additional shares of defendants’ stock after the 
+alleged disclosure of the supposed fraud fail to satisfy the requirements of Rule 23(a).” (Resp. 
+Opp. 9 (emphasis in original).) See, e.g., In re Cardinal Health, Inc. Sec. Litig., 226 F.R.D. 298, 310 
+(S.D. Ohio 2005); In re World Access, Inc., 310 F. Supp. 2d 1281, 1300 (N.D. Ga. 2004); In re 
+
+Safeguard Scis., 216 F.R.D. 577, 582–83 (E.D. Pa. 2003). The rationale behind this rule is that 
+post-disclosure purchases vitiate the element of reliance: “A named plaintiff who has engaged 
+in a post-disclosure purchase is subject to the defense that the alleged misstatements or 
+omissions were really not a factor in the purchasing decision but rather that other investment 
+considerations drove the decision.” George v. China Auto. Sys., Inc., No. 11 Civ. 7533(KBF), 
+2013 WL 3357170, at *6 (S.D.N.Y. Jul. 3, 2013); see also Cardinal Health, 226 F.R.D. at 310 
+
+(“The timing of [Plaintiff’s] purchases undermines any causal nexus between the Defendants’ 
+alleged misrepresentation and the resulting injury.”).                    
+   Defendants note that Aberdeen and KBC purchased a large volume of Under Armour 
+shares between April 2017 and May 2017, “after all but two of the alleged partial corrective 
+disclosures in the TAC,” and after Plaintiffs’ first Complaint was filed on February 10, 2017. 
+(Resp. Opp. 11 (citing TAC ¶¶ 170–74 (Jan. 10, 2016); ¶¶ 177–87 (Jan. 28, 2016); ¶ 215 (May 
+
+31, 2016); ¶¶ 225–41 (July 26, 2016); ¶¶ 249–60 (Oct. 25, 2016); ¶¶ 265–78 (Jan. 31, 2017)).) 
+Aberdeen purchased approximately 191,340 shares of Class A stock during this period, for a 
+total of approximately $4,000,000.00. (Groner Decl. 2–3; ECF No. 222-1, 223-1 *SEALED*; 
+Movant’s Purchases and Losses, ECF No. 222-2.) Similarly, KBC through its various Funds 
+bought some 320,968 additional Under Armour shares between March 2017 and April 2, 2019. 
+(ECF No. 221-1, at 3–6.) Defendants insist that both representatives’ pattern of purchasing 
+
+“exposes [them] to the defense that the alleged misrepresentations and omissions were ‘not a 
+factor in,’ and indeed were ‘irrelevant’ to, the [representatives’] purchasing decisions.” (Repl. 
+Opp. 13–14 (quoting China Auto., 2013 WL 337170, at *6).)                 
+   However, as several courts have observed, a stock purchase after a partial corrective 
+
+disclosure “is not per se evidence that a class representative is atypical and did not rely on the 
+alleged fraudulent representations.” (Repl. Supp. 9–10.) In In re Computer Sciences Corp. Securities 
+Litig., 288 F.R.D. 112 (E.D. Va. 2012), the defendant in a securities fraud class action alleged 
+that the plaintiffs were subject to a unique defense, having purchased as much as 24.8% of its 
+shares following partial corrective disclosures. 288 F.R.D. at 123. The defendant corporation 
+alleged that these purchases rendered plaintiffs atypical, as that they demonstrated that the 
+
+plaintiffs “did not rely on the allegedly fraudulent statements and would have purchased . . . 
+stock in any event.” Id. The district court rejected this argument, reasoning that “the substantial 
+majority of these cases hold that post-disclosure purchases do not disqualify a potential class 
+representative,” as they may reflect sound investment strategy:           
+   [P]ost-disclosure purchases may well make sound economic sense in an efficient 
+   market because the market reflects news of any corrective disclosures in the 
+   stock price, typically lowering the stock price. The purchase of the stock at the 
+   lower post-corrective disclosure price in no way indicates that plaintiff would 
+   have  purchased  the  stock  at  the  pre-disclosure,  inflated  price  absent  the 
+   allegedly fraudulent statements. Therefore, post-disclosure purchases do not 
+   demonstrate that [plaintiff] failed to rely on the market and hence do not defeat 
+   the fraud-on-the-market theory or subject [plaintiff] to a unique defense by 
+   refuting their claim that [defendant] deceived them.                 
+
+Id. at 124 (citing 1 Newberg on Class Actions § 3:41 (5th ed.)); accord Pelletier v. Endo Int’l PLC, 
+338 F.R.D. 446, 476 (E.D. Pa. 2021) (“Investors frequently purchase stocks in response to 
+price decreases, doing so does not make them atypical or subject to unique defenses.”); see also 
+GAMCO Invs., Inc. v. Vivendi, S.A., 917 F. Supp. 2d 246, 261 (S.D.N.Y. 2013) (“[P]ost-
+disclosure purchases will not prevent an investor from relying on the integrity of the market 
+for pre-disclosure purchases.” (quoting In re DVI Inc. Sec. Litig., 249 F.R.D. 196, 204 (E.D. Pa. 
+2008).). The Court further reasoned that such “post-disclosure purchases will not destroy a 
+
+lead plaintiff’s typicality unless they threaten to become the focus of the litigation, which they 
+do not in this case.” Computer Sciences, 288 F.R.D. at 124.               
+   Like the United States District Court for the Eastern District of Virginia, this Court 
+finds the majority approach persuasive. As in Computer Sciences, Plaintiffs allege they purchased 
+Under Armour common shares in an efficient marketplace, suggesting that “the price they 
+paid reflected their reliance on Defendants’ [alleged] misrepresentations and omissions.” 
+
+(Repl. Supp. 9.) Crucially, Defendants only allege Plaintiffs purchased shares after Under 
+Armour’s partial disclosures in 2016 and 2017—not following the final corrective disclosure 
+in November 2019, when “the full truth ha[d] been disclosed to the markets.” (Repl. Supp. 6–
+8 (quoting Pirnik v. Fiat Chrysler Autos., N.V., 327 F.R.D. 38, 48 (S.D.N.Y. 2018)) (alteration 
+in original).) Accordingly, these purchases do not establish that the Plaintiffs would have 
+continued to purchase Under Armour stock at an inflated price despite the alleged fraud. Cf. 
+
+Computer Sciences, 288 F.R.D. at 124 (“The decision to purchase after a post-disclosure drop . . 
+. does not carry the inference that [plaintiff] would have purchased at the inflated pre-
+disclosure price had it known the truth.”).5 In any event, Defendants cite no evidence 
+
+
+5 The distinction between a partial corrective disclosure and a full corrective disclosure is essential: Partial 
+disclosures do not charge the market with notice of the putative fraud, and do not necessarily preclude reliance. 
+See also Malone v. Microdyne Corp., 148 F.R.D. 153, 159 (E.D. Va. 1993) (“An investor may hold the conviction 
+that the marketplace has inaccurately predicted the earning potential of a company, and yet still enter a 
+transaction relying, in part, on the assumption that the market has not been artificially inflated or depressed by 
+material, false information disseminated by corporate insiders.”); In re Virtus Inv. Partners, Inc. Sec. Litig., No. 
+15cv1249, 2017 WL 2062985, at *3 (S.D.N.Y. May 15, 2017) (“[E]ven though Lead Plaintiff’s final purchase of 
+suggesting that the Aberdeen and KBC are the only class members who made such purchases, 
+and fail to establish that these purchases would become “a major focus of the litigation.” 
+Fernandez, 341 F.R.D. at 204 (quoting 1 Newberg § 3.43).                  
+
+   2.  Reliance on Investment Managers                                  
+
+   Second, Defendants claim that Aberdeen and Monroe outsourced their investments to 
+“sophisticated external investment managers,” who based their decisions on internal analyses, 
+“rather than relying on Under Armour’s alleged misrepresentations or omissions to the 
+market.” (Resp. Opp. 14–22.) There is some authority for the proposition that when a class 
+representative “wholly outsources [its] decision making to an investment adviser who acts as 
+[its] agent, that agent’s decision-making calculus is relevant to the reliance inquiry.” Villella v. 
+Chem. & Mining Co. of Chile Inc., No. 15 Civ. 2106 (ER), 2018 WL 2958361, at *5 (S.D.N.Y. 
+June 13, 2018); see also Loreley Fin. (Jersey) No. 3 Ltd. v. Wells Fargo Sec., LLC, 412 F. Supp. 3d 
+392, 410–11 (S.D.N.Y. 2019). Defendants offer evidence that Aberdeen’s investments were 
+“solely done” by investment firm BGC, which retained “completed discretion” to control 
+Aberdeen’s  investments.  (Buntain  Dep.  36:13–14,  92:9-93:15,  ECF  Nos.  222-3,  223-2 
+
+*SEALED*.) Similarly, they indicate that Monroe’s investments were conducted exclusively 
+by Winslow, which “discretion to make all investment decisions for [Monroe’s] assets placed 
+under [Winslow’s] control.” (Grodi Dep. 112:1–7.) Accordingly, these firms’ views are relevant 
+to the issue of the class representatives’ reliance on the putative market fraud. 
+
+
+
+Vitus stock occurred just 16 days after news of F-Squared’s Wells Notice, that purchase preceded the time in 
+May 2015 when the truth was fully revealed to the market.”).              
+   Defendants note that both firms’ internal projections disagreed with some of the initial 
+partial disclosures and the resultant projections regarding Under Armour’s stock prospects, 
+and that both firms encouraged their clients to invest further. (See, e.g., November 2016 Emails, 
+
+ECF No. 222-16, 223-15 *SEALED* (recounting that Winslow disagreed with 2016 Morgan 
+Stanley  &  Co.  Report  and  partial  disclosure);  November  2016  Meeting  Notes  at  BGC 
+00022777, ECF Nos. 222-13, 223-12 *SEALED* (opining that “the market’s (over)reaction” 
+was an “opportunity” to invest).) They claim that this discrepancy is highlighted by the firms’ 
+analyses, which focused primarily on “issues that have nothing to do with Plaintiffs’ allegations 
+regarding the purportedly improper sales and accounting practices at the core of the TAC.” 
+
+(Resp. Opp. 17 (citing Meeting Notes, ECF Nos. 222-11, 223-10 *SEALED*; BGC Meeting 
+Doc Email, ECF No. 222-12, 223-11 *SEALED*.) Consequently, Defendants claim Aberdeen 
+and Monroe continued to purchase Under Armour stock after accepting appointment as class 
+representatives in a case litigating alleged fraud in the valuation of that stock. (Repl. Opp. 21–
+22.) They claim that both representatives made these purchases in reliance on assurances by 
+external investment managers that Under Armour’s outlook was good, and that the partial 
+
+disclosures were inaccurate. (Id.) And they further argue that these distinctions undercut the 
+reliance element of the proposed class representatives’ misrepresentation claims, rendering 
+Aberdeen and Monroe atypical of the proposed class. (Id. at 22.)          
+   This argument is unavailing. Large institutional investors routinely rely on investment 
+managers to counsel their investment decisions. Such relationships do not automatically render 
+Plaintiffs atypical, or vitiate their reliance on alleged market fraud. See, e.g., In re Willis Towers 
+
+Watson PLC Proxy Litig., No. 1:17-cv-1338 (AJT/JFA), 2020 WL 5361582, at *14 (E.D. Va. 
+Sept. 4, 2020) (“[N]either Plaintiff’s stock purchases nor the views of its investment advisors 
+sufficiently undercut the ‘typicality’ of Plaintiff’s claim to disqualify Plaintiff from acting as a 
+class representative.”). Investment managers’ trading strategies regularly “rely on the integrity 
+
+of the market price to reflect all publicly available information,” and may thus themselves be 
+influenced by the putative fraud. Computer Sciences, 288 F.R.D. at 122–23. Accordingly, “the 
+fact that [each] Plaintiff’s investment advisor used its own valuation analysis—to ‘[p]urchase 
+stocks at a discount’ and ‘sell[] stocks as they approach full valuation’—does not necessarily 
+mean that the advisor did not rely on the integrity of the market in making purchasing 
+decisions.” In re Advance Auto Parts, Inc. Sec. Litig., No. 18-212-RGA, 2020 WL 6544637, at *5 
+
+(D. Del. Nov. 6, 2020) (citation omitted). Defendants do not refute that BGC and Winslow 
+relied on Under Armour’s common stock price to conduct their analyses. Nor do they show 
+that these external investors would have purchased Under Armour stock at pre-disclosure, 
+inflated prices with full knowledge of the alleged misrepresentations. (Repl. Supp. 13–14.) 
+Accordingly, Plaintiffs’ mere reliance on investment managers does not conclusively establish 
+that Plaintiffs did not rely on the alleged misrepresentations. Plaintiffs are not subject to a 
+
+unique defense on this ground.                                            
+   3.  Aberdeen’s Net Sales of Securities                               
+
+   Third, Defendants contend Aberdeen has no claim under Section 20A of the Exchange 
+Act, 15 U.S.C. § 78t-1(a), as it sold Class C on the dates that Mr. Plank allegedly sold his shares. 
+(Resp. Opp. 22–26.) Section 20A provides a cause of action for insider trading only to a 
+“person who, contemporaneously with the purchase or sale of securities that is the subject of 
+such violation, has purchased (where such violation is based on a sale of securities) or sold 
+(where such violation is based on a purchase of securities) securities of the same class.” 15 
+U.S.C. § 78t-1(a); see also Buban, 1994 WL 324093, at **2–3 (highlighting that this requirement 
+serves to protect investors who “might, in fact, have traded with the defendant”).  
+
+   During the Class Period, two classes of Under Armour common stock were traded on 
+the New York Stock Exchange: (1) Class A, which “is publicly traded (NYSE: UAA) and 
+carries one vote per share;” and (2) Class C, which “is publicly traded (NYSE: UA) and carries 
+no voting rights except in limited circumstances.” (TAC ¶ 26 n.7.) Plaintiffs assert a Section 
+20A claim against Mr. Plank on behalf of putative class members who purchased stock 
+contemporaneous with Mr. Plank’s sales on November 17 through 23, 2015, and April 26 
+
+through 29, 2016. (Id. ¶¶ 427–436.) However, while Mr. Plank is alleged to have sold Class C 
+stock on those dates, Defendants produce evidence that Aberdeen only purchased Class A 
+stock, and in fact sold Class C stock during this period without purchasing any of the same. 
+(See Resp. Opp. 24–25 (charting Aberdeen’s holdings). Compare TAC ¶ 130 (Plank’s sales), with 
+Movant’s Purchases and Losses (Aberdeen’s transactions).) Accordingly, Defendants claim 
+that Aberdeen was a “net seller” of Under Armour stock during the relevant period, and that 
+
+this trading activity would become “the focus of the Section 20A claim here,” detracting from 
+the classwide litigation. (Resp. Opp. 25–26.)                             
+   Nevertheless, Aberdeen is a “net seller,” not a “net gainer.” Even assuming Aberdeen 
+sold more Class C stock than it purchased, Plaintiffs adduce evidence that Aberdeen operated 
+at a loss during the Class Period. (Repl. Supp. 19–20.) This distinction is crucial for the purpose 
+of this motion, as a plaintiff who sold stock but suffered a net loss may still have been injured 
+
+by the alleged fraud. “Whereas a net gainer achieves a net profit from its Class Period shares, 
+a net seller merely sells more shares than it purchased during the Class Period and may well 
+still suffer a loss.” In re MGM Mirage Sec. Litig., 2010 WL 4316754, at *4 (D. Nev. Oct. 25, 
+2010). “While there is wisdom in the rule that net sellers who are also net gainers should not 
+
+be lead plaintiffs; there is no good reason not to recognize losses which a net seller has 
+incurred.” Richman v. Goldman Sachs Grp., Inc., 274 F.R.D. 473, 479 (S.D.N.Y. 2011); cf. Gordon, 
+92 F. Supp. 3d at 201 (finding lead plaintiff atypical where he was “subject to the unique 
+defense that he suffered no economic loss,” as his “gains and avoided losses during the various 
+class periods exceeded any losses he may have suffered during those periods”); Local 703, I.B. 
+of T. Grocery & Food Employees Welfare Fund v. Regions Fin. Corp., 762 F.3d 1248, 1259–60 (11th 
+
+Cir. 2014) (“Regions has not pointed us to any evidence suggesting that District 9’s gains 
+during the period might arguably offset its losses under any generally accepted accounting 
+method. Its argument that District 9’s sales render it atypical is thus misguided.”). 
+   Here, Plaintiffs argue that Aberdeen acquired more Class C common stock than it sold 
+during the Class Period through “a one-for-one stock dividend.” (Repl. Supp. 18.) Moreover, 
+“Defendants’ own exhibit shows that [Aberdeen] acquired 128,946 shares of Under Armour 
+
+Class C stock on April 8, 2006 and ultimately sold all of those shares between April 15, 2016, 
+and May 4, 2016, at a loss of nearly $450,000—a fact which the Opposition does not refute.” (Id. 
+at 19 (citing Movant’s Purchases and Losses 3) (emphasis in original).) This evidence suggests 
+that, regardless of whether Aberdeen is classified as a “net seller,” it has suffered a net loss in 
+its acquisition and sale of Under Armour stock throughout the class period. (Id. at 19–20.) 
+Accordingly, this Court is satisfied that Aberdeen’s trading activity is unlikely to become “a 
+major focus of the litigation” and detract from the classwide issues at trial. Fernandez, 341 
+F.R.D. at 204 (quoting 1 Newberg § 3.43).6                                
+D. Adequacy                                                             
+
+   The final prerequisite under Rule 23(a) is that the persons representing the proposed 
+class must be able “fairly and adequately to protect the interests” of all members of the class. 
+“The adequacy inquiry under Rule 23(a)(4) serves to uncover conflicts of interest between 
+named parties and the class they seek to represent.” Amchem Prods., Inc. v. Windsor, 521 U.S. 
+591, 625 (1997) (citing Falcon, 457 U.S. at 157–58 n. 13). As this Court has previously ruled, 
+the adequacy of a class representative is chiefly determined by whether its interests are 
+
+“opposed to those of other class members.” Fidelity Res., Inc., No. RDB-17-1447, 2019 WL 
+4141015, at *10 (D. Md. Aug. 30, 2019) (Bennett, J.). Rule 23(a)(4) has two components: (1) 
+the interests of the proposed class representatives and class members must coincide; and (2) 
+the plaintiffs’ attorneys must be qualified, experienced, and able to conduct the litigation. 
+Cuthie v. Fleet Reserve Ass’n, 743 F. Supp. 2d 486, 499 (D. Md. 2010).    
+   Both requirements are readily satisfied here. First, for the same reasons the typicality 
+
+requirement is met, this Court is satisfied that the representatives’ interests are in alignment 
+with the proposed class. “Like other members of the Class, [Aberdeen], Monroe County, and 
+
+
+6 Secondarily, this Court is not convinced that Aberdeen’s purchase of Class A stock is irrelevant to this analysis. 
+As other courts have recognized, the language “securities of the same class” is not necessarily delimited to “the 
+exact same type of security.” Basile v. Valeant Pharm. Int’l, Inc., No. SACV 14-2004-DOC (JCGx), 2015 WL 
+7352005, at *8 (C.D. Cal. Nov. 9, 2015) (noting that “Defendants fail to provide any persuasive legal authority 
+for this narrow interpretation of the insider trading laws”). As Plaintiffs note, the only substantial difference 
+between Under Armour’s Class A and Class C stock is the voting rights accorded to the former. (Repl. Supp. 
+3.) Similar distinctions, such as stock options, have been found to fall within “securities of the same class” for 
+the purpose of Section 20A. See Basile, 2015 WL 7352005, at *9. Accordingly, by overlooking Aberdeen’s Class 
+A purchases, Defendants’ argument takes too narrow a view of Section 20A. 
+KBC all purchased or acquired Under Armour common stock at market prices during the 
+class period and were injured by the same alleged material misrepresentations and omissions.” 
+(Mem. Supp. 18.) Accordingly, the representatives’ legal and factual positions are in alignment 
+
+with the class, indicating they are well-positioned to litigate on behalf of the class members. 
+Moreover, Plaintiffs are institutional investors, precisely the type of litigant Congress intended 
+to serve as class representative in securities cases. See Local 703, 762 F.3d at 1260 (“[B]oth 
+Congress and the courts have recognized that these sorts of investors are generally preferred 
+as class representatives in securities litigation.”); In re Perrigo Co. PLC Sec. Litig., 493 F. Supp. 
+3d 291, 294 (S.D.N.Y. 2020) (“The PSLRA was designed to ‘increase the likelihood that 
+
+institutional investors will serve as lead plaintiffs.’” (quoting In re WorldCom Inc. Sec. Litig., 219 
+F.R.D. 267, 282 (S.D.N.Y. 2003))).                                        
+   Second, Plaintiffs have selected Robbins Geller Rudman & Dowd, LLP (“Robbins 
+Geller”), an experienced class action litigation firm, to serve as class counsel. “Robbins Geller 
+has been appointed class counsel in hundreds of securities class actions and has competently 
+met its obligations under Rule 23 in those cases. The Court has no doubt that Robbins Geller 
+
+will meet its obligation here to vigorously pursue this litigation.” City of Cape Coral Mun. 
+Firefighters’ Ret. Plan v. Emergent Biosolutions, Inc., HQ, 322 F. Supp. 3d 676, 693 (D. Md. 2018) 
+(Titus, J.). Courts nationwide have recognized Robbins Geller’s expertise in this field of 
+litigation. See, e.g., Villella v. Chem. & Mining Co. of Chile, Inc., 333 F.R.D. 39, 59 (S.D.N.Y. 2019); 
+Knurr v. Orbital ATK, Inc., 220 F. Supp. 3d 653, 663 (E.D. Va. 2016). “Plaintiffs’ chosen counsel 
+have committed, and are willing to commit, considerable resources to prosecuting this action, 
+
+and have vigorously represented the interests of the Class in this action to date.” (Mem. Supp. 
+18.) In light of Robins Geller’s history of diligent advocacy in class action litigation, this Court 
+is satisfied that Plaintiffs have selected attorneys who are “qualified, experienced and able to 
+conduct the litigation.” Cuthie, 743 F. Supp. 2d at 499.                  
+
+   Defendants contest the adequacy of representation on two grounds, arguing (1) that 
+KBC “has placed the interests of its separate counsel over the putative class” by engaging two 
+independent law firms; and (2) that “Monroe also has improperly sought to evade the party 
+sanctions regime” imposed by the PSLRA by entering an indemnification agreement with 
+Robins Geller. (Resp. Opp. 2.) Both arguments fail.7                      
+   First, Defendants challenges KBC’s adequacy as class representative, noting that KBC 
+
+“has had no direct interaction with Robbins Geller other than in the context of preparing for 
+KBC’s deposition,” and has retained Motley Rice, LLC, and Sturman, LLC as independent 
+counsel. (Resp. Opp. 27; see Elst Dep. 222:10–14.) According to KBC’s corporate counsel, 
+Bart Elst, these firms serve as counsel to KBC and liaison to Robbins Geller. (Elst Decl. ¶ 5, 
+ECF No. 197-24.) Their role appears to be relaying information and correspondence between 
+KBC and lead counsel. (Id.) Despite this limited arrangement, KBC’s retainer with Motley Rice 
+
+and Sturman provides that their fees “will be paid from the entire Class settlement amount 
+and not from KBC’s share of the net Class settlement amount.” (See Retention Letter, ECF 
+Nos. 222-22, 223-21 *SEALED*.) Consequently, Defendants argue that KBC “placed the 
+
+7 As several courts have noted, a defendant’s efforts to challenge the adequacy of class counsel should be viewed 
+with skepticism. See, e.g., In re Twitter, Inc. Sec. Litig., 326 F.R.D. 619, 628 (N.D. Cal. 2018) (“[T]o state the 
+obvious, Twitter’s interests in this litigation are not aligned with those of the class. Thus, it is unlikely that 
+Twitter has the class’s interests in mind when it argues against the appointment of additional counsel.”); In re 
+Pfizer, Inc. Sec. Litig., 282 F.R.D. 38, 48 (S.D.N.Y. 2012) (“[P]ermitting defendants to police the adequacy of 
+class representatives and their counsel is like ‘permitting a fox . . . to take charge of the chicken house.’” (citation 
+omitted)); Computer Sciences, 288 F.R.D. at 125 n.14 (“The energy devoted to the attack reflects the fact that 
+[defendant] actually considers [plaintiff] to be a strong and potentially effective opponent.”). 
+interests of [its] counsel ahead of those of the class,” In re Allergan PLC Sec. Litig., 2020 WL 
+5796763,  at  *7  (S.D.N.Y.  Sept.  29,  2020),  by  permitting separate  counsel  to  engage  in 
+duplicative work, with fees to be paid by the class.                      
+
+   This arrangement does not suggest that KBC’s interests are opposed to the common 
+interests of the class. (Repl. Supp. 21-22.) Several courts in similar securities fraud cases have 
+recognized it is “wholly proper for [institutional investors] to retain and rely on outside counsel 
+in fulfilling their duty to protect the interests of the class by monitoring Robbins Geller.” 
+Plumbers & Pipefitters Nat. Pension Fund v. Burns, 292 F.R.D. 515, 522 (N.D. Ohio 2013); see also 
+Wallace v. IntraLinks, 302 F.R.D. 310, 316 (S.D.N.Y. 2014) (“For an entity like [plaintiff], 
+
+delegating  management  of  securities  litigation  to  trusted  external  counsel  is  not 
+unreasonable.”). More pertinently, courts have authorized Robbins Geller and Motley Rice to 
+proceed in tandem as class counsel, indicating that these firms have collaborated to manage 
+class actions in the past. See, e.g., In re Twitter, Inc. Sec. Litig., 326 F.R.D. 619, 628–29 (N.D. Cal. 
+2018); W. Va. Pipe Trades Health & Welfare Fund v. Medtronic, Inc., 325 F.R.D. 280, 287 (D. Minn. 
+2018); Bennett v. Sprint Nextel Corp., 298 F.R.D. 498, 513 (D. Kan. 2014). And to the extent 
+
+Defendants are concerned about the propriety of awarding Motley Rice and Sturman any 
+portion of a classwide settlement in this case, such concerns may be properly litigated and 
+addressed at a later stage. See, e.g., Beach v. Healthways, Inc., 2010 WL 1408791, at *4 (M.D. Tenn. 
+Apr. 2, 2010) (“Any attorneys’ fees awarded in this case will have to be Court-approved, and 
+issues concerning those fees may be raised at that time.”).8              
+
+
+8 Defendants contend that this arrangement “has already led to duplication of work and increased legal fees,” 
+as KBC was represented by as many as “five lawyers from three law firms” at its deposition. (Resp. Opp. 29 
+(emphasis in original).) Some courts have noted that “the involvement of multiple firms tends to inflate legal 
+   Second, Defendants contend that Monroe and Robbins Geller violated the PSLRA by 
+arranging for Robbins Geller to indemnify Monroe for any sanctions imposed in this action. 
+(Resp. Opp. 29–31.) The PSLRA expands upon the requirements of Rule 11 by imposing 
+
+mandatory sanctions against any attorney or representative plaintiff found to have engaged in 
+abusive litigation practices in a securities fraud action. 15 U.S.C. § 78u-4(c); see Sik-Lin Haung 
+v. Acterna Corp., 220 F.R.D. 255, 256–57 (D. Md. 2004) (“The PSLRA was intended to prevent 
+‘lawyer-driven’ litigation, and to ensure that ‘parties with significant holdings in issuers, whose 
+interests are more strongly aligned with the class of shareholders, will participate in the 
+litigation and exercise control over the selection and actions of plaintiffs’ counsel.’” (quoting 
+
+In re Oxford Health Plans, Inc. Sec. Litig., 182 F.R.D. 42, 43–44 (S.D.N.Y. 1998))). However, as 
+other courts have observed, “the PSLRA permits an allocation of the risk of sanctions between 
+an attorney and a party,” and “does not expressly bar attorneys and parties from addressing 
+that risk through contract.” In re Perrigo Co. PLC Sec. Litig., 493 F. Supp. 3d at 296. Accordingly, 
+“[i]t does not follow inexorably from the indemnification agreements that the Lead Plaintiffs 
+will not represent the class adequately.” Id. Therefore, Monroe’s indemnification agreement 
+
+with Robbins Geller does not violate the requirements of the PSLRA, and does not represent 
+a conflict with the interests of the class. Absent evidence that Monroe is not qualified to serve 
+as class representative in this case, or that its interests are “opposed to those of other class 
+
+fees to the detriment of the other class members.” Allergan, 2020 WL 5796763, at *6; accord In re Century Bus. 
+Servs. Sec. Litig., 202 F.R.D. 532, 541 (N.D. Ohio 2001) (“[T]he potential for duplicative services and the 
+concomitant increase in attorneys’ fees works against the approval of multiple lead counsel.” (quoting In re 
+Milestone Sci. Sec. Litig., 183 F.R.D. 404, 418 (D.N.J. 1998))). Nevertheless, this Court is persuaded by those cases 
+reasoning that “representation by the outside law firm will ensure that the [plaintiff] will fulfill its duty 
+adequately to monitor class counsel.” Burges v. Bancorpsouth, Inc., No. 3:14-cv-1564, 2017 WL 2772122, at *6 
+(M.D. Tenn. June 26, 2017). As mentioned above, this Court will safeguard against concerns regarding excessive 
+fees at the appropriate stage in the litigation.                          
+members,”  Defendants  fail  to  demonstrate  that  Monroe  would  be  an  inadequate  class 
+representative. Jones, 2019 WL 4141015, at *10. Accordingly, this Court concludes that all three 
+proposed class representatives would “fairly and adequately to protect the interests,” and all 
+
+four Rule 23(a) prerequisites are satisfied in this case.                 
+III.  Rule 23(b) Requirements                                           
+   Rule 23(b)(3) requires a determination that common questions “predominate over any 
+questions affecting only individual members, and that a class action is superior to other 
+available methods for fairly and efficiently adjudicating the controversy.” Fed. R. Civ. P. 
+23(b)(3). Generally, “[s]ecurities fraud cases are thought to be particularly appropriate for 
+
+treatment under Rule 23(b)(3) because the elements of the claim tend to relate to the conduct 
+of the defendants, not to the individual plaintiffs.” Cape Coral, 322 F. Supp. 3d at 685–86. Such 
+is the case here. Plaintiffs’ claims arise entirely from a single alleged course of conduct by the 
+Defendants, with alleged damages susceptible to common proof. Additionally, a class action 
+is the only suitable vehicle for litigating a case of this volume. Accordingly, class certification 
+is appropriate under Rule 23(b)(3).                                       
+
+E. Predominance                                                         
+   “The  Rule  23(b)(3)  predominance  inquiry  tests  whether  proposed  classes  are 
+sufficiently cohesive to warrant adjudication by representation.” Amchem, 521 U.S. at 623. 
+“When ‘one or more of the central issues in the action are common to the class and can be 
+said to predominate, the action may be considered proper under Rule 23(b)(3), even though 
+some other important matters will have to be tried separately, such as damages or some 
+
+affirmative  defenses  peculiar  to  some  individual  class  members.’”  Tyson  Foods,  Inc.  v. 
+Bouaphakeo, 136 S. Ct. 1036, 1045 (2016) (citation omitted); accord Krakauer, 925 F.3d at 658 
+(“The entire notion of predominance implies that the plaintiffs’ claims need not be identical.”). 
+This balancing is qualitative in nature, not quantitative. Gunnells v. Healthplan Servs., Inc., 348 
+
+F.3d 417, 429 (4th Cir. 2003). Accordingly, predominance may be satisfied even when some 
+individualized inquiry is required. Ealy v. Pinkerton Gov’t Servs., Inc., 514 F. App’x 299, 305 (4th 
+Cir. 2013) (unpublished) (citing Gunnells, 348 F.3d at 429).              
+   In this case, the central question of Defendants’ liability is common to the entire class, 
+as it is predicated on a single alleged course of conduct by the Defendant. (Mem. Supp. 21.) 
+“The alleged misrepresentations and omissions, whether material or immaterial, would be 
+
+equally so for all investors composing the class.” Amgen, 568 U.S. at 459–60. At issue is the 
+element of reliance. Often, “the predominance requirement can be a sticking point in securities 
+class action certifications where fraud is alleged because individual issues of reliance on 
+fraudulent misrepresentations may be such as to undercut a showing of predominance.” 
+Gariety v. Grant Thornton, LLP, 368 F.3d 356, 365 (4th Cir. 2004).        
+   Plaintiffs invoke a presumption of reliance on a class-wide basis through a theory of 
+
+fraud on the market. As the Supreme Court held in Basic, Inc. v. Levinson, 485 U.S. 224 (1988), 
+“a person who traded a corporation’s shares on a securities exchange after the issuance of a 
+materially misleading statement by the corporation [is entitled to] a rebuttable presumption 
+that, in trading, he relied on the integrity of the price set by the market.” 485 U.S. at 226. “[A] 
+plaintiff satisfies [the predominance requirement] by proving the prerequisites for invoking 
+[this] presumption.” Halliburton Co. v. Erica P. John Fund, Inc., 573 U.S. 258, 276 (2014). “To 
+
+gain the benefit of the presumption, a plaintiff must prove ‘(1) that the defendant made public 
+misrepresentations; (2) that the misrepresentations were material; (3) that the shares were 
+traded on an efficient market’; and (4) that the plaintiff purchased the shares after the 
+misrepresentation but before the truth was revealed.” Gariety, 368 F.3d at 362 (quoting Basic, 
+
+485 U.S. at 248 n.27).                                                    
+   For the limited purpose of class certification, all four requirements are satisfied here. 
+First, Under Armour’s alleged material misrepresentations were public. (TAC ¶¶ 148–264.) 
+Second, Plaintiffs adequately allege that Under Armour’s misrepresentations related to the 
+demand for its products and were thus material to the price of its shares. (Cain Rpt. ¶¶ 81-82.) 
+Third, it is undisputed that “[t]hroughout the Class Period, Under Armour’s stock was listed 
+
+and traded on the [New York Stock Exchange], one of the largest and most developed 
+securities markets in the world.” (Mem. Supp. 23 (citing TAC ¶ 393(d); Cain Rpt. ¶¶ 20, 37-
+38).) Cf. Computer Sciences, 288 F.R.D. at 119 (“[D]efendant has cited no case, and none has 
+been found, holding that the NYSE is not an efficient market for shares of common stock 
+traded, as here, in substantial volumes.”). Finally, the proposed class is properly delimited to 
+individuals and entities who bought Under Armour common stock between September 16, 
+
+2015, the date of the first alleged misrepresentations and omissions, and November 3, 2019, 
+the date of complete disclosure. (TAC ¶¶ 377–89; accord ECF Nos. 131-4, 153-5, 153-6.) 
+Although this Court does not make any findings at the class certification stage, Plaintiffs have 
+demonstrated their entitlement to the Basic presumption of fraud on the market for the 
+purpose of Rule 23(b)(3).                                                 
+   The possibility of individualized damages calculations does not vitiate predominance. 
+
+“To satisfy predominance, Plaintiffs’ damages must be ‘capable of measurement on a classwide 
+basis.’” Marriott, 341 F.R.D. at 161 (quoting Comcast, 569 U.S. at 34). “However, there is no 
+requirement that Plaintiffs’ damages ‘must be calculated on a class-wide basis.’” Id. (quoting 
+Parker v. Asbestos Processing, LLC, No. 11-cv-1800-JFA, 2015 WL 127930, at *14 (D.S.C. Jan. 
+
+8, 2015)) (emphasis in original). Instead, it is sufficient to demonstrate “a common, classwide 
+method for determining individual damages.”  Id. (citing 4 Newberg § 12:4) (emphasis in 
+original).                                                                
+   Such is the case here. As Plaintiffs correctly observe, each class member’s damages may 
+be calculated by “determining the difference between inflation on the security purchase or 
+acquisition date and inflation on the security sale date.” (Mem. Supp. 30-31 (citing Cain. Rpt. 
+
+¶¶ 72–80).) Several courts have sanctioned the use of similar “out-of-pocket” methodologies 
+in analogous securities fraud cases. See, e.g., City of Cape Coral Mun. Firefighters’ Ret. Plan v. 
+Emergent Biosolutions, Inc., HQ, 322 F. Supp. 3d 676, 691 (D. Md. 2018); KBC Asset Mgmt. NV 
+v. 3D Sys. Corp., No. 0:15-2393-MGL, 2017 WL 4297450, at *7 (D.S.C. Sep. 28, 2017) (“The 
+Supreme Court long ago agreed with this approach when it held ‘the correct measure of 
+damages . . . is the difference between the fair value of all [the plaintiff] received and the fair 
+
+value of what he would have received had there been no fraudulent conduct.’” (quoting 
+Affiliated Ute Citizens of Utah v. United States, 406 U.S. 128, 155 (1972)) (alteration in original)). 
+Under this method, “even though the per-share damages for each member of the Class may 
+vary based on the timing of stock purchases and sales, the methodology used to identify the 
+damages will be the same for all Class members.” (Mem. Supp. 30-31.) Accordingly, this Court 
+concludes that the common questions of liability predominate, notwithstanding the possibility 
+
+that individual damages may vary.                                         
+F.  Superiority                                                         
+   The final requirement of Rule 23(b)(3) is that a class action be superior to other 
+methods for the fair and efficient adjudication of the controversy. Rule 23(b)(3) requires courts 
+
+to consider four factors when assessing this requirement:                 
+   (A) the class members’ interests in individually controlling the prosecution or 
+   defense of separate actions;                                         
+   (B) the extent and nature of any litigation concerning the controversy already 
+   begun by or against class members;                                   
+   (C) the desirability or undesirability of concentrating the litigation of the 
+   claims in the particular forum; and                                  
+   (D) the likely difficulties in managing a class action.              
+
+Fed. R. Civ. P. 23(b)(3); accord Lloyd v. Gen. Motors Corp., 275 F.R.D. 224, 228 (D. Md. 2011). 
+“Ultimately, the ‘determination of superiority necessarily depends greatly on the circumstances 
+surrounding each case.’” Marriott, 341 F.R.D. at 165 (quoting Stillmock v. Weis Mkts., Inc., 385 
+F. App’x 267, 274 (4th Cir. 2010)); accord Prudential Ins. Co. Am. Sales Practice Litig., 148 F.3d 
+283, 316 (3d Cir. 1998) (requiring the court “to balance, in terms of fairness and efficiency, 
+the merits of a class action against those of alternative available methods of adjudication” 
+(quoting Georgine v. Amchem Prods., Inc., 83 F.3d 610, 632 (3d Cir. 1996)). 
+    “Based on these factors, the Court finds that proceeding as a class action in this action, 
+as in public traded securities claims generally, is the superior mechanism to adjudicate the 
+Class’s claims.” In re Willis Towers Watson PLC Proxy Litig., No. 1:17-cv-1338 (AJT/JFA), 2020 
+WL 5361582, at *11 (E.D. Va. 2020). Plaintiffs seek to certify a class of potentially thousands 
+of buyers who purchased millions of Under Armour common stock. Individual litigation 
+would be burdensome for the class members, who may be geographically dispersed, and 
+“whose individual damages likely are small enough to keep individual litigation from being 
+economically worthwhile.” (Mem. Supp. 33.) Comparatively, centralizing litigation in the 
+district  where  Under  Armour  is  headquartered  will  “eliminat[e]  the  risk  of  inconsistent 
+adjudication and promot[e] the fair and efficient use of the judicial system.” (Id.) Accordingly, 
+
+this Court concludes that “certification of the case as a class action would not only be superior 
+to other available methods for fairly and efficiently adjudicating the controversy, but it also 
+appears to be the sole method for fairly and efficiently litigating claims on behalf of all 
+members of the proposed class.” (Id.)                                     
+IV.  Class Counsel                                                      
+   This Court finds that Robbins Geller satisfies all of the requirements under Federal 
+
+Rule of Civil Procedure 23(g)(1)(A), and is capable of serving as class counsel in this matter. 
+As Judge Titus recently observed, “Robbins Geller has been appointed class counsel in 
+hundreds of securities class actions and has competently met its obligations under Rule 23 in 
+those cases.” Cape Coral, 322 F. Supp. 3d at 693; accord Villella, 333 F.R.D. at 59 (concluding 
+that Robbins Geller “has extensive experience in securities class actions and complex litigation, 
+.  .  .  indicating  its  ability  to  manage  this  litigation  and  ably  apply  the  applicable  law”). 
+
+Accordingly, this Court hereby appoints Robbins Geller Rudman & Dowd, LLP, to serve as 
+Class Counsel pursuant to Rule 23(g).                                     
+                        CONCLUSION                                      
+
+   For the reasons stated above, Plaintiffs’ Motion for Class Certification (ECF No. 197), 
+is hereby GRANTED. A separate Order follows.                              
+
+
+
+Dated: September 29, 2022                                                 
+
+                                      ______/s/__________________       
+                                      ___                               
+                                      Richard D. Bennett                
+                                      United States Senior District Judge 

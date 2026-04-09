@@ -1,0 +1,17 @@
+{
+  "source": "CourtListener/RECAP",
+  "search_query": "United States v. Elizabeth Holmes",
+  "docket_id": 66746322,
+  "case_name": "United States v. Elizabeth Holmes",
+  "court": "ca9",
+  "date_filed": "2022-12-02",
+  "date_terminated": "2025-02-24",
+  "num_entries": 0,
+  "num_pdfs_downloaded": 0,
+  "num_opinion_clusters": 1,
+  "num_opinion_texts": 1,
+  "num_parties": 0,
+  "nature_of_suit": "",
+  "pacer_case_id": "341504",
+  "ia_link": ""
+}

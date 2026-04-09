@@ -1,0 +1,127 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    IN RE TESLA, INC. SECURITIES     Case No.  18-cv-04865-EMC           
+
+8    LITIGATION.                                                          
+                                      ORDER DENYING PLAINTIFF             
+9                                     LITTLETON’S MOTION FOR              
+                                      TEMPORARY RESTRAINING ORDER         
+10                                                                         
+                                      Docket No. 395                      
+11                                                                         
+
+12                                                                         
+13                                                                         
+14        Currently pending before the Court is Plaintiff Glen Littleton’s motion for a temporary 
+15   restraining order (“TRO”).  Mr. Littleton asks the Court to temporarily enjoin Defendant Elon 
+16   Musk from                                                             
+
+17             discussing this case and its underlying facts including but not 
+              limited to: the character, credibility, or reputation of any party or 
+18             witness; the contents of any pretrial materials or evidence in the 
+              case; the strengths or weaknesses of the case of either party; and any 
+19             other information Defendants or their counsel know or reasonably 
+              should know is likely to be inadmissible as evidence and would 
+20             create a substantial risk of prejudice if disclosed.        
+21   Prop. Order at 1-2.  Mr. Littleton believes that a TRO is necessary based on recent comments 
+22   made by Mr. Musk during a TED Talk held on April 14, 2022.  During the talk, Mr. Musk stated 
+23   that funding had been secured to take Tesla private back in July-August 2018.  Mr. Musk made 
+24   these comments after the Court issued its summary judgment order, which found that Mr. Musk’s 
+25   tweets from August 2018 – claiming, e.g., that funding was secured – were in fact false and made 
+26   with the requisite scienter.1                                         
+27                                                                         
+1        Having considered the parties’ briefs and accompanying submissions, the Court finds the 
+2   matter suitable for resolution without oral argument.  The motion for relief is hereby DENIED. 
+
+3             The order requested by Defendant is a form of prior restraint: 
+              “[c]ourt orders aimed at preventing or forbidding speech ‘are classic 
+4             examples of prior restraints.’”  Marceaux v. Lafayette City-Par. 
+              Consol. Gov't, 731 F.3d 488, 493 (5th Cir. 2013) (quoting Alexander 
+5             v. United States, 509 U.S. 544, 550 (1993)).  “Prior restraints on 
+              speech are disfavored and carry a heavy presumption of invalidity.”  
+6             Greater Los Angeles Agency on Deafness, Inc. v. Cable News  
+              Network, Inc., 742 F.3d 414, 430 (9th Cir. 2014) (quoting Long 
+7             Beach Area Peace Network v. City of Long Beach, 574 F.3d 1011, 
+              1023 (9th Cir. 2009)).  Due to the dangers they pose, prior restraints 
+8             on speech are subject to strict scrutiny.  See Arizona Right to Life 
+              Political Action Comm. v. Bayless, 320 F.3d 1002, 1008 (9th Cir. 
+9             2003).                                                      
+10   Doe v. Rose, No. CV-15-07503-MWF-JCx, 2016 U.S. Dist. LEXIS 203529, at *5 (C.D. Cal. Sept. 
+11   30, 2016).                                                            
+12        The Ninth Circuit has provided guidance as to when a prior restraint on trial participants is 
+13   appropriate.  A court may issue a “gag order” against trial participants when “(1) the activity 
+14   restrained poses either a clear and present danger or a serious and imminent threat to a protected 
+15   competing interest; (2) the order is narrowly drawn; and (3) less restrictive alternatives are not 
+16   available.”  Levine v. U.S. Dist. Ct., 764 F.2d 590, 595 (9th Cir. 1985). 
+17        The Court finds that, in the instant case, Mr. Littleton has failed to make a satisfactory 
+18   showing on any of the above elements.  For example, on (1), although this Court has a duty to 
+19   insure the fairness of the trial and there will likely be a fair, or even substantial, amount of 
+20   publicity at trial, the trial has now been rescheduled for January 2023.  See id. at 598 (indicating 
+21   that publicity during or immediately before trial is more of a concern than “publicity months in 
+22   advance of trial”); cf. id. at 600 (indicating that voir dire may eliminate bias caused by pretrial 
+23   publicity).  Furthermore, the jury will be drawn from a “large, populous, metropolitan, and 
+24   heterogeneous” community – a consideration the Ninth Circuit has stated is “critical” when a court 
+25   considers “the likely effect of pretrial publicity on the jury pool.”  Dan Farr Prods. v. U.S. Dist. 
+26   Ct., 874 F.3d 590, 594 (9th Cir. 2017).  Finally, it is worth noting that the substance of Mr. Musk’s 
+27                                                                         
+1   recent comments are consistent with the public positions that he has already taken during this 
+2   litigation, including at summary judgment.                            
+3        On (2), the proposed TRO appears overbroad in that it restricts Mr. Musk (not just his 
+4   counsel) from speaking and that it prevents him from speaking to anyone (not just, e.g., media).2  
+5   Cf. Levine, 764 F.2d at 593 n.1 (pointing out that only defense counsel and not the defendant 
+6   himself was restricted from having contact with the media); id. at 595 (noting that “[t]he case for 
+7   restraints on trial participants is especially strong with respect to attorneys”); Farr, 874 F.3d at 
+8   593 n.3 (noting that, under Levine, “a lower standard applies to prior restraints of attorneys 
+9   participating in a case, who are officers of the court subject to fiduciary and ethical obligations” – 
+10   and that this lower standard “does not apply to non-attorney participants”) (emphasis in original).   
+11        Finally, on (3) as indicated above, voir dire can address bias caused by pretrial publicity.  
+12   See also Farr, 874 F.3d at 595 (noting that voir dire is not designed to exclude from the jury “all 
+13   citizens who have read or heard about the case and who keep abreast of current events”; “rather, it 
+14   screens out ‘those with fixed opinions as to guilt or innocence’”) (emphasis in original).  In 
+15   addition, though “jury instructions are often an ineffective remedy,” Levine, 764 F.2d at 600, the 
+16   Court finds that unlikely to be true for the instant case where the jury will be told that the Court 
+17   has already found that the August 2018 tweets were false and made with the requisite scienter.  
+18   See Farr, 874 F.3d at 593 (stating that “[a] prior restraint to ensure a fair trial is permissible ‘only 
+19   if its absence would prevent securing twelve jurors who could, with proper judicial protection, 
+20   render a verdict based only on the evidence admitted during trial’”); id. at 595 (adding that there is 
+21   “a rebuttable presumption that juries follow jury instructions”).     
+22   ///                                                                   
+23   ///                                                                   
+24   ///                                                                   
+25   ///                                                                   
+26                                                                         
+
+27                                                                         
+    2 In his motion, Mr. Littleton states that he seeks to enjoin Mr. Musk “from communicating with 
+1        Accordingly, Mr. Littleton’s motion for a TRO is denied.         
+2        This order disposes of Docket No. 395.                           
+3                                                                         
+4        IT IS SO ORDERED.                                                
+5                                                                         
+6   Dated: April 20, 2022                                                 
+7                                                                         
+8                                   ______________________________________ 
+                                    EDWARD M. CHEN                        
+9                                   United States District Judge          
+10                                                                         
+11                                                                         
+12                                                                         
+13                                                                         
+14                                                                         
+15                                                                         
+16                                                                         
+17                                                                         
+18                                                                         
+19                                                                         
+20                                                                         
+21                                                                         
+22                                                                         
+23                                                                         
+24                                                                         
+25                                                                         
+26                                                                         
+27                                                                         

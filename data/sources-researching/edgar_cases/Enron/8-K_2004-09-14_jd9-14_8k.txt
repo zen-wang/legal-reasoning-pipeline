@@ -1,0 +1,101 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>jd9-14_8k.txt
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                              _____________________
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(D) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+      DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): SEPTEMBER 10, 2004
+
+
+                                   ENRON CORP.
+               (Exact name of Registrant as specified in charter)
+
+            OREGON                      1-13159                 47-0255140
+ (State or other jurisdiction    (Commission file number)    (I.R.S. employer
+      of incorporation)                                     identification no.)
+
+               1221 LAMAR #1600
+                HOUSTON, TEXAS                              77010-1221
+   (Address of principal executive offices)                 (Zip Code)
+
+       Registrant's telephone number, including area code: (713) 853-6161
+
+         Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+  [ ]     Written communications pursuant to Rule 425 under the Securities Act
+          (17 CFR 230.425)
+
+  [ ]     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+          CFR 240.14a-12)
+
+  [ ]     Pre-commencement communications pursuant to Rule 14d-2(b) under the
+          Exchange Act (17 CFR 240.14d-2(b))
+
+  [ ]     Pre-commencement communications pursuant to Rule 13e-4(c) under the
+          Exchange Act (17 CFR 240.13e-4(c))
+
+                              _____________________
+
+
+
+<PAGE>
+                            Section 8 - Other Events
+
+ITEM 8.01.    OTHER EVENTS.
+
+              On September 10, 2004, the United States Bankruptcy Court for the
+Southern District of New York approved the sale of CrossCountry Energy, LLC
+(CrossCountry Energy) to CCE Holdings, LLC (CCE Holdings), a joint venture of
+Southern Union Company and GE Commercial Finance Energy Financial Services, for
+$2.45 billion in cash, including the assumption of debt. Enron Corp. and CCE
+Holdings originally entered into an agreement related to the sale of
+CrossCountry Energy on June 24, 2004, which was subsequently amended on
+September 1, 2004.
+
+
+
+
+
+
+                                       2
+<PAGE>
+                                   SIGNATURES
+
+              Pursuant to the requirements of the Securities Exchange Act of
+1934, as amended, the registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+                                          ENRON CORP.
+
+
+Date:  September 14, 2004                 By:  /s/ Raymond M. Bowen
+                                             -----------------------------------
+                                             Name:  Raymond M. Bowen
+                                             Title: Executive Vice President and
+                                                    Chief Financial Officer
+
+
+
+
+
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>

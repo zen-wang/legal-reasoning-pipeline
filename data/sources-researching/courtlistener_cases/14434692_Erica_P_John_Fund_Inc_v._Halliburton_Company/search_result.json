@@ -1,0 +1,134 @@
+{
+  "assignedTo": "Barbara M. Lynn",
+  "assigned_to_id": 1999,
+  "attorney": [
+    "Patrick R Day",
+    "Simon Latcovich",
+    "Terrance O'Donnell",
+    "JoAnna DeWald",
+    "Carl E Goldfarb"
+  ],
+  "attorney_id": [
+    6019077,
+    6019078,
+    6019079,
+    6019080,
+    6019081
+  ],
+  "caseName": "Erica P John Fund Inc v. Halliburton Company",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "District Court, N.D. Texas",
+  "court_citation_string": "N.D. Tex.",
+  "court_id": "txnd",
+  "dateArgued": null,
+  "dateFiled": "2016-01-25",
+  "dateTerminated": "2016-02-22",
+  "docketNumber": "3:16-mc-00009",
+  "docket_absolute_url": "/docket/14434692/erica-p-john-fund-inc-v-halliburton-company/",
+  "docket_id": 14434692,
+  "firm": [
+    "Williams & Connolly LLP",
+    "Boies Schiller & Flexner LLP"
+  ],
+  "firm_id": [
+    36699,
+    2390
+  ],
+  "jurisdictionType": "Government defendant",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-03-07T03:56:54.392217Z",
+    "date_created": "2019-01-25T04:31:53.300871Z",
+    "score": {
+      "bm25": 2205.8245
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "269302",
+  "party": [
+    "Halliburton Company",
+    "Erica P John Fund Inc",
+    "David J Lesar",
+    "Richard Cheney"
+  ],
+  "party_id": [
+    9024500,
+    9024501,
+    9024502,
+    9024503
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/14434692/11/erica-p-john-fund-inc-v-halliburton-company/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "(Document Restricted) Sealed Response re: 1 Motion to Quash, (Sealed pursuant to order dated 8/18/2008) filed by Erica P John Fund Inc (Goldfarb, Carl) (Entered: 02/08/2016)",
+      "docket_entry_id": 113163541,
+      "document_number": 11,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2016-02-08",
+      "entry_number": 11,
+      "filepath_local": null,
+      "id": 117513093,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-05-07T19:46:56.076036Z",
+        "date_created": "2019-12-17T21:20:16.881938Z"
+      },
+      "pacer_doc_id": "17709612820",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/14434692/12/erica-p-john-fund-inc-v-halliburton-company/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "(Document Restricted) Sealed Appendix in Support re: 11 Sealed and/or Ex Parte Response/Objection (Sealed pursuant to order dated 8/18/2008) filed by Erica P John Fund Inc (Goldfarb, Carl) (Entered: 02/08/2016)",
+      "docket_entry_id": 113163542,
+      "document_number": 12,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2016-02-08",
+      "entry_number": 12,
+      "filepath_local": null,
+      "id": 117513094,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-05-07T19:46:56.091605Z",
+        "date_created": "2019-12-17T21:20:16.902626Z"
+      },
+      "pacer_doc_id": "17709612845",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/14434692/10/erica-p-john-fund-inc-v-halliburton-company/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "ORDER: Before the Court is Non-Party Richard Cheney's (\"Non-Party\") Motion to Quash Subpoena to Testify at a Deposition (\"Motion to Quash\"), filed on January 20, 2016. The Erica P. John Fund, Inc. is ordered to file an expedited response to Non-Party's Motion to Quash by Monday, February 8, 2016. Non-Party shall file a reply by Monday, February 15, 2016. Non-Party's counsel shall ensure that the attorney who issued the subpoena at issue, Carl E. Goldfarb, counsel for Erica P. John Fund, Inc., receives a copy of this Order without delay. (see order) (Ordered by Magistrate Judge Paul D Stickney on 2/1/2016) (mcrd) (Entered: 02/02/2016)",
+      "docket_entry_id": 113163540,
+      "document_number": 10,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2016-02-01",
+      "entry_number": 10,
+      "filepath_local": null,
+      "id": 117513092,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-05-07T19:46:56.033968Z",
+        "date_created": "2019-12-17T21:20:16.860365Z"
+      },
+      "pacer_doc_id": "17709599149",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    }
+  ],
+  "referredTo": "Rebecca A. Rutherford",
+  "referred_to_id": 9573,
+  "suitNature": "895 Freedom of Information Act of 1974",
+  "trustee_str": null
+}

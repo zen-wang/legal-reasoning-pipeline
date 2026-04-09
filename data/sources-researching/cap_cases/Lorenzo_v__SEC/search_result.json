@@ -1,0 +1,82 @@
+{
+  "absolute_url": "/opinion/4604048/lorenzo-v-sec-exch-commn/",
+  "attorney": "Robert Heim, New York, NY, for the petitioner., Christopher G. Michel, pro hac vice, for the respondent., Robert G. Heim, Howard S. Meyers, Meyers & Heim LLP, New York, NY, for petitioner., Robert B. Stebbins, General Counsel, Michael A. Conley, Solicitor, Dominick V. Freda, Assistant General Counsel, Martin V. Totaro, Senior Counsel, Securities and Exchange Commission, Washington, DC, Noel J. Francisco, Solicitor General, Malcolm L. Stewart, Deputy Solicitor General, Christopher G. Michel, Assistant to the Solicitor General, Department of Justice, Washington, DC, for respondent.",
+  "caseName": "Lorenzo v. SEC. & Exch. Comm'n",
+  "caseNameFull": "Francis v. LORENZO, Petitioner v. SECURITIES AND EXCHANGE COMMISSION",
+  "citation": [
+    "587 U.S. 71",
+    "139 S. Ct. 1094",
+    "203 L. Ed. 2d 484",
+    "2019 U.S. LEXIS 2295"
+  ],
+  "citeCount": 139,
+  "cluster_id": 4604048,
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "court_id": "scotus",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-03-27",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "17-1077",
+  "docket_id": 14808987,
+  "judge": "Stephen Breyer",
+  "lexisCite": "2019 U.S. LEXIS 2295",
+  "meta": {
+    "timestamp": "2025-10-27T18:33:59.224201Z",
+    "date_created": "2019-03-27T15:00:33.890163Z",
+    "score": {
+      "bm25": 64.95763
+    }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+    {
+      "author_id": 384,
+      "cites": [
+        96405,
+        101879,
+        103440,
+        104302,
+        106707,
+        108526,
+        109420,
+        109626,
+        110079,
+        110272,
+        110825,
+        117837,
+        145837,
+        218666,
+        612383
+      ],
+      "download_url": "https://www.supremecourt.gov/opinions/18pdf/17-1077_21o3.pdf",
+      "id": 4381301,
+      "joined_by_ids": [],
+      "local_path": "pdf/2019/03/27/lorenzo_v._sec.pdf",
+      "meta": {
+        "timestamp": "2025-10-27T18:33:59.252100Z",
+        "date_created": "2019-03-27T15:00:33.910793Z"
+      },
+      "ordering_key": null,
+      "per_curiam": false,
+      "sha1": "2931fc1023d20d5ab3dfe8a84f2b63c72136b635",
+      "snippet": "\n\n\n  Justice BREYER delivered the opinion of the Court.\n \n\n  Securities and Exchange Commission Rule 10b-5 makes it unlawful:\n \n\n  \"(a) To employ any device, scheme, or artifice to defraud,\n \n\n  \"(b) To make any untrue statement of a material fact ..., or\n \n\n  \"(c) To engage in any act, practice, or c",
+      "type": "combined-opinion"
+    }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "2018-029",
+  "sibling_ids": [
+    4381301
+  ],
+  "source": "CU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+}

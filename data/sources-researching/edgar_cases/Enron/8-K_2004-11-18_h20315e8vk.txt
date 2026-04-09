@@ -1,0 +1,1321 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>h20315e8vk.txt
+<DESCRIPTION>ENRON CORP. - DATED 11/17/2004
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                              ---------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+       DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): NOVEMBER 17, 2004
+
+
+                                   ENRON CORP.
+               (Exact name of Registrant as specified in charter)
+
+
+           OREGON                        1-13159                 47-0255140
+(State or other jurisdiction     (Commission file number)     (I.R.S. employer
+     of incorporation)                                       identification no.)
+
+            1221 LAMAR #1600
+             HOUSTON, TEXAS                                      77010-1221
+(Address of principal executive offices)                         (Zip Code)
+
+       Registrant's telephone number, including area code: (713) 853-6161
+
+         Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+         [ ] Written communications pursuant to Rule 425 under the Securities
+             Act (17 CFR 230.425)
+
+         [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+             (17 CFR 240.14a-12)
+
+         [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+             Exchange Act (17 CFR 240.14d-2(b))
+
+         [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+             Exchange Act (17 CFR 240.13e-4(c))
+
+                              ---------------------
+
+<PAGE>
+                SECTION 1 - REGISTRANT'S BUSINESS AND OPERATIONS
+
+ITEM 1.01. ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT.
+
+         Pursuant to the Supplemental Modified Fifth Amended Joint Plan of
+Affiliated Debtors Pursuant to Chapter 11 of the United States Bankruptcy Code
+(the "Chapter 11 Plan") of Enron Corp. (the "Company") and its
+debtor-in-possession subsidiaries (collectively with the Company, the
+"Reorganized Debtors"; and as they existed prior to the Effective Date (as
+defined in Item 8.01 of this Current Report on Form 8-K), the "Debtors"), filed
+with the U.S. Bankruptcy Court for the Southern District of New York (the
+"Bankruptcy Court") on July 2, 2004, and confirmed by the Bankruptcy Court on
+July 15, 2004, (i) the Debtors entered into a Common Equity Trust Agreement and
+a Preferred Equity Trust Agreement on November 16, 2004, and (ii) the
+Reorganized Debtors entered into a Reorganized Debtor Plan Administration
+Agreement (the "Plan Administration Agreement") on the Effective Date, in each
+case, with Stephen Forbes Cooper LLC, a New Jersey limited liability company
+("SFC"). Copies of the Common Equity Trust Agreement, Preferred Equity Trust
+Agreement and Plan Administration Agreement are attached as Exhibits 10.1, 10.2
+and 10.3, respectively, to this Current Report on Form 8-K. The descriptions of
+such agreements set forth below are qualified by reference to their complete
+text.
+
+         Under the Common Equity Trust Agreement and the Preferred Equity Trust
+Agreement, SFC will act as a trustee of two trusts formed to hold the Company's
+Common Stock (the "Common Equity Trust") and four classes of preferred stock
+(the "Preferred Equity Trust"), respectively, which were issued pursuant to the
+Chapter 11 Plan on its Effective Date. The beneficiaries of these two trusts are
+the former holders of the Company's Common Stock and four classes of preferred
+stock that was cancelled on the Effective Date pursuant to the Chapter 11 Plan,
+as described in greater detail in Item 8.01 of this Current Report on Form 8-K.
+The interests in such trusts are uncertificated, non-voting and
+non-transferable, except that such interests may be transferred by the laws of
+descent and distribution. In the highly unlikely event that the value of the
+Company's assets exceed the amount of its allowed claims under the Chapter 11
+Plan, the Company will make distributions pursuant to the Chapter 11 Plan to the
+Common Equity Trust and the Preferred Equity Trust based upon the relative
+rights and preferences of the stock of the Company that such trusts hold, and
+such trusts will make distributions to the holders of their trust interests.
+Distributions from the Preferred Equity Trust will be made based upon the
+relative rights and preferences allocated among its trusts interests. The Common
+Equity Trust Agreement and the Preferred Equity Trust Agreement do not provide
+for compensation of SFC as trustee, which compensation is, instead, provided for
+in the Plan Administration Agreement. The Common Equity Trust and the Preferred
+Equity Trust are described in greater detail in Item 3.03 of this Current Report
+on Form 8-K.
+
+         Under the Plan Administration Agreement, SFC is appointed as the
+Chapter 11 Plan's Reorganized Debtor Plan Administrator. SFC's duties will
+generally include administering the Reorganized Debtors' estates in accordance
+with the Chapter 11 Plan subject to the review and oversight of the Company's
+Board of Directors, while having authority to (i) compromise and settle claims
+and causes of action, and (ii) enter into agreements for the disposition of
+assets, in each case, falling below certain threshold requirements, without
+obtaining further specific Board approval. To perform its duties under the Plan
+Administration Agreement, SFC may utilize a number of Associate Directors of
+Restructuring selected and approved pursuant to a process set
+
+
+                                       2
+<PAGE>
+forth therein. Each employee of SFC that provides services to the Reorganized
+Debtors under the Plan Administration Agreement is required to execute a Duty of
+Loyalty Agreement in a form attached to the Plan Administration Agreement. For
+its services under the Chapter 11 Plan Administration Agreement, SFC is to be
+paid an annual fee of $1,320,000 plus $864,000 for each Associate Director of
+Restructuring providing services to the Reorganized Debtors thereunder, with
+such annual fee paid in monthly amounts as adjusted for the actual number of
+hours worked and based upon a rate schedule attached to the Plan Administration
+Agreement. The schedule of rates may be adjusted by SFC unless the Company's
+Board of Directors affirmatively objects to such increase, in which case SFC may
+increase the rates on such schedule with the approval of the Bankruptcy Court.
+Also, SFC is to be reimbursed for its expenses and may request of the Company's
+Board of Directors and the Bankruptcy Court an additional fee to be paid after
+the earlier of (i) the termination of the Plan Administration Agreement for a
+reason other than Cause (a term defined in the Plan Administration Agreement) or
+(ii) the liquidation of substantially all of the Reorganized Debtors' material
+assets. SFC's compensation under the Plan Administration Agreement will be its
+sole compensation for acting as Reorganized Debtor Plan Administrator, the
+Disbursing Agent of the Reorganized Debtors under the Chapter 11 Plan, and a
+trustee of any trust created pursuant to the Chapter 11 Plan. SFC and its
+representatives receive exculpation and indemnification under the Plan
+Administration Agreement. The Plan Administration Agreement terminates upon the
+earlier of (x) the resignation or removal of SFC as the Reorganized Debtor Plan
+Administrator, or (y) thirty days following the closing of the bankruptcy cases
+of the Reorganized Debtors. If SFC is removed as Reorganized Debtor Plan
+Administrator without Cause, a termination fee of $2,900,000 will be payable to
+SFC.
+
+         SFC has provided management services to the Debtors during the course
+of their bankruptcy. Also, prior to the Effective Date, Stephen Cooper, a member
+of SFC, has acted as Interim President, Interim Chief Executive Officer and
+Chief Restructuring Officer of the Company.
+
+ITEM 1.02. TERMINATION OF A MATERIAL DEFINITIVE AGREEMENT.
+
+         Upon the Effective Date, all executory contracts of the Debtors that
+are not set forth on the assumption schedule which is attached to this Current
+Report as Exhibit 99.1, and were not otherwise assumed by any Debtor as approved
+by order of the Bankruptcy Court, are deemed rejected pursuant to the Chapter 11
+Plan and no longer enforceable against the Reorganized Debtors. The Debtors are
+conducting a process of determining damages that would be payable to third
+parties as a result of the rejection of such contracts. However, the Debtors
+have not identified any such contracts as material agreements not made in the
+ordinary course of business requiring specific identification in this Item 1.02.
+Also, the aggregate amount of damages payable as a result of such rejections is
+subject to litigation and has not been determined.
+
+ITEM 2.01 COMPLETION OF ACQUISITION OR DISPOSITION OF ASSETS.
+
+
+         On November 17, 2004, the Company and certain of its affiliates
+consummated the sale of 100% of the equity interests of CrossCountry Energy, LLC
+("CrossCountry") to CCE Holdings, LLC, a joint venture of Southern Union Company
+and GE Commercial Finance Energy Financial Services, an affiliate of the General
+Electric Corporation. CrossCountry was
+
+
+                                       3
+<PAGE>
+formed in June 2003 to hold interests in and operate the Company's interstate
+natural gas pipeline assets, including the Company's interest in Transwestern
+Pipeline Company, Citrus Corp. and Northern Plains Natural Gas Company. CCE
+Holdings, LLC paid the Company and its affiliates a net cash purchase price of
+approximately $2.11 billion.
+
+                   SECTION 3 - SECURITIES AND TRADING MARKETS
+
+ITEM 3.03. MATERIAL MODIFICATION TO RIGHTS OF SECURITY HOLDERS.
+
+         On the Effective Date, all of the Company's outstanding stock was
+cancelled. This stock included the Company's Common Stock and Cumulative Second
+Preferred Convertible Stock, both of which were registered under the Securities
+Exchange Act of 1934 (the "Exchange Act"), and the Company's 9.142% Perpetual
+Second Preferred Stock; Mandatorily Convertible Junior Preferred Stock, Series
+B; and Mandatorily Convertible Single Reset Preferred Stock, Series C. In place
+of such cancelled stock, on the Effective Date, new shares of Common Stock and
+preferred stock of the Company, which contained substantially the same economic
+terms and relative rights and preferences of the cancelled stock, were issued to
+the Common Equity Trust, which holds the newly issued shares of the Company's
+Common Stock, and the Preferred Equity Trust, which holds the newly issued
+shares of the Company's preferred stock. The holders of the Company's stock at
+the time of its cancellation were allocated non-voting, uncertificated and
+non-transferable interests in the Common Equity Trust, if they held cancelled
+shares of Common Stock, and in the Preferred Equity Trust, if they held
+cancelled shares of the Company's preferred stock. The relative rights and
+preferences of the trust interests of the Preferred Equity Trust were allocated
+in the same manner that the relative rights and preferences were allocated among
+the holders of the Company's preferred stock immediately prior to its
+cancellation. In the highly unlikely event that the value of the Company's
+assets exceed the amount of its allowed claims under the Chapter 11 Plan, the
+Company will make distributions pursuant to the Chapter 11 Plan to the Common
+Equity Trust and the Preferred Equity Trust based upon the relative rights and
+preferences of the stock of the Company that such trusts hold, and such trusts
+will make distributions to the holders of their trust interests. Distributions
+from the Preferred Equity Trust will be made based upon the relative rights and
+preferences allocated among its trusts interests.
+
+                 SECTION 5 - CORPORATE GOVERNANCE AND MANAGEMENT
+
+ITEM 5.02. DEPARTURE OF DIRECTORS OR PRINCIPAL OFFICERS; ELECTION OF DIRECTORS;
+           APPOINTMENT OF PRINCIPAL OFFICERS.
+
+         (b) On the Effective Date, the Company's board of directors was
+reconstituted pursuant the Chapter 11 Plan. In connection with such
+reconstitution, John A. Ballantine, Corbin A McNeill, Jr., Raymond S. Troubh and
+Ron W. Haddock resigned from the board of directors effective as of the
+Effective Date.
+
+         (d) In connection with the reconstitution of the board of directors
+described in (b) above, before their resignations as of the Effective Date, the
+resigning directors of the Company appointed, pursuant to the order confirming
+the Chapter 11 Plan, Stephen D. Bennett, Rick A. Harrington, James R. Latimer,
+III, John J. Ray, III and Robert M. Deutschman as the new board
+
+
+                                       4
+<PAGE>
+of directors of the Company. The Chapter 11 Plan required that this
+reconstituted board be selected by the Debtors after consultation (i) with
+respect to 4 members, the statutory committee of creditors holding unsecured
+claims in the Debtors' bankruptcy cases (such directors referred to herein as
+the "Committee Directors"), and (ii) with respect to 1 member, Harrison A.
+Goldin, acting as the appointed examiner of Enron North America Corp., a wholly
+owned subsidiary of the Company, pursuant to an order of the Bankruptcy Court
+dated March 12, 2002 (such director referred to herein as the "ENA Examiner
+Director"). Messrs. Bennett, Harrington, Ray and Deutschman are the Committee
+Directors, and Mr. Latimer is the ENA Examiner Director.
+
+ITEM 5.03. AMENDMENTS TO ARTICLES OF INCORPORATION OR BYLAWS; CHANGE IN FISCAL
+           YEAR.
+
+         (a) Pursuant to the Chapter 11 Plan, upon the Effective Date, the
+Company amended and restated (i) its articles of incorporation in effect
+immediately prior to the Effective Date (the "Pre-Effective Articles") as the
+Second Amended and Restated Articles of Incorporation of Enron Corp., in the
+form attached to this Current Report on Form 8-K as Exhibit 3.1 (the
+"Post-Effective Articles"); and (ii) its bylaws in effect immediately prior to
+the Effective Date (the "Pre-Effective Bylaws") as the Amended and Restated
+Bylaws of Enron Corp., in the form attached to this Current Report on Form 8-K
+as Exhibit 3.2 (the "Post-Effective Bylaws").
+
+         SUMMARY COMPARISON OF THE PRE-EFFECTIVE ARTICLES OF INCORPORATION AND
+         THE POST-EFFECTIVE ARTICLES
+
+         The following comparative summary of the terms of the Pre-Effective
+Articles and the Post-Effective Articles does not purport to be complete. The
+summary of the terms of the Post-Effective Articles is qualified by reference to
+their complete text attached to this Current Report on Form 8-K as Exhibit 3.1,
+and the summary of the Pre-Effective Articles is qualified by reference to their
+complete text, which are filed with the Securities and Exchange Commission (the
+"SEC") as follows:
+
+         Amended and Restated Articles of Incorporation of Enron Oregon Corp.
+(Annex E to the Proxy Statement/Prospectus included in Enron's Registration
+Statement on Form S-4 - File No. 333-13791).
+
+         Articles of Merger of Enron Oregon Corp., an Oregon corporation, and
+Enron Corp., a Delaware corporation (Exhibit 3.02 to Post-Effective Amendment
+No. 1 to Enron's Registration Statement on Form S-3 - File No. 33-60417).
+
+         Articles of Merger of Enron Corp., an Oregon corporation, and Portland
+General Corporation, an Oregon corporation (Exhibit 3.03 to Post-Effective
+Amendment No. 1 to Enron's Registration Statement on Form S-3 - File No.
+33-60417).
+
+         Articles of Amendment of Enron: Form of Series Designation for the
+Enron Convertible Preferred Stock (Annex F to the Proxy Statement/Prospectus
+included in Enron's Registration Statement on Form S-4 - File No. 333-13791).
+
+
+                                       5
+<PAGE>
+         Articles of Amendment of Enron: Form of Series Designation for the
+Enron 9.142% Preferred Stock (Annex G to the Proxy Statement/Prospectus included
+in Enron's Registration Statement on Form S-4 -File No. 333-13791).
+
+         Articles of Amendment of Enron: Statement of Resolutions Establishing
+Series A Junior Voting Convertible Preferred Stock (Exhibit 3.07 to Enron's
+Registration Statement on Form S-3 - File No. 333-44133).
+
+         Articles of Amendment of Enron: Statement of Resolutions Establishing A
+Series of Preferred Stock of Enron Corp. - Mandatorily Convertible Single Reset
+Preferred Stock, Series A (Exhibit 4.01 to Enron's Form 8-K - File No.
+001-13159).
+
+         Articles of Amendment of Enron: Statement of Resolutions Establishing A
+Series of Preferred Stock of Enron Corp. - Mandatorily Convertible Single Reset
+Preferred Stock, Series B (Exhibit 4.02 to Enron's Form 8-K - File No.
+001-13159).
+
+         Articles of Amendment of Enron amending Article IV of the Articles of
+Incorporation (Exhibit 3.10 to Post-Effective Amendment No. 1 to Enron's
+Registration Statement on Form S-3 - File No. 333-70465).
+
+         Articles of Amendment of Enron: Statement of Resolutions Establishing A
+Series of Preferred Stock of Enron Corp. - Mandatorily Convertible Junior
+Preferred Stock, Series B (Exhibit 3.11 to Post-Effective Amendment No. 1 to
+Enron's Registration Statement on Form S-3 - File No. 333-70465).
+
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+NON VOTING STOCK           The Pre-Effective            Pursuant to Section
+                           Articles did not             1123 of the Bankruptcy
+                           address this issue.          Code, the Company shall
+                                                        not issue non-voting
+                                                        equity securities.
+---------------------      -----------------------      ------------------------
+COMMON STOCK               The Pre-Effective            The Chapter 11 Plan
+                           Articles authorized          cancelled all Common
+                           1,200,000,000 shares         Stock outstanding
+                           of Common Stock.             immediately prior to
+                                                        the Effective Date, and
+                                                        the Post-Effective
+                                                        Articles authorized
+                                                        1,200,000,000 shares of
+                                                        new Common Stock. For
+                                                        each share of Common
+                                                        Stock that was
+                                                        cancelled, one share of
+                                                        new Common Stock was
+                                                        issued to the Common
+                                                        Equity Trust as
+                                                        described in Item 3.03
+                                                        of this Current Report
+                                                        on Form 8-K.
+---------------------      -----------------------      ------------------------
+SERIES 1 EXCHANGED         The Statement of             The Chapter 11 Plan
+PREFERRED STOCK AND        Resolutions                  cancelled all
+                           Establishing the             Cumulative Second
+                           Cumulative Second            outstanding immediately
+                           Preferred Convertible        prior to the Effective
+                           Stock Series (the            Date, and the
+                           "Cumulative Second")         Post-Effective Articles
+                           of Enron Oregon Corp.,       authorized 1,137,991
+                                                        shares of Series 1
+</TABLE>
+
+
+                                       6
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+CUMULATIVE SECOND          adopted on June 17,          Exchanged Preferred
+PREFERRED                  1997, authorized             Stock.  These shares of
+CONVERTIBLE STOCK          1,370,000 shares of          Series 1 Exchanged
+                           Cumulative Second.           Preferred Stock have
+                           The statement requires       been issued to the
+                           that the following be        Preferred Equity Trust
+                           approved by the              as described in Item
+                           holders of at least          3.03 of this Current
+                           two-thirds of the            Report on Form 8-K.
+                           Cumulative Second:
+                                                        The holder of each
+                           (i) Any amendment of         share of Series 1
+                           the Bylaws or Articles       Exchanged Preferred
+                           that adversely affects       Stock only has the
+                           the voting rights of         right to one vote for
+                           such shares;                 each share of Series 1
+                                                        Exchanged Preferred
+                           (ii) the issuance of         Stock and votes
+                           stock ranking prior to       together with the
+                           such shares;                 Common Stock.
+
+                           (iii) any voluntary          Except for the addition
+                           dissolution,                 of the voting rights
+                           liquidation or winding       discussed above, which
+                           up of the affairs of         are effective with the
+                           the Company or lease         requirement of a
+                           or conveyance of             default, the Series 1
+                           substantially all of         Exchanged Preferred
+                           its property; and            Stock provides all
+                                                        holders thereof in the
+                           (iv) the purchase or         aggregate with the same
+                           redemption of less           relative,
+                           than all of such             participating, optional
+                           shares unless all            or other special rights
+                           dividends are paid.          and powers as those
+                                                        held by all of the
+                           Any of the following         holders of the
+                           actions must be              Cumulative Second;
+                           approved by at least a       provided, however, the
+                           simple majority of           remedies for default by
+                           such shares:                 the Company with
+                                                        respect to the election
+                           (i) the issuance of          of directors provided
+                           any class of any             in the Resolutions
+                           security convertible         Establishing the
+                           into stock ranking on        Cumulative Second shall
+                           parity with such             not be effective until
+                           shares if those shares       the holders of Allowed
+                           when added together          Enron Preferred Equity
+                           with the Cumulative          Interests (Class 383)
+                           Second equal                 (as defined in the
+                           5,000,000, or                Chapter 11 Plan), with
+                                                        regard to the Company's
+                           (ii) the merger of the       Cumulative Second, are
+                           Company with any other       entitled to
+                           corporation, unless          distributions under the
+                           after the merger the         Chapter 11 Plan.
+                           rights of holders of
+                           Cumulative Second are
+                           preserved and no
+                           shares rank prior to
+                           or on parity with the
+                           shares with such
+                           rights, except such
+                           shares that are
+                           authorized immediately
+                           prior to the merger.
+
+                           If the dividends of
+                           the Cumulative Second
+                           are in arrears the
+                           stockholders of such
+                           shares may elect two
+                           directors.
+</TABLE>
+
+
+                                       7
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+SERIES 2 EXCHANGED         The Statement of             The Chapter 11 Plan
+PREFERRED STOCK AND        Resolutions                  cancelled all
+9.142% PERPETUAL           Establishing the             Perpetual Second
+SECOND PREFERRED           9.142% Perpetual             outstanding immediately
+STOCK                      Second Preferred             prior to the Effective
+                           Series of Stock (the         Date, and the
+                           "Perpetual Second") of       Post-Effective Articles
+                           Enron Oregon Corp.,          authorized 36 shares of
+                           adopted on June 17,          Series 2 Exchanged
+                           1997, authorized             Preferred Stock.  One
+                           35.568509 shares of          share of Series 2
+                           Perpetual Second.  The       Exchanged Preferred
+                           statement requires           Stock for each share of
+                           that the following           cancelled Perpetual
+                           must be approved by          Second has been issued
+                           the holders of at            to the Preferred Equity
+                           least two-thirds of          Trust as described in
+                           the Perpetual Second:        Item 3.03 of this
+                                                        Current Report on Form
+                           (i) any amendment of         8-K.
+                           the Bylaws or Articles
+                           that adversely affects       The holder of each
+                           the voting rights of         share of Series 2
+                           such shares;                 Exchanged Preferred
+                                                        Stock has the right to
+                           (ii) the issuance of         one vote for each share
+                           any number of shares         of Series 2 Exchanged
+                           of any series of stock       Preferred Stock and
+                           ranking prior to such        votes together with the
+                           shares, except such          Common Stock.
+                           shares that are
+                           authorized immediately       Except for the addition
+                           prior to the merger;         of the voting rights
+                                                        discussed above, which
+                           (iii) any voluntary          are effective with the
+                           dissolution,                 requirement of a
+                           liquidation or winding       default, each share of
+                           up of the affairs of         Series 2 Exchanged
+                           the Company or lease         Preferred Stock
+                           or conveyance of             provides the holders
+                           substantially all of         thereof with the same
+                           its property; and            relative,
+                                                        participating, optional
+                           (iv) the purchase or         or other special rights
+                           redemption of less           and powers as those
+                           than all of such stock       held by the holders of
+                           unless all dividends         each share of the
+                           are paid.                    Company's Perpetual
+                                                        Second; provided,
+                           Any of the following         however, the remedies
+                           actions must be              for default by the
+                           approved by at least a       Company with respect to
+                           simple majority of           the election of
+                           such shares:                 directors provided in
+                                                        the Resolutions
+                           (i) the issuance of          Establishing the
+                           any class of any             Perpetual Second shall
+                           security convertible         not be effective until
+                           into stock ranking on        the holders of Allowed
+                           parity with such             Enron Preferred Equity
+                           shares if those shares       Interests (Class 383)
+                           when added together          (as defined in the
+                           with the Perpetual           Chapter 11 Plan), with
+                           Second equal                 regard to the Company's
+                           5,000,000, or                Perpetual Second, are
+                                                        entitled to
+                           (ii) the merger of the       distributions under the
+                           Company with any other       Chapter 11 Plan.
+                           corporation, unless
+                           after the merger the
+                           same rights for
+                           holders of
+</TABLE>
+
+
+                                       8
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+                           the Perpetual Second
+                           are preserved and no
+                           shares rank prior to
+                           or on parity with the
+                           Perpetual Second.
+
+                           If the dividends of
+                           the Perpetual Second
+                           are in arrears, the
+                           Perpetual Second
+                           stockholders may elect
+                           two directors.
+---------------------      -----------------------      ------------------------
+SERIES 3 EXCHANGED         The Statement of             The Chapter 11 Plan
+PREFERRED STOCK AND        Resolutions                  cancelled all
+MANDATORILY                Establishing the             Mandatorily Convertible
+CONVERTIBLE JUNIOR         Mandatorily                  outstanding immediately
+PREFERRED STOCK,           Convertible Junior           prior to the Effective
+SERIES B                   Preferred Stock,             Date, and the
+                           Series B (the                Post-Effective Articles
+                           "Mandatorily                 authorized a number of
+                           Convertible") of Enron       shares of Series 3
+                           Oregon Corp., adopted        Exchanged Preferred
+                           on September 17, 1999,       Stock based upon a
+                           authorized an                formula.  One share of
+                           indefinite number of         Series 3 Exchanged
+                           shares of Mandatorily        Preferred Stock for
+                           Convertible up to a          each share of cancelled
+                           number necessary to          Mandatorily Convertible
+                           fulfill certain of the       has been issued to the
+                           Company's obligations        Preferred Equity Trust
+                           but never greater than       as described in Item
+                           the number of                3.03 of this Current
+                           authorized but               Report on Form 8-K.
+                           unissued preferred
+                           shares of the Company.       Each holder of Series 3
+                           The statement provides       Exchanged Preferred
+                           that the holders of          Stock has the right to
+                           Mandatorily                  one vote for each share
+                           Convertible have no          of such stock held and
+                           right to vote except         votes together with the
+                           as provided below.           Common Stock.
+
+                           Any of the following         Except for the addition
+                           must be approved by          of the voting rights
+                           the holders of a             discussed above, which
+                           majority of the              are effective with the
+                           Mandatorily                  requirement of a
+                           Convertible:                 default, each share of
+                                                        Series 3 Exchanged
+                           (i) any amendment of         Preferred Stock
+                           the Articles that            provides the holders
+                           adversely affects the        thereof with the same
+                           voting rights of such        rights and powers as
+                           shares;                      those held by the
+                                                        holders of each share
+                           (ii) the sale, lease         of the Mandatorily
+                           or conveyance of all         Convertible; provided,
+                           or substantially all         however, the remedies
+                           of the Company's             for default by the
+                           property;                    Company with respect to
+                                                        the election of
+                           (iii) the issuance of        directors provided in
+                           any shares of any            the Resolutions
+                           series of stock              Establishing the
+                           ranking on parity with       Mandatorily Convertible
+                           the  Mandatorily             are not effective until
+                           Convertible; and             the holders of Allowed
+                                                        Enron Preferred Equity
+                           (iv) the merger of the       Interests (Class 383)
+                           Company with any other       (as defined in the
+                           corporation, unless          Chapter 11 Plan), with
+                           after the merger the         regard to the Company's
+                           rights of holders of         Mandatorily
+                           Mandatorily                  Convertible, are
+                           Convertible are              entitled to
+                           preserved                    distributions under the
+                                                        Chapter 11 Plan.
+</TABLE>
+
+
+                                       9
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+                           and such shareholders
+                           will continue to hold
+                           the same amount of
+                           shares.
+
+                           If the dividends of the
+                           Mandatorily Convertible
+                           are in arrears the
+                           Mandatorily Convertible
+                           stockholders may elect
+                           two directors.
+---------------------      -----------------------      ------------------------
+SERIES 4 EXCHANGED         The Statement of             The Chapter 11 Plan
+PREFERRED STOCK AND        Resolutions                  cancelled all
+THE MANDATORILY            Establishing the             Mandatorily Convertible
+CONVERTIBLE SINGLE         Mandatorily                  Single Reset Preferred
+RESET PREFERRED            Convertible Single           Stock, Series C
+STOCK, SERIES C            Reset Preferred Stock,       outstanding immediately
+                           Series C (the "Single        prior to the Effective
+                           Reset") of Enron             Date, and the
+                           Oregon Corp., adopted        Post-Effective Articles
+                           on June 13, 2001,            authorized 182,908
+                           authorized 182,908           shares of Series 4
+                           shares of Single             Exchanged Preferred
+                           Reset. The statement         Stock.  One share of
+                           provides that the            Series 4 Exchanged
+                           holders of the Single        Preferred Stock for
+                           Reset have no right to       each share of cancelled
+                           vote except as               Single Reset has been
+                           provided below.              issued to the Preferred
+                                                        Equity Trust as
+                           Any of the following         described in Item 3.03
+                           must be approved by          of this Current Report
+                           the holders of a             on Form 8-K.
+                           majority of the Single
+                           Reset:                       The holder of each
+                                                        share of Series 4
+                           (i) Any amendment of         Exchanged Preferred
+                           the Articles that            Stock has the right to
+                           adversely affects the        one vote for each share
+                           holders of the Single        of Series 4 Exchanged
+                           Reset, or reduces the        Preferred Stock and
+                           minimum time required        votes together with the
+                           for any notice to such       Common Stock.
+                           holders;
+
+                           (ii) the issuance of         Except for the addition
+                           stock ranking prior to       of the voting rights
+                           such shares; and             discussed above, which
+                                                        are effective with the
+                           (iii) the merger of          requirement of a
+                           the Company with any         default, each share of
+                           other corporation,           Series 4 Exchanged
+                           unless after the             Preferred Stock
+                           merger the rights of         provides the holders
+                           holders of  Single           thereof with the same
+                           Reset have been              relative,
+                           substantially                participating, optional
+                           preserved.                   or other special rights
+                                                        and powers as those
+                           If certain notes are         held by holders of each
+                           not paid in full when        share of the Single
+                           due, then the holders        Reset; provided,
+                           of the Single Reset          however, the remedies
+                           may elect two                for default by the
+                           directors until the          Company with respect to
+                           notes have been paid         the election of
+                           or until directors may       directors provided in
+                           be elected for the           the Resolutions
+                           failure to pay               Establishing the Single
+                           dividends.                   Reset are not effective
+                                                        until the holders of
+                           If the dividends of          Allowed Enron Preferred
+                           the Single Reset are         Equity Interests (Class
+                                                        383) (as defined in the
+                                                        Chapter 11 Plan), with
+                                                        regard to the Company's
+                                                        Single Reset, are
+                                                        entitled to
+                                                        distributions under the
+                                                        Chapter 11 Plan.
+</TABLE>
+
+
+                                       10
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+                           in arrears, holders of
+                           the Single Reset may
+                           elect two directors.
+---------------------      -----------------------      ------------------------
+SUBJECT TO CHAPTER         The Pre-Effective            Nothing in the
+11 PLAN                    Articles do not              Post-Effective Articles
+                           address this issue.          gives the holders of any
+                                                        share of Common Stock,
+                                                        Series 1 Exchanged
+                                                        Preferred Stock, Series
+                                                        2 Exchanged Preferred
+                                                        Stock, Series 3
+                                                        Exchanged Preferred
+                                                        Stock, or Series 4
+                                                        Exchanged Preferred
+                                                        Stock any rights in
+                                                        excess of the rights
+                                                        given under the Chapter
+                                                        11 Plan to prior holders
+                                                        of the
+                                                        Company's stock that
+                                                        was cancelled on the
+                                                        Effective Date.
+---------------------      -----------------------      ------------------------
+NUMBER OF DIRECTORS        The Pre-Effective            The number of directors
+                           Articles do not              of the Company shall be
+                           address this issue.          five.  Any director or
+                           However, the                 directors may be
+                           Pre-Effective Bylaws         removed from office for
+                           allowed the Board of         Cause (a term defined
+                           Directors to determine       in the Post-Effective
+                           the number of                Articles), by the
+                           directors, which had         affirmative vote of
+                           to be at least 1 and         holders of not less
+                           no more than 20.             than 75% of the total
+                                                        number of the then
+                                                        outstanding shares of
+                                                        the Company.
+---------------------      -----------------------      ------------------------
+VACANCY ON THE BOARD       The Pre-Effective            If a vacancy occurs in
+OF DIRECTORS               Articles do not              the Board of Directors
+                           address this issue.          following the death,
+                           However, the                 resignation or removal
+                           Pre-Effective Bylaws         of a director, such
+                           allowed vacancies to         vacancy may be filled by
+                           be filled by the Board       the affirmative vote of
+                           of Directors or the          a majority of the
+                           shareholders.                remaining directors
+                                                        after consultation with
+                                                        the Creditors' Committee
+                                                        or the ENA Examiner
+                                                        (each as defined in the
+                                                        Chapter 11 Plan),
+                                                        depending upon which was
+                                                        initially consulted when
+                                                        selecting the
+                                                        original director;
+                                                        provided, however, such
+                                                        consultation is not
+                                                        required if the
+                                                        Creditors' Committee or
+                                                        the ENA Examiner has
+                                                        been dissolved or
+                                                        discharged, as the case
+                                                        may be.
+---------------------      -----------------------      ------------------------
+INDEMNIFICATION            The Pre-Effective            The Post-Effective
+                           Articles provided            Articles direct the
+                           indemnification for          board to provide
+                           directors and                indemnification for the
+                           officers.                    directors and officers
+                                                        of the Company and
+                                                        permit the board to
+                                                        provide indemnification
+                                                        for employees and agents
+                                                        of the Company.
+                                                        Notwithstanding anything
+                                                        to the contrary, the
+                                                        indemnification and
+                                                        release of liability
+                                                        provided for in the
+                                                        Post-Effective Articles
+                                                        shall not be deemed to
+</TABLE>
+
+
+                                       11
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+                                                        provide any right or
+                                                        protection to any person
+                                                        with regard to any act
+                                                        or omission that
+                                                        occurred prior to the
+                                                        effectiveness of the
+                                                        Post-Effective Articles.
+---------------------      -----------------------      ------------------------
+SPECIAL MEETINGS OF        The Pre-Effective            Special meetings of the
+SHAREHOLDERS               Articles do not address      shareholders for any
+                           this issue. However,         purpose or purposes may
+                           the Pre-Effective            be called at any time
+                           Bylaws allowed a             by the holders of not
+                           special meeting to be        less than 25% of all
+                           called by the Chairman       shares entitled to
+                           of the Board, the            vote.
+                           President, a Vice
+                           Chairman of the Board,
+                           a majority of
+                           the Board of
+                           Directors, a majority
+                           of the Executive
+                           Committee (if any),
+                           and holders of at
+                           least 10% of the votes
+                           permitted on the
+                           proposed issue.
+---------------------      -----------------------      ------------------------
+DIRECTORS' POWER TO        The Pre-Effective            The Board of Directors
+AMEND BYLAWS               Articles did not             is expressly authorized
+                           address this issue.          to adopt, repeal,
+                           However, the                 alter, amend or rescind
+                           Pre-Effective Bylaws         the Bylaws of the
+                           provide that they may        Company.  In addition,
+                           be amended by the            the Bylaws of the
+                           Board of Directors and       Company may be adopted,
+                           the shareholders.            repealed, altered,
+                           However, the Board of        amended or rescinded by
+                           Directors may not            the affirmative vote of
+                           amend a particular           the holders of not less
+                           bylaw previously             than 75% of the total
+                           amended by the               number of votes of the
+                           shareholders if in           stock of the Company.
+                           amending such bylaw
+                           the shareholders
+                           provided expressly
+                           that the Board of
+                           Directors may not
+                           amend or repeal such
+                           Bylaw.
+---------------------      -----------------------      ------------------------
+RELATED PARTY              The Pre-Effective            The Post-Effective
+TRANSACTIONS               Articles required            Articles of
+                           approval of holders of       Incorporation do not
+                           80% of the Company's         address this issue.
+                           voting stock for
+                           related party
+                           transactions that did
+                           not meet certain
+                           criteria, such as
+                           approval by 80% of
+                           directors satisfying a
+                           definition of
+                           "Continuing Directors"
+                           (as defined in the
+                           Pre-Effective
+                           Articles).
+---------------------      -----------------------      ------------------------
+SPECIFIC AMENDMENT         The affirmative vote         The affirmative vote of
+REQUIREMENTS               of the holders of not        the holders of not less
+                           less than 80% of the         than 75% of the total
+                           total number of votes        number of votes of the
+                           of the stock of the          stock of the Company
+                           Company shall be             shall be required to
+                           required to amend            amend any provision
+                           Article 5 (for               inconsistent with the
+                           business transactions        purpose or intent of
+                           with related persons),       Articles 5 (Matters
+                           including any                Associated with
+                           provision inconsistent       Directors), 6
+                           with the purpose or          (Liability and
+                           intent                       Indemnification), 8
+                                                        (Amendment of Articles
+</TABLE>
+
+
+                                       12
+<PAGE>
+<TABLE>
+<CAPTION>
+        TERM               PRE-EFFECTIVE ARTICLES       POST-EFFECTIVE ARTICLES
+---------------------      -----------------------      ------------------------
+<S>                        <C>                          <C>
+                           of Article 5 of              Generally), 9 (Special
+                           the Pre- Effective           Meetings of
+                           Articles.                    Shareholders), 10
+                                                        (Board of Directors'
+                                                        Power to Amend the
+                                                        Post-Effective Bylaws)
+                                                        and 11 (Amendment of
+                                                        Articles 5, 6, 8, 9, 10
+                                                        and 11).
+</TABLE>
+
+  SUMMARY COMPARISON OF THE PRE-EFFECTIVE BYLAWS AND THE POST-EFFECTIVE BYLAWS
+
+         The following comparative summary of the terms of the Pre-Effective
+Bylaws and the Post-Effective Bylaws does not purport to be complete. The
+summary of the terms of the Post-Effective Bylaws are qualified by reference to
+their complete text attached to this Current Report on Form 8-K as Exhibit 3.2,
+and the summary of the Pre-Effective Bylaws are qualified by reference to their
+complete text, which is filed with the SEC as Exhibit 3.04 to Post-Effective
+Amendment No. 1 to Enron's Registration Statement on Form S-3 - File No.
+33-60417.
+
+<TABLE>
+<CAPTION>
+         TERM                PRE-EFFECTIVE BYLAWS        POST-EFFECTIVE BYLAWS
+----------------------      ----------------------      -----------------------
+<S>                        <C>                          <C>
+DATE AND TIME OF            Annual meetings must        The annual meeting of
+ANNUAL MEETINGS             be no later than the        shareholders will be
+                            earlier of 6 months         held on such date and
+                            after the Company's         time as fixed by the
+                            fiscal year end, or         Company's Board of
+                            15 months after the         Directors.
+                            previous annual
+                            meeting.
+----------------------      ----------------------      -----------------------
+RECORD DATE FOR             The record date for         The record date for
+MEETING OF                  shareholder voting          shareholder voting
+STOCKHOLDERS                shall not be more           will be the day before
+                            than 70 days before         the mailing of the
+                            the date of the             notice of the meeting
+                            proposed meeting. If        or on such other date
+                            the Board of                not more than 70 nor
+                            Directors does not          less than 10 days
+                            fix a record date           before such meeting as
+                            then it will be the         may be fixed in
+                            day before notice is        advance by the Board
+                            transmitted.                of Directors.
+----------------------      ----------------------      -----------------------
+SPECIAL MEETINGS            Special meetings may        The Company will hold
+                            be called by the            a special meeting of
+                            Chairman of the             shareholders upon the
+                            Board, the President,       call of the Board of
+                            a Vice Chairman of          Directors or by the
+                            the Board, a majority       holders of not less
+                            of the Board of             than 25 percent of all
+                            Directors, a majority       votes entitled to be
+                            of the Executive            cast.
+                            Committee, and to the
+                            extent required by
+                            law by the holders of
+                            at least 10% of the
+                            votes entitled to be
+                            cast.
+</TABLE>
+
+
+                                       13
+<PAGE>
+<TABLE>
+<CAPTION>
+         TERM                PRE-EFFECTIVE BYLAWS        POST-EFFECTIVE BYLAWS
+----------------------      ----------------------      -----------------------
+<S>                         <C>                         <C>
+SHAREHOLDER MEETING         The Pre-Effective           Without proper objection
+ATTENDANCE AND WAIVER       Bylaws did not              at the meeting, a
+                            address this issue.         shareholder's attendance
+                                                        at a meeting waives
+                                                        objection to lack of
+                                                        notice or defective
+                                                        notice of the meeting
+                                                        or of a matter to be
+                                                        considered at such
+                                                        meeting.
+----------------------      ----------------------      -----------------------
+CUMULATIVE VOTING           Unless otherwise            The Post-Effective
+                            provided in the             Bylaws do not address
+                            Pre-Effective               this issue.
+                            Articles, cumulative
+                            voting for the
+                            election of directors
+                            is prohibited.
+----------------------      ----------------------      -----------------------
+REMOVAL OF DIRECTORS        Any director or the         The Post-Effective
+                            entire Board of             Bylaws do not address
+                            Directors may be            this issue.  This
+                            removed, with or            issue is now addressed
+                            without cause by the        in the Post-Effective
+                            holders of a majority       Articles.
+                            of the shares.
+----------------------      ----------------------      -----------------------
+VACANCIES                   The shareholders or         If a vacancy occurs on
+                            the Board of                the Board of
+                            Directors may fill a        Directors, the Board
+                            vacancy in the Board        of Directors may fill
+                            of Directors.  If the       the vacancy, subject
+                            vacancy is filled by        to the limitations set
+                            shareholders and was        forth in the
+                            held by a director          Post-Effective
+                            elected by a voting         Articles.
+                            group of
+                            shareholders, then
+                            only the holders of
+                            shares of that voting
+                            group are entitled to
+                            vote to fill the
+                            vacancy.
+----------------------      ----------------------      -----------------------
+EXECUTIVE COMMITTEE         The Board of                The Post-Effective
+                            Directors may               Bylaws do not
+                            designate an                specifically provide
+                            Executive Committee         for an Executive
+                            consisting of two or        Committee, but do
+                            more of the directors       generally provide for
+                            of the Company, that,       committees created
+                            during the intervals        with such power
+                            between the meetings        granted by the Board
+                            of the Board of             of Directors.
+                            Directors or when a
+                            quorum fails to be
+                            present, possesses
+                            and may exercise all
+                            the powers of the
+                            Board of Directors,
+                            subject to certain
+                            exceptions.
+----------------------      ----------------------      -----------------------
+AUDIT COMMITTEE             The Board of                The Post-Effective
+                            Directors may               Bylaws do not
+                            designate an Audit          specifically provide
+                            Committee consisting        for an Audit
+                            of two or more of the       Committee, but do
+                            directors of the            generally provide for
+                            Company that shall          committees created
+                            have and may exercise       with such power
+                            such powers and             granted by the
+                            authority as provided
+</TABLE>
+
+
+                                       14
+<PAGE>
+<TABLE>
+<CAPTION>
+         TERM                PRE-EFFECTIVE BYLAWS        POST-EFFECTIVE BYLAWS
+----------------------      ----------------------      -----------------------
+<S>                         <C>                         <C>
+                            in the resolution           Board of Directors.
+                            creating it and as
+                            determined from time
+                            to time by the Board
+                            of Directors.
+----------------------      ----------------------      -----------------------
+SUBSTITUTION AND            The Board of                Subject to the prior
+REMOVAL OF COMMITTEE        Directors may               approval of the ENA
+MEMBERS                     designate one or more       Examiner Director,
+                            directors as                unless the ENA
+                            alternate members, or       Examiner Director is
+                            remove and replace          appointed to a
+                            members, of any             committee, the Board
+                            committee.                  of Directors may
+                                                        appoint or remove
+                                                        members of any such
+                                                        committee.
+----------------------      ----------------------      -----------------------
+LIMITATION ON POWER         No committee of the         The Post-Effective
+AND AUTHORITY OF            Board of Directors          Bylaws do not address
+COMMITTEES                  shall have the power        this issue.
+                            or authority of the
+                            Board of Directors to:
+                            (a) with certain
+                            exceptions, authorize
+                            distributions;
+                            reacquisition of
+                            shares; or issuances
+                            or sale, or contract
+                            for sale of, shares;
+                            (b) approve or propose
+                            to shareholders
+                            actions that are
+                            required to be
+                            approved by
+                            shareholders; (c) fill
+                            vacancies on the Board
+                            of Directors or any
+                            committees; (d) with
+                            certain exceptions,
+                            amend the Articles of
+                            Incorporation or
+                            Bylaws; (e) approve a
+                            plan of merger not
+                            requiring shareholder
+                            approval; (f) with
+                            certain exceptions,
+                            determine the
+                            designation and
+                            relative rights of a
+                            class of shares.
+----------------------      ----------------------      -----------------------
+CHAIRMAN OF THE BOARD       The Chairman of the         The Chairman of the
+AND CHIEF EXECUTIVE         Board is the Chief          Board is not an
+OFFICER                     Executive Officer of        officer of the
+                            the Company.                Company.  The
+                                                        President is the Chief
+                                                        Executive Officer of
+                                                        the Company.
+----------------------      ----------------------      -----------------------
+SHAREHOLDER ACTION          The Pre-Effective           Action required or
+WITHOUT A MEETING           Bylaws did not              permitted by law to be
+                            address this issue.         taken at a
+                                                        shareholders meeting
+                                                        may be taken without a
+                                                        meeting if the action
+                                                        is taken by all the
+                                                        shareholders entitled
+                                                        to vote on the action.
+</TABLE>
+
+
+                                       15
+<PAGE>
+<TABLE>
+<CAPTION>
+         TERM                PRE-EFFECTIVE BYLAWS        POST-EFFECTIVE BYLAWS
+----------------------      ----------------------      -----------------------
+<S>                         <C>                         <C>
+INDEMNIFICATION             The Pre-Effective           The Post-Effective
+                            Bylaws did not              Bylaws provide that
+                            address this issue.         the Company shall
+                            However,                    indemnify its officers
+                            indemnification was         and directors, and may
+                            provided in the             indemnify its
+                            Pre-Effective               employees and agents,
+                            Articles.                   to the fullest extent
+                                                        permitted by law.
+
+                                                        Notwithstanding anything
+                                                        to the contrary, the
+                                                        indemnification and
+                                                        release of liability
+                                                        provided in the
+                                                        Post-Effective Bylaws
+                                                        does not provide any
+                                                        right or protection to
+                                                        any person with regard
+                                                        to any act or omission
+                                                        that occurred prior to
+                                                        the effectiveness of the
+                                                        Post-Effective Bylaws.
+</TABLE>
+
+                            SECTION 8 - OTHER EVENTS
+
+ITEM 8.01. OTHER EVENTS.
+
+         On November 17, 2004, the Chapter 11 Plan became effective, making
+November 17, 2004 its "Effective Date". A copy of the Chapter 11 Plan is
+attached as Exhibit 2.1 to a July 15, 2004 Form 8-K filed by the Company with
+the SEC.
+
+         A copy of the Chapter 11 Plan is also currently available at the
+Company's website located at http://www.enron.com/corp/por/ and the Bankruptcy
+Court's website located at http://www.nysb.uscourts.gov and at the website
+maintained at the direction of the Bankruptcy Court at www.elaw4enron.com.
+
+         As explained in a November 8, 2001 Form 8-K filed by the Company with
+the SEC, the previously issued financial statements of the Company for the
+fiscal years ended December 31, 1997 through 2000 and for the first and second
+quarters of 2001 and the audit reports covering the year-end financial
+statements for 1997 through 2000 should not be relied upon. In addition, as
+explained in an April 22, 2002 Form 8-K filed by the Company, the financial
+statements of the Company for the third quarter of 2001 should not be relied
+upon. Due to the Company's bankruptcy, which was commenced on December 2, 2001,
+and certain other factors beyond the control of current management of the
+Company, the Company has been unable to prepare the applicable restated audited
+and unaudited financial statements for such periods or any audited and unaudited
+financial statements for any period thereafter, in each case, necessary to
+comply with the Exchange Act. In lieu of filing such required financial
+statements since its filing for bankruptcy, the Company has complied with the
+Exchange Act, to the extent that it was able, by filing Current Reports on Forms
+8-K with the SEC.
+
+
+                                       16
+<PAGE>
+         Pursuant to the Chapter 11 Plan, on the Effective Date, all of the
+Company's outstanding stock, including, without limitation, its Common Stock and
+its Cumulative Second Preferred Convertible Stock, was cancelled with new shares
+being issued to two trusts referred to in the Chapter 11 Plan as the Common
+Equity Trust and the Preferred Equity Trust. As a result of the cancellation of
+the Company's stock, the Company no longer has shares of stock outstanding that
+require registration and reporting under the Exchange Act. Therefore, this Form
+8-K will be the Company's final filing under the Securities Exchange Act of
+1934.
+
+         The Company continues to believe that the common and preferred stock of
+the Company cancelled upon the effectiveness of the Chapter 11 Plan had no
+value. However, the Chapter 11 Plan provides the Company's former stockholders
+with a contingent right to receive recovery through their interests in the
+Common Equity Trust or the Preferred Equity Trust, as the case may be, in the
+very unlikely event that the aggregate value of the Company's assets exceeds the
+total amount of allowed claims under the Chapter 11 Plan.
+
+                  SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+         (c)   Exhibits.
+
+         3.1   Second Amended and Restated Articles of Incorporation of the
+               Company.
+
+         3.2   Amended and Restated Bylaws of the Company.
+
+         10.1  Common Equity Trust Agreement, dated as of November 16, 2004,
+               among the Debtors and SFC.
+
+         10.2  Preferred Equity Trust Agreement, dated as of November 16, 2004,
+               among the Debtors and SFC.
+
+         10.3  Reorganized Debtors Plan Administration Agreement, dated as of
+               November 17, 2004, among the Reorganized Debtors and SFC.
+
+         99.1  Assumption Schedule.
+
+         THE CHAPTER 11 PLAN AND THIS FORM 8-K, INCLUDING THE EXHIBITS ATTACHED
+HERETO, MAY CONTAIN STATEMENTS THAT ARE FORWARD-LOOKING WITHIN THE MEANING OF
+SECTION 27A OF THE SECURITIES ACT OF 1933 AND SECTION 21E OF THE SECURITIES
+EXCHANGE ACT OF 1934. INVESTORS ARE CAUTIONED THAT ANY SUCH FORWARD-LOOKING
+STATEMENTS ARE BASED ON MANAGEMENT'S CURRENT EXPECTATION AND, AS SUCH, ARE NOT
+GUARANTEES OF FUTURE PERFORMANCE. ACCORDINGLY, ACTUAL RESULTS COULD DIFFER
+MATERIALLY AS A RESULT OF KNOWN AND UNKNOWN RISKS AND UNCERTAINTIES, INCLUDING,
+BUT NOT LIMITED TO: VARIOUS REGULATORY ISSUES; THE OUTCOME OF THE REMAINDER OF
+THE COMPANY'S CHAPTER 11 PROCESS; RISKS INHERENT IN THE COMPANY'S CHAPTER 11
+
+
+                                       17
+<PAGE>
+PROCESS, SUCH AS THE DELAYED DISTRIBUTION OR NON-DISTRIBUTION OF SECURITIES OR
+CASH UNDER THE CHAPTER 11 PLAN; THE UNCERTAIN OUTCOMES OF ONGOING LITIGATION AND
+GOVERNMENTAL INVESTIGATIONS INVOLVING THE COMPANY'S OPERATING SUBSIDIARIES AND
+THE REORGANIZED DEBTORS, INCLUDING THOSE INVOLVING FOREIGN REGULATORS AND THE
+U.S. CONGRESS, THE DEPARTMENT OF JUSTICE, THE SEC, THE DEPARTMENT OF LABOR, THE
+INTERNAL REVENUE SERVICE, THE PENSION BENEFIT GUARANTY CORPORATION, THE NATIONAL
+ASSOCIATION OF SECURITIES DEALERS, INC., THE FEDERAL ENERGY REGULATORY
+COMMISSION, THE COMMODITY FUTURES TRADING COMMISSION, THE FEDERAL TRADE
+COMMISSION, THE CALIFORNIA AND CONNECTICUT ATTORNEYS GENERAL AND NUMEROUS
+CONGRESSIONAL COMMITTEES AND STATE AGENCIES; THE UNCERTAIN OUTCOMES OF NUMEROUS
+LAWSUITS AND CLAIMS; THE EFFECTS OF NEGATIVE PUBLICITY ON THE COMPANY'S
+OPERATING SUBSIDIARIES' BUSINESS OPPORTUNITIES; THE EFFECTS OF THE DEPARTURE OF
+PAST AND PRESENT EMPLOYEES OF THE REORGANIZED DEBTORS; UNCERTAIN RESOLUTION OF
+SPECIAL PURPOSE ENTITY ISSUES; THE PRELIMINARY AND UNCERTAIN NATURE OF
+VALUATIONS AND ESTIMATES CONTAINED IN THE CHAPTER 11 PLAN; FINANCIAL AND
+OPERATING RESTRICTIONS THAT MAY BE IMPOSED ON AN OPERATING SUBSIDIARY OF THE
+COMPANY UNDER THE PUBLIC UTILITY HOLDING COMPANY ACT; POTENTIAL ENVIRONMENTAL
+LIABILITIES; INCREASING COMPETITION AND OPERATIONAL HAZARDS FACED BY THE
+REORGANIZED DEBTORS AND OPERATING SUBSIDIARIES OF THE COMPANY; THE POTENTIAL
+LACK OF A TRADING MARKET FOR THE SECURITIES DISTRIBUTED TO CREDITORS;
+UNCERTAINTIES CREATED BY THE LACK OF REPORTED INFORMATION FOR SECURITIES
+DISTRIBUTED TO CREDITORS AND THE LACK OF INDEPENDENT OPERATING HISTORY OF THE
+COMPANY'S OPERATING SUBSIDIARIES; ECONOMIC, POLITICAL, REGULATORY AND LEGAL
+RISKS AFFECTING THE FINANCES AND OPERATIONS OF THE REORGANIZED DEBTORS AND THE
+COMPANY'S OPERATING SUBSIDIARIES; AND THE UNCERTAIN TIMING, COSTS AND RECOVERY
+VALUES INVOLVED IN THE REORGANIZED DEBTORS' EFFORTS TO RECOVER ACCOUNTS
+RECEIVABLE AND TO LIQUIDATE THE REMAINING ASSETS.
+
+         THE INFORMATION CONTAINED IN THE CHAPTER 11 PLAN IS NOT TO BE USED FOR
+INVESTMENT PURPOSES.
+
+
+                                       18
+<PAGE>
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+                                       ENRON CORP.
+
+
+Date:  November 17, 2004               By:      /s/ Robert H. Walls, Jr.
+                                          --------------------------------------
+                                            Name:  Robert H. Walls, Jr.
+                                            Title: Executive Vice President and
+                                                   General Counsel
+
+
+                                       19
+<PAGE>
+                                  EXHIBIT INDEX
+
+EXHIBIT      DESCRIPTION
+-------      -----------
+
+  3.1        Second Amended and Restated Articles of Incorporation of the
+             Company
+
+  3.2        Amended and Restated Bylaws the Company
+
+ 10.1        Common Equity Trust Agreement, dated as of November 16, 2004,
+             among the Debtors and SFC
+
+ 10.2        Preferred Equity Trust Agreement, dated as of November 16, 2004,
+             among the Debtors and SFC
+
+ 10.3        Reorganized Debtors Plan Administration Agreement, dated as of
+             November 17, 2004, among the Reorganized Debtors and SFC
+
+ 99.1        Assumption Schedule
+
+
+</TEXT>
+</DOCUMENT>

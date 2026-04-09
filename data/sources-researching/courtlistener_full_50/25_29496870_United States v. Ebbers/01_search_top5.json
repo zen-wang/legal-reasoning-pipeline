@@ -1,0 +1,346 @@
+[
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Ebbers",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, E.D. Wisconsin",
+    "court_citation_string": "E.D. Wis.",
+    "court_id": "wied",
+    "dateArgued": null,
+    "dateFiled": "2018-04-10",
+    "dateTerminated": "2018-04-11",
+    "docketNumber": "2:18-cr-00066",
+    "docket_absolute_url": "/docket/29496870/united-states-v-ebbers/",
+    "docket_id": 29496870,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-12T18:51:59.629978Z",
+      "date_created": "2021-01-19T08:24:47.629518Z",
+      "score": {
+        "bm25": 3622.9106
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "81098",
+    "party": [
+      "United States",
+      "Ebbers"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/29496870/4/united-states-v-ebbers/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 179397945,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-11-04",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 184805310,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-18T01:26:18.044408Z",
+          "date_created": "2021-11-04T17:18:37.918017Z"
+        },
+        "pacer_doc_id": "20304761865",
+        "page_count": null,
+        "short_description": "Order on Report on Offender Under Supervision - Prob 12A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/29496870/1/united-states-v-ebbers/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 357159630,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-04-10",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 363705900,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-12T05:02:38.963430Z",
+          "date_created": "2023-07-08T15:59:38.255340Z"
+        },
+        "pacer_doc_id": "20303661515",
+        "page_count": null,
+        "short_description": "Request to Transfer Jurisdiction In - Prob 22",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/29496870/2/united-states-v-ebbers/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 357553126,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2018-04-13",
+        "entry_number": 2,
+        "filepath_local": null,
+        "id": 364099558,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-12T07:28:59.000760Z",
+          "date_created": "2023-07-09T00:26:32.038801Z"
+        },
+        "pacer_doc_id": "20303665248",
+        "page_count": null,
+        "short_description": "Order Accepting Jurisdiction - Prob 22",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Ebbers",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. Iowa",
+    "court_citation_string": "S.D. Iowa",
+    "court_id": "iasd",
+    "dateArgued": null,
+    "dateFiled": "2015-03-23",
+    "dateTerminated": "2015-12-10",
+    "docketNumber": "4:15-cr-00031",
+    "docket_absolute_url": "/docket/60745724/united-states-v-ebbers/",
+    "docket_id": 60745724,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-01T06:44:34.972270Z",
+      "date_created": "2021-11-06T07:16:55.326977Z",
+      "score": {
+        "bm25": 2765.5518
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "54286",
+    "party": [
+      "United States",
+      "Ebbers"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 207082416,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-09-22",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 212951362,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-21T23:32:16.810423Z",
+          "date_created": "2022-09-22T16:20:29.000518Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60745724/56/united-states-v-ebbers/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 207082427,
+        "document_number": 56,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2022-09-21",
+        "entry_number": 56,
+        "filepath_local": null,
+        "id": 212951373,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-21T23:32:17.120289Z",
+          "date_created": "2022-09-22T16:20:29.922895Z"
+        },
+        "pacer_doc_id": "07703730448",
+        "page_count": null,
+        "short_description": "Violation Report on Offender Under Supervision",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60745724/11/united-states-v-ebbers/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 251933667,
+        "document_number": 11,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2015-04-29",
+        "entry_number": 11,
+        "filepath_local": null,
+        "id": 258102980,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-28T02:42:41.460466Z",
+          "date_created": "2023-03-21T18:14:23.653432Z"
+        },
+        "pacer_doc_id": "07702108160",
+        "page_count": null,
+        "short_description": "Warrant of Arrest Returned Executed",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Ebbers",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, E.D. Wisconsin",
+    "court_citation_string": "E.D. Wis.",
+    "court_id": "wied",
+    "dateArgued": null,
+    "dateFiled": "2018-04-10",
+    "dateTerminated": "2018-04-11",
+    "docketNumber": "2:18-cr-00066",
+    "docket_absolute_url": "/docket/29496747/united-states-v-ebbers/",
+    "docket_id": 29496747,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-12T18:51:55.422414Z",
+      "date_created": "2021-01-19T08:24:39.965982Z",
+      "score": {
+        "bm25": 1998.8937
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "81097",
+    "party": [
+      "United States",
+      "Ebbers"
+    ],
+    "party_id": [],
+    "recap_documents": [],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Ebbers",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. Iowa",
+    "court_citation_string": "S.D. Iowa",
+    "court_id": "iasd",
+    "dateArgued": null,
+    "dateFiled": "2015-03-23",
+    "dateTerminated": "2015-12-10",
+    "docketNumber": "4:15-cr-00031",
+    "docket_absolute_url": "/docket/14419263/united-states-v-ebbers/",
+    "docket_id": 14419263,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "Federal question",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-07T03:48:55.698327Z",
+      "date_created": "2019-01-25T03:19:03.771163Z",
+      "score": {
+        "bm25": 1614.4932
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "54285",
+    "party": [
+      "United States",
+      "Ebbers"
+    ],
+    "party_id": [],
+    "recap_documents": [],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "530 Prisoner petitions - habeas corpus",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Ebbers",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, D. Minnesota",
+    "court_citation_string": "D. Minnesota",
+    "court_id": "mnd",
+    "dateArgued": null,
+    "dateFiled": "2012-07-23",
+    "dateTerminated": "2012-08-22",
+    "docketNumber": "0:12-mj-00476",
+    "docket_absolute_url": "/docket/34026434/united-states-v-ebbers/",
+    "docket_id": 34026434,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-02-18T09:26:08.634857Z",
+      "date_created": "2021-01-21T23:16:20.180406Z",
+      "score": {
+        "bm25": 1390.1898
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "127223",
+    "party": [
+      "United States",
+      "Ebbers"
+    ],
+    "party_id": [],
+    "recap_documents": [],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  }
+]

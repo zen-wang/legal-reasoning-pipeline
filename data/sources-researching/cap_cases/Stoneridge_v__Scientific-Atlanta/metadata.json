@@ -1,0 +1,25 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Stoneridge v. Scientific-Atlanta",
+  "cluster_id": 145837,
+  "case_name_cl": "Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.",
+  "date_filed": "2008-01-15",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "169 L. Ed. 2d 627",
+    "128 S. Ct. 761",
+    "552 U.S. 148",
+    "2008 U.S. LEXIS 1091",
+    "76 U.S.L.W. 4039",
+    "21 Fla. L. Weekly Fed. S 46"
+  ],
+  "docket_number": "06-43",
+  "docket_id": 352190,
+  "judges": "Kennedy, Stevens, Breyer",
+  "num_opinions": 3,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/145837/stoneridge-investment-partners-llc-v-scientific-atlanta-inc/",
+  "legal_principle": "limits of scheme liability",
+  "year": 2008
+}

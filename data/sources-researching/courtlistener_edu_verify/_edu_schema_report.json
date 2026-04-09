@@ -1,0 +1,2121 @@
+{
+  "docket": {
+    "resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "https://www.courtlistener.com/api/rest/v4/dockets/66746322/"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        7643790,
+        66746322
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "court": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/courts/cand/",
+        "https://www.courtlistener.com/api/rest/v4/courts/ca9/"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "court_id": {
+      "type": "str",
+      "samples": [
+        "cand",
+        "ca9"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "original_court_info": {
+      "type": "null",
+      "samples": [
+        "{...}"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "idb_data": {
+      "type": "dict",
+      "samples": [
+        "{...}",
+        "{...}"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "idb_data.resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/24964902/",
+        "https://www.courtlistener.com/api/rest/v4/fjc-integrated-database/25955248/"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.date_created": {
+      "type": "str",
+      "samples": [
+        "2018-11-21T10:37:08.478422-08:00",
+        "2020-08-27T06:15:39.837907-07:00"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.date_modified": {
+      "type": "str",
+      "samples": [
+        "2022-01-28T13:38:10.778275-08:00",
+        "2022-01-28T08:25:20.575518-08:00"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.dataset_source": {
+      "type": "int",
+      "samples": [
+        9,
+        9
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.office": {
+      "type": "str",
+      "samples": [
+        "3",
+        "1"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.docket_number": {
+      "type": "str",
+      "samples": [
+        "1804865",
+        "1700388"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.origin": {
+      "type": "int",
+      "samples": [
+        1,
+        4
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.date_filed": {
+      "type": "str",
+      "samples": [
+        "2018-08-10",
+        "2019-02-01"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.jurisdiction": {
+      "type": "int",
+      "samples": [
+        3,
+        3
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.nature_of_suit": {
+      "type": "int",
+      "samples": [
+        850,
+        850
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.title": {
+      "type": "str",
+      "samples": [
+        "15",
+        "15"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.section": {
+      "type": "str",
+      "samples": [
+        "0077",
+        "0078"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.subsection": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.diversity_of_residence": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.class_action": {
+      "type": "bool",
+      "samples": [
+        true
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.monetary_demand": {
+      "type": "int",
+      "samples": [
+        0,
+        0
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.county_of_residence": {
+      "type": "int",
+      "samples": [
+        88888,
+        24510
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.arbitration_at_filing": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.arbitration_at_termination": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.multidistrict_litigation_docket_number": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.plaintiff": {
+      "type": "str",
+      "samples": [
+        "ISAACS, ET AL",
+        "BREECE, ET AL"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.defendant": {
+      "type": "str",
+      "samples": [
+        "MUSK, ET AL",
+        "UNDER ARMOUR, INC., ET AL"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.date_transfer": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.transfer_office": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.transfer_docket_number": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.transfer_origin": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.date_terminated": {
+      "type": "null",
+      "samples": [
+        "2019-08-19"
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.termination_class_action_status": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.procedural_progress": {
+      "type": "null",
+      "samples": [
+        4
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.disposition": {
+      "type": "null",
+      "samples": [
+        14
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.nature_of_judgement": {
+      "type": "null",
+      "samples": [
+        0
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.amount_received": {
+      "type": "null",
+      "samples": [
+        0
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.judgment": {
+      "type": "null",
+      "samples": [
+        0
+      ],
+      "fill_count": 1,
+      "total_count": 2
+    },
+    "idb_data.pro_se": {
+      "type": "int",
+      "samples": [
+        1,
+        0
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.year_of_tape": {
+      "type": "int",
+      "samples": [
+        2099,
+        2019
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.nature_of_offense": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.version": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 2
+    },
+    "idb_data.circuit": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/courts/ca9/",
+        "https://www.courtlistener.com/api/rest/v4/courts/ca4/"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "idb_data.district": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/courts/cand/",
+        "https://www.courtlistener.com/api/rest/v4/courts/mdd/"
+      ],
+      "fill_count": 2,
+      "total_count": 2
+    },
+    "clusters": {
+      "type": "list",
+      "samples": [
+        "[6 items]",
+        "[1 items]"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "audio_files": {
+      "type": "list",
+      "samples": [
+        "[1 items]"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "assigned_to": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/people/596/",
+        "https://www.courtlistener.com/api/rest/v4/people/253/"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "referred_to": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/people/9097/"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "bankruptcy_information": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "absolute_url": {
+      "type": "str",
+      "samples": [
+        "/docket/7643790/in-re-tesla-inc-securities-litigation/",
+        "/docket/66746322/united-states-v-elizabeth-holmes/"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_created": {
+      "type": "str",
+      "samples": [
+        "2018-08-10T15:08:55.955784-07:00",
+        "2023-01-20T11:02:34.126484-08:00"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_modified": {
+      "type": "str",
+      "samples": [
+        "2026-03-18T15:25:16.158385-07:00",
+        "2025-12-26T13:15:25.672263-08:00"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "source": {
+      "type": "int",
+      "samples": [
+        9,
+        3
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "appeal_from_str": {
+      "type": "str",
+      "samples": [
+        "U.S. District Court for Northern California, San Jose"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "assigned_to_str": {
+      "type": "str",
+      "samples": [
+        "Edward M. Chen",
+        "Richard D. Bennett"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "referred_to_str": {
+      "type": "str",
+      "samples": [
+        "Kandis A. Westmore"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "panel_str": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "date_last_index": {
+      "type": "str",
+      "samples": [
+        "2024-12-10T03:01:36.364258-08:00",
+        "2024-11-03T15:27:11.383525-08:00"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_cert_granted": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "date_cert_denied": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "date_argued": {
+      "type": "null",
+      "samples": [
+        "2024-06-11"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "date_reargued": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "date_reargument_denied": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "date_filed": {
+      "type": "str",
+      "samples": [
+        "2018-08-10",
+        "2022-12-02"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_terminated": {
+      "type": "str",
+      "samples": [
+        "2023-07-11",
+        "2025-02-24"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_last_filing": {
+      "type": "str",
+      "samples": [
+        "2024-11-29",
+        "2025-12-22"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "case_name_short": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "case_name": {
+      "type": "str",
+      "samples": [
+        "In re Tesla Inc. Securities Litigation",
+        "United States v. Elizabeth Holmes"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "case_name_full": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "slug": {
+      "type": "str",
+      "samples": [
+        "in-re-tesla-inc-securities-litigation",
+        "united-states-v-elizabeth-holmes"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "docket_number": {
+      "type": "str",
+      "samples": [
+        "3:18-cv-04865",
+        "22-10312"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "docket_number_core": {
+      "type": "str",
+      "samples": [
+        "1804865",
+        "22010312"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "docket_number_raw": {
+      "type": "str",
+      "samples": [
+        "3:18-cv-04865",
+        "22-10312"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "docket_number_source": {
+      "type": "int",
+      "samples": [
+        0,
+        0
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "federal_dn_office_code": {
+      "type": "str",
+      "samples": [
+        "3",
+        "1"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "federal_dn_case_type": {
+      "type": "str",
+      "samples": [
+        "cv",
+        "cv"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "federal_dn_judge_initials_assigned": {
+      "type": "str",
+      "samples": [
+        "EMC",
+        "RDB"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "federal_dn_judge_initials_referred": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "federal_defendant_number": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "pacer_case_id": {
+      "type": "str",
+      "samples": [
+        "330489",
+        "341504"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "cause": {
+      "type": "str",
+      "samples": [
+        "15:77 Securities Fraud",
+        "15:78m(a) Securities Exchange Act"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "nature_of_suit": {
+      "type": "str",
+      "samples": [
+        "850 Securities/Commodities",
+        "Securities/Commodities"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "jury_demand": {
+      "type": "str",
+      "samples": [
+        "Plaintiff",
+        "Plaintiff"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "jurisdiction_type": {
+      "type": "str",
+      "samples": [
+        "Federal Question",
+        "Federal Question"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "appellate_fee_status": {
+      "type": "str",
+      "samples": [
+        "Paid"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "appellate_case_type_information": {
+      "type": "str",
+      "samples": [
+        "criminal, Direct Criminal"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "mdl_status": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "filepath_ia": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "filepath_ia_json": {
+      "type": "str",
+      "samples": [
+        "https://archive.org/download/gov.uscourts.cand.330489/gov.uscourts.cand.330489.d...",
+        "https://archive.org/download/gov.uscourts.mdd.379878/gov.uscourts.mdd.379878.doc..."
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "ia_upload_failure_count": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "ia_needs_upload": {
+      "type": "bool",
+      "samples": [
+        true,
+        true
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "ia_date_first_change": {
+      "type": "str",
+      "samples": [
+        "2018-11-05T10:00:36.288988-08:00",
+        "2024-06-11T16:06:38.105686-07:00"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_blocked": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "blocked": {
+      "type": "bool",
+      "samples": [
+        false,
+        false
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "appeal_from": {
+      "type": "null",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/courts/cand/"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "parent_docket": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "tags": {
+      "type": "list",
+      "samples": [
+        "[1 items]",
+        "[1 items]"
+      ],
+      "fill_count": 2,
+      "total_count": 3
+    },
+    "panel": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "original_court_info.resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/originating-court-information/17021/"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.id": {
+      "type": "int",
+      "samples": [
+        17021
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.date_created": {
+      "type": "str",
+      "samples": [
+        "2023-01-20T11:02:34.122411-08:00"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.date_modified": {
+      "type": "str",
+      "samples": [
+        "2025-12-26T13:15:25.660451-08:00"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.docket_number": {
+      "type": "str",
+      "samples": [
+        "5:18-cr-00258"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.docket_number_raw": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    },
+    "original_court_info.assigned_to_str": {
+      "type": "str",
+      "samples": [
+        "Edward J. Davila"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.ordering_judge_str": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    },
+    "original_court_info.court_reporter": {
+      "type": "str",
+      "samples": [
+        "Irene Rodriguez, Official Court Reporter"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.date_disposed": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    },
+    "original_court_info.date_filed": {
+      "type": "str",
+      "samples": [
+        "2018-06-14"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.date_judgment": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    },
+    "original_court_info.date_judgment_eod": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    },
+    "original_court_info.date_filed_noa": {
+      "type": "str",
+      "samples": [
+        "2022-12-02"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.date_received_coa": {
+      "type": "str",
+      "samples": [
+        "2022-12-02"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.date_rehearing_denied": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    },
+    "original_court_info.assigned_to": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/people/807/"
+      ],
+      "fill_count": 1,
+      "total_count": 1
+    },
+    "original_court_info.ordering_judge": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 1
+    }
+  },
+  "docket_entries": {
+    "resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/docket-entries/409800247/",
+        "https://www.courtlistener.com/api/rest/v4/docket-entries/407373785/"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        409800247,
+        407373785
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "docket": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "https://www.courtlistener.com/api/rest/v4/dockets/7643790/"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "recap_documents": {
+      "type": "list",
+      "samples": [
+        "[1 items]",
+        "[1 items]"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "date_created": {
+      "type": "str",
+      "samples": [
+        "2024-12-02T11:36:57.694084-08:00",
+        "2024-11-06T12:01:44.975543-08:00"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "date_modified": {
+      "type": "str",
+      "samples": [
+        "2026-03-18T15:26:27.179204-07:00",
+        "2026-03-18T15:26:27.123507-07:00"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "date_filed": {
+      "type": "str",
+      "samples": [
+        "2024-11-29",
+        "2024-11-06"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "time_filed": {
+      "type": "null",
+      "samples": [
+        "12:00:46",
+        "15:19:30"
+      ],
+      "fill_count": 4,
+      "total_count": 15
+    },
+    "entry_number": {
+      "type": "int",
+      "samples": [
+        708,
+        707
+      ],
+      "fill_count": 14,
+      "total_count": 15
+    },
+    "recap_sequence_number": {
+      "type": "str",
+      "samples": [
+        "2024-11-29.001",
+        "2024-11-06.001"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "pacer_sequence_number": {
+      "type": "int",
+      "samples": [
+        2499,
+        2496
+      ],
+      "fill_count": 14,
+      "total_count": 15
+    },
+    "description": {
+      "type": "str",
+      "samples": [
+        "MANDATE of USCA as to 699 Notice of Appeal to the Ninth Circuit filed by Glen Li...",
+        "USCA Memorandum as to 699 Notice of Appeal to the Ninth Circuit filed by Glen Li..."
+      ],
+      "fill_count": 14,
+      "total_count": 15
+    },
+    "tags": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    }
+  },
+  "recap_documents": {
+    "resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/recap-documents/425718605/",
+        "https://www.courtlistener.com/api/rest/v4/recap-documents/425718603/"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        425718605,
+        425718603
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "tags": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "absolute_url": {
+      "type": "str",
+      "samples": [
+        "/docket/7643790/694/in-re-tesla-inc-securities-litigation/",
+        "/docket/7643790/693/in-re-tesla-inc-securities-litigation/"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "date_created": {
+      "type": "str",
+      "samples": [
+        "2024-12-31T20:59:40.519153-08:00",
+        "2024-12-31T20:59:40.470286-08:00"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "date_modified": {
+      "type": "str",
+      "samples": [
+        "2026-03-18T15:26:26.286499-07:00",
+        "2026-03-18T15:26:26.228283-07:00"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "sha1": {
+      "type": "str",
+      "samples": [
+        "2939716957c5ffdb227656e6ca620e44e694acf6",
+        "53351e076eee6bf56b785656a1a42a4654f6aff9"
+      ],
+      "fill_count": 2,
+      "total_count": 15
+    },
+    "page_count": {
+      "type": "null",
+      "samples": [
+        1,
+        1
+      ],
+      "fill_count": 8,
+      "total_count": 15
+    },
+    "file_size": {
+      "type": "null",
+      "samples": [
+        96351,
+        108102
+      ],
+      "fill_count": 8,
+      "total_count": 15
+    },
+    "filepath_local": {
+      "type": "null",
+      "samples": [
+        "recap/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.109.0.pdf",
+        "recap/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.107.0_1.pdf"
+      ],
+      "fill_count": 2,
+      "total_count": 15
+    },
+    "filepath_ia": {
+      "type": "str",
+      "samples": [
+        "https://archive.org/download/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.109...",
+        "https://archive.org/download/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.107..."
+      ],
+      "fill_count": 2,
+      "total_count": 15
+    },
+    "ia_upload_failure_count": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "thumbnail": {
+      "type": "null",
+      "samples": [
+        "recap-thumbnails/gov.uscourts.ca9.341504/438955189.thumb.1068.png"
+      ],
+      "fill_count": 1,
+      "total_count": 15
+    },
+    "thumbnail_status": {
+      "type": "int",
+      "samples": [
+        0,
+        0
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "plain_text": {
+      "type": "str",
+      "samples": [
+        "        Case: 22-10312, 12/22/2025, ID: 12944325, DktEntry: 109, Page 1 of 1\n\n  ...",
+        "        Case: 22-10312, 05/08/2025, ID: 12928743, DktEntry: 107, Page 1 of 1\n\n\n\n..."
+      ],
+      "fill_count": 2,
+      "total_count": 15
+    },
+    "ocr_status": {
+      "type": "null",
+      "samples": [
+        2,
+        2
+      ],
+      "fill_count": 2,
+      "total_count": 15
+    },
+    "date_upload": {
+      "type": "null",
+      "samples": [
+        "2025-12-26T12:07:00.410326-08:00",
+        "2025-12-26T12:06:39.639383-08:00"
+      ],
+      "fill_count": 2,
+      "total_count": 15
+    },
+    "document_number": {
+      "type": "str",
+      "samples": [
+        "694",
+        "693"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "attachment_number": {
+      "type": "null",
+      "samples": [
+        2,
+        38
+      ],
+      "fill_count": 6,
+      "total_count": 15
+    },
+    "pacer_doc_id": {
+      "type": "str",
+      "samples": [
+        "009034509913",
+        "009034509907"
+      ],
+      "fill_count": 10,
+      "total_count": 15
+    },
+    "is_available": {
+      "type": "bool",
+      "samples": [
+        false,
+        false
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "is_free_on_pacer": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "is_sealed": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "document_type": {
+      "type": "int",
+      "samples": [
+        1,
+        1
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "description": {
+      "type": "str",
+      "samples": [
+        "Opinion",
+        "Exhibit 109 to Henssler Decl."
+      ],
+      "fill_count": 6,
+      "total_count": 15
+    },
+    "acms_document_guid": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    }
+  },
+  "parties": {
+    "resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/parties/12262307/",
+        "https://www.courtlistener.com/api/rest/v4/parties/12261732/"
+      ],
+      "fill_count": 13,
+      "total_count": 13
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        12262307,
+        12261732
+      ],
+      "fill_count": 13,
+      "total_count": 13
+    },
+    "attorneys": {
+      "type": "list",
+      "samples": [
+        "[5 items]",
+        "[1 items]"
+      ],
+      "fill_count": 11,
+      "total_count": 13
+    },
+    "party_types": {
+      "type": "list",
+      "samples": [
+        "[1 items]",
+        "[1 items]"
+      ],
+      "fill_count": 13,
+      "total_count": 13
+    },
+    "date_created": {
+      "type": "str",
+      "samples": [
+        "2023-01-20T13:44:55.566799-08:00",
+        "2023-01-20T10:06:08.417638-08:00"
+      ],
+      "fill_count": 13,
+      "total_count": 13
+    },
+    "date_modified": {
+      "type": "str",
+      "samples": [
+        "2023-01-20T13:44:55.566816-08:00",
+        "2023-01-20T10:06:08.417649-08:00"
+      ],
+      "fill_count": 13,
+      "total_count": 13
+    },
+    "name": {
+      "type": "str",
+      "samples": [
+        "Daniel Dees",
+        "Alvin Janklow"
+      ],
+      "fill_count": 13,
+      "total_count": 13
+    },
+    "extra_info": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 13
+    }
+  },
+  "attorneys": {},
+  "clusters": {
+    "resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/clusters/9608866/",
+        "https://www.courtlistener.com/api/rest/v4/clusters/9607590/"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        9608866,
+        9607590
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "absolute_url": {
+      "type": "str",
+      "samples": [
+        "/opinion/9608866/in-re-tesla-inc-securities-litigation/",
+        "/opinion/9607590/in-re-tesla-inc-securities-litigation/"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "panel": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "non_participating_judges": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "docket_id": {
+      "type": "int",
+      "samples": [
+        7643790,
+        7643790
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "docket": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/dockets/7643790/",
+        "https://www.courtlistener.com/api/rest/v4/dockets/7643790/"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "sub_opinions": {
+      "type": "list",
+      "samples": [
+        "[1 items]",
+        "[1 items]"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "citations": {
+      "type": "list",
+      "samples": [
+        "[1 items]"
+      ],
+      "fill_count": 1,
+      "total_count": 11
+    },
+    "cluster_redirections": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "date_created": {
+      "type": "str",
+      "samples": [
+        "2024-06-20T11:30:13.489326-07:00",
+        "2024-06-20T10:57:24.772936-07:00"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "date_modified": {
+      "type": "str",
+      "samples": [
+        "2024-06-20T11:30:13.489352-07:00",
+        "2024-06-20T10:57:24.772951-07:00"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "judges": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "date_filed": {
+      "type": "str",
+      "samples": [
+        "2023-06-14",
+        "2023-02-01"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "date_filed_is_approximate": {
+      "type": "bool",
+      "samples": [
+        false,
+        false
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "slug": {
+      "type": "str",
+      "samples": [
+        "in-re-tesla-inc-securities-litigation",
+        "in-re-tesla-inc-securities-litigation"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "case_name_short": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "case_name": {
+      "type": "str",
+      "samples": [
+        "In re Tesla Inc. Securities Litigation",
+        "In re Tesla Inc. Securities Litigation"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "case_name_full": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "scdb_id": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "scdb_decision_direction": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "scdb_votes_majority": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "scdb_votes_minority": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "source": {
+      "type": "str",
+      "samples": [
+        "G",
+        "G"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "procedural_history": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "attorneys": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "nature_of_suit": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "posture": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "syllabus": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "headnotes": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "summary": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "disposition": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "history": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "other_dates": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "cross_reference": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "correction": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "citation_count": {
+      "type": "int",
+      "samples": [
+        0,
+        0
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "precedential_status": {
+      "type": "str",
+      "samples": [
+        "Unknown",
+        "Unknown"
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "date_blocked": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "blocked": {
+      "type": "bool",
+      "samples": [
+        false,
+        false
+      ],
+      "fill_count": 11,
+      "total_count": 11
+    },
+    "filepath_json_harvard": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "filepath_pdf_harvard": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "filepath_xml_scan": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "filepath_pdf_scan": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "arguments": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    },
+    "headmatter": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 11
+    }
+  },
+  "opinion": {
+    "resource_uri": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/opinions/10075479/",
+        "https://www.courtlistener.com/api/rest/v4/opinions/10804725/"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        10075479,
+        10804725
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "absolute_url": {
+      "type": "str",
+      "samples": [
+        "/opinion/9608866/in-re-tesla-inc-securities-litigation/",
+        "/opinion/10338137/united-states-v-elizabeth-holmes/"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "cluster_id": {
+      "type": "int",
+      "samples": [
+        9608866,
+        10338137
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "cluster": {
+      "type": "str",
+      "samples": [
+        "https://www.courtlistener.com/api/rest/v4/clusters/9608866/",
+        "https://www.courtlistener.com/api/rest/v4/clusters/10338137/"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "author_id": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "author": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "joined_by": {
+      "type": "list",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "date_created": {
+      "type": "str",
+      "samples": [
+        "2024-06-20T11:30:13.500155-07:00",
+        "2025-02-24T09:01:22.343020-08:00"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "date_modified": {
+      "type": "str",
+      "samples": [
+        "2025-06-02T11:40:50.676482-07:00",
+        "2025-12-06T11:43:18.388765-08:00"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "author_str": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "per_curiam": {
+      "type": "bool",
+      "samples": [
+        false,
+        false
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "joined_by_str": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "type": {
+      "type": "str",
+      "samples": [
+        "100trialcourt",
+        "010combined"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "sha1": {
+      "type": "str",
+      "samples": [
+        "c9491c3f440524eab48a9dc84a8e9357579d9f13",
+        "b0a0d7ddc1bb19c8fdd1e5d9ce5d108b61d7f53a"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "page_count": {
+      "type": "int",
+      "samples": [
+        25,
+        54
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "download_url": {
+      "type": "null",
+      "samples": [
+        "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf"
+      ],
+      "fill_count": 1,
+      "total_count": 3
+    },
+    "local_path": {
+      "type": "str",
+      "samples": [
+        "recap/gov.uscourts.cand.330489/gov.uscourts.cand.330489.697.0.pdf",
+        "pdf/2025/02/24/united_states_v._elizabeth_holmes.pdf"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "plain_text": {
+      "type": "str",
+      "samples": [
+        "1                                                                         \n2    ...",
+        "             FOR PUBLICATION\n\n  UNITED STATES COURT OF APPEALS\n       FOR THE NI..."
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "html": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "html_lawbox": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "html_columbia": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "html_anon_2020": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "xml_harvard": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "xml_scan": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "html_with_citations": {
+      "type": "str",
+      "samples": [
+        "<pre class=\"inline\">1                                                           ...",
+        "<pre class=\"inline\">             FOR PUBLICATION\n\n  UNITED STATES COURT OF APPEA..."
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "extracted_by_ocr": {
+      "type": "bool",
+      "samples": [
+        false,
+        false
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    },
+    "ordering_key": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "main_version": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 3
+    },
+    "opinions_cited": {
+      "type": "list",
+      "samples": [
+        "[30 items]",
+        "[68 items]"
+      ],
+      "fill_count": 3,
+      "total_count": 3
+    }
+  },
+  "recap_query": {},
+  "oral_arguments": {
+    "absolute_url": {
+      "type": "str",
+      "samples": [
+        "/audio/103636/ireland-gordy-et-al-v-tile-inc-et-al/",
+        "/audio/101400/oakland-county-voluntary-employees-beneficiary-association-et-al-v..."
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "caseName": {
+      "type": "str",
+      "samples": [
+        "Ireland-Gordy v. Tile, Inc.",
+        "Oakland County Voluntary Employees' Beneficiary Association v. Tesla Inc."
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "case_name_full": {
+      "type": "str",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "court": {
+      "type": "str",
+      "samples": [
+        "Court of Appeals for the Ninth Circuit",
+        "Court of Appeals for the Ninth Circuit"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "court_citation_string": {
+      "type": "str",
+      "samples": [
+        "9th Cir.",
+        "9th Cir."
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "court_id": {
+      "type": "str",
+      "samples": [
+        "ca9",
+        "ca9"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "dateArgued": {
+      "type": "str",
+      "samples": [
+        "2026-01-05",
+        "2025-11-20"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "dateReargued": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "dateReargumentDenied": {
+      "type": "null",
+      "samples": [],
+      "fill_count": 0,
+      "total_count": 15
+    },
+    "docketNumber": {
+      "type": "str",
+      "samples": [
+        "25-403",
+        "25-55"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "docket_id": {
+      "type": "int",
+      "samples": [
+        70794256,
+        69526886
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "download_url": {
+      "type": "str",
+      "samples": [
+        "https://www.ca9.uscourts.gov/datastore/media/2026/01/05/25-403.mp3",
+        "https://www.ca9.uscourts.gov/datastore/media/2025/11/20/25-55.mp3"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "duration": {
+      "type": "int",
+      "samples": [
+        1838,
+        1674
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "file_size_mp3": {
+      "type": "int",
+      "samples": [
+        12918124,
+        10116065
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "id": {
+      "type": "int",
+      "samples": [
+        103636,
+        101400
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "judge": {
+      "type": "str",
+      "samples": [
+        "GOULD, NGUYEN, BENNETT",
+        "THOMAS, BRESS, MENDOZA"
+      ],
+      "fill_count": 11,
+      "total_count": 15
+    },
+    "local_path": {
+      "type": "str",
+      "samples": [
+        "mp3/2026/01/05/ireland-gordy_v._tile_inc._cl_12.mp3",
+        "mp3/2025/11/20/oakland_county_voluntary_employees_beneficiary_association_v._tes..."
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "meta": {
+      "type": "dict",
+      "samples": [
+        "{...}",
+        "{...}"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "meta.timestamp": {
+      "type": "str",
+      "samples": [
+        "2026-04-04T07:54:17.784960Z",
+        "2025-11-21T02:32:36.091145Z"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "meta.date_created": {
+      "type": "str",
+      "samples": [
+        "2026-03-28T00:16:48.788710Z",
+        "2025-11-21T02:30:59.629577Z"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "meta.score": {
+      "type": "dict",
+      "samples": [
+        "{...}",
+        "{...}"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "pacer_case_id": {
+      "type": "str",
+      "samples": [
+        "84713f0a-94c6-4562-9080-f4fca12a0eaa",
+        "923f6209-8d13-4062-9494-e9d1393f6583"
+      ],
+      "fill_count": 6,
+      "total_count": 15
+    },
+    "panel_ids": {
+      "type": "list",
+      "samples": [
+        "[3 items]",
+        "[2 items]"
+      ],
+      "fill_count": 11,
+      "total_count": 15
+    },
+    "sha1": {
+      "type": "str",
+      "samples": [
+        "02df8629af0d85983f4a9015f3127e94898179aa",
+        "e98d6ffa0c0cbe7fef40709783f8455e0f975ece"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "snippet": {
+      "type": "str",
+      "samples": [
+        "Good morning, Your Honors. I'm Jeff Gatkin from the Cooley Firm, appearing for A...",
+        "I'd like to reserve five minutes for rebuttal. May it please the Court, I am Jak..."
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    },
+    "source": {
+      "type": "str",
+      "samples": [
+        "C",
+        "C"
+      ],
+      "fill_count": 15,
+      "total_count": 15
+    }
+  }
+}

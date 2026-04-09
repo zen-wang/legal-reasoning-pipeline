@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# Database files (share via Google Drive)
+*.db
+*.db-shm
+*.db-wal
+
+# Teammate's work
+sec-litigation-scraper/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+slurm.*
+mlruns/

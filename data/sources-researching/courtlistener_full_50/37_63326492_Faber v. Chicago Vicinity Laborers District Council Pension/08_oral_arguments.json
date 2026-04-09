@@ -1,0 +1,74 @@
+[
+  {
+    "absolute_url": "/audio/72840/laborers-local-no231-v-cowan/",
+    "caseName": "Laborers Local No231 v. Cowan",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Third Circuit",
+    "court_citation_string": "3rd Cir.",
+    "court_id": "ca3",
+    "dateArgued": "2020-11-09",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "20-1844",
+    "docket_id": 18619209,
+    "download_url": "http://www2.ca3.uscourts.gov/Oralargument/audio/20-1844_LaborersLocalNo231v.Cowan.mp3",
+    "duration": 3206,
+    "file_size_mp3": 19602108,
+    "id": 72840,
+    "judge": "",
+    "local_path": "mp3/2020/11/09/laborers_local_no231_v._cowan_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T06:52:34.971614Z",
+      "date_created": "2020-11-10T17:13:44.321954Z",
+      "score": {
+        "bm25": 13280976000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "4d230bcebca596ad42d9200620e3876e682cbdb0",
+    "snippet": "Good morning, Council. This is the case of Laborers Local No. 231 Pension Fund against Rory J. Cowan, et al., No. 20-1844. Mr. Barron. Yes, Your Honor. Randall Barron, representing Laborers Local No. 231 Pension Fund. May it please the Court, I'd like to reserve five minutes for rebuttal, if I may. Granted. And, yes, this is not a case about labor issues. It is, in fact, a securities case. We are here because the district court below ignored evidence that just demonstrates that there were",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/1024/in-re-allergan-inc-stockholder-litigation/",
+    "caseName": "Omnicare, Inc. v. Laborers Dist. Council Constr. Industry Pension Fund",
+    "case_name_full": "",
+    "court": "Supreme Court of the United States",
+    "court_citation_string": "SCOTUS",
+    "court_id": "scotus",
+    "dateArgued": "2014-11-03",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "CA 9609-CB",
+    "docket_id": 2593800,
+    "download_url": "http://www.supremecourt.gov/media/audio/mp3files/13-435.mp3",
+    "duration": 3683,
+    "file_size_mp3": 22695363,
+    "id": 1024,
+    "judge": "",
+    "local_path": "mp3/2014/11/03/omnicare_inc._v._laborers_dist._council_constr._industry_pension_fund_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T12:54:10.366430Z",
+      "date_created": "2014-11-07T19:03:52.995893Z",
+      "score": {
+        "bm25": 13091069000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      77,
+      384,
+      1213,
+      1691,
+      1747,
+      2738,
+      2852,
+      3045,
+      3200
+    ],
+    "sha1": "8e2064b70f299899ff49b74c271e19da24dc1e9f",
+    "snippet": "We'll hear argument next this morning in Case 13-435, Omnicare, Inc. v. Laborers Dist. Council Constr. Industry Pension Fund. Mr. Shanmugam. Thank you, Mr. Chief Justice, and may it please the Court. Like other provisions of the Federal Securities Laws, Section 11 of the Securities Act imposes liability only for untrue or misleading statements of material fact. The only fact conveyed by a statement of opinion or belief is the fact that the speaker held the stated belief. As this Court concluded",
+    "source": "C"
+  }
+]

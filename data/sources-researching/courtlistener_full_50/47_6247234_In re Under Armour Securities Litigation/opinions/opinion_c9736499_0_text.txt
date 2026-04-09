@@ -1,0 +1,483 @@
+               IN THE UNITED STATES DISTRICT COURT          . 
+                   FOR THE DISTRICT OF MARYLAND 
+
+                                         + 
+Inre  UNDER ARMOUR 
+     SECURITIES LITIGATION           *      Civil Action No.: RDB-17-0388 
+                                         * 
+
+*      x     x      x      -*      k      x             x      **      *      *      zk 
+                         MEMORANDUM OPINION 
+     The central allegation in this putative class action lawsuit is that Defendants Under 
+Armour,  Inc.  (“Under Armour”  or  “the Company”)  and  its  teptesentatives,  including its 
+former CEO Kevin Plank (“Plank”), misrepresented the level of demand for Under Armour 
+products.  In two previous opinions, this Court dismissed Plaintiffs’ claims  undet Sections 
+10(b), 20(a), and 20A of the Securities Exchange Act of 1934 (“Exchange Act”), 14 U.S.C. §§ 
+78}(b), 78(t)(a), 78t-1, and Rule 10b-5 promulgated thereunder, 17 C-F.R. § 240.10b-5, as well 
+
+as Sections 11 and 15 of the Securities Act of 1933 (‘Securities Act”), 15 U.S.C. §§ 77k, 770. 
+(ECF Nos.  74,  98.)   On September 9, 2019, this  Court entered Judgment in  favor of all 
+Defendants.  (ECF No.  101.)  On September 17, 2019, Plaintiffs, led by the Aberdeen City 
+Council  as  Administrating Authority  for  the  North  East  Scotland  Pension  Fund  (“Lead 
+
+Plaintiff’), filed a timely Notice of Appeal to the United States Court of Appeals for the Fourth 
+Circuit.  (ECF No. 102.) 
+     On November 3 and 14, 2019, The Wall Street Journal published two articles reporting 
+that Under Armour has been the subject of investigations by the Securities and Exchange 
+Commission (“SEC”) and the Department of Justice (“DOJ”) since at least July 2017 and that 
+Under Armour shifted sales from quarter to quarter to appeat healthier.  Based on this new 
+
+evidence, Plaintiffs have filed  a Motion for Indicative Ruling Under Federal Rule of Civil 
+Procedute 62.1  (ECF No.  105) and Motion for Relicf from the Court’s September 9, 2019 
+Judgment (ECF No. 106).  Moving separately, Lead Plaintiff has filed  a Motion to Consolidate 
+and Vacate Notice and Lead Plaintiff Deadline (ECF No. 107) and a Motion for Consolidation 
+of Related Actions, Appointment of a Lead Plaintiff, and Approval of Selection of Counsel 
+(ECF No. 131). 
+     On Tuesday, January 14, 2020, this Court conducted a Motions Hearing concerning 
+the Motion for Indicative Ruling Under Federal Rule of Civil Procedure 62.1 (ECF No. 105) 
+and Motion for Relief from the Court’s September 9,  2019 Judgment (ECF  No. 106).  For the 
+reasons set forth on the record, and more fully stated herein, the Motion for Indicative Ruling 
+Under Federal Rule of Civil Procedure 62.1 (ECF No. 105) is GRANTED.  Pursuant to Rule 
+62.1 of the Federal Rules of Civil Procedure, this Court concludes that it would GRANT the 
+Motion for Relief from the Court’s September 9,  2019 Judgment (ECF No. 106) if the United 
+States Court of Appeals for the Fourth Circuit remands for that purpose.  Upon remand, this 
+Court would  consolidate  this  matter with  Pare/ v.  Under Armour,  Inc.  (RDB-19-3209)  and 
+Waronker v.  Under  Armour, Inc. (RDB-19-3581) and appoint the Lead Plaintiff of this action as 
+Lead Plaintiff over the consolidated cases.  Finally, this Court would permit Plaintiffs to file a 
+Third Amended Complaint bringing o#/y Exchange Act Claims against on/p Defendants Under 
+Armour and Kevin Plank.! 
+
+     | During the January 14, 2020 Motions Hearing, Plaintiffs agreed to dismiss the Securities Act Claims 
+originally asserted in Counts I and II of the Consolidated Amended Complaint against the nine Director 
+Defendants and the eleven Underwriter Defendants.  See pages 4-5, 16, infra.
+
+                              BACKGROUND 
+     In brief? Under Armour is a Maryland-based sports apparel company that sells branded 
+athletic apparel, footwear and accessories worldwide.  (ECF No. 78 at [ 4.)  Since its formation 
+in 1996, the Company has grown to become a  leading premium sportswear brand, achieving 
+the position of number two sportswear brand by revenue in the United States by 2014.  (fd. at 
+915-6.)  By capitalizing on its premium brand image and reputation for state-of-the-art fabrics, 
+Under Armour reported 26 consecutive quarters of 20% or more compounded annual growth 
+between 2010 and 2016.  (Id at   6.)   Kevin Plank is the Company’s founder, former Chief 
+Executive Officer, and largest shareholder. (Id. at J] 24.)  On October 22, 2019, the Company 
+announced  that  Plank  would  become  the  Executive  Chairman  and  Brand  Chief of the 
+Company.  (ECF No. 106-3.)                                  
+
+     Plaintiffs  allege  generally  that  beginning  in  September  2015,  Defendants’  public   □ 
+statements concealed that they knew consumer demand for Under Armoutr’s products was 
+declining, so the Company abandoned its “brand strength over price” sales philosophy and 
+resorted to discounting, which led to Under Armout’s stock prices being artificially inflated by 
+lowet-margin  sales  and international expansion.   (ECF No.  78  at "1 9-12.)  Additionally, 
+
+ Plaintiffs allege that Under Armour inflated its sales numbers by pressuring Dick’s Sporting 
+Goods     order more inventory than it required, with the promise that it could return the 
+items later.  (Id. at J] 77, 111.)  Similarly, Under Armour is alleged to have continued making 
+sales  to  The  Sports  Authority  even  after  learning  that  the  retailer  was  headed  towards 
+
+2    This Court provided a detailed background in its September 19, 2018 decision and incorporates it 
+herein, See In re  Under Armour Sec. Litig., 342 F. Supp. 3d 658 (D. Md, 2018).
+
+bankruptcy.  (/d@. at   78.)  In January 2016, Morgan Stanley & Co. LLC (“Morgan Stanley”)? 
+published a report relying on industry sales data that revealed Under Armout’s average-sales- 
+ptice and market-share decline, which started a corresponding decline in the Company’s stock 
+prices.  (Id at   13.)  Plaintiffs also allege that Plank “personally cashed in on” the stock’s 
+artificial inflation by selling a substantial amount of his stock in the Company during the Class 
+Period.  (Id. at 412.)                   
+
+     In theit Consolidated First Amended Complaint (ECF No. 30), Plaintiffs Aberdeen 
+City Council.as Administrating Authority for the North East Scotland Pension Fund (“Lead 
+Plaintiff’)  and Bucks  County Employees Retirement Fund brought a putative class action 
+against  Under  Armour,  Plank,  Lawrence  P.  (Chip)  Molloy  (“Molloy”),  Brad  Dickerson 
+(“Dickerson”),  named  directors+  (“Director  Defendants”),  and  named  underwriters° 
+(“Underwriter Defendants”) alleging violations of federal securities laws.  Under Counts I and 
+Ii, Bucks.County Employees Retirement Fund brought Securities Act® claims against Under 
+Armout, Plank, Molloy, the Director Defendants, and the Underwriter Defendants. Under 
+
+5      Morgan Stanley is an American multinational investment bank and financial services company that has 
+a reputation as a leader in the field of investment research.  Plaintiffs reference multiple research reports, 
+referred to as the Morgan Stanley Reports, that were published between January 2016 and February 2017 and 
+included commentary about Under Armout’s stock. 
+4      Byron K. Adams, Jr.; George W. Bodenheimer; Douglas E. Coltharp; Anthony W. Deering; Karen W. 
+Katz; A.B. Krongard; William R. McDermott; Eric T. Olson; and Harvey L. Sanders.  (ECF No. 30 at ff] 28- 
+36.) 
+5      J.P.  Morgan  Securities LLC; Merrill Lynch,  Pierce,  Fenner &  Smith  Incorporated; Wells  Fargo 
+Securities, LLC; HSBC Securities (USA) Inc.; PNC Capital Markets, LLC; BB&T Capital Markets, a division of 
+BB&T Securities, LLC; SunTrust Robinson Humphrey, Inc.; Citigroup Global Markets Inc.; Goldman Sachs 
+& Co, LLC; Regions Securities LLC; and SMBC Nikko Securities America, Inc. (ECF No. 30 at {J 39-49.) 
+      Securities Act of 1933 (“Securities Act”) §§ 11, 15, 15 U.S.C. §§ 77k, 770, and the rules promulgated 
+thereunder.
+
+Counts HI and IV, Plaintiffs brought Exchange Act’ claims against Under Armour, Plank, 
+Molloy, and Dickerson. 
+     Plaintiffs’ Securities Act and Exchange Act claims have several key legal distinctions. 
+Section 11  of the Securities Act provides a right of action based only on misstatements or 
+omissions made in a  registration statement issued in connection with a public offering of 
+securities.  Ovenicare, Inc. v. Laborers Dist. Counctl Constr. Indus. Pension Fund, 575 U.S. 175, 135 S. 
+Ct. 1318 (2015).  Section 10(b) of the Exchange Act, and Rule 10b-5 promulgated thereunder, 
+ptohibit a broader range of misconduct, including making material misstatements or omissions 
+which “touch” or “coincide” with a purchase or sale of a security.  Chadbourne ¢» Parke LLP v. 
+Troice, 571 U.S. 377, 392, 134 S. Ct.  1058 (2014)  (citations omitted).  Most importantly for 
+
+present  purposes,  Plaintiffs’  Exchange  Act  claims  require  them  to  adequately  allege 
+“scienter”—that is,  an intent “to  deceive, manipulate,  or defraud.”   Merck  ¢ Co.,  Inc.  □□ 
+Reynolds, 559 U.S. 633, 637, 130 S. Ct. 1764 (2010) (quoting Erast > Ernst v. Hochfelder, 425 
+US. 185, 194 n.12, 96 8. Ct. 1375 (1976). 
+     On September 19, 2018, this Court granted Defendants’ dismissal motions, dismissing 
+the Securities Act claims  (Counts I and II)  with prejudice.  Specifically, this Court held that 
+Plaintiffs  had  failed  to  bring  their  Securities  Act  claims  within  the  applicable  statute  of 
+limitations period and, alternatively, that Plaintiffs had failed to adequately plead any material 
+misstatement or omission appearing in Under Armout’s registration statement.  In re Under 
+Armour Sec. Litig.  (Under Armour I), 342 F. Supp. 3d 658, 670-78 (D.  Md.  2018).  Plaintiffs’ 
+
+7      Securities Exchange Act of 1934 (“Exchange Act”) §§ 10(b), 20(a), 15 U.S.C. §§ 78j(b), 78(t)(a), and        
+Rule 10b-5 promulgated thereunder, 17 C.F.R. § 240.10b-5. 
+                                     5          . 
+
+Exchange Act claims (Counts ITI and IV), however, were dismissed without prejudice.  Id. at 694. 
+As to those claims, this Coutt found that Plaintiffs had adequately alleged that  Under Armour 
+made  false  ot  misleading  statements  in  2016,  but  had  failed  to  establish  a  “cogent  and 
+compelling” inference of scienter.  Id at 682-94. 
+     On November 16, 2018, Lead Plaintiff and Monroe County Employees’ Retirement 
+System, on behalf of all persons or entities that purchased or acquired common stock of Under 
+Armour between September 16, 2015 and January 30, 2017, inclusive (“Class Period”) and        
+
+who were damaged thereby, filed  a Consolidated Second Amended Complaint (ECF No. 78). 
+The  Second Amended  Complaint asserted  only Exchange Act claims  against only Under 
+Armour and Plank.  On August 19, 2019, this Court dismissed all three Counts of the Second 
+Amended Complaint, once again finding that Plaintiffs had failed to allege scienter.  See In re 
+Under  Armour Sec. Litig,  (Under  Armour ID), 409 F. Supp. 3d 446 (D. Md. 2019).  As to Plank’s 
+scienter, this Court concluded that “the most reasonable likely inference to be drawn is that 
+Plank interpreted  the  data  that was  available  to  him through the  lens  of the  Company’s 
+consistent  success  to  date,  attributed  any  non-conforming  data  to  typical  retail  market 
+challenges, and assumed the Company would continue to rise above such challenges as it had 
+always done in the past.”  Id. at 462. 
+
+    _  On September 9, 2019, this Court entered Judgment in favor of all Defendants.  (ECF 
+No.  101.)  Subsequently, on September  17, 2019, Plaintiffs noticed an appeal of both this 
+Court’s September 19, 2018 ruling dismissing the Securities Act Claims with prejudice and its 
+August 19, 2019 ruling, ultimately dismissing the Exchange Act Claims with prejudice.  (ECF 
+No. 102.)  In November 2019, The Wall Street Journal reported that Under Armout’s accounting 
+
+ptactices had been the subject of investigations by the SEC and DOJ since at least July 2017. 
+On November 18, 2019, Plaintiffs filed  a Motion for Indicative Ruling Under Federal Rule of 
+Civil Procedure 62.1  (ECF No.  105) and Motion for Relief from the Court’s September 9, 
+2019 Judgment  (ECF No.  106).  Moving separately, Lead Plaintiff has  filed  a Motion  to 
+Consolidate and Vacate Notice and Lead Plaintiff Deadline (ECF No. 107) and a Motion for 
+Consolidation of Related Actions, Appointment of a Lead Plaintiff, and Approval of Selection   _ 
+of Counsel (ECF No. 134). 
+                         STANDARD OF REVIEW 
+I.    Relief from Judgment Pursuant to Fed. R. Civ. P. 60(b). 
+     Under Rule 60(b), a patty may be granted telief from judgment on motion for the 
+following  reasons:  (1)  mistake,  inadvertence,  surprise  ot  excusable  neglect;  (2)  newly 
+discovered evidence that, with reasonable diligence, could not have been discovered in time 
+
+to move for a new trial under Rule 59(b); (3) fraud, misrepresentation, or misconduct by an 
+opposing party;  (4)  the judgment is void;  (5)  the judgment has been satisfied, released or 
+discharged; (6) any other reason that justifies relief. Fed. R. Civ. Proc. 60(b). 
+     In addition to making a showing under one of these enumerated grounds, a party 
+seeking telief from judgment under Rule  60(b)  must first show “timeliness,  a meritorious 
+position, lack of prejudice to the opposition, and exceptional circumstances.” Adff v. Joy □□□□ 
+Co., 914 F.2d 39, 44 (4th Cir. 1990), Ultimately, it is within this Court’s discretion to grant or 
+deny a motion filed pursuant to Rule 60(b). See National Credit  Unton  Admin. Ba. v. Gray,  1 F.3d 
+262, 265 (4th Cir. 1993).
+
+II.    Indicative Ruling Pursuant to Fed. R. Civ. P. 62.1. 
+     As recently explained by Judge Hazel of this Court in Kravitz ».  United States Dep't of 
+Commerce, 382 F. Supp. 3d 393, 397 (D. Md. 2019), this Court retains limited jurisdiction to 
+consider a motion for relief under Rule 60(b) even though an appeal is pending. See Fobian v. 
+Storage Tech,  Corp., 164 F.3d 887, 891  (4th Cir.  1999)  (“[W]hen a Rule 60(b) motion is filed 
+while a judgment is on appeal, the district court has jurisdiction to entertain the motion, and 
+should do so promptly.”).  Pursuant to Rule 62.1, the Court may (1) defer considering the 
+motion; (2) deny the motion; or (3) state either that it would grant the motion if the court of 
+appeals remands for that purpose or that the motion raises a substantial issue. Fed. R. Civ. 
+P. 62.1. 
+                                ANALYSIS  | 
+
+   "As explained during the Motions Hearing of January 14, 2020, this Court is inclined to . 
+
+gtant Plaintiffs’ Motion for relief from Judgment  under Rule 60(b) if the case is remanded for 
+that purpose.   New evidence that Under Armour has been under investigation by the SEC 
+and the DOJ related to accounting practices which were allegedly employed during the Class 
+Petiod provides a sufficient basis  for vacating this Court’s September ?,  2019 Judgment.’ 
+Additionally, Plaintiffs have satisfied the requirements of “timeliness,? a meritorious position, 
+lack of prejudice to the opposition, and exceptional circumstances.” 44/7, 914 F.2d at 44. 
+
+     8 This Court draws no inference against the Defendants Under Armour and Plank based on the mere 
+fact that Under Armour has  been the  subject of an investigation.  However, the existence  of such an 
+investigation is relevant to allegations that Plank and Under Armour executives acted with scienter, 
+     9 Defendants do not argue that Plaintiffs’ motion is untimely.  The Motion is timely because it was 
+filed within days of the relevant reporting by The Wall Street Journal,
+
+I.    Relief from Judgment Based on Newly Discovered Evidence. 
+     Under  Rule  60(b)(2),  Plaintiffs  may  seek  relief  from  judgment  based  on  newly 
+discovered evidence that, with reasonable diligence, could not have been discovered in time 
+to move for a new trial under Rule 59(b). Fed. R. Civ. P. 60(b)(2).  A party seeking relief from 
+
+a judgment under Rule 60(b)(2) must demonstrate the following: 
+     (1) the evidence is newly discovered since the judgment was entered; (2) due 
+     diligence on the patt of the movant to discover the new evidence has been 
+     exercised;  (3)  the  evidence is  not merely  cumulative  or impeaching;  (4)  the 
+   .  evidence is material; (5) the evidence is such that [it] is likely to produce a new 
+     outcome if the case were retried, or is such that would require the judgment to 
+     be amended. 
+Boryan v. United States, 884 F.2d 767, 771 (4th Cir. 1989). 
+     Plaintiffs submit several forms of new evidence to support their motion for relief from - 
+
+Judgment under Rule 60(b).  A summary of the evidence is as follows: 
+
+  e   An Under Armour press release dated October 22, 2019 which announces that Kevin 
+     Plank would be transitioning from the position of CEO to Executive Chairman and 
+     Brand Chief. (ECF No. 106-3.) 
+  e   An article by The Wall Street Journal dated November 3, 2019 titled “Under Armour is 
+     Subject of Federal Accounting Probe” which reports that “Federal law-enforcement 
+     officials  are  investigating  Under  Armour  Inc.’s  accounting  practices in  a  probe 
+      examining whether  the  sportswear  maker  shifted  sales  from  quarter  to  quarter  to 
+   "appear healthier, according to people familiar with the matter.”  Citing an undisclosed 
+     source, the Article specifically indicates that the “Justice Department prosecutors are 
+     conducting a criminal inquiry into the matter” in coordination with the SEC. (ECF No. 
+     106-4.) 
+  e   A November 4, 2019 Form 8-K submitted by Under Armour to the SEC, in which 
+     Under Armour states that “[t]}he Company confirmed to The Wall Street Journal that it 
+     has been responding to requests for documents and information from the SEC and 
+     DO] regarding certain of the Company’s accounting practices and related disclosures, 
+     beginning with  submissions to the  SEC in July 2017.  The  Company continues to 
+     believe its accounting practices and related disclosures wete appropriate.” (ECF No. 
+     106-5.)
+
+        The Edited Transcript of a Q3 2019 Under Armour, Inc. Earnings Call which occurred 
+       on November 4, 2019, in which Under Armout’s Principal Accounting Officer, David 
+       E. Bergman, stated that “we began responding back in July of 2017 to [the SEC and 
+       Department of Justice’s] requests for documents and information.  We firmly believe 
+       that our accounting practices and disclosures were appropriate.”  (ECF No. 106-6.) 
+
+.     e   A November 14, 2019 article by The Wad! Street Journal titled “Inside Under Armout’s 
+       Sales Scramble: ‘Pulling Forward Every Quarter’,” which reports that Under Armour 
+       “leaned  on  retailers  to  take  products  early  and  redirected  goods  intended  for  the 
+       company’s factory stores to off-price chains to book sales in the final days of a quarter, 
+       accotding to  former executives in  sales, logistics, merchandising and  finance.” The 
+       article  further  states  that  “[ijnvestigators  are  examining  emails  that  show  Under 
+       Armour’s  founder  and  chief executive,  Kevin  Plank,  knew about efforts  to  move 
+       revenue between quarters, according to a person familiar with the matter.” (ECF No. 
+       106-7.) 
+
+       As  a pteliminary  matter,  the  October 22,  2019  press  release  from Under Armour 
+ announcing Kevin Plank’s new position at the Company is not “new evidence” meriting relief 
+ from judgment.  Evidence presented under Rule 60(b)(2) must actually have existed before 
+ Plaintiffs’ case was dismissed. United States uv. Int’l Bhd. Of Teamsters, 247 F.3d 370, 392 (2d Cir. 
+ 2011).  Furthermote, changes in job position of this kind have been described as “benign.”  In 
+
+ re   NVIDIA Corp. Sec. Litig, 768 F.3d 1046, 1063 (9th Cir. 2014).  Accordingly, Plank’s job 
+ change does not factor into this Court’s analysis. 
+       Defendants do not contend that any of the remaining evidence fails to qualify as “newly 
+ discovered” or accuse Plaintiffs of failing to exercise due diligence.  Instead, Defendants argue 
+ that the remaining evidence is either cumulative when compared to the allegations of the    □ 
+ Second Amended Complaint or otherwise does not require the judgment to be vacated. These 
+ arguments ate without metit. 
+
+                                       10 
+
+        A.  The evidence is not merely cumulative. 
+     Defendants argue that “some” of the newly discovered evidence is merely cumulative. 
+(ECF No. 119 at 15.)  For example, Defendants argue that The Wal/ Street Journals teporting 
+about Under Armout’s efforts to inflate revenue figures by shipping goods ahead of schedule 
+ot making sales to The Sports Authority despite its distressed financial status is “of the same 
+character” as the allegations in the Second Amended Complaint concerning Under Armour’s 
+sales to Dick’s and The Sports Authority.  (ECF No. 78 at {f] 77, 78, 111.) 
+     On the whole, the evidence is not “merely cumulative” with the allegations presented 
+in the Second Amended Complaint.  The Waé/ Street Journal reporting and the Company’s own 
+disclosures reveal that federal authorities have been investigating Under Armour’s accounting 
+practices  for over two  years  and  that the  Company has  been responding to requests  for 
+documents and information since July 2017.  This information is nowhere to be found in the 
+Second Amended Complaint because the investigation had not been revealed to the public. 
+While the reporting concerning Under Armour’s sales practices certainly echoes and supports 
+some of the allegations in the Second Amended Complaint the reporting also presents new 
+details about these sales practices.  For example, the reporting indicates that Under Armour 
+engaged in allegedly questionable sales practices with “retailers’—not just Dick’s—and that 
+Dick’s “stopped taking products early” as a result of a July 2016 deal between Under Armour 
+and Kohl’s Corp.  (ECF No. 106-7.)  The new information provided by the Plaintiffs places  □ 
+
+their original allegations in a new light and is not merely cumulative. 
+
+                                     11 
+
+         B.  The evidence requires the judgment to be vacated. 
+      Defendants further argue that Plaintiffs have failed to meet their burden of showing 
+that the newly discovered evidence “clearly would have produced a  different result 1f present 
+before the otiginal judgment.”  Goldstein v. MCI WorldCom, 340 F.3d 238, 258 (Sth Cir. 2003). 
+In the Second Amended Complaint, Plaintiffs reiterated!? claims under Section 10(b) of the 
+Exchange Act and Rule 10b-5 ptomulgated thereunder.  Section 10(b) of the Act prohibits the 
+
+use of “any manipulative or deceptive device or contrivance” in connection with the sale of a 
+security in violation of SEC rules.  15 U.S.C. § 78j(b).  “Rule 10b—5 encompasses only conduct      
+
+already prohibited by § 10(b).”  Stoneridge Inv. Partners, LILC v. Sct.-Atlanta, 552 U.S. 148, 157 
+(2008). 
+      A  typical  §  10(b)  action requires  a  plaintiff to  prove  six  elements:  “(1)  a  material 
+misrepresentation ot omission by the defendant; (2) scienter; (3) a connection between the 
+misrepresentation or omission and the purchase or sale of a security; (4) reliance upon the 
+misrepresentation ot omission; (5) economic loss; and (6) loss causation.”  Yares, Yates v. Mun. 
+Mortg.  ¢» Equity, LLC, 744 F.3d 874, 884 (4th Cir. 2014) (quoting Stoneridge Inv. Partners, LLC 
+   Sei.-Atlanta, 552. U.S. 148, 157 (2008). 
+      To establish scienter, a plaintiff must prove that the defendant acted with “a mental 
+state embracing intent to deceive, manipulate, or defraud.” Teélabs, Inc. v. Makor Issues  & Raghts, 
+     551 US. 308, 319, 127 S. Ct. 2499 (2007).  “To survive a motion to dismiss in a § 10(b) 
+complaint, the inference of scienter must be more than merely reasonable or permissible—it 
+
+      0 This Court’s September  19, 2018 opinion dismissed the Securities Act claims  asserted in the 
+Consolidated Amended Complaint with prejudice, but the Exchange Act claims asserted therein without prejudice. 
+This posture permitted the Plaintiffs to reassert their Exchange Act claims in an amended pleading. 
+                                      12 
+
+must be cogent and compelling, thus strong in light of other explanations.”  Maguire Fin., LP 
+
+v. PowerSecure Int'l, Inc, 876 F.3d 541, 547 (4th Cir. 2017), cert denied, 138 S. Ct. 2027 (2018). 
+The plaintiff must “plead facts rendering an inference of scienter at feast as Akely as any plausible 
+opposing inference.” Te/labs, 551 U.S. at 328; see also Yates v. Mun. Mortg.  e Equity, LLC, 744 
+F.3d 874, 885 (4th Cir. 2014) (“A court must compare the malicious and innocent inferences 
+cognizable from the facts pled in the complaint, and only allow the complaint to survive a 
+motion to dismiss if the malicious inference is at least as compelling as any opposing innocent 
+inference.” (quoting Zacco Partners, LLC v, Digimare Corp., 552 F.3d 981, 991 (9th Cir. 2009))). 
+     In  its  prior  rulings,  this  Court  held  that  Plaintiffs  adequately  pled  actionable 
+mistepresentations  or  omissions,  but  failed  to  adequately  allege  scienter.   Accordingly, 
+Plaintiffs must demonstrate that the newly discovered evidence would cause this Court to 
+reach a different ruling on the issue of scienter.  As Plaintiffs seek relief from the dismissal of 
+their Second Amended Complaint, the evidence must be considered as if it were presented as 
+allegations in that pleading,  This Court must accept those allegations as true and, considering 
+the  totality of the  allegations in the  Second Amended  Complaint,  determine whether the 
+Plaintiffs have pled a compelling case for scienter.  See Kurgweel v. Philip Morns Cos., Ine., No. 94 
+Civ. 2373  (MBM), 1997 WL 167043, at *5  (S.D.N-Y. Apr.  9, 1997)  (accepting as true new 
+evidence presented in Rule 60(6)(2) Motion which sought relief from order granting motion 
+
+to dismiss Section 10(b) claims for failure to state a claim). 
+     As indicated on the record at the Hearing of January 14, 2020, the new evidence tips 
+the scale in favor of permitting Plaintiffs’ claims to proceed.  Under Armour is alleged to have 
+engaged in questionable accounting practices to inflate its revenue within the Class Period. 
+
+                                     13 
+
+These practices include pulling in sales from future quarters and shipping goods to retailers  □ 
+
+even when Under Armout knew the goods would likely never be sold to consumers and would 
+be returned.  Allegedly, Plank’s emails reveal that he was personally aware of these practices. 
+Under Armour’s strategy has become the subject of a federal investigation by the SEC and the 
+DOJ.  These allegations support the conclusion that Under Armour and Plank knew that 
+demand for theit products was waning, resorted to risky sales tactics to keep the numbers 
+intact, and intentionally misrepresented the level of demand for their products.  The totality 
+of these  allegations  permit  a  strong inference  of scienter  on  the  part  of Under Armour 
+executives and Plank specifically. 
+      Defendants protest that the “investigations are not alleged to have begun until July 
+2017” and that their existence provides no information about Plank’s state of mind during the 
+Class Period, which does not extend beyond January 30, 2017.  (ECF No.  119 at 18.)  This 
+argument reflects a natrow view of the Plaintiffs’ allegations.  The Plaintiffs also allege that 
+‘Under Armour engaged in questionable sales tactics and accounting practices during the Class 
+Period, that Plank’s emails reflect that he had personal knowledge of these strategies, and that 
+the Company’s accounting practices during the Class Period have become the subject of a 
+lengthy fedetal inquiry.  Under Armour’s subsequent disclosure that its accounting practices 
+have been under federal investigation is merely one factor this Court must consider when 
+examining the totality of the Plaintiffs’ allegations.  See Tellabs, 551 U.S. at 322-23, 127 S. Ct. 
+2499 (“The inquiry . . . is whether all of the facts alleged, taken collectively, give rise to a strong 
+inference of scienter, not whether any individual allegation, scrutinized in isolation, meets that 
+standard.”’)                                                                        □ 
+
+                                      14 
+
+     This Coutt is keenly aware that a federal investigation is not tantamount to a  violation 
+of the law. See In re Key Energy Servs., Inc. See. Litig., 166 F. Supp. 3d 822, 836 (S.D. Tex. 2016) 
+(“An investigation is not a violation.”). This Court does not suggest that Under Armout failed 
+to uphold a duty to disclose the existence of this investigation.  Finally, this Court takes no 
+position as to the legality of Under Armour’s sales strategies or revenue recording practices. 
+These issues are not dispositive at this stage.  The only issue this Court must resolve is whether 
+Defendants’ alleged awareness of Under Armour’s sales activities and accounting practices, 
+which have become  the  subject of a federal inquiry, generates a “cogent and compelling” 
+inference of scienter.  This Court concludes that it does. 
+II.    Lack of Prejudice. 
+     Plaintiffs must also show that their opponents will not be prejudiced by obtaining relief 
+from this  Court’s Judgment. Adffn. Joy Mfe. Co., 914 F.2d 39, 44 (4th Cir. 1990).  The prejudice 
+must be something beyond that which befalls any litigant when a favorable Judgment is set 
+aside, and cannot amount to the mere protraction of legal proceedings.  Werner v. Carbo, 731 
+F.2d 204, 207  (4th Cir. 1984). 
+     Under Armour and Plank assert that the Director Defendants! and the Underwriter 
+Defendants!? will suffer prejudice if the Plaintiffs’ motion is granted.  As previously indicated, 
+this Court dismissed the Securities Act claims asserted against the Director Defendants and 
+
+u      Byron K. Adams, Jr.; George W. Bodenheimer; Douglas E. Coltharp; Anthony W. Deering; Karen W. 
+Katz; A.B. Krongard; William R. McDermott; Eric T. Olson; and Harvey L. Sanders.  (ECF No. 30 at Jf] 28- 
+    J.P.  Morgan  Securities  LLC; Merrill Lynch, Pierce, Fenner & Smith Incorporated; Wells Fargo 
+Securities, LLC; HSBC Securities (USA) Inc.; PNC Capital Markets, LLC; BB&T Capital Markets, a division of 
+BB&T Securities, LLC; SunTrust Robinson Humphrey, Inc.; Citigroup Global Markets Inc.; Goldman Sachs 
+& Co. LLC; Regions Securities LLC; and SMBC Nikko Securities America, Inc. (ECF No. 30 at fff] 39-49.) 
+                                     15 
+
+the Underwriter Defendants in September 2018.  They were not named as Defendants in the 
+Second Amended Complaint.  Should the Court reopen this case, Under Armour and Plank 
+
+argue, these Defendants will have to wait an indefinite period before the case is finally resolved 
+in this Court and their favorable ruling reviewed by the Fourth Circuit. 
+     The  Director Defendants  and  the Underwriter Defendants  will  suffer no  obvious 
+ptejudice from this action.  The delay which the Defendants decry amounts to nothing more 
+than “protracted proceedings,” which cannot support a prejudice atgument in this context. 
+Moreover, during the Motions Hearing, counsel for the Plaintiffs indicated that these claims 
+would no longer be pursued.  Plaintiffs’ counsel expressly indicated that Plaintiffs will not 
+
+reassert claims against the Director and Underwriter Defendants in a potential Third Amended 
+Complaint, nor will they pursue any appeal of this Court’s dismissal of the Securities Act claims 
+asserted apainst these defendants.  (1/14/2020 Hr’g Tr. 86:2-87:21, ECF No. 136.)  In sum, 
+the Director Defendants and Underwriter Defendants have already achieved finality and can 
+   no prejudice from the maintenance of this action against the Defendants Under Armour 
+and Plank.  Accordingly, this Court finds that the Defendants would not be prejudiced by 
+granting the relief sought by the Plaintiffs. 
+III.    Exceptional Circumstances.                                               
+
+     Finally, Plaintiffs must present “exceptional circumstances” to obtain relief under Rule 
+60(b).  Adff, 914 F.2d at 44.  Relying on Azkens v. Ingram, 612 F.3d 285 (4th Cir. 2010), and the 
+Fourth Circuit’s  subsequent en  bane opinion in  that matter,  652  F.3d 496  (4th Cir.  2011), 
+Defendants  argue  that Plaintiffs  cannot demonstrate  “exceptional circumstances” because 
+
+                                     16 
+
+they  have  another  avenue  available:  filing  a  new  lawsuit.   Azkens,  however,  is  readily 
+distinguishable from this case. 
+     Aikens affirmed  the  district court’s  denial  of  a  Rule  60(6)  motion  because  of the 
+plaintiff's mismanagement.  Aikens, a former colonel in the North Carolina Army National 
+Guard, filed suit in federal court against his former National Guard colleagues. Aikens, 612 
+F.3d at 286.  The district court dismissed the case for lack of jurisdiction without prejudice, 
+reasoning that Aikens had failed to exhaust his administrative remedies.  Id  at 288.  After 
+Aikens unsuccessfully attempted to obtain relief through administrative proceedings, and six 
+months after the district court entered judgment against him, Aikens filed a motion fot relief 
+from judgment pursuant to Federal Rule of Civil Procedure 60(b)(6). Id. at 288.  The district 
+
+court denied  the  motion, reasoning that Aikens  had  failed to  demonstrate  “extraordinary 
+circumstances” required by Rule 60(b)(6) because he could have filed a new action instead of 
+sitting on his rights and, many months later, attempting to re-open an old case.  Id. at 288.  In 
+
+response  to  Aiken’s  protest that the  statute  of limitations  had  expired,  the  district  court 
+reasoned that a plaintiff may not use Rule 60(b) to evade statute of limitations defenses.  Id. at 
+291.  The Fourth Circuit affirmed on appeal, finding that Aiken’s predicament was the product 
+of his own mismanagement of the action.  Id. (“In short, Aikens’ posited predicament was as 
+much the result of his management of the action as the result of the district court’s allegedly 
+etroneous  judgment  of  dismissal”)  The  Fourth  Circuit  reached  substantially  the  same 
+conclusion en banc,  Aikens, 652 F.3d at 502-03. 
+      In this case, there is no suggestion that Plaintiffs have mismanaged theif case.  Unlike 
+in Aikens, Plaintiffs have taken advantage of ordinary avenues for relief by filing an appeal. 
+
+           □                            17 
+
+Plaintiffs are not seeking to circumvent a  statute of limitations defense by re-opening an old 
+
+case, as appeared to be the case in Azkens.  Plaintiffs have presented new evidence which places 
+their allegations in a new light and are highly relevant to their Exchange sAct claims. ‘The nature 
+of this evidence, which has revealed a previously undisclosed federal investigation into the 
+Defendants’ accounting practices, presents exceptional circumstances warranting relief under 
+Rule 60(b). 
+                               CONCLUSION 
+      For the reasons set forth on the record at the hearing of January 14, 2020, and more 
+fully set forth in this Memorandum Opinion, the Motion for Indicative Ruling Under Federal 
+Rule of Civil Procedure 62.1  (ECF No. 105) is GRANTED.  Pursuant to Rule 62.1  of the 
+Federal Rules of Civil Procedure, this Court concludes that it would GRANT the Motion for 
+Relief from the Court’s September 9,  2019 Judgment (ECF No. 106) if the United States Court 
+of Appeals for the Fourth Circuit remands for that purpose.’ 
+      A separate order follows. 
+
+Dated:  January 22, 2020                                LUD ZLO    
+                                                Richard D. Bennett 
+                                                 United States District Judge

@@ -1,0 +1,555 @@
+[
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Ariel Volpe, -",
+      "Fahad Anwar Habib, -",
+      "Charlotte Taylor, -",
+      "J. Nixon Daniel",
+      "Avery Rasmussen Phillips, -",
+      "Eric Leslie Lewis, -",
+      "John W. Moscow, Attorney",
+      "Daniel Walter Levy, -",
+      "Steven Thomas Cottreau, -",
+      "Solomon Shinerock, -"
+    ],
+    "attorney_id": [
+      9979552,
+      9979553,
+      9979554,
+      10104423,
+      10066250,
+      9989750,
+      9989751,
+      9989752,
+      9979550,
+      9979551
+    ],
+    "caseName": "Levinson v. Citibank N.A.",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": null,
+    "dateFiled": "2024-11-15",
+    "dateTerminated": null,
+    "docketNumber": "24-3010",
+    "docket_absolute_url": "/docket/69443851/levinson-v-citibank-na/",
+    "docket_id": 69443851,
+    "firm": [
+      "Direct: 202-879-3872, Jones Day",
+      "Direct: 212-826-7001, Lewis Baach Kaufmann Middlemiss PLLC",
+      "Direct: 202-879-3413, Jones Day",
+      "Direct: 212-822-0165, Lewis Baach Kaufmann Middlemiss, PLLC, 10 Grand Central",
+      "Direct: 415-875-5761, Jones Day",
+      "Direct: 202-879-3860, Jones Day",
+      "Direct: 202-879-5572, Jones Day",
+      "Direct: 202-833-8900, Lewis Baach Kaufmann Middlemiss PLLC, DC",
+      "Direct: 212-402-9412, McKool Smith P.C.",
+      "Terminated: 11/27/2024, Direct: 850-432-2451, Beggs & Lane"
+    ],
+    "firm_id": [
+      1026080,
+      795747,
+      1011525,
+      1010119,
+      1010120,
+      1010121,
+      980586,
+      1021097,
+      977402,
+      873404
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-03T02:06:41.203291Z",
+      "date_created": "2024-12-06T17:52:32.067024Z",
+      "score": {
+        "bm25": 781.7705
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "d223a23b-8218-425d-b577-1ac65dcbe8ca",
+    "party": [
+      "DANIEL LEVINSON",
+      "ABC",
+      "DAVID LEVINSON",
+      "DEF",
+      "DOUGLAS LEVINSON",
+      "KUWAIT FINANCE HOUSE (MALAYSIA) BERHAD",
+      "CITIBANK N.A.",
+      "CREDITORS/PLAINTIFFS IN ESTATE OF RUSSELL FRONT V. KUWAIT FINANCE HOUSE",
+      "STEPHANIE LEVINSON CURRY",
+      "CHRISTINE LEVINSON, as Conservator of the estate and property of Robert Levinson",
+      "SARAH LEVINSON MORIARTY",
+      "SUSAN LEVINSON BOOTHE",
+      "SAMANTHA LEVINSON"
+    ],
+    "party_id": [
+      14850624,
+      14850625,
+      14850626,
+      14850627,
+      14850628,
+      14989616,
+      14850617,
+      14850618,
+      14850619,
+      14850620,
+      14850621,
+      14850622,
+      14850623
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/69443851/32/levinson-v-citibank-na/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NON OPPOSITION RESPONSE to, motion for stay of removal, on behalf of Appellee Christine Levinson, Appellee Susan Levinson Boothe, Appellee Stephanie Levinson Curry, Appellee Sarah Levinson Moriarty, Appellee Samantha Levinson, Appellee Daniel Levinson, Appellee David Levinson, Appellee Douglas Levinson, FILED. Service date 12/16/2024 by ACMS. [Entered: 12/16/2024 12:36 PM]",
+        "docket_entry_id": 411200071,
+        "document_number": 32,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2024-12-16",
+        "entry_number": 32,
+        "filepath_local": "recap/gov.uscourts.ca2.d223a23b-8218-425d-b577-1ac65dcbe8ca/gov.uscourts.ca2.d223a23b-8218-425d-b577-1ac65dcbe8ca.32.0.pdf",
+        "id": 424168681,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-09-04T20:49:49.863831Z",
+          "date_created": "2024-12-16T20:53:43.465652Z"
+        },
+        "pacer_doc_id": "ca71cdf8-d3bb-ef11-b8e9-001dd809bb30",
+        "page_count": 10,
+        "short_description": "",
+        "snippet": "                 Case: 24-3010, 12/16/2024, DktEntry: 32.1, Page 1 of 10\n\n\n\n\n             IN THE UNITED STATES COURT OF APPEALS\n                     FOR THE SECOND CIRCUIT\n\n\nChristine Levinson, as Conservator of the estate         Nos. 24-3010 (L); 24-3115\nand property of Robert Levinson, Susan Levinson          (CON)\nBoothe, Stephanie Levinson Curry, Sarah\nLevinson Moriarty, Samantha Levinson, Daniel             TO BE FILED UNDER SEAL\nLevinson, David Levinson, Douglas Levinson,\n\n               "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Edgardo Ramos",
+    "assigned_to_id": 2655,
+    "attorney": [
+      "Jeffrey Coffman",
+      "David M Stern"
+    ],
+    "attorney_id": [
+      9770387,
+      9770388
+    ],
+    "caseName": "United States v. Levinson",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2023-11-01",
+    "dateTerminated": "2024-07-23",
+    "docketNumber": "1:23-cr-00570",
+    "docket_absolute_url": "/docket/67938536/united-states-v-levinson/",
+    "docket_id": 67938536,
+    "firm": [
+      "Rothman, Schneider, Soloway & Stern, LLP",
+      "Doj-Usao"
+    ],
+    "firm_id": [
+      158265,
+      794526
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-07-11T20:17:52.634024Z",
+      "date_created": "2023-11-02T16:11:54.714840Z",
+      "score": {
+        "bm25": 772.85266
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "609530",
+    "party": [
+      "Nikolay Levinson",
+      "USA"
+    ],
+    "party_id": [
+      14525315,
+      14525316
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67938536/23/united-states-v-levinson/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "JUDGMENT IN A CRIMINAL CASE as to Nikolay Levinson (1). THE DEFENDANT: pleaded guilty to counts 1,2,3,4,5, and 6. IMPRISONMENT: 21 months on counts 1,2,3,4,5, and 6 to run concurrently with each other and consecutively to the term of 5 months imposed in 18-cr-893-ER for a total of 26 months. SUPERVISED RELEASE: 3 years. See SPECIAL CONDITIONS OF SUPERVISION. ASSESSMENT: $600.00 due immediately. (Signed by Judge Edgardo Ramos on 7/19/2024) (ap) (Entered: 07/23/2024)",
+        "docket_entry_id": 397237931,
+        "document_number": 23,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2024-07-23",
+        "entry_number": 23,
+        "filepath_local": "recap/gov.uscourts.nysd.609530/gov.uscourts.nysd.609530.23.0_1.pdf",
+        "id": 406406432,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-07-11T20:17:52.622437Z",
+          "date_created": "2024-07-23T16:09:34.842779Z"
+        },
+        "pacer_doc_id": "127035852423",
+        "page_count": 8,
+        "short_description": "Judgment",
+        "snippet": "Case 1:23-cr-00570-ER Document 23 Filed 07/23/24 Page1of8\n\nAO 245B (Rev. 09/19) Judgment in a Criminal Case (form modified within District on Sept. 30, 2019)\nSheet 1\n\nUNITED STATES DISTRICT COURT\n\nSouthern District of New York\n\nUNITED STATES OF AMERICA JUDGMENT IN A CRIMINAL CASE\nv. )\nNIKOLAY LEVINSON Case Number: 1:23-cr-570 (ER)\nUSM Number: 86389-054\n) David M. Stern, Esq.\n) Defendant’s Attorney\nTHE DEFENDANT:\npleaded guilty to count(s) 1, 2,3, 4, 5, and6.\n(J pleaded nolo contendere to count(s"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Nathaniel M. Gorton",
+    "assigned_to_id": 1251,
+    "attorney": [
+      "Scott P. Lopez"
+    ],
+    "attorney_id": [
+      10008612
+    ],
+    "caseName": "Orbian Corporation Limited v. Burns & Levinson LLP",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity - Legal Malpractice",
+    "chapter": null,
+    "court": "District Court, D. Massachusetts",
+    "court_citation_string": "D. Mass.",
+    "court_id": "mad",
+    "dateArgued": null,
+    "dateFiled": "2024-12-20",
+    "dateTerminated": "2025-03-11",
+    "docketNumber": "1:24-cv-13164",
+    "docket_absolute_url": "/docket/69489941/orbian-corporation-limited-v-burns-levinson-llp/",
+    "docket_id": 69489941,
+    "firm": [
+      "Lawson & Weitzen, LLP"
+    ],
+    "firm_id": [
+      53200
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-06-24T22:39:49.061873Z",
+      "date_created": "2024-12-20T23:26:22.253334Z",
+      "score": {
+        "bm25": 752.7252
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "279107",
+    "party": [
+      "Burns & Levinson LLP",
+      "Josef Volman",
+      "Orbian Corporation Limited"
+    ],
+    "party_id": [
+      14898786,
+      14898787,
+      14898788
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/69489941/1/orbian-corporation-limited-v-burns-levinson-llp/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT against All Defendants Filing fee: $ 405, receipt number AMADC-10760069 (Fee Status: Filing Fee paid), filed by Orbian Corporation Limited. (Attachments: # 1 Civil Cover Sheet, # 2 Category Form)(Lopez, Scott) (Entered: 12/20/2024)",
+        "docket_entry_id": 411755058,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2024-12-20",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.mad.279107/gov.uscourts.mad.279107.1.0.pdf",
+        "id": 424921800,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-06-24T22:39:49.058575Z",
+          "date_created": "2024-12-20T23:26:22.855266Z"
+        },
+        "pacer_doc_id": "095012702198",
+        "page_count": 14,
+        "short_description": "Complaint",
+        "snippet": "            Case 1:24-cv-13164        Document 1         Filed 12/20/24     Page 1 of 14\n\n\n\n\n                              UNITED STATES DISTRICT COURT\n                            FOR THE DISTRICT OF MASSACHUSETTS\n\n\n\nORBIAN CORPORATION LIMITED,\n\n               Plaintiff,\n                                                         Civil Action No.\nv.\n\nBURNS & LEVINSON, LLP and JOSEF\nVOLMAN,\n\n               Defendants.\n\n\n                              COMPLAINT AND JURY DEMAND\n\n       Plaintiff Orbian"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "190 Contract: Other",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Rachel Meredith Haskell"
+    ],
+    "attorney_id": [
+      7340136
+    ],
+    "caseName": "Gega v. Harold Levinson Associates, LLC",
+    "case_name_full": "",
+    "cause": "05:704 Labor Litigation",
+    "chapter": null,
+    "court": "District Court, E.D. New York",
+    "court_citation_string": "E.D.N.Y",
+    "court_id": "nyed",
+    "dateArgued": null,
+    "dateFiled": "2021-11-19",
+    "dateTerminated": null,
+    "docketNumber": "1:21-cv-06467",
+    "docket_absolute_url": "/docket/61564968/gega-v-harold-levinson-associates-llc/",
+    "docket_id": 61564968,
+    "firm": [
+      "The Law Office of Christopher Q. Davis, PLLC"
+    ],
+    "firm_id": [
+      582870
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-01T15:19:31.123828Z",
+      "date_created": "2021-11-19T22:34:02.988541Z",
+      "score": {
+        "bm25": 713.76904
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "472374",
+    "party": [
+      "LEONARD GEGA",
+      "Harold Levinson Associates, LLC"
+    ],
+    "party_id": [
+      11200987,
+      11200988
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/61564968/1/gega-v-harold-levinson-associates-llc/",
+        "attachment_number": null,
+        "cites": [
+          8696812
+        ],
+        "description": "COMPLAINT LEONARD GEGA against Harold Levinson Associates, LLC filing fee $ 402, receipt number ANYEDC-15049029 Was the Disclosure Statement on Civil Cover Sheet completed -YES,, filed by LEONARD GEGA. (Attachments: # 1 Civil Cover Sheet Civil Cover Sheet, # 2 Proposed Summons Harold Levinson Associates, LLLC - Summons) (Haskell, Rachel) (Entered: 11/19/2021)",
+        "docket_entry_id": 180753543,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-11-19",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.nyed.472374/gov.uscourts.nyed.472374.1.0.pdf",
+        "id": 186187278,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-18T05:52:53.442966Z",
+          "date_created": "2021-11-19T22:34:03.000327Z"
+        },
+        "pacer_doc_id": "123018339276",
+        "page_count": 13,
+        "short_description": "Complaint",
+        "snippet": "     Case 1:21-cv-06467 Document 1 Filed 11/19/21 Page 1 of 13 PageID #: 1\n\n\n\n\nUNITED STATES DISTRICT COURT\nEASTERN DISTRICT OF NEW YORK\n\n LEONARD GEGA,\n\n                       Plaintiff,                        Civil Action No. 1:21-cv-6467\n\n                             vs.\n                                                         COMPLAINT\n HAROLD LEVINSON ASSOCIATES, LLC,\n\n                    Defendant.\n\n\n       1.      Plaintiff Leonard Gega, by and through his attorneys, The Law Office of\n\nCh"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "751 Labor: Family and Medical Leave Act",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "William Frederic Jung",
+    "assigned_to_id": 8586,
+    "attorney": [
+      "Matthew Daniel Miller",
+      "Chris A. Barker",
+      "Amara Y. Benitez Rodriguez",
+      "Bruce Alexander Minnick",
+      "Donald LaBelle",
+      "Glen H. Shrayer",
+      "Daryl Guberman",
+      "Marc Timothy Smith",
+      "Mark Tischhauser"
+    ],
+    "attorney_id": [
+      3569605,
+      3586345,
+      6058123,
+      3578738,
+      3453555,
+      3578739,
+      4923477,
+      5768122,
+      4830172
+    ],
+    "caseName": "Paris v. Levinson",
+    "case_name_full": "",
+    "cause": "28:1332 Diversity-Libel, Assault, Slander",
+    "chapter": null,
+    "court": "District Court, M.D. Florida",
+    "court_citation_string": "M.D. Fla.",
+    "court_id": "flmd",
+    "dateArgued": null,
+    "dateFiled": "2019-02-18",
+    "dateTerminated": "2020-05-19",
+    "docketNumber": "8:19-cv-00423",
+    "docket_absolute_url": "/docket/14557771/paris-v-levinson/",
+    "docket_id": 14557771,
+    "firm": [
+      "Tischhauser Law Group",
+      "Donald LaBelle",
+      "Marshall Dennehey Warner Coleman & Goggin",
+      "Shrayer Law Firm, LLC",
+      "Barker & Cook",
+      "The Tischhauser Law Group",
+      "Daryl Guberman",
+      "Bruce Alexander Minnick, Esp",
+      "Marc Timothy Smith",
+      "C/O Property Lien Owner",
+      "Baumann Gant & Keeley PA",
+      "Matthew D. Miller"
+    ],
+    "firm_id": [
+      465665,
+      453186,
+      465666,
+      1089861,
+      466443,
+      223790,
+      569646,
+      625298,
+      1107762,
+      267542,
+      505115,
+      464764
+    ],
+    "jurisdictionType": "Diversity",
+    "juryDemand": "Both",
+    "meta": {
+      "timestamp": "2025-03-07T04:59:30.827111Z",
+      "date_created": "2019-02-19T14:25:58.280396Z",
+      "score": {
+        "bm25": 685.1292
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "360424",
+    "party": [
+      "Chris A. Barker",
+      "William Levinson",
+      "Donald LaBelle",
+      "Oxebridge Quality Resources International, LLC",
+      "Guberman PMC, LLC",
+      "Daryl Guberman",
+      "Marc Timothy Smith",
+      "Levinson Productivity Systems, P.C.",
+      "Christopher Paris"
+    ],
+    "party_id": [
+      4653355,
+      4653356,
+      4653357,
+      4653358,
+      4627183,
+      4653359,
+      4653360,
+      4886124,
+      9108115
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/14557771/50/paris-v-levinson/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "RESPONSE TO ORDER TO SHOW CAUSE re 49 Endorsed Order filed by Daryl Guberman, Guberman PMC, LLC. (Attachments: # 1 Mailing Envelope)(LMF) (Entered: 06/20/2019)",
+        "docket_entry_id": 91415628,
+        "document_number": 50,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2019-06-20",
+        "entry_number": 50,
+        "filepath_local": "recap/gov.uscourts.flmd.360424/gov.uscourts.flmd.360424.50.0_1.pdf",
+        "id": 95594043,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-04T14:23:57.761160Z",
+          "date_created": "2019-06-20T22:05:42.762813Z"
+        },
+        "pacer_doc_id": "047020280598",
+        "page_count": 3,
+        "short_description": "Response to order to show cause",
+        "snippet": " \n\n19-cv-00423-WEJ-SPE_Document 50_ Filed 06/20/19 _ P 1of3\n\nUNITED STATES DISTRICT COURT\nFOR THE MIDDLE DISTRICT OF FLORIDA\n(TAMPA DIVISION) 2019 JEN 20 AMI:\n\nmo\n\nCHRISTOPHER MARK PARIS, and\nOXEBRIDGE QUALITY RESOURCES\nINTERNATIONAL, LLC\n\nPlaintiffs, Case No. 8:19-cv-00423\nVS.\n\nWILLIAM LEVINSON,\nLEVINSON PRODUCTIVITY\nSYSTEM, PC, a Pennsylvania\nCorporation\n\n \n\nTHE DEFENDANT'S ANSWER\nTO ENDORSED ORDER\n\nSTATE OF FLORIDA /\nCOUNTY OF HILLSBOROUGH /\n\nI, DARYL GUBERMAN, as the sole owner and operator "
+      },
+      {
+        "absolute_url": "/docket/14557771/94/paris-v-levinson/",
+        "attachment_number": null,
+        "cites": [
+          77985,
+          96557,
+          3293412
+        ],
+        "description": "RESPONSE TO ORDER TO SHOW CAUSE re 93 Order on Motion for Order to Show Cause filed by Daryl Guberman. (Attachments: # 1 Mailing Envelope)(MCB) (Entered: 01/09/2020)",
+        "docket_entry_id": 115302834,
+        "document_number": 94,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-01-09",
+        "entry_number": 94,
+        "filepath_local": "recap/gov.uscourts.flmd.360424/gov.uscourts.flmd.360424.94.0.pdf",
+        "id": 119667576,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-08T01:29:31.506332Z",
+          "date_created": "2020-01-09T20:25:43.976583Z"
+        },
+        "pacer_doc_id": "047021065508",
+        "page_count": 6,
+        "short_description": "Response to order to show cause",
+        "snippet": "Case 8:19-cv-00423-WEJ-SPFE Document 94 _ Filed 01/09/20 Page 1 of 6 PagelD 1003\n\n \n\n \n\n‘ UNITED STATES DISTRICT COURT\nFOR THE MIDDLE DISTRICT OF FLORIDA\nTAMPA DIVISION\n\nCHRISTOPHER MARK PARIS, and\nOXEBRIDGE QUALITY RESOURCES\nINTERNATIONAL, LLC\n\nPlaintiffs, Case No. 8:19-cv-00423\nVs.\n\nWILLIAM LEVINSON,\nLEVINSON PRODUCTIVITY\nSYSTEM, PC, a Pennsylvania\nCorporation\n\nDefendants\n/\n\n \n\nANSWER FOR NOT ENGAGING IN MEDIATION,\nAND REQUEST FOR JURISDICTION TO BE PROVEN\n\nI, Pro se defendant Daryl Guberman, "
+      },
+      {
+        "absolute_url": "/docket/14557771/107/paris-v-levinson/",
+        "attachment_number": null,
+        "cites": [
+          84759,
+          96557,
+          99674,
+          104200,
+          300808,
+          1717488
+        ],
+        "description": "RESPONSE TO ORDER TO SHOW CAUSE re 104 Order no pdf filed by Daryl Guberman. (Attachments: # 1 Mailing Envelope)(LNR) (Entered: 02/14/2020)",
+        "docket_entry_id": 119528472,
+        "document_number": 107,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2020-02-13",
+        "entry_number": 107,
+        "filepath_local": "recap/gov.uscourts.flmd.360424/gov.uscourts.flmd.360424.107.0.pdf",
+        "id": 123930573,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-05-08T17:24:22.377892Z",
+          "date_created": "2020-02-14T14:51:39.711881Z"
+        },
+        "pacer_doc_id": "047021210842",
+        "page_count": 23,
+        "short_description": "Response to order to show cause",
+        "snippet": " Case 8:19-cv-00423-WFJ-SPF Document 107 Filed 02/13/20 Page 1 of 23 PageID 1053\n\n\n                       UNITED STATES DISTRICT COURT\n                   FOR THE MIDDLE DISTRICT OF FLORIDA                           cn\n\n\n                                (TAMPA DIVISION)                                m\n                                                                                C3C\n                                                                                          3\nCHRISTOPHER MARK PARIS"
+      }
+    ],
+    "referredTo": "Sean P. Flynn",
+    "referred_to_id": 9142,
+    "suitNature": "320 Assault Libel & Slander",
+    "trustee_str": null
+  }
+]

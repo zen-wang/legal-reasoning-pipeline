@@ -1,0 +1,186 @@
+          IN THE UNITED STATES DISTRICT COURT                          
+              FOR THE DISTRICT OF MARYLAND                             
+
+In re UNDER ARMOUR              *                                         
+SECURITIES LITIGATION                          Civil Action No. RDB-17-388 
+                             *                                         
+
+*          *          *          *          *          *          *          *          *          *          *          *          
+
+                   MEMORANDUM ORDER                                    
+  Lead Plaintiff Aberdeen City Council as Administrating Authority for the North East 
+Scotland Pension Fund (“Lead Plaintiff”), Monroe County Employees’ Retirement System, 
+and KBC Asset Management NV (collectively “Plaintiffs”), filed a motion for partial relief 
+from the discovery stay imposed by the Private Securities Litigation Reform Act of 1995 (the 
+“PSLRA”), 15 U.S.C. § 78u-4(b)(3)(B) (ECF No. 156).  Through their Motion, Plaintiffs seek 
+the production of documents Defendant Under Armour, Inc. (“Under Armour”) has already 
+reviewed and produced to the Securities Exchange Commission (“SEC”) as part of the SEC’s 
+ongoing investigation into Under Armour’s accounting practices and revenue recognition 
+policies for the third quarter of 2015 through the fourth quarter of 2016.  After reviewing the 
+parties’ submissions, this Court conducted a motions hearing on February 17, 2021.  See Local 
+Rule 105.6 (D. Md. 2018).  For the reasons stated on the record at the motions hearing, and 
+for the reasons that follow, the Plaintiffs’ Motion (ECF No. 156) is DENIED. 
+                       BACKGROUND                                      
+  Lead Plaintiff filed the Consolidated Second Amended Complaint for Violations of the 
+Federal Securities Laws (ECF No. 78) on November 16, 2018, naming Under Armour and its 
+Chief Operating Officer, Kevin Plank (“Plank”), as Defendants.  That Second Amended 
+Complaint alleged that between September 16, 2015 and January 30, 2017, the Defendants 
+issued a series of false and misleading statements about demand for Under Armour products 
+and the company’s financial condition.  (ECF No. 78 ¶¶ 2, 14.)  On August 19, 2019, this 
+
+Court dismissed the Second Amended Complaint with prejudice.  (ECF No. 98 at 26.)  
+Judgment was entered on September 9, 2019 (ECF No. 101), and on September 17, 2019, 
+Plaintiffs filed a notice of appeal to the United States Court of Appeals for the Fourth Circuit 
+(ECF No. 102).  Based on newly-discovered evidence, Lead Plaintiff moved on November 18, 
+2019 for an indicative ruling (ECF No. 105), requesting that this Court grant Plaintiffs’ Motion 
+for Relief from the Court’s September 9, 2019 Judgment pursuant to Federal Rule of Civil 
+
+Procedure 60(b) (ECF No. 106), if the Fourth Circuit remanded for that purpose.  On January 
+22, 2020, this Court granted that request.  (ECF No. 139.)  Accordingly, this Court held that 
+it would permit Lead Plaintiff to file a third amended complaint bringing claims against the 
+Defendants for violations of the Exchange Act.  (Id.)                     
+  On  October  14,  2020, the  Lead Plaintiff  filed  the Plaintiffs’  Consolidated  Third 
+Amended Complaint for Violations of the Federal Securities Laws (“TAC”) (ECF No. 153) 
+
+alleging that Defendants Under Armour and Plank misled investors during the Class Period 
+by falsely claiming that consumer demand for the company’s products was strong between the 
+third quarter of 2015 and the fourth quarter of 2016.  Plaintiffs allege that the Defendants led 
+investors to believe that Under Armour’s 26-consecutive quarter 20% year-over-year revenue 
+growth streak was “safely intact,” when in reality demand for the company’s products was in 
+decline.  (ECF No. 153 ¶¶ 148-168.)  They claim that Defendants manipulated the company’s 
+financial results by pulling sales forward from future quarters and engaged in other allegedly 
+suspect sales practices.  (Id.)                                           
+  On November 5, 2020, the Plaintiffs filed a Motion for Partial Relief from the PSLRA 
+
+Discovery Stay (ECF No. 156), in which they seek the production of documents Defendant 
+Under Armour has already reviewed and produced to the SEC as a part of its ongoing 
+investigation into Under Armour’s accounting practices and revenue recognition policies for 
+the third quarter of 2015 through the fourth quarter of 2016.  On December 4, 2020, the 
+Defendants filed a Motion to Dismiss the TAC (ECF No. 159).  The Plaintiffs seeks a lift of 
+the discovery stay imposed by the PSLRA prior to this Court’s ruling on the pending Motion 
+
+to Dismiss.1                                                              
+                         ANALYSIS                                      
+  The  Private  Securities  Litigation  Reform  Act  (“PSLRA”)  imposes  constraints  on 
+discovery in securities class actions.  The PSLRA provides:               
+  In  any  private  action  arising  under  this  chapter  all  discovery  and  other 
+  proceedings shall be stayed during the pendency of any motion to dismiss, 
+  unless the court finds upon the motion of any party that particularized discovery 
+  is necessary to preserve evidence or to prevent undue prejudice of that party. 
+
+15 U.S.C. § 78u-4(b)(3)(B).  In essence, the PSLRA requires that plaintiffs make three separate 
+showings before a court may lift a stay.  Pension Tr. Fund for Operating Eng’rs v. Assisted Living 
+Concepts, Inc., 943 F. Supp. 2d 913, 915 (E.D. Wis. 2013).  “[I]t is necessary to show (1) 
+‘exceptional circumstances exist,’ such that allowing discovery would not violate the ethos of 
+the PSLRA discovery stay and further that (2) ‘particularized discovery’ is (3) necessary to 
+
+1 Briefing on that pending Motion to Dismiss is scheduled to be completed by March 12, 2021. 
+either (a) ‘preserve evidence’ or (b) ‘prevent undue prejudice’ to a party.”  Id. (citing 15 U.S.C. 
+§ 78u-4(b)(3)(B)).                                                        
+  As stated on the record, the first two of these elements likely weigh in favor of granting 
+
+the Plaintiffs’ request.  First, exceptional circumstances exist in this case, as the rationales 
+underlying the PSLRA’s discovery stay do not support continued imposition of a stay in this 
+case.  In passing the PSLRA Congress was reportedly concerned with:       
+  the routine filing of lawsuits against issuers of securities and others whenever 
+  there is a significant change in an issuer’s stock price, without regard to any 
+  underlying culpability of the issuer, and with only faint hope that the discovery 
+  process might lead eventually to some plausible cause of action.     
+
+Teachers’ Ret. Sys. of La. v. Hunter, 477 F.3d 162, 171 (4th Cir. 2007) (quoting H.R. Rep. No. 
+104-369, at 41 (1995); H.R. Rep. No. 104-369, at 41 (1995)).  The purpose of the stay provision, 
+therefore, is:                                                            
+  to minimize the incentives for plaintiffs to file frivolous securities class actions 
+  in the hope of either that corporate defendants will settle those actions rather 
+  than bear the high cost of discovery, see H.R. Conf. Rep. No. 104-369, at 37 
+  (1995), or that the plaintiff will find during discovery some sustainable claim 
+  not alleged in the complaint, see S. Rep. No. 104-98.                
+
+In re Royal Ahold N.V. Sec. & ERISA Litig., 220 F.R.D. 246, 249 (D. Md. 2004) (quoting In re 
+WorldCom, Inc. Sec. Litig., 234 F. Supp. 2d 301, 305 (S.D.N.Y. 2002)).  When documents have 
+already been gathered and produced as a part of a government agency’s investigation, the 
+burdens of duplicating such discovery are low.  See Assisted Living Concepts, 943 F. Supp. 2d at 
+915 (holding that plaintiffs had established “exceptional circumstances” element where they 
+sought documents disclosed to the SEC “partly because, where documents have already been 
+collected and produced to other entities, the burdens of discovery are far less substantial”).  
+The Plaintiffs in this case do not appear to be using burdensome discovery as a means to force 
+the settlement of a frivolous lawsuit.  Additionally, as the Plaintiffs’ claims relate to the subject 
+matter of the SEC’s investigation, it does not appear that the Plaintiffs are seeking discovery 
+in order to search for new claims to assert against the Defendants.       
+
+  Second,  although  Plaintiffs’  discovery  request  is  broad,  it  may  be  sufficiently 
+particularized.  Requests for limited relief under the PSLRA are “sufficiently particularized” 
+when they refer to a “clearly defined universe of documents.”  Royal Ahold, 220 F.D.R. at 250. 
+The current request is limited to the clearly defined universe of materials already produced by 
+Under Armour to the SEC.  In Assisted Living Concepts, the court held that the discovery request 
+was particularized because it was “limited solely to relevant materials that [had] already been 
+
+produced in other proceedings.”  943 F. Supp. 2d at 915.  However, as Judge Catherine C. 
+Blake  of  this  Court  noted  in  Royal  Ahold,  “‘particularized’  is  not  synonymous  with 
+‘identifiable.’”  220 F.R.D. at 250.  In Royal Ahold, Judge Blake did allow the plaintiffs’ request 
+for approximately one million documents but noted that such broad discovery was consistent 
+with “the nature of the underlying litigation.”  Id.                      
+  Nevertheless, this Court need not decide whether Plaintiffs have shown their request 
+
+to be particularized in this case, as Plaintiffs cannot show the final element: that lifting the stay 
+is “necessary to either (a) ‘preserve evidence’ or (b) ‘prevent undue prejudice’ to a party.” 
+Assisted Living Concepts, 943 F. Supp. 2d at 915.  Plaintiffs argue that undue prejudice to 
+securities plaintiffs occurs when they are deprived of access to key documents that have already 
+been produced to a government agency, relying heavily on Judge Blake’s opinion in Royal 
+Ahold, 220 F.R.D. 246.   Judge Blake stated that “[w]ithout access to key documents that [had] 
+
+already been produced to [the] government . . . , the securities plaintiffs could suffer a severe 
+disadvantage in formulating their litigation and settlement strategy—particularly if the parties 
+proceed quickly to settlement negotiations.”  Id. at 252.  This risk of “undue prejudice,” Judge 
+Blake stated, was “[t]he most compelling reason for allowing the discovery.”  Id. 
+
+  However, Plaintiffs’ reliance on Royal Ahold is misplaced.  As Plaintiffs concede, Judge 
+Blake’s holding in Royal Ahold was in part based on the issue of preservation of evidence.  In 
+that case, a corporate defendant was undertaking a “wide-ranging corporate reorganization” 
+in which it had “divested itself of key subsidiaries” and “plan[ned] to divest itself of more,” 
+including some “that allegedly played central roles” in the alleged misconduct.  Id. at 251.  The 
+court then lifted to the stay with respect to the corporate defendant to prevent the potential 
+
+loss of evidence, but refused to lift the stay as to one of the co-defendants specifically because 
+“[t]hat defendant, unlike Royal Ahold, [was] not reorganizing its affairs, so there [was] little to 
+suggest a risk of documentary loss.”  Id. at 252-53.  Following her assertion that the “[m]ost 
+compelling reasons” for lifting the stay was undue prejudice, Judge Blake added that “Royal 
+Ahold’s divestitures, again, add[ed] urgency to this concern.”  Id. at 252.  Royal Ahold does 
+not stand for the proposition that securities plaintiffs will be unduly prejudiced to a degree 
+
+warranting a lift in a PSLRA discovery stay whenever they lack discovery already produced for 
+an investigating government agency.                                       
+  Further, this Court is unpersuaded by arguments that Plaintiffs are prejudiced given 
+Under Amour’s statements that it intends to cooperate with the SEC and its current financial 
+health.  Plaintiffs contend that because Under Armour has publicly acknowledged that it 
+“expect[s] to engage in a dialogue with the SEC Staff to work toward a resolution of this 
+
+matter,”  (Sanchez Decl., Ex. 2, ECF No. 156-3), Plaintiffs are prejudiced by the risk that they 
+“will be left to pursue [their] action against defendants who no longer have anything or at least 
+as much to offer,”  WorldCom, 234 F. Supp. 2d at 306.  However, in WorldCom, the case from 
+which the Plaintiffs cite, the defendants were insolvent and in the midst of bankruptcy 
+
+proceedings, creating a demonstrable, concrete risk that the plaintiffs would be unable to 
+recover from the defendants if the discovery stay was continued.  Id. at 304-06.  As stated on 
+the record, the Defendants in this case have attested to the financial strength of Under Armour 
+at this time, and no comparable concrete risk of inability to recover exists in the case at hand. 
+  Overall, “the burden of establishing the need for a partial lifting of the discovery 
+stay . . . is a heavy one.”  In re Fannie Mae Secs. Litig., 362 F. Supp. 2d 37, 38 (D.D.C. 2005).  
+
+Although the burden on the Defendants in this case to produce the requested discovery is low 
+and Plaintiffs have shown exceptional circumstances for lifting the stay, “the proper inquiry 
+under the PSLRA is whether the plaintiff would be unduly prejudiced by the stay, not whether 
+the defendant would be burdened by lifting the stay.”  In re Smith Barney Transfer Agent Litig., No. 
+05-CV-7583(WHP), 2006 WL 1738078, at *3 (S.D.N.Y. 2006) (emphasis added).  For these 
+reasons and the reasons provided on the record, it is HEREBY ORDERED this 18th Day of 
+
+February 2021 as follows:                                                 
+  1.  The Plaintiffs’ Motion to for Partial Relief from the PSLRA Discovery Stay (ECF 
+    No. 156) is DENIED;                                                
+
+  2.  The Clerk of the Court shall transmit a copy of this Order to counsel of record. 
+
+
+                                                                                   _________/s/______________ 
+                                     Richard D. Bennett                
+                                     United States District Judge      

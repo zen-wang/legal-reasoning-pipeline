@@ -1,0 +1,109 @@
+{
+  "assignedTo": "Kathy Surratt-States",
+  "assigned_to_id": 8854,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "Payless Holdings, LLC v. Martha Stewart Living Omnimedia, Inc.",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "United States Bankruptcy Court, E.D. Missouri",
+  "court_citation_string": "Bankr. E.D. Mo.",
+  "court_id": "moeb",
+  "dateArgued": null,
+  "dateFiled": "2020-06-19",
+  "dateTerminated": "2022-06-09",
+  "docketNumber": "20-04044",
+  "docket_absolute_url": "/docket/17267418/payless-holdings-llc-v-martha-stewart-living-omnimedia-inc/",
+  "docket_id": 17267418,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-03-17T02:06:20.528863Z",
+    "date_created": "2020-06-19T18:41:27.686866Z",
+    "score": {
+      "bm25": 1185.8682
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "436328",
+  "party": [
+    "Payless Holdings, LLC",
+    "Martha Stewart Living Omnimedia, Inc."
+  ],
+  "party_id": [],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/17267418/12/payless-holdings-llc-v-martha-stewart-living-omnimedia-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 142165329,
+      "document_number": 12,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-09-25",
+      "entry_number": 12,
+      "filepath_local": null,
+      "id": 146834044,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-03-17T02:06:20.522765Z",
+        "date_created": "2020-09-25T19:59:54.208625Z"
+      },
+      "pacer_doc_id": "106024687298",
+      "page_count": null,
+      "short_description": "Appear pro hac vice",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/17267418/13/payless-holdings-llc-v-martha-stewart-living-omnimedia-inc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 142260992,
+      "document_number": 13,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-09-28",
+      "entry_number": 13,
+      "filepath_local": null,
+      "id": 146931254,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-03-17T02:06:20.522765Z",
+        "date_created": "2020-09-28T12:05:49.294780Z"
+      },
+      "pacer_doc_id": "106024689471",
+      "page_count": null,
+      "short_description": "BNC Certificate of Mailing",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 142300100,
+      "document_number": null,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-09-28",
+      "entry_number": null,
+      "filepath_local": null,
+      "id": 146970578,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-03-17T02:06:20.522765Z",
+        "date_created": "2020-09-28T15:51:13.666881Z"
+      },
+      "pacer_doc_id": "",
+      "page_count": null,
+      "short_description": "Receipt Number and Filing Fee - Generic",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

@@ -1,0 +1,148 @@
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>h18231e8vk.txt
+<DESCRIPTION>ENRON CORP.- SEPTEMBER 1, 2004
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                              ---------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+                         SECURITIES EXCHANGE ACT OF 1934
+
+       DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): SEPTEMBER 1, 2004
+
+                                   ENRON CORP.
+               (Exact name of Registrant as specified in charter)
+
+           OREGON                      1-13159                    47-0255140
+(State or other jurisdiction   (Commission file number)       (I.R.S. employer
+      of incorporation)                                     identification no.)
+
+            1221 LAMAR #1600
+             HOUSTON, TEXAS                                     77010-1221
+(Address of principal executive offices)                        (Zip Code)
+
+       Registrant's telephone number, including area code: (713) 853-6161
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+    230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+    240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+    Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+    Act (17 CFR 240.13e-4(c))
+
+                              ---------------------
+
+                                       1
+<PAGE>
+                            SECTION 8 - OTHER EVENTS
+
+ITEM 8.01. OTHER EVENTS.
+
+                  On September 1, 2004, the Company and certain other
+debtor-in-possession subsidiaries of the Company (collectively with the company,
+the "Debtors") filed their monthly operating report for March 2004 with the
+United States Bankruptcy Court for the Southern District of New York (the
+"Bankruptcy Court"). The monthly operating report is attached as an exhibit to
+this Current Report on Form 8-K.
+
+                           FORWARD-LOOKING STATEMENTS.
+
+         THIS FORM 8-K, INCLUDING EXHIBITS ATTACHED HERETO, CONTAINS STATEMENTS
+THAT ARE FORWARD-LOOKING WITHIN THE MEANING OF SECTION 27A OF THE SECURITIES ACT
+OF 1933 AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934. INVESTORS ARE
+CAUTIONED THAT ANY SUCH FORWARD-LOOKING STATEMENTS ARE NOT GUARANTEES OF FUTURE
+PERFORMANCE AND THAT ACTUAL RESULTS COULD DIFFER MATERIALLY AS A RESULT OF KNOWN
+AND UNKNOWN RISKS AND UNCERTAINTIES, INCLUDING: VARIOUS REGULATORY ISSUES, THE
+OUTCOME OF THE COMPANY'S CHAPTER 11 PROCESS, NUMEROUS ONGOING EXTERNAL
+INVESTIGATIONS IN WHICH THE COMPANY IS FULLY COOPERATING (INCLUDING
+INVESTIGATIONS BY THE SECURITIES AND EXCHANGE COMMISSION ("SEC"), THE DEPARTMENT
+OF JUSTICE, THE DEPARTMENT OF LABOR, THE INTERNAL REVENUE SERVICE, THE PENSION
+BENEFIT GUARANTY CORPORATION, THE NATIONAL ASSOCIATION OF SECURITIES DEALERS,
+INC., THE FEDERAL ENERGY REGULATORY COMMISSION, THE COMMODITY FUTURES TRADING
+COMMISSION, THE FEDERAL TRADE COMMISSION, THE CALIFORNIA AND CONNECTICUT
+ATTORNEYS GENERAL AND NUMEROUS CONGRESSIONAL COMMITTEES AND STATE AGENCIES), THE
+OUTCOME OF NUMEROUS LAWSUITS AND CLAIMS, GENERAL ECONOMIC CONDITIONS, FUTURE
+TRENDS, AND OTHER RISKS, UNCERTAINTIES AND FACTORS DISCLOSED IN THE COMPANY'S
+MOST RECENT REPORTS ON FORMS 10-K, 10-Q AND 8-K FILED WITH THE SEC.
+
+         THE INFORMATION CONTAINED IN THE MONTHLY OPERATING REPORT ATTACHED
+HERETO HAS BEEN PREPARED IN ACCORDANCE WITH APPLICABLE LAW UNDER THE UNITED
+STATES BANKRUPTCY CODE AND IS NOT TO BE USED FOR INVESTMENT PURPOSES. AS
+EXPLAINED IN A NOVEMBER 8, 2001 FORM 8-K FILED BY THE COMPANY WITH THE SEC, THE
+PREVIOUSLY ISSUED FINANCIAL STATEMENTS OF THE COMPANY FOR THE FISCAL YEARS ENDED
+DECEMBER 31, 1997 THROUGH 2000 AND FOR THE FIRST AND SECOND QUARTERS OF 2001 AND
+THE AUDIT REPORTS COVERING THE YEAR-END FINANCIAL STATEMENTS FOR 1997 THROUGH
+2000 SHOULD NOT BE RELIED UPON. IN ADDITION, AS EXPLAINED IN AN APRIL 22, 2002
+FORM 8-K FILED BY THE COMPANY, THE FINANCIAL STATEMENTS OF THE COMPANY FOR THE
+THIRD QUARTER OF 2001 SHOULD NOT BE RELIED UPON.
+
+         AS EXPLAINED IN A JULY 11, 2003 FORM 8-K FILED BY THE COMPANY WITH THE
+SEC, THE COMPANY CONTINUES TO BELIEVE THAT THE EXISTING COMMON AND PREFERRED
+STOCK OF THE COMPANY HAVE NO VALUE. HOWEVER, THE PROPOSED JOINT CHAPTER 11 PLAN
+FILED BY THE DEBTORS WITH THE BANKRUPTCY COURT PROVIDES THE COMPANY'S
+STOCKHOLDERS WITH A CONTINGENT RIGHT TO RECEIVE RECOVERY IN THE VERY UNLIKELY
+EVENT THAT THE AGGREGATE VALUE OF THE COMPANY'S ASSETS EXCEEDS THE TOTAL AMOUNT
+OF ALLOWED CLAIMS.
+
+                                       2
+<PAGE>
+                  SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+         (c)      Exhibits.
+
+         99.1     Monthly Operating Report of Enron Corp. et al. for March 2004.
+
+                                       3
+<PAGE>
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+                                    ENRON CORP.
+
+Date:  September 1, 2004            By:  /s/ Raymond M. Bowen, Jr.
+                                        -----------------------------------
+                                    Name:  Raymond M. Bowen, Jr.
+                                    Title: Executive Vice President and
+                                           Chief Financial Officer
+
+                                       4
+<PAGE>
+                                  EXHIBIT INDEX
+<TABLE>
+<CAPTION>
+EXHIBIT       DESCRIPTION
+-------       -----------
+<S>        <C>
+99.1       -  Monthly Operating Report of Enron Corp. et al. for March 2004.
+</TABLE>
+
+                                       5
+
+</TEXT>
+</DOCUMENT>

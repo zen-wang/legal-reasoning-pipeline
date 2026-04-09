@@ -1,0 +1,536 @@
+              IN THE UNITED STATES DISTRICT COURT                        
+             FOR THE NORTHERN DISTRICT OF ILLINOIS                       
+                       EASTERN DIVISION                                  
+
+
+IN RE KRAFT HEINZ SHAREHOLDER     )     No. 20 C 2259                     
+DERIVATIVE LITIGATION           )                                         
+                               )       Judge Jorge L. Alonso             
+                               )                                         
+
+
+                MEMORANDUM OPINION AND ORDER                             
+    In these consolidated shareholder derivative actions, plaintiffs accuse numerous directors 
+and officers of The Kraft Heinz Company (“Kraft Heinz” or “the company”), of making and 
+causing the company to make misleading statements about the company’s performance amid 
+imprudently aggressive cost-cutting efforts. According to plaintiffs, these misleading statements 
+allowed some defendants, as well as an investment firm with which they were affiliated, to profit 
+improperly from sales of the company’s stock.                             
+    Defendants have moved to dismiss plaintiffs’ Consolidated Verified Second Amended 
+Complaint. Because the Court concludes that plaintiffs have not adequately alleged that it would 
+have been futile to make a pre-suit demand on the company’s board of directors, as required under 
+Delaware law, defendants’ motions to dismiss are granted.                 
+                         BACKGROUND                                      
+    Plaintiffs,  several  Kraft  Heinz  shareholders,  brought  these  consolidated  cases  
+derivatively, on behalf of nominal defendant Kraft Heinz, against defendants Alexandre Behring, 
+Bernardo Hees, Paulo Basilio, David H. Knopf, George Zoghbi, Vince Garlati, Christopher R. 
+Skinger, Rafael Oliveira, John T. Cahill, Gregory Abel, Feroz Dewan, Jeanne P. Jackson, Jorge 
+Paulo Lemann, John C. Pope, Alexandre Van Damme, Tracy Britt Cool, Marcel Hermann Telles, 
+Mackey J. McDonald, and 3G Capital, Inc. (“3G”). The dispute arises out of the 2015 merger of 
+Kraft Foods Group, Inc. (“Kraft”) into The H.J. Heinz Company (“Heinz”) to form Kraft Heinz 
+and the aggressive cost-cutting strategy defendants adopted and executed in the wake of the 
+merger.                                                                   
+    The following facts come from the operative Consolidated Verified Second Amended 
+
+Complaint (ECF No. 81; see ECF No. 79-1 (redacted version)) (hereafter, “the complaint” or 
+“CVSAC”). As it must at this stage, the Court accepts as true the factual allegations of the 
+complaint. Plaintiffs allege that 3G is a private equity firm known for its cost-cutting strategies, 
+including “zero-based budgeting,” which requires companies to justify each item in each year’s 
+annual budget, regardless of whether and how much they budgeted for the expense in the previous 
+year. Prior to the merger, ownership of Heinz was divided approximately equally between 3G and 
+Berkshire  Hathaway,  Inc.  After  Heinz  completed  its  merger  with  Kraft,  3G  and  Berkshire 
+Hathaway owned approximately 51% of the outstanding shares of Kraft Heinz common stock. A 
+number of the individual defendants—namely, Hees, Basilio, Knopf, Lemann, and Telles—have 
+been affiliated with 3G since before the merger. After the merger, they took up roles as officers or 
+
+directors of Kraft Heinz. Other defendants are not directly affiliated with 3G but are alleged to be 
+close business associates of the 3G-affiliated defendants. These include Abel and Cool, who are 
+Berkshire Hathaway employees, and Van Damme, whose “Interbrew” company merged with the 
+3G-controlled “Ambev” in 2004 to create InBev, one of the worlds’ largest brewing conglomerates 
+at that time. (CVSAC ¶¶ 270-71.)                                          
+    Although 3G had purportedly succeeded in implementing its zero-based budgeting strategy 
+at other consumer goods companies, plaintiffs allege that the strategy did not work at Kraft Heinz. 
+Instead, the strategic shift had two ill effects: (1) the value of the company’s brands deteriorated 
+
+                               2                                         
+because performance dipped as employees struggled with the new cost constraints, and (2) the 
+procurement division misstated the terms of supplier contracts, including by front-loading rebates 
+in the first year of multi-year contracts, rather than recording portions of the rebates immediately 
+and deferring the rest to spread them out over the length of the underlying contracts.  
+
+    Actions  that  Kraft  Heinz  took  to  cut  costs  that  allegedly  hindered  the  company’s 
+performance included the following: implementing indiscriminate layoffs, eliminating critical 
+maintenance and product quality functions, making across-the-board cuts to vendor and supplier 
+services, closing key plants and distribution centers without replacing them, cutting media and 
+marketing expenditures, and eliminating trade promotions that had helped to secure valuable retail 
+space.  Plaintiffs  allege  that,  from  November  2015  until  2018,  defendants  regularly  made 
+misleading statements to investors in earnings calls, in which they touted savings from efficiencies 
+and synergies the merger had purportedly generated, without disclosing that any savings the 
+company was realizing actually came from its harmfully aggressive cost-cutting efforts. Further, 
+when analysts raised the possibility that the company’s cost-cutting might damage relationships 
+
+with customers, defendants rejected it. In reality, plaintiffs allege, the cost-cutting was reducing 
+essential brand support, supply chain performance, productivity, service quality, and distribution, 
+resulting in diminished “case fill rates,” i.e., diminished rates of customer orders filled correctly 
+and on time.                                                              
+    According  to  plaintiffs,  these  issues  damaged  the  company’s  relationships  with  its 
+customers, the retailers who sell its products to consumers. However, from November 2015 until 
+2018, the individual defendants caused the company to file Forms 10-Q, 10-K, and 8-K in which 
+
+
+                               3                                         
+they reported no impairment of goodwill1 or any events that were likely to impair the company’s 
+                          0F                                             
+goodwill. When they did report any weakness in their controls, they did so without disclosing the 
+difficulties caused by the cost-cutting measures or the incorrect recording of their contractual 
+obligations to their suppliers due to the issues with the procurement division. In March 2018, 
+Behring, Cahill, Abel, Cool, Dewan, Jackson, Lemann, Pope, Telles, and McDonald issued a proxy 
+statement soliciting shareholder votes for a proposal to elect Behring, Cahill, Abel, Cool, Dewan, 
+Jackson,  Lemann,  Pope,  and  Telles  to  new  terms  as  directors,  and  to  approve  executive 
+compensation. Plaintiffs allege that this proxy statement was misleading because it misrepresented 
+the accuracy of the company’s financial reporting, which had been undermined by improper 
+accounting practices, and the risks posed by the cost-cutting strategies.  
+    In advance of a meeting of the Kraft Heinz Board of Directors’ Audit Committee on July 
+31, 2018, defendant Garlati, who had recently begun to serve as the company’s Global Controller 
+and Principal Accounting Officer, provided the Board of Directors with a memorandum in which 
+he explained that, following an annual impairment test, the company recognized impairments to 
+
+goodwill in certain reporting units and brands. Several reporting units were nearing or had fallen 
+below a 10% fair value cushion. The second and third quarter Forms 10-Q stated that the company 
+
+1 In accounting terminology, goodwill is an intangible asset that consists of “the amount by which 
+a business’s overall value exceeds the value of its constituent assets, often due to a recognizable 
+brand name [or] a sterling reputation.” Upper Deck Co. v. Panini Am., Inc., 469 F. Supp. 3d 963, 
+982 (S.D. Cal. 2020) (internal quotation marks omitted). An impairment to goodwill is “‘the 
+condition that exists when the carrying amount of goodwill exceeds its implied fair value,’” where 
+the “carrying amount” is the amount “‘as displayed in the financial statements’” and the “fair 
+value” is the “‘price that would be received to sell an asset or paid to transfer a liability in an 
+orderly transaction between market participants.’” Janssen v. Reschke, No. 17 C 8625, 2020 WL 
+6044284, at *3 (N.D. Ill. Oct. 13, 2020) (quoting Financial Accounting Standards Board’s 
+Accounting Standards Codification 350-20-35-2 and Master Glossary, https://asc.fasb.org/Home). 
+
+                               4                                         
+recognized an impairment loss, and four and five reporting units, respectively, were at risk of 
+future  impairments.  Plaintiffs  allege  that  even  these  disclosures,  however,  were  misleading 
+because they did not reveal the full scope or depth of the problem.       
+    In late 2018 and early 2019, after the company filed its third quarter Form 10-Q, several 
+
+defendants discussed or reviewed information suggesting that there were certain “risks associated” 
+with the pressure to cut costs (CVSAC ¶ 172), there was a risk of impairment of goodwill, and the 
+procurement department needed new training. At a February 21, 2019 meeting, according to the 
+meeting minutes, Garlati “discussed the fiscal 2018 year-end close status, including the base audit 
+and the impairment analysis resulting in an approximately $15.4 billion impairment.” (CVSAC ¶ 
+184.) On the same day, defendants Behring, Cahill, Abel, Cool, Dewan, Jackson, Lemann, Pope, 
+Telles, van Damme, Zoghbi, Hees, Knopf, and Garlati caused the company to disclose the massive 
+$15.4 billion impairment to goodwill in a press release. The Wall Street Journal reported that the 
+write-down was “bigger than the $9.6 billion in the combined write-offs of the entire U.S. 
+consumer staples industry from 2013 through 2017, according to studies by Duff & Phelps.” (Id. 
+
+¶ 204 (internal quotation marks omitted).) The news caused the company’s stock price to nosedive. 
+    The same February 21, 2019 press release also revealed a Securities and Exchange 
+Commission (“SEC”) investigation into the company’s accounting related to the procurement 
+function, after the company had received a subpoena in October 2018. Another SEC subpoena 
+concerning the company’s goodwill and intangible asset impairments arrived in March 2019. In a 
+belated 2018 Form 10-K filed in June 2019, the company disclosed additional misstatements. It 
+also admitted that its “disclosure controls and procedures were not effective” and there were 
+material weaknesses in its internal control over financial reporting, particularly with respect to 
+
+                               5                                         
+procurement and goodwill. (CVSAC ¶¶ 218-19.) Over the next year, the company continued to 
+recognize impairments to goodwill.                                        
+    In the complaint, plaintiffs assert their claims in five counts. Kraft Heinz is a Delaware 
+corporation, and the first three claims arise under Delaware law: Count I, against all defendants, 
+
+for breach of fiduciary duty for making untrue statements to shareholders or permitting the 
+company to make untrue statements in public filings, see Malone v. Brincat, 722 A.2d 5, 9 (Del. 
+1998); Count II, against 3G, Behring, Lemann, Telles, Hees, Knopf, and Basilio, for insider trading 
+under Brophy v. Cities Service Co., 70 A.2d 5, 8 (Del. 1949), see Morris v. Spectra Energy 
+Partners (DE) GP, LP, 246 A.3d 121, 134 n.58 (Del. 2021), and Count III, against all defendants, 
+for unjust enrichment. The remaining claims arise under federal law: Count IV, for contribution 
+for violations of section 10(b) of the Securities Exchange Act, 15 U.S.C. § 78j, asserted under 
+section 21D of the Act, 15 U.S.C. § 78u-4, in a separate consolidated class action for securities 
+fraud, which is also pending before this court, see Hedick v. The Kraft Heinz Company, Case No. 
+19 C 1339; and Count V, for violation of section 14(a) of the Securities Exchange Act, 15 U.S.C. 
+
+§ 78n, for submitting a misleading proxy statement.                       
+                          DISCUSSION                                     
+    “A derivative suit is brought by an investor in the corporation’s (not the investor’s) right 
+to recover for injury to the corporation.” Felzen v. Andreas, 134 F.3d 873, 875 (7th Cir. 1998). It 
+is a “cardinal precept of Delaware law . . . that directors, rather than shareholders, manage the 
+business and affairs of the corporation.” United Food & Com. Workers Union & Participating 
+Food Indus. Emps. Tri-State Pension Fund v. Zuckerberg, 262 A.3d 1034, 1047 (Del. 2021) 
+(internal quotation marks omitted). “The board’s authority to govern corporate affairs extends to 
+
+                               6                                         
+decisions about what remedial actions a corporation should take after being harmed, including 
+whether the corporation should file a lawsuit against its directors, its officers, its controller, or an 
+outsider.” Id. “Only when the corporation’s board defaults in its duty to protect the interests of the 
+investors” may shareholders take over for the board by bringing a derivative suit. Felzen, 134 F.3d 
+
+at 875. To ensure that the “the stockholder affords the corporation the opportunity to address an 
+alleged wrong without litigation and to control any litigation which does occur,” among other 
+reasons, Delaware law imposes the “substantive requirement” that, prior to initiating a derivative 
+suit, shareholders must either “(1) make a demand on the company’s board of directors, or (2) 
+show that demand would be futile.” Zuckerberg, 262 A.3d at 1047 (internal quotation marks 
+omitted).                                                                 
+    Plaintiffs did not file a pre-suit demand with Kraft Heinz asking the directors to initiate this 
+action against themselves on behalf of the corporation. They allege that they are excused from 
+doing so because “a majority of the Board members are disabled from fairly, independently and 
+objectively considering any pre-suit demand” that plaintiffs may have made. (CVSAC ¶ 266.) 
+
+Defendants move to dismiss for, among other reasons, failure to adequately plead demand futility. 
+I.  Legal Standards                                                      
+    “A motion under Rule 12(b)(6) tests whether the complaint states a claim on which relief 
+may be granted.”  Richards v. Mitcheff, 696 F.3d 635, 637 (7th Cir. 2012). Under Rule 8(a)(2), a 
+complaint must include “a short and plain statement of the claim showing that the pleader is 
+entitled to relief.”  Fed. R. Civ. P. 8(a)(2). The short and plain statement under Rule 8(a)(2) must 
+“give the defendant fair notice of what the claim is and the grounds upon which it rests.” Bell Atl. 
+Corp. v. Twombly, 550 U.S. 544, 555 (2007) (internal quotation marks and alteration marks 
+
+                               7                                         
+omitted). Under federal notice-pleading standards, a plaintiff’s “[f]actual allegations must be 
+enough to raise a right to relief above the speculative level.” Id. Stated differently, “a complaint 
+must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible 
+on its face.’” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Twombly, 550 U.S. at 570). “A 
+
+claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw 
+the reasonable inference that the defendant is liable for the misconduct alleged.” Id. (citing 
+Twombly, 550 U.S.at 556). “In reviewing the sufficiency of a complaint under the plausibility 
+standard, [courts must] accept the well-pleaded facts in the complaint as true, but [they] ‘need[ ] 
+not accept as true legal conclusions, or threadbare recitals of the elements of a cause of action, 
+supported by mere conclusory statements.’” Alam v. Miller Brewing Co., 709 F.3d 662, 665-66 
+(7th Cir. 2013) (quoting Brooks v. Ross, 578 F.3d 574, 581 (7th Cir. 2009)); see In re Abbott Labs. 
+Deriv. S’holders Litig., 325 F.3d 795, 807 (7th Cir. 2003).               
+    Additionally, any claims of or including acts of fraud or deception must comply with 
+Federal Rule of Civil Procedure 9(b), which requires the pleading party to “state with particularity 
+
+the  circumstances  constituting  fraud,”  apart  from  “[m]alice,  intent,  knowledge,  and  other 
+conditions of a person’s mind,” which “may be alleged generally.” See United States ex rel. 
+Presser v. Acacia Mental Health Clinic, LLC, 836 F.3d 770, 775, 781 n.29 (7th Cir. 2016); see 
+also Cornielsen v. Infinium Cap. Mgmt., LLC, 916 F.3d 589, 604 (7th Cir. 2019) (stating that 
+claims of fiduciary duty “premised on allegations that the defendants knowingly misled Plaintiffs” 
+were subject to the “heightened pleading requirements” of Rule 9(b)). Ordinarily, plaintiffs 
+asserting claims subject to Rule 9(b) must plead such information as “the identity of the person 
+who made the misrepresentation, the time, place and content of the misrepresentation, and the 
+
+                               8                                         
+method by which the misrepresentation was communicated.” Windy City Metal Fabricators & 
+Supply, Inc. v. CIT Tech. Fin. Servs., Inc., 536 F.3d 663, 668 (7th Cir. 2008); see Pirelli Armstrong 
+Tire Corp. Retiree Med. Ben. Trust v. Walgreen Co., 631 F.3d 436, 441-42 (7th Cir. 2011). 
+    Similarly, Federal Rule of Civil Procedure 23.1 requires a plaintiff in a shareholder 
+
+derivative action to “state with particularity any effort by the plaintiff to obtain the desired action 
+from the directors or comparable authority and, if necessary, from the shareholders or members” 
+and “the reasons for not obtaining the action or not making the effort.” Fed. R. Civ. P. 23.1(b)(3). 
+While it is federal law that “governs the degree of detail that . . . plaintiff[s] must furnish when 
+[they] give[] [their] reasons” for not making a pre-suit demand, “[t]he function of the demand 
+futility doctrine is a matter of substance, not procedure,” so the law of the state of incorporation—
+here, Delaware—determines “whether those reasons are sufficient.” Westmoreland Cty. Emp. Ret. 
+Sys. v. Parkinson, 727 F.3d 719, 722 (7th Cir. 2013); see Dorvit v. Winemaster, 950 F.3d 984, 988-
+89 (7th Cir. 2020) (“[T]he demand futility requirement is not a mere technical, procedural hurdle 
+[but] a substantive sine qua non of derivative suits.”); see also Kamen v. Kemper Fin. Servs., Inc., 
+
+500 U.S. 90, 98-99, 108-09 (1991); Abbott Labs., 325 F.3d at 803.         
+II.  Demand Futility                                                     
+    Because plaintiffs did not make a pre-suit demand, they must show that demand is excused 
+as futile in order to proceed with this suit. Because “derivative litigation upsets the balance of 
+power that [Delaware law] establishes between a corporation’s directors and its stockholders,” the 
+demand requirement is “not excused lightly.” Zuckerberg, 262 A.2d at 1049. The essence of the 
+inquiry is whether a majority of directors are “under an influence which sterilizes their discretion” 
+
+
+                               9                                         
+such that “there is reason to doubt that the board could bring its impartial business judgment to 
+bear on a litigation demand.” Id. at 1048-49 (internal quotation marks omitted).  
+    The Delaware Supreme Court recently refined its test for demand futility, adopting a 
+“three-part  .  .  .  universal  test  for  assessing  whether  demand  should  be  excused  as  futile.” 
+
+Zuckerberg, 262 A.2d at 1058. The universal test requires courts to evaluate allegations of demand 
+futility by asking the following three questions on a director-by-director basis: 
+    (i) whether the director received a material personal benefit from the alleged 
+    misconduct that is the subject of the litigation demand;             
+    (ii) whether the director faces a substantial likelihood of liability on any of the 
+    claims that would be the subject of the litigation demand; and       
+    (iii) whether the director lacks independence from someone who received a material 
+    personal benefit from the alleged misconduct that would be the subject of the 
+    litigation demand or who would face a substantial likelihood of liability on any of 
+    the claims that are the subject of the litigation demand.            
+
+Id. at 1059. “If the answer to any of the questions is ‘yes’ for at least half of the members of the 
+demand board, then demand is excused as futile.” Id.                      
+    Delaware  permits  its  corporations  to  include  in  their  certificates  of  incorporation 
+exculpatory provisions that limit or eliminate their directors’ personal liability for some breaches 
+of fiduciary duty, including breaches of the duty of care. These exculpatory provisions may not, 
+however, go so far as to “eliminate or limit the liability of . . . [a] director or officer for any breach 
+of the director’s or officer’s duty of loyalty to the corporation or its stockholders” or “[a] director 
+or officer for acts or omissions not in good faith or which involve intentional misconduct or a 
+knowing violation of law,” among other exceptions not relevant here. Del. Code. tit. 8, § 102(7). 
+Kraft Heinz’s certificate of incorporation exculpates the company’s directors for breaches of 
+
+                              10                                         
+fiduciary duty “[t]o the full extent” permitted by Delaware law. (Second Amended and Restated 
+Certificate of Incorporation of H.J. Heinz Holding Corporation, Individual Defs.’ Mem. Ex. 2, 
+ECF No. 107-2).                                                           
+    “Where, as here, the certificate of incorporation includes an exculpatory provision pursuant 
+
+to . . . § 102(b)(7), ‘a substantial likelihood of liability may only be found to exist if the plaintiff 
+pleads a non-exculpated claim against the directors based on particularized facts.’” In re Vaxart, 
+Inc. S’holder Litig., No. CV 2020-0767-PAF, 2021 WL 5858696, at *20 (Del. Ch. Nov. 30, 2021) 
+(quoting Teamsters Union 25 Health Servs. & Ins. Plan v. Baiera, 119 A.3d 44, 62-63 (Del. Ch. 
+2015)); see Zuckerberg, 262 A.3d at 1054. Thus, to the extent that they rely on the second 
+Zuckerberg  prong,  plaintiffs  must  plead  that  a  majority  of  the  director  defendants  faced  a 
+substantial likelihood of liability for breaching their duty of loyalty, acting in bad faith, committing 
+intentional misconduct, or knowingly violating the law. Such claims require the allegation of 
+“particularized facts that demonstrate that the directors acted with scienter, i.e., that they had actual 
+or constructive knowledge that their conduct was legally improper.” See Wood v. Baum, 953 A.2d 
+
+136, 141 (Del. 2008) (internal quotation marks omitted) (citing cases); see also Owens on Behalf 
+of Esperion Therapeutics, Inc. v. Mayleben, No. CV 12985-VCS, 2020 WL 748023, at *7 (Del. 
+Ch. Feb. 13, 2020); In re Discover Fin. Servs. Derivative Litig., No. 12 C 6436, 2015 WL 1399282, 
+at *5 (N.D. Ill. Mar. 23, 2015) (citing Wood).                            
+    Although the complaint’s demand futility allegations address both independence and the 
+likelihood of personal liability (CVSAC ¶¶ 267-87), plaintiffs focus primarily on the latter theory 
+(and the second prong of the universal Zuckerberg test) in their response brief. In order to 
+determine whether a majority of the Kraft Heinz Board is exposed to a substantial likelihood of 
+
+                              11                                         
+personal liability in this suit, the Court must first “identify precisely what Plaintiffs allege these 
+fiduciaries did wrong.” Genworth Fin., Inc. Consol. Derivative Litig., No. CV 11901-VCS, 2021 
+WL 4452338, at *12 (Del. Ch. Sept. 29, 2021). Plaintiffs argue that the lawsuit substantially 
+threatened a majority of the eleven director defendants—namely, Abel, Behring, Cahill, Cool, 
+
+Dewan, Jackson, Lemann, Pope, Telles, Van Damme, and Zoghbi—with personal liability for the 
+following reasons: (1) all eleven director defendants breached their fiduciary duty of loyalty by 
+causing the company to make materially false statements and/or omissions in various financial 
+reports to shareholders, including documents filed with the SEC, (2) Dewan, Jackson, and Pope 
+breached their fiduciary duty based on their conduct as members of the Board’s Audit Committee, 
+which had a particular responsibility to oversee and monitor the company’s internal controls over 
+financial reporting and disclosures, (3) Behring, Cahill, Abel, Cool, Dewan, Jackson, Lemann, 
+Pope, and Telles issued a misleading proxy statement in 2018 in violation of section 14(a) of the 
+Securities Exchange Act, 15 U.S.C. § 78n, and (4) Behring, Lemann, and Telles violated their 
+fiduciary duties by causing 3G to sell over $1.2 billion of Kraft Heinz stock based on inside 
+
+information. Additionally, plaintiffs argue that Cahill and Zoghbi are not independent because 
+each of them relies on his position as a director of Kraft Heinz as a principal source of income.  
+      A.  Liability For Misleading Statements In And About Financial Reporting 
+    Plaintiffs argue that all of the director defendants knew or should have known that the 3G-
+backed cost-cutting strategy was harming the company’s performance in ways that would result in 
+impairments to goodwill, but were not immediately being recorded as such. In quarterly and annual 
+reports filed with the SEC between 2015 and 2019, the company stated that no events occurred 
+indicating that goodwill was likely to have been impaired, although the directors knew of the 
+
+                              12                                         
+company’s  aggressive  cost-cutting  measures.  In  particular,  plaintiffs  argue,  the  Garlati 
+memorandum in July 2018 made clear to the directors that goodwill was beginning to suffer. Still, 
+the directors took no action to cause the company to disclose any potential impairments.  
+    “Whenever  directors  communicate  publicly  or  directly  with  shareholders  about  the 
+
+corporation’s affairs, with or without a request for shareholder action, directors have a fiduciary 
+duty to shareholders to exercise due care, good faith and loyalty.” Malone v. Brincat, 722 A.2d 5, 
+10 (Del. 1998). “[D]irectors who knowingly disseminate false information that results in corporate 
+injury or damage to an individual stockholder violate their fiduciary duty.” Id. at 9. To plead a 
+claim of breach of fiduciary duty based on a board of directors’ misleading statement when there 
+is “no request for stockholder action” in the offending communication, “a plaintiff must allege that 
+the directors ‘deliberately misinform[ed] shareholders about the business of the corporation, either 
+directly or by a public statement.’” In re TrueCar, Inc. S’holder Derivative Litig., No. CV 2019-
+0672-AGB, 2020 WL 5816761, at *13 (Del. Ch. Sept. 30, 2020) (quoting Malone, 722 A.2d at 
+14). “‘A determination of whether the alleged misleading statements or omissions were made with 
+
+knowledge or in bad faith requires an analysis of the state of mind of the individual director 
+defendants.’” Id. (quoting In re Citigroup Inc. S’holder Derivative Litig., 964 A.2d 106, 134 (Del. 
+Ch. 2009)). “Thus, to adequately allege that a director faces a substantial likelihood of liability for 
+disclosure violations, the plaintiff must plead specific factual allegations showing ‘that the director 
+defendants had knowledge that any disclosures or omissions were false or misleading.’” TrueCar, 
+2020 WL 5816761, at *13 (quoting Citigroup, 964 A.2d at 134).             
+    Delaware courts recognize that directors’ mere “‘execution of [the company’s] financial 
+reports, without more, is insufficient to create an inference that the directors had actual or 
+
+                              13                                         
+constructive notice’” of any alleged improprieties. TrueCar, 2020 WL 5816761, at *13 (quoting 
+Wood, 953 A.2d at 142); see Guttman v. Huang, 823 A.2d 492, 498 (Del. Ch. 2003) (dismissing 
+complaint that was “entirely devoid of particularized allegations of fact demonstrating that the 
+outside directors had actual or constructive notice of the accounting improprieties”) (cited in 
+
+Wood). The Court sees no relevant distinction between Federal Rule of Civil Procedure 23.1 and 
+its Delaware equivalent in this regard. See, e.g., In re ZAGG Inc. S'holder Derivative Action, 826 
+F.3d 1222, 1234 (10th Cir. 2016) (relying on Wood and Guttman). Here, plaintiffs’ allegations of 
+scienter amount to little more than speculation that the directors must have known that the 
+company’s cost-cutting efforts would harm the company and result in an impairment to goodwill. 
+But speculation is not enough. See Iotex Commc’ns, Inc. v. Defries, No. 15817, 1998 WL 914265, 
+at *4 (Del. Ch. Dec. 21, 1998). The complaint does not assert particularized facts on which a 
+factfinder might base a conclusion that the directors had some reason to know, at the time of the 
+allegedly misleading statements, that the cost-cutting strategy was damaging Kraft Heinz brands 
+to an extent that would entail a significant impairment to goodwill.      
+
+    Plaintiffs do not make any allegations to suggest what facts arising at what time should 
+have put the directors on notice that the company’s cost-cutting was not taking advantage of 
+merger-generated efficiencies and synergies but, instead, opening self-inflicted wounds that would 
+result in an impairment to goodwill. The closest they come is to cite the Garlati memorandum in 
+July 2018, which provides some support for the view that the company’s brands had weakened. 
+However, after Garlati presented that memorandum to the Board, the company did disclose certain 
+impairments to goodwill, as well as risks of further impairment, in its second and third quarter 
+Forms 10-Q. The Court fails to see why the directors were required to disclose more information 
+
+                              14                                         
+at that time, or what else they were to disclose, if anything. How were they to know, for example, 
+that the shakiness of certain units’ goodwill was due to the company’s cost-cutting strategy, that 
+the problem would worsen rather than improve, or what the magnitude of the problem would be 
+when it fully manifested? Plaintiffs do not explain, and the Court cannot indulge plaintiffs in 
+
+speculating.                                                              
+    The cases plaintiffs cite do not convince the Court otherwise. These cases generally 
+involved  board  statements  that  contradicted  or  denied  problems  revealed  by  more  mature 
+regulatory investigations or more comprehensive reports of improprieties, about which it could be 
+fairly inferred that board members must have been aware of the details. See, e.g., In re INFOUSA, 
+Inc.  S’holders  Litig.,  953  A.2d  963,  990-91  (Del.  Ch.  2007),  Forestal  v.  Caldwell,  No. 
+CV164492MWFGJSX, 2016 WL 9774914, at *9-10 (C.D. Cal. Nov. 14, 2016); compare Pirelli 
+Armstrong Tire Corp. Retiree Med. Benefits Tr. v. Stumpf, No. C 11-2369 SI, 2012 WL 424557, 
+at *6 (N.D. Cal. Feb. 9, 2012) (cited by plaintiffs) with In re Goldman Sachs Mortg. Servicing 
+S’holder Derivative Litig., 42 F. Supp. 3d 473, 483 (S.D.N.Y. 2012) (distinguishing Pirelli because 
+
+in that case the “directors faced a substantial likelihood of liability” because “they claimed that 
+internal controls were effective but knew of significant problems with internal controls”). Plaintiffs 
+must show that any “misstatement was made knowingly or in bad faith,” and “[m]erely alleging 
+that there were signs of problems” at the company, without more, “is not sufficient to show that 
+the director defendants knew that [Kraft Heinz’s] disclosures were false or misleading.” Citigroup, 
+964 A.2d at 135; see also Owens, 2020 WL 748023, at *8 (“While Plaintiff urges the Court to 
+infer scienter, the Complaint pleads no facts that would allow a reasonable inference the Outside 
+
+
+                              15                                         
+Directors, individually or collectively, knew that anything included in the press release was false.”) 
+aff’d sub nom. Owens v. Mayleben, 241 A.3d 218 (Del. 2020).               
+    Even assuming that defendants were aware of certain warning signs, it does not follow that 
+they failed to disclose any particular information about them “in bad faith—that is, with intent to 
+
+do harm or in conscious disregard of their responsibilities.” Carpenters’ Pension Fund of Illinois 
+v. Neidorff, 30 F.4th 777, 791 (8th Cir. 2022); see also id. at 791 n.11 (explaining that, to 
+demonstrate a breach of the duty of loyalty, plaintiffs must “demonstrate not just that the Director 
+Defendants knew of problems . . . but also that they failed to disclose this information to 
+shareholders with ‘an actual intent to do harm’ or in ‘intentional dereliction of [their] dut[ies]”) 
+(quoting McElrath v. Kalanick, 224 A.3d 982, 991 (Del. 2020)). Plaintiffs do not set forth 
+particularized facts sufficient to demonstrate that defendants had the requisite scienter in making 
+allegedly misleading statements or causing Kraft Heinz to issue allegedly misleading documents.  
+      B.  Membership On Audit Committee And Potential Caremark Claim     
+    Similarly, plaintiffs argue that Dewan, Jackson, and Pope should have known of the 
+
+looming impairment to goodwill because of their service on the Board’s Audit Committee. This 
+argument is a non-starter under well-settled Delaware law, as this Court has previously recognized. 
+“Committee membership is . . . an insufficient basis on which to infer knowledge.” Discover, 2015 
+WL 1399282, at *7 (citing Wood, 953 A.2d at 142-43, Desimone v. Barrows, 924 A.2d 908, 942 
+(Del. Ch. 2007), and Goldman Sachs, 42 F. Supp. 3d at 483). Members of the Audit Committee 
+may have a specific responsibility for oversight of matters related to the allegedly misleading 
+shareholder communications, but it does not follow that they had knowledge of deception or 
+wrongdoing  in  the  dissemination  of  those  communications  or  the  materials  they  relied  on, 
+
+                              16                                         
+particularly considering that board members are entitled to rely in good faith on the reports of 
+employees and officers. Citigroup, 964 A.2d at 135; see In re Zimmer Biomet Holdings, Inc. 
+Derivative Litig., No. CV 2019-0455-LWW, 2021 WL 3779155, at *15 (Del. Ch. Aug. 25, 2021); 
+see also Neidorff, 30 F.4th at 791.                                       
+
+    Defendants purport to find in plaintiffs’ response brief an effort to characterize the breach 
+of fiduciary duty claim as what is known under Delaware law as a Caremark claim, for improper 
+oversight  of  the  company,  rather  than  a  narrower  Malone  claim,  for  making  misleading 
+communications to shareholders. See Stone ex rel. AmSouth Bancorporation v. Ritter, 911 A.2d 
+362, 364-65 (Del. 2006) (citing In re Caremark Int'l Inc. Derivative Litig., 698 A.2d 959, 970 (Del. 
+Ch. 1996)); see generally Genworth, 2021 WL 4452338, at *12-15 (discussing in detail whether 
+the plaintiffs’ claim was properly considered a Caremark claim or a claim for breach of fiduciary 
+duty by making false disclosures to shareholders); see also Citigroup, 964 A.2d at 121-35 
+(considering breach of fiduciary duty claim under both a Caremark theory and a Malone theory); 
+TrueCar, 2020 WL 5816761, at *12-20 (similarly considering both a “disclosure claim” under 
+
+Malone and a Caremark claim). The Court agrees that plaintiffs’ brief is confusing as to its theory 
+of breach, and it is not clear whether plaintiffs intend to assert a Caremark claim or not. Even if 
+so, the breach of fiduciary duty claim is doomed by the same deficiency that dooms it if it is 
+considered as a Malone claim, as explained above: plaintiffs have not alleged particularized facts 
+that suffice to demonstrate the requisite scienter, i.e., that they “consciously disregarded their 
+duties or otherwise acted in bad faith.” Citigroup, 964 A.2d at 128; see TrueCar, 2020 WL 
+5816761, at *19-20.                                                       
+
+
+                              17                                         
+    For all these reasons, based on the allegations of the operative complaint, the Court finds 
+little to distinguish this case from those many “similar cases where the plaintiff failed to allege 
+with particularity any facts from which it could be inferred that particular directors knew or should 
+have been on notice of alleged accounting improprieties, and any facts suggesting that the board 
+
+knowingly allowed or participated in a violation of law.” Wood, 953 A.2d at 143.  
+      C.  Misleading Proxy Statement Under Section 14(a) Of Securities Exchange Act 
+    Plaintiffs argue that demand was futile as to their claim that the 2018 proxy statement 
+issued by Behring, Cahill, Abel, Cool, Dewan, Jackson, Lemann, Pope, Telles, and McDonald was 
+misleading because there is no need to demonstrate a mental state such as recklessness or knowing 
+or intentional misconduct for purposes of such a claim under section 14(a) of the Securities 
+Exchange Act. See Beck v. Dobrowski, 559 F.3d 680, 682 (7th Cir. 2009) (“There is no required 
+state of mind for a violation of section 14(a); a proxy solicitation that contains a misleading 
+misrepresentation or omission violates the section even if the issuer believed in perfect good faith 
+that there was nothing misleading in the proxy materials.”); see Gumm v. Molinaroli, 569 F. Supp. 
+
+3d 806, 832 (E.D. Wis. 2021) (citing Beck). Plaintiffs are correct, as far as their argument goes, 
+but it does not go far enough because this is not a securities fraud action. This is a shareholder 
+derivative action involving a Delaware corporation, and plaintiffs must plead demand futility, 
+which means that they must plead that this lawsuit threatened a majority of directors with liability 
+for claims that do not fall within the exculpatory provision of the company’s certificate of 
+incorporation. Zuckerberg, 262 A.3d at 1054; Del. Code. tit. 8, § 102(7). But if a section 14(a) 
+claim has no mental state component, and plaintiffs have not pleaded that defendants acted 
+knowingly, intentionally, or in bad faith, then the claim does not threaten the director defendants 
+
+                              18                                         
+with a substantial likelihood of liability because it is not the kind of claim that exceeds the 
+protection  of  the  exculpatory  provision.  TrueCar,  2020  WL  5816761,  at  *21  (citing  In  re 
+LendingClub Corp. Derivative Litig., No. CV 12984-VCM, 2019 WL 5678578, at *15-16 (Del. 
+Ch. Oct. 31, 2019)); see Zimmer Biomet Holdings, 2021 WL 3779155, at *23-24, aff’d, 279 A.3d 
+
+356 (Del. 2022). Because, as the Court has explained above at length, plaintiffs do not plead by 
+way of particularized facts that defendants made any misleading disclosures to shareholders—
+including the March 2018 proxy statement—knowingly, intentionally, or in bad faith, they do not 
+plead a non-exculpated claim that suffices to establish demand futility.  
+      D.  Remaining Claims                                               
+    Plaintiffs argue that demand is futile as to Behring, Lemann, and Telles because they faced 
+a substantial likelihood of liability on the Brophy (insider trading) claims, and demand is futile as 
+to Cahill and Zoghbi because they depend on their position as directors as a primary source of 
+income, and therefore lack independence from the other defendants. The Court need not address 
+these arguments because, even if plaintiffs are correct as to all five of these directors, that would 
+
+not suffice to establish that demand was futile as to a majority of the eleven-person Board. Because 
+plaintiffs fail to establish demand futility as to any of the other six directors, the arguments 
+pertaining to just these five directors are a moot point. Plaintiffs have not made particularized 
+allegations sufficient to establish that demand would have been futile as to a majority of the Board, 
+so defendants’ motions to dismiss must be granted. The Court need  not reach defendants’ 
+arguments that plaintiffs have failed to state a claim. See In re Fifth Third Bancorp Derivative 
+Litig., No. 20 C 4115, 2022 WL 970569, at *10 (N.D. Ill. Mar. 30, 2022) (“Because Defendants’ 
+demand futility argument is dispositive, the Court need only address that argument.”). 
+
+                              19                                         
+    For these reasons, the Court dismisses plaintiffs’ complaint in its entirety. The parties do 
+not address whether any dismissal should be with or without prejudice. The Court is not inclined 
+to dismiss the case with prejudice at this point, as, for all the Court knows, plaintiffs may be in 
+possession of new information that might permit them to establish demand futility in an amended 
+
+complaint. See, e.g., In re Abbott Depakote S’holder Derivative Litig., 909 F. Supp. 2d 984, 1000 
+(N.D. Ill. 2012).                                                         
+    The Court makes one final note. Much of the material the parties submitted to the Court in 
+briefing the present motions was filed under seal. At the time these motions were briefed, this case 
+was proceeding before a different judge, and the Court is unaware of why so much of the docket 
+is sealed. If plaintiff chooses to file an amended complaint, and if the parties intend to file further 
+documents under seal, the Court will require the parties to provide a fuller explanation than the 
+Court has found in the written record for why they are entitled to proceed under seal. In particular, 
+the Court will expect the parties to file motions to seal in which they explain why the standards 
+for filing  under seal, as set forth in decisions such as Baxter International, Inc. v. Abbott 
+
+Laboratories, 297 F.3d 544, 547 (7th Cir. 2002), and Union Oil Co. of California v. Leavell, 220 
+F.3d 562, 568 (7th Cir. 2000), are met in this case.                      
+                          CONCLUSION                                     
+    Defendants’ motions to dismiss the Consolidated Verified Second Amended Complaint 
+[97, 104] are granted, and the complaint is dismissed without prejudice. Plaintiffs may file an 
+amended complaint, if any, by May 1, 2023. The Court sets a status hearing for May 11, 2023.  
+
+
+
+                              20                                         
+SO ORDERED.                           ENTERED: March 31, 2023 
+
+                                      HON.  JORGE L. ALONSO 
+                                      United States District Judge 
+
+                                     21 

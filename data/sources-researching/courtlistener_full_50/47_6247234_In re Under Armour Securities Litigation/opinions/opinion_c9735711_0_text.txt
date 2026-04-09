@@ -1,0 +1,688 @@
+            IN THE UNITED STATES DISTRICT COURT                          
+                FOR THE DISTRICT OF MARYLAND                             
+
+
+                                  *                                      
+In re   UNDER ARMOUR                                                      
+    SECURITIES LITIGATION         *    Civil Action No.: RDB-17-0388     
+
+                                  *                                      
+
+*    *    *    *    *    *    *    *    *    *    *    *    *       *     
+                    MEMORANDUM OPINION                                   
+    Plaintiffs Aberdeen City Council as Administrating Authority for the North East 
+Scotland Pension Fund (“Aberdeen” or “Lead Plaintiff”) and Monroe County Employees’ 
+Retirement System (“Monroe”) (collectively, “Plaintiffs”) bring this putative class action 
+against Under Armour, Inc. (“Under Armour” or “the Company”) and Kevin A. Plank 
+(“Plank”) (collectively, “Defendants”) alleging violations of federal securities laws.  (Consol. 
+Second Am. Compl., ECF No. 78.)1  Plaintiffs bring this federal class action under the 
+Securities Exchange Act of 1934 (“Exchange Act”) §§ 10(b), 20(a), and 20A, 15 U.S.C. §§ 
+78j(b),  78(t)(a),  78t-1,  and  Rule  10b-5  promulgated  thereunder,  17  C.F.R.  §  240.10b-5.  
+Plaintiffs purport to represent a class of all persons or entities that purchased or acquired 
+common stock of Under Armour between September 16, 2015 to January 30, 2017, inclusive 
+(“Class Period”), and who were damaged thereby. (ECF No. 78 at ¶ 2).      
+    Currently pending before this Court are three motions: (1) Defendants’ Motion to 
+Dismiss Plaintiffs’ Consolidated Second Amended Complaint (ECF No. 80); (2) Defendants’ 
+
+1    On September 19, 2018, this Court granted Defendants’ dismissal motions related to the [Corrected] 
+Consolidated Amended Complaint (ECF No. 51).  See In re Under Armour Sec. Litig., 342 F. Supp. 3d 658 (D. 
+Md. 2018).  Plaintiffs note that they have not repleaded the Securities Act claims that were dismissed with 
+prejudice but reserve the right to appeal the dismissal. (Consol. Second Am. Compl. 1 n.1, ECF No. 78.) 
+Motion to Strike the Declarations of Mark A. Cohen and Professor M. Todd Henderson (ECF 
+No. 79); and (3) Plaintiffs’ Motion to Strike Exhibits 21, 23, and 24 Attached to Defendants’ 
+Motion to Dismiss Plaintiffs’ Consolidated Second Amended Complaint (ECF No. 88).  The 
+
+parties’ submissions have been reviewed, and no hearing is necessary.  See Local Rule 105.6 
+(D. Md. 2018).                                                            
+    For the reasons that follow, this Court shall GRANT Defendants’ dismissal motion, 
+and shall also GRANT both parties’ motions to strike. Specifically, this Court concludes that 
+Plaintiffs have failed to meet the burden imposed upon them by the heightened pleading 
+standards to which the Exchange Act claims of Count I are subject.  Therefore, Count I shall 
+
+be dismissed with prejudice.  Since Count I must be dismissed, Counts II and III also fail 
+because they are each dependent upon a predicate violation of the Exchange Act.    
+                         BACKGROUND                                      
+    In ruling on a motion to dismiss, this Court “accept[s] as true all well-pleaded facts in 
+a complaint and construe[s] them in the light most favorable to the plaintiff.”  Wikimedia Found. 
+v. Nat’l Sec. Agency, 857 F.3d 193, 208 (4th Cir. 2017) (citing SD3, LLC v. Black & Decker (U.S.) 
+
+Inc., 801 F.3d 412, 422 (4th Cir. 2015)).  The Court may consider only such sources outside 
+the complaint that are, in effect, deemed to be part of the complaint, for example, documents 
+incorporated into the complaint by reference and matters of which a court may take judicial 
+notice.  Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 322 (2007); see also Khoja v. 
+Orexigen Therapeutics, Inc., 899 F.3d 988 (9th Cir. 2018) (clarifying the proper use of judicial 
+notice and incorporation-by-reference in securities litigation).2         
+    In brief,3 Under Armour is a Maryland-based sports apparel company that sells branded 
+
+athletic apparel, footwear and accessories worldwide.  (ECF No. 78 at ¶ 4.)  Since its formation 
+in 1996, the Company grew to become a leading premium sportswear brand, achieving the 
+position of number two sportswear brand by revenue in the United States by 2014.  (Id. at ¶¶ 
+5-6.)   By capitalizing on its premium brand image and reputation for state-of-the-art fabrics, 
+Under Armour reported 26 consecutive quarters of 20% or more compounded annual growth 
+between 2010 and 2016.  (Id. at ¶ 6.)   Plank is the Company’s founder, Chief Executive Officer, 
+
+Chairman of the Board, and largest shareholder. (Id. at ¶ 24.)            
+    Plaintiffs  allege  generally  that  beginning  in  September  2015,  Defendants’  public 
+statements concealed that they knew consumer demand for Under Armour’s products was 
+declining, so the Company abandoned its “brand strength over price” sales philosophy and 
+resorted to discounting, which led to Under Armour’s stock prices being artificially inflated by 
+lower-margin sales and international expansion.  (Id. at ¶¶ 9-12.)  In January 2016, Morgan 
+
+Stanley & Co. LLC (“Morgan Stanley”)4 published a report relying on industry sales data that 
+revealed  Under  Armour’s  average-sales-price  and  market-share  decline,  which  started  a 
+
+
+2    Before reaching the substantive matters of the instant motion to dismiss, this Court shall first address 
+the motions to strike.  In any event, this Court identifies herein any judicially-noticed facts taken from 
+Defendants’ exhibits.                                                     
+3    This Court provided a detailed background in its September 19, 2018 decision and incorporates it 
+herein. See In re Under Armour Sec. Litig., 342 F. Supp. 3d 658 (D. Md. 2018). 
+4    Morgan Stanley is an American multinational investment bank and financial services company that has 
+a reputation as a leader in the field of investment research.  Plaintiffs reference multiple research reports, 
+referred to as the Morgan Stanley Reports, that were published between January 2016 and February 2017 and 
+included commentary about Under Armour’s stock.                           
+corresponding decline in the Company’s stock prices.  (Id. at ¶ 13.)  Plaintiffs also allege that 
+Plank “personally cashed in on” the stock’s artificial inflation by selling a substantial amount 
+of his stock in the Company during the Class Period.  (Id. at ¶ 12.)      
+
+    The initial Complaints alleging violations of federal securities law were filed in February 
+and March 2017 and were consolidated on March 23, 2017.5  A Consolidated Amended 
+Complaint was filed on August 9, 2017, claiming four causes of action: Counts I and II for 
+violations of the Securities Act6 and Counts III and IV for violations of the Exchange Act7. 
+(ECF No. 30.)   On September 18, 2018, this Court granted Defendants’ dismissal motions, 
+dismissing the Securities Act claims (Counts I and II) with prejudice, and dismissing the 
+
+Exchange Act claims (Counts III and IV) without prejudice.  In re Under Armour Sec. Litig., 342 
+F. Supp. 3d 658 (D. Md. 2018).  By their Consolidated Second Amended Complaint (ECF No. 
+78), filed on November 16, 2018, Plaintiffs have dropped all defendants except for Plank and 
+Under Armour, contending that the prior pleading deficiencies have been remedied and that 
+all necessary elements have been adequately alleged to establish that Plank and Under Armour 
+violated §§ 10(b), 20(a) and 20A of the Securities Exchange Act of 1934.  (Pls.’ Resp. 1, ECF 
+
+No. 86.)  By the Defendants’ Motion to Dismiss Plaintiffs’ Consolidated Second Amended 
+Complaint, the Defendants seek the dismissal with prejudice of Plaintiffs’ claims.  (Defs.’ Mot., 
+
+
+5    Brian Breece v. Under Armour, Inc., et al, Case No. 17-0388-RDB filed February 10, 2017 (bringing 
+Exchange Act claims); Jodie Hopkins v. Under Armour, Inc., et al, Case No. 17-0452-RDB filed February 16, 2017 
+(bringing Exchange Act claims); and Ben Stenger v. Under Armour, Inc., et al, filed March 2, 2017 (bringing 
+Exchange Act claims).  No Securities Act claims were brought against any defendant prior to their inclusion in 
+the [Corrected] Consolidated Amended Complaint, ECF No. 30, on August 9, 2017.   
+6    Securities Act of 1933 (“Securities Act”) §§ 11, 15, 15 U.S.C. §§ 77k, 77o, and the rules promulgated 
+thereunder.                                                               
+7    Securities Exchange Act of 1934 (“Exchange Act”) §§ 10(b), 20(a), 15 U.S.C. §§ 78j(b), 78(t)(a), and 
+Rule 10b-5 promulgated thereunder, 17 C.F.R. § 240.10b-5.                 
+ECF No. 80.) Defendants assert that Plaintiffs have added no new factual allegations and still 
+fail to plead scienter as to either Plank or the Company, the only two remaining defendants.  
+(Mot. Mem. 1, ECF No. 80-2.)                                              
+
+    Defendants further contend that Plaintiffs have attempted to address the deficiencies 
+in their pleadings by adding declarations from “expert” witnesses to support their conclusions.  
+(Id. at 2.)  By the Defendants’ Motion to Strike the Declarations of Mark A. Cohen and 
+Professor M. Todd Henderson, the Defendants move this Court to strike the declarations and 
+disregard the opinions expressed in them.  (ECF No. 79.)    Defendants assert that an expert 
+report attached to a complaint is not a “written instrument” under Rule 10(c) of the Federal 
+
+Rules of Civil Procedure and that opinions cannot act as substitutes for facts under the 
+heightened  pleading  standard  of  the  Private  Securities  Litigation  Reform  Act  of  1995 
+(“PSLRA”), 15 U.S.C. §§ 78u-4, et seq.                                    
+    Finally, Plaintiffs seek to have this Court strike certain exhibits attached to Defendants’ 
+Motion to Dismiss.  (ECF No. 88.)  Specifically, Plaintiffs move, pursuant to the PSLRA and 
+Rule 12(f) of the Federal Rules of Civil Procedure, to strike Exhibits 21, 23, and 24 attached 
+
+to Defendants’ Motion to Dismiss and to strike all references to, and assertions based upon, 
+those materials.  (Id.)   Defendants contend that the three documents are not incorporated by 
+reference nor or they the proper subjects of judicial notice and are attached for the improper 
+purpose of rebutting Plaintiffs’ allegations of scienter.  (Pls.’ Mot. Mem. 4, ECF No. 88-1.) 
+    This Court shall address first the motions to strike and then the substantive motion to 
+dismiss.  For the reasons that follow, this Court shall GRANT all three motions.  Specifically, 
+
+this Court concludes that Plaintiffs have failed to meet the burden imposed upon them by the 
+heightened pleading standards to which the Exchange Act claims of Count I are subject.  
+Therefore, Count I shall be dismissed with prejudice.  Since Count I must be dismissed, 
+Counts II and III also fail because they are each dependent upon a predicate violation of the 
+
+Exchange Act.                                                             
+                     STANDARD OF REVIEW                                  
+    Rule 8(a)(2) of the Federal Rules of Civil Procedure requires that a complaint contain 
+a “short and plain statement of the claim showing that the pleader is entitled to relief.”  Fed. 
+R. Civ. P. 8(a)(2).  Rule 12(b)(6) authorizes the dismissal of a complaint if it fails to state a 
+claim upon which relief can be granted.  Fed. R. Civ. P. 12(b)(6).  The United States Supreme 
+
+Court’s opinions in Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007), and Ashcroft v. Iqbal, 556 
+U.S. 662 (2009), require that complaints in civil actions be alleged with greater specificity than 
+previously was required.  While a court must accept as true all factual allegations contained in 
+the complaint, legal conclusions drawn from those facts are not afforded such deference.  Iqbal, 
+556 U.S. at 678.  A complaint must set forth “enough factual matter (taken as true) to suggest” 
+a cognizable cause of action, “even if . . . [the] actual proof of those facts is improbable and . 
+
+. . recovery is very remote and unlikely.” Twombly, 550 U.S. at 556 (internal quotations omitted). 
+    Most importantly, this Court has noted that a claim for securities fraud must meet the 
+heightened pleading requirements of Federal Rule of Civil Procedure 9(b) and the Private 
+Securities Litigation Reform Act, 15 U.S.C. § 78u-4(b).  In re Constellation Energy Grp., Inc. Sec. 
+Litig., 738 F. Supp. 2d 614, 634 (D. Md. 2010).  Rule 9(b) of the Federal Rules of Civil 
+Procedure requires that “the circumstances constituting fraud be stated with particularity.” 
+
+Fed. R. Civ. P. 9(b).  The rule “does not require the elucidation of every detail of the alleged 
+fraud, but does require more than a bare assertion that such a cause of action exists.” Mylan 
+Labs., Inc. v. Akzo, N.V., 770 F. Supp. 1053, 1074 (D. Md. 1991).  To satisfy the rule, a plaintiff 
+must “identify with some precision the date, place and time of active misrepresentations or 
+
+the circumstances of active concealments.” Johnson v. Wheeler, 492 F. Supp. 2d 492, 509 (D. 
+Md. 2007). As the United States Court of Appeals for the Fourth Circuit stated in United States 
+ex rel. Nathan v. Takeda Pharmaceuticals North America, Inc., 707 F.3d 451 (4th Cir. 2013), the aims 
+of Rule 9(b) are to provide notice to defendants of their alleged misconduct, prevent frivolous 
+suits, eliminate fraud actions where all the facts are learned after discovery, and protect 
+defendants from harm to their goodwill and reputation. 707 F.3d at 456 (citation omitted). 
+
+    The Private Securities Litigation Reform Act further requires a securities fraud claim 
+to (1) “specify each statement alleged to have been misleading [and] the reason or reasons why 
+the statement is misleading,” and (2) “state with particularity facts giving rise to a strong 
+inference that the defendant acted with the required state of mind.” Tellabs, 551 U.S. at 321 
+(quoting 15 U.S.C. § 78u-4(b)(1), (b)(2)).  These heightened pleading standards in the securities 
+fraud context are demanding but were implemented because Congress recognized that there 
+
+was potential for abuse.  Cozzarelli v. Inspire Pharm. Inc., 549 F.3d 618, 623 (4th Cir. 2008).  
+Courts were charged to “be vigilant in preventing meritless securities fraud claims from 
+reaching the discovery phase of litigation” and “instructed courts to dismiss any securities 
+fraud complaint that does not” plead a strong inference of scienter.  Id.  (citing 15 U.S.C. § 
+78u–4(b)(2)).                                                             
+                            ANALYSIS                                      
+I.    Motions to Strike                                                    
+     Necessarily, this Court shall  begin  its analysis by determining which exhibits are 
+
+properly before the Court at this time.  The parties have requested that this Court strike several 
+items: (1) two expert declarations attached to the Plaintiffs’ complaint; and (2) three exhibits 
+attached to the Defendants’ dismissal motion. (ECF Nos. 79, 88.)          
+     Under Rule 12(f) of the Federal Rules of Civil Procedure, the Court “may strike from 
+a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous 
+matter” on its own or on a party’s timely motion. Fed. R. Civ. P. 12(f). In Waste Mgmt. Holdings, 
+
+Inc. v. Gilmore, 252 F.3d 316, 347 (4th Cir. 2001), the United States Court of Appeals for the 
+Fourth Circuit noted that, “Rule 12(f) motions are generally viewed with disfavor ‘because 
+striking a portion of a pleading is a drastic remedy and because it is often sought by the movant 
+simply as a dilatory tactic’ ” (citing 5A C. Wright & A. Miller, Federal Practice & Procedure § 1380, 
+647 (2d ed. 1990)). See also Stockart.com, LLC v. Caraustar Custom Packaging Grp., Inc., RDB-05-
+2409, 240 F.R.D. 195, 199 (D. Md. 2006).  However, if “the pleading is obviously insufficient 
+
+as a matter of law,” a court has discretion to grant a motion to strike.  Ong v. Chipotle Mexican 
+Grill, Inc., 294 F. Supp. 3d 199, 222 (S.D.N.Y.  2018) (citations omitted).   
+     A.   Declarations Attached to the Complaint                          
+     Plaintiffs argue that the expert declarations attached as Exhibits D and E to the Second 
+Amended Complaint qualify as “written instruments” under Fed. R. Civ. P. 10(c).  (ECF No. 
+87 at 7.)  Plaintiffs assert that the declarations are integral to the complaint, are incorporated 
+by reference, and their authenticity is not challenged.  (Id. at 8.)   Further, Plaintiffs rely on 
+them to “explain key specific facts” supporting their allegations of scienter.  (Id.) 
+    “A copy of a written instrument that is an exhibit to a pleading is part of the pleading 
+
+for all purposes.”  Fed. R. Civ. P. 10(c); see also Thompson v. Greene, 427 F.3d 263, 268 (4th Cir. 
+2005) (“[T]he complaint is deemed to include any written instrument attached to it as an 
+exhibit or any statements or documents incorporated in it by reference.”).  The Fourth Circuit 
+has not specifically addressed whether declarations are permissible attachments to pleadings 
+under Fed. R. Civ. P. 10(c).  See Occupy Columbia v. Haley, 738 F. 3d 107, 116-17 (4th Cir. 2013) 
+(commenting on there being no uniform rule among the circuits with respect to whether 
+
+affidavits are “written instruments” that may be considered in resolving a dismissal motion).   
+    Further, some district courts have accepted affidavits or declarations for purposes of 
+evaluating a dismissal motion, while other district courts have not.  Compare Malinowski v. Lichter 
+Grp.,  LLC,  Civil  No.  WDQ–14–917,  2015  WL  857511,  at  *4  (D.  Md.  Feb.  26,  2015) 
+(“Documents contemplated by Rule 10(c) include ‘contracts, notes, and other writing[s] on 
+which [a party’s] action or defense is based,’ but not affidavits.”) (quoting Rose v. Bartle, 871 
+
+F.2d 331, 339 n.3 (3d Cir. 1989)); and Copeland v. Aerisyn, LLC, No. 1:10–CV–78, 2011 WL 
+2181497, at *1 (E.D. Tenn. June 3, 2011) (“An ‘instrument’ is defined by Black’s Law 
+Dictionary (9th ed. 2009) as ‘[a] written legal document that defines rights, duties, entitlements, 
+or liabilities, such as a contract, will, promissory note, or share certificate.’”); with Alvarez–Soto 
+v. B. Frank Joy, LLC, 258 F. Supp. 3d 615, 623 (D. Md. 2017) (considering declarations attached 
+to the complaint but not those attached to the motions); and Reaves v. Am. Home Mortg. Servicing, 
+
+Inc., No. 5:15-CV-180-FL, 2017 WL 9478517, at *3 (E.D.N.C. Aug. 21, 2017) (“The court 
+‘may properly take notice of matters of public record’ and ‘may also consider documents 
+attached to the complaint, see Fed. R. Civ. P. 10(c), as well as those attached to the motion to 
+dismiss, so long as they are integral to the complaint and authentic.’”) (quoting Phillips v. Pitt 
+
+Cty. Mem’l Hosp., 572 F.3d 176, 180 (4th Cir. 2009)).                     
+    Importantly, this case is subject to a heightened pleading standard.  Complaints filed 
+under  the  PSLRA  “must  allege  specific  facts  demonstrating  material  misstatements  or 
+omissions made with scienter. Even if non-opinion portions of an expert’s affidavit constitute 
+an instrument pursuant to Rule 10, opinions cannot substitute for facts under the PSLRA.”  
+Fin. Acquisition Partners LP v. Blackwell, 440 F. 3d 278, 286 (5th Cir. 2006).  As this Court has 
+
+previously noted, “Plaintiffs may not substitute factual allegations with the speculation of their 
+expert witness.”  Lerner v. Northwest Biotherapeutics, 273 F. Supp. 3d 573, 590 (D. Md. 2017).  In 
+the context of securities fraud complaints, courts have stricken a declaration where plaintiffs 
+asked the court to consider it for the truth of its opinions, see Ong, 294 F. Supp. 3d at 209, but 
+at least one court has allowed a declaration when used “merely to buttress” the plaintiffs 
+contentions, see In re MannKind Sec. Actions, 835 F. Supp. 2d 797, 821 (C.D. Cal. 2011).  It is 
+
+apparent that both the context of the case and the purpose of the declarations are important 
+elements for a court to evaluate when considering whether to strike the documents.   
+    In this case, Plaintiffs contend that the declarations “only serve to support and help 
+explain the allegations” in the complaint.  (ECF No. 87 at 10.)   Therefore, they do not form 
+the basis of the complaint, are not integral to the complaint, and this Court will not refer to 
+them as a substitution for its own analysis.  This Court’s evaluation of a motion to dismiss 
+
+accepts as true all the factual allegations, so “buttressing” and external support are unnecessary.  
+See Twombly, 550 U.S. at 555-56.  However, this Court also distinguishes factual allegations 
+from “mere conclusory statements,” opinions, or legal conclusions.  Iqbal, 556 U.S. at 678.  
+Expert opinions generated for purposes of supporting Plaintiffs’ theories in a third version of 
+
+their complaint do not warrant the assumption of truth.                   
+    Accordingly, this Court shall GRANT Defendants’ Motion to Strike the Declarations 
+of Mark A. Cohen and Professor M. Todd Henderson (ECF No. 79).  However, any factual 
+allegations in the Second Amended Complaint that were derived from the expert reports, if 
+any, shall be accorded the consideration due to factual allegations in a dismissal context.   
+    B.   Defendants’ Exhibits Attached to Motion                         
+
+    Plaintiffs note that Defendants submitted 32 exhibits spanning nearly 1,700 pages.  
+(Pls.’ Mot. Mem. 1, ECF No. 88-1.)  Plaintiffs move to exclude three exhibits that they contend 
+are not incorporated by reference or subject to judicial notice.  (Id. at 2.)  Defendants argue 
+that the challenged exhibits are subject to judicial notice.  (ECF No. 92 at 2.)  The three 
+challenged exhibits include a press release filed with the United States Securities and Exchange 
+Commission (“SEC”) and two Maryland state court filings.  (Id.)  Defendants assert that the 
+
+documents are publicly filed documents offered for the limited purpose of establishing the 
+timing of events to which they relate and not to establish the truth of the matters contained 
+therein.  (Id.)                                                           
+    “[C]ourts are permitted to consider facts and documents subject to judicial notice 
+without converting the motion to dismiss into one for summary judgment.” Zak v. Chelsea 
+Therapeutics Int’l, Ltd., 780 F.3d 597, 607 (4th Cir. 2015).  Under Federal Rules of Evidence 201, 
+
+facts that are not “subject to reasonable dispute” may be judicially noticed.  Fed. R. Evid. 
+201(b).  If a fact is “generally known,” or “can be accurately and readily determined from 
+sources whose accuracy cannot reasonably be questioned,” then it is “not subject to reasonable 
+dispute.”  Id.  If a court considers such facts at the motion to dismiss stage, the facts must be 
+
+construed “in the light most favorable to the plaintiffs.”  Zak, 780 F.3d at 607 (citation 
+omitted).                                                                 
+    As this Court previously noted, in August 2018, the Ninth Circuit clarified the proper 
+use of judicial notice and incorporation-by-reference in securities litigation.  See In re Under 
+Armour Sec. Litig., 342 F. Supp. 3d at 667 n. 3 (citing Khoja, 899 F.3d 988).  In Khoja, the Ninth 
+Circuit reminded district courts that generally, if materials outside the pleadings are considered, 
+
+the dismissal motion is converted into a motion for summary judgment so that both parties 
+have an opportunity to present material pertinent to the motion.  899 F.3d at 998 (citing Lee 
+v. City of Los Angeles, 250 F.3d 668, 688 (9th Cir. 2001)).  Judicial notice and incorporation-by-
+reference are exceptions to this general rule.  Id. (citing Fed. R. Evid. 201).  However, improper 
+application of these exceptions may lead to premature dismissals that may have been valid if 
+discovery were allowed, and this risk is especially significant in SEC fraud matters where 
+
+plaintiffs are subject to heightened pleading standards.  Id.8   The Ninth Circuit further noted 
+that “accuracy is only part of the inquiry under Rule 201(b). A court must also consider—and 
+identify—which fact or facts it is noticing . . . .”   Id.                
+    Defendants’ Exhibits 21 and 23 relate to proceedings in another case in a different 
+court, namely the Under Armour Shareholder Litigation in the Maryland Circuit Court for 
+
+
+8    Plaintiffs referred to this risk as “Defendants’ effort to exploit informational asymmetry at the pleading 
+stage.”  (ECF No. 88-1 at 2.)                                             
+Baltimore City.  (ECF No. 92 at 3.)  Exhibit 24 is an SEC filing on Form 8-K, filed on March 
+16, 2016.  All three exhibits relate to the Class C stock issuance.  (Id.)  Defendants assert that 
+the exhibits are offered only to establish the timeline of events in connection with the Class C 
+
+stock issuance.  (Id. at 4.)   Defendants argue that such documents are routinely subject to 
+judicial notice, and they assert that they are not asking the Court to take judicial notice of any 
+disputed facts.  (Id. at 5-7.)  Defendants also note that there is no disputed fact with regard to 
+the timeline, but merely a typographical error in the Second Amended Complaint.  (Id.  at 10.) 
+    Certainly, “courts routinely take judicial notice of documents filed in other courts . . . 
+to establish the fact of such litigation and related filings.” Kramer v. Time Warner Inc., 937 F.2d 
+
+767, 774 (2d Cir. 1991) (citations omitted).  Also, “[j]udicial notice is appropriate of the content 
+of S.E.C. filings, to the extent that this establishes that the statements therein were made, and 
+the fact that these documents were filed with the agency. . . .”  In re Mun. Mortg. & Equity, 
+LLC, Sec. & Derivative Litig., 876 F. Supp. 2d 616, 653 n.7 (D. Md. 2012), aff’d sub nom. Yates v. 
+Mun. Mortg. & Equity, LLC, 744 F.3d 874 (4th Cir. 2014).  However, “the determination 
+whether a fact properly is considered under this exception depends on the manner in which a 
+
+court uses this information.”  Zak, 780 F.3d at 607 (citation omitted).   
+    In essence, Plaintiffs request this Court to take judicial notice only of relevant and 
+permissible undisputed facts.  Therefore, Plaintiffs’ Motion to Strike Exhibits 21, 23, and 24 
+Attached  to  Defendants’  Motion  to  Dismiss  Plaintiffs’  Consolidated  Second  Amended 
+Complaint (ECF No. 88) shall be GRANTED.  This Court does not take judicial notice of 
+the truth of the underlying facts in the challenged exhibits and shall not consider the content 
+
+of the documents to the extent that Defendants seek to use them to provide factual evidence 
+ or to contradict Plaintiffs’ allegations.  Further, generally, as previously stated, this Court shall 
+ identify any facts it has noticed from any other exhibit that was attached to Defendants’ 
+ dismissal motion.  Of course, any such facts noticed shall be construed in the light most 
+
+ favorable to the Plaintiffs.                                              
+II.    Exchange Act Claims                                                  
+      The Exchange Act and its accompanying regulations act to protect the integrity of the 
+ market in securities and prohibit fraud in connection with the purchase or sale of a security.  
+ See 15 U.S.C. § 78j(b); 17 C.F.R. § 240.10b–5.  Securities fraud actions serve an important 
+ purpose—but only when those actions are meritorious.  Cozzarelli, 549 F.3d at 624 (citing 
+
+ Tellabs, 551 U.S. at 313, 322).  “The PSLRA balances these concerns by requiring courts to 
+ sort out the meritorious claims from the abusive ones early in litigation, and Tellabs obligates 
+ courts do so with care.”  Id.                                             
+      A.   Section 10(b) and Rule 10B-5                                    
+      Section 10(b) of the Act prohibits the use of “any manipulative or deceptive device or 
+ contrivance” in connection with the sale of a security in violation of SEC rules.  15 U.S.C. § 
+
+ 78j(b).  “Rule 10b–5 encompasses only conduct already prohibited by § 10(b).”  Stoneridge Inv. 
+ Partners, LLC v. Sci.-Atlanta, 552 U.S. 148, 157 (2008).                  
+      A typical § 10(b) action requires a plaintiff to prove six elements: “(1) a material 
+ misrepresentation or omission by the defendant; (2) scienter; (3) a connection between the 
+ misrepresentation or omission and the purchase or sale of a security; (4) reliance upon the 
+ misrepresentation or omission; (5) economic loss; and (6) loss causation.”  Maguire Fin., LP v. 
+
+ PowerSecure Int’l, Inc., 876 F.3d 541, 546 (4th Cir. 2017), cert. denied, 138 S. Ct. 2027 (2018) 
+(quoting Stoneridge, 552 U.S. at 157).  The Defendants contend that Plaintiffs’ Second Amended 
+Complaint has not cured the prior complaint’s pleading inadequacies, and they fail to plead an 
+actionable misrepresentation or omission and also still fail to adequately allege scienter.  The 
+
+PSLRA’s heightened pleading standard is applicable to these two elements.  Singer v. Reali, 883 
+F.3d 425, 449 (4th Cir. 2018) (quoting Teachers’ Ret. Sys. v. Hunter, 477 F.3d 162, 172 (4th Cir. 
+2007)).                                                                   
+      1.  Material Misrepresentations or Omissions                       
+     “The ‘complaint must include each statement alleged to have been misleading, the 
+reason . . . why the statement is misleading, and if an allegation regarding the statement or 
+
+omission is made on information and belief, the complaint shall state with particularity all facts 
+on which that belief is formed.’” Id. (quoting Teachers’, 477 F.3d at 172).  In its prior decision, 
+this Court, viewing the factual allegations as true, as it must under the dismissal standard, 
+concluded  that  although  many  of  Plaintiffs’  allegations  did  not  represent  actionable 
+misrepresentations, Plaintiffs made a plausible claim under the analysis of the alleged partial 
+disclosures, and there were also some allegations of statements regarding the financial outlook 
+
+for 2016 that satisfied the pleading requirement.  See In re Under Armour Sec. Litig., 342 F. Supp. 
+3d at 685, 689.9   It is unnecessary to perform another thorough analysis on this element.  As 
+before, there are sufficient allegations pled to move forward to the second of the six elements: 
+scienter.                                                                 
+
+
+9    Plaintiffs misstate this Court’s “findings” by, for example, stating that Plank, “as this Court has already 
+found, made material misrepresentations and omissions.”  (ECF No. 86 at 27.)  In the prior dismissal decision, 
+this Court did not make findings of fact, but held that Plaintiffs made sufficient factual allegations, accepted as 
+true, to satisfy the pleading standard with regard to this element.       
+      2.  Scienter                                                       
+    To establish scienter, a plaintiff must prove that the defendant acted with “a mental 
+state embracing intent to deceive, manipulate, or defraud.” Tellabs, 551 U.S. at 319.   Although 
+
+pleading either intentional or severely reckless conduct is sufficient to allege scienter, Yates, 
+744 F.3d at 884, a plaintiff must satisfy the exacting pleading requirements set forth in the 
+PSLRA as well as Rule 9(b) of the Federal Rules of Civil Procedure.  Tellabs, 551 U.S. at 313.  
+Indeed, pleading a “strong inference” of scienter is no small burden. See id. at 322-23 (“The 
+inquiry . . . is whether all of the facts alleged, taken collectively, give rise to a strong inference 
+of  scienter,  not  whether  any  individual  allegation,  scrutinized  in  isolation,  meets  that 
+
+standard.”).                                                              
+    “To survive a motion to dismiss in a § 10(b) complaint, the inference of scienter must 
+be more than merely reasonable or permissible—it must be cogent and compelling, thus strong 
+in light of other explanations.”  Maguire, 876 F.3d at 547 (citation omitted).  The plaintiff must 
+“plead facts rendering an inference of scienter at least as likely as any plausible opposing 
+inference.” Tellabs, 551 U.S. at 328; see also Yates, 744 F.3d at 885 (“A court must compare the 
+
+malicious and innocent inferences cognizable from the facts pled in the complaint, and only 
+allow the complaint to survive a motion to dismiss if the malicious inference is at least as 
+compelling as any opposing innocent inference.” (quoting Zucco Partners, LLC v. Digimarc Corp., 
+552 F.3d 981, 991 (9th Cir. 2009))).                                      
+    In sum, a court, while accepting all factual allegations as true,10 must consider the 
+complaint in its entirety, determine whether the alleged facts, taken collectively, give rise to an 
+inference of scienter, compare the strength of that inference to opposing inferences that could 
+
+also be drawn from the facts alleged, and determine whether the inference of scienter is at 
+least as strong as any opposing inference.                                
+    A reckless act, in the context of a § 10(b) claim, is one that is “so highly unreasonable 
+and such an extreme departure from the standard of ordinary care as to present a danger of 
+misleading the plaintiff to the extent that the danger was either known to the defendant or so 
+obvious that the defendant must have been aware of it.”  Yates, 744 F.3d at 884 (quoting Matrix 
+
+Capital Mgmt. Fund, LP v. BearingPoint, Inc., 576 F.3d 172, 181 (4th Cir. 2009)).  “Reckless 
+conduct sufficient to establish a strong inference of scienter is described as ‘severe.’” Zak, 780 
+F.3d at 606 (quoting Ottmann v. Hanger Orthopedic Grp., Inc., 353 F.3d 338, 344 (4th Cir. 2003)). 
+    In its prior decision, this Court stated:                            
+              Viewed  collectively,  and  taking  into  account  plausible 
+         opposing inferences, the factual allegations made by Plaintiffs do 
+         not support a strong inference of scienter. Additionally, Plaintiffs 
+         allegations are  not sufficiently  particular  as to the Individual 
+         Defendants for this Court to parse whether any one of them may  
+         be found to have made a material misrepresentation or omission  
+         with scienter. Plaintiffs frequently group Defendants together, 
+         especially when pleading knowledge or recklessness, which fails 
+         to satisfy the PSLRA’s heightened pleading standard applicable  
+         to the first two elements of the Section 10(b) cause of action.  
+In re Under Armour Sec. Litig., 342 F. Supp. 3d at 694.                   
+
+10   However, unlike the typical analysis in a motion to dismiss, the PSLRA does not require all reasonable 
+inferences to be construed in the light most favorable to plaintiffs, but rather requires plaintiffs to plead 
+sufficient facts to raise a strong inference of scienter.  Teachers’, 477 F.3d at 172. 
+    Plaintiffs had originally sued Under Armour and three individuals: Plank, and two 
+former Chief Financial Officers.  In the Second Amended Complaint, Plaintiffs sue only 
+Under Armour and Plank.  Each shall be addressed in turn.                 
+
+         a.  Plank                                                       
+    Defendants contend that Plaintiffs once again fail to provide any corroborating factual 
+allegations to support their allegation that Plank knew his statements were false or misleading 
+at the time he made them.  (Mot. Mem. 8, ECF No. 80-2.)  Defendants also assert that the 
+allegations of motive based on Plank’s stock sales are insufficient to support a strong inference 
+of scienter.  (Id. at 17.)                                                
+
+    In  the  Plaintiffs’  Second  Amended  Complaint,  allegations  have  been  added  to 
+demonstrate that the SportScan data cited in the Morgan Stanley Report was both reliable and 
+materially consistent with Under Armour’s internal data.  (See, e.g., ¶¶ 64-71, ECF No. 78.)  
+Plaintiffs assert that these allegations give rise to an inference that “Plank and Under Armour 
+knew, or recklessly disregarded, that the Company was experiencing undisclosed declining 
+demand for the Company’s core apparel products and, as a result, had resorted to pursuing 
+
+high volume, low-priced sales, which caused declining ASPs, reduced margins and excess 
+inventory.”  (ECF No. 86 at 2.)  Plaintiffs also argue that it is implausible to suggest that Plank 
+was not monitoring the Company’s performance using its internal accounting system and 
+regular reports.  (Id. at 3.)  Further, Plaintiffs include additional allegations related to Plank’s 
+stock sales during the Class Period in their attempt to support scienter with allegations of 
+motive.  (See, e.g., ¶¶ 86-93, ECF No. 78.)                               
+    Certainly, now that Plank is the only individual defendant being sued, the Plaintiffs’ 
+complaint no longer presents this Court with the prior complaint’s group pleading problems.  
+Therefore, this Court will focus on the holistic view of the scienter pleadings, taking into 
+
+account plausible opposing inferences, but not parsing out each allegation for individual 
+analysis.  See Matrixx Initiatives, Inc. v. Siracusano, 563 U.S. 27, 48 (2011).  Allegations, accepted 
+as true for purposes of a Motion to Dismiss, supporting an inference that Plank acted with 
+the required state of mind include:                                       
+      •  Plank had access to industry data as well as Under Armour’s detailed internal 
+         sales data such that he knew, or should have known, the actual state of Under 
+         Armour’s  sales,  market  share,  inventory  levels,  pricing,  and  demand  for 
+         particular styles.  (ECF No. 78 at ¶¶ 65-75.)                   
+      •  Plank addressed the Company’s performance at internal meetings in August or 
+         October 2016, discussing the possibility of lowering projections.  (Id. at ¶ 76.) 
+      •  Plank knew by the summer of 2016 that at least one of their largest customers 
+         was falling short of projections and made deals with that customer to book sales 
+         with the promise that products could be returned.  (Id. at ¶ 77.) 
+      •  Plank  knew  that  Sports  Authority  was  struggling  before  the  March  2016 
+         announcement that it would file for bankruptcy protection.  (Id. at ¶ 78.) 
+      •  Plank was motivated to maintain the public perception of the Company as the 
+         fast-growing challenger to the number one sportswear brand and keep share 
+         prices high because he was the largest shareholder.  (Id. at ¶ 84.) 
+      •  Plank profited during the Class Period by selling 2,300,000 Under Armour 
+         shares for $138.2 million.  (Id. at ¶ 85.)  The pattern of sales before and during 
+         the Class Period differed: for example, Plank averaged $23 million per selling 
+         month before the Class Period, but he averaged nearly $70 million per selling 
+         month during the Class Period.  (Id.)11 Plank has not sold any stock since April 
+         2016. (Id. at ¶ 91.)                                            
+
+11   Plaintiffs also alleged that the number of shares sold were out of line with Plank’s prior trading.  (ECF 
+No. 78 at ¶ 90.)  Defendants note that the numbers of shares sold is not an accurate comparison because of 
+      •  Within just a few days after Plank sold $38.2 million in stock between April 26-
+         29, 2016, on May 3, 2016, the Company announced the departures of two key 
+         executives with no reasons provided, which caused the Company’s share prices 
+         to drop and caused concern among analysts.   (Id. at ¶¶ 170-74.)  The departures 
+         were “influenced or precipitated by the Company’s myriad problems including 
+         the declining apparel sales growth, loss of market share, increased discounting, 
+         and elevated inventory levels.” (Id. at ¶ 173.)  On May 31, 2016, the Company 
+         announced it was lowering guidance for 2016, despite having raised it just a 
+         month earlier.  (Id. at ¶ 176.)                                 
+      •  Under Armour issued a $600 million bond offering in June 2016, after the 
+         Company had reported negative free cash flow in 2015 for the first time since 
+         2007,  which  was  known  to  Plank.    (Id.  at  ¶¶  98-99.)    The  bonds  were 
+         downgraded to junk status on February 1, 2017.  (Id. at ¶ 99.)  
+    In a nutshell, Plaintiffs’ allegations paint a picture that Plank, although he had access 
+to contradictory information, recklessly told investors that Under Armour’s core business was 
+incredibly strong, profitable, and gaining market share, while the Company was shifting from 
+a premium brand focus to competing on price, which Plank knew would result in a decline in 
+the Company’s market share and stock price.  Plaintiffs add allegations that Plank did this for 
+the purpose of keeping the stock price artificially inflated so that he could sell large quantities 
+of his own stock for $138 million in profit before the truth was revealed regarding the 
+Company’s sales decline and loss of market share, which caused the stock prices to drop. 
+    Defendants counter that Plank’s stock sales were neither unusual nor suspicious but 
+were made according to a pre-announced plan that was part of a long-term strategy to increase 
+liquidity without diluting his control, and he continues to hold 95% of the Company’s stock 
+so he has experienced the same decline in value.  Defendants argue that the most plausible 
+inference of the alleged facts is that the Company, which had experienced years of robust 
+
+the effect of three stock splits between July 2012 and April 2016, which increased Plank’s holdings from about 
+11 million shares to almost 70 million shares.  (ECF No. 80-2 at 21.)     
+growth continuing late into the Class Period, hit an unexpected slowdown.  Defendants note 
+facts, and lack of facts, that provide opposing inferences, including:    
+      •  Before the Class Period, in a June 15, 2015 letter to shareholders regarding the 
+         issuance of Class C Common Stock, Plank stated that the issuance of the Class 
+         C shares would allow him the flexibility of selling non-voting shares, which is 
+         what he did in April 2016 during the Class Period.  (ECF No. 78 at ¶ 87.)  Plank 
+         only sold stock that would not result in his loss of voting control.  (Id. at ¶ 86.)   
+      •  During the three years prior to the Class Period, Plank sold 4,758,754 shares for 
+         $322 million.  (Id. at ¶ 90.)  His total Class Period sales were less than his pre-
+         Class Period sales.                                             
+      •  As noted in this Court’s prior decision, Plank sold stock pursuant to a pre-
+         scheduled Rule 10b5-1 trading plan.  In re Under Armour Sec. Litig., 342 F. Supp. 
+         3d at 693.                                                      
+      •  Plank’s total sales of Under Armour shares during the Class Period, which 
+         included a 275,000 donation to his charitable foundation, represented 4.9% of 
+         his total holdings.  (ECF No. 80-2 at 20, n.12.)  Plank retained over 95% of his 
+         shares.  (Id. at 22.)                                           
+      •  Plank takes a nominal annual salary of $26,000 per year.  (ECF No. 80-2 at 22, 
+         n. 14; ECF No. 86 at 25, n.12.)                                 
+      •  There is no plausible reason why Plank would risk his reputation and career to 
+         perpetrate a fraud that would necessarily come to light and from which he 
+         derived no benefit. (ECF No. 93 at 2.)                          
+      •  Allegations  include  no  confidential  witnesses,  no  admissions,  no  internal 
+         documents, and no witnessed discussions to suggest that at the time Plank made 
+         the statements claimed to be misleading, he was aware that he was withholding 
+         vital information or had been warned that he was doing so.  (ECF No. 93 at 3.)  
+         There are no allegations regarding the Company’s accounting system providing 
+         Plank with data inconsistent with his statements.  (Id. at 6 n. 2.) 
+      •  Plank made statements that modified his enthusiasm and optimism, such as: 
+         “I’m not going to say I’m comfortable with the promotion out there in the 
+         market today, but I don’t know if that’s different than what we’ve seen in the 
+         last several years, either.” (ECF No. 78 at ¶ 197.)             
+      •  The statements alleged to have been made at internal company meetings in 2016 
+         were consistent with the Company’s October 2016 disclosures, in which the 
+         Company lowered its long-term projections.  (ECF No. 80-2 at 15.) 
+      •  Leading up to the Class Period, the Company had experienced 21 consecutive 
+         quarters with greater than 20% net revenue growth.  (ECF No. 78 at ¶ 36.)  That 
+         growth continued into the Class Period. (See id. (“For 26 consecutive quarters 
+         (over six years) spanning from 2Q10 to 3Q16, Under Armour reported an 
+         unwavering revenue growth rate of 20% or more (on a year-over-year basis)”.) 
+    Defendants generally assert that there are simply insufficient facts pled to create a 
+strong or compelling inference that Plank had the intent to deceive, manipulate, or defraud 
+investors.  This Court accepts that Plaintiffs’ allegations may be sufficient to state a facially 
+plausible claim under a typical dismissal standard, but plausibility in a vacuum is not enough 
+in the PSLRA context.  To survive a dismissal motion, a securities fraud complaint must do 
+more than state a facially “plausible” claim under Iqbal and Twombly because the sufficiency of 
+the allegations must be scrutinized under the heightened pleading requirements set forth in 
+the Private Securities Litigation Reform Act, which was intended to stiffen the requirements 
+for securities lawsuits and “make pleading scienter more difficult for plaintiffs.”  Phillips v. LCI 
+Int’l, Inc., 190 F.3d 609, 620 (4th Cir. 1999).  Therefore, if a court finds the inference that the 
+defendants “acted innocently, or even negligently, more compelling than the inference that 
+they acted with the requisite scienter,” the complaint should be dismissed. Pub. Emps.’ Ret. 
+Ass’n of Colo. v. Deloitte & Touche LLP, 551 F.3d 305, 313 (4th Cir. 2009).    
+    Plaintiffs  have  attempted  to  boost  their  allegations  with  opinions  from  experts 
+regarding the contemporaneous data that must have been available to Plank and the suspicious 
+timing of Plank’s stock sales.  As stated above, this Court does not credit these external 
+
+opinions on whether the allegations present a cogent and compelling inference of scienter.  
+After consideration of all the alleged facts and inferences, this Court concludes that the most 
+reasonable likely inference to be drawn is that Plank interpreted the data that was available to 
+him through the lens of the Company’s consistent success to date, attributed any non-
+
+conforming data to typical retail market challenges, and assumed the Company would continue 
+to rise above such challenges as it had always done in the past.  It is possible that Plank was 
+negligent by not paying more attention to non-conforming and negative sales data earlier than 
+he did, but there is no strong or compelling inference of deliberately intentional misconduct 
+or such severe recklessness that it rises to the level of fraud.  Marketing and management 
+mistakes that result in a stock price decline do not typically equate to securities fraud.  Further, 
+
+the inference that Plank’s stock sales during the Class Period were carefully timed to capitalize 
+on deliberately inflated stock prices is not as likely as the inference that Plank sold shares 
+during the Class Period as he’d previously announced was his plan.        
+    Accordingly, viewed in its entirety, the Second Amended Complaint fails to present a 
+cogent or compelling theory that Plank acted with the requisite scienter.  Count I against 
+Defendant Plank shall be dismissed.  Further amendment of Plaintiffs’ complaint asserting 
+
+securities fraud claims, which have now been amended three times, would be futile in light of 
+the fundamental failure to plead scienter, warranting dismissal with prejudice, consistent with 
+Defendants’ request in their motion.                                      
+         b.  The Company                                                 
+    Defendants also assert that Plaintiffs’ corporate scienter theory is deficient.  (Mot. 
+Mem. 23-28, ECF No. 80-2.)  “[I]f the defendant is a corporation, the plaintiff must allege 
+
+facts that support a strong inference of scienter with respect to at least one authorized agent 
+of the corporation, since corporate liability derives from the actions of its agents.” Teachers’, 
+477 F.3d at 184; see also Matrix, 576 F.3d at 189.  Plaintiffs assert that even if Plank did not act 
+with scienter, the Second Amended Complaint still adequately alleges scienter as to Under 
+
+Armour on the basis of non-Defendant employees’ scienter.  (ECF No. 86 at 32.)  Plaintiffs 
+allege that numerous senior executives, including Under Armour’s Chief Product Officer Kip 
+Fulks (“Fulks”) and Senior Vice President Brian Cummings (“Cummings”) had knowledge of, 
+or  recklessly  disregarded,  adverse  facts  concealed  by  Defendants’  Class  Period 
+misrepresentations. (ECF No. 78 at ¶¶ 109-113.)                           
+    Plaintiffs  allege  that  the  Company’s  senior  management,  including  Fulks  and 
+
+Cummings, had knowledge of declining demand, excess inventory, and margin compression.  
+(Id. at ¶¶ 109-110, 111-13.)  Plaintiffs also allege that Cummings orchestrated a deal with a 
+customer to order products it didn’t want with the promise that they could be returned, and 
+that 80% of more of the products were returned.  (Id. at ¶ 111.)  However, there are no 
+allegations that Fulks or Cummings provided information that was used in a misleading public 
+statement, and there are no allegations that Fulks or Cummings were involved with the 
+
+issuance of misstatements to the public.  Therefore, there is a failure to allege that the 
+corporate agents took any actions that would subject the corporation to liability.   Plaintiffs 
+assert that “scienter by management-level employees is generally sufficient to attribute scienter 
+to corporate defendants.” (ECF No. 86 at 33 (quoting In re Moody’s Corp. Sec. Litig., 599 F. 
+Supp. 2d 493, 516 (S.D.N.Y. 2009)).)  However, although Plaintiffs make a conclusory 
+statement that the executives had the requisite scienter, (ECF No. 78 at ¶ 109), Plaintiffs make 
+
+no factual allegations that the corporate agents acted with scienter.     
+    Accordingly, the Second Amended Complaint  fails to allege scienter that can be 
+imputed to Under Armour.  Count I against Defendant Under Armour shall be dismissed with 
+prejudice.                                                                
+
+    B.   Section 20(a)                                                   
+    Section 20(a) provides for derivative liability for those who control others found to be 
+primarily liable under the Act. 15 U.S.C. § 78t(a).  A claim of control person liability must 
+allege a predicate violation of Section 10(b).  Mun. Mortg., 876 F. Supp. 2d at 647.  As stated 
+above, this Court has concluded that Plaintiffs failed to plead a viable underlying 10(b) or Rule 
+10b–5 violation by Plank or the Company.  Since Plaintiffs must successfully allege a predicate 
+
+violation of the Act in order to proceed under § 20(a), failure of the scienter allegations of the 
+§ 10(b) claim is fatal to Plaintiffs’ § 20(a) claim.  Therefore, Count II shall be dismissed with 
+prejudice.                                                                
+    C.   Section 20A                                                     
+    In the Second Amended Complaint, Plaintiffs have added a Count III – For Violation 
+of Section 20A of the Exchange Act Against Defendant Plank.  (ECF No. 78 at 104.)  Section 
+
+20A provides for a private right of action to buyers and sellers of securities who trade 
+“contemporaneously” with an insider in possession of material nonpublic information.  15 
+U.S.C. § 78t–1(a).  “Like a claim for control person liability asserted under § 20(a), a § 20A 
+claim must contain a well-pled predicate violation of the Exchange Act.”  In re E. Spire Comms., 
+Inc. Sec. Litig., 127 F. Supp. 2d 734, 750 (D. Md. 2001).                 
+    This Court has concluded that Plaintiffs did not sufficiently plead scienter to support 
+a claim against Plank for securities fraud.  With no primary violation of the Exchange Act to 
+support a § 20A claim, it must also fail.  Therefore, Count III shall be dismissed with prejudice.    
+
+                         CONCLUSION                                      
+    For the reasons stated above,                                        
+         1.   Defendants’  Motion  to  Dismiss  Plaintiffs’  Consolidated  Second 
+              Amended Complaint (ECF No. 80) is GRANTED.                 
+         2.   Defendants’ Motion to Strike the Declarations of Mark A. Cohen and 
+              Professor M. Todd Henderson (ECF No. 79) is GRANTED.       
+         3.   Plaintiffs’  Motion  to  Strike  Exhibits  21,  23,  and  24  Attached  to 
+              Defendants’  Motion  to  Dismiss  Plaintiffs’  Consolidated  Second 
+              Amended Complaint (ECF No. 88) is GRANTED.                 
+         4.   Plaintiffs’ Consolidated Second Amended Complaint (ECF No. 78) is 
+              DISMISSED WITH PREJUDICE.                                  
+         5.   A separate order follows.                                  
+
+Dated:    August 19, 2019.                                                
+                                            /s/                                       
+                                       Richard D. Bennett                
+                                       United States District Judge      

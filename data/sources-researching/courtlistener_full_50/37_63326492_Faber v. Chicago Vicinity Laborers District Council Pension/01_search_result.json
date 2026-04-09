@@ -1,0 +1,145 @@
+{
+  "assignedTo": "P. Kevin Castel",
+  "assigned_to_id": 567,
+  "attorney": [
+    "Meenakshi Krishnan",
+    "Daniel M. Kummer",
+    "Elizabeth A. McNamara"
+  ],
+  "attorney_id": [
+    7630426,
+    7630797,
+    7645286
+  ],
+  "caseName": "Faber v. Chicago Vicinity Laborers District Council Pension Fund",
+  "case_name_full": "",
+  "cause": "M 08-85 Motion to Quash",
+  "chapter": null,
+  "court": "District Court, S.D. New York",
+  "court_citation_string": "S.D.N.Y.",
+  "court_id": "nysd",
+  "dateArgued": null,
+  "dateFiled": "2022-05-20",
+  "dateTerminated": "2022-06-06",
+  "docketNumber": "1:22-mc-00144",
+  "docket_absolute_url": "/docket/63326492/faber-v-chicago-vicinity-laborers-district-council-pension-fund/",
+  "docket_id": 63326492,
+  "firm": [
+    "Davis Wright Tremaine LLP",
+    "Davis Wright Tremaine LLP (NYC)",
+    "Nbc Universal Media, LLC"
+  ],
+  "firm_id": [
+    60928,
+    629496,
+    225999
+  ],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-06-13T13:03:56.213210Z",
+    "date_created": "2022-05-20T17:09:28.655348Z",
+    "score": {
+      "bm25": 1036.5126
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "580224",
+  "party": [
+    "David Faber",
+    "New York Hotel Trades Council & Hotel Association of New York City, Inc. Pension Fund",
+    "Chicago Vicinity Laborers District Council Pension Fund"
+  ],
+  "party_id": [
+    11590490,
+    11590491,
+    11590492
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/63326492/3/5/faber-v-chicago-vicinity-laborers-district-council-pension-fund/",
+      "attachment_number": 5,
+      "cites": [],
+      "description": "DECLARATION of Elizabeth A. McNamara in Support re: 1 MISCELLANEOUS CASE INITIATING DOCUMENT - MOTION to Quash Non-Party Subpoena . Other Court Name: United States District Court - Middle District of Tennessee. Other Court Case Number: 3:18-cv-00988-WLC-AEN. (Filing Fee $ 49.00, Receipt Nu. Document filed by David Faber. (Attachments: # 1 Exhibit A (Faber Subpoena), # 2 Exhibit B (Respondents' Amended Complaint), # 3 Exhibit C (Acadia's Motion to Dismiss), # 4 Exhibit D (Respondents' Opposition to Acadia's Motion to Dismiss), # 5 Exhibit E (Reply ISO Acadia's Motion to Dismiss), # 6 Exhibit F (Opinion Denying Motion to Dismiss), # 7 Exhibit G (Acadia's Answer), # 8 Exhibit H (Discovery Extension Order), # 9 Exhibit I (Respondents' Updated Motion for Class Certification), # 10 Exhibit J (Acadia's Opposition to Class Certification), # 11 Exhibit K (Allen Expert Report ISO Acadia's Opposition), # 12 Exhibit L (Respondents' Reply ISO Motion for Class Certification), # 13 Exhibit M (Dalrymple Rebuttal Report ISO Respondents Reply)).(McNamara, Elizabeth) (Entered: 05/20/2022)",
+      "docket_entry_id": 195669331,
+      "document_number": 3,
+      "document_type": "Attachment",
+      "entry_date_filed": "2022-05-20",
+      "entry_number": 3,
+      "filepath_local": "recap/gov.uscourts.nysd.580224/gov.uscourts.nysd.580224.3.5_1.pdf",
+      "id": 201335642,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-06-13T13:03:56.215314Z",
+        "date_created": "2022-05-20T17:45:27.411200Z"
+      },
+      "pacer_doc_id": "127031277943",
+      "page_count": 17,
+      "short_description": "Exhibit E (Reply ISO Acadia's Motion to Dismiss)",
+      "snippet": "Case 1:22-mc-00144 Document 3-5 Filed 05/20/22 Page 1 of 17\n\n\n\n\n             EXHIBIT E\n\f           Case 1:22-mc-00144 Document 3-5 Filed 05/20/22 Page 2 of 17\n\n\n\n\n                    IN THE UNITED STATES DISTRICT COURT\n                        MIDDLE DISTRICT OF TENNESSEE\n                             NASHVILLE DIVISION\n\n\nST. CLAIR COUNTY EMPLOYEES’                )   CIVIL ACTION NO.: 3:18-cv-00988\nRETIREMENT SYSTEM, Individually and on     )\nBehalf of All Others Similarly Situated,   )\n         "
+    },
+    {
+      "absolute_url": "/docket/63326492/3/6/faber-v-chicago-vicinity-laborers-district-council-pension-fund/",
+      "attachment_number": 6,
+      "cites": [],
+      "description": "DECLARATION of Elizabeth A. McNamara in Support re: 1 MISCELLANEOUS CASE INITIATING DOCUMENT - MOTION to Quash Non-Party Subpoena . Other Court Name: United States District Court - Middle District of Tennessee. Other Court Case Number: 3:18-cv-00988-WLC-AEN. (Filing Fee $ 49.00, Receipt Nu. Document filed by David Faber. (Attachments: # 1 Exhibit A (Faber Subpoena), # 2 Exhibit B (Respondents' Amended Complaint), # 3 Exhibit C (Acadia's Motion to Dismiss), # 4 Exhibit D (Respondents' Opposition to Acadia's Motion to Dismiss), # 5 Exhibit E (Reply ISO Acadia's Motion to Dismiss), # 6 Exhibit F (Opinion Denying Motion to Dismiss), # 7 Exhibit G (Acadia's Answer), # 8 Exhibit H (Discovery Extension Order), # 9 Exhibit I (Respondents' Updated Motion for Class Certification), # 10 Exhibit J (Acadia's Opposition to Class Certification), # 11 Exhibit K (Allen Expert Report ISO Acadia's Opposition), # 12 Exhibit L (Respondents' Reply ISO Motion for Class Certification), # 13 Exhibit M (Dalrymple Rebuttal Report ISO Respondents Reply)).(McNamara, Elizabeth) (Entered: 05/20/2022)",
+      "docket_entry_id": 195669331,
+      "document_number": 3,
+      "document_type": "Attachment",
+      "entry_date_filed": "2022-05-20",
+      "entry_number": 3,
+      "filepath_local": "recap/gov.uscourts.nysd.580224/gov.uscourts.nysd.580224.3.6_1.pdf",
+      "id": 201335643,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-06-13T13:03:56.215314Z",
+        "date_created": "2022-05-20T17:45:27.907282Z"
+      },
+      "pacer_doc_id": "127031277944",
+      "page_count": 17,
+      "short_description": "Exhibit F (Opinion Denying Motion to Dismiss)",
+      "snippet": "Case 1:22-mc-00144 Document 3-6 Filed 05/20/22 Page 1 of 17\n\n\n\n\n             EXHIBIT F\n\f            Case 1:22-mc-00144 Document 3-6 Filed 05/20/22 Page 2 of 17\n\n\n\n\n                    IN THE UNITED STATES DISTRICT COURT FOR THE\n                            MIDDLE DISTRICT OF TENNESSEE\n                                 NASHVILLE DIVISION\n\nST. CLAIR COUNTY EMPLOYEES’                       )\nRETIREMENT SYSTEM, Individually                   )\nand on Behalf of All Others Similar,              )\n      "
+    },
+    {
+      "absolute_url": "/docket/63326492/2/faber-v-chicago-vicinity-laborers-district-council-pension-fund/",
+      "attachment_number": null,
+      "cites": [
+        142888,
+        206316,
+        307107,
+        766471,
+        1654015,
+        2007458,
+        2379770,
+        2741514,
+        4017467,
+        4037382,
+        7240882,
+        8708843,
+        8713932,
+        9338517
+      ],
+      "description": "MEMORANDUM OF LAW in Support re: 1 MISCELLANEOUS CASE INITIATING DOCUMENT - MOTION to Quash Non-Party Subpoena . Other Court Name: United States District Court - Middle District of Tennessee. Other Court Case Number: 3:18-cv-00988-WLC-AEN. (Filing Fee $ 49.00, Receipt Nu . Document filed by David Faber..(McNamara, Elizabeth) (Entered: 05/20/2022)",
+      "docket_entry_id": 195668764,
+      "document_number": 2,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2022-05-20",
+      "entry_number": 2,
+      "filepath_local": "recap/gov.uscourts.nysd.580224/gov.uscourts.nysd.580224.2.0.pdf",
+      "id": 201334946,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-06-13T13:03:56.215314Z",
+        "date_created": "2022-05-20T17:37:24.157024Z"
+      },
+      "pacer_doc_id": "127031277728",
+      "page_count": 28,
+      "short_description": "Memorandum of Law in Support of Motion",
+      "snippet": "         Case 1:22-mc-00144 Document 2 Filed 05/20/22 Page 1 of 28\n\n\n\n\n                     UNITED STATES DISTRICT COURT\n                    SOUTHERN DISTRICT OF NEW YORK\n\n\nIN RE SUBPOENA ISSUED IN:                             1:22-mc-144\n                                            Misc. No. __________________\n\nSt. Clair County Employees’ Retirement            ORAL ARGUMENT REQUESTED\nSystem v. Acadia Healthcare Company, Inc.\net al., pending in the United States District for\nthe Middle District o"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

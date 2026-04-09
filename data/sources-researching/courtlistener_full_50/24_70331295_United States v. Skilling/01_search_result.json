@@ -1,0 +1,42 @@
+{
+  "assignedTo": null,
+  "assigned_to_id": null,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "United States v. Skilling",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "District Court, S.D. Georgia",
+  "court_citation_string": "S.D. Ga.",
+  "court_id": "gasd",
+  "dateArgued": null,
+  "dateFiled": "2025-04-12",
+  "dateTerminated": null,
+  "docketNumber": "4:25-po-51743",
+  "docket_absolute_url": "/docket/70331295/united-states-v-skilling/",
+  "docket_id": 70331295,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-05-21T19:47:43.896749Z",
+    "date_created": "2025-05-21T19:47:43.838700Z",
+    "score": {
+      "bm25": 3487.6396
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "110572",
+  "party": [
+    "United States",
+    "Skilling"
+  ],
+  "party_id": [],
+  "recap_documents": [],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

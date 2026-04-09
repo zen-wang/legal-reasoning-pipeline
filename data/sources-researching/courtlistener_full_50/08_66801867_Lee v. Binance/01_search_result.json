@@ -1,0 +1,162 @@
+{
+  "assignedTo": null,
+  "assigned_to_id": null,
+  "attorney": [
+    "David Coon, Esq., -",
+    "Jordan Goldstein, Esq., -",
+    "James P. Rouhandeh, -",
+    "Marie Killmond, Esq., -",
+    "Daniel J. Schwartz, -",
+    "Caitlin Joan Halligan, Esq., -"
+  ],
+  "attorney_id": [
+    8280312,
+    8280313,
+    8280314,
+    8280315,
+    8280316,
+    8280317
+  ],
+  "caseName": "Lee v. Binance",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "dateArgued": "2023-04-12",
+  "dateFiled": "2022-05-02",
+  "dateTerminated": "2024-03-08",
+  "docketNumber": "22-972",
+  "docket_absolute_url": "/docket/66801867/lee-v-binance/",
+  "docket_id": 66801867,
+  "firm": [
+    "Direct: 212-450-4000, Davis Polk & Wardwell, LLP",
+    "Direct: 212-450-4835, Davis Polk & Wardwell LLP",
+    "Direct: 212-450-4581, Davis Polk & Wardwell LLP",
+    "Selendy Gay Elsberg PLLC",
+    "Direct: 212-390-9000, Selendy & Gay, P.L.L.C.",
+    "Direct: 212-390-9000, Selendy Gay Elsberg, P.L.L.C."
+  ],
+  "firm_id": [
+    353248,
+    794058,
+    733418,
+    819570,
+    819571,
+    464508
+  ],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-03-02T01:06:30.760716Z",
+    "date_created": "2023-02-09T22:17:10.250587Z",
+    "score": {
+      "bm25": 1775.0006
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "57352",
+  "party": [
+    "Changpeng Zhao",
+    "Chase Williams, individually and on behalf of all others similarly situated",
+    "Binance",
+    "Token Fund I LLC",
+    "Brett Messieh",
+    "Ranjith Thiagarajan",
+    "Corey Hardin",
+    "JD Anderson",
+    "Eric Lee, individually and on behalf of all others similarly situated",
+    "David Muhammad",
+    "Roger Wang",
+    "Yi He"
+  ],
+  "party_id": [
+    12392464,
+    12392465,
+    12392466,
+    12392467,
+    12392468,
+    12392469,
+    12392470,
+    12392471,
+    12392472,
+    12392473,
+    12392474,
+    12392475
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/66801867/66/lee-v-binance/",
+      "attachment_number": null,
+      "cites": [
+        867111
+      ],
+      "description": "SO-ORDERED SCHEDULING NOTIFICATION, setting Appellee Binance and Changpeng Zhao Brief due date as 10/27/2022, FILED.[3363485] [22-972] [Entered: 08/11/2022 09:44 AM]",
+      "docket_entry_id": 219053078,
+      "document_number": 66,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2022-08-11",
+      "entry_number": 66,
+      "filepath_local": "recap/gov.uscourts.ca2.57352/gov.uscourts.ca2.57352.66.0.pdf",
+      "id": 225112711,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-03-09T08:19:45.771561Z",
+        "date_created": "2023-02-09T22:17:10.426188Z"
+      },
+      "pacer_doc_id": "00208964459",
+      "page_count": 1,
+      "short_description": "",
+      "snippet": "                           Case 22-972, Document 66, 08/11/2022, 3363485, Page1 of 1\n                                    UNITED STATES COURT OF APPEALS\n                                                    for the\n                                             SECOND CIRCUIT\n                                ____________________________________________\n\n       At a Stated Term of the United States Court of Appeals for the Second Circuit, held at the Thurgood\nMarshall United States Courthouse, 40 Foley"
+    },
+    {
+      "absolute_url": "/docket/66801867/14/lee-v-binance/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE OF APPEARANCE AS ADDITIONAL COUNSEL, on behalf of Appellee Binance and Changpeng Zhao, FILED. Service date 05/16/2022 by CM/ECF. [3316001] [22-972] [Entered: 05/16/2022 07:49 PM]",
+      "docket_entry_id": 224408177,
+      "document_number": 14,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2022-05-16",
+      "entry_number": 14,
+      "filepath_local": "recap/gov.uscourts.ca2.57352/gov.uscourts.ca2.57352.14.0.pdf",
+      "id": 230540478,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-03-09T08:21:11.073465Z",
+        "date_created": "2023-03-01T14:32:39.881682Z"
+      },
+      "pacer_doc_id": "00208840426",
+      "page_count": 1,
+      "short_description": "",
+      "snippet": "                         Case 22-972, Document 14, 05/16/2022, 3316001, Page1 of 1\n                  NOTICE OF APPEARANCE FOR SUBSTITUTE, ADDITIONAL, OR AMICUS COUNSEL\n\n\nShort Title: Lee, et al. v. Binance, et al.                            _____             Docket No.: 22-972 ________\n\nSubstitute, Additional, or Amicus Counsel’s Contact Information is as follows:\n\nName: Daniel        J. Schwartz\n\nFirm: Davis        Polk & Wardwell, LLP\n\nAddress: 450       Lexington Ave.\n\nTelephone:    (212) 450"
+    },
+    {
+      "absolute_url": "/docket/66801867/50/lee-v-binance/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE OF APPEARANCE AS ADDITIONAL COUNSEL, on behalf of Appellee Binance and Changpeng Zhao, FILED. Service date 06/14/2022 by CM/ECF. [3332283] [22-972] [Entered: 06/14/2022 11:31 AM]",
+      "docket_entry_id": 224408206,
+      "document_number": 50,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2022-06-14",
+      "entry_number": 50,
+      "filepath_local": "recap/gov.uscourts.ca2.57352/gov.uscourts.ca2.57352.50.0.pdf",
+      "id": 230540507,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-03-09T08:21:11.306091Z",
+        "date_created": "2023-03-01T14:32:40.306303Z"
+      },
+      "pacer_doc_id": "00208882925",
+      "page_count": 1,
+      "short_description": "",
+      "snippet": "                         Case 22-972, Document 50, 06/14/2022, 3332283, Page1 of 1\n                  NOTICE OF APPEARANCE FOR SUBSTITUTE, ADDITIONAL, OR AMICUS COUNSEL\n\n\nShort Title: Lee, et al. v. Binance, et al.                            _____             Docket No.: 22-972 ________\n\nSubstitute, Additional, or Amicus Counsel’s Contact Information is as follows:\n\nName: Marie        M. Killmond\n\nFirm: Davis        Polk & Wardwell, LLP\n\nAddress: 450       Lexington Ave.\n\nTelephone:    (212) 450-"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "3850 STATUTES-Secur Comm Exchange",
+  "trustee_str": null
+}

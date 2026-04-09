@@ -1,0 +1,657 @@
+{
+  "count": 24,
+  "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0xMzA0NDg0NDAwMDAwMC4wJnM9OTM5NiZ0PW9hJmQ9MjAyNi0wNC0wNSZwPTI%3D&page_size=3&q=United+States+v.+Elizabeth+Holmes&type=oa",
+  "previous": null,
+  "results": [
+    {
+      "absolute_url": "/audio/92617/united-states-v-elizabeth-a-holmes/",
+      "caseName": "United States v. Elizabeth A. Holmes",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "court_citation_string": "9th Cir.",
+      "court_id": "ca9",
+      "dateArgued": "2024-06-11",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "23-1040",
+      "docket_id": 68845976,
+      "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2024/06/11/23-1040.mp3",
+      "duration": 1261,
+      "file_size_mp3": 7645074,
+      "id": 92617,
+      "judge": "SCHROEDER, NGUYEN, NELSON",
+      "local_path": "mp3/2024/06/11/united_states_v._elizabeth_a._holmes_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-20T16:32:19.401511Z",
+        "date_created": "2024-06-11T19:30:39.976505Z",
+        "score": {
+          "bm25": 13394160000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        2403,
+        2871
+      ],
+      "sha1": "a6ecb292af2607ca98545203e041734268d5e492",
+      "snippet": "The final case is U.S. v. Holmes. This is the consolidated matter. Good morning, Your Honors. Patrick Luby of Williams & Connolly. I represent Defendant Appellant Elizabeth Holmes, and I'll be presenting argument on behalf of defendants from their consolidated appeal from the Court's restitution order. And I'd like to reserve two minutes of my time for rebuttal. All right. May it please the Court, this Court should vacate the restitution order because it is contrary to loss causation principles",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/92616/united-states-v-elizabeth-holmes/",
+      "caseName": "United States v. Elizabeth Holmes",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "court_citation_string": "9th Cir.",
+      "court_id": "ca9",
+      "dateArgued": "2024-06-11",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "22-10312",
+      "docket_id": 66746322,
+      "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2024/06/11/22-10312.mp3",
+      "duration": 2822,
+      "file_size_mp3": 17009971,
+      "id": 92616,
+      "judge": "SCHROEDER, NGUYEN, NELSON",
+      "local_path": "mp3/2024/06/11/united_states_v._elizabeth_holmes_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-20T16:32:19.468605Z",
+        "date_created": "2024-06-11T19:30:38.669852Z",
+        "score": {
+          "bm25": 13394160000000.0
+        }
+      },
+      "pacer_case_id": "341504",
+      "panel_ids": [
+        2403,
+        2871
+      ],
+      "sha1": "dc910be50d86baaa5d7b5349e09db9f01b8d4a4b",
+      "snippet": "Good morning, everyone. Just give me one moment to set up here. Well, we have three matters set for argument today, but they're all related. Judge Fodor, Judge Nelson, and I welcome you to the Ninth Circuit, and we look forward to hearing your arguments. The first case up is U.S. v. Holmes. When you're ready, counsel. Good morning, and may it please the Court. Amy Saharia for Appellant Elizabeth Holmes. I'd like to reserve five minutes for rebuttal. All right. I'll try to help you out, but as",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/89250/united-states-v-aaron-holmes-jr/",
+      "caseName": "United States v. Aaron Holmes, Jr.",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "court_citation_string": "9th Cir.",
+      "court_id": "ca9",
+      "dateArgued": "2023-12-05",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "22-10266",
+      "docket_id": 68064158,
+      "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2023/12/05/22-10266.mp3",
+      "duration": 2267,
+      "file_size_mp3": 13677635,
+      "id": 89250,
+      "judge": "COLLINS, FORREST, SUNG",
+      "local_path": "mp3/2023/12/05/united_states_v._aaron_holmes_jr._cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-22T18:25:05.821925Z",
+        "date_created": "2023-12-05T22:30:59.947674Z",
+        "score": {
+          "bm25": 13377830000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        8564
+      ],
+      "sha1": "55e81b0d9d3993139653eb85a07ebb188bc2404b",
+      "snippet": "Thank you, Your Honor. May it please the Court, my name is Elizabeth Krusek appearing on behalf of Mr. Aaron Holmes. I will watch the clock and try to reserve about two minutes for rebuttal. The District Court here erred in denying Mr. Holmes's motion to suppress. There's no question that Wilson applies and that there was a warrantless search that then kicked off the flow of evidence that was can be saved by two doctrines, the inevitable discovery doctrine and the good faith doctrine, and the",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/87854/united-states-v-momoud-abaji/",
+      "caseName": "United States v. Momoud Abaji",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "court_citation_string": "9th Cir.",
+      "court_id": "ca9",
+      "dateArgued": "2023-08-24",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "22-50074",
+      "docket_id": 67726198,
+      "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2023/08/24/22-50074.mp3",
+      "duration": 1320,
+      "file_size_mp3": 7997722,
+      "id": 87854,
+      "judge": "RAWLINSON, BRESS, Zouhary",
+      "local_path": "mp3/2023/08/24/united_states_v._momoud_abaji_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-22T18:57:55.740564Z",
+        "date_created": "2023-08-24T20:30:46.335851Z",
+        "score": {
+          "bm25": 13368931000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        2664,
+        14459
+      ],
+      "sha1": "aa8bd1ca873a4ed423787c288750eaf860e62636",
+      "snippet": "Thank you, Your Honor. Ben Coleman for the appellant, Momoud Abaji. I was going to start with the clear and convincing evidence standard of review. I had been away on vacation and I just learned that this court recently granted in-bank review in a case called United States v. Lucas, which may be considering this very issue. I'm going to ask that the court not defer this case pending Lucas. I was going to ask you about that, so thanks for raising that. And the first reason is a practical reason.",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/85511/people-v-lang/",
+      "caseName": "People v. Lang",
+      "case_name_full": "",
+      "court": "Appellate Court of Illinois",
+      "court_citation_string": "Ill. App. Ct.",
+      "court_id": "illappct",
+      "dateArgued": "2023-03-06",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "2-22-0091",
+      "docket_id": 66963494,
+      "download_url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/0df0bb3d-0887-4145-ab43-ff1c8657dff9/2-22-0091%20People%20v.%20Lang.mp3",
+      "duration": 2797,
+      "file_size_mp3": 16790998,
+      "id": 85511,
+      "judge": "",
+      "local_path": "mp3/2023/03/06/people_v._lang_cl.mp3",
+      "meta": {
+        "timestamp": "2025-02-12T17:30:43.681332Z",
+        "date_created": "2023-03-07T18:31:11.313429Z",
+        "score": {
+          "bm25": 13354156000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "fca7eb26aa2e540792b391f635573426c5466042",
+      "snippet": "We are now recording. Hear ye, hear ye, this Honorable Appellate Court for the Second Judicial District is now in session. The Honorable Susan F. Hutchinson presiding. Your Honors, the first case on the docket this morning is 2-22-0091, the people of the state of Illinois, Plaintiff Atlee v. Keith L. Lang, Defendant Appellant. Arguing for the appellant, Mr. Terry D. Slaw. Arguing for the appellee, Mr. John G. Barrett. Good morning, counsel, and thank you for the continuance last time. We had a",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/82088/united-states-v-oscar-hernandez-lopez/",
+      "caseName": "United States v. Oscar Hernandez-Lopez",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "court_citation_string": "9th Cir.",
+      "court_id": "ca9",
+      "dateArgued": "2022-07-25",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "21-15522",
+      "docket_id": 64346513,
+      "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2022/07/25/21-15522.mp3",
+      "duration": 1170,
+      "file_size_mp3": 7098230,
+      "id": 82088,
+      "judge": "GRABER, WARDLAW, Baker",
+      "local_path": "mp3/2022/07/25/united_states_v._oscar_hernandez-lopez_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-22T23:23:31.560055Z",
+        "date_created": "2022-07-25T18:30:43.771901Z",
+        "score": {
+          "bm25": 13334803000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        1256,
+        3371
+      ],
+      "sha1": "3c2685c5b27a6d8321f31dcfdc295f03363bb91b",
+      "snippet": "I'd like to reserve three minutes for rebuttal and I'll watch my time. Here Mr. Hernandez-Lopez's 924C conviction rests on a non-qualifying offense and requires relief. This claim is jurisdictional and therefore procedural default does not apply, but Mr. How is this claim jurisdictional? This claim is jurisdictional, Your Honor, because the 924C conviction is unconstitutional, therefore the indictment fails to state an offense. When the indictment fails to state an offense, as it does here, it",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/76604/nelson-v-united-states/",
+      "caseName": "Nelson v. United States",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "court_citation_string": "10th Cir.",
+      "court_id": "ca10",
+      "dateArgued": "2021-05-13",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "20-1267",
+      "docket_id": 59906158,
+      "download_url": "https://www.ca10.uscourts.gov/oralarguments/20/20-1267.mp3",
+      "duration": 2061,
+      "file_size_mp3": 12650571,
+      "id": 76604,
+      "judge": "",
+      "local_path": "mp3/2021/05/13/nelson_v._united_states_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-23T20:31:19.306438Z",
+        "date_created": "2021-05-14T00:31:58.531654Z",
+        "score": {
+          "bm25": 13296960000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "37df6543b887746735594aea0d5d6876b25633a2",
+      "snippet": "Okay, looks like we're ready to go. Our second case is 20-1267, Nelson v. United States. Mr. Himmelfarb, you may proceed. Thank you, Your Honor. May it please the Court, Edward Himmelfarb with the Department of Justice representing the United States. I would hope to be able to reserve two minutes for rebuttal. This is a federal tort claims act case in which the district court invoked a provision of the Equal Access to Justice Act to award attorney's fees against the United States based on a",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/69256/yucis-v-sears-outlet-stores-llc/",
+      "caseName": "Yucis v. Sears Outlet Stores LLC",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Third Circuit",
+      "court_citation_string": "3rd Cir.",
+      "court_id": "ca3",
+      "dateArgued": "2020-03-10",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "19-2484",
+      "docket_id": 16956096,
+      "download_url": "http://www2.ca3.uscourts.gov/Oralargument/audio/19-2484YucisvSearsOutletStoresLLC.mp3",
+      "duration": 2838,
+      "file_size_mp3": 17401526,
+      "id": 69256,
+      "judge": "",
+      "local_path": "mp3/2020/03/10/yucis_v._sears_outlet_stores_llc_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T07:04:13.086466Z",
+        "date_created": "2020-03-11T15:33:47.390031Z",
+        "score": {
+          "bm25": 13259895000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "dc019a56ed11349dd8373ee197b1b135d435b7a1",
+      "snippet": "Next matter is Yucis v. Sears Outlet Stores. Good morning, Your Honors. Good morning. Deborah Maines for the appellant Elizabeth Yucis. Before I begin, I would like to request three minutes for rebuttal. Okay. Thank you. Ms. Maines, correct me if I'm wrong. It seems to me the district court here relied upon two things. One, you didn't plead actual or constructive knowledge. And two, you didn't allege that you weren't able to get, as a result of the conduct, you weren't able to get a",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/65941/kci-usa-inc-v-healthcare-essentials-inc/",
+      "caseName": "KCI USA Inc v. Healthcare Essentials Inc",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Sixth Circuit",
+      "court_citation_string": "6th Cir.",
+      "court_id": "ca6",
+      "dateArgued": "2019-10-17",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "18-3934-18-3937-18-4000",
+      "docket_id": 16350584,
+      "download_url": "http://www.opn.ca6.uscourts.gov/internet/court_audio/recent/10-17-2019 - Thursday/18-3934 18-3937 18-4000 KCI USA Inc v Healthcare Essentials Inc.mp3",
+      "duration": 3032,
+      "file_size_mp3": 18592817,
+      "id": 65941,
+      "judge": "",
+      "local_path": "mp3/2019/10/17/kci_usa_inc_v._healthcare_essentials_inc_cl_1.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T07:55:49.754597Z",
+        "date_created": "2019-10-18T15:32:08.508629Z",
+        "score": {
+          "bm25": 13247366000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "de56d4869a4ab8807d6a0c9aced31f84705e51fe",
+      "snippet": "Cases 18-3934, 18-3937, and 18-4000. KCI USA Inc v. Healthcare Essentials Inc et al. Argument not to exceed 20 minutes per side. Mr. Reed, when you're prepared, you may proceed for the appellants. Good morning, Your Honors. My name is Orville Reed, and I, along with my partner, David Hilkert, briefed this matter on behalf of the Cabbage Firm. And co-counsel, Mr. Cornett, who is at the trial table with me today, and his associate, Melissa Kelly, briefed the issues on behalf of the individual",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/63541/conservation-congress-v-usfs/",
+      "caseName": "Conservation Congress v. USFS",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Ninth Circuit",
+      "court_citation_string": "9th Cir.",
+      "court_id": "ca9",
+      "dateArgued": "2019-05-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "18-17165",
+      "docket_id": 15525007,
+      "download_url": "https://cdn.ca9.uscourts.gov/datastore/media/2019/05/14/18-17165.mp3",
+      "duration": 2411,
+      "file_size_mp3": 14693585,
+      "id": 63541,
+      "judge": "N.R. Smith, Watford, R. Nelson",
+      "local_path": "mp3/2019/05/14/conservation_congress_v._usfs_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T12:50:10.821742Z",
+        "date_created": "2019-05-15T00:30:47.447983Z",
+        "score": {
+          "bm25": 13233888000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        2385,
+        3385
+      ],
+      "sha1": "51a4a7b4ddba8bf4cbab24dd631781aba666486d",
+      "snippet": "Before we start the clock, I have a quick question for you, just in terms of the timing. I'm under the impression that you need a decision from our court by a date certain or something like that, and I can't remember what the date is and what the reason for that is. Yes, Your Honor. We had requested an expedited hearing, which we appreciate, because the Forest Service provided a status report to the District Court indicating that it would begin logging in 2019 in late June. I think the date was",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/63153/bp-exploration-prodn-inc-v-id/",
+      "caseName": "BP Exploration & Prodn, Inc. v. ID",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Fifth Circuit",
+      "court_citation_string": "5th Cir.",
+      "court_id": "ca5",
+      "dateArgued": "2019-04-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "18-30659",
+      "docket_id": 15030008,
+      "download_url": "http://www.ca5.uscourts.gov/OralArgRecordings/18/18-30659_4-30-2019.mp3",
+      "duration": 2741,
+      "file_size_mp3": 16780313,
+      "id": 63153,
+      "judge": "",
+      "local_path": "mp3/2019/04/30/bp_exploration__prodn_inc._v._id_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T08:06:43.692423Z",
+        "date_created": "2019-04-30T22:33:30.813501Z",
+        "score": {
+          "bm25": 13232679000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "f2a0fe3993252e422268af87a5e6be2d0a0b13d8",
+      "snippet": "Call the third case of the morning, number 18-30659, BP Exploration v. Claimant ID 100139132. My personal campaign is from now on to identify claimants because I can't do five-digit numbers. And in this case, the claimant is the well-known law firm Phelps Dunbar. I know. You know it, and I know it, and now the world knows it. Okay, we'll hear from Ms. Rosenberg, I think. No. No, I'm sorry. You're right. Ms. Rosenberg. Good morning and may it please the Court. Elizabeth Rose for the Appellant BP.",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/59892/estate-of-james-roemer-v-johnson/",
+      "caseName": "Estate of James Roemer v. Johnson",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "court_citation_string": "10th Cir.",
+      "court_id": "ca10",
+      "dateArgued": "2018-11-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "17-1418",
+      "docket_id": 8190982,
+      "download_url": "https://www.ca10.uscourts.gov/sites/default/files/clerk/17-1418.MP3",
+      "duration": 1942,
+      "file_size_mp3": 11935211,
+      "id": 59892,
+      "judge": "",
+      "local_path": "mp3/2018/11/14/estate_of_james_roemer_v._johnson_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T08:15:16.982480Z",
+        "date_created": "2018-11-14T22:49:22.934784Z",
+        "score": {
+          "bm25": 13218249000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "7043265b6671a9433d134e5230b53ea8db2c4c1a",
+      "snippet": "before us today is the estate of Roemer versus Chihuahua number 17-1418 counsel will you make your appearance good morning my name is Elizabeth Owen I represent the estate of James Roemer it is either true that a failure to protect claim requires proof of a defendant's subjective knowledge or that a failure to protect claim accrues when a prisoner himself becomes aware of a risk to his safety but those two things cannot be true at the same time the problem with the district courts order in this",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/58624/united-states-v-trzaska/",
+      "caseName": "United States v. Trzaska",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "court_citation_string": "10th Cir.",
+      "court_id": "ca10",
+      "dateArgued": "2018-09-27",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "17-4117",
+      "docket_id": 7947221,
+      "download_url": "https://www.ca10.uscourts.gov/sites/default/files/clerk/17-4117.MP3",
+      "duration": 1683,
+      "file_size_mp3": 10378513,
+      "id": 58624,
+      "judge": "",
+      "local_path": "mp3/2018/09/27/united_states_v._trzaska_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T12:54:25.078918Z",
+        "date_created": "2018-09-27T20:51:31.664737Z",
+        "score": {
+          "bm25": 13214102000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "d8479020bc74b27a852671c392ac2e1d0f1dafa0",
+      "snippet": "Next case this morning is United States v. Trzaska, case number 17-4117. Counsel, would you make your appearance, please? May it please the Court, Jacob Rocheveau for the appellant Edward Trzaska. The District Court denied Mr. Trzaska's motion to expunge solely on the grounds that he failed to establish an unlawful arrest or other government misconduct. This was error for two reasons. First, a showing of government misconduct is not a necessary precondition for expungement, as the District Court",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/38760/green-v-life-insurance-company-of-north-america/",
+      "caseName": "Green v. Life Insurance Company of North America",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Tenth Circuit",
+      "court_citation_string": "10th Cir.",
+      "court_id": "ca10",
+      "dateArgued": "2018-07-27",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "17-1383",
+      "docket_id": 7823753,
+      "download_url": "https://www.ca10.uscourts.gov/sites/default/files/clerk/17-1383.mp3",
+      "duration": 1681,
+      "file_size_mp3": 10367095,
+      "id": 38760,
+      "judge": "",
+      "local_path": "mp3/2018/07/27/green_v._life_insurance_company_of_north_america_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T09:17:11.942219Z",
+        "date_created": "2018-09-07T18:46:26.049496Z",
+        "score": {
+          "bm25": 13208745000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "ad1a746253f4b473d5d4f1bd5e35c07c9711c3a3",
+      "snippet": "Good morning. My name is Elizabeth Walker and I'm here on behalf of Appellant Mr. Michael Green. I'd like to take just a minute and deal with the arguments regarding the sliding scale and the deference that should be given to Lena's decision in this case. First, I'll say that with all due respect, the district court was incorrect with its conclusions regarding the questions that were put to Lena's second medical reviewer, Dr. George Yannick. The district court concluded that there was nothing",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/28655/lester-gerard-packingham-v-north-carolina/",
+      "caseName": "Packingham v. North Carolina",
+      "case_name_full": "",
+      "court": "Supreme Court of the United States",
+      "court_citation_string": "SCOTUS",
+      "court_id": "scotus",
+      "dateArgued": "2017-02-27",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "15-1194",
+      "docket_id": 4613363,
+      "download_url": "http://www.supremecourt.gov/media/audio/mp3files/15-1194.mp3",
+      "duration": 3666,
+      "file_size_mp3": 22606397,
+      "id": 28655,
+      "judge": "",
+      "local_path": "mp3/2017/02/27/packingham_v._north_carolina_cl.mp3",
+      "meta": {
+        "timestamp": "2026-03-12T20:37:47.436817Z",
+        "date_created": "2017-03-03T18:30:44.004681Z",
+        "score": {
+          "bm25": 13164250000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        77,
+        384,
+        1213,
+        1691,
+        1747,
+        2738,
+        3045,
+        3200
+      ],
+      "sha1": "4ab0eb7b0d4aba411ad3a8547c5957836f16c0b2",
+      "snippet": "We'll hear argument first this morning in Case 15-1194, Packingham v. North Carolina. Mr. Goldberg. Mr. Chief Justice, and may it please the Court, there are three principal features of North Carolina's law that make it a stark abridgment of the freedom of speech. First, Section 202.5 reaches vast swaths of core First Amendment activity that is totally unrelated to the government's preventative purpose. Mr. Packingham was not accused of communicating with or viewing the profile of a minor. He",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/26021/united-states-v-jesse-featherly/",
+      "caseName": "United States v. Jesse Featherly",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Seventh Circuit",
+      "court_citation_string": "7th Cir.",
+      "court_id": "ca7",
+      "dateArgued": "2016-10-05",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "15-3854",
+      "docket_id": 4469353,
+      "download_url": "http://media.ca7.uscourts.gov/sound/external/lj.15-3854.15-3854_10_05_2016.mp3",
+      "duration": 1351,
+      "file_size_mp3": 8563365,
+      "id": 26021,
+      "judge": "",
+      "local_path": "mp3/2016/10/05/united_states_v._jesse_featherly_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T10:01:43.593810Z",
+        "date_created": "2016-10-05T19:30:48.398841Z",
+        "score": {
+          "bm25": 13151721000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "8ca4dd3dadeb02d38bbf6e5821b7d12d99bfb22e",
+      "snippet": "The court will proceed to the sixth case, United States v. Featherly. Mr. Bugney. Judge Blum. Good to see you again. It's always good to be here. Always good to be here. May it please the court, my name is Joe Bugney. I'm with Federal Defender Services of Wisconsin. I represent Mr. Featherly. There are very few certainties in life. One, death. The other, taxes. And then that technology is going to change. And with technology's changes, our lives are going to change. And when our lives change,",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/17532/save-our-sandy-v-the-department-of-agriculture/",
+      "caseName": "Save Our Sandy v. The Department of Agriculture",
+      "case_name_full": "",
+      "court": "Appellate Court of Illinois",
+      "court_citation_string": "Ill. App. Ct.",
+      "court_id": "illappct",
+      "dateArgued": "2016-05-03",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "4-15-0582",
+      "docket_id": 3082777,
+      "download_url": "http://multimedia.illinois.gov/court/AppellateCourt/Audio/2016/4th/050316_4-15-0582.mp3",
+      "duration": 2643,
+      "file_size_mp3": 15884103,
+      "id": 17532,
+      "judge": "",
+      "local_path": "mp3/2016/05/03/save_our_sandy_v._the_department_of_agriculture_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T12:12:29.086801Z",
+        "date_created": "2016-06-24T20:13:12.456164Z",
+        "score": {
+          "bm25": 13138330000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "57fe3813242d70e948ea7999df5fca350d1edc9b",
+      "snippet": "The next case is 4-15-0582, Save Our Sandy, Appellant v. Department of Agriculture et al., Appelese. Appearing for the appellant, it would be Austin Moore, correct? And then for the, and I should note for the record, Mr. Moore, you are appearing here under the supervision of Attorney Elizabeth Huberts, is that correct? Correct. All right, thank you. And then for the Appelese, Attorney Manning, could you state your appearance? Yes, Donald Manning for PMC Management Corp. All right, thank you. And",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/10702/tyler-d-allen-v-jeffrey-j-allen/",
+      "caseName": "GPX International Tire Corp. v. United States",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Federal Circuit",
+      "court_citation_string": "Fed. Cir.",
+      "court_id": "cafc",
+      "dateArgued": "2015-01-08",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "A14A2278",
+      "docket_id": 2622005,
+      "download_url": "http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2014-1188.mp3",
+      "duration": 2345,
+      "file_size_mp3": 14790491,
+      "id": 10702,
+      "judge": "",
+      "local_path": "mp3/2015/01/08/gpx_international_tire_corp._v._united_states_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T12:47:13.404825Z",
+        "date_created": "2015-01-08T21:42:33.655876Z",
+        "score": {
+          "bm25": 13096771000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "983b06b1164ac3c7f4c8fa03df99214dcd119c01",
+      "snippet": "We have three argued cases this morning. The first of these is No. 14-1188, GPX International Tire Corporation v. United States. Mr. Dirling. Good morning, Your Honors. My name is James Dirling appearing today on behalf of the appellants. Your Honors, imagine you go home today and you get a notice from the IRS saying that you owe a 15% tax on your consumption. This is a wholly new tax. The IRS proposes to tax both your income when you earn it and then your income when you spend it. You think",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/785/kight-v-cashcall/",
+      "caseName": "Investiture_Cheryl Ann Krause",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Third Circuit",
+      "court_citation_string": "3rd Cir.",
+      "court_id": "ca3",
+      "dateArgued": "2014-10-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "D063363",
+      "docket_id": 2592472,
+      "download_url": "http://www2.ca3.uscourts.gov/Oralargument/audio/Investiture_CherylAnnKrause.mp3",
+      "duration": 4617,
+      "file_size_mp3": 28077635,
+      "id": 785,
+      "judge": "",
+      "local_path": "mp3/2014/10/14/investiture_cheryl_ann_krause_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-28T05:14:41.843844Z",
+        "date_created": "2014-11-04T21:43:42.271787Z",
+        "score": {
+          "bm25": 13089341000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [],
+      "sha1": "368f119ebf34620c51ef993dfe037ea47cae7da3",
+      "snippet": "All rise. The Honorable Justice of the United States Court of Appeals for the Third Circuit. The Honorable Justice of the United States Court of Appeals for the Third Circuit. Here. He's here. He's here. Here. What's your name, please? Thank you. Would I ask that you please remain standing for the presentation of the colors? 1, 2, 3, 4, 5, 6, 7, 8. 1, 2, 3, 4, 5, 6, 7, 8. Thank you. And I also ask that you remain standing a little bit longer while John Robert Evans presents the Pledge of",
+      "source": "C"
+    },
+    {
+      "absolute_url": "/audio/9396/people-v-oconnell-ca6/",
+      "caseName": "United States v. Troy Baylor",
+      "case_name_full": "",
+      "court": "Court of Appeals for the Fourth Circuit",
+      "court_citation_string": "4th Cir.",
+      "court_id": "ca4",
+      "dateArgued": "2013-05-17",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "H036994",
+      "docket_id": 2605863,
+      "download_url": "http://coop.ca4.uscourts.gov/OAarchive/mp3/12-4347-20130517.mp3",
+      "duration": 2428,
+      "file_size_mp3": 15002587,
+      "id": 9396,
+      "judge": "Paul V. Niemeyer, G. Steven Agee, Stephanie D. Thacker",
+      "local_path": "mp3/2013/05/17/united_states_v._troy_baylor_cl.mp3",
+      "meta": {
+        "timestamp": "2024-06-25T12:50:28.220324Z",
+        "date_created": "2014-11-19T01:07:52.243815Z",
+        "score": {
+          "bm25": 13044844000000.0
+        }
+      },
+      "pacer_case_id": "",
+      "panel_ids": [
+        64,
+        2412,
+        3194
+      ],
+      "sha1": "c52ac5fe3003d1f2dfdb40c0e19545a1c4a963b6",
+      "snippet": "and Ms. Haynes, whenever you're ready to hear from you. Good morning, your honors. My name is Elizabeth Haynes. I'm an assistant federal public defender. With me at council table are Kevin Johnson and Fran Pratt. Your honors, the time has come for this court to recognize what numerous other circuit courts and Supreme Courts have recognized, that there are a host of problems associated with eyewitness identification. Juries need to be told what these problems are, and the government does not",
+      "source": "H"
+    }
+  ]
+}

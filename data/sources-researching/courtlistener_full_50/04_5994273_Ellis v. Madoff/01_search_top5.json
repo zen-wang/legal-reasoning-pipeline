@@ -1,0 +1,754 @@
+[
+  {
+    "assignedTo": "Marilyn L. Huff",
+    "assigned_to_id": 1545,
+    "attorney": [
+      "Lamar Ellis",
+      "Energetic Psychoanalytic Institute and Training School Inc."
+    ],
+    "attorney_id": [
+      6882816,
+      6882817
+    ],
+    "caseName": "Ellis v. Madoff",
+    "case_name_full": "",
+    "cause": "28:1331sv Fed. Question:  Securities Violation",
+    "chapter": null,
+    "court": "District Court, S.D. California",
+    "court_citation_string": "S.D. Cal.",
+    "court_id": "casd",
+    "dateArgued": null,
+    "dateFiled": "2010-06-17",
+    "dateTerminated": "2010-07-15",
+    "docketNumber": "3:10-cv-01295",
+    "docket_absolute_url": "/docket/5994273/ellis-v-madoff/",
+    "docket_id": 5994273,
+    "firm": [
+      "Lamar Ellis"
+    ],
+    "firm_id": [
+      22984
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-03T23:03:48.285126Z",
+      "date_created": "2017-04-29T13:13:31.664597Z",
+      "score": {
+        "bm25": 835.5516
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "326309",
+    "party": [
+      "Thadarine McIntosh",
+      "Energetic Psychoanalytic Institute and Training School Inc.",
+      "Investment Securities LLC",
+      "Pioneer Investment Firm",
+      "Moody Rating Agency",
+      "Lamelli LTD Partnership",
+      "AMSOUTH Bank",
+      "Deposit Guaranty National Bank",
+      "Dr. Lamar Ellis Charitable Remainder Trust",
+      "Lamar Ellis' Trust",
+      "Regions Bank",
+      "Lamar Ellis Revocable Trust",
+      "Lamar Ellis",
+      "Fitch Rating LTD",
+      "United States Securities and Exchange Commission",
+      "Standard and Poor's Rating Agency",
+      "Bernard L. Madoff"
+    ],
+    "party_id": [
+      10507748,
+      10507749,
+      10507750,
+      10507751,
+      10507752,
+      10507753,
+      10507754,
+      10507755,
+      10507756,
+      10507757,
+      10507758,
+      10507759,
+      10507760,
+      10507761,
+      10507762,
+      10507763,
+      10507764
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/5994273/1/ellis-v-madoff/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT with Jury Demand against AMSOUTH Bank, Deposit Guaranty National Bank, Fitch Rating LTD, Investment Securities LLC, Bernard Madoff, Thadarine McIntosh, Moody Rating Agency, Pioneer Investment Firm, Regions Bank, Standard and Poor's Rating Agency, United States Securities and Exchange Commission (Filing fee $ 350.00 - Fee not paid, IFP Pending.), filed by Lamar Ellis, Dr. Lamar Ellis Charitable Remainder Trust, Lamar Ellis' Trust, Lamar Ellis Revocable Trust, Lamelli LTD Partnership, Energetic Psychoanalytical Institute and Training School Inc..(yeb) Modified on 6/18/2010 to correct party names (yeb) (mam). (Main Document 1 replaced on 6/21/2010) (yeb). (Entered: 06/18/2010)",
+        "docket_entry_id": 157753636,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2010-06-17",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 162851345,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-11-13T07:57:19.403423Z",
+          "date_created": "2021-03-05T08:26:04.676651Z"
+        },
+        "pacer_doc_id": "03704642197",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/5994273/8/ellis-v-madoff/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER granting 7 Motion for Leave to File First Amended Complaint. The Court dismisses from this case parties not named in the First Amended Complaint the following parties: Dr. Lamar Ellis Charitable Remainder Trust, Lamar Ellis Trust, Lamar Ellis Revocable Trust, Lamelli LTD Partnership, Energetic Psychoanalytic Institute and Training School Inc., Pioneer Investment Firm, United States Securities and Exchange Commission, Moody Rating Agency, Fitch Rating Ltd., and Standard and Poors Rating Agency. The Court DISMISSES Plaintiffs First Amended Complaint pursuant to Fed. R. Civ. P. 12(b)(6) for failure to state a claim. Signed by Judge Marilyn L. Huff on 07/15/2010. (All non-registered users served via U.S. Mail Service)(ag) (av1). (Entered: 07/16/2010)",
+        "docket_entry_id": 157753642,
+        "document_number": 8,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2010-07-15",
+        "entry_number": 8,
+        "filepath_local": null,
+        "id": 162851351,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-11-13T07:57:19.403423Z",
+          "date_created": "2021-03-05T08:26:04.873187Z"
+        },
+        "pacer_doc_id": "03704720695",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/5994273/4/ellis-v-madoff/",
+        "attachment_number": null,
+        "cites": [
+          104598,
+          250797,
+          442925,
+          762241
+        ],
+        "description": " ORDER (1) Denying (Doc.  2 ) Motion for Leave to Proceed in Forma Pauperis Without Prejudice; (2) Directing Plaintiff to Pay the Filing Fee; Denying (Doc.  3 ) Motion to Appoint Counsel Without Prejudice.  If Plaintiff seeks to continue with this act ion, he must, no later than 30 days from the date this Order is filed, pay the $350.00 filing fee. If Plaintiff fails to comply with this Order, the Court will dismiss the case. Signed by Judge Marilyn L. Huff on 6/21/2010.  (All non-registered users served via U.S. Mail Service)(cap)(jrl).",
+        "docket_entry_id": 19312510,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2010-06-21",
+        "entry_number": 4,
+        "filepath_local": "recap/gov.uscourts.casd.326309/gov.uscourts.casd.326309.4.0.pdf",
+        "id": 20165554,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-11-13T07:57:19.041764Z",
+          "date_created": "2017-04-29T13:13:31.691181Z"
+        },
+        "pacer_doc_id": "03704651966",
+        "page_count": 4,
+        "short_description": "",
+        "snippet": " Case 3:10-cv-01295-H-JMA Document 4 Filed 06/21/10 PageID.19 Page 1 of 4\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8                         UNITED STATES DISTRICT COURT\n 9                      SOUTHERN DISTRICT OF CALIFORNIA\n10\n11    LAMAR ELLIS; DR. LAMAR ELLIS                        CASE NO. 10-CV-1295-H (JMA)\n      CHARITABLE REMAINDER TRUST;\n12    LAMAR ELLIS’ TRUST; LAMAR                           ORDER\n      ELLIS REVOCABLE TRUST;\n13    LAMELLI LTD PARTNERSHIP; and                        (1) DENYING WITH"
+      }
+    ],
+    "referredTo": "Jan M Adler",
+    "referred_to_id": 10034,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Arthur Donald Spatt",
+    "assigned_to_id": 3051,
+    "attorney": [
+      "Kimberly B. Malerba",
+      "Mark S. Mulholland"
+    ],
+    "attorney_id": [
+      993193,
+      1353110
+    ],
+    "caseName": "Kellner v. Madoff",
+    "case_name_full": "",
+    "cause": "18:1961 Racketeering (RICO) Act",
+    "chapter": null,
+    "court": "District Court, E.D. New York",
+    "court_citation_string": "E.D.N.Y",
+    "court_id": "nyed",
+    "dateArgued": null,
+    "dateFiled": "2008-12-12",
+    "dateTerminated": "2014-09-17",
+    "docketNumber": "2:08-cv-05026",
+    "docket_absolute_url": "/docket/4319580/kellner-v-madoff/",
+    "docket_id": 4319580,
+    "firm": [
+      "Ruskin Moscou Faltischek, P.C."
+    ],
+    "firm_id": [
+      150626,
+      298179
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-03T07:03:14.784249Z",
+      "date_created": "2016-08-21T14:56:32.839010Z",
+      "score": {
+        "bm25": 820.43506
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "287154",
+    "party": [
+      "Irwin Kellner",
+      "Irving H. Picard, Trustee for the Substantively Consolidated SIPA Liquidation of Bernard L. Madoff Investment Securities LLC and Bernard L. Madoff",
+      "John Does 1-100",
+      "Bernard L. Madoff",
+      "Bernard L. Madoff Investment Securities LLC"
+    ],
+    "party_id": [
+      49544,
+      650290,
+      650291,
+      650292,
+      650293
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/4319580/1/kellner-v-madoff/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT (rec. #28341) against Bernard L. Madoff, Bernard L. Madoff Investment Securities LLC, John Does 1-100 $ 350, filed by Irwin Kellner. (Attachments: # 1 Civil Cover Sheet) (Rodecker, John) (Entered: 12/15/2008)",
+        "docket_entry_id": 8862128,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2008-12-12",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.nyed.287154.1.0.pdf",
+        "id": 6653413,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-03-29T20:07:08.103273Z",
+          "date_created": "2016-08-21T14:56:32.854526Z"
+        },
+        "pacer_doc_id": "12304449211",
+        "page_count": 28,
+        "short_description": "",
+        "snippet": "Kellner v. Madoff et al              Doc. 1\n\n\n\n\n                          Dockets.Justia.com\n\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f\f"
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Summons Issued as to Bernard L. Madoff, Bernard L. Madoff Investment Securities LLC, John Does 1-100. (Rodecker, John)",
+        "docket_entry_id": 157881622,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2008-12-12",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 162979408,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-14T21:06:58.641418Z",
+          "date_created": "2021-03-05T12:19:22.476664Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/4319580/2/kellner-v-madoff/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "SUMMONS Returned Executed by Irwin Kellner. Bernard L. Madoff Investment Securities LLC served on 12/15/2008, answer due 1/5/2009. (Mulholland, Mark) (Entered: 12/15/2008)",
+        "docket_entry_id": 8862129,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2008-12-15",
+        "entry_number": 2,
+        "filepath_local": null,
+        "id": 6653414,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-03-29T20:07:08.226446Z",
+          "date_created": "2016-08-21T14:56:32.866348Z"
+        },
+        "pacer_doc_id": "12304451314",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": "A. Kathleen Tomlinson",
+    "referred_to_id": 9429,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Dale E. Ho",
+    "assigned_to_id": null,
+    "attorney": [
+      "Tatiana Markel",
+      "Oren J. Warshavsky",
+      "Thomas Q Lynch",
+      "David J. Sheehan",
+      "Michelle Rene Usitalo",
+      "Joseph Michael Kay",
+      "Nowell D. Bamberger",
+      "Jeffrey A. Rosenthal"
+    ],
+    "attorney_id": [
+      10866196,
+      10866197,
+      10866198,
+      10866199,
+      10866200,
+      10866201,
+      10866202,
+      10866203
+    ],
+    "caseName": "In Re: Bernard L. Madoff Investment Securities LLC",
+    "case_name_full": "",
+    "cause": "28:0158 Notice of Appeal re Bankruptcy Matter (BA",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2025-11-10",
+    "dateTerminated": null,
+    "docketNumber": "1:25-cv-09378",
+    "docket_absolute_url": "/docket/71895588/in-re-bernard-l-madoff-investment-securities-llc/",
+    "docket_id": 71895588,
+    "firm": [
+      "Baker & Hostetler LLP NYC",
+      "Cleary Gottlieb Steen & Hamilton, LLP(NYC)",
+      "Cleary Gottlieb Steen & Hamilton LLP"
+    ],
+    "firm_id": [
+      193234,
+      1210,
+      415889,
+      105189
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "None",
+    "meta": {
+      "timestamp": "2025-11-11T02:26:30.994577Z",
+      "date_created": "2025-11-10T20:47:40.902528Z",
+      "score": {
+        "bm25": 780.1067
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "652840",
+    "party": [
+      "Irving H. Picard",
+      "HSBC Bank USA, N.A.",
+      "HSBC Private Bank (Suisse) S.A.",
+      "Bernard L. Madoff Investment Securities LLC"
+    ],
+    "party_id": [
+      16660904,
+      16660905,
+      16660902,
+      16660903
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/71895588/4/in-re-bernard-l-madoff-investment-securities-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 444104468,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-14",
+        "entry_number": 4,
+        "filepath_local": "recap/gov.uscourts.nysd.652840/gov.uscourts.nysd.652840.4.0.pdf",
+        "id": 458764572,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-11-14T15:25:10.886877Z",
+          "date_created": "2025-11-14T15:06:32.447071Z"
+        },
+        "pacer_doc_id": "127038560952",
+        "page_count": 1,
+        "short_description": "Letter",
+        "snippet": "              Case 1:25-cv-09378-DEH                Document 4          Filed 11/14/25         Page 1 of 1\n\n\n\n\nNovember 14, 2025\n\nVIA ECF                                                                                      Michelle R. Usitalo\n                                                                                             direct dial: 212.847.2849\n                                                                                             musitalo@bakerlaw.com\nHonorable Dale E. Ho\nU."
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "422 Bankruptcy Appeal (801)",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Richard M. Berman",
+    "assigned_to_id": 260,
+    "attorney": [
+      "Jack Yoskowitz",
+      "Price O. Gielen",
+      "Arthur Luk",
+      "John C.. Massaro",
+      "Gabrielle Sean Marshall",
+      "Mandy DeRoche",
+      "Jules Brody",
+      "Timothy Joseph Burke",
+      "Robert S. Schachter",
+      "Joshua Seth Devore",
+      "Catherine A. Torell",
+      "Charles Joseph Keeley",
+      "Marc Alan Weinstein",
+      "William R. Maguire",
+      "Patrick Kevin Slyne",
+      "Kathryn Rebecca Vogel",
+      "Evan A. Davis"
+    ],
+    "attorney_id": [
+      3452615,
+      3452616,
+      3452617,
+      3452618,
+      3452619,
+      3452620,
+      3452621,
+      3452622,
+      3452623,
+      3452624,
+      3452625,
+      3452626,
+      3452627,
+      3452628,
+      3452629,
+      3452630,
+      3452631
+    ],
+    "caseName": "Leonhardt v. Madoff",
+    "case_name_full": "",
+    "cause": "28:1331 Fed. Question",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2009-03-05",
+    "dateTerminated": "2011-11-29",
+    "docketNumber": "1:09-cv-02032",
+    "docket_absolute_url": "/docket/12849003/leonhardt-v-madoff/",
+    "docket_id": 12849003,
+    "firm": [
+      "Stull Stull & Brody",
+      "Stull, Stull, & Brody (Los Angeles)",
+      "Cohen Milstein Sellers & Toll PLLC (DC)",
+      "Arnold & Porter LLP",
+      "Cleary Gottlieb Steen & Hamilton, LLP(NYC)",
+      "Cohen Milstein Sellers & Toll PLLC",
+      "Neuberger, Quinn, Gielen, Rubin & Gibber, P.A.",
+      "Stull, Stull & Brody",
+      "Zwerling, Schachter & Zwerling (Madison Avenue)",
+      "Arnold & Porter, LLP (DC)"
+    ],
+    "firm_id": [
+      154561,
+      105189,
+      57419,
+      158222,
+      161137,
+      722,
+      16980,
+      158965,
+      43895,
+      16154
+    ],
+    "jurisdictionType": "Federal Question",
+    "juryDemand": "Plaintiff",
+    "meta": {
+      "timestamp": "2025-03-06T13:36:25.786526Z",
+      "date_created": "2019-01-21T19:49:18.103809Z",
+      "score": {
+        "bm25": 773.1349
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "341643",
+    "party": [
+      "Repex Ventures S.A.",
+      "Bank Medici S.A.",
+      "HSBC Securities Services (IRELAND) Limited",
+      "Ernst & Young (Cayman)",
+      "Franco Mugnai",
+      "David T. Smith",
+      "PriceWaterhouseCoopers, Chartered Accountants",
+      "Ernst & Young S.A.",
+      "Peter Scheithauer",
+      "Alberto Benbassat",
+      "Pioneer Alternative Investments",
+      "Ernst & Young Global Limited",
+      "Peter Brandhofer",
+      "Daniel Morrissey",
+      "Pricewaterhouse Coopers International Limited",
+      "HSBC Institutional Trust Services (IRELAND) Limited",
+      "Herald USA Fund",
+      "Bernard L. Madoff",
+      "Gerald J.P. Brady",
+      "Unicredit S.A.",
+      "Sonja Kohn",
+      "Bank Austria Creditanstalt",
+      "HSBC Securities Services, S.A.",
+      "Horst Leonhardt",
+      "Michael Wheaton",
+      "Shmuel Cabilly",
+      "Helmuth E. Frey",
+      "Friehling & Horowitz",
+      "Thema International Fund PLC",
+      "Friedrich Pfeffer",
+      "Primeo Executive Fund",
+      "Genevalor",
+      "HSBC Holdings plc.",
+      "Primeo Select Fund",
+      "Stephane Benbassat",
+      "Benbassat  & Cie"
+    ],
+    "party_id": [
+      4626140,
+      4626141,
+      4626142,
+      4626143,
+      4626144,
+      4626145,
+      4626146,
+      4626147,
+      4626148,
+      4626149,
+      4626150,
+      4626151,
+      4626152,
+      4626153,
+      4626154,
+      4626155,
+      4626156,
+      4626157,
+      4626158,
+      4626159,
+      4626160,
+      4626161,
+      4626162,
+      4626163,
+      4626164,
+      4626165,
+      4626166,
+      4626167,
+      4626168,
+      4626169,
+      4626170,
+      4626171,
+      4626172,
+      4626173,
+      4626174,
+      4626175
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "SUMMONS ISSUED as to Bank Austria Creditanstalt, Unicredit S.A., Primeo Select Fund, Primeo Executive Fund, Pioneer Alternative Investments, Thema International Fund PLC, Helmuth E. Frey, Friedrich Pfeffer, Franco Mugnai, Alberto Benbassat, Stephane Benbassat, Benbassat & Cie, Genevalor, David T. Smith, Gerald J.P. Brady, Daniel Morrissey, Ernst & Young S.A., Ernst & Young Global Limited, HSBC Holdings plc., HSBC Institutional Trust Services (IRELAND) Limited, HSBC Securities Services (IRELAND) Limited, HSBC Securities Services, S.A., PriceWaterhouseCoopers, Chartered Accountants, Pricewaterhouse Coopers International Limited, Friehling & Horowitz, Bernard L. Madoff, Bank Medici S.A., Sonja Kohn, Peter Scheithauer, Herald USA Fund. (rdz)",
+        "docket_entry_id": 56059376,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-03-05",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 60121887,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-27T10:40:43.194889Z",
+          "date_created": "2019-02-19T00:59:45.821130Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/12849003/43/leonhardt-v-madoff/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE of Voluntary Dismissal of Federal Securities Claims. Document filed by Shmuel Cabilly. (Bunch, Stephen) (Entered: 01/05/2011)",
+        "docket_entry_id": 56059430,
+        "document_number": 43,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2011-01-05",
+        "entry_number": 43,
+        "filepath_local": null,
+        "id": 60121941,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-27T10:40:45.465806Z",
+          "date_created": "2019-02-19T00:59:47.418320Z"
+        },
+        "pacer_doc_id": "12708660421",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/12849003/1/leonhardt-v-madoff/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "COMPLAINT against Bank Austria Creditanstalt, Unicredit S.A., Primeo Select Fund, Primeo Executive Fund, Pioneer Alternative Investments, Thema International Fund PLC, Helmuth E. Frey, Friedrich Pfeffer, Franco Mugnai, Alberto Benbassat, Stephane Benbassat, Benbassat & Cie, Genevalor, David T. Smith, Gerald J.P. Brady, Daniel Morrissey, Ernst & Young S.A., Ernst & Young Global Limited, HSBC Holdings plc., HSBC Institutional Trust Services (IRELAND) Limited, HSBC Securities Services (IRELAND) Limited, HSBC Securities Services, S.A., PriceWaterhouseCoopers, Chartered Accountants, Pricewaterhouse Coopers International Limited, Friehling & Horowitz, Bernard L. Madoff, Bank Medici S.A., Sonja Kohn, Peter Scheithauer, Herald USA Fund. (Filing Fee $ 350.00, Receipt Number 680454)Document filed by Horst Leonhardt.(rdz) (Entered: 03/09/2009)",
+        "docket_entry_id": 56059375,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-03-05",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 60121886,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-27T10:40:43.235143Z",
+          "date_created": "2019-02-19T00:59:45.795273Z"
+        },
+        "pacer_doc_id": "12705991025",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "850 Securities/Commodities",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Kristina Guidi",
+      "Emily Pasquinelli",
+      "Daniel Luke Geyser, Esq.",
+      "Stephen G. Yoder",
+      "Michael J. Sullivan",
+      "Emily True Parise",
+      "Nicole C. Kelly",
+      "Megan Barbero, Esq.",
+      "Brian Leske"
+    ],
+    "attorney_id": [
+      8760552,
+      8760553,
+      8760554,
+      8760555,
+      8760556,
+      8760557,
+      8760558,
+      8760559,
+      9665039
+    ],
+    "caseName": "Barr v. SEC",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "Court of Appeals for the Fifth Circuit",
+    "court_citation_string": "5th Cir.",
+    "court_id": "ca5",
+    "dateArgued": "2024-07-09",
+    "dateFiled": "2023-04-25",
+    "dateTerminated": null,
+    "docketNumber": "23-60216",
+    "docket_absolute_url": "/docket/67420421/barr-v-sec/",
+    "docket_id": 67420421,
+    "firm": [
+      "Direct: 303-382-6219, Haynes & Boone, L.L.P.",
+      "Direct: 202-551-5100, Securities and Exchange Commission, Office of General Counsel",
+      "Ashcroft Law Firm, L.L.C.",
+      "U.S. Securities and Exchange Commission, Office of the Whistleblower",
+      "Direct: 202-551-5169, U.S. Securities & Exchange Commission",
+      "Direct: 202-551-4532, U.S. Securities & Exchange Commission",
+      "Direct: 617-573-9400, Ashcroft Law Firm, L.L.C."
+    ],
+    "firm_id": [
+      882725,
+      882726,
+      882727,
+      882728,
+      882729,
+      871502,
+      797393,
+      797394
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-02T07:16:35.469044Z",
+      "date_created": "2023-05-24T18:45:26.072739Z",
+      "score": {
+        "bm25": 756.7514
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "213454",
+    "party": [
+      "John Doe",
+      "Securities and Exchange Commission",
+      "John McPherson",
+      "John M. Barr"
+    ],
+    "party_id": [
+      13066179,
+      13066180,
+      13066181,
+      13066182
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67420421/58/barr-v-sec/",
+        "attachment_number": null,
+        "cites": [
+          18311,
+          23008,
+          69255,
+          95681,
+          98385,
+          103053,
+          111221,
+          111686,
+          118089,
+          213197,
+          1034201,
+          4162445,
+          4246855,
+          4303416,
+          4402664,
+          4410206,
+          4542244,
+          7228748,
+          8858851
+        ],
+        "description": "APPELLANT'S BRIEF FILED # of Copies Provided: 0 A/Pet's Brief deadline satisfied. Appellee's Brief due on 11/13/2023 for Respondent Securities and Exchange Commission [23-60216]REVIEWED AND/OR EDITED - The original text prior to review appeared as follows: APPELLANT'S BRIEF FILED by Mr. John McPherson. Date of service: 10/13/2023 via email - Attorney for Respondents: Barbero, Parise, Yoder; Attorney for Petitioners: Geyser, Leske; US mail - Attorney for Respondents: Guidi, Kelly, Pasquinelli [23-60216] (Brian Leske ) [Entered: 10/13/2023 04:47 PM]",
+        "docket_entry_id": 367906849,
+        "document_number": 58,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-10-13",
+        "entry_number": 58,
+        "filepath_local": "recap/gov.uscourts.ca5.213454/gov.uscourts.ca5.213454.58.0.pdf",
+        "id": 375195049,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-06-14T09:59:49.548986Z",
+          "date_created": "2023-10-13T22:17:25.003511Z"
+        },
+        "pacer_doc_id": "00506931421",
+        "page_count": 80,
+        "short_description": "",
+        "snippet": "Case: 23-60216    Document: 58        Page: 1     Date Filed: 10/13/2023\n\n\n\n\n                         No. 23-60216\n\n\n           In the United States Court of Appeals\n                   for the Fifth Circuit\n                   _____________________\n\n                 John M. Barr; John McPherson,\n\n                                                Petitioners,\n\n                                 v.\n\n             Securities and Exchange Commission,\n\n                                    Respondent.\n      "
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  }
+]

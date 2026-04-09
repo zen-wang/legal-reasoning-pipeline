@@ -1,0 +1,109 @@
+{
+  "assignedTo": null,
+  "assigned_to_id": null,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "United States v. Ebbers",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "District Court, E.D. Wisconsin",
+  "court_citation_string": "E.D. Wis.",
+  "court_id": "wied",
+  "dateArgued": null,
+  "dateFiled": "2018-04-10",
+  "dateTerminated": "2018-04-11",
+  "docketNumber": "2:18-cr-00066",
+  "docket_absolute_url": "/docket/29496870/united-states-v-ebbers/",
+  "docket_id": 29496870,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-03-12T18:51:59.629978Z",
+    "date_created": "2021-01-19T08:24:47.629518Z",
+    "score": {
+      "bm25": 3622.9106
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "81098",
+  "party": [
+    "United States",
+    "Ebbers"
+  ],
+  "party_id": [],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/29496870/4/united-states-v-ebbers/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 179397945,
+      "document_number": 4,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2021-11-04",
+      "entry_number": 4,
+      "filepath_local": null,
+      "id": 184805310,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-05-18T01:26:18.044408Z",
+        "date_created": "2021-11-04T17:18:37.918017Z"
+      },
+      "pacer_doc_id": "20304761865",
+      "page_count": null,
+      "short_description": "Order on Report on Offender Under Supervision - Prob 12A",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/29496870/1/united-states-v-ebbers/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 357159630,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2018-04-10",
+      "entry_number": 1,
+      "filepath_local": null,
+      "id": 363705900,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-06-12T05:02:38.963430Z",
+        "date_created": "2023-07-08T15:59:38.255340Z"
+      },
+      "pacer_doc_id": "20303661515",
+      "page_count": null,
+      "short_description": "Request to Transfer Jurisdiction In - Prob 22",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/29496870/2/united-states-v-ebbers/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "",
+      "docket_entry_id": 357553126,
+      "document_number": 2,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2018-04-13",
+      "entry_number": 2,
+      "filepath_local": null,
+      "id": 364099558,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-06-12T07:28:59.000760Z",
+        "date_created": "2023-07-09T00:26:32.038801Z"
+      },
+      "pacer_doc_id": "20303665248",
+      "page_count": null,
+      "short_description": "Order Accepting Jurisdiction - Prob 22",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

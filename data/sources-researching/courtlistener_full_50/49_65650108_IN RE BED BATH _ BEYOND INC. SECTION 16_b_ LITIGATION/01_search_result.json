@@ -1,0 +1,168 @@
+{
+  "assignedTo": "Dale E. Ho",
+  "assigned_to_id": null,
+  "attorney": [
+    "Jeffrey Simon Abraham",
+    "Michael Jason Klein",
+    "David Adam Hoffman",
+    "Clifford Louis Thau",
+    "Olimpio Lee Squitieri",
+    "James Austen Hunter",
+    "Yating Wang",
+    "Joshua Mark Slocum",
+    "Victor L. Hou",
+    "Maxwell George Dillan",
+    "David H Wollmuth",
+    "Marisa Antonelli",
+    "Jared Mitchell Gerber",
+    "Joseph S. Allerhand"
+  ],
+  "attorney_id": [
+    8073917,
+    8982826,
+    8982827,
+    8982828,
+    8761453,
+    8761454,
+    8761455,
+    8761456,
+    8761457,
+    8761458,
+    8038268,
+    8038269,
+    8073918,
+    8073919
+  ],
+  "caseName": "IN RE BED BATH & BEYOND INC. SECTION 16(b) LITIGATION",
+  "case_name_full": "",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "chapter": null,
+  "court": "District Court, S.D. New York",
+  "court_citation_string": "S.D.N.Y.",
+  "court_id": "nysd",
+  "dateArgued": null,
+  "dateFiled": "2022-10-31",
+  "dateTerminated": "2024-06-12",
+  "docketNumber": "1:22-cv-09327",
+  "docket_absolute_url": "/docket/65650108/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+  "docket_id": 65650108,
+  "firm": [
+    "Vinson & Elkins",
+    "Complex Commercial Litigation",
+    "Wollmuth Maher and Deutsch LLP",
+    "Abraham, Fruchter & Twersky, LLP",
+    "Squitieri & Fearon, LLP",
+    "Allerhand & Odoner",
+    "Vinson & Elkins LLP",
+    "Wollmuth Maher & Deutsch LLP"
+  ],
+  "firm_id": [
+    23681,
+    735075,
+    737607,
+    833671,
+    23243,
+    681420,
+    678833,
+    605684,
+    605685,
+    911253
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-06-21T11:48:49.963783Z",
+    "date_created": "2022-10-31T22:08:30.052304Z",
+    "score": {
+      "bm25": 3927.342
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "588738",
+  "party": [
+    "Todd Augenbaum",
+    "RC Ventures LLC",
+    "Ryan Cohen",
+    "Judith Cohen",
+    "Bed Bath & Beyond Inc."
+  ],
+  "party_id": [
+    12063696,
+    12063697,
+    12063698,
+    13067800,
+    13067801
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/65650108/50/2/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+      "attachment_number": 2,
+      "cites": [],
+      "description": "SUGGESTION OF BANKRUPTCY upon the record as to Bed Bath & Beyond Inc. . Document filed by Bed Bath & Beyond Inc. (Attachments: # 1 Exhibit A - Voluntary Petition of Bed Bath & Beyond Inc., # 2 Exhibit B - Joint Administration Order for Bed Bath & Beyond).(Gerber, Jared) (Entered: 04/25/2023)",
+      "docket_entry_id": 293812423,
+      "document_number": 50,
+      "document_type": "Attachment",
+      "entry_date_filed": "2023-04-25",
+      "entry_number": 50,
+      "filepath_local": "recap/gov.uscourts.nysd.588738/gov.uscourts.nysd.588738.50.2.pdf",
+      "id": 375109633,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-06-21T11:48:49.279886Z",
+        "date_created": "2023-10-13T13:06:12.203407Z"
+      },
+      "pacer_doc_id": "127033244951",
+      "page_count": 18,
+      "short_description": "Exhibit B - Joint Administration Order for Bed Bath & Beyond",
+      "snippet": "Case 1:22-cv-09327-DEH Document 50-2 Filed 04/25/23 Page 1 of 18\n\n\n\n\n                              Exhibit B\n\n        Joint Administration Order for Bed Bath & Beyond Inc.\n\f   Case 23-13359-VFP\n         Case 1:22-cv-09327-DEH\n                       Doc 75 Filed\n                                 Document\n                                    04/24/2350-2\n                                               Entered\n                                                  Filed 04/24/23\n                           "
+    },
+    {
+      "absolute_url": "/docket/65650108/50/1/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+      "attachment_number": 1,
+      "cites": [],
+      "description": "SUGGESTION OF BANKRUPTCY upon the record as to Bed Bath & Beyond Inc. . Document filed by Bed Bath & Beyond Inc. (Attachments: # 1 Exhibit A - Voluntary Petition of Bed Bath & Beyond Inc., # 2 Exhibit B - Joint Administration Order for Bed Bath & Beyond).(Gerber, Jared) (Entered: 04/25/2023)",
+      "docket_entry_id": 293812423,
+      "document_number": 50,
+      "document_type": "Attachment",
+      "entry_date_filed": "2023-04-25",
+      "entry_number": 50,
+      "filepath_local": "recap/gov.uscourts.nysd.588738/gov.uscourts.nysd.588738.50.1.pdf",
+      "id": 375109632,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-06-21T11:48:49.279886Z",
+        "date_created": "2023-10-13T13:06:12.085649Z"
+      },
+      "pacer_doc_id": "127033244950",
+      "page_count": 19,
+      "short_description": "Exhibit A - Voluntary Petition of Bed Bath & Beyond Inc.",
+      "snippet": "Case 1:22-cv-09327-DEH Document 50-1 Filed 04/25/23 Page 1 of 19\n\n\n\n\n                             Exhibit A\n\n            Voluntary Petition of Bed Bath & Beyond Inc.\n\f             CaseCase\n                  23-13359\n                      1:22-cv-09327-DEH\n                             Doc 1 Filed 04/23/23\n                                         Document Entered\n                                                   50-1 Filed\n                                                           04/23/23\n      "
+    },
+    {
+      "absolute_url": "/docket/65650108/77/in-re-bed-bath-beyond-inc-section-16b-litigation/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE OF APPEARANCE by Joseph S. Allerhand on behalf of Bed Bath & Beyond Inc...(Allerhand, Joseph) (Entered: 11/24/2023)",
+      "docket_entry_id": 371513960,
+      "document_number": 77,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2023-11-24",
+      "entry_number": 77,
+      "filepath_local": "recap/gov.uscourts.nysd.588738/gov.uscourts.nysd.588738.77.0.pdf",
+      "id": 378999579,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-06-21T11:48:49.279886Z",
+        "date_created": "2023-11-24T21:06:59.637954Z"
+      },
+      "pacer_doc_id": "127034481245",
+      "page_count": 1,
+      "short_description": "Notice of Appearance",
+      "snippet": "         Case 1:22-cv-09327-DEH Document 77 Filed 11/24/23 Page 1 of 1\n\n\n\n\n                            UNITED STATES DISTRICT COURT\n                           SOUTHERN DISTRICT OF NEW YORK\n\n\nIN RE BED BATH & BEYOND INC.                                         No. 22-cv-9327 (DEH)\nSECTION 16(b) SECURITIES LITIGATION\n\n\n                                 APPEARANCE OF COUNSEL\n\nTo the Clerk of the Court and All Parties of Record:\n\n       Kindly enter my appearance as counsel of record for Nominal Defe"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

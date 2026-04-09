@@ -1,0 +1,25 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Tellabs v. Makor Issues & Rights",
+  "cluster_id": 145709,
+  "case_name_cl": "Tellabs, Inc. v. Makor Issues & Rights, Ltd.",
+  "date_filed": "2007-06-21",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "168 L. Ed. 2d 179",
+    "127 S. Ct. 2499",
+    "551 U.S. 308",
+    "2007 U.S. LEXIS 8270",
+    "20 Fla. L. Weekly Fed. S 374",
+    "75 U.S.L.W. 4462"
+  ],
+  "docket_number": "06-484",
+  "docket_id": 129555,
+  "judges": "Alito, Ginsburg, Roberts, Kennedy, Squter, Thomas, Breyer, Scalia, Auto, Stevens",
+  "num_opinions": 5,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/145709/tellabs-inc-v-makor-issues-rights-ltd/",
+  "legal_principle": "strong inference of scienter",
+  "year": 2007
+}

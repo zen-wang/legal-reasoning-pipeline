@@ -1,0 +1,33 @@
+[
+  {
+    "absolute_url": "/audio/64512/united-states-v-sh/",
+    "caseName": "United States v. Sh",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2019-06-28",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "18-819",
+    "docket_id": 15934040,
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/2f805a71-65f0-47e9-b9e5-d10e3736e07a/1/doc/18-819.mp3",
+    "duration": 1380,
+    "file_size_mp3": 8635739,
+    "id": 64512,
+    "judge": "",
+    "local_path": "mp3/2019/06/28/united_states_v._sh_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T07:59:29.111392Z",
+      "date_created": "2019-07-18T13:31:51.748596Z",
+      "score": {
+        "bm25": 13237776000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "d57eb764886e634a9032d587caeb7661596313ca",
+    "snippet": "The next case on the calendar is United States v. Shkreli. Good morning, Your Honors. May it please the Court, I am Mark Baker. And along with my colleagues Andrea Zellin and Terry Garagos, we represent Martin Shkreli. I respectfully submit that the split verdict in this case speaks volumes as to the care the jury took in listening to the Court's every word. After all, how many times has been there a case where the same instruction was given two different ways as to two separate frauds with two",
+    "source": "C"
+  }
+]

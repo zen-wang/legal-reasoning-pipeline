@@ -1,0 +1,91 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Under Armour, Inc.",
+  "cik": 1336917,
+  "sic": "2300",
+  "sic_description": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "tickers": [
+    "UAA",
+    "UA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "stateOfIncorporation": "MD",
+  "why_selected": "營收認列調查",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "8-K",
+      "date": "2026-02-12",
+      "accession": "0001336917-26-000029",
+      "filename": "8-K_2026-02-12_ua-20260211.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2026-02-06",
+      "accession": "0001336917-26-000027",
+      "filename": "10-Q_2026-02-06_ua-20251231.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-02-06",
+      "accession": "0001336917-26-000025",
+      "filename": "8-K_2026-02-06_ua-20260206.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-15",
+      "accession": "0001336917-26-000017",
+      "filename": "8-K_2026-01-15_ua-20260114.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-11-14",
+      "accession": "0001336917-25-000200",
+      "filename": "8-K_2025-11-14_ua-20251113.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-11-06",
+      "accession": "0001336917-25-000198",
+      "filename": "10-Q_2025-11-06_ua-20250930.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-11-06",
+      "accession": "0001336917-25-000193",
+      "filename": "8-K_2025-11-06_ua-20251103.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-09-08",
+      "accession": "0001336917-25-000173",
+      "filename": "8-K_2025-09-08_ua-20250903.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-08-19",
+      "accession": "0001336917-25-000147",
+      "filename": "8-K_2025-08-19_ua-20250818.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-08-08",
+      "accession": "0001336917-25-000136",
+      "filename": "10-Q_2025-08-08_ua-20250630.htm",
+      "description": "10-Q"
+    }
+  ],
+  "total_filings_available": 1001
+}

@@ -1,0 +1,197 @@
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+
+TODD AUGENBAUM,                                                          
+
+                    Plaintiff,                                           
+          -against-                                                      
+
+RC VENTURES LLC and BED BATH &                                           
+BEYOND INC.,                            ORDER                            
+
+                    Defendants.      22 Civ. 9327 (PGG)                  
+
+
+
+
+
+JUDITH COHEN,                                                            
+
+                    Plaintiff,                                           
+
+
+          -against-                                                      
+
+RYAN COHEN and RC VENTURES LLC,         ORDER                            
+
+                    Defendants,      22 Civ. 9733 (PGG)                  
+
+     and                                                                 
+
+BED BATH & BEYOND INC.,                                                  
+
+
+                    Nominal                                              
+                    Defendant.                                           
+
+
+PAUL G. GARDEPHE, U.S.D.J.:                                               
+
+         Plaintiffs in these actions allege that a large shareholder and putative director of 
+Bed Bath & Beyond Inc. (“BBBY”) violated Section 16(b) of the Securities Exchange Act of 
+1934 in connection with alleged “short swing” sales of BBBY common stock.  Pending before 
+the Court are a number of pre-motion letters regarding consolidation, appointment of lead 
+plaintiff, motions to dismiss, and motions for summary judgment.  (See 22 Civ. 9327, Dkt. Nos. 
+12–15, 19; 22 Civ. 9733, Dkt. Nos. 10, 12, 16, 18, 22)                    
+                         BACKGROUND                                      
+
+         BBBY is a “retailer selling merchandise in the home, baby, beauty & wellness 
+markets” through Bed Bath & Beyond, buybuy BABY, and Harmon Face Values stores.  (22 
+Civ. 9327, Cmplt. (Dkt. No. 1) ¶ 6)  RC Ventures is an investment company.  (Id. ¶ 3)  Ryan 
+Cohen is RC Ventures’ manager.  (Id.)                                     
+         On March 7, 2022, RC Ventures filed a Schedule 13D with the SEC disclosing 
+that it had acquired a 9.8 percent beneficial ownership interest in BBBY.  (Id. ¶¶ 9–11)  BBBY’s 
+share price increased following this announcement.  (Id. ¶ 13)            
+         On March 25, 2022, BBBY and RC Ventures disclosed in SEC filings that they 
+had entered into a cooperation agreement pursuant to which, among other things, (1) BBBY had 
+appointed three new directors, two of whom “were appointed to a four-member Strategy 
+Committee of the Board, focused on supporting the Board’s oversight and review of a strategic 
+
+analysis of the Company’s buybuy BABY business,” and all of whom would be nominated for 
+reelection to BBBY’s board at BBBY’s next annual meeting; (2) for a certain period of time, 
+BBBY would not seek to increase the size of its board of directors or classify its board of 
+directors without RC Ventures’ consent; (3) RC Ventures would have the right to replace the 
+newly appointed directors under certain conditions; and (4) RC Ventures would not acquire 20 
+percent or more of BBBY common stock.  (Id. ¶¶ 14-15)                     
+         On June 1, 2022, BBBY filed a Proxy Statement with the SEC disclosing that RC 
+Ventures beneficially owned 11.8 percent of BBBY common stock, not 9.8 percent as RC 
+Ventures had reported.  The reason for the discrepancy was that RC Ventures and BBBY had 
+used different figures for the total number of shares outstanding.  (Id. ¶ 16) 
+         On June 29, 2022, BBBY’s share price dropped following the disclosure of poor 
+quarterly operating results and the replacement of BBBY’s CEO.  (Id. ¶ 17) 
+         On July 14, 2022, BBBY held its annual meeting, at which the three new directors 
+
+announced in the cooperation agreement were reelected to the board.  The following day, July 
+15, 2022, BBBY disclosed their reelection to the SEC.  (Id. ¶ 18)         
+         On August 9, 2022, BBBY’s share price dropped following a downgrade by a 
+securities analyst.  (Id. ¶ 19)                                           
+         On August 12, 2022, BBBY’s share price increased following a humorous tweet 
+by Cohen.  (Id. ¶ 20)                                                     
+         On August 16, 2022, RC Ventures amended its Schedule 13D to disclose that it 
+beneficially owned 11.8 percent of BBBY’s common stock, not 9.8 percent as indicated in RC 
+Ventures’ March 7, 2022, filing.  BBBY’s share price subsequently increased.  (Id. ¶ 21) 
+
+         On August 18, 2022, RC Ventures and Cohen filed a Form 4 with the SEC stating 
+that they “previously may have been deemed members of a Section 13(d) group that no longer 
+beneficially owns more than 10% of [BBBY’s] outstanding shares of Common Stock.”  (Id. ¶ 22 
+(formatting altered))  On August 25, 2022, RC Ventures “filed another Schedule 13D 
+amendment disclosing that it had sold all of its Common Stock and Call Options. . . .”  (Id. ¶ 23) 
+         The first of the instant cases – Augenbaum v. RC Ventures LLC, No. 22 Civ. 
+9327 (PGG), was filed on October 31, 2022.  (22 Civ. 9327, Dkt. No. 1)  The second, Cohen v. 
+Cohen, 22 Civ. 9733 (PGG), was filed on November 15, 2022.  (22 Civ. 9733, Dkt. No. 1)  In 
+both actions, Plaintiffs assert claims under Section 16(b) of the Securities Exchange Act of 1934, 
+arising out of Defendants’ “short swing” sales of BBBY’s common stock for a profit within a 
+six-month period during which Defendants beneficially owned 10 percent or more of BBBY’s 
+common stock.  (22 Civ. 9327, Cmplt. (Dkt. No. 1) ¶¶ 26-31; 22 Civ. 9733, Cmplt. (Dkt. No. 1) 
+¶¶ 45-53)  In both cases, Plaintiffs allege that BBBY’s board has rejected Plaintiffs’ respective 
+demands to pursue the claims asserted in the respective complaints against Defendants.  (22 Civ. 
+
+9327, Cmplt. (Dkt. No. 1) ¶¶ 32-33; 22 Civ. 9733, Cmplt. (Dkt. No. 1) ¶¶ 54-55)   
+         Plaintiff Augenbaum seeks “judgment against RC Ventures for the benefit of the 
+Company in an amount to be determined at trial,” while Plaintiff Cohen seeks disgorgement of 
+Defendants’ “short swing” profits .  (22 Civ. 9327, Cmplt. (Dkt. No. 1) at 10; 22 Civ. 9733, 
+Cmplt. (Dkt. No. 1) ¶¶ 53, 57.A-B)  Plaintiff Augenbaum, unlike Cohen, alleges that RC 
+Ventures was a director of BBBY.  (22 Civ. 9327, Cmplt. (Dkt. No. 1) ¶ 29)  Plaintiff Cohen, 
+unlike Plaintiff Augenbaum, includes Ryan Cohen as a defendant.  (22 Civ. 9733, Cmplt. (Dkt. 
+No. 1) ¶ 8)                                                               
+         The parties have submitted pre-motion letters regarding consolidation, 
+
+appointment of lead plaintiff, motions to dismiss, and motions for summary judgment.  (See 22 
+Civ. 9327, Dkt. Nos. 12-15, 19; 22 Civ. 9733, Dkt. Nos. 10, 12, 16, 18, 22) 
+I.   CONSOLIDATION                                                        
+         Fed. R. Civ. P. 42(a) provides that a district court may consolidate “actions before 
+the court involv[ing] a common question of law or fact.”  Fed. R. Civ. P. 42(a)(2).  “‘A 
+determination on the issue of consolidation is left to the sound discretion of the Court,’” In re 
+UBS Auction Rate Sec. Litig., No. 08 Civ. 2967 (LMM), 2008 WL 2796592, at *1 (S.D.N.Y. 
+July 16, 2008) (quoting Albert Fadem Tr. v. Citigroup Inc., 239 F. Supp. 2d 344, 347 (S.D.N.Y. 
+2002)), and involves weighing considerations of convenience, judicial economy, and cost 
+reduction while ensuring that the “paramount concern for a fair and impartial trial” is honored.  
+Johnson v. Celotex Corp., 899 F.2d 1281, 1284-85 (2d Cir. 1990) (citing Flintkote Co. v. Allis-
+Chalmers Corp., 73 F.R.D. 463 (S.D.N.Y. 1977)).  “Differences in causes of action, defendants, 
+or the class period do not render consolidation inappropriate if the cases present sufficiently 
+common questions of fact and law, and the differences do not outweigh the interests of judicial 
+
+economy served by consolidation.”  Kaplan v. Gelfond, 240 F.R.D. 88, 91 (S.D.N.Y. 2007) 
+(citing Pinkowitz v. Elan Corp., Nos. 02 Civ. 862(WK) et al., 2002 WL 1822118, at *3-4 
+(S.D.N.Y. July 29, 2002)).  Where “all the movants support consolidation and . . . no party 
+objects,” such circumstances “weigh[] heavily against the potential for prejudice.”  Id. (citing 
+Olsen v. N.Y. Cmty. Bancorp, Inc., 233 F.R.D. 101, 104-05 (E.D.N.Y. 2005)). 
+         Here, the Augenbaum and Cohen actions involve common questions of law and 
+fact.  Both actions are brought against Defendant RC Ventures LLC in connection with alleged 
+violations of federal securities laws.  (22 Civ. 9327, Cmplt. (Dkt. No. 1) ¶ 1; 22 Civ. 9733, 
+Cmplt. (Dkt. No. 1) ¶ 1)  Both actions also allege the same wrongdoing – namely, that 
+
+Defendants violated Section 16(b) of the Securities Exchange Act through unlawful short-swing 
+trading of BBBY common stock.   (22 Civ. 9327, Cmplt. (Dkt. No. 1) ¶¶ 1, 28-30; 22 Civ. 9733, 
+Cmplt. (Dkt. No. 1) ¶¶ 1, 46–52)  All parties support consolidation.  (See Nov. 30, 2022, Cohen 
+Ltr. (22 Civ. 9733, Dkt. No. 12) at 1; Dec. 1, 2022 Cohen and RC Ventures LLC Ltr. (22 Civ. 
+9733, Dkt. No. 16) at 1 (“These cases should be consolidated to reduce the burden on the Court 
+and the Cohen Defendants.”); Dec. 5, 2022 Augenbaum Ltr. (22 Civ. 9327, Dkt. No. 15) at 1 
+(“Plaintiff Augenbaum [] agrees that consolidation represents an appropriate mechanism to 
+enable this Court to efficiently manage its docket.”); Dec. 8, 2022, Ltrs. from Def. Bed Bath & 
+Beyond Inc. (22 Civ. 9327, Dkt. No. 19; 22 Civ. 9733, Dkt. No. 22) (both letters requesting 
+consolidation))                                                           
+         Given the similarities between the two complaints’ factual allegations and legal 
+claims – and the fact that all parties seek consolidation – consolidation under Fed. R. Civ. P. 
+42(a) is appropriate.  The actions shall be referred to collectively as In re Bed Bath & Beyond 
+
+Inc. Section 16(b) Litigation, No. 22 Civ. 9327 (PGG) (the “Consolidated Bed Bath & Beyond 
+Inc. Section 16(b) Action”).  The Clerk of Court will file a copy of this Order in the separate file 
+for each of the above-captioned Bed Bath & Beyond Inc. Section 16(b) cases.  Unless otherwise 
+ordered, future filings in any Bed Bath & Beyond Inc. Section 16(b) case herein consolidated 
+shall be filed and docketed only under docket number 22 Civ. 9327 (PGG).  All counsel who 
+have entered appearances in the above-captioned Section 16(b) cases shall be deemed to have 
+entered an appearance in the Consolidated Bed Bath & Beyond Inc. Section 16(b) Action under 
+docket number 22 Civ. 9327 (PGG).                                         
+         Counsel are directed to alert the Clerk of Court to the filing or transfer of any case 
+
+that might properly be consolidated as part of this litigation.  Any Section 16(b) action involving 
+substantially related questions of law and fact hereafter filed in or transferred to this Court shall 
+be consolidated under the master file number assigned to this case.       
+         Every pleading filed in the Consolidated Bed Bath & Beyond Inc. Section 16(b) 
+Action under docket number 22 Civ. 9327 (PGG) shall bear the following caption: 
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+
+IN RE BED BATH & BEYOND INC. SECTION      22 Civ. 9327 (PGG)             
+16(b) LITIGATION                                                         
+         The Court’s consolidation order does not make any person, firm, or corporation a 
+party to any action in which the person or entity has not been named, served, or added as such in 
+accordance with the Federal Rules of Civil Procedure.                     
+II.  APPOINTMENT OF LEAD PLAINTIFF AND LEAD COUNSEL                       
+         The following parties have submitted pre-motion letters seeking leave to move for 
+
+appointment as lead plaintiff, and for selection of lead counsel:         
+    (1) Todd Augenbaum, represented by Abraham, Fruchter & Twersky, LLP (22 Civ. 9327, 
+    Dkt. No. 15); and                                                    
+    (2) Judith Cohen, represented by Squitieri & Fearon, LLP (22 Civ. 9733, Dkt. No. 18). 
+         Plaintiffs Augenbaum and Cohen are directed to submit supplemental letters by 
+December 16, 2022, addressing (1) the source of this Court’s authority to appoint a lead plaintiff 
+and lead counsel in a consolidated Section 16(b) action; (2) whether such appointment is 
+required of the Court or discretionary and, if discretionary, why the Court should appoint lead 
+plaintiff and lead counsel in this case; and (3) what standard governs the selection of lead 
+
+plaintiff and lead counsel in a Section 16(b) case.  Any person or entity seeking to respond to the 
+letters from Plaintiffs Augenbaum and Cohen will do so by December 21, 2022. 
+I.    PRE-MOTION LETTERS REGARDING MOTIONS 
+     TO DISMISS AND MOTIONS FOR SUMMARY JUDGMENT 
+           The Court will address the pre-motion letters regarding motions to dismiss and 
+motions for summary judgment (22 Civ. 9327, Dkt. Nos. 12-14, 19; 22. Civ. 9733, Dkt. Nos. 10, 
+16, 22) after the lead plaintiff/lead counsel issue is resolved. 
+Dated: New York, New York 
+     December 9, 2022 
+                                   SO ORDERED. 
+                                      )   i)    /\     ,    ff 2 
+                                         L Aonoly 
+                                   Paul G. Gardephe     * 
+                                   United States District Judge

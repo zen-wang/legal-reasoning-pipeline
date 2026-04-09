@@ -1,0 +1,171 @@
+{
+  "assignedTo": "Michael Howard Simon",
+  "assigned_to_id": 2971,
+  "attorney": [
+    "Susan Saltzstein",
+    "Peter B Morrison",
+    "David B. Markowitz",
+    "Keil M. Mueller",
+    "Caitlin Moyna",
+    "Barbara Hart",
+    "Keith S. Dubanevich",
+    "Alex Drylewski",
+    "Stanton R. Gallegos",
+    "Pamela T. Cannataro",
+    "Daniel Berger",
+    "Virginia F. Milstead",
+    "Shaud Gerard Tavakoli",
+    "Dallas S. DeLuca"
+  ],
+  "attorney_id": [
+    6925155,
+    6925156,
+    6925157,
+    6925158,
+    6586695,
+    6669676,
+    6669677,
+    6669678,
+    6669679,
+    6669680,
+    6669681,
+    6669682,
+    7095287,
+    7095288
+  ],
+  "caseName": "In re Portland General Electric Company Securities Litigation",
+  "case_name_full": "",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "chapter": null,
+  "court": "District Court, D. Oregon",
+  "court_citation_string": "D. Or.",
+  "court_id": "ord",
+  "dateArgued": null,
+  "dateFiled": "2020-09-11",
+  "dateTerminated": "2022-03-22",
+  "docketNumber": "3:20-cv-01583",
+  "docket_absolute_url": "/docket/18432294/in-re-portland-general-electric-company-securities-litigation/",
+  "docket_id": 18432294,
+  "firm": [
+    "Stoll Stoll Berne Lokting & Shlachter P.C.",
+    "Grant & Eisenhofer PA",
+    "Michael B. Merchant",
+    "Markowitz Herbold PC",
+    "Britta E. Warren",
+    "Grant & Eisenhofer, P.A.",
+    "Skadden Arps Slate Meagher and Flom LLP",
+    "Grant and Eisenhofer PA",
+    "Matthew D. Colley"
+  ],
+  "firm_id": [
+    26916,
+    272452,
+    8360,
+    657834,
+    252944,
+    163509,
+    14294,
+    570072,
+    177658
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-04-06T05:57:56.749307Z",
+    "date_created": "2020-09-11T23:24:18.242841Z",
+    "score": {
+      "bm25": 3027.9224
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "155336",
+  "party": [
+    "Public Employees' Retirement System of Mississippi",
+    "Portland General Electric Company",
+    "James F. Lobdell",
+    "Maria M. Pope",
+    "Pamela T. Cannataro"
+  ],
+  "party_id": [
+    10564449,
+    10034736,
+    10034737,
+    10034738,
+    10177429
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/18432294/26/in-re-portland-general-electric-company-securities-litigation/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Amended Complaint Titled as \"Amended Consolidated Class Action Complaint for Violations of the Federal Securities Laws\". Filed by Public Employees' Retirement System of Mississippi against James F. Lobdell, Maria M. Pope, Portland General Electric Company. (Mueller, Keil) (Entered: 01/11/2021)",
+      "docket_entry_id": 151907507,
+      "document_number": 26,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2021-01-11",
+      "entry_number": 26,
+      "filepath_local": "recap/gov.uscourts.ord.155336/gov.uscourts.ord.155336.26.0.pdf",
+      "id": 156903296,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-04-06T05:57:56.741545Z",
+        "date_created": "2021-01-12T02:19:34.494071Z"
+      },
+      "pacer_doc_id": "15107837407",
+      "page_count": 60,
+      "short_description": "Amended Complaint (ALL CASE TYPES)",
+      "snippet": "         Case 3:20-cv-01583-SI         Document 26   Filed 01/11/21   Page 1 of 60\n\n\n\nKeith S. Dubanevich, OSB No. 975200\nKeil M. Mueller, OSB No. 085535\nSTOLL STOLL BERNE LOKTING & SHLACHTER P.C.\n209 S.W. Oak Street, Suite 500\nPortland, OR 97204\nTelephone:   (503) 227-1600\nFacsimile:   (503) 227-6840\nEmail: kdubanevich@stollberne.com\n       kmueller@stollberne.com\n\nLiaison Counsel for the putative class\n\nDaniel L. Berger, to be admitted pro hac vice\nCaitlin M. Moyna, to be admitted pro hac vice"
+    },
+    {
+      "absolute_url": "/docket/18432294/20/in-re-portland-general-electric-company-securities-litigation/",
+      "attachment_number": null,
+      "cites": [
+        441724,
+        591453
+      ],
+      "description": "Order Consolidating Cases, Appointing Lead Plaintiff, and Approving Lead and Liaison Counsel - The Court consolidates the two cases whose captions are shown in this Order. Going forward, each document filed by any party in this litigation shall bear the following caption: In re Portland General Electric Company Securities Litigation, Case No. 3:20-cv-1583-SI. In addition, all filings in this case going forward shall be made only in the consolidated lead case. The Court appoints Mississippi PERS as the Lead Plaintiff for the putative class. The Court also appoints the law firm of GRANT & EISENHOFER P.A. as Lead Counsel for the putative class, as requested by the Lead Plaintiff. The Court further appoints the law firm of STOLL STOLL BERNE LOKTING & SHLACHTER P.C. as Liaison Counsel for the putative class, also as requested by the Lead Plaintiff. The Court GRANTS the motion filed by Mississippi PERS for consolidation, appointment as lead plaintiff, and approval of lead plaintiff's selection of counsel, ECF 11 . Within 60 days of entry of this Order, the Lead Plaintiff shall file a consolidated amended complaint. Within 60 days thereafter, Defendants shall answer, move to dismiss, or otherwise respond to the consolidated amended complaint. If Defendants move to dismiss, the Lead Plaintiff shall have 60 days to respond to that motion, and Defendants shall have 45 days to reply. Signed on 11/10/2020 by Judge Michael H. Simon. (mja) (Entered: 11/10/2020)",
+      "docket_entry_id": 147862532,
+      "document_number": 20,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-11-10",
+      "entry_number": 20,
+      "filepath_local": "recap/gov.uscourts.ord.155336/gov.uscourts.ord.155336.20.0.pdf",
+      "id": 152628879,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-04-06T05:57:56.741545Z",
+        "date_created": "2020-11-24T03:11:58.977782Z"
+      },
+      "pacer_doc_id": "15107763712",
+      "page_count": 13,
+      "short_description": "",
+      "snippet": "      Case 3:20-cv-01583-SI   Document 20    Filed 11/10/20   Page 1 of 13\n\n\n\n\n                   IN THE UNITED STATES DISTRICT COURT\n\n                         FOR THE DISTRICT OF OREGON\n\n\n\nPAMELA T. CANNATARO, individually and on       Case No. 3:20-cv-1583-SI (LEAD)\nbehalf of all others similarly situated,\n                                               Related Case: 3:20-cv-1786-SI\n            Plaintiff,\n                                               ORDER CONSOLIDATING\n      v.               "
+    },
+    {
+      "absolute_url": "/docket/18432294/15/in-re-portland-general-electric-company-securities-litigation/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Motion for Leave to Appear Pro Hac Vice. Pro Hac Vice admission requested by attorney Virginia Milstead. Filing fee in the amount of $300 collected; Agency Tracking ID: AORDC-7473675. Filed by Maria M. Pope, James F. Lobdell, Portland General Electric Company. (Milstead, Virginia) (Entered: 11/10/2020)",
+      "docket_entry_id": 147862524,
+      "document_number": 15,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-11-10",
+      "entry_number": 15,
+      "filepath_local": "recap/gov.uscourts.ord.155336/gov.uscourts.ord.155336.15.0.pdf",
+      "id": 152628871,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-04-06T05:57:56.741545Z",
+        "date_created": "2020-11-24T03:11:58.794203Z"
+      },
+      "pacer_doc_id": "15107763600",
+      "page_count": 3,
+      "short_description": "",
+      "snippet": "          Case 3:20-cv-01583-SI            Document 15    Filed 11/10/20      Page 1 of 3\n\n\n\n\n                               UNITED STATES DISTRICT COURT\n\n                                         DISTRICT OF OREGON\n\n\nPAMELA T. CANNATARO\n                                                                   3:20-cv-01583-SI\n                                                        Case No.: ________________________\n                           Plaintiff(s),\n                                               "
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "Securities/Commodities",
+  "trustee_str": null
+}

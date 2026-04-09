@@ -1,0 +1,89 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Tesla, Inc.",
+  "cik": 1318605,
+  "sic": "3711",
+  "sic_description": "Motor Vehicles & Passenger Car Bodies",
+  "tickers": [
+    "TSLA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "stateOfIncorporation": "TX",
+  "why_selected": "Musk tweets 證券詐欺",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "10-K",
+      "date": "2026-01-29",
+      "accession": "0001628280-26-003952",
+      "filename": "10-K_2026-01-29_tsla-20251231.htm",
+      "description": "10-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-28",
+      "accession": "0001628280-26-003837",
+      "filename": "8-K_2026-01-28_tsla-20260128.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2026-01-02",
+      "accession": "0001628280-26-000016",
+      "filename": "8-K_2026-01-02_tsla-20260102.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-11-07",
+      "accession": "0001104659-25-108507",
+      "filename": "8-K_2025-11-07_tm2530590d1_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-10-23",
+      "accession": "0001628280-25-045968",
+      "filename": "10-Q_2025-10-23_tsla-20250930.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-10-22",
+      "accession": "0001628280-25-045861",
+      "filename": "8-K_2025-10-22_tsla-20251022.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-10-02",
+      "accession": "0001628280-25-043530",
+      "filename": "8-K_2025-10-02_tsla-20251002.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-09-05",
+      "accession": "0001104659-25-087862",
+      "filename": "8-K_2025-09-05_tm2525337d1_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-08-04",
+      "accession": "0001104659-25-073263",
+      "filename": "8-K_2025-08-04_tm2522385d1_8k.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2025-07-24",
+      "accession": "0001628280-25-035806",
+      "filename": "10-Q_2025-07-24_tsla-20250630.htm",
+      "description": "10-Q"
+    }
+  ],
+  "total_filings_available": 1004
+}

@@ -1,0 +1,109 @@
+{
+  "assignedTo": null,
+  "assigned_to_id": null,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "United States v. Aleynikov",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "dateArgued": null,
+  "dateFiled": "2011-03-24",
+  "dateTerminated": "2012-02-16",
+  "docketNumber": "11-1126",
+  "docket_absolute_url": "/docket/4135138/united-states-v-aleynikov/",
+  "docket_id": 4135138,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-03-03T05:11:09.550878Z",
+    "date_created": "2016-08-18T23:13:14.322774Z",
+    "score": {
+      "bm25": 2272.3433
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "",
+  "party": [
+    "United States",
+    "Aleynikov"
+  ],
+  "party_id": [],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/4135138/1/2/united-states-v-aleynikov/",
+      "attachment_number": 2,
+      "cites": [],
+      "description": "NOTICE OF CRIMINAL APPEAL, with district court docket, on behalf of Appellant Sergey Aleynikov, FILED. [244061] [11-1126]",
+      "docket_entry_id": 677028,
+      "document_number": 1,
+      "document_type": "Attachment",
+      "entry_date_filed": "2011-03-24",
+      "entry_number": 1,
+      "filepath_local": "recap/gov.uscourts.ca2.11-1126.1.2.pdf",
+      "id": 532939,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-03-10T23:25:22.437124Z",
+        "date_created": "2016-08-18T23:13:14.359190Z"
+      },
+      "pacer_doc_id": "0020651756",
+      "page_count": 2,
+      "short_description": "Dkt_Ntc_BK_CV_PR_Tax",
+      "snippet": "       Case: 11-1126      Document: 1-2       Page: 1     03/24/2011          244061   2\n\n\n\n\n                  United States Court of Appeals for the Second Circuit\n                          Thurgood Marshall U.S. Courthouse\n                                    40 Foley Square\n                                 New York, NY 10007\n DENNIS JACOBS                                              CATHERINE O'HAGAN WOLFE\n CHIEF JUDGE                                                 CLERK OF COURT\n\n\n\n\n Date: "
+    },
+    {
+      "absolute_url": "/docket/4135138/1/1/united-states-v-aleynikov/",
+      "attachment_number": 1,
+      "cites": [],
+      "description": "NOTICE OF CRIMINAL APPEAL, with district court docket, on behalf of Appellant Sergey Aleynikov, FILED. [244061] [11-1126]",
+      "docket_entry_id": 677028,
+      "document_number": 1,
+      "document_type": "Attachment",
+      "entry_date_filed": "2011-03-24",
+      "entry_number": 1,
+      "filepath_local": "recap/gov.uscourts.ca2.11-1126.1.1.pdf",
+      "id": 532938,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-03-10T23:25:04.979737Z",
+        "date_created": "2016-08-18T23:13:14.349309Z"
+      },
+      "pacer_doc_id": "0020651753",
+      "page_count": 22,
+      "short_description": "Case FILED",
+      "snippet": "           Case:\n            Case11-1126    Document: Document\n                 1:10-cr-00096-DLC   1-1 Page:  1\n                                              149                                   03/24/2011\n                                                                                   Filed 03/23/11 244061\n                                                                                                  Page 1 of 322\n\nCriminal Notice of Appeal· Form A                                         "
+    },
+    {
+      "absolute_url": "/docket/4135138/51/united-states-v-aleynikov/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "DEFECTIVE DOCUMENT, BRIEF, [50], on behalf of Appellant Sergey Aleynikov, FILED.[306207] [11-1126]",
+      "docket_entry_id": 677051,
+      "document_number": 51,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2011-06-03",
+      "entry_number": 51,
+      "filepath_local": null,
+      "id": 532962,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-03-27T21:40:13.863002Z",
+        "date_created": "2016-08-18T23:13:14.704309Z"
+      },
+      "pacer_doc_id": "0020815215",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

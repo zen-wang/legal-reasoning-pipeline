@@ -1,0 +1,452 @@
+                                                     USDC SDNY 
+                                                     DOCUMENT 
+SOUTHERN DISTRICT OF NEW YORK                     DOC #: 
+□□□                    ne  KX       DATE FILED:__  6/12/2020 
+MARTIN COHEN, Individually and on Behalf of All             : 
+Others Similarly Situated,                                  : 
+                      Plaintiff,                          :       1:20-cv-01293-LJL 
+
+          -V-                                             :       OPINION & ORDER 
+LUCKIN COFFEE INC., et al.,                                 : 
+                      Defendants.                         : 
+
+    Presently before the Court are competing motions from the following movants: Luckin 
+Investor Group (the “Luckin Group”); Sjunde AP-Fonden (“AP7”) and Louisiana Sheriffs’ 
+Pension & Relief Fund (“Louisiana Sheriffs”) (collectively, the “AP7 Group”); Teamsters Local 
+710 Pension Fund (“Local 710”); Wai Chun Shek (“Shek’’); and Chaile Steinberg (“Steinberg’’). 
+Each of these movants seeks appointment as lead plaintiff in a class action securities case against 
+Luckin Coffee Inc. (“Luckin” or the “Company’’) and certain other defendants.  The case alleges 
+violations of the Securities Act of 1933, as amended (the “Securities Act’) and the Securities 
+Exchange Act of 1934, as amended (the “Exchange Act”).!  Each movant also proposes its 
+respective retained counsel as class counsel.  As explained below, the AP7 Group is the party 
+with the largest financial interest that also satisfies all other requirements under the Private 
+Securities Litigation Reform Act of 1995 (the “PSLRA”).  The Court therefore appoints the AP7 
+
+' A number of former movants either withdrew their motions for appointment as lead plaintiff or filed motions of 
+non-opposition.  Those former movants include: the Conway Group; Mike Farhat; the Bashy Group; Amrik Hira; 
+Satyanarayana Kanchanapalli; Leonard Ross; Michael Bergenholtz; Boston Retirement System; Jimmy Chan; the 
+Develter Group; Fulton County Employees’ Retirement System; Wei Zuo; and Chesi Assets Limited Group.
+
+Group as lead plaintiff and appoints its counsel, Bernstein Litowitz Berger & Grossman LLP and 
+Kessler Topaz Meltzer & Check, LLP, as class counsel.                     
+            BACKGROUND AND PROCEDURAL HISTORY                           
+   Luckin is a company based in the People’s Republic of China that sells coffee, other 
+
+drinks, and a variety of food items.  (Dkt. No. 63 at 3.)  On May 17, 2019, Luckin completed an 
+initial public offering (“IPO”) of its American Depository Shares (“ADSs”).  (Id.)  It completed a 
+secondary offering on January 10, 2020.  (Id.)                            
+   On January 31, 2020, Muddy Waters Research published a report stating that Luckin had 
+fabricated key financial performance metrics.  (Dkt. No. 66 at 4.)  Luckin’s stock price dropped 
+immediately and substantially in the wake of this report’s publication.  (Id.)  A series of actions 
+was then filed in this Court2 and in the Eastern District of New York3 (collectively, the “Related 
+Actions”), alleging that Luckin’s offerings violated the Securities Act and the Exchange Act, and 
+asserting claims for relief.  (Id. at 2–3.)  According to the complaints, Luckin failed to disclose 
+material information and made false and misleading public statements.  (Id.)  In particular, the 
+
+complaints alleged that Luckin inflated sales and revenue numbers, overstating the Company’s 
+financial health and rendering other of Luckin’s public statements materially false and/or 
+misleading.  (Id. at 3–4.)                                                
+   Luckin initially denied the Muddy Waters Research report’s allegations, but on April 2, 
+2020, Luckin publicly announced that investors should not rely on the Company’s previous 
+financial statements.  (Dkt. No. 54 at 3–4.)  Following an internal investigation, Luckin 
+announced that high-level employees at the Company had in fact fabricated certain transactions 
+
+
+2 See Cohen v. Luckin Coffee Inc., et al., Case No. 1:20-cv-01293, which was filed on February 13, 2020, and Shek 
+v. Luckin Coffee Inc., et al., Case No. 1:20-cv-02977, which was filed on April 10, 2020. 
+3 See Sterckx v. Luckin Coffee Inc. et al., Case No. 1:20-cv-01677, which was filed on April 2, 2020, and Gopu, et 
+al. v. Luckin Coffee Inc., et al., Case No.1:20-cv-01747, which was filed on April 8, 2020. 
+amounting to millions of dollars in sales revenue.  (Id.)  This revelation led to another precipitous 
+drop in the Company’s stock price.  (Id. at 4.)                           
+   On February 13, 2020, pursuant to PLSRA requirements for prosecuting a securities class 
+action, notice was published on Globe Newswire advising prospective class members of the 
+pendency of this action, the alleged claims, the class definition, the class period,4 and the sixty-
+
+day deadline by which any applicant should seek appointment as lead plaintiff.  (Id. at 5; see 15 
+U.S.C. §78u-4(a)(3)(B)(iii).)  Several parties moved for the consolidation of the Related Actions 
+into a single class action suit against Luckin and certain other defendants, which the Court 
+granted on May 15, 2020.  (Dkt. No. 104.)  As described above, five movants now seek 
+appointment as lead plaintiff in the consolidated suit, as well as the appointment of their 
+respective counsel as class counsel.                                      
+                         DISCUSSION                                     
+
+A.  Legal Standards                                                     
+
+   The PSLRA establishes the framework courts use to select a lead plaintiff in class actions 
+brought under the federal securities laws.  First, the PSLRA requires any prospective lead 
+plaintiff to file a motion for appointment as lead plaintiff within sixty days of the publication of 
+notice of the securities class action.  15 U.S.C. § 78u–4(a)(3)(B)(iii)(I)(aa); Id. § 78u–
+4(a)(3)(A)(i).                                                            
+   Next, the PSLRA lays out standards for choosing one lead plaintiff from among the 
+candidates who file motions.  The PSLRA provides that                     
+   the court shall adopt a presumption that the most adequate plaintiff in any private 
+   action arising under this chapter is the person or group of persons that— 
+
+
+4 The parties define the class period as May 17, 2019 through April 6, 2020, inclusive. 
+   (aa) has either filed the complaint or made a motion in response to a notice [of the 
+   complaint within sixty days of the publication of this notice];      
+
+   (bb) in the determination of the court, has the largest financial interest in the relief 
+   sought by the class; and                                             
+
+   (cc) otherwise satisfies the requirements of Rule 23 of the Federal Rules of Civil 
+   Procedure [(“FRCP”)].                                                
+
+15 U.S.C. § 78u–4(a)(3)(B)(iii)(I).  Once the Court identifies a presumptive lead plaintiff, this 
+presumption                                                               
+   may be rebutted only upon proof by a member of the purported plaintiff class that 
+   the presumptively most adequate plaintiff—                           
+
+   (aa) will not fairly and adequately protect the interests of the class; or  
+
+   (bb) is subject to unique defenses that render such plaintiff incapable of 
+   adequately representing the class.                                   
+
+Id. § 78u–4(a)(3)(B)(iii)(II).  If the Court finds that the plaintiff with the largest financial interest 
+in the class action is otherwise ineligible for appointment as lead plaintiff, the Court applies the 
+criteria of the PSLRA to the plaintiff with the second-highest financial interest.  This 
+investigation continues until the Court identifies a suitable lead plaintiff.  See, e.g., Varghese v. 
+China Shenghuo Pharm. Holdings, Inc., 589 F. Supp. 2d 388, 396 n.7 (S.D.N.Y. 2008). 
+   For purposes of choosing a lead plaintiff under the PSLRA, “[t]he parties moving for lead 
+plaintiff are only required to make a prima facie showing that they meet Rule 23 [of the FRCP], 
+and courts need only consider the typicality and adequacy requirements.”  Aude v. Kobe Steel, 
+Ltd., 2018 WL 1634872, at *3 (S.D.N.Y. Apr. 4, 2018).  Movants can demonstrate typicality by 
+showing that their claims “arise from the same conduct from which the other class members’ 
+claims and injuries arise,” In re Crayfish Co. Sec. Litig., 2002 WL 1268013, at *5 (S.D.N.Y. 
+June 6, 2002), and they can demonstrate adequacy if they “(1) [have] no conflict of interest with 
+the other members of the class, (2) [have] sufficient interest in the outcome of the case, and (3) 
+[have] selected counsel that is qualified, experienced, and generally able to conduct the litigation 
+in question,” Aude, 2018 WL 1634872, at *4.  The Court’s determination of adequacy and 
+typicality for purposes of appointing a lead plaintiff is not preclusive of a later challenge at the 
+class certification stage with respect to those factors.  See, e.g., Khunt v. Alibaba Grp. Holding 
+
+Ltd., 102 F. Supp. 3d 523, 536 (S.D.N.Y. 2015) (“[I]n deciding a motion to serve as lead 
+plaintiff, [t]he moving plaintiff must make only a preliminary showing that the adequacy and 
+typicality requirements under Rule 23 have been met. . . . In fact, a wide ranging analysis under 
+Rule 23 is not appropriate at this initial stage of the litigation and should be left for consideration 
+of a motion for class certification.”) (internal quotation marks, citations, and modifications 
+omitted).                                                                 
+   While the PSLRA permits a “group of persons” to serve as lead plaintiff, 15 U.S.C. § 
+78u–4(a)(3)(B)(iii)(I), it does not specify what constitutes an acceptable grouping.  In re eSpeed, 
+Inc. Sec. Litig., 232 F.R.D. 95, 99 (S.D.N.Y. 2005).  “The majority of courts, including those in 
+this District . . . permit[] unrelated investors to join together as a group seeking lead-plaintiff 
+
+status on a case-by-case basis, if such a grouping would best serve the class.”  Varghese v. China 
+Shenghuo Pharm. Holdings, Inc., 589 F. Supp. 2d 388, 392 (S.D.N.Y. 2008).  Varghese 
+identifies factors for the Court to consider when assessing a proposed grouping of plaintiffs as 
+lead plaintiff:                                                           
+   [A] proposed group must proffer an evidentiary showing that unrelated members 
+   of a group will be able to function cohesively and to effectively manage the 
+   litigation apart from their lawyers before its members will be designated as 
+   presumptive lead plaintiffs. Factors that courts have considered when evaluating 
+   whether a group’s members will function cohesively and separately from their 
+   lawyers include evidence of: (1) the existence of a pre-litigation relationship 
+   between group members; (2) involvement of the group members in the litigation 
+   thus far; (3) plans for cooperation; (4) the sophistication of its members; and (5) 
+   whether the members chose outside counsel, and not vice versa[.]     
+                             . . .                                      
+   [C]ourts in this District do not hesitate to deny a proposed group’s motion for 
+   lead-plaintiff status if the movants have not provided a sufficient evidentiary basis 
+   for aggregation or if the court otherwise is persuaded that the proposed group has 
+   been assembled as a makeshift by attorneys for the purpose of amassing an 
+   aggregation of investors purported to have the greatest financial interest in the 
+   action.                                                              
+
+Id.                                                                       
+   Finally, the PSLRA provides that, “[e]xcept as the court may otherwise permit, . . . a 
+person may be a lead plaintiff . . . in no more than 5 securities class actions brought as plaintiff 
+class actions pursuant to the Federal Rules of Civil Procedure during any 3-year period.”  15 
+U.S.C. § 78u–4(a)(3)(B)(vi).                                              
+B.  Lead Plaintiff                                                      
+
+   The movants here agree that the sixty-day window to file a motion for appointment as 
+lead plaintiff closed on April 13, 2020.  (See, e.g., Dkt. No. 107 at 7.)  All five eligible movants 
+filed their motions within that window, and the Court therefore considers their filings timely. 
+   The ranking, from largest to least, of the “financial interest in the relief sought,” 15 
+U.S.C. § 78u–4(a)(3)(B)(iii)(I)(bb), by each candidate for lead plaintiff is as follows: 
+1.  Luckin Group, with an interest of $9.4 million (Dkt. No. 66, Exh. 4); 
+2.  AP7 Group, with an interest of $6.9 million (Dkt. No. 67, Exh. B);  
+3.  Local 710, with an interest of $2.1 million (Dkt. No. 56, Exh. D);  
+4.  Shek, with an interest of $0.7 million (Dkt. No. 11 at 1); and      
+5.  Steinberg, with an interest of $5,044 (Dkt. No. 92, Exh. C).5       
+
+   The Court next proceeds to determine whether the movants who have proposed a “group 
+of persons” satisfy the relevant standards under Varghese.  This review is outcome-determinative 
+with respect to the first two groups of potential lead plaintiffs.        
+
+5 At the time of briefing, Chesi Assets Limited Group (“Chesi”) claimed the largest financial interest with $19.1 
+million in losses.  (Dkt. No. 97 at 3.)  However, opposing movants questioned the presumptive adequacy of Chesi, 
+noting the 2002 conviction of a key member of Chesi for violating Malaysian securities laws.  (Dkt. No. 98 at 2.)  
+On May 26, 2020, the Court ordered Chesi to submit all filings and other documents associated with this conviction.  
+(Dkt. No. 115.)  In lieu of compliance, Chesi withdrew its motion for appointment as lead plaintiff.  (Dkt. No. 117.) 
+   The Luckin Group does not satisfy Varghese.  The self-titled “Group” is in fact a random 
+assemblage of unlike individuals and a company that (with one limited exception) not only had 
+no pre-existing relationship but apparently did not even know of one another before counsel 
+introduced them.  More specifically, the Luckin Group consists of a British privately-owned 
+
+investment company; an individual in Alpharetta, Georgia with 30 years of investment 
+experience who attended an MBA program for one year; a Canadian engineer who sues on his 
+own behalf as well as on behalf of his brother and grandfather, who have assigned him their 
+interests in the case; a Chinese national about whom no further information is given other than 
+that he is 37 years old, has invested in the securities markets for approximately five years, and 
+lives in Guangzhou, China; and a Saudi Arabian investor about whom no further information is 
+given other than that he has a university degree.  (Dkt. No. 66, Exh. 5 at 1–6.)6  No further 
+information is given about the sophistication of these investors.         
+   As to the involvement of these investors in the litigation thus far, all that is provided is 
+the following boilerplate claim, contained in a joint declaration signed by each member in 
+
+counterpart: “Prior to the filing of our Lead Plaintiff motion, we discussed both with our counsel 
+and with one another, among other things: the strength of the claims against Defendants; the 
+responsibilities and duties of being Lead Plaintiffs; a strategy for prosecuting the action; the 
+benefits that the class would receive from our leadership; the shared desire of each of us to 
+achieve the best possible result for the class; our shared interest in prosecuting the case in a 
+collaborative, likeminded manner; and the actions that we will take to continue to ensure that the 
+class’s claims will be zealously and efficiently litigated.”  (Id. at 8.)  The Court would expect no 
+
+
+6 The “limited exception” mentioned above is that the Canadian engineer and a principal of the British investment 
+company have known one another for approximately seven years as a consequence of overlapping business interests. 
+(Dkt. No. 66 at 9.)                                                       
+less from any person or persons proposing to be lead counsel.  The rote recitation of those factors 
+does not provide evidence that any member of the group—much less the group as a whole—has 
+had significant involvement in the litigation thus far.  As to plans for cooperation, the Luckin 
+Group states that it will “make all efforts, in good faith, to reach consensus with respect to 
+
+litigation decisions, and to that end will consult with each other and our counsel as we deem 
+necessary to fulfill our fiduciary obligations to the Class.”  (Id. at 9.)  No more is stated.   
+   More significantly, although the Luckin Group claims to believe that “geographically 
+disperse representation will benefit the class—particularly in light of the present global COVID-
+19 pandemic,” the group members provide no plan for communicating with one another across 
+time zones.  (Dkt. No. 66, Exh. 5 at 7.)  Nor do they indicate how, if their only communication 
+will be by phone or internet, the fact that they are geographically dispersed will be any advantage 
+over a group that is more centrally located.  Finally, the Luckin Group members provide no 
+evidence that they chose outside counsel, as opposed to counsel choosing them.  As a formal 
+matter, they attest that they “selected” two firms to serve as co-lead counsel.  (Id. at 10.)  From 
+
+the disparate nature of the Luckin Group, there is every reason to believe that the members 
+agreed to be assembled by counsel and to ratify counsel’s representation of them—rather than 
+that they gathered together and engaged in a truly independent selection of counsel.7 
+
+
+
+7 The Luckin Group’s reliance on Peters v. Jinkosolar Holding Co., Ltd., 2012 WL 946875 (S.D.N.Y. Mar. 19, 
+2012), is misplaced.  In that case, Judge Oetken expressed concern that the aggregation into a single group of 
+putative class members (each of whom had relatively small losses) would “run[] afoul of the policy behind the 
+[PSLRA] statute” that presumptively awarded lead plaintiff status to the class member with the largest financial 
+interest.  Id. at *9.  He appointed a group there as lead plaintiff because three of the four of its individual members 
+each had losses in excess of any other individual that moved for appointment as lead plaintiff and thus it could not 
+be said that the group was formed solely “for the obvious purpose of creating a large enough grouping of investors 
+to qualify as lead plaintiff.”  Id. at *8 (citing In re Razorfish, Inc. Sec. Litig., 143 F. Supp. 2d 304, 308 (S.D.N.Y. 
+2001) (internal quotation marks omitted).  By contrast here, the members of the Luckin Group do not individually 
+hold the largest financial interests of the investors competing to be lead plaintiff.   
+   The Court now turns to the holder of the next-largest financial interest: the AP7 Group. 
+The AP7 Group consists of AP7, a Swedish pension fund, and the Louisiana Sheriffs’ Pension & 
+Relief Fund.  The AP7 Group provides no evidence of a pre-litigation relationship between 
+group members.  That is a negative factor but not disqualifying.  See, e.g., Elstein v. Net1 UEPS 
+
+Techs., Inc., 2014 WL 3687277, at *4 (S.D.N.Y. July 23, 2014) (“[P]laintiffs seeking 
+appointment as a group are not required to show a pre-litigation relationship.”).  Both members 
+of the AP7 Group are sophisticated and have experience in securities litigation.8  In particular, 
+both parties are institutional plaintiffs who have acted as fiduciaries and who have combined 
+assets under management of $64 billion along with track records of successfully serving in lead 
+plaintiff groups under the PSLRA.  (Dkt. No. 98 at 23–24.)                
+   AP7 manages $60 billion, has invested as part of Sweden’s national pension system since 
+2000, and has recovered hundreds of millions of dollars for investors as lead or co-lead plaintiff 
+in recent securities class action suits.  (Dkt. No. 67, Exh. G at 2–3 (identifying recent 
+appointments of AP7 as lead or co-lead counsel).)  Similarly, Louisiana Sheriffs is a 
+
+sophisticated pension fund managing $4 billion.  (Id. at 4–5.)  It, too, has recovered hundreds of 
+millions of dollars for investors as lead or co-lead plaintiff in recent securities class action suits.  
+(Id.)  The parties note that “AP7 and Louisiana Sheriffs each have dedicated and experienced 
+personnel who will oversee this matter and are available to confer via telephone and email to 
+ensure that the funds are able to make timely decisions.”  (Id. at 14.)  Their combined experience 
+and resources give some confidence that the group members will have the knowledge and 
+background to appropriately supervise counsel and protect against lawyer-driven litigation.    
+
+
+
+8 Their application is also supported by a joint declaration signed in counterparts.  (Dkt. No. 67, Exh. G.) 
+   The AP7 group members are more concrete than the members of the Luckin Group about 
+their involvement in the litigation thus far.  They discuss having participated in a “conference 
+call.”  (Id. at 11.)  They also discuss having instructed their lawyers to enter into a Joint 
+Prosecution Agreement and to provide it to the Court for in camera review should the Court 
+deem such review to be helpful.  (Id. at 17.)9  Significantly, the parties have laid out plans for 
+
+cooperation in the future that include communications with each other (and not just each 
+individually with counsel) on short notice by email and by telephone.  (Dkt. No. 67, Exh. G at 
+14.)  They also make commitments with respect to their individual participation in the litigation, 
+stating that each of them will attend “court proceedings, depositions, any settlement mediations, 
+and hearings as needed” and that they will review important litigation documents.  (Id. at 7.)   
+   Although it appears from the papers that the members of the AP7 Group—like the 
+members of the Luckin Group—may have had the litigation opportunity identified for them by 
+counsel rather than having independently identified the litigation themselves and then chosen 
+counsel, the AP7 Group at least provides a logic for the selection of counsel.  Each party has had 
+
+prior, extensive experience prosecuting class action securities suits alongside its proposed class 
+counsel.  That is, both members and their selected counsel bring benefits of long-standing 
+lawyer-client relationships, which include, inter alia, trust, effective communication, and cost-
+effectiveness.  (Dkt. No. 67, Exh. G at 2–5.)  It makes sense that, if the experiences of AP7 and 
+Louisiana Sheriffs with their counsel were positive, they would decide to retain those law firms 
+even if the original lawsuit idea came from the lawyers and not the clients.   
+
+
+9 The Court declined the offer and thus expresses no view as to whether the division of work between the firms will 
+be efficient.  That issue, if it arises at all, will arise only when and if there is a request for fees in this case (in which 
+event the Joint Prosecution Agreement may be relevant).  What matters at this stage is that the parties appear to have 
+engaged in an effort to require counsel to efficiently divide work in the form of an agreement with legal 
+significance.  For the same reasons, the Court declines at this stage to review the retainer agreement each client has 
+with counsel, reserving the right to review such agreements at the time of any fee request. 
+   The parties also provide a logic for their grouping; they claim that, together, they would 
+have standing to bring claims under both the Securities Act and the Securities Exchange Act.  
+(Id. at 9.)  Considering all of the above factors, the Court finds that the AP7 Group satisfies the 
+standards under Varghese for a grouping of plaintiffs.                    
+
+   The AP7 Group also makes a prima facie showing of typicality and adequacy under 
+Federal Rule of Civil Procedure 23.  The AP7 Group claims that it “(1) purchased Luckin Coffee 
+ADSs during the Class Period, (2) at prices artificially inflated by Defendants’ materially false 
+and misleading statements and/or omissions, and (3) were damaged as a result.”  (Dkt. No. 63 at 
+8.)  Thus, their injury is of the same kind, and arises out of the same facts, as that of other class 
+members.  (Id.)  Their legal arguments are accordingly very similar.  (Id.)  At this stage, the AP7 
+Group is adequate since its large financial stake incentivizes vigorous representation.  See Lipetz 
+v. Wachovia Corp., 2008 WL 4615895, at *3 (S.D.N.Y. Oct. 10, 2008) (observing that a party 
+having “a substantial financial stake in the litigation . . . leads the Court to believe that as lead 
+plaintiff, [the party] would prosecute the claim vigorously”).  There is no evidence suggesting a 
+
+conflict of interest with other class members.  And, AP7 Group has retained counsel highly 
+experienced with securities class actions.                                
+   Opposing movants offer several arguments to rebut the AP7 Group’s presumptive 
+adequacy and typicality, none of which the Court finds convincing.        
+   First, opposing movants argue that AP7 may face a unique defense in the form of res 
+judicata concerns.  (See, e.g., Dkt. No. 95 at 14–16.)  Given AP7’s status as a Swedish pension 
+fund, Swedish courts may not uphold judgments of United States courts, and so a prevailing 
+defendant may not be protected from relitigation in Sweden.  (Id.; see Borochoff v. 
+Glaxosmithkline PLC, 246 F.R.D. 201, 203 (S.D.N.Y. 2007) (denying lead plaintiff certification 
+to a German movant in part due to res judicata concerns).)  In the Court’s judgment, the 
+concerns expressed in Borochoff go more to whether a class should be certified at all, regardless 
+of who is appointed lead plaintiff, and not to whether a foreign litigant should represent the class.  
+In some jurisdictions, a judgment against an absent class member is not accorded res judicata 
+
+effect.  See Borochoff, 246 F.R.D. at 203–04 (discussing how a class comprised of members who 
+are not bound by res judicata may not satisfy the “superiority” requirement); see also In re 
+Vivendi Universal, S.A., 242 F.R.D. 76, 107 (S.D.N.Y. 2007) (limiting a class “to foreign 
+shareholders whose courts, in the unlikely event of successive litigations, are likely to give res 
+judicata effect to any judgment herein”).  Those concerns may be a “focus of decisional 
+discussion of the difficulties inherent in certifying transnational classes,” but they “are not an 
+issue with respect to the selection of Lead Plaintiffs, since those persons will clearly be bound by 
+the judgment of the court.”  Takeda v. Turbodyne Techs., Inc., 67 F. Supp. 2d 1129, 1139 (C.D. 
+Cal. 1999); Dkt. No. 109 at 7.  Indeed, “courts routinely appoint foreign investors as lead 
+plaintiffs,” Sgalambo v. McKenzie, 268 F.R.D. 170, 176 (S.D.N.Y. 2010), and foreign lead 
+
+plaintiffs have been responsible for many large securities class actions in this Court.  (See Dkt. 
+No. 109 at 8 (listing various cases).)  More recently, Stone v. Agnico-Eagle Mines Ltd. rejected 
+Borochoff in appointing AP1, a related Swedish pension fund, as lead plaintiff in that case.  280 
+F.R.D. 142, 146 (S.D.N.Y. 2012).  The court noted that “res judicata concerns are ‘explicitly 
+rejected when the foreign lead plaintiff movants are suing as a result of purchases made on a 
+domestic securities exchange.’”  Id. (quoting Foley v. Transocean Ltd., 272 F.R.D. 126, 133 
+(S.D.N.Y. 2011)).  This Court agrees with the reasoning in Stone and does not find the opposing 
+movants’ res judicata argument persuasive.                                
+   Next, opposing movants challenge AP7’s standing.  “[A]t an irreducible minimum, 
+Art[icle] III [of the Constitution] requires the party who invokes the court’s authority to show 
+that he personally has suffered some actual or threatened injury as a result of the putatively 
+illegal conduct of the defendant.”  Valley Forge Christian Coll. v. Am. United for Separation of 
+
+Church & State, Inc., 454 U.S. 464, 472 (1982) (internal quotations omitted).  In W.R. Huff Asset 
+Management Co., LLC v. Deloitte & Touche LLP, the Second Circuit held that an investment 
+advisor lacks direct standing to bring suit for federal securities law violations on behalf of its 
+clients: the advisor, not being the “Beneficial Owner[]” of the securities in question, does not 
+suffer “injury-in-fact.”  549 F.3d 100, 110 (2d Cir. 2008).  AP7 does not dispute this 
+characterization, but rather asserts that it is entitled to a “prudential exception,” being the only 
+party able to pursue claims on behalf of its fund.  (Dkt. No. 109 at 3.)   
+   Because AP7 is a frequent movant for appointment as lead plaintiff in securities class 
+actions, this precise point has arisen repeatedly, including in this District.  In Pipefitters Local 
+No. 636 Defined Ben. Plan v. Bank of Am. Corp., for example, the court declined to appoint AP7 
+
+as lead plaintiff, rejecting its prudential exception argument.  275 F.R.D. 187, 191 (S.D.N.Y. 
+2011).  But subsequently, in United Union of Roofers, Waterproofers & Allied Workers Local 
+Union No. 8 v. Ocwen Fin. Corp., the court noted that the Pipefitters determination had “been 
+rejected by other courts” and concluded that doubts regarding AP7’s standing did not overcome 
+its presumptive adequacy.  2014 WL 7236985, at *3 (S.D. Fla. Nov. 7, 2014).  Most recently, the 
+Ocwen reasoning prevailed, with a court finding that concerns about AP7’s standing “are not 
+grounded in evidence” and appointing AP7 as lead plaintiff.  Plaut v. Goldman Sachs Grp., Inc., 
+2019 WL 4512774, at *6 (S.D.N.Y. Sept. 19, 2019) (quoting Ocwen, 2014 WL 7236985, at *3); 
+see also Hachem v. Gen. Elec. Inc., No. 17-cv-8457, Dkt. No. 139 (S.D.N.Y. May 23, 2018) 
+(also appointing AP7 as lead plaintiff); id., Dkt. No. 140 (transcript of hearing at which the court 
+cited Ocwen in concluding that “the ‘prudential exception’ applies here . . . and that standing is 
+not an issue”).  Importantly, the Plaut court noted that the party opposing AP7’s appointment 
+“ha[d] not identified a single case” in which AP7’s standing was “successfully challenged.”  
+
+2019 WL 4512774 at *6 n.12.  The PSLRA requires “proof” that the presumptive lead plaintiff 
+“is subject to unique defenses.”  15 U.S.C. § 78u–4(a)(3)(B)(iii)(II).  Competing movants have 
+not presented such proof and their standing argument is therefore rejected.   
+   Local 710 argues that AP7 violates the PSLRA’s so-called “five-in-three rule,” which 
+provides: “Except as the court may otherwise permit, . . . a person may be a lead plaintiff . . . in 
+no more than 5 securities class actions brought as plaintiff class actions pursuant to the Federal 
+Rules of Civil Procedure during any 3-year period.”  15 U.S.C. § 78u–4(a)(3)(B)(vi).  Local 710 
+reads the word “brought” expansively, asserting that AP7 “is currently serving as lead plaintiff in 
+five cases [and] is seeking appointment to its sixth case.”  (Dkt. No. 95 at 17.)  In fact, however, 
+Local 710 recognizes that AP7 was appointed as lead plaintiff in only three cases filed in the past 
+
+three years.  (Dkt. No. 95 at 18 n.12.)  Not only does Local 710’s interpretation of the word 
+“brought” divorce the text from its natural meaning, it also runs contrary to another part of the 
+PSLRA.  In order to help courts enforce the five-in-three rule, the statute mandates that  
+   [e]ach plaintiff seeking to serve as a representative party on behalf of a class shall 
+   provide a sworn certification . . . that . . . identifies any other action under this 
+   chapter, filed during the 3-year period preceding the date on which the 
+   certification is signed by the plaintiff, in which the plaintiff has sought to serve as 
+   a representative party on behalf of a class.                         
+
+15 U.S.C. § 78u–4(a)(2)(A)(v) (emphasis added).  It would make no sense for the statute to 
+require plaintiffs to identify only actions filed in the past three years if the PSLRA really meant 
+to exclude parties that served as lead plaintiffs in more than five cases that were pending in the 
+past three-year time period.  The only reasonable reading of the word “brought” is as a synonym 
+for “filed.”  The Court therefore rejects Local 710’s argument.           
+   Consistent with the foregoing discussion, the presumption that AP7 Group is the most 
+adequate lead plaintiff remains unrebutted.  It is therefore unnecessary to evaluate the remaining 
+movants, all of whom claim a lesser financial interest.10                 
+
+C.  Class Counsel                                                       
+
+   Under the PSLRA, “[t]he most adequate plaintiff shall, subject to the approval of the 
+court, select and retain counsel to represent the class.”  15 U.S.C. § 78u-4(a)(3)(B)(v).  The 
+PSLRA “evidences a strong presumption in favor of approving a properly-selected lead 
+plaintiff’s decisions as to counsel selection and counsel retention.”  In re Adelphia Commc’ns 
+Corp. Sec. & Derivative Litig., 2008 WL 4128702, at *2 (S.D.N.Y. Sept. 3, 2008) (quoting In re 
+Cendant Corp. Litig., 264 F.3d 201, 276 (3d Cir. 2001)); see, e.g., In re Ply Gem Holdings, Inc., 
+Sec. Litig., 2014 WL 12772081, at *2 (S.D.N.Y. Oct. 14, 2014) (same).  The AP7 Group has 
+selected Bernstein Litowitz Berger & Grossman LLP and Kessler Topaz Meltzer & Check, LLP, 
+firms highly experienced in securities class action litigation.  The Court sees no reason why these 
+firms would not adequately represent the class.                           
+                           CONCLUSION                                   
+
+
+10 Steinberg seeks appointment as lead plaintiff or co-lead plaintiff on the grounds that, among the movants, only she 
+purchased securities in the Company’s IPO.  (Dkt. No. 101 at 2.)  Accordingly, unlike opposing movants, Steinberg 
+asserts that she will not be susceptible to the defense that her securities purchases were not be traceable to Luckin’s 
+allegedly misleading public statements.  (Id. at 3.)  As Steinberg offers no further evidence that other movants’ 
+securities are not traceable to Luckin’s public statements, her unsupported assertions clearly do not constitute 
+“proof” for rebuttal of adequacy.  15 U.S.C. § 78u–4(a)(3)(B)(iii)(II).  While the Court does have discretion to 
+appoint co-lead plaintiffs, Steinberg has not demonstrated that “novel circumstances” in this class action call for 
+such a structure.  Pirelli Armstrong Tire Corp. Retiree Med. Benefits Tr. v. LaBranche & Co., 229 F.R.D. 395, 420 
+(S.D.N.Y. 2004).  Indeed, Steinberg’s small financial interest of $5,044 weighs heavily against giving Steinberg a 
+co-leading role in this case.  (Dkt. No. 92, Exh. C.)  The Court sees no compelling reason to complicate the structure 
+of the lead plaintiff group.                                              
+    For the foregoing reasons, the Court GRANTS the AP7 Group’s motion (Dkt. No. 61). 
+The Court appoints the AP7 Group as lead plaintiff and appoints its counsel, Bernstein Litowitz 
+Berger & Grossman LLP and Kessler Topaz Meltzer & Check, LLP, as class counsel. 
+    The Court therefore DENIES the remaining motions for appointment to lead plaintiff. 
+The Clerk of Court is respectfully directed to terminate Dkt. Nos. 10, 15, 18, 22, 25, 28, 32, 34, 
+38, 41, 43, 44, 48, 51, 58, 64, and 69. 
+    IT IS FURTHER ORDERED that the newly-appointed lead plaintiff shall meet and 
+confer with the defendants on a briefing schedule for a consolidated amended complaint and any 
+motion to dismiss.  The parties shall jointly submit a proposed schedule on ECF no later than 
+June 26, 2020 at 5:00 p.m.  If the parties are unable to agree on a proposed schedule, they may 
+file separate proposals. 
+
+    SO ORDERED. 
+
+Dated: June 12, 2020                                                         — 
+New York, New York                                  LEWIS J. LIMAN 
+                                              United States District Judge 
+
+                                    16 

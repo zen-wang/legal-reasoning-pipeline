@@ -1,0 +1,84 @@
+[
+  {
+    "absolute_url": "/audio/8373/matador-production-company-v-weatherford-artificia/",
+    "caseName": "Halliburton Co. v. Erica P. John Fund, Inc.",
+    "case_name_full": "",
+    "court": "Supreme Court of the United States",
+    "court_citation_string": "SCOTUS",
+    "court_id": "scotus",
+    "dateArgued": "2014-03-05",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "06-14-00015-CV",
+    "docket_id": 2604420,
+    "download_url": "http://www.supremecourt.gov/media/audio/mp3files/13-317.mp3",
+    "duration": 3676,
+    "file_size_mp3": 22654115,
+    "id": 8373,
+    "judge": "",
+    "local_path": "mp3/2014/03/05/halliburton_co._v._erica_p._john_fund_inc._cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T12:50:59.479077Z",
+      "date_created": "2014-11-18T11:27:33.622003Z",
+      "score": {
+        "bm25": 13070074000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      77,
+      384,
+      1213,
+      1691,
+      1747,
+      2738,
+      2852,
+      3045,
+      3200
+    ],
+    "sha1": "13067406f31c48e6ee6638c17c4b15fc80ba8464",
+    "snippet": "We'll hear argument this morning in Case 13-317, Halliburton Company v. the Erica P. John Fund. Mr. Street? Mr. Chief Justice, and may it please the Court, Basic v. Levinson should be overruled because it was wrong when it was decided, and it is even more clearly erroneous today. Basic substituted economic theory for the bedrock common law requirement of actual reliance that Congress embraced in the most analogous express cause of action. Basic's judicially created presumption preserves an",
+    "source": "H"
+  },
+  {
+    "absolute_url": "/audio/89532/erica-p-john-fund-inc-v-halliburton-co/",
+    "caseName": "Erica P. John Fund, Inc. v. Halliburton Co.",
+    "case_name_full": "",
+    "court": "Supreme Court of the United States",
+    "court_citation_string": "SCOTUS",
+    "court_id": "scotus",
+    "dateArgued": "2011-04-25",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "09-1403",
+    "docket_id": 1260396,
+    "download_url": "http://www.supremecourt.gov/media/audio/mp3files/09-1403.mp3",
+    "duration": 3374,
+    "file_size_mp3": 20335214,
+    "id": 89532,
+    "judge": "",
+    "local_path": "mp3/2011/04/25/erica_p._john_fund_inc._v._halliburton_co._cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-22T18:21:35.266988Z",
+      "date_created": "2023-12-13T19:08:03.159462Z",
+      "score": {
+        "bm25": 12979785000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      77,
+      384,
+      1213,
+      1691,
+      1747,
+      2738,
+      2852,
+      3045,
+      3200
+    ],
+    "sha1": "48d0e5dd1c671f69c443a0534c1155d7a9fa63dd",
+    "snippet": "Mr. Boies. Mr. Chief Justice, may it please the Court. The district court below found, and it is not disputed here, that the plaintiff fulfilled all the requirements of Rule 23a for class certification. The district court also found, and the court of appeals affirmed, that the plaintiff demonstrated all the requirements for class certification under 23b-3, except for the Fifth Circuit's loss causation requirement. The court below recognized that whether or not there was an efficient market was",
+    "source": "C"
+  }
+]

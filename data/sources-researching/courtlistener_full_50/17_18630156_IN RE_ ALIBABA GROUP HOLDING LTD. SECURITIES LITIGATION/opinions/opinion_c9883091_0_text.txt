@@ -1,0 +1,819 @@
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ee   ee    ee   ee ee    eX 
+IN RE: ALIBABA GROUP HOLDINGLTD.             MEMORANDUM  DECISION 
+SECURITIES LITIGATION.                                 AND  ORDER 
+                                        :             20 Civ. 9568 (GBD) 
+    ee ee  eee ee   ee eee  eee  eX 
+GEORGE B. DANIELS, District Judge: 
+    Plaintiffs Salem Gharsalli, Laura Ciccarello, Dineshchandra Makadia, and Yan Tongbiao 
+(collectively, “Plaintiffs”) bring this action against Alibaba Group Holding Limited (‘Alibaba” or 
+“the Company”), Jack Ma, Maggie Wu, and Daniel Zhang (collectively, “Defendants”), pursuant 
+to Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b—5, and Section 20(a).'  (See 
+Consol. Am, Compl. (“CAC”), ECF No.  55.)  Defendants moved to dismiss pursuant to Rule 
+12(b)(1), Rule 12(b)(2}, and Rule 12(b)(6) of the Federal Rules of Civil Procedure (“FRCP”) and 
+the Private Securities Litigation Reform Act of 1995 (“PSLRA”), 15 U.S.C. § 78u-4(b).  (ECF 
+Nos.  60-62.)  Defendants’  motion to  dismiss this  action as to  Defendant Ma is  GRANTED. 
+Defendants’  motion  to  dismiss  Plaintiffs’  Ant  claims  in  Counts  One  and  Two  against  ail 
+Defendants is GRANTED.  Defendants’ motion to dismiss Plaintiffs’ Exclusivity Practices claims 
+in Counts One and Two is DENIED, 
+                       I,    FACTUAL BACKGROUND 
+    Plaintiffs bring this federal securities action against Alibaba, Jack Ma, Daniel Zhang, and 
+Maggie Wu, on behalf of all investors (the “Class”) who purchased or otherwise acquired Alibaba 
+American Depositary Shares (“ADSs”) between July 9, 2020 and December 23, 2020, inclusive 
+
+' This Court refers to Alibaba, Wu, and Zhang’s memorandum of law in support of their motion to dismiss 
+as “Alibaba Defs.’ Br.” (ECF No. 61); to Plaintiffs’ memorandum of law in opposition to the Alibaba 
+Defendants’ motion as “Pls.” Alibaba Opp.” (ECF No. 74); to Plaintiffs’ opposition to Ma’s memorandum 
+     Ma Opp.” (ECF No. 75); and to Ma’s reply in support of his motion as “Ma Def. Reply” (ECF No.
+
+(the “Class Period”),  (CAC § 1.)  During the Class Period, Ma was an Alibaba board member. 
+(id. Jf 12, 53-54.)  Defendant Zhang served as Alibaba’s Chief Executive Officer (“CEO”).  Ud. 
+4 41.)  Defendant Wu served as Alibaba’s Chief Financial  Officer (“CFO”).  (Ud. § 42.)  All 
+Defendants were members of the Alibaba Partnership. (/d. {| 53.) 
+      A.  Alibaba’s Business 
+    Alibaba is the largest e-retailer in the world and operates multiple online marketplaces 
+including Alibaba.com, Taobao.com, and Tmall.com.  (CAC { 2.)  Alibaba is headquartered in the 
+People’s Republic of China (“China” or “PRC”), and its ADSs trade on the New York Stock 
+Exchange (“NYSE”).  Gd. fj 45, 376.) 
+    Alibaba’s business is regulated by multiple PRC regulatory agencies, including the State 
+Administration for Market Regulation ““SAMR”), which enforces China’s e-commerce and anti- 
+monopoly laws (“AML”).  (id.  7 4.)  During the Class Period, Alibaba employed exclusivity 
+practices which “required or coerced merchants to sell exclusively on Alibaba platforms” and 
+punished merchants who sold on competitor platforms.  Ud. 45.)  In November 2019, the SAMR 
+instructed Alibaba and other internet companies that certain exclusivity practices violated PRC 
+law. Ud. | 6-7.)  In July 2020, Alibaba signed an agreement with the SAMR pledging that it 
+would “not force platform operators to conduct ‘exclusive cooperation’” and would “not impose 
+any  unreasonable  restrictions  or  make  any  unreasonable  requirements  on  the  selections  of 
+platforms  by  the  operators.”  (/d.  §  8-10.)   Plaintiffs  allege  that,  despite  this  pledge,  and 
+unbeknownst to investors, Alibaba required merchant exclusivity throughout the Class Period. 
+    In addition, Alibaba owns a 33% equity interest in Ant Group Co., Ltd. (“Ant” or “Ant 
+Group”),  a financial technology  company known for  operating  Alipay,  a mobile  and online 
+payment platform.  (/d.§ 11.)  Ant was spun off from Alibaba in 2011, but Alibaba’s 33% stake 
+in the Group made Alibaba Ant Group’s “controlling shareholder” throughout the Class Period.
+
+(id. 4@ 11-12.) Alibaba also described Ant as “an unconsolidated related party of Alibaba” in SEC 
+filings.  (/d. | 274.)  On July 20, 2020, Alibaba announced in a 6—-K that Ant Group was preparing 
+for an initial public offering (“Ant IPO”) in a joint listing on Stock Exchanges in Hong Kong 
+(“EIKSE”) and Shanghai. Ud. {§ 15-16.)  In that announcement, Alibaba noted that the IPO was 
+expected to occur on November 5, 2020, but cautioned investors that “there can be no assurance 
+as to if and when [the Ant IPO] will be completed.” (Ud. J] 165, 274, 276.) Alibaba subscribed to 
+buy an estimated $7.5 billion in additional Ant shares as part of the Ant IPO,  Ud.) 
+    On November 2, 2020, officials from multiple PRC regulatory agencies and the People’s 
+Bank of China met with Defendant Ma and two Ant executives. (/d. § 203.) That same day, PRC 
+regulators released draft regulation which changed online micro-lending rules applicable to Ant’s 
+online loan business.  (/d.  ¢ 203, fn. 110.) The following day, Alibaba announced that the Ant IPO 
+had been suspended because Ant “may not meet listing qualifications or disclosure requirements 
+due to material matters relating to the regulatory interview of its ultimate controller, executive 
+chairman and [CEO] by the relevant regulators,”  (/d. § 204.)  Alibaba’s ADSs declined by 8% 
+later that day.  (/d.  | 24.)  One week later, on November 10, 2020, the SAMR published draft rules 
+to curtail anti-competitive practices on online platforms, affecting Alibaba’s business policies.  (/d. 
+{ 123.)  That day, Alibaba’s ADSs fell by 8.26%, (/d. | 125.) 
+    On December 23, 2020, the SAMR announced an investigation into Alibaba’s antitrust 
+practices,   (Ud.  4  130.)  Upon news of this announcement, the price  of Alibaba’s ADSs fell 
+approximately  13%.  (/d. § 131.)  In April 2021, months after the Class Period had ended, the 
+SAMR’s investigation concluded that Alibaba had violated the AML and imposed a $2.8 billion 
+penalty, (/d. □□ 133, 142.) As part of its findings, the SAMR concluded that Alibaba had employed 
+illegal merchant exclusivity practices since 2015. (dd. {{[ 136, 138-39.)
+
+     B,  Alleged Misstatements 
+    Plaintiffs allege that, during the Class Period, Defendants violated federal securities laws 
+by making numerous misstatements about the Ant IPO (the “Ant claim”) and about Alibaba’s 
+antitrust risk and exclusivity practices (the “Exclusivity Practices claim”) that artificially increased 
+the stock price and eventually caused financial loss to the Class.  (id. J§ 97-104.) These alleged 
+misstatements  and  omissions  occurred  in  Alibaba’s  SEC  filings,  in  a  2020  Investor  Day 
+presentation, and in Ant’s pre-IPO prospectuses filings on the HKSE, 
+    For their Exclusivity Practices claim, Plaintiffs identify numerous statements as materially 
+misleading, including disclosures that described Alibaba’s “prior” use of exclusive partnerships, 
+when Alibaba had  continued to  require merchant exclusivity  unbeknownst to  regulators  and 
+investors. Plaintiffs also identify as materially misleading statements which attributed Alibaba’s 
+financial  success to its “value proposition” to merchants, rather than disclosing that revenue 
+growth was due, at least in part, to its continued exclusivity requirements.  Plaintiffs also allege 
+that Defendants’ statement that Alibaba believed in the legality of such practices was materially 
+misleading.  (id. JJ 261-69.)  For their Ant claim, Plaintiffs allege that Alibaba’s disclosures and 
+Ant’s pre-IPO filings were materially misleading because they concealed material regulatory risks, 
+particularly those around Ant’s ownership structure and online lending and banking regulations. 
+(Id. J] 274-77, 281-86, 290-92, 296-308.) 
+                         I].    LEGAL STANDARDS 
+     A,  Standing Under Section 10(b) 
+    To sue under Section 10(b), Plaintiffs must have “at least dealt in the security to which the 
+prospectus, representation, or omission relates.”  Blue Chip Stamps v. Manor Drug Stores, 421 
+U.S. 723, 747 (1975).  “Under the purchaser-seller rule, standing to bring a claim under Section 
+10(b) is limited to purchasers or sellers of securities about which a misstatement was made.”
+
+Menora Mivtachim Ins. Ltd. v. Frutarom Indus. Ltd., 54 F.4th 82, 84 (2d Cir. 2022) (citing Blue 
+Chip Stamps, 421 U.S. at 723)). “Stockholders do not have standing to sue under Section 10(b) 
+and Rule  10b—5 when the company whose stock they purchased is negatively impacted by the 
+material misstatement of another company, whose stock they do not purchase.” Ontario Pub, Serv, 
+Emps., Union Pension Tr. Fund v. Nortel Networks Corp., 369 F.3d 27, 34 (2d Cir. 2004), “Section 
+10(b) standing does not depend on the significance or directness of the relationship between two 
+companies. Rather, the question is whether the plaintiff bought or sold the securities about which 
+the misstatements were made.”  Frutarom, 54 F.4th at 88. 
+      B.  Rule 12(b)(2) Lack of Personal Jurisdiction 
+    The plaintiff has the burden of establishing personal jurisdiction over the defendant.  Licci 
+
+ex rel. Licci v. Lebanese Canadian Bank, SAL, 673 F.3d 50, 59 (2d Cir. 2012).  To determine 
+whether personal jurisdiction over a defendant exists, “a court may consider materials outside the 
+pleadings, but must credit plaintiffs’ averments of jurisdictional facts as true.” Jn re Stillwater 
+Capital Partners Inc. Litig., 851 F. Supp. 2d 556, 566-67 (S.D.N.Y. 2012).  However, the court is 
+neither required to “draw argumentative inferences in the plaintiff's favor,” Robinson v. Overseas 
+Military Sales Corp., 21 F.3d 502, 507 (2d Cir. 1994) (citation omitted), nor must it “accept as 
+true a legal conclusion couched as a factual allegation,” Jazini v. Nissan Motor Co., Ltd., 148 F.3d 
+181, 185 (2d Cir,  1998) (citation omitted). “In deciding a pretrial motion to dismiss for lack of 
+personal jurisdiction, the court has considerable discretion.” S.E.C. v, Straub, 921 F. Supp. 2d 244, 
+251/8.D.N.Y. 2013) (cleaned up). 
+    Section 27  of the Exchange Act governs personal jurisdiction in securities  cases and 
+permits exercising personal jurisdiction to the extent permitted by the Fifth Amendment and 
+requires minimum contacts be established with the United States as a whole, as opposed to the 
+forum state. S.E.C. v. Sharef, 924 F. Supp. 2d 539, 544 (S.D.N.Y. 2013); 15 U.S.C. § 78 (aj(a).
+
+Thus, the court must consider whether exercising personal jurisdiction is consistent with “due 
+process protections established under the United States Constitution.” Licci, 732 F.3d at 168. 
+    The due process analysis consists of two discrete components:  “the minimum contacts 
+inquiry and the reasonableness inquiry.” Chloé v. Queen Bee of Beverly Hills, LLC, 616 F.3d 158, 
+164 (2d Cir. 2010) (quotation marks omitted).  Under the minimum contacts inquiry, courts “must 
+determine whether the defendant has sufficient minimum contacts with the forum . . . to justify the 
+court’s exercise of personal jurisdiction.” Jn re Parmalat Sec. Litig., 376 F. Supp, 2d 449, 453 
+(S.D.N.Y.  2005)  (citing  Jnt’l Shoe  Co,  v.  State  of Wash.  Off  of Unemployment  Comp.  & 
+Placement, 326 U.S. 310, 316 (1945)),  For this inquiry, a court evaluates the “quality and nature” 
+of the defendant’s contacts with the forum.  Best Van Lines, Inc. v. Walker, 490 F.3d 239, 242 (2d 
+Cir.  2007)  (quoting Burger King Corp.  v.  Rudzewicz, 471  U.S.  462,  475  (1985)),  The court 
+considers these contacts in totality, with the crucial question being whether the defendant has 
+“surposefully avail[ed] itself of the privilege of conducting activities within the forum State, thus 
+invoking the benefits and protections of its laws” “such that [the defendant] should reasonably 
+anticipate being haled into court there.”  In re Braskem S.A, Sec. Litig., 246 F. Supp. 3d 731, 767 
+(S.D.N.Y. 2017) (citations omitted),  “Although a defendant may not be haled into a jurisdiction 
+solely as a result of random, fortuitous, or attenuated contacts, jurisdiction is proper where the 
+contacts  proximately  result  from  actions  by  the  defendant  himself that  create  a  substantial 
+connection with the forum.”  Straub, 921 F. Supp. 2d at 253-54 (quoting Burger King, 471 U.S. 
+at 480) (cleaned up). 
+    Once the court is satisfied that a defendant has sufficient contacts with the forum to justify 
+the exercise of personal jurisdiction, it must then determine “whether the assertion of personal 
+jurisdiction comports with ‘traditional notions of fair play and substantial justice’—that is, whether
+
+it is reasonable to exercise personal jurisdiction under the circumstances of the particular case.” 
+Chloé, 616 F.3d at 164 (quoting Jnt’l Shoe, 326 U.S. 310 at 316),  If the court determines that a 
+defendant lacks the requisite contacts, it need not consider the reasonableness prong. See e.g., 
+Metro.  Life Ins.  Co.  v.  Robertson-Ceco  Corp.,  84  F.3d  560,  568-69  (2d Cir,  1996) (citation 
+omitted). 
+      C,  Rule 12(b)(6) Failure to State a Claim. 
+    “To  survive  a motion to  dismiss,  a complaint must  contain  sufficient  factual  matter, 
+accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 556 U.S. 
+662, 678 (2009) (quoting Bell Atl.  Corp. v.  Twombly, 550 U.S. 544, 570 (2007)).  The plaintiff 
+must demonstrate “more than a sheer possibility that  a defendant has acted unlawfully”; stating a 
+facially plausible claim requires the plaintiff to plead facts that enable the court “to draw the 
+reasonable inference that the defendant is liable for the misconduct alleged.” Jd. (citation omitted). 
+The  factual  allegations  pled  must therefore  “be  enough  to  raise  a right  to  relief above  the 
+speculative level.”  Twombly, 550 U.S. at 555 (citation omitted). 
+    A district court first reviews a plaintiff's complaint to identify allegations that, “because 
+they are no more than conclusions, are not entitled to the assumption of truth,” /gbal, 556 U.S. at 
+679,  The court then considers whether the plaintiff's remaining well-pleaded factual allegations, 
+assumed to be true, “plausibly give rise to an entitlement to relief.” Jd  In deciding the 12(b)(6) 
+motion, the court must also draw all reasonable inferences in the non-moving party’s favor. □□□ 
+Carpenters Health Fund v. Royal Bank of Scot. Grp., PLC, 709 F.3d 109, 119-20 (2d Cir. 2013). 
+      D.  Rule 9(b) Heightened Pleading Standard and the PSLRA. 
+    Allegations  of fraud,  including  securities  fraud,  must  satisfy  the heightened pleading 
+requirements of FRCP 9(b) and the PSLRA.  ECA, Loc. 134 IBEW Joint Pension Tr. of Chicago 
+v. JP. Morgan Chase Co., 553 F.3d 187, 196 (2d Cir. 2009). Under Rule 9(b), a complaint alleging
+
+securities fraud must “state with particularity the circumstances constituting fraud.”  Fed. R. Civ. 
+P. 9(b). In particular, “the plaintiff must (1) specify the statements that the plaintiff contends were 
+fraudulent, (2) identify the speaker, (3) state where and when the statements were made, and (4) 
+explain why the statements were fraudulent.” Anschutz Corp. v. Merrill Lynch & Co., 690 F.3d 
+98, 108 (2d Cir. 2012) (quotation omitted),  Additionally, the PSLRA expands upon Rule 9(b) by 
+requiring the plaintiff to “state with particularity facts giving rise to a strong inference that the 
+defendant acted with the required state of mind.” 15 U.S.C. § 78u-4(b)(2); Tellabs, Inc. v. Makor 
+Issues & Rights, Ltd., 551 U.S. 308, 321 (2007) (citation omitted). 
+      E.  Section 10(b) of the Securities Exchange Act of 1934 and Corresponding Rule 
+         10b—5(b). 
+    Section 10(b) of the Exchange Act makes it unlawful to “use or employ, in connection with 
+the purchase or sale of any security  ...  any manipulative or deceptive device or contrivance in 
+contravention of such rules and regulations as the [SEC} may prescribe,” 15 U.S.C. § 78j(b). Under 
+Rule 10b—5(b), it is unlawful for any person to “make any untrue statement of a material fact or to 
+omit to state a material fact necessary in order to make the statements made...  not misleading.” 
+17 CFR.  § 240.10b-5.  To prevail on a Section 10(b) and Rule 10b-5 claim, a plaintiff must 
+allege “(1) a material misrepresentation or omission by the defendant; (2) scienter; (3) a connection 
+between the misrepresentation or omission and the purchase or sale of a security; (4) reliance upon 
+the misrepresentation or omission; (5) economic loss; and (6) loss causation.” Matrixx Initiatives, 
+Inc.  v.  Siracusano,  563  U.S.  27,  38  (2011)  (quotation omitted),  The materiality requirement 
+requires a substantial likelihood that the disclosure of the omitted fact “would have been viewed 
+by the reasonable investor as having significantly altered the  ‘total mix’  of information made 
+available.”  TSC Industries, Inc. v. Northway, Inc., 426 U.S. 438, 449 (1976).
+
+      F,  Section 20(a) of the Exchange Act 
+    Section 20(a) of the Exchange Act imposes liability on “[e]very person who, directly or 
+indirectly, controls any person” directly liable under the Act. 15 U.S.C. § 78t(a).  To establish a 
+prima facie case of control person liability pursuant to Section 20(a), a plaintiff must allege “(1) a 
+primary violation by the controlled person, (2) control of the primary violator by the defendant, 
+and (3) that the defendant was, in some meaningful sense, a culpable participant in the controlled 
+person’s fraud.”  Carpenters Pension Tr. Fund of St. Louis v. Barclays PLC, 750 F.3d 227, 236 
+(2d Cir. 2014) (quoting ATS? Commce’ns, Inc. v. Shaar Fund, Ltd,, 493 F.3d 87, 108 (2d Cir, 2007)). 
+Primary liability under Section  10(b) is a prerequisite to a control person liability claim, See 
+Rombach v. Chang, 355 F.3d 164, 177-78 (2d Cir. 2004). 
+Hi.    PLAINTIFFS LACK STANDING TO CHALLENGE STATEMENTS ABOUT 
+                                      ANT 
+    Plaintiffs assert a claim against Alibaba and Ma for alleged misstatements made in Ant 
+Group’s pre-IPO disclosures and in Alibaba’s SEC filings.  (CAC ff 20-21.) 
+    Plaintiffs concede that they did not purchase or sell Ant securities but maintain that they 
+have standing to challenge disclosures about Ant because “Ant and Alibaba are highly related 
+companies” and “Alibaba’s value is directly and materially linked to Ant’s value.” (Pls.” Ma Opp. 
+at 16).  Defendants argue that this Circuit requires Plaintiffs to have been purchasers or sellers of 
+securities about which a misstatement was made to have standing to sue under Section 10(b) and 
+
+move to dismiss for lack of standing under Rule 12(b)(1}.  (Ma Def. Reply at 8). 
+    Defendants are correct.  The Second Circuit’s decision in Frutarom makes clear that the 
+purchaser-seller  rule  requires  plaintiffs  to  have  bought  or  sold  the  security  about  which  a 
+misstatement was made to have standing to sue under Section 10(b).  Frutarom, 54 F.4th at 86. 
+The challenged disclosures were not about Alibaba—the company in which Plaintiffs purchased
+
+ot sold stock.  Instead, they related to Ant’s IPO, business, and regulatory environment.  (CAC □□ 
+278-308); see Frutarom, 54 F.4th at 89 (“Plaintiffs did not purchase the securities about which 
+misstatements were made, so they did not have standing to sue under Section 10(b) or Rule 10b— 
+5.”)  While Ant and Alibaba may have been “highly related,” #rutarom makes clear that “Section 
+10(b) standing does not depend on the significance or directness of the relationship between two 
+companies, Rather, the question is whether the plaintiff bought or sold the securities about which 
+the misstatements were made.”  Frutarom, 54 F.4th at 88. 
+    Plaintiffs therefore lack standing to sue Ma or Alibaba based on alleged misstatements 
+about Ant.  Accordingly, Plaintiffs’ Ant IPO claims against Ma and Alibaba are dismissed for lack 
+of standing.” 
+    IV.    THIS COURT LACKS PERSONAL JURISDICTION OVER MA FOR 
+                  PLAINTIFFS’ SECTION 10(b) AND 20(a) CLAIMS 
+    To establish personal jurisdiction over Ma, this Court employs a two-step inquiry. First, 
+the Court must determine whether there is a “statutory basis for exercising personal jurisdiction.” 
+Marvel Characters, Inc. v. Kirby, 726 F.3d 119,  128 (2d Cir. 2013) (citation omitted).  Second, 
+this Court must consider whether exercise of personal jurisdiction over Ma is consistent with 
+constitutional due process principles. The due process analysis has two discrete components: the 
+‘minimum contacts’ inquiry and the ‘reasonableness’ inquiry.  Chloé, 616 F.3d at 164. 
+    Plaintiffs identify a valid statutory basis to consider the exercise personal jurisdiction over 
+Ma:  Section 27 of the Exchange Act. “Under Section 27, there are three recognized bases for 
+exercising jurisdiction over a foreign defendant: where the defendant does business in the forum, 
+
+2 Because Plaintiffs’ scheme liability claims under Rule 10b~5(a) and (c) were predicated on Alibaba’s 
+liability for misstatements and omissions about Ant, those claims are likewise dismissed. 
+
+                                    10 
+
+does an act in the forum,’ or ‘causes an effect in the forum by an act done elsewhere.”  Braskem, 
+246 F. Supp. 3d at 766~67 (citation and quotation marks omitted). 
+    The determinative factor is whether exercise of personal jurisdiction over Ma would accord 
+with constitutional due process. To satisfy minimum contacts, Plaintiffs must demonstrate that 
+their  claim  “‘arises  out  of,  or relates to  [Ma’s]  contacts  with  the  forum...  [and  that he] 
+purposefully availed [him]self of the privilege of doing business in the forum and could foresee 
+being haled into court there.” Bank Brussels Lambert v. Fiddler Gonzalez & Rodriguez, 305 F.3d 
+120, 127 (2d Cir. 2002)); Straub, 921 F. Supp. 2d at 252. 
+    Plaintiffs argue that Ma “engaged in conduct that was designed to violate United States 
+securities regulations” in order to support finding minimum contacts. Straub, 921 F, Supp. 2d at 
+248.  Plaintiffs’ primary theory of liability is that Ma “has always controlled and continues to 
+control Alibaba” and caused Alibaba to perpetrate a fraud aimed at deceiving U.S. investors.? 
+    Ma Opp at 2, 10-11; CAC 9313.)  Specifically, Plaintiffs allege that (1) Ma was responsible 
+for appointing Alibaba’s Board Members, (2) several Board Members were indebted to him, and 
+(3) Ma was able to “seize licenses” to retain “substantial holdup leverage over Alibaba[,.]” (CAC 
+4] 2-3, 28, 56, 239-40.)  Plaintiffs also argue that this Court has personal jurisdiction over Ma 
+because entities controlled by Ma sold Alibaba ADS on the NYSE during the Class Period.  (Pls.’ 
+Ma Opp. at 8-9.) 
+    Defendant Ma co-founded Alibaba and served in several executive roles before announcing 
+his retirement in 2019.      at 2; CAC 454.)  During the Class Period, Ma was Alibaba’s single 
+largest individual investor, owning 4.8% of Alibaba’s stock,  (CAC J 62-63.)  During the Class 
+
+3 Plaintiffs also contend this Court may exercise personal jurisdiction over Ma for failing to disclose 
+information regarding the Ant IPO in Alibaba’s own filings.  (Pls.” Ma Opp. at 1, 3.)  As discussed above, 
+supra Section III, Plaintiffs lack standing to challenge Alibaba’s disclosures regarding the Ant IPO because 
+they were not purchasers or sellers of Ant securities. 
+
+                                    11 
+
+Period, Ma was an Alibaba Board Member and a member of its Partnership, “a group of a few 
+dozen employees with tremendous power over the company’s board and leadership.” (a. { 54 
+(citation omitted),) Plaintiffs argue that “by virtue of Ma’s ownership interest and contractual 
+rights,” Ma had “the power to influence and control, and did influence and control, directly or 
+indirectly, the decision-making of the Company, including the content and dissemination of the 
+of the various statements which Plaintiffs contend are false and misleading.”  (Ud. {| 404.) 
+    Critical, however, is what Plaintiffs do not allege.  Plaintiffs do not allege, concretely, that 
+Ma “played any role in making, proposing, editing or approving” Alibaba’s public filings in the 
+United States.4  Braskem, 246 F. Supp. 3d at 770 (no minimum contacts where complaint “does 
+not allege, concretely, that [defendant] played any role in making, proposing, editing, or approving 
+[company’s] public filings in the United States.”). 
+    Plaintiffs  emphasize  Ma’s  involvement  on  Alibaba’s  Board  and  on  its  Partnership 
+committee, but it is well-established that “[a] person’s status as a board member is not alone 
+sufficient to establish jurisdiction.”  Das v. Rio Tinto PLC, 332 F. Supp. 3d 786, 802 (S.D.N.Y. 
+2018)  (quotation  omitted).   “Indeed,  absent  any  alleged  role  in  preparing  false  financial 
+statements|,] the exercise of jurisdiction . . . exceeds the limits of due process.” Jd, (quoting Sharef, 
+924 F, Supp. 2d at 548 (cleaned up)).  “As various courts have held, a conclusory statement that a 
+foreign defendant caused an issuer to making false and misleading filings is not enough to support 
+personal jurisdiction.”  Braskem, 246 F. Supp, 3d at 770. 
+    Plaintiffs’ sweeping allegations regarding Ma’s control over Alibaba are insufficient to 
+establish personal jurisdiction.  See Parmalat, 376 F. Supp. 2d at 454 (“the Due Process Clause is 
+made of sterner stuff than a mere allegation of control[.]”); In re Aegean Marine Petroleum 
+
+4 As noted above, Plaintiffs lack standing to challenge Defendants’ Ant-related statements.  See supra 
+Section III. Those statements therefore cannot serve as basis for establishing personal jurisdiction over Ma. 
+
+                                    12 
+
+Network, Inc. Sec. Litig., 529 F. Supp. 3d 111, 136 (S.D.N.Y. 2021).  These allegations are a “far 
+cry” from concrete factual pleadings which allege “specific facts making the foreign defendant 
+accountable for an issuer’s allegedly actionable corporate statements.” /d. (citing Braskem, 246 F., 
+Supp, 3d at 769-70.) 
+    Plaintiffs next argue that Ma is subject to personal jurisdiction “due to his misleading 
+statements and deceptive acts that foreseeably affected U.S. shareholders.” (Pls.” Ma Opp. at 9.) 
+The  Second Circuit relies on the “effects test” to  determine whether it can exercise specific 
+jurisdiction over a defendant whose “conduct that forms the basis of the  controversy  occurs 
+entirely  out-of-forum,”  and whose  “only relevant jurisdictional  contacts with the forum  are 
+therefore in-forum effects harmful to the plaintiff.”  Tarsavage v. Citic Tr. Co., Lid.,  3 F. Supp. 3d 
+137, 145 (S.D.N.Y. 2014).  “Pursuant to the effects test, ‘the exercise of personal jurisdiction may 
+be  constitutionally  permissible  if the  defendant  expressly  aimed  its  conduct  at the  forum.”” 
+Aegean, 529 F. Supp. 3d at 135 (quoting Tarsavage, 3 F. Supp. 3d at 145) (citing Licci, 732 F.3d 
+at 173).  “[T]he fact that harm in the forum is foreseeable  ...  is insufficient for the purpose of 
+establishing specific personal jurisdiction over a defendant.”  Jn re Terrorist Aftacks on Sept. 11, 
+2001, 714 F.3d 659, 674 (2d Cir, 2013). 
+    There is no support for the proposition that Ma directed his conduct toward the United 
+States.  To the extent that the complaint alleges that Ma engaged in a “scheme to defraud Chinese 
+regulators” regarding the Ant IPO or Alibaba’s exclusivity practices, those actions were entirely 
+outside of the United States and were directed towards China, (CAC 4] 360); Aegean, 529 I. Supp. 
+3d at 137-38.   Ma’s role in Ant or Alibaba’s fraudulent scheme aimed at PRC regulators was 
+therefore not “conduct expressly aimed at the United States.”  Aegean, 529 F. Supp. 3d at 138 
+(citing Calder v. Jones, 465 U.S. 783, 789 (1984)). 
+
+                                    13 
+
+    Finally,  Plaintiffs  allege  that  Ma  is  subject  to  personal jurisdiction  because  entities 
+controlled by Ma sold ten million shares of Alibaba ADSs during the Class Period while in 
+possession of material nonpublic information.  (Pls.’ Ma Reply at 8-9.) While it is undisputed that 
+this Court has personal jurisdiction over Ma for Plaintiffs’ insider trading claim, see Aegean, 529 
+F. Supp. 3d at 140, it is well-established that a “plaintiff must establish the court’s jurisdiction with 
+respect to each claim asserted.” Sunward Elees., Inc. v. McDonald, 362 F 3d 17, 24 (2d Cir, 2004) 
+(emphasis in original); Aegean, 529 F. Supp. 3d at 135.  As Plaintiffs conceded at oral argument, 
+personal jurisdiction as to their insider trading claim does not provide personal jurisdiction for 
+Plaintiffs’  other claims.  (See Transcript of Oral Argument (“Tr.”), ECF No.  81, at 55:19-22,) 
+Accordingly, Plaintiffs’  Section  10(b) and 20(a)  claims  against Ma are dismissed for lack of 
+personal jurisdiction.° 
+       PLAINTIFFS FAILED TO SUFFICIENTLY ALLEGE AN INSIDER TRADING 
+                              CLAIM AGAINST MA 
+    Plaintiffs allege that Ma traded Alibaba ADSs on the NYSE while in possession of material 
+nonpublic information, in violation of Rule 10b—5 and Rule 10b5—1. (Pls.” Ma Opp. at 8, 36, 43, 
+CAC J 366-69.)  On September 30 and October 1, 2020, three entities controlled by Ma sold $10 
+million in shares of Alibaba ADSs while allegedly in possession of material nonpublic information 
+regarding Alibaba.  (/d.  { 366-69.)  Plaintiffs further argue that Ma’s trades “were timed to 
+coincide with Alibaba’s statements touting the value of Ant during its Investor Day.” (Pls.” Ma 
+Opp. at 2, 36-37.)  In addition, the trades “were substantial in volume,” comprising 20% and 31%, 
+respectively, of Alibaba ADSs traded on the NYSE those days,  (/d. at 9, fn.  13.)  Defendants 
+contend that Plaintiffs have failed to  allege that Ma was in possession of material nonpublic 
+
+   light of the finding that Ma lacked sufficient minimum contacts with the United States, this Court has 
+no occasion to consider the due process reasonableness factors. 
+
+                                    1A 
+
+information when  he  sold  1%  of his  Alibaba holdings  in accordance  with his  Rule  10b5-1 
+retirement plan.  (Ma Def. Reply at 28; Ma Def. Mem. at 24, fn. 19.) 
+    Under the “classical theory” of insider trading liability, Section 10(b) and Rule 10b—5 are 
+violated “when a corporate insider trades  in the  securities  of his corporation on the basis  of 
+material, nonpublic information.”  United States v. O'Hagan, 521 U.S. 642, 651-52 (1997).  Thus, 
+“a corporate insider must abstain from trading in the shares of his corporation unless he has first 
+disclosed all material inside information known to him.”  Chiarella vy. United States, 445 U.S, 222, 
+227, (1980). “[I]f disclosure is impracticable or prohibited by business considerations or by law, 
+the duty is to abstain from trading.” SEC v. Obus, 693 F.3d 276, 285 (2d Cir. 2012). “To establish 
+
+an insider trading claim . . . it is sufficient to prove that they traded their corporation’s securities 
+‘while knowingly in possession of the material nonpublic information.’” Steginsky v. Xcelera Inc., 
+741 F.3d 365, 370 (2d Cir, 2014) (quoting United States v. Rajaratnam, 719 F.3d 139, 159 @d 
+Cir. 2013)) (citation and quotation marks omitted). 
+    Plaintiffs have not plausibly  alleged that Ma knowingly possessed material nonpublic 
+information regarding Alibaba’s exclusivity practices when he sold Alibaba ADSs on September 
+30, 2020 and October 1, 2020.  As discussed above, supra Section IV, Plaintiffs have failed to 
+plausibly allege that Ma’s position as an Alibaba board member would have meant he was aware 
+of Alibaba’s exclusivity practices and would have known that the truth differed from what Alibaba 
+told  investors.   Plaintiffs  have  therefore  failed  to  plausibly  allege  that  Ma traded  while  in 
+possession of material nonpublic information about Alibaba. Accordingly, Plaintiffs’ Rule 10b—5 
+and Rule 10b5-1 insider trading claims against Ma are dismissed. 
+
+                                    14 
+
+  VI.    PLAINTIFFS HAVE SUFFICIENTLY ALLEGED SECURITIES FRAUD 
+                      AGAINST ALIBABA, WU, AND ZHANG 
+      A.  Material Misstatements 
+    “In order to state claims pursuant to section 10(b) of the Exchange Act and Rule 10b-5 
+promulgated thereunder, a plaintiff must allege, infer alia, that the defendant engaged in a material 
+misrepresentation or omission.”  Thesling v. Bioenvision, Inc., 374 ¥. App’x 141,  143 (2d Cir. 
+2010) (citing Operating Local 649 Annuity Trust Fund v. Smith Barney Fund Mgmt. LLC, 595 
+F.3d 86, 92 (2d Cir. 2010)).  The Exchange Act “requires that the complaint shall specify each 
+statement alleged to have been misleading,  [and] the reason or reasons why the statement is 
+misleading,” Jn re Scholastic Corp. Sec. Litig., 252 F.3d 63, 69 (2d Cir. 2001) (quotation marks 
+omitted).  Plaintiffs cannot merely state that the statements are false or misleading, “they must 
+demonstrate with specificity why and how” they are so.  Rombach, 355 F.3d at 174.  “The literal 
+truth  of an  isolated  statement  is  insufficient;  the proper  inquiry  requires  an  examination  of 
+defendants’ representations, taken together and in context.” In re Morgan Stanley Info. Fund Sec. 
+Litig., 592 F.3d 347, 366 (2d Cir. 2010) (quotation marks omitted). 
+    Many of Plaintiffs’ Exchange Act claims relate to the omission of material information, as 
+opposed to an affirmative misstatement of fact.  In contrast to a misstatement, ““‘an omission is 
+actionable under the securities laws only when the corporation is subject to a duty to disclose the 
+omitted facts.” Jd.  (quoting Jn re Time Warner Inc. Securities Litigation, 9 F.3d 259, 267 (2d Cir. 
+1993)). “A fact is to be considered material if there is a substantial likelihood that a reasonable 
+person would consider it important in  [making investment decisions].” Azrie/li v.  Cohen Law 
+Offices, 21 F.3d 512, 518 (2d Cir. 1994).  “[I]}t bears emphasis that § 10(b) and Rule 10b-5(b) do 
+not create an affirmative duty to disclose any and all material information.” Matrixx, 563 U.S. at 
+44,  “Disclosure is required . ,  . only when necessary ‘to make statements made, in the light of the 
+
+                                    16 
+
+circumstances under which they were made, not misleading.’” Jd. at 44 (quoting  17 CPLR.  § 
+240.10b—5(b)), 
+    Plaintiffs allege that the following disclosures about Alibaba’s exclusivity practices were 
+materially false or misleading:® (i) Alibaba’s statement describing its “prior” use of exclusivity 
+arrangements (CAC 4 253; Pls.’ Alibaba Opp. at 1, 14-16); (ii) statements attributing Alibaba’s 
+
+revenue  growth  to  its  value  proposition  for  merchants,  omitting  its  continued  reliance  on 
+exclusivity (CAC ff 256, 261, 265; Pls.’ Alibaba Opp. at 19-20); (iii) Alibaba’s statement that it 
+“believe[d] that our business practices do not violate anti-monopoly or unfair competition laws” 
+(“belief statement”) (CAC { 255(b); Pls.’ Alibaba Opp. at 11); and (iv) Alibaba’s risk disclosures 
+regarding antitrust risk.  (CAC J 253, 255; Pls.’ Alibaba Opp. at 17-19.) 
+    Defendants contend that Alibaba’s exclusivity practices were well-known to investors and 
+the public and had been “subject to public challenge for years.”  (Alibaba Defs.’ Mem. at 5-7.) 
+Defendants also assert that Alibaba had disclosed to investors that its exclusivity practices were 
+under scrutiny by PRC regulators.  For example, in documents filed with the SEC during the Class 
+Period, Alibaba disclosed to investors that “[o]n several recent occasions  .  .  . the SAMR has 
+indicated its view that... arrangements seen as exclusivity arrangements, may constitute violation 
+of the anti-monopoly ... laws. The SAMR also indicated its intention of initiating investigations 
+into these arrangements.”    (Alibaba FY 2020 20-F at 39; Alibaba Defs.” Mem. at 9.) 
+
+6 Because Plaintiffs lack standing to challenge disclosures about Ant, see supra Section IJ, this Court has 
+no occasion to consider whether those statements were materially false or misleading. 
+7 On a Rule 12(b)(6) motion to dismiss, courts may consider “legally required public disclosure documents 
+filed with the [SEC], and documents possessed by or known to the plaintiff upon which it relied in bringing 
+the suit.” Tongue v. Sanofi, 816 F.3d 199, 209 (2d Cir. 2016). 
+
+                                     {7 
+
+               i.      “Prior” Use of Exclusivity Practices Statement 
+    Plaintiffs argue that Alibaba’s characterization of its “prior” and “narrowly deployed” use 
+of exclusivity practices was  materially misleading because Alibaba was  utilizing  exclusivity 
+practices which were “deeply engrained” when the statement was made.  (CAC § 255(e); Pls.’ 
+Alibaba Opp. at 1, 14-15.)  The challenged disclosure states that the AML “provides a private 
+tight of action” and that some of Alibaba’s “competitors, business partners and customers[] have 
+[initiated]  and may continue .  .  . initiating private litigation that targets our prior and current 
+business  practices,  such as.  .  .  our alleged prior  narrowly deployed exclusive partnerships.” 
+(Alibaba FY 2020 20-F at 39 (emphasis added).) Defendants contend that Plaintiffs “misconstrue” 
+the disclosure, which they argue was referring to absolute exclusivity practices, not the narrower 
+traffic-for-exclusivity practices that the SAMR concluded Alibaba had  engaged in.  (Alibaba 
+Defs.’ Mem. at 19.) 
+    Plaintiffs are correct that a reasonable investor could plausibly believe that Alibaba’s 
+description  of its  “prior”  exclusivity  practices  meant that  Alibaba  was  no  longer  requiring 
+exclusivity from merchants at all.  In re Alstom SA, 406 F. Supp. 2d 433, 453 (S.D.N.Y. 2005) 
+(“The omission of adequate disclosure affirmatively creat[ed] an impression of a state of affairs 
+that differ[ed] in a material way from the one that actually exist[ed], and therefore it is actionable.”) 
+(citation and quotation marks omitted).  Similarly, a reasonable investor would be interested in 
+knowing that Alibaba continued to require exclusivity, and would view that fact, if known, as 
+altering the “total mix” of information made available about Alibaba’s practices.  Basic, Inc. v. 
+Levinson, 485 U.S. 224, 232 (1988); Time Warner, 9 F.3d at 268. 
+    Contrary to  Defendants’  assertion that Alibaba had publicly  defended  its  exclusivity 
+practices and that their use was “widely covered,” the statements Defendants identify were made 
+months and years before Alibaba’s July 2020 disclosure describing its “prior” use of exclusivity 
+
+                                    18 
+
+arrangements,  (Alibaba Defs.? Mem. at 18-20; Tr. 50-14:21.)  Further, Alibaba had signed an 
+apreement with the SAMR in July 2020 pledging that it would “not force platform operators to 
+conduct ‘exclusive cooperation’” and would “not impose any unreasonable restrictions or make 
+
+any  unreasonable requirements on the selections  of platforms by the operators.”  (CAC □  8.) 
+Defendants’  disclosure  therefore  “affirmatively  created  an  impression  of a  state  of affairs” 
+regarding exclusivity that differed materially from the reality that existed,  Alstom, 406 F, Supp. 
+2d at 453. Plaintiffs have therefore plausibly alleged that Alibaba’s statement regarding its “prior” 
+use of exclusivity partnerships was materially misleading. 
+               ii,     Growth and Revenue Statements 
+    Next, Plaintiffs allege that Alibaba’s disclosures attributing revenue growth to its value 
+proposition for merchants, rather than disclosing their continued reliance on merchant exclusivity 
+practices, were materially false and misleading,  (Pls.’ Alibaba Opp. at 19-20; CAC ff 256, 261, 
+265.)  Ina footnote, Defendants argue that Plaintiffs have not explained how Alibaba’s practices 
+rendered these “general statements” false or misleading.  (Alibaba Defs.’ Br. at 20, fn. 13.) 
+    “Securities laws do not impose on corporations a general, free-standing duty to disclose 
+uncharged illegal conduct.” In re Banco Bradesco S.A.  Sec.  Litig., 277 F.  Supp.  3d 600,  661 
+(S.D.N.Y. 2017) (citing Pontiac, 752 F.3d at 184).  However, “fe]ven when there is no existing 
+independent duty to disclose information, once a company speaks on an issue or topic, there is a 
+duty to tell the whole truth.” Meyer v. Jinkosolar Holdings Co., 761 F.3d 245, 250 (2d Cir. 2014). 
+“[A] duty to disclose can arise when a corporation puts the reasons for its success at issue, but fails 
+
+to disclose that a material source of its success is the use of improper or illegal business practices.” 
+Rosi v. Actaris Therapeutics, Inc., No. 19 Civ. 7118 (LJL), 2021 WL 1177505, at *15 (S.D.N.Y. 
+Mar. 29, 2021) (quoting DoubleLine Capital LP v, Odebrecht Fin., Ltd., 323 F. Supp. 3d 393, 441 
+(S.D.N.Y. 2018)) (internal citation omitted).  “[A] company’s statements become actionable if the 
+
+                                     19 
+
+company attributes its success to a particular cause without also disclosing the unlawful activity 
+that contributed to that success.”  Das, 332 F. Supp. 3d at 808. 
+    Here, Plaintiffs argue that Alibaba “put the source of its success at issue” when it made 
+statements attributing Alibaba’s core commerce to merchant growth and retention but failed to 
+disclose that part of its success was due to continued use of exclusivity practices.  (Pls.’ Alibaba 
+Opp. at  19-20.)  In Plaintiffs’ telling, “fhJaving chosen to speak about specific features of its 
+business model” regarding merchant retention, Alibaba “had an obligation to ensure its statements 
+
+were both accurate and complete, even if it lacked an independent duty to discuss the information 
+in the first place.” Jn re Inv. Tech. Grp., Inc. Sec, Litig., 251 F. Supp. 3d 596, 612 (S.D.N.Y. 2017) 
+(quoting In re BioScrip,  Inc.  Sec.  Litig., 95  F.  Supp.  3d 711, 727 (S.D.N.Y.  2015)} Gnternal 
+quotation marks and citation omitted). 
+    Plaintiffs have sufficiently alleged that Alibaba’s characterization of their “prior” use of 
+“exclusive partnerships” rendered their financial statements on growth and merchant retention 
+materially misleading. (CAC §] 256-57, 261-62).  Taken together, a reasonable investor could 
+conclude that Alibaba had stopped requiring merchant exclusivity, and that its reported growth 
+was due to organic retention, not exclusivity.  Once Alibaba spoke on the issue, it had “a duty to 
+tell the whole truth”—that these trends were due, at least in part, to the Company’s ongoing, 
+undisclosed use of merchant exclusivity.  Meyer, 761 F.3d at 250.  A reasonable investor would 
+view that fact, if known, as altering the “total mix” of information available about Alibaba’s 
+business.  Basic, 485 U.S. at 232; Time Warner, 9 F.3d at 268. 
+                iii.    Belief Statement 
+    In 2020, Alibaba warned investors that “[a]lthough we believe that our business practices 
+do not violate anti-monopoly or unfair competition laws  ..  .  there can be no  assurance that 
+regulators will not initiate anti-monopoly investigations into specific business practices we have 
+
+                                    ay 
+
+adopted.” (CAC § 253.)  Plaintiffs argue that Defendants could not have honestly believed that its 
+exclusivity practices were legal because Alibaba had been warned by the SAMR that such practices 
+were  illegal,  had  signed  a  commitment  pledging  that  it  would  not  require  exclusivity,  and 
+nevertheless  continued  to  require  exclusivity.   (Pls.’  Alibaba  Opp.  at  1,  11-12.)  Plaintiffs 
+emphasize that the SAMR later determined that Alibaba’s exclusivity practices violated the AML 
+and imposed a substantial fine. (CAC ff 10, 253.)  Defendants contend that Alibaba’s disclosure 
+is an inactionable statement of opinion, and that Alibaba publicly defended its exclusivity practices 
+because it genuinely believed in their legality,  (Alibaba Defs.’ Mem. at 15-16.) 
+    The Supreme Court has held that liability for making a false statement of opinion may lie 
+if: (1) “the speaker did not hold the belief she professed”; (2) “the supporting fact [the speaker] 
+supplied were untrue”; or (3) “the speaker omits information whose omission makes the statement 
+misleading to a reasonable investor.”  Tongue, 816 F.3d at 209-10 (quoting Omnicare, Inc., v. 
+Laborers Dist.  Council Const.  Indus.  Pension Fund, 575 U.S.  175,  185-87,  195  (2015).  “In 
+determining whether a statement of opinion is misleading based on a  failure to disclose facts 
+underlying the opinion, “[t]he core inquiry is whether the omitted facts would ‘conflict with what 
+
+a reasonable investor would take from the statement itself.’” Jd. (quoting Omnicare, 575 U.S. at 
+189).  “To make this showing, a plaintiff must identify particular (and material) facts going to the 
+basis for the defendant’s opinion.”  Inv. Tech., 251 F. Supp. 3d at 618 (citing Omnicare, 575 U.S. 
+at 189) (cleaned up).  These may include “knowledge [the defendant] did or did not have-——whose 
+omission makes the opinion statement at issue misleading to a reasonable person reading the 
+statement fairly and in context.”  Omnicare, 575 U.S. at 194.  “In other words, when a statement 
+of opinion implies facts or the absence of contrary facts, and the speaker knows or reasonably 
+should know of different material facts that were omitted, liability under Rule 10b—5 may follow.” 
+
+                                    21 
+
+Abramson vy. Newlink Genetics Corp., 965 F.3d 165, 175 (2d Cir. 2020). The Second Circuit has 
+noted that the Supreme Court’s example of an issuer’s statement of belief that its conduct is lawful 
+is “particularly instructive,” because “[s]uch a statement does not imply that the issuer’s conduct 
+is, in fact, lawful, but only that the issuer has conducted a meaningful inquiry and has a reasonable 
+basis upon which to make such an assertion.”  Tongue, 810 F.3d at 214. 
+    Here, Plaintiffs emphasize that Alibaba omitted the critical context that it was continuing 
+to employ certain exclusivity practices despite contrary representations to investors and regulators, 
+Plaintiffs further argue that Defendants’  omission of that material  fact rendered their opinion 
+statement materially misleading and actionable under Omnicare. 
+    While  Alibaba  disclosed  the  regulatory  warning  it  had  received  and  cautioned  that 
+investigatory action was possible, it omitted the material fact that it was not in compliance with 
+the commitment pledge it had signed, nor with the representation it made to investors regarding 
+“prior” use of exclusivity.  The opinion statement is therefore plausibly alleged to be misleading 
+when read fairly and in context.  Omnicare, 575 U.S. at 189.  Moreover, Alibaba’s continued use 
+of exclusivity practices, contrary to its public representations and commitments, indicates that 
+Defendants may not have a reasonable basis upon which to assert that their conduct was legal. 
+Tongue, 816 F.3d at 214. Plaintiffs have therefore plausibly alleged that Alibaba’s belief statement 
+regarding the legality of its exclusivity practices was materially false or misleading. 
+               iv.     Risk Disclosures 
+    For the  same  reasons,  Plaintiffs plausibly  allege that Alibaba’s  risk  disclosures  were 
+materially misleading.  Plaintiffs emphasize that Alibaba omitted the material fact that it was 
+continuing to rely on exclusivity practices when discussing the possible risk of adverse regulatory 
+action by the SAMR.  As discussed above, once Alibaba spoke on possible investigations into its 
+exclusivity practices, it had a duty to disclose the material omitted fact that it was continuing to 
+
+                                    22 
+
+engage in such practices, contrary to its representations to regulators and investors. See Stratte- 
+McClure v. Morgan Stanley, 776 F.3d 94, 101 (2d Cir. 2015) (a duty to disclose an omitted fact 
+
+may arise when there is “a corporate statement that would otherwise be inaccurate, incomplete, or 
+misleading.”) (citation and quotation marks omitted); Time Warner, 9 F.3d at 267, Plaintiffs have 
+therefore plausibly alleged that Alibaba’s risk disclosures were materially false or misleading. 
+      B.  Scienter 
+     “A strong inference of fraudulent intent may be established either (a) by alleging facts to 
+show that defendants had both motive and opportunity to commit fraud, or (b) by alleging facts 
+that  constitute  strong  circumstantial  evidence  of  conscious  misbehavior  or  recklessness. 
+Importantly, an inference of scienter must be more than merely plausible or reasonable—it must 
+be cogent and at least as compelling as any opposing inference of nonfraudulent intent.”  Coral 
+Springs Police Officers’ Ret. Plan v. Farfetch Ltd., 565 F. Supp. 3d 478, 486 (S.D.N.Y, 2021).  In 
+this case, Plaintiffs have sufficiently alleged conscious misbehavior or recklessness as to Wu and 
+Zhang. 
+              i.  Motive and Opportunity 
+    “A complaint has sufficiently alleged motive and opportunity to commit fraud if it pleads 
+facts showing that the defendant benefited in some concrete and personal way from the purported 
+fraud .   .. While the opportunity to commit fraud is generally assumed where the defendant is a 
+corporation  ot corporate  officer,  general  motives  common to  most corporate officers  do  not 
+constitute ‘motive’ for the purpose of establishing scienter.”  Francisco v. Abengoa, S.A., No. 15 
+Civ. 6279 (ER), 2021 WL 4136899, at *22 (S.D.N.Y. Sept. 10, 2021) (citations omitted).  Instead, 
+“Im otive is generally met when corporate insiders allegedly make a misrepresentation in order to 
+sell their own shares at a profit.” JP Morgan Chase Co., 553 F.3d at 198. 
+
+                                    23 
+
+             ii.  Conscious Misbehavior and Recklessness 
+    To  establish  scienter via  strong  circumstantial  evidence  of conscious  misbehavior  or 
+recklessness, “the inference of scienter from the facts alleged ‘must be more than merely plausible 
+or  reasonable—-it  must  be  cogent  and  at  least  as  compelling  as  any  opposing  inference  of 
+nonfraudulent intent.’” Jn re Aphria, Inc, Sec. Lifig., No. 18 Civ. 11376 (GBD), 2020 WL 5819548 
+(S.D.N.Y. Sept. 30, 2020) at *7 (quoting Tellabs, 551 U.S. at  314)).  “Plaintiffs must show conduct 
+by defendants that is at the least highly unreasonable and which represents an extreme departure 
+from the standards of ordinary care to the extent that the danger was either known to the defendant 
+
+or so obvious that the defendant must have been aware of it.” Ja re Initial Pub. Offering Sec. Litig., 
+358 F. Supp. 2d 189, 216 (S.D.N.Y. 2004) (citation omitted). 
+    Although there is no all-encompassing list of the allegations that would be sufficient to 
+plead  recklessness,  examples  that  suffice  include  defendant  “knew  facts  or  had  access  to 
+information suggesting that their public statements were not accurate ...  [or]  ... failed to check 
+information they had a duty to monitor.” Novak vy, Kasaks, 216 F.3d 300, 311  (2d Cir, 2000), 
+“(Where plaintiffs contend defendants had access to contrary facts, they must specifically identify 
+the reports or statements containing this information.” 445 Freight Div. Pension Fund v. Dynex 
+Cap. Inc., 531  F.3d  190,  196 (2d Cir. 2008) (quoting Novak, 216 F.3d at 309),  “To be sure, 
+Plaintiff[s] must do more than allege that the [individual defendants] had or should have had 
+knowledge of certain facts contrary to their public statements simply by virtue of their high-level 
+positions, to establish scienter.”  Aphria, 2020 WL 5819548, at *9 (citation and quotation marks 
+omitted). 
+    Plaintiffs rely on several facts to raise a strong inference that Wu and Zhang acted with 
+scienter.  Plaintiffs allege that Wu, Alibaba’s CFO, and Zhang, Alibaba’s CEO and former COO, 
+were familiar with or had access to documents demonstrating that Alibaba was continuing to utilize 
+
+                                    24 
+
+merchant exclusivity  during the Class Period,  contrary to  its  disclosures.  Because merchant 
+exclusivity was “Alibaba’s standard method of business practice” it was reflected within numerous 
+internal business documents, including Alibaba’s written merchant agreements, which Plaintiffs 
+allege that both Wu and Zhang would have been familiar with or had access to.  (See Tr. 49:11— 
+22) (“The SAMR report makes clear that Alibaba had widely required exclusivity in its written 
+merchant agreements  .  .  .  It was embedded within Alibaba’s platform rules,  and  it was also 
+embedded within its data algorithms it used to run its platforms.”). Plaintiffs argue that Wu “would 
+have been familiar with what was in Alibaba’s merchant agreements for its core merchants because 
+that was how Alibaba derived the vast majority of its revenue.”  (Jd. 49-50:23-—1.)  Indeed, the 
+SAMR investigation ultimately concluded that Alibaba’s exclusivity requirements “were explicit 
+components of Alibaba’s customer agreements since 2015.” (CAC   379; Tr. 49:11-13.)  It is at 
+least as compelling an inference that Wu and Zhang had access to such foundational information 
+given their positions at Alibaba.  See Aphria, 2020 WL 5819548, at *9.  Plaintiffs have plausibly 
+alleged that Wu and Zhang would have known or bad access to facts indicating that Alibaba 
+continued to engage in exclusivity practices, contrary to its representations to investors. 
+    Because exclusivity is alleged to be Alibaba’s standard practice, from which it derived the 
+vast majority of its revenue, Wu and Zhang would have known that Alibaba had not abandoned a 
+critical business practice.  (CAC § 47); Ho v. Duoyuan Glob.  Water, Inc., 887 F. Supp. 2d 547, 
+575 (S.D.N.Y. 2012) “[Defendants] were CFO and CEO of a multinational corporation, and as 
+such, were required to be aware of the Company’s financials.”),  Plaintiffs have plausibly alleged 
+an inference of scienter for Wu and Zhang under the “conscious misbehavior or recklessness” 
+prong. 
+
+                                    m5 
+
+    In addition,  Wu and Zhang’s scienter may be imputed to Alibaba, due to their senior 
+positions within the Company. See Jn re BHP Billiton Lid.  Sec, Litig., 276 ¥. Supp. 3d 65, 90 
+(S.D.N.Y. 2017) (“There is no formulaic method or seniority prerequisite for employee scienter to 
+be imputed to the corporation, but scienter by management-level employees is generally sufficient 
+to attribute scienter to corporate defendants.”); Aphria, 2020 WL 5819548, at *9. 
+      C.  Loss Causation 
+    “Although Plaintiffs have adequately alleged [] material misstatements and [| Defendants’ 
+scienter as to those statements, they still must plead loss causation, which requires them to allege 
+‘that the subject of the fraudulent statement or omission was the cause of the actual loss suffered.”” 
+BioScrip, 95 F. Supp. 3d at 733 (quoting Suez Equity Invs., LP. v.   Toronto—Dominion Bank, 250 
+F.3d 87, 95 (2d Cir. 2001)). Plaintiffs may do so either by alleging (a) “the existence of cause-in- 
+fact on the ground that the market reacted negatively to a corrective disclosure of the fraud,” or 
+(b) that “that the loss was foreseeable and caused by the materialization of the risk concealed by 
+the fraudulent statement.” Barclays, 750 F.3d at 232-33 (quotation omitted) (cleaned up). 
+    Plaintiffs’ theory of loss causation flows from the November 10, 2020 and December 23, 
+2020 drops in Alibaba’s stock price.  The November 10 stock drop occurred in connection with 
+the SAMR’s publication of guidelines impacting Alibaba’s e-commerce business.  (CAC { 125, 
+Pls.’  Alibaba Opp.  at  34.)  The December 23  stock drop  occurred  after Chinese  authorities 
+announced an antitrust investigation into Alibaba regarding its exclusivity practices.  (CAC { 130; 
+Pls.’ Alibaba Opp. at 34-35.)  Plaintiffs argue that the drops satisfy loss causation under both a 
+corrective disclosure theory and a materialization of the risk theory. (Pls.’ Alibaba Opp, at 33-35.) 
+    Defendants contend that Plaintiffs have not pled loss causation, as “the stock movement 
+
+was caused by new events relating to risks that were disclosed and well-known.” (Alibaba Defs.’ 
+Mem  at 3.)  Defendants  argue that the November  10,  2020  drop was due to  an intervening 
+
+                                    26 
+
+regulatory development, not the materialization of an undisclosed risk. (/d. at 24-25.)  Defendants 
+
+argue that the December 23, 2020 does not constitute a corrective disclosure, as Alibaba’s ongoing 
+exclusivity practices were “already ‘known to the market,” and Alibaba had disclosed to investors 
+that the SAMR might initiate investigations related to such practices,  (/d. at 24-25) (quoting Jn 
+
+re Omnicom Grp. Sec. Litig., 597 F.3d 501, 511 (2d Cir. 2010)). 
+    Defendants are correct that the November 10, 2020 announcement and stock drop does not 
+constitute a cortective disclosure.  The fact that the SAMR published new regulations impacting 
+Alibaba’s exclusivity practices did not purport to reveal a “then-disclosed fact with regard to the 
+specific misrepresentations alleged in the complaint.”  Omnicom, 597 F.3d at 511.  “An allegation 
+that the value of a stock declined following the public announcement of ‘bad news’ does not, by 
+itself, demonstrate loss causation.”  Jn re Bristol Myers Squibb Co. Sec. Litig., 586 F. Supp. 2d 
+148, 163 (S.D.N.Y, 2008) (citation and quotation marks omitted). Plaintiffs’ materialization of an 
+undisclosed  risk  argument  also  fails.   The  promulgation  of new  regulations  was  not  the 
+materialization of an undisclosed risk, because Alibaba had repeatedly warned investors of such a 
+possibility. 
+    As to the December 23, 2020 stock drop, SAMR’s investigation announcement indicated 
+that it was examining whether Alibaba had used illegal exclusivity practices.  (Pls,’ Alibaba Opp. 
+at 34-35;  CAC J  130.) The SAMR initiated its investigation “amid reports that Alibaba had 
+engaged in monopolistic conduct such as placing unreasonable restrictions on merchants or other 
+
+users of its platforms.” (CAC { 130). Upon announcement of the SAMR’s investigation, the price 
+of Alibaba’s ADSs fell approximately 13% at close of trading on December 23, 2020.  Ud. { 131.) 
+     Courts in this Circuit have found that the announcement of a governmental investigation 
+into the precise subject matter which forms the basis of the fraudulent practices at issue can qualify
+
+as a pattial corrective disclosure. Bristol Myers Squibb, 586 F. Supp. 2d at 164; Jn re Take-Two 
+Interactive Sec. Litig., 551 F. Supp. 2d 247, 283 (S.D.N.Y. 2008) (citation omitted).  Here, the 
+December 23 investigation announcement did not conclusively reveal that Alibaba’s statements 
+regarding exclusivity were inaccurate, but it was the first announcement in a series of disclosures 
+which would ultimately reveal to the market that Alibaba had used exclusivity practices during the 
+Class Period. Indeed, while Alibaba may have warned investors of the possibility of a regulatory 
+investigation, the Company had described its “prior” use of exclusivity practices and had even 
+signed  a  commitment  letter  with  the  SAMR that  it  would  not  engage  in  certain  merchant 
+exclusivity practices—which the SAMR ultimately found it had continued to employ.  (CAC {f 
+116-17, 375, 379.) 
+    As such, Plaintiffs have plausibly alleged that this announcement “was not an isolated 
+event in itself, but was the ‘tip of the iceberg’—1he first in a series of revelations” which would 
+ultimately expose Alibaba’s continued reliance on exclusivity. Bristol Myers Squibb, 586 F. Supp. 
+2d  at  165.  Drawing  all  reasonable  inferences  in  Plaintiffs’  favor,  it  is  plausible  that  the 
+announcement of an investigation into Alibaba’s exclusivity practices “marked the first in a series 
+of corrective disclosures” that would reveal to the market that Alibaba had engaged in illegal 
+exclusivity practices despite contrary disclosures.  id.  Accordingly, Plaintiffs have adequately 
+pled loss causation as to the December 23, 2020 stock drop at this stage.®  Defendants’ motion to 
+dismiss is DENIED as to Plaintiffs’ Exclusivity Practices claims in Count One, 
+
+® Defendants argue that intervening events, such as new regulations, broke the chain of causation. (Alibaba 
+Defs.’ Mem. at 24-25.)  While it is “unclear whether the plaintiff's losses were caused by the fraud or some 
+other intervening event, ‘the chain of causation is... not to be decided on a Rule 12(b)(6) motion to 
+dismiss[.]’” Gross v. GFI Grp., Inc., 162 F, Supp. 3d 263, 269 (S.D.N.Y. 2016) (quoting Loreley Financing 
+(Jersey) No. 3 Ltd. v. Wells Fargo Secs., LLC, 797 F.3d 160, 187 (2d Cir. 2015)). 
+
+                                    28 
+
+                         Vil.    ITEM 303 CLAIMS 
+    To  plausibly  allege  a  violation  of  Item  303  of  SEC  Regulation  S-K,  17  C.F.R. 
+229,303(a)(1) (“Item 303”), a plaintiff must identify a trend or uncertainty that “was already known 
+and existing,” to the defendant, and allege that “the trend or uncertainty .  .. was reasonably likely 
+to have a material impact” on the registrant’s financial condition or results of operations.  Panther 
+Partners Inc. v. Ikanos Comme’ns, Inc., 681 F.3d 114, 120 (2d Cir. 2012); Stratte-McClure, 776 
+F.3d at 106.  “Item 303 requires the registrant to disclose only those trends, events, or uncertainties 
+that it actually knows of when it files the relevant report . . . It is not enough that it should have 
+known of the existing trend, event, or uncertainty.” Indiana Pub. Ret. Sys. v. SAIC, Inc., 818 F.3d 
+85, 95 (2d Cir, 2016). 
+    Plaintiffs  argue  that  Alibaba’s  failure  to  disclose  its  continued  merchant  exclusivity 
+practices  constitutes  a  violation  of Item  303,  because  this  practice  was  a  “known trend  or 
+uncertainty” that put the Company at risk of civil monetary penalties via adverse regulatory action. 
+(CAC {9 244-51; Pls.’ Alibaba Opp, at 20-21.)  As discussed, Alibaba openly disclosed general 
+industry trends regarding the SAMR’s increasing scrutiny of exclusivity practices and warned of 
+the possibility of an investigation into Alibaba.  However, Alibaba failed to disclose that it was 
+continuing to require exclusivity, contrary to what it had disclosed to both investors and regulators, 
+which materially increased the possibility of adverse regulatory action. Stratte-McClure, 776 F.3d 
+at 103.  Plaintiffs have sufficiently alleged that this trend was reasonably likely to have a material 
+impact on Alibaba’s financial condition, as SAMR’s penalty for AML violations was up to 10% 
+of all sales. (CAC § 148.)  Indeed, the resulting fine was substantial, constituting “about 14% of 
+Alibaba’s FY 2020 net income” and “4% of Alibaba’s 2019 sales.” (/d.)  As to knowledge, the 
+Complaint’s allegations support a strong inference that the Defendants knew about Alibaba’s 
+ongoing use of exclusivity practices and that the Company could be implicated and fined by the 
+
+                                    29 
+
+SAMR for such practices, SAIC,  818 F.3d at 95.  Defendants’  motion to dismiss is therefore 
+DENIED as to Plaintiffs’ Item 303 claims. 
+           VII.    SECTION 20(a) CONTROL PERSON LIABILITY 
+    Plaintiffs allege that the Individual Defendants violated Section 20(a) of the Securities 
+Exchange Act.  To state a claim under Section 20(a), a plaintiff must allege facts showing: “(1) a 
+primary violation by the controlled person, (2) control of the primary violator by the defendant, 
+and (3) that the defendant was, in some meaningful sense, a culpable participant in the controlled 
+person’s  fraud.” ATSI Comme’ns,  493  F.3d  at  108.  Plaintiffs  allege  that  Wu  and Zhang  are 
+controlling persons.  (CAC { 397.)  As explained above, Plaintiffs have sufficiently alleged a 
+primary violation of Rule 10b-5 and Section 10(b) by a controlled person, Alibaba. Thus, Plaintiffs 
+have pled the first element of control person liability.  See Inv. Tech., 251 F. Supp. 3d at 624-25. 
+    As to the second element, “[w]hether a person is a ‘controlling person’ is a fact-intensive 
+inquiry, and generally should not be resolved on a motion to dismiss.” Zw re Tronox, Inc., Sec. 
+Litig., 769 F. Supp. 2d 202, 208 (S.D.N.Y. 2011) (quoting CompuDyne Corp.  v. Shane, 453 F. 
+Supp. 2d 807, 829 (S.D.N.Y. 2006)), Nevertheless, courts have held that an officer’s control as to 
+financial  statements,  for  example,  is  sufficiently  pleaded  if the  officer  has  signed  financial 
+statements containing materially false or misleading statements. See Inv. Tech., 251 F. Supp. 3d at 
+624-25; (citing In re  Virtus Inv.  Partners,  Inc.  Sec.  Litig.,  195 F.Supp.3d 528, 542 (S8.D.N.Y. 
+2016)).  Here, Zhang and Wu, as CEO and CFO, respectively, spoke on Alibaba’s behalf and 
+signed relevant SEC filings, financial statements, and other disclosures. (See,  e.g., CAC  □  19, 
+253, 261, 265-66.) These allegations are sufficient at this stage to show that they exercised control 
+over Alibaba. See Inv. Tech., 251 F. Supp. 3d at 625; Virtus, 195 F. Supp. 3d at 543. Accordingly, 
+Plaintiffs have pleaded the second element of control person liability as to Wu and Zhang. 
+
+                                    30 
+
+    As  to  the  third  element,  Plaintiffs  “must  plead  at  a  minimum  particularized  facts 
+establishing a controlling person’s conscious misbehavior or recklessness in the sense required by 
+Section  10(b).” See In re ShengdaTech,  Inc.  Sec.  Litig., No.  11  Civ.  1918  (LGS), 2014 WL 
+3928606,  at  *10  (S.D.N.Y.  Aug.  12, 2014)  (collecting cases).  As  explained above,  Plaintiffs 
+adequately allege that Zhang and Wu acted with knowledge that the actionable statements were 
+not accurate, satisfying the culpable participation element.  See Virtus, 195 F. Supp. 3d at 542. 
+Defendants’ motion to dismiss is therefore DENIED as to Plaintiffs’ Section 20(a) claims in Count 
+Two against Wu and Zhang. 
+                            IX.    CONCLUSION 
+    Defendants’ motion to dismiss this action as to Defendant Ma is GRANTED, Defendants’ 
+motion to  dismiss  Plaintiffs’  Ant claims  in  Counts  One  and  Two  against  all  Defendants  is 
+GRANTED. Defendants’ motion to dismiss Plaintiffs’ Exclusivity Practices claims in Counts One 
+and Two is DENIED.  The Clerk of Court is ordered to close the open motion at ECF No. 60. 
+
+Dated: New York, New York                       SO ORDERED. 
+    March 22, 2023                                        B  Dora 
+                                             United States District Judge 
+
+                                    31 

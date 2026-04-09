@@ -1,0 +1,151 @@
+{
+  "assignedTo": "Haywood Stirling Gilliam Jr.",
+  "assigned_to_id": 1206,
+  "attorney": [
+    "Fiona Tang",
+    "Michael Scott Dicke",
+    "Pavel I. Pogodin, Ph.D., Esq.",
+    "Casey Thomas O'Neill",
+    "Catherine Duden Kevane"
+  ],
+  "attorney_id": [
+    6016690,
+    6016691,
+    6016692,
+    6016693,
+    6016694
+  ],
+  "caseName": "Bitcoin Manipulation Abatement LLC v. FTX Trading LTD",
+  "case_name_full": "",
+  "cause": "7:25 Fraud - Commodities Leverage Contracts",
+  "chapter": null,
+  "court": "District Court, N.D. California",
+  "court_citation_string": "N.D. Cal.",
+  "court_id": "cand",
+  "dateArgued": null,
+  "dateFiled": "2019-11-02",
+  "dateTerminated": "2019-12-16",
+  "docketNumber": "4:19-cv-07245",
+  "docket_absolute_url": "/docket/16420654/bitcoin-manipulation-abatement-llc-v-ftx-trading-ltd/",
+  "docket_id": 16420654,
+  "firm": [
+    "Fenwick & West",
+    "Fenwick & West LLP",
+    "Fenwick and West LLP",
+    "Consensus Law"
+  ],
+  "firm_id": [
+    590411,
+    590412,
+    19023,
+    42235,
+    13951
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-03-07T23:06:13.293775Z",
+    "date_created": "2019-11-03T01:16:07.013211Z",
+    "score": {
+      "bm25": 1651.3505
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "350968",
+  "party": [
+    "Alameda Research LLC",
+    "Caroline  Ellison",
+    "Samuel  Bankman-Fried",
+    "Andy  Croghan",
+    "Alameda Research LTD (BVI)",
+    "Bitcoin Manipulation Abatement LLC",
+    "Constance  Wang",
+    "FTX Trading LTD",
+    "Darren  Wong",
+    "Gary  Wang"
+  ],
+  "party_id": [
+    9021991,
+    9021992,
+    9021993,
+    9021994,
+    9021995,
+    9021996,
+    9021997,
+    9021998,
+    9021999,
+    9022000
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/16420654/9/bitcoin-manipulation-abatement-llc-v-ftx-trading-ltd/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Summons Issued as to Andy Croghan, Caroline Ellison, Constance Wang, Gary Wang, Darren Wong, Alameda Research LLC, Alameda Research LTD (BVI), Samuel Bankman-Fried, FTX Trading LTD. (jjbS, COURT STAFF) (Filed on 11/5/2019) (Entered: 11/05/2019)",
+      "docket_entry_id": 108469565,
+      "document_number": 9,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2019-11-05",
+      "entry_number": 9,
+      "filepath_local": "recap/gov.uscourts.cand.350968/gov.uscourts.cand.350968.9.0.pdf",
+      "id": 112782241,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-05-07T08:40:11.959661Z",
+        "date_created": "2019-11-05T22:07:59.631838Z"
+      },
+      "pacer_doc_id": "035018615807",
+      "page_count": 2,
+      "short_description": "Summons Issued",
+      "snippet": "                      Case\n                      Case 4:19-cv-07245-HSG\n                        Case\n                           4:19-cv-07245-KAW  Document\n                              3:19-cv-07245 Document 2 9\n                                              Document     Filed\n                                                       4Filed\n                                                           Filed 11/05/19\n                                                              11/02/19     Page\n      "
+    },
+    {
+      "absolute_url": "/docket/16420654/3/2/bitcoin-manipulation-abatement-llc-v-ftx-trading-ltd/",
+      "attachment_number": 2,
+      "cites": [],
+      "description": "AMENDED COMPLAINT for Cryptocurrency Market Manipulation in Violation of 7 U.S.C. §§ 9(1) etc. against All Defendants. Filed byBitcoin Manipulation Abatement LLC. (Attachments: # 1 Exhibit A, # 2 Civil Cover Sheet)(Pogodin, Ph.D., Esq., Pavel) (Filed on 11/4/2019) (Entered: 11/04/2019)",
+      "docket_entry_id": 108218316,
+      "document_number": 3,
+      "document_type": "Attachment",
+      "entry_date_filed": "2019-11-04",
+      "entry_number": 3,
+      "filepath_local": "recap/gov.uscourts.cand.350968/gov.uscourts.cand.350968.3.2.pdf",
+      "id": 217470281,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-05-22T14:44:51.415975Z",
+        "date_created": "2022-11-11T10:28:58.607350Z"
+      },
+      "pacer_doc_id": "035018607053",
+      "page_count": 2,
+      "short_description": "Civil Cover Sheet",
+      "snippet": "JS-CAND 44 (Rev. 07/19)                Case 4:19-cv-07245-HSG Document 3-2 Filed 11/04/19 Page 1 of 2\n                                                                                CIVIL COVER SHEET\nThe JS-CAND 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law,\nexcept as provided by local rules of court. This form, approved in its original form by the Judicial Conference of the United S"
+    },
+    {
+      "absolute_url": "/docket/16420654/1/2/bitcoin-manipulation-abatement-llc-v-ftx-trading-ltd/",
+      "attachment_number": 2,
+      "cites": [],
+      "description": "COMPLAINT for Cryptocurrency Market Manipulation in Violation of 7 U.S.C. §§ 9(1) etc. against All Defendants ( Filing fee $ 400, receipt number 0971-13850506.). Filed byBitcoin Manipulation Abatement LLC. (Attachments: # 1 Exhibit A, # 2 Civil Cover Sheet)(Pogodin, Pavel) (Filed on 11/2/2019) (Entered: 11/02/2019)",
+      "docket_entry_id": 108131021,
+      "document_number": 1,
+      "document_type": "Attachment",
+      "entry_date_filed": "2019-11-02",
+      "entry_number": 1,
+      "filepath_local": "recap/gov.uscourts.cand.350968/gov.uscourts.cand.350968.1.2.pdf",
+      "id": 121043015,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-05-08T06:09:14.872196Z",
+        "date_created": "2020-01-22T00:55:56.908087Z"
+      },
+      "pacer_doc_id": "035018606913",
+      "page_count": 2,
+      "short_description": "Civil Cover Sheet",
+      "snippet": "JS-CAND 44 (Rev. 07/19)                Case 4:19-cv-07245-HSG Document 1-2 Filed 11/02/19 Page 1 of 2\n                                                                                CIVIL COVER SHEET\nThe JS-CAND 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law,\nexcept as provided by local rules of court. This form, approved in its original form by the Judicial Conference of the United S"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

@@ -1,0 +1,23 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Basic Inc. v. Levinson",
+  "cluster_id": 112022,
+  "case_name_cl": "Basic Inc. v. Levinson",
+  "date_filed": "1988-03-07",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "99 L. Ed. 2d 194",
+    "108 S. Ct. 978",
+    "485 U.S. 224",
+    "1988 U.S. LEXIS 1197"
+  ],
+  "docket_number": "86-279",
+  "docket_id": 1441403,
+  "judges": "Blackmun, Brennan, Marshall, Stevens, White, O'Connor, Rehnquist, Scalia, Kennedy",
+  "num_opinions": 3,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/112022/basic-inc-v-levinson/",
+  "legal_principle": "fraud-on-the-market presumption of reliance",
+  "year": 1988
+}

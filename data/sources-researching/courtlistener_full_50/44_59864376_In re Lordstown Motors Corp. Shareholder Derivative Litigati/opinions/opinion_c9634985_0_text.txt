@@ -1,0 +1,81 @@
+             IN THE UNITED STATES DISTRICT COURT                         
+                FOR THE DISTRICT OF DELAWARE                             
+
+
+In re LORDSTOWN MOTORS CORP.                                             
+SHAREHOLDER DERIVATIVE                                                   
+LITIGATION                                                               
+                                   Lead Case No. 1:21-cv-00604-SB        
+                                 (Consolidated with Case Nos. 1:21-cv-   
+                                00724-SB, 1:21-cv-00910-SB, and 1:21-    
+                                          cv-01010-SB)                   
+
+
+Blake A. Bennett, Michael I. Fistel, Jr., COOCH AND TAYLOR, Wilmington,  
+Delaware; Peter B. Andrews, Craig J. Springer, David M. Sborz, ANDREWS & 
+SPRINGER LLC, Wilmington, Delaware; Benny C. Goodman, III, Erik W. Luedeke, 
+ROBBINS GELLER RUDMAN & DOWD LLP, San Diego, California; Ryan M. Ernst,  
+BIELLI & KLAUDER, LLC, Wilmington, Delaware.                             
+                                              Counsel for Plaintiffs.    
+
+Jonathan A. Choa, Michael A. Pittenger, POTTER ANDERSON & CORROON, LLP,  
+Wilmington, Delaware; Raymond J. DiCamillo, RICHARDS, LAYTON & FINGER, PA, 
+Wilmington, Delaware.                                                    
+
+                                             Counsel for Defendants.     
+
+
+                      MEMORANDUM OPINION                                 
+November 23, 2021                                                         
+
+
+BIBAS, Circuit Judge, sitting by designation.                             
+ A ruling in one case can change the course of another. To avoid needless toil, courts 
+can stay one until the other is resolved. I will do that here.            
+ Lordstown Motors is a new public company that plans to make electric pickup 
+trucks. D.I. 25 ¶¶ 2–4. It boasted that consumers would swarm to buy the trucks it 
+would soon deliver. Id. ¶¶ 6–7, 9, 11–13. So investors bought its stock. Id. ¶ 10. 
+
+ But Lordstown may have exaggerated how quickly it could make the trucks and 
+how many people would want them. Id. ¶ 14. So a shareholder class sued the company 
+in Ohio, alleging securities fraud. Consol. Am. Compl., Rico v. Lordstown Motors 
+Corp., No. 21-616 (N.D. Oh. Sept. 10, 2021) (D.I. 61). Then, other shareholders sued 
+Lordstown leaders in Delaware, alleging that they had contributed to that fraud, 
+breached fiduciary duties, and unjustly enriched themselves. D.I. 25 ¶ 1.  
+
+ Lordstown moved to dismiss the Ohio case. Mot. to Dismiss, Rico, No. 21-616 (N.D. 
+Oh. Nov. 9, 2021) (D.I. 70).  Now it asks me to stay the Delaware case until the Ohio 
+Court decides its motion. D.I. 28. The shareholders never answered. Because a stay 
+will avoid prejudice while streamlining this case, I will grant the motion.  
+ I have discretion to decide motions to stay. Janklow ex rel. Stericycle, Inc. v. Alutto, 
+2018 WL 6499869, at *2 (D. Del. Dec. 11, 2018) (citing Cost Bros., Inc. v. Travelers 
+Indem. Co., 760 F.2d 58, 60 (3d Cir. 1985)). I ask if a stay would prejudice the 
+
+shareholders, simplify the case, and promote judicial economy. Id. Here, each factor 
+favors a stay.                                                            
+ A temporary stay will not prejudice the shareholders. Mere delay does not cause 
+them “undue hardship.” In re Twitter, Inc., 2018 WL 3536085, at *3 (D. Del. July 23, 
+2018). Plus, this is a derivative action: the shareholders sued Lordstown leaders on 
+behalf of the company, and any relief goes to Lordstown. So all parties benefit from 
+avoiding needless expense. Continuing this case makes Lordstown battle on two 
+fronts: in Ohio and here in Delaware. That drains company resources and could force 
+Lordstown to take conflicting positions. Alutto, 2018 WL 6499869, at *2. So a stay 
+
+avoids prejudice.                                                         
+ Plus, a stay may simplify this case. The Ohio motion threatens to sink the class’s 
+claims. Rico, D.I. 70-1 at 13, 28, 33, 38–39. If there is no securities fraud, then 
+shareholders might drop their contribution claims. After all, you can contribute to 
+fraud only if there is a fraud in the first place. D.I. 25 ¶¶ 206–12; Consol. Am. Compl., 
+Rico, D.I. 61 ¶¶ 451–68. And this action brings identical Exchange Act claims against 
+
+some of the same defendants. D.I. 25 ¶¶ 196–205; Consol. Am. Compl., Rico, D.I. 61 
+¶¶ 469–90. So staying this case until the Ohio motion is resolved will focus this 
+Court’s attention on the surviving claims.                                
+ Last, a stay promotes judicial economy. Litigating this derivative contribution 
+claim duplicates efforts in Ohio. See Alutto, 2018 WL 6499869, at *2. And since this 
+case “is in its infancy,” staying it now does not waste spent resources. Id.  
+                             * * * * *                                   
+
+ A stay avoids prejudice, likely simplifies matters, and conserves court resources. 
+And the shareholders never disagreed. So I grant the motion to stay until the Ohio 
+Court decides the motion to dismiss.                                      

@@ -1,0 +1,396 @@
+           IN THE UNITED STATES DISTRICT COURT                          
+               FOR THE DISTRICT OF MARYLAND                             
+
+In re UNDER ARMOUR              *                                         
+SECURITIES LITIGATION                          Civil Action No. RDB-17-388 
+                              *                                         
+
+ *          *          *          *          *          *          *          *          *          *          *          *          
+
+                   MEMORANDUM OPINION                                   
+   As this Court noted in its Memorandum Opinion of January 22, 2020 (ECF No. 139), 
+the basic allegation in this punitive class action is that the Defendants Under Armour, Inc. 
+(“Under Armour”) and its former Chief Executive Officer Kevin Plank (“Plank”) (collectively 
+“Defendants”) misrepresented the level of demand for Under Armour products.  Previously, 
+this Court has  dismissed  Plaintiffs’  claims under  Sections  10(b),  20(a),  and  20A of  the 
+Securities Exchange Act of 1934 (“Exchange Act”), as well as Sections 11 and 15 of the 
+Securities Act of 1933 (“Securities Act”).  Nevertheless, during the pendency of an appeal to 
+the United States Court of Appeals for the Fourth Circuit (ECF No. 102), the Wall Street 
+Journal published two articles reporting that Under Armour was the subject of investigations 
+by the Securities and Exchange Commission (“SEC”).  Based on this new evidence, this Court 
+conducted a hearing and ultimately granted a Motion for Relief from its earlier rulings upon a 
+remand from the United States Court of Appeals for the Fourth Circuit.  (ECF No. 140.)  The 
+Fourth Circuit accordingly remanded this case.  (ECF No. 145.)  After having reviewed the 
+submissions of the parties and heard argument of counsel during a telephonic hearing on 
+September 14, 2020, this Court granted motions for consolidation and allowed the filing of a 
+Third Amended Complaint.  (ECF No. 150.)                                  
+   Accordingly,  on  October  14,  2020,  Lead  Plaintiff  Aberdeen  City  Council  as 
+Administrating Authority for the North East Scotland Pension Fund (“Aberdeen” or “Lead 
+Plaintiff”) and Plaintiffs Monroe County Employees’ Retirement System and KBC Asset 
+
+Management (collectively, “Plaintiffs”) filed the Consolidated Third Amended Complaint for 
+violations of the federal securities laws (“TAC”) against Defendants Under Armour and Plank.  
+(ECF No. 153.)  On December 4, 2020, the Defendants filed a Motion to Dismiss (ECF No. 
+159), to which the Plaintiffs filed a response in opposition (ECF No. 160).  On May 3, 2021, 
+while that motion remained pending, the SEC entered an Order instituting cease-and-desist 
+proceedings against  Under  Armour for violations  of  various  federal  securities  laws  and 
+
+ordering Under Armour to pay a $9,000,000 civil penalty.  (See ECF Nos. 171, 172.)  The 
+Plaintiffs have aptly noted authority of this Court to take judicial notice of the SEC Order in 
+its consideration of the pending Motion to Dismiss (ECF No. 159).  (See ECF No. 172.) 
+   The parties’ submissions have been reviewed and no hearing is necessary.  See Local 
+Rule 105.6 (D. Md. 2018).  For the reasons that follow, this Court is satisfied that taking judicial 
+notice of the SEC’s Order in this case is appropriate.  The Plaintiffs’ allegations in the TAC, 
+
+read in light of and in combination with the allegations set forth in the SEC’s Order, adequately 
+allege violations of federal securities laws.  Accordingly, the Defendants’ Motion to Dismiss 
+(ECF No. 159) is DENIED.                                                  
+                        BACKGROUND                                      
+   In ruling on a motion to dismiss, this Court “accept[s] as true all well-pleaded facts in 
+a complaint and construe[s] them in the light most favorable to the plaintiff.”  Wikimedia Found. 
+
+v. Nat’l Sec. Agency, 857 F.3d 193, 208 (4th Cir. 2017) (citing SD3, LLC v. Black & Decker (U.S.) 
+Inc., 801 F.3d 412, 422 (4th Cir. 2015)).  Plaintiff Brian Breece filed a class action Complaint 
+against Under Armour, Plank, and another executive of the company, Lawrence Molloy on 
+February 10, 2017.  (ECF No. 1.)  After consolidation with other suits filed against Under 
+
+Armour,  Plank,  and  numerous  other  defendants,  this  Court  dismissed  the  Plaintiffs’ 
+Consolidated Amended Complaint.  (ECF No. 75.)  On November 16, 2018 the Lead Plaintiff 
+filed a Consolidated Second Amended Complaint for violations of the federal securities laws 
+(ECF No. 78), naming only Under Armour and Plank as Defendants.  That Second Amended 
+Complaint alleged that between September 16, 2015 and January 30, 2017, the Defendants 
+issued a series of false and misleading statements about demand for Under Armour products 
+
+and the company’s financial condition.  (ECF No. 78 ¶¶ 2, 14.)            
+   On August 19, 2019, this Court dismissed the Second Amended Complaint with 
+prejudice.  (ECF No. 98 at 26.)  Judgment was entered on September 9, 2019 (ECF No. 101), 
+and on September 17, 2019, the Plaintiffs filed a notice of appeal to the United States Court 
+of Appeals for the Fourth Circuit (ECF No. 102).  Based on the reports of the Wall Street 
+Journal that Under Armour was the subject of SEC investigations, Lead Plaintiff moved on 
+
+November 18, 2019 for an indicative ruling (ECF No. 105), requesting that this Court grant 
+the Plaintiffs’ Motion for Relief from the Court’s September 9, 2019 Judgment pursuant to 
+Federal Rule of Civil Procedure 60(b), if the Fourth Circuit remanded for that purpose.  (ECF 
+No. 106.)  On January 22, 2020, this Court granted such request.  (ECF No. 139.)  Accordingly, 
+this Court held that it would permit Lead Plaintiff to file a third amended complaint bringing 
+claims against the Defendants for violations of the Securities Exchange Act of 1934 (the 
+
+“Exchange Act”).  (Id.)                                                   
+   On  October  14,  2020, the  Lead Plaintiff  filed  the Plaintiffs’  Consolidated  Third 
+Amended Complaint for violations of the federal securities laws (“TAC”) (ECF No. 153) 
+alleging that Defendants Under Armour and Plank misled investors during the Class Period 
+
+by falsely claiming that consumer demand for the company’s products was strong between the 
+third quarter of 2015 and the fourth quarter of 2016.  Plaintiffs allege that the Defendants led 
+investors to believe that Under Armour’s 26-consecutive quarter 20% year-over-year revenue 
+growth streak was “safely intact,” when in reality demand for the company’s products was in 
+decline.  (ECF No. 153 ¶¶ 148-168.)  They claim that Defendants manipulated the company’s 
+financial results by pulling sales forward from future quarters and engaged in other allegedly 
+
+suspect sales practices.  (Id.)  The Plaintiffs assert violations of Section 10(b) of the Securities 
+Exchange Act of 1934 (the “Exchange Act”) and Rule 10b–5 promulgated thereunder against 
+Defendants Under Armour and Plank (Count I); violations of Section 20(a) of the Exchange 
+Act, again against both Under Armour and Plank (Count II); and violation of Section 20A of 
+the Exchange Act against solely Defendant Plank (Count III).  (Id. ¶¶ 412-436.) 
+   On December 4, 2020, the Defendants filed a Motion to Dismiss (ECF No. 159) in 
+
+which they seek the dismissal of the TAC in its entirety.  Their Motion asserts that the TAC 
+generally fails to plead adequate factual details to support the Plaintiffs’ claims.  (Id.)  On May 
+3, 2021, the SEC entered an Order Instituting Cease-and-Desist Proceedings Pursuant to 
+Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 
+1934, Making Findings, and Imposing a Cease-and-Desist Order (“SEC Order”).  (See Exh. A, 
+ECF No. 171.)  The SEC Order states that it determined that instituting cease-and-desist 
+
+proceedings in this matter was appropriate and that in anticipation of those proceedings, 
+Under Armour submitted an Offer of Settlement, which the SEC accepted.  (Id. at I, II.)  
+Under Armour therefore consented to entry of the Order, but did so without admitting or 
+denying the findings of the SEC.  (Id. at II.)  The cease-and-desist order was imposed for 
+
+violation of Sections 17(a)(2) and (3) of the Securities Act of 1933 (the “Securities Act”) and 
+Section 13(a) of the Securities Exchange Act of 1934 (the “Exchange Act”), and Rules 13a-1, 
+13a-11, 13a-13, 12b-20 thereunder, including failing to comply with Item 303(a)(3)(ii) of 
+Regulation S-K.  (Id. at III ¶¶ 5, 45-48.)  The SEC Order also included a civil penalty of 
+$9,000,000 subject to Exchange Act Section 21F(g)(3).  (Id. at IV ¶ B.)   
+   The SEC Order is based upon the consent of the Defendants without the admission 
+
+or denial of any findings.  Furthermore, the Order is not dipositive of the issues in this case.  
+Nevertheless, the practice of accelerating sales information is central to the allegations in these 
+consolidated cases.  Accordingly, this “pull forward” practice and its effect on revenue 
+estimates will await further discovery in this case.                      
+                    STANDARD OF REVIEW                                  
+Under Rule 8(a)(2) of the Federal Rules of Civil Procedure, a complaint must contain a 
+
+“short and plain statement of the claim showing that the pleader is entitled to relief.”  Fed. R. 
+Civ. P 8(a)(2).  The purpose of Rule 12(b)(6) is “to test the sufficiency of a complaint and not 
+to  resolve contests  surrounding  the  facts, the  merits  of  a  claim,  or  the  applicability  of 
+defenses.”  Presley v. City of Charlottesville, 464 F.3d 480, 483 (4th Cir. 2006).  To survive a motion 
+under Rule 12(b)(6), a complaint must contain facts sufficient to “state a claim to relief that is 
+plausible on its face.”  Ashcroft v. Iqbal, 556 U.S. 662, 684 (2009) (quoting Bell Atl., Corp. v. 
+
+Twombly, 550 U.S. 544, 570 (2007)).  Under the plausibility standard, a complaint must contain 
+“more than labels and conclusions” or a “formulaic recitation of the elements of a cause of 
+action.”  Twombly, 550 U.S. at 555; see Painter’s Mill Grille, LLC v. Brown, 716 F.3d 342, 350 (4th 
+Cir. 2013).  A complaint need not include “detailed factual allegations.”  Iqbal, 556 U.S. at 678 
+
+(quoting Twombly, 550 U.S. at 555).  A complaint must, however, set forth “enough factual 
+matter (taken as true) to suggest” a cognizable cause of action, “even if  . . . [the] actual proof 
+of those facts is improbable and . . . recovery is very remote and unlikely.”  Twombly, 550 U.S. 
+at 556 (internal quotations omitted).  “Threadbare recitals of the elements of a cause of action, 
+supported by mere conclusory statements, do not suffice” to plead a claim.  Iqbal, 556 U.S. at 
+678; see A Soc’y Without a Name v. Virginia, 655 F.3d 342, 346 (4th. Cir. 2011). 
+
+   This Court has noted that a claim for securities fraud must meet the heightened 
+pleading requirements of Federal Rule of Civil Procedure 9(b) and the Private Securities 
+Litigation Reform Act (“PSLRA”), 15 U.S.C. § 78u–4(b).  In re Constellation Energy Grp., Inc. Sec. 
+Litig., 738 F. Supp. 2d 614, 634 (D. Md. 2010).  Rule 9(b) of the Federal Rules of Civil 
+Procedure requires that “the circumstances constituting fraud be stated with particularity.”  
+Fed. R. Civ. P. 9(b). The rule “does not require the elucidation of every detail of the alleged 
+
+fraud, but does require more than a bare assertion that such a cause of action exists.”  Mylan 
+Labs., Inc. v. Akzo, N.V., 770 F. Supp. 1053, 1074 (D. Md. 1991).  To satisfy the rule, a plaintiff 
+must “identify with some precision the date, place and time of active misrepresentations or 
+the circumstances of active concealments.”  Johnson v. Wheeler, 492 F. Supp. 2d 492, 509 (D. 
+Md. 2007).  The PSLRA further requires a securities fraud claim to (1) “specify each statement 
+alleged to have been misleading [and] the reason or reasons why the statement is misleading,” 
+
+and (2) “state with particularity facts giving rise to a strong inference that the defendant acted 
+with the required state of mind.”  Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 321 
+(2007) (quoting 15 U.S.C. § 78u-4(b)(1), (b)(2)).                         
+   While ruling  on a motion to dismiss, a court’s evaluation is generally limited to 
+
+allegations contained in the complaint.  Goines v. Calley Cmty. Servs. Bd., 822 F.3d 159, 166-67 
+(4th Cir. 2016).  However, courts may also consider documents explicitly incorporated into 
+the complaint by reference.  Id. at 166 (citing Tellabs, 551 U.S. at 322).  In addition, a court may 
+also “take judicial notice of ‘matters of public record’ and other information that, under 
+[Federal Rule of Evidence] 201, constitute ‘adjudicative facts.’”  Goldfarb v. Mayor & City Council 
+of Baltimore., 791 F.3d 500, 508 (4th Cir. 2015) (citing Philips v. Pitt Cty. Mem’l Hosp., 572 F.3d 
+
+176, 180 (4th Cir. 2009); see Fed. R. Evid. 201(b) (stating, in relevant part, that a “court may 
+judicially notice a fact that is not subject to reasonable dispute because it . . . can be accurately 
+and readily determined from sources whose accuracy cannot reasonably be questioned.”).    
+“[C]ourts are permitted to consider facts and documents subject to judicial notice without 
+converting the motion to dismiss into one for summary judgment.” Zak v. Chelsea Therapeutics 
+Int'l, Ltd., 780 F.3d 597, 607 (4th Cir. 2015).  If a court considers such facts at the motion to 
+
+dismiss stage, the facts must be construed “in the light most favorable to the plaintiffs.”  Zak, 
+780 F.3d at 607 (citation omitted).                                       
+                          ANALYSIS                                      
+I.   Claims under Section 10(b) and Rule 10b–5                          
+   Section 10(b) of the Exchange Act prohibits the use of “any manipulative or deceptive 
+device or contrivance” in connection with the sale of a security in violation of SEC rules.  15 
+
+U.S.C. § 78j(b).  “Rule 10b–5 encompasses only conduct already prohibited by § 10(b).”  
+Stoneridge Inv. Partners, LLC v. Sci.-Atlanta, 552 U.S. 148, 157 (2008).  A typical § 10(b) action 
+requires a plaintiff to prove six elements: “(1) a material misrepresentation or omission by the 
+defendant; (2) scienter; (3) a connection between the misrepresentation or omission and the 
+
+purchase or sale  of a security; (4) reliance upon the misrepresentation or omission; (5) 
+economic loss; and (6) loss causation.”  Yates v. Mun. Mortg. & Equity, LLC, 744 F.3d 874, 884 
+(4th Cir. 2014 (quoting Stoneridge, 552 U.S. at 157).                     
+   In their Motion to Dismiss, Defendants Plank and Under Armour assert that the 
+Plaintiffs have simply failed to state a claim for relief under Section 10(b) and Rule 10b–5.  
+(ECF No. 159-1.)  First, the Defendants assert that the Plaintiffs’ core allegations that the 
+
+Defendants engaged in improper “channel stuffing” are insufficient.  (Id. at 8.)  “Channel 
+stuffing” is another term used to describe the practice of pulling forward sales from a future 
+quarter, and is defined by the United States Court of Appeals for the First Circuit as “inducing 
+purchasers to increase substantially their purchases before they would, in the normal course, 
+otherwise purchase products from the company” with the “result of shifting earnings into 
+earlier quarters, quite likely to the detriment of earnings in later quarters.”  Greebel v. FTP 
+
+Software, Inc., 194 F.3d 185, 202 (1st Cir. 1999).  The Defendants note that “[a]llegations of 
+channel stuffing are, standing alone, insufficient to sustain the state of mind requirement in a 
+securities fraud claim because ‘there may be a number of legitimate reasons for attempting to 
+achieve sales earlier’ than in the normal course.”  In re Trex Co., Inc. Sec. Litig., 212 F. Supp. 2d 
+596, 608 (W.D. Va. 2002) (quoting Greebel, 194 F.3d at 185 (concluding that channel stuffing 
+allegations “[do] not support a strong inference of scienter”)).  The Defendants assert that the 
+
+Plaintiffs have failed to provide adequate details regarding Under Armour’s pull forward 
+practice, specifically “dollar amounts or percentages of overall sales,” in order to suggest that 
+the Defendants knew or should have known that demand was declining.  (ECF No. 159-1 at 
+2.)  The Defendants argue that the Plaintiffs have simply failed to offer any “corroborating 
+
+details” to support their claims.  (Id.)                                  
+   Second, the Defendants assert that the Plaintiffs have failed to plead facts to suggest 
+that the Defendants acted with the requisite scienter, engaging in intentional misconduct or 
+severe recklessness.  (ECF No. 159-1 at 26.)  To prevail on a securities fraud action, the 
+Plaintiffs must, at a minimum, show “‘an act so highly unreasonable and such an extreme 
+departure from the standard of ordinary care as to present a danger of misleading the plaintiff 
+
+to the extent that the danger was either known to the defendant or so obvious that the 
+defendant must have been aware of it.’”  Ottmann v. Hanger Orthopedic Grp., Inc., 353 F.3d 338, 
+343 (4th Cir. 2003) (quoting Phillips v. LCI Int’l, Inc., 190 F.3d 609, 620 (4th Cir. 1999)).  To 
+prevail on a claim against a corporation specifically, the Plaintiffs must allege facts “giving rise 
+to a strong inference that at least one corporate agent acted with the required state of mind.”  
+Matrix Cap. Mgmt. Fund, LP v. BearingPoint, Inc., 576 F.3d 172, 189 (4th Cir. 2009). 
+
+   With respect to the claims against Defendant Plank, the Defendants assert that the 
+TAC  repleads  many  of  the  same  factual  allegations  provided  in  the  Second  Amended 
+Complaint, which this Court found were insufficient to state a claim for relief.  (ECF No. 159-
+1 at 27); see also Under Armour Sec. Litig., 409 F. Supp. 3d 446, 462 (D. Md. 2019).  The only 
+new pieces of “evidence” provided are emails which allegedly show Defendant Plank was 
+aware of the pull forward sales and accounting practices.  (ECF No. 159-1 at 28.)  Defendants 
+
+assert that such new evidence is insufficient, as the Plaintiffs have not adequately alleged that 
+such sales and accounting practices were actually improper.  (Id.)  With respect to the claims 
+against Under Armour, the Defendants assert that the Plaintiffs have failed to plead scienter 
+as to Plank or any of the other corporate agents included in the TAC.  (Id. at 37.)   
+
+   Third, the Defendants also contend that the Plaintiffs have failed to adequately plead 
+falsity as required by the Private Securities Litigation Reform Act (“PSLRA”).  (Id. at 40.)  
+Section 78u–4(b)(1) provides that a plaintiff must allege that the defendant “made an untrue 
+statement of a material fact” or “omitted to state a material fact necessary in order to make 
+the  statements  made,  in  the  light  of  the  circumstances  in  which  they  were  made,  not 
+misleading.”  15 U.S.C. § 78u–4(b)(1).  The section continues, stating that “the complaint shall 
+
+specify each statement alleged to have been misleading, the reason or reasons why the 
+statement is misleading, and, if an allegation regarding the statement or omission is made on 
+information and belief, the complaint shall state with particularity all facts on which that belief 
+is formed.”  Id.  Again, the Defendants assert that the TAC merely realleges the Second 
+Amended Complaint, and that the new allegations included in the TAC fail to cure the 
+deficiencies previously noted by this Court.  (ECF No. 159-1 at 40-50.)  The Defendants also 
+
+assert that certain forward-looking statements are protected by the PSLRA “safe harbor,” 
+which provides that “projections of future performance not worded as guarantees are generally 
+not actionable under federal securities laws.”  (Id. at 44 (citing Raab v. Gen. Physics Corp., 4 F.3d 
+286, 290 (4th Cir. 1993)).)                                               
+   On January 29, 2021, the Plaintiffs filed a Response in Opposition to the Defendants’ 
+Motion to Dismiss, asserting that the TAC and the evidence incorporated into the TAC 
+
+adequately allege a plausible claim for relief.  (ECF No. 162.)  On May 7, 2021, the Plaintiffs 
+filed correspondence with this Court supplementing their Opposition in light of the SEC 
+Order issued on May 3, 2021.  (ECF No. 172.)  The Plaintiffs now ask this Court to take 
+judicial notice of the SEC Order.  (Id.)  As noted above, this court may, consistent with Rule 
+
+201 of the Federal Rules of Evidence, take judicial notice of relevant facts that are “not subject 
+to reasonable dispute” when such facts “can be accurately and readily determined from sources 
+whose accuracy cannot reasonably be questioned.”  See Fed. R. Evid. 201(b).  There is no 
+dispute with respect to the accuracy of the SEC Order.  The Plaintiffs also provide numerous 
+examples of cases in which courts have taken judicial notice of similar SEC cease-and-desist 
+orders.  (See ECF No. 172 (citing In re Deutsche Bank Aktiengesellschaft Sec. Litig., No. 16 Civ. 
+
+3495 (AT) (BCM), 2017 WL 4049253, at *4 (S.D.N.Y. June 28, 2017); In re UBS Auction Rate 
+Sec. Litig., No. 08 Civ. 2967(LMM), 2010 WL 2541166, at *13-14 (S.D.N.Y. June 10, 2010); Se. 
+Pa. Transp. Auth. v. Orrstown Fin. Servs., Inc., No. 12-cv-00993, 2016 WL 7117455, at *6 (M.D. 
+Pa. Dec. 7, 2016)).)  Taking judicial notice of the SEC Order is permissible and appropriate in 
+this case.                                                                
+   Taking into consideration the facts alleged in the SEC Order, this Court is satisfied that 
+
+the Plaintiffs’ allegations survive the Defendants’ Motion to Dismiss.  To be clear, the SEC 
+Order does not supply dispositive evidence in this case—as the Order clearly states, the SEC’s 
+findings “are not binding on any other person or entity in this or any other proceeding.”  (Exh. 
+A at n.1, ECF No. 171.)  Nevertheless, the SEC Order lends support to the allegations of the 
+Plaintiffs in this case.  With respect to the Plaintiffs’ allegations regarding the pull forward 
+sales practices, or “channel stuffing,” the SEC Order provides specific factual allegations 
+
+regarding the amount of the products pulled forward and concludes that because of the 
+undisclosed pull forward tactics used, investors “were left with a misleading impression of 
+how Under Armour was meeting or beating analysts’ revenue estimates.”  (Id. at III. ¶¶ 3, 13-
+38, 42-43.)  The SEC found that “Under Armour’s reported financial results . . . did not reflect 
+
+its natural revenue and revenue growth, and were not indicative of its future financial results.”  
+(Id. at III ¶ 41.)  Such allegations undermine the Defendants’ first argument for dismissal. 
+   The Defendants have aptly noted that unlike under Section 10(b), a finding of liability 
+under Sections 17(a)(2) and (3) does not require scienter and may rest on a finding of 
+negligence.  (Exh. A at III ¶ 46, ECF No. 171 (citing Aaron v. SEC, 446 U.S. 680, 685, 701-02 
+(1980)).)  Nevertheless, the SEC’s decision not to plead scienter does not impede the Plaintiffs’ 
+
+ability to plead a strong inference of scienter in this case.  See In re VeriFone Holdings, Inc. Sec. 
+Litig., 704 F.3d 694, 707 n.5 (9th Cir. 2012) (“We draw no inference from the SEC’s decision 
+not to plead scienter or charge defendants with fraud.  The district court erred in concluding 
+that ‘the SEC’s decision not to plead scienter hurts plaintiffs’ ability to plead a strong inference 
+of scienter.’”).  Despite containing no finding on the issue of scienter, the SEC’s Order 
+includes specific allegations that the company and its top officials, including then-CEO 
+
+Defendant Plank, were aware of the potential misleading nature of the undisclosed pull 
+forward sales practices.                                                  
+   Again, this Court notes that the SEC Order does not provide dispositive evidence in 
+this case.  Nevertheless, the SEC’s findings allege factual details which may support the 
+Plaintiffs’  allegations  in  the  TAC  with  respect  to  scienter.    In  Southeastern  Pennsylvania 
+Transportation Authority, the district court described the scienter standard a plaintiff must meet 
+
+to survive a motion to dismiss, stating that a plaintiff must allege “specific facts demonstrating 
+how the Exchange Act Defendants knew—or were at least reckless as to their knowledge—
+that the relevant [statements or omission] were false at the time they were made.”  2016 WL 
+7117455, at *21 (citing In re Radian Sec. Litig., 612 F. Supp. 2d 594, 620 (E.D. Pa. 2009)).  The 
+
+court  found  that  although  the  scienter  allegations  of  the  operative  complaint  “largely 
+mirror[ed]” those contained in a previously dismissed complaint, a “recently-issued SEC 
+Order, of which the Court [had] taken judicial notice, provide[d] additional factual information 
+as to how certain of the Exchange Act Defendants knew—or were at least reckless as to their 
+knowledge—that the relevant representations as to financial reporting were false and/or 
+misleading at the time they were made.”  Id.  Upon review of the TAC, the briefs and 
+
+correspondence filed by the parties, the SEC Order, and “assessing all of [the Plaintiffs’] 
+allegations ‘holistically,’ as the Court is required to do when assessing scienter,” id. at *22 (citing 
+Tellabs, 557 U.S. at 326), this Court is satisfied that the Plaintiffs have alleged facts supporting 
+a strong inference of scienter in order to state a plausible claim for relief under the Exchange 
+Act against both Defendants.1                                             
+   Finally, the SEC Order provides support for the Plaintiffs’ allegations with respect to 
+
+falsity.  The SEC Order specifically alleges that:                        
+   As a result of Under Armour’s failure to disclose the impact of its pull forward 
+   practice on revenue growth, Under Armour’s public statements were materially 
+   misleading.  In particular, throughout the Relevant Period, Under Armour made 
+   positive  statements  regarding  its  revenue  growth  rate  and  the  factors 
+   contributing  to  the  revenue  growth  rate  without  disclosing  the  significant 
+   impact on revenue from its use of pull forwards.  Under Armour also failed to 
+
+1 This Court’s holding on scienter with respect to Defendant Plank may be supported not only by allegations regarding 
+senior management and executives included in the SEC Order, but also specific allegations in the TAC considered in light 
+of the Order, including Plank’s statements acknowledging his access to company data and forecasts (ECF No. 153 ¶¶ 106-
+111), his alleged attendance and participation in company meetings (id. ¶¶ 120-23), and his entry into a Rule 10b5-1 trading 
+plan in November 2016 and April 2016 through which he sold $138.2 million in Under Armour stock (id. ¶¶ 124-35). 
+   disclose that the sales that had been pulled forward were no longer available in 
+   the future quarter.                                                  
+
+(Exh. A. at III ¶ 4, ECF No. 171.)  The Order specifically notes that by the third quarter of 
+2015, Under Armour was aware that its full-year internal projections for revenue were much 
+lower than the late-2014 forecast had predicted.  (Id. at III ¶ 13.)  The company saw a $120 
+million decline in sales projections for its largest market category, North American wholesale 
+apparel.  (Id. at III ¶ 13.)  Yet, Under Amour continued to report its financial results without 
+disclosing its use of pull forward sales and their effect on future revenue and growth.  (Id. at 
+III ¶ 42.)  The SEC did not suggest that any of the company’s statements were protected by 
+the PSLRA safe harbor.  It focused on Under Armour’s omission of information regarding 
+the pull forward sales practices potentially hindering an investor’s ability “to evaluate Under 
+Armour’s  future  revenue  and  ability  to  meet  future  guidance  and  analysts’  revenue 
+
+expectations.”  (Id. at III ¶ 44.)                                        
+   These allegations, combined with the allegations included in the TAC, are sufficient to 
+state a plausible claim that the Defendants “omitted to state a material fact necessary in order 
+to make the statements made, in the light of the circumstances in which they were made, not 
+misleading.”  15 U.S.C. § 78u–4(b)(1).  The SEC Order and the TAC together “specify each 
+statement alleged to have been misleading” and “the reason or reasons why the statement is 
+
+misleading.”  Id.                                                         
+II.  Claims under Sections 20(a) and 20A                                
+   Section 20(a) provides for derivative liability for those who control others found to be 
+primarily liable under the Exchange Act.  15 U.S.C. § 78t(a).  A claim of control person liability 
+must allege a predicate violation of Section 10(b).  In re Mun. Mortg. & Equity, LLC Sec. & 
+Derivative Litig., 876 F. Supp. 2d 616, 647 (D. Md. 2012).  Section 20A provides for a private 
+right of action to buyers and sellers of securities who trade “contemporaneously” with an 
+insider in possession of material nonpublic information.  15 U.S.C. § 78t–1(a).  “Like a claim 
+
+for control person liability asserted under § 20(a), a § 20A claim must contain a well-pled 
+predicate violation of the Exchange Act.”  In re E. Spire Comms., Inc. Sec. Litig., 127 F. Supp. 2d 
+734, 750 (D. Md. 2001).                                                   
+   Defendants contend that the Plaintiffs have failed to adequately allege a claim under 
+Section 10(b) and Rule 10b–5, and therefore, the Sections 20(a) and 20A claims must be 
+dismissed.  (ECF No. 159-1 at 50.)  As described above, however, this Court is satisfied that 
+
+the Plaintiffs have adequately alleged their claims under Section 10(b) and Rule 10b–5.  
+Further, the Plaintiffs have alleged that they purchased Under Armour stock during the Class 
+Period contemporaneously with Plank’s trades when he was allegedly in possession of material, 
+non-public information concerning Under Armour’s suspect sales and accounting practices, 
+as required for a Section 20A claim.  For these reasons, the Plaintiffs have stated a plausible 
+claim for relief under Section 20(a) and Section 20A.                     
+
+                        CONCLUSION                                      
+   For the foregoing reasons, the Defendants’ Motion to Dismiss (ECF No. 159) is 
+DENIED.                                                                   
+   A Separate Order follows.                                            
+
+Dated: May 18, 2021                                                       
+                            ________/s/___________                                                         
+                            Richard D. Bennett                          
+                               United States District Judge             

@@ -1,0 +1,829 @@
+UNITED STATES DISTRICT COURT                                              
+EASTERN DISTRICT OF NEW YORK                                              
+-----------------------------------------------------------------------X   
+LINNETT PLUNKETT, ORAL PLUNKETT, OREL                                     
+PLUNKETT, ANTOINETT PLUNKETT, DEGUAN                                      
+ADAMS, LINETTE RICHARD, JUDITH PARKINSON,                                 
+WOODROW CAMPBELL, and CHASSIDY ADAMS,                                     
+
+               Plaintiffs,                                           
+                                           MEMORANDUM                
+     -against-                             AND ORDER                 
+                                           24-CV-05479-SJB-LGD       
+U.S. BANK NATIONAL ASSOCIATION, MORTGAGE                                  
+ELECTRONIC REGISTRATION SYSTEMS, INC.,                                    
+WELLS FARGO BANK N.A., and MORTGAGE                                       
+LENDERS NETWORK USA, INC.,                                                
+
+               Defendants.                                           
+-----------------------------------------------------------------------X  
+BULSARA, United States District Judge:                                    
+Plaintiffs Linnett Plunkett (“Plunkett”), Oral Plunkett, Orel Plunkett, Antoinett 
+Plunkett, Deguan Adams, Linette Richard, Judith Parkinson, Woodrow Campbell, and 
+Chassidy Adams (collectively “Plaintiffs”), proceeding pro se, commenced this action on 
+August 5, 2024, against Defendants U.S. Bank National Association (“U.S. Bank”), 
+Mortgage Electronic Registration Systems, Inc. (“MERS”), Wells Fargo Bank N.A. 
+(“Wells Fargo”), and Mortgage Lenders Network USA, Inc. (“MLNU”) (collectively 
+“Defendants”)1 for claims related to the mortgage and subsequent foreclosure of a 
+
+
+1 Although the Complaint often refers to a “Defendant Fannie Mae,” (e.g., Compl. 
+dated Aug. 5, 2024 (“Compl.”), Dkt. No. 1 ¶¶ 31, 40, 50(d)), “Fannie Mae” is not listed 
+on the Complaint’s caption or on the Civil Cover Sheet as a defendant.  (See id. at 1–2; 
+Civil Cover Sheet, Dkt. No. 1-1).  The Complaint also refers once to “Defendant 
+America’s Servicing Co.,” (Compl. ¶ 7), which is also not named on the Complaint’s 
+caption or on the Civil Cover Sheet.  (See id. at 1–2; Civil Cover Sheet).   
+property located at 1596 Johnson Avenue, Elmont, New York 11003 (the “Property”).  
+(Compl.).  Plaintiffs allege Defendants wrongfully foreclosed on the Property; made 
+fraudulent representations; intentionally inflicted emotional distress; committed slander 
+
+of title; violated the Truth in Lending Act (“TILA”), 15 U.S.C. § 1601 et seq., the Home 
+Ownership and Equity Protection Act (“HOEPA”), 15 U.S.C. § 1639, and the Real Estate 
+Settlement Procedures Act (“RESPA”), 12 U.S.C. § 2601 et seq.; and engaged in elder 
+abuse.  (Compl. ¶¶ 62–119, 140–56, 162–70).  Plaintiffs seek to quiet title on the Property, 
+obtain declaratory relief regarding the Property, rescind their original loan, and recover 
+damages.  (Id. ¶¶ 120–139, 157–61).  Plaintiffs separately allege that U.S. Bank 
+
+committed fraud on the courts and were unjustly enriched.  (Id. ¶¶ 171–76).    
+On January 31, 2025, Defendants U.S. Bank and Wells Fargo each filed a motion 
+to dismiss.2  (U.S. Bank’s Notice of Mot. to Dismiss dated Nov. 25, 2024 (“U.S. Bank’s 
+Notice of Mot. to Dismiss”), Dkt. No. 29; Wells Fargo’s Notice of Mot. to Dismiss dated 
+Nov. 25, 2024 (“Wells Fargo’s Notice of Mot. to Dismiss”), Dkt. No. 30).  On March 26, 
+2025, Defendant MERS elected to join and adopt the arguments of U.S. Bank and Wells 
+Fargo in their respective motions.  (Letter dated Mar. 26, 2025 (“MERS’s Letter”), Dkt. 
+
+No. 49).  For the reasons stated below, the Court grants the motions and directs the 
+Clerk of Court to remove U.S. Bank, MERS, and Wells Fargo from the docket.   
+
+
+2 The motions to dismiss were served on Plaintiffs on November 25, 2024, and 
+November 26, 2024, but filed on the docket on January 31, 2025, after the briefing 
+schedule had ended.  (See Order dated Oct. 17, 2024; U.S. Bank’s Affidavit of Service 
+dated Nov. 26, 2024, Dkt. No. 20-1; Wells Fargo’s Affidavit of Service dated Nov. 26, 
+2024, Dkt. No. 21-1).                                                     
+     FACTUAL BACKGROUND AND PROCEDURAL HISTORY                       
+When a party proceeds pro se, the Court must liberally construe the litigant’s 
+submissions and interpret them “to raise the strongest arguments that they suggest.”  
+
+Triestman v. Fed. Bureau of Prisons, 470 F.3d 471, 474 (2d Cir. 2006) (emphasis omitted).  
+“[A] pro se complaint, however inartfully pleaded, must be held to less stringent 
+standards than formal pleadings drafted by lawyers[.]”  Erickson v. Pardus, 551 U.S. 89, 
+94 (2007) (quotations omitted).                                           
+Broadly speaking, Plaintiffs contend that Defendants had no right to foreclose 
+upon the Property; Defendants were fraudulent in their representations to Plaintiffs 
+
+surrounding the underlying mortgage transaction; and Defendants caused Plaintiffs 
+harm through their fraudulent conduct and foreclosure of the Property.  (Compl. ¶¶ 62–
+176).                                                                     
+In moving to dismiss, Defendants attach a number of documents related to the 
+mortgage on the Property (the “Mortgage”), the Mortgage note (the “Note”), the 
+assignment of the Mortgage (the “Assignment”), and the foreclosure of the Property.3  
+
+
+
+3 U.S. Bank submitted a declaration from counsel, (Decl. of Evan N. Soyer in 
+Supp. of Def. U.S. Bank’s Mot. to Dismiss dated Nov. 25, 2024 (“Soyer Decl.”), Dkt. No. 
+29-2), that annexed the following documents: (1) a note executed by Plunkett on 
+December 12, 2005, (Note dated Dec. 12, 2005 (“Note”), attached as Ex. 2 to Soyer Decl., 
+Dkt. No. 29-4); (2) a mortgage executed by Plunkett on December 12, 2005, (Mortgage 
+dated Dec. 12, 2005 (“Mortgage”), attached as Ex. 3 to Soyer Decl., Dkt. No. 29-5); (3) an 
+assignment of the Mortgage from MERS to U.S. Bank, dated May 8, 2009, (Assignment 
+of Mortgage to U.S. Bank dated May 8, 2009 (“U.S. Bank Assignment”), attached as Ex. 4 
+to Soyer Decl., Dkt. No. 29-6); (4) a copy of the summons, complaint, and notice of 
+pendency filed in the state court foreclosure action in New York Supreme Court, 
+Nassau County, captioned U.S. Bank National Ass’n, as Trustee v. Linett Plunkett, et al., 
+Given the nature of Plaintiffs’ claims and the allegations in the Complaint, the Court 
+deems the Mortgage, the Assignment, and other relevant documents, see supra note 3, as 
+incorporated by reference into the Complaint.  E.g., Harriott v. Nationstar Mortg. LLC, 
+
+No. 17-CV-4748, 2018 WL 4522102, at *1 (E.D.N.Y. Aug. 17, 2018), report and 
+recommendation adopted, 2018 WL 4853045, at *1 (Sept. 28, 2018).  Separately, the Court 
+takes judicial notice of the foreclosure action court records submitted by Defendants.  
+E.g., id.  From those documents and the Complaint, the Court considers the following 
+facts on the motions to dismiss.                                          
+On December 12, 2005, Plunkett executed a note to MLNU in the amount of 
+
+$508,000.  (Note at 1).  Simultaneously, Plunkett executed a mortgage with MERS, as 
+nominee for lender MLNU, encumbering the Property in the amount of $508,000.  
+
+
+
+Index No. 9271/2009 (“Foreclosure Action”), (Foreclosure Action Summons, Compl., 
+and Notice of Pendency (“Foreclosure Action Compl.”), attached as Ex. 5 to Soyer Decl., 
+Dkt. No. 29-7); (5) a copy of the Judgment of Foreclosure and Sale dated February 23, 
+2015, (Judgment of Foreclosure and Sale dated Feb. 23, 2015 (“Foreclosure Judgment”), 
+attached as Ex. 6 to Soyer Decl., Dkt. No. 29-8; and (6) a copy of the Referee’s Deed 
+transferring the Property to U.S. Bank dated June 3, 2020, (Deed Transfer dated June 3, 
+2020, attached as Ex. 7 to Soyer Decl., Dkt. No. 29-9).                   
+Wells Fargo also submitted a declaration from counsel, (Decl. of Andrew B. 
+Messite in Supp. of Def. Wells Fargo’s Mot. to Dismiss dated Nov. 25, 2024 (“Messite 
+Decl.”), Dkt. No. 31), that annexed the following documents: (1) a copy of the summons, 
+complaint, and notice of pendency in the Foreclosure Action, (Foreclosure Action 
+Compl., attached as Ex. B to Messite Decl., Dkt. No. 31-2); (2) the mortgage executed by 
+Plunkett on December 12, 2005, (Mortgage, attached as Ex. C to Messite Decl., Dkt. No. 
+31-3); (3) a copy of the Judgment of Foreclosure and Sale dated February 23, 2015, 
+(Foreclosure Judgment, attached as Ex. D to Messite Decl., Dkt. No. 31-4); and (4) a copy 
+of the order denying Plunkett’s motion to renew with respect to the Judgment of 
+Foreclosure and Sale dated October 3, 2022, (Order Denying Renewal dated Oct. 3, 2022 
+(“Order Denying Renewal”), attached as Ex. E to Messite Decl., Dkt. No. 31-5).   
+(Mortgage at 2–3).  The Mortgage was recorded in the Office of the Nassau County 
+Clerk on March 20, 2009.  (Id. at 1).  The Mortgage was then assigned to U.S. Bank, as 
+trustee for Residential Asset Securities Corporation, Home Equity Mortgage Asset-
+
+Backed Pass-Through Certificates, Series 2006-EMX2, on May 8, 2009.  (U.S. Bank 
+Assignment at 3; see Soyer Decl. ¶ 10).  Pursuant to the Assignment, U.S. Bank 
+became—and continues to be—the holder of the Note and the assignee of record of the 
+Mortgage.4  (Mem. of Law in Supp. of U.S. Bank’s Mot. to Dismiss dated Nov. 25, 2024 
+(“U.S. Bank’s Mem. of Law”), Dkt. No. 29-1 at 2).                         
+On May 13, 2009, U.S. Bank commenced a foreclosure action in Nassau County 
+
+Supreme Court, asserting that Plunkett had defaulted on the loan by failing to make the 
+payment due on July 1, 2008, and any subsequent payments.  (Foreclosure Action 
+Compl.).  The court issued a final Judgment of Foreclosure and Sale (the “Foreclosure 
+Judgment”) on February 23, 2015.  The Foreclosure Judgment determined that Plunkett 
+was “barred and foreclosed of all right, claim, lien, title, interest and equity of 
+redemption in the said mortgaged premises[.]”  (Foreclosure Judgment at 8). 
+Six years after the Foreclosure Judgment was entered, Plunkett moved to renew 
+
+and vacate the Foreclosure Judgment.  (Order Denying Renewal at 3–4).  The Nassau 
+County Supreme Court denied the motion in its entirety.  (Id. at 4).      
+On August 5, 2024, Plaintiffs commenced this action as the alleged owner 
+
+
+
+4 Neither U.S. Bank nor Wells Fargo attached a document evidencing assignment 
+of the Note.  (See Soyer Decl.; Messite Decl.).                           
+(Plunkett) and residents (all other Plaintiffs) of the Property.  (Compl. ¶¶ 1–2).  
+Plaintiffs’ Complaint contains two sets of allegations: “Introductory Allegations,” (id. 
+¶¶ 14–29), and “Specific Allegations.”  (Id. ¶¶  30–61).  The Introductory Allegations 
+
+describe a general process of mortgage securitization, assignment to a real estate 
+mortgage investment conduit trust, and the role of MERS in this process.  (Id. ¶¶ 17–25).  
+In this section, Plaintiffs allege that Defendants cannot establish that they have any 
+proper ownership or security interest in the Note, Mortgage, or Property.5  (Id. ¶¶ 26–
+27).                                                                      
+Plaintiffs next outline a series of allegations they believe show that Defendants 
+
+have no legal ownership or security interest in the Property.  (See id. ¶¶ 30–51).  
+Plaintiffs allege the Note securing the Property was “in favor of [Defendant MLNU],” 
+(Compl. ¶ 30), but never “properly transferred to Defendant, FANNIE MAE[.]”  (Id. 
+¶ 31).  (As noted, Fannie Mae is not a defendant.  Supra note 1.)  Furthermore, “neither 
+the Note and/or the Mortgage, or both, was assigned . . . by the closing date.”  (Compl. 
+¶ 36).  And as a result, “any assignments of the Mortgage beyond the specified closing 
+date . . . are void.”  (Id.).                                             
+
+Plaintiffs further allege that MLNU qualified Plunkett for a loan which it “knew 
+or should have known that [Plunkett] could not qualify for or afford,” and “knowingly, 
+liberally, greedily and without any regard for [Plunkett]’s rights sold [Plunkett] a 
+
+
+
+5 For most of the Complaint, Plaintiffs engage in group pleading, and do not 
+clarify which Defendant they mean when they refer to a single “Defendant.”  (See 
+Compl.).                                                                  
+deceptive loan product.”  (Id. ¶ 53).  “[A]fter making several mortgage payments 
+[Plunkett] noticed that the principal balance was not decreasing.” (Id. ¶ 57).  Concerned, 
+Plunkett sent a Defendant (who is not identified) “a Qualified Written Request pursuant 
+
+to RESPA.”  (Id.).  After the “Defendant failed or refused to respond,” Plunkett 
+determined this was an unlawful breach of contract and “began to cease payments on 
+the loan to force the Defendant to honor their contract[.]”  (Id.).       
+At that point, that Defendant “offered [Plunkett] a loan modification and 
+principal reduction[.]”  (Compl. ¶ 58).  The Defendant allegedly failed to follow 
+through, but continued to make assurances even after they filed for foreclosure.  (Id.).  
+
+Plunkett alleges that the “Defendant never notified [Plunkett] that they were moving 
+the foreclosure forward which is why she never had time to craft a defense . . . and 
+never responded.”  (Id.).                                                 
+Plaintiffs bring 13 causes of action in their Complaint: (1) lack of standing and 
+wrongful foreclosure, (Compl. ¶¶ 62–83); (2) fraud in the concealment, (id. ¶¶ 84–92); 
+(3) fraud in the inducement, (id. ¶¶ 93–100); (4) intentional infliction of emotional 
+distress (“IIED”), (id. ¶¶ 101–11); (5) slander of title, (id. ¶¶ 112–19); (6) quiet title, (id. 
+
+¶¶ 120–27); (7) declaratory relief, (id. ¶¶ 128–39); (8) violation of TILA and HOEPA, (id. 
+¶¶ 140–49); (9) violation of RESPA, (id. ¶¶ 150–56); (10) recission, (id. ¶¶ 157–61); (11) 
+elder abuse, (id. ¶¶ 162–170); (12) fraud upon the courts, (id. ¶¶ 171–75); and (13) unjust 
+enrichment, (id. ¶ 176).6                                                 
+
+
+
+6 Plaintiffs, in addition to the remedies sought pursuant to these causes of action, 
+U.S. Bank and Wells Fargo moved to dismiss the Complaint on November 25, 
+2024, and November 26, 2024, respectively.  (U.S. Bank’s Notice of Mot. to Dismiss; 
+Wells Fargo’s Notice of Mot. to Dismiss; see supra note 2).  Both Defendants seek 
+
+dismissal pursuant to Fed. R. Civ. P. 12(b)(1) and 12(b)(6).  (U.S. Bank’s Mem. of Law at 
+1; Mem. of Law in Supp. of Def. Wells Fargo’s Mot. to Dismiss dated Nov. 25, 2024 
+(“Wells Fargo’s Mem. of Law”), Dkt. No. 32 at 1).  U.S. Bank also seeks dismissal 
+pursuant to Fed. R. Civ. P. 12(b)(5).  (U.S. Bank’s Mem. of Law at 1).    
+More specifically, U.S. Bank seeks dismissal based on insufficient service; Rooker-
+Feldman abstention; res judicata; statutes of limitations; and failure to state a claim.  (U.S. 
+
+Bank’s Mem. of Law at 2).  Wells Fargo seeks dismissal based on Rooker-Feldman 
+abstention; res judicata and collateral estoppel; statutes of limitations; and failure to state 
+a claim.  (Wells Fargo’s Mem. of Law at 2).  The undersigned granted MERS permission 
+to join their arguments.  (Order dated Mar. 25, 2025; MERS’s Letter).     
+Plaintiffs filed an opposition to Wells Fargo’s motion to dismiss on February 10, 
+2025, several weeks after their deadline to serve such opposition had passed.7  (Resp. in 
+
+
+
+seek injunctive relief of an emergency stay of a pending eviction; a ban against “the 
+Defendant” from engaging in elder abuse; and an extinguishing of the Mortgage, or 
+alternatively, a modification of the Mortgage.  (Compl. at 32–33).        
+7 On October 17, 2024, prior to the re-assignment of the case to the undersigned, 
+Judge Joan M. Azrack denied U.S. Bank and Wells Fargo’s respective motions for a 
+premotion conference and set a briefing schedule for their respective motions to 
+dismiss.  (Order dated Oct. 17, 2024).  Defendants were directed to serve their motions 
+by November 25, 2024; Plaintiffs were directed to serve their response in opposition by 
+January 10, 2025; and Defendants were directed to serve their reply briefs by January 31, 
+2025.  (Id.).                                                             
+Opp’n to Wells Fargo’s Mot. to Dismiss dated Feb. 10, 2025 (“Pls.’ Opp’n to Wells 
+Fargo”), Dkt. No. 35).  Wells Fargo filed a reply in support of their motion to dismiss.  
+(Reply in Supp. of Def. Wells Fargo’s Mot. to Dismiss dated May 7, 2025, Dkt. No. 64).   
+
+Plaintiffs filed another belated opposition—to U.S. Bank’s motion to dismiss—on 
+April 8, 2025.  (Resp. in Opp’n to U.S. Bank’s Mot. to Dismiss dated Apr. 7, 2025 and 
+Apr. 8, 2025 (“Pls.’ Opp’n to U.S. Bank”), Dkt. No. 55).  U.S. Bank did not request an 
+opportunity to respond to Plaintiffs’ opposition.  (U.S. Bank’s Letter dated Apr. 9, 2025, 
+Dkt. No. 56).  Despite their lateness, the Court has considered the arguments raised in 
+Plaintiffs’ opposition briefs.                                            
+
+                      DISCUSSION                                     
+I.   Insufficient Service of Process                                      
+“Federal Rule of Civil Procedure 12(b)(5) ‘provides for dismissal of an action if 
+service of process was not timely effected in accordance with Federal Rule of Civil 
+Procedure 4(m).’”  Tung v. Hemmings, No. 19-CV-5502, 2021 WL 4147419, at *2 (E.D.N.Y. 
+Sept. 13, 2021) (quoting George v. Pro. Disposables Int’l, Inc., 221 F. Supp. 3d 428, 442 
+(S.D.N.Y. 2016)).  Rule 4(m) provides that “[i]f a defendant is not served within 90 days 
+
+after the complaint is filed, the court—on motion or on its own after notice to the 
+plaintiff—must dismiss the action without prejudice[.]”  Fed. R. Civ. P. 4(m). 
+“When a defendant moves to dismiss under Rule 12(b)(5), the plaintiff bears the 
+burden of proving adequate service.”  Dickerson v. Napolitano, 604 F.3d 732, 752 (2d Cir. 
+2010) (alteration omitted).  A “[p]laintiff must meet this burden by making a prima facie 
+case of proper service through specific factual allegations and any supporting 
+materials.”  Tung, 2021 WL 4147419, at *2 (quoting Sikhs for Just. v. Nath, 850 F. Supp. 2d 
+435, 440 (S.D.N.Y. 2012)).  “In evaluating a motion to dismiss based on insufficient 
+service of process, the court ‘must consider information outside the complaint to 
+
+determine whether service was sufficient.’”  Id. (quoting Corley v. Vance, 365 F. Supp. 3d 
+407, 431 (S.D.N.Y. 2019), aff’d sub nom., Corley v. Wittner, 811 F. App’x 62 (2d Cir. 2020)).  
+“[T]he simple fact that [the defendant] obtained a copy of the . . . complaint against 
+[him] is insufficient for service to be deemed effective under New York law.”  Stair v. 
+Calhoun, No. 12-CV-6121, 2015 WL 1476454, at *8 (E.D.N.Y. Mar. 31, 2015) (quoting 
+Gerena v. Korb, 617 F.3d 197, 202 (2d Cir. 2010)).                        
+
+Rule 4(h) provides that service on a corporation may proceed in one of two ways.  
+A plaintiff may deliver a copy of the summons and complaint to an officer, managing or 
+general agent, or other agent of the corporation authorized under law to receive 
+process.  Fed. R. Civ. P. 4(h)(1)(B).  Alternatively, a plaintiff may serve a corporation “in 
+the manner prescribed by Rule 4(e)(1) for serving an individual[,]” which allows for 
+service according to state law in which the federal district court is located or where 
+service is made.  Id. R. 4(h)(1)(A); see also id. R. 4(e)(1).  If relying on state procedure, 
+
+under New York law, a corporation can be served through “an officer, director, 
+managing or general agent, or cashier or assistant cashier or to any other agent 
+authorized by appointment or by law to receive service.”  C.P.L.R. § 311(a)(1).  Neither 
+federal nor New York state law permits service on a corporation via mere mailing.  See 
+Terrell v. NBC Universal Media LLC, No. 18-CV-2354, 2019 WL 3206131, at *2 (E.D.N.Y. 
+July 16, 2019).  Subject to alternatives not relevant here, “[b]oth federal and New York 
+law require that a corporation be served through personal service on a corporate officer 
+or agent[.]”  Tung, 2021 WL 4147419, at *3.                               
+  a.  U.S. Bank                                                      
+
+Service was improper as to U.S. Bank, a corporation.  It appears that Plaintiffs 
+attempted to serve U.S. Bank twice, both times via certified mail.  Plaintiffs first served 
+“certified copies of the summons and complaint” on U.S. Bank via certified mail on 
+August 2, 2024.  (Proof of Service dated Aug. 2, 2024 (“Proof of Service on August 2, 
+2024”), attached as Ex. to Compl, Dkt. No. 1 at 39).  Notably, this service was completed 
+prior to the issuance of a summons as to U.S. Bank by the Clerk of Court on August 6, 
+
+2024.  (Summons in a Civil Action dated Aug. 6, 2024 (“Summons Issued”), Dkt. No. 3 
+at 1).  Plaintiffs then served U.S. Bank via certified mail again on August 6, 2024.  (Proof 
+of Service dated Aug. 6, 2024 (“Proof of Service on August 6, 2024”), Dkt. No. 7 at 5–6).  
+Neither affidavit suggests that personal service upon anyone related to U.S. Bank was 
+made.  (Id.; Proof of Service on August 2, 2024).  Because corporations cannot be served 
+via certified mail, the service on U.S. Bank was inadequate.  E.g., Terrell, 2019 WL 
+3206131, at *2.  And because the Complaint was filed on August 5, 2024, more than 90 
+
+days have passed without adequate service.                                
+Plaintiffs’ opposition ignores—and therefore fails to respond to—U.S. Bank’s 
+argument that it was never served properly.  (Pls.’ Opp’n to U.S. Bank ).  In light of 
+Plaintiffs’ failure to meet their burden of proving adequate service, the claims against 
+U.S. Bank must be dismissed without prejudice.  See Cioce v. Cnty. of Westchester, 128 F. 
+App’x 181, 183 (2d Cir. 2005) (“Rule 4(m) provides that the district court shall, upon 
+motion or on its own initiative after notice to the plaintiff, dismiss without prejudice 
+any action in which service of the summons and complaint has not been made[.]”); e.g., 
+Pierre v. Macy’s, Inc., No. 16-CV-2556, 2018 WL 10127013, at *4–*5 (E.D.N.Y. Mar. 29, 
+
+2018) (dismissing without prejudice pro se plaintiff’s claims against corporate and 
+individual defendant for “failure to effect service” within 90 days of filing the 
+complaint).  All claims against U.S. Bank—including claims for fraud upon the courts 
+and unjust enrichment, being solely brought against U.S. Bank—are dismissed without 
+prejudice.8                                                               
+  b.  MERS                                                           
+
+Service was also improper as to MERS, a corporation.  Plaintiffs served MERS 
+through the same method as they served U.S. Bank—certified mail—and on the same 
+dates.  As with U.S. Bank, the first attempt at service occurred prior to the issuance of 
+the summons as to MERS, (Proof of Service on August 2, 2024; Summons Issued at 2), 
+and neither affidavit indicates personal service upon anyone related to MERS.  (Proof of 
+Service on August 2, 2024; Proof of Service on August 6, 2024 at 1–2).  More than 90 
+days have passed since the Complaint was filed without adequate service as to MERS.  
+
+Because MERS joined and adopted the arguments of U.S. Bank—which included U.S. 
+Bank’s argument regarding insufficient service of process—the claims against MERS are 
+also dismissed without prejudice.9  See, e.g., Saunders v. Bank of Am., No. 12-CV-9201, 
+
+
+
+8 The claims against U.S. Bank are counts 1 through 13.  (Compl. ¶¶ 171–76).  
+9 The claims against MERS are counts 1 through 11.  (Compl. ¶¶ 62–170).  
+2014 WL 5089501, at *3 (S.D.N.Y. Sept. 22, 2014) (allowing a defendant to incorporate 
+the arguments of another defendant’s motion to dismiss, in the interest of justice, and 
+granting both defendants’ motions to dismiss) (adopting report and recommendation).10 
+
+II.  Lack of Subject Matter Jurisdiction                                  
+Where a party has made both a Rule 12(b)(1) motion and a Rule 12(b)(6) motion, 
+and the court concludes that there is no subject matter jurisdiction, it is appropriate to 
+avoid a decision on the Rule 12(b)(6) motion.  That is because the absence of subject 
+matter jurisdiction results in dismissal of the complaint.  See J.J. Cranston Constr. Corp. v. 
+City of New York, 602 F. Supp. 3d 373, 377 (E.D.N.Y. 2022) (“When a court is faced with a 
+
+motion to dismiss pursuant to both Rules 12(b)(1) and 12(b)(6), the court must decide 
+the jurisdictional question first because a disposition of a Rule 12(b)(6) motion is a 
+decision on the merits and, therefore, an exercise of jurisdiction.” (quotations omitted)); 
+5B Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure § 1350 (4th 
+ed. 2024).                                                                
+“A case is properly dismissed for lack of subject matter jurisdiction under 
+Federal Rule of Civil Procedure 12(b)(1) when the district court lacks the statutory or 
+
+
+
+Because service of process is necessary for the Court to obtain personal jurisdiction over 
+U.S. Bank and MERS, it cannot reach the other arguments for dismissal.  See, e.g., 
+Militinska-Lake v. Kirnon, No. 22-CV-2667, 2023 WL 7648511, at *1 (2d Cir. Nov. 15, 2023). 
+10 Wells Fargo did not assert insufficient service of process in its Rule 12 motion.  
+(See Wells Fargo’s Mem. of Law).  Any such defense is therefore waived.  Khan v. Khan, 
+360 F. App’x 202, 204 (2d Cir. 2010) (“[T]he defense of insufficient service of process 
+may be waived by a party’s failure to either raise it in a motion under Rule 12(b) of the 
+Federal Rules of Civil Procedure or to include it in a responsive pleading[.]”). 
+constitutional power to adjudicate it.”  Razi Sch. v. Cissna, 519 F. Supp. 3d 144, 148 
+(E.D.N.Y. 2021) (alteration omitted) (quoting Makarova v. United States, 201 F.3d 110, 113 
+(2d Cir. 2000)).  “In resolving a motion to dismiss under Rule 12(b)(1), the district court 
+
+must take all uncontroverted facts in the complaint (or petition) as true, and draw all 
+reasonable inferences in favor of the party asserting jurisdiction.”  Tandon v. Captain’s 
+Cove Marina of Bridgeport, Inc., 752 F.3d 239, 243 (2d Cir. 2014).  “A plaintiff asserting 
+subject matter jurisdiction has the burden of proving by a preponderance of the 
+evidence that it exists.”  DeMaria v. N.Y. State Unified Court Sys., No. 23-CV-3627, 2024 
+WL 1076543, at *3 (S.D.N.Y. Mar. 12, 2024) (quoting Morrison v. Nat’l Austl. Bank Ltd., 
+
+547 F.3d 167, 170 (2d Cir. 2008)).                                        
+The Court concludes it lacks subject matter jurisdiction over the following 
+claims—lack of standing and wrongful foreclosure, slander of title, quiet title, 
+declaratory relief, and recission—which are barred by the Rooker-Feldman doctrine.  And 
+Plaintiffs’ remaining claims—fraud in the concealment, fraud in the inducement, 
+violations of TILA, HOEPA, and RESPA, IIED, and elder abuse—though not barred by 
+Rooker-Feldman, are otherwise dismissed as a matter of law for failure to state a claim.  
+
+Wells Fargo argues this Court lacks subject matter jurisdiction over Plaintiffs’ 
+claims because they are barred by the Rooker-Feldman doctrine.  (Wells Fargo’s Mem. of 
+Law at 5–8).  “The Supreme Court has explained that Rooker-Feldman bars ‘a party losing 
+in state court . . . from seeking what in substance would be appellate review of the state 
+judgment in a United States district court.’” Hunter v. McMahon, 75 F.4th 62, 67 (2d Cir. 
+2023) (quoting Johnson v. De Grandy, 512 U.S. 997, 1005–06 (1994)).  “Rooker-Feldman ‘is 
+confined to cases of the kind from which the doctrine acquired its name: cases brought 
+by state-court losers complaining of injuries caused by state-court judgments rendered 
+before the district court proceedings commenced and inviting district court review and 
+
+rejection of those judgments.’”  Id. at 67–68 (quoting Exxon Mobil Corp. v. Saudi Basic 
+Indus. Corp., 544 U.S. 280, 284 (2005)).                                  
+The doctrine applies if: “(1) the federal-court plaintiff lost in state court; (2) the 
+plaintiff complains of injuries caused by a state court judgment; (3) the plaintiff invites 
+review and rejection of that judgment; and (4) the state judgment was rendered before 
+the district court proceedings commenced.” Id. at 68 (quoting Vossbrinck v. Accredited 
+
+Home Lenders, Inc., 773 F.3d 423, 426 (2d Cir. 2014)).  Wells Fargo maintains—while 
+unfortunately failing to apply Rooker-Feldman to each claim—in summary and 
+conclusory fashion that Plaintiffs’ claim is a “de facto (untimely) appeal” of the 
+Foreclosure Judgment, and any decision in this case in Plaintiffs’ favor would 
+“contravene the final determinations” of the Foreclosure Action in violation of Rooker-
+Feldman.  (Wells Fargo’s Mem. of Law at 7–8).  A more rigorous analysis is necessary.   
+Plunkett lost in state court when the Foreclosure Judgment was entered on 
+
+February 23, 2015, and that judgment was rendered before this current action 
+commenced in 2024.  (See Foreclosure Judgment; Compl.).  That means for each claim, 
+the first and fourth elements of Rooker-Feldman’s bar apply.              
+“[T]he second requirement—that the plaintiff complains of an injury caused by a 
+state-court judgment—is the ‘core requirement from which the other Rooker-Feldman 
+requirements derive.’”  Sung Cho v. City of New York, 910 F.3d 639, 646 (2d Cir. 2018) 
+(alterations omitted) (quoting Hoblock v. Albany Cnty. Bd. of Elections, 422 F.3d 77, 87 (2d 
+Cir. 2005)).  “[T]he following formula guides [a court’s] inquiry: a federal suit complains 
+of injury from a state-court judgment, even if it appears to complain only of a third 
+
+party’s actions, when the third party’s actions are produced by a state-court judgment 
+and not simply ratified, acquiesced in, or left unpunished by it.”  Hunter, 75 F.4th at 71 
+(quoting Hoblock, 422 F.3d at 88).  “Rooker-Feldman does not bar claims based on an 
+opponent’s misconduct that precedes the state court proceeding, if the plaintiffs’ alleged 
+injuries were merely ratified by the state-court judgments rather than caused by them.”  
+Id. (quotations omitted).  Therefore, “[i]f a federal plaintiff presents some independent 
+
+claim, albeit one that denies a legal conclusion that a state court has reached in a case to 
+which he was a party, then there is jurisdiction[.]”  Saudi Basic Indus. Corp., 544 U.S. at 
+293 (quotations and alterations omitted).                                 
+Five of Plaintiffs’ claims—lack of standing and wrongful foreclosure, slander of 
+title, quiet title, declaratory relief, and recission—satisfy all the requirements of Rooker-
+Feldman.  These are all injuries caused by the state court judgment foreclosing on the 
+Property, and in seeking their respective remedies, Plaintiffs are asking the Court to 
+
+invalidate the Foreclosure Judgment.11                                    
+Plaintiffs’ wrongful foreclosure claim argues that Defendants had no right to 
+
+
+
+11 Though Wells Fargo was not a party to the Foreclosure Action, “the Rooker-
+Feldman doctrine does not require that the federal-court defendant have been a party in 
+the prior state court proceeding.”  Best v. Bank of Am., No. 14-CV-6546, 2015 WL 
+5124463, at *3 (E.D.N.Y. Sept. 1, 2015).                                  
+foreclose on the Property because they had not perfected a security interest in it.  
+(Compl. ¶ 63).  Framed as a lack of standing to obtain foreclosure, this assertion and 
+claim directly challenges the state court’s judgment of foreclosure and is thus barred by 
+
+Rooker-Feldman.  See, e.g., Hylton v. J.P. Morgan Chase Bank, N.A., 338 F. Supp. 3d 263, 275 
+(S.D.N.Y. 2018).  Plaintiffs’ claims for slander of Plunkett’s title to the Property, to quiet 
+title to the Property in Plunkett’s name, and to obtain declaratory relief regarding the 
+ability of Wells Fargo to foreclose are in the same vein; they “challenge [the Foreclosure 
+Judgment] and effectively request that the federal district court rule that the judgment 
+was void.”  Worthy-Pugh v. Deutsche Bank Nat’l Tr. Co., 664 F. App’x 20, 21 (2d Cir. 2016).  
+
+As such, these claims are also barred by Rooker-Feldman.  See, e.g., id.  And, finally, so too 
+is the claim for recission, which seeks to permit Plunkett to “rescind the loan and all 
+accompanying loan documents,” which is a different way of saying Plaintiffs wish to 
+undo the foreclosure enabled by the Mortgage and Note.  (Compl. ¶ 158).  See, e.g., 
+Udeogu v. Intercontinental Cap., No. 23-CV-2738, 2024 WL 4120379, at *5 (E.D.N.Y. June 
+25, 2024) (barring mortgage recission claim under Rooker-Feldman), report and 
+recommendation adopted, 2024 WL 3949283, at *1 (Aug. 27, 2024).           
+
+In contrast, Plaintiffs’ other claims seek damages for injuries flowing from 
+Defendants’ alleged conduct, not the Foreclosure Judgment.  A constellation of 
+Plaintiffs’ claims—namely, fraud in the concealment, fraud in the inducement, and 
+violations of TILA, HOEPA, and RESPA—involve alleged misrepresentations or 
+failures to disclose material terms in the underlying Mortgage.  (Compl. ¶¶ 85–90, 94–
+98, 142, 153–55).  For example, the fraud in the concealment and inducement claims 
+relate to alleged fraud conducted by Defendants in connection with obtaining the 
+Mortgage and Note—acts that took place years before the foreclosure of the Property.  
+(Id. ¶¶ 85–89, 94–97; Foreclosure Judgment).  These claims all seek damages for injuries 
+
+suffered prior to the foreclosure.  (Id. ¶¶ 91–92, 99–100, 147–49, 156).   
+“The Rooker–Feldman doctrine does not prevent a district court from reviewing a 
+claim for damages . . . because the district court can determine damages liability 
+without reviewing the propriety of the state court judgment.”  Worthy-Pugh, 664 F. 
+App’x at 21.  Because these remaining claims deal with alleged fraudulent conduct by 
+Defendants in the original loan, and do not seek to challenge the validity of the 
+
+Foreclosure Judgment, they are not barred by Rooker-Feldman.  See, e.g., Vossbrinck, 773 
+F.3d at 427 (“[Plaintiff’s] pro se complaint can be liberally construed as asserting fraud 
+claims that are not barred by Rooker–Feldman—because they seek damages from 
+Defendants for injuries [Plaintiff] suffered from their alleged fraud, the adjudication of 
+which does not require the federal court to sit in review of the state court judgment[.]”); 
+Beasley v. Indy Mac Bank, No. 16-CV-4629, 2018 WL 1611667, at *7 (E.D.N.Y. Feb. 26, 
+2018) (“[I]t is this underlying alleged conduct—the alleged misrepresentations and 
+
+failures to disclose related to the mortgage loan’s origination, servicing, and 
+securitization . . . for which Plaintiff seeks redress . . . . The state court judgment and 
+alleged conduct forming the basis for Plaintiff’s claims are therefore independent and 
+separate . . . precluding application of Rooker-Feldman.”), report and recommendation 
+adopted, 2018 WL 1611382, at *1 (Mar. 31, 2018); Francis v. Fed. Nat’l Mortg. Ass’n, No. 20-
+CV-5863, 2023 WL 2707098, at *6 (E.D.N.Y. Mar. 30, 2023) (“Rooker-Feldman does not bar 
+Plaintiff’s additional claims to the extent they seek relief for damages arising from 
+Defendants’ alleged fraudulent conduct involving the assignment of the note prior to 
+the judgment in the Foreclosure Action.”), report and recommendation adopted, 2023 WL 
+
+6201738, at *1 (Sept. 22, 2023); Jones v. HSBC Bank USA Nat’l Ass’n, No. 23-CV-7773, 2024 
+WL 2766515, at *6 (E.D.N.Y. May 30, 2024) (finding Rooker-Feldman did not bar TILA or 
+RESPA claims); Mohamed v. World Sav. Bank, FSB, No. 15-CV-5934, 2016 WL 8711440, at 
+*4 (E.D.N.Y. Sept. 30, 2016) (finding Rooker-Feldman did not bar TILA, RESPA, or 
+HOEPA claims).                                                            
+The same is true for Plaintiffs’ claim of intentional inflection of emotional 
+
+distress, which alleges severe emotional distress flowing from and after the foreclosure.  
+(Compl. ¶¶ 105–11).  Plaintiffs’ elder abuse claim similarly alleges “intense 
+psychological pressure and discomfort” caused by Defendants’ conduct.  (Id. ¶¶ 167–
+68).  These claims only seek damages and do not require the Court to review the 
+validity of the Foreclosure Judgment.  (Id. ¶¶ 111, 164).  As such, they too do not 
+implicate Rooker-Feldman.  See, e.g., Francis, 2023 WL 2707098, at *7 (“Rooker-Feldman 
+does not bar review of Plaintiff’s claims for . . . intentional infliction of emotional 
+
+distress to the extent these claims seek damages for Defendants’ alleged underlying 
+fraudulent conduct[.]”).                                                  
+Accordingly, the Court dismisses several of Plaintiffs’ claims against Wells 
+Fargo—for lack of standing and wrongful foreclosure, slander of title, quiet title, 
+declaratory relief, and recission—for lack of subject matter jurisdiction.12  These claims 
+are dismissed without prejudice.  The Court proceeds to Wells Fargo’s Rule 12(b)(6) 
+arguments for the remaining claims: fraud in the concealment, fraud in the inducement, 
+
+violations of TILA, HOEPA, and RESPA, IIED, and elder abuse.13            
+III.  Failure to State a Claim                                            
+“The purpose of a motion to dismiss for failure to state a claim under Rule 
+12(b)(6) is to test the legal sufficiency of . . . claims for relief.”  Amadei v. Nielsen, 348 F. 
+Supp. 3d 145, 155 (E.D.N.Y. 2018) (citing Patane v. Clark, 508 F.3d 106, 112 (2d Cir. 2007)).  
+In deciding such a motion, the Court must “construe the complaint liberally, accepting 
+
+all factual allegations in the complaint as true, and drawing all reasonable inferences in 
+the plaintiff’s favor.”  Palin v. N.Y. Times Co., 940 F.3d 804, 809 (2d Cir. 2019) (quotations 
+and alteration omitted); Amadei, 348 F. Supp. 3d at 155 (“[W]hen reviewing a complaint 
+on a motion to dismiss for failure to state a claim, the court must accept as true all 
+allegations of fact in the complaint and draw all reasonable inferences in favor of [the 
+non-moving party].”).                                                     
+For the purpose of this motion, the Court is “required to treat” the Complaint’s 
+
+“factual allegations as true, drawing all reasonable inferences in favor of Plaintiffs to the 
+extent that the inferences are plausibly supported by allegations of fact.”  In re Hain 
+
+
+12 These claims are counts 1, 5, 6, 7, and 10.  (Compl. ¶¶ 62–83, 112–39, 157–61). 
+13 In their response to Wells Fargo, Plaintiffs did not address Wells Fargo’s 
+Rooker-Feldman arguments.  (See Pls.’ Opp’n to Wells Fargo).  In a section addressing 
+subject matter jurisdiction, Plaintiffs cite mostly California state cases discussing general 
+principles related to standing and subject matter jurisdiction.  (Id. at 3–4).  
+Celestial Grp., Inc. Sec. Litig., 20 F.4th 131, 133 (2d Cir. 2021).  The Court “therefore 
+recite[s] the substance of the allegations as if they represented true facts, with the 
+understanding that these are not findings of the court, as we have no way of knowing at 
+
+this stage what are the true facts.”  Id.  In addition to the allegations in the Complaint, 
+the Court considers documents that are incorporated by reference, documents which 
+are integral to the pleading, and documents of which the Court takes judicial notice, 
+including those filed in another court proceeding.  DiFolco v. MSNBC Cable L.L.C., 622 
+F.3d 104, 111 (2d Cir. 2010) (“In considering a motion to dismiss for failure to state a 
+claim pursuant to Rule 12(b)(6), a district court may consider the facts alleged in the 
+
+complaint, documents attached to the complaint as exhibits, and documents 
+incorporated by reference in the complaint.  Where a document is not incorporated by 
+reference, the court may neverless consider it where the complaint relies heavily upon 
+its terms and effect, thereby rendering the document integral to the complaint.” 
+(quotations and citation omitted)); Glob. Network Commc’ns, Inc. v. City of New York, 458 
+F.3d 150, 157 (2d Cir. 2006) (“A court may take judicial notice of a document filed in 
+another court not for the truth of the matters asserted in the other litigation, but rather 
+
+to establish the fact of such litigation and related filings.” (quotations omitted)).  
+Once the facts are construed in the light most favorable to the non-moving 
+party—here, Plaintiffs—to avoid dismissal, there must be sufficient facts that allege a 
+plausible claim.  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (“To survive a motion to 
+dismiss [pursuant to Rule 12(b)(6)], a complaint must contain sufficient factual matter, 
+accepted as true, to state a claim to relief that is plausible on its face.”  (quotations 
+omitted)).  “Threadbare recitals of the elements of a cause of action, supported by mere 
+conclusory statements, do not suffice.”  Id.  A complaint must contain more than “naked 
+assertion[s] devoid of further factual enhancement.”  Id. (quotations omitted).  In other 
+
+words, a plausible claim contains “factual content that allows the court to draw the 
+reasonable inference that the defendant is liable for the misconduct alleged.”  Id.; Fed. R. 
+Civ. P. 8(a)(2).  “Factual allegations must be enough to raise a right to relief above the 
+speculative level, on the assumption that all the allegations in the complaint are true 
+(even if doubtful in fact).”  Bell Atl. Corp. v. Twombly, 550 U.S. 554, 555 (2007) (citation 
+omitted).  The determination of whether a party has alleged a plausible claim is “a 
+
+context-specific task that requires the reviewing court to draw on its judicial experience 
+and common sense.”  Iqbal, 556 U.S. at 679; see also Escamilla v. Young Shing Trading Co., 
+No. 17-CV-652, 2018 WL 1521858, at *2 (E.D.N.Y. Jan. 8, 2018), report and recommendation 
+adopted, 2018 WL 1033249, at *3 (Feb. 23, 2018).                          
+  a.  Res Judicata and Collateral Estoppel                           
+Wells Fargo contends that, to the extent the Complaint is not dismissed pursuant 
+to Rooker-Feldman, res judicata and collateral estoppel alternatively require full 
+
+dismissal.14  (Wells Fargo’s Mem. of Law at 5, 8–11).                     
+
+
+14 Wells Fargo seeks dismissal based on res judicata and collateral estoppel under 
+Rule 12(b)(1), lack of subject matter jurisdiction, as opposed to Rule 12(b)(6), failure to 
+state a claim.  (See Wells Fargo’s Mem. of Law at 2, 8–11).  However, “[w]hen a 
+defendant raises the affirmative defense of res judicata or collateral estoppel ‘and it is 
+clear from the face of the complaint . . . that the plaintiff’s claims are barred as a matter 
+of law,’ dismissal under Fed. R. Civ. P. 12(b)(6) is appropriate.”  Austin v. Downs, 
+Rachlin & Martin Burlington St. Johnsbury, 270 F. App’x 52, 53 (2d Cir. 2008) (quoting 
+Res judicata, or claim preclusion, “precludes not only litigation of claims raised 
+and adjudicated in a prior litigation between the parties (and their privies), but also of 
+claims that might have been raised in the prior litigation but were not.”  Marcel Fashions 
+
+Grp., Inc. v. Lucky Brand Dungarees, Inc., 779 F.3d 102, 108 (2d Cir. 2015).  “To prove the 
+affirmative defense [of res judicata] a party must show that (1) the previous action 
+involved an adjudication on the merits; (2) the previous action involved the plaintiffs or 
+those in privity with them; (3) the claims asserted in the subsequent action were, or 
+could have been, raised in the prior action.”  Monahan v. N.Y.C. Dep’t of Corr., 214 F.3d 
+275, 285 (2d Cir. 2000).                                                  
+
+Collateral estoppel, or issue preclusion, “bars ‘successive litigation of an issue of 
+fact or law actually litigated and resolved in a valid court determination essential to [a] 
+prior judgment.’”  Cayuga Nation v. Tanner, 6 F.4th 361, 374 (2d Cir. 2021) (quoting New 
+Hampshire v. Maine, 532 U.S. 742, 748-49 (2001)).  “A party may invoke issue preclusion 
+only if: ‘(1) the identical issue was raised in a previous proceeding; (2) the issue was 
+actually litigated and decided in the previous proceeding; (3) the party [raising the 
+issue] had a full and fair opportunity to litigate the issue [in the prior proceeding]; and 
+
+(4) the resolution of the issue was necessary to support a valid and final judgment on 
+the merits.’”  Id. (quoting Marvel Characters, Inc. v. Simon, 310 F.3d 280, 288-89 (2d Cir. 
+2002)).                                                                   
+Wells Fargo’s brief summarily concludes—as it did with its arguments 
+
+
+
+Conopco, Inc. v. Roll Int’l., 231 F.3d 82, 86–87 (2d Cir. 2000)).         
+pertaining to Rooker-Feldman—that the Complaint should be dismissed pursuant to res 
+judicata and collateral estoppel.  (Wells Fargo’s Mem. of Law 8–11).  Without further 
+analysis of the applicability of these complex doctrines to each of Plaintiffs’ surviving 
+
+claims, based on a thorough inquiry into the Foreclosure Action and the parties, claims, 
+and issues involved therein, the Court declines to, and cannot, dismiss on the basis of 
+such cursory arguments.                                                   
+  b.  Statutes of Limitations                                        
+Wells Fargo argues that Plaintiffs’ claims for fraud and violations of TILA, 
+HOEPA, and RESPA are time-barred.  (Id. at 11–13).                        
+
+Pursuant to New York C.P.L.R. § 213(8), the limitations period for fraud is six 
+years: “the time within which [an action based upon fraud] must be commenced shall 
+be the greater of six years from the date the cause of action accrued or two years from 
+the time the plaintiff or the person under whom the plaintiff claims discovered the 
+fraud, or could with reasonable diligence have discovered it.”  In their claims for fraud 
+in the concealment and fraud in the inducement, Plaintiffs allege fraud in the 
+underlying Mortgage and loan transaction.  (Compl. ¶¶ 85–89, 94–97).  Plunkett entered 
+
+into the Mortgage on December 12, 2005, (Mortgage); the Foreclosure Action 
+commenced on May 13, 2009, (Foreclosure Action Compl.); and the final Foreclosure 
+Judgment was issued on February 23, 2015, (Foreclosure Judgment).  Since more than 
+six years—the greater of the two methods of counting time under the statute of 
+limitations—have passed since any and all of these events, the Court dismisses any 
+claim sounding in fraud against Wells Fargo with prejudice.15  See, e.g., Beasley, 2018 WL 
+1611667, at *9 (finding untimely plaintiff’s claims for fraud and fraudulent inducement 
+brought nine years after state foreclosure judgment).                     
+
+TILA, HOEPA, and RESPA each contain specific statute of limitations provisions, 
+none of which Plaintiffs satisfy.  TILA requires a claim to be brought “within one year 
+from the date of the occurrence of the violation[.]”  15 U.S.C. § 1640(e).  HOEPA, an 
+amendment to TILA, allows an action to be brought “before the end of the 3-year period 
+beginning on the date of the occurrence of the violation.”  Id.; see Barker v. Rokosz, 740 F. 
+Supp. 3d 187, 208 (E.D.N.Y. 2024), reconsideration denied, 2024 WL 3904871 (E.D.N.Y. 
+
+Aug. 22, 2024).  The “‘date of the occurrence of the violation’ generally means the date 
+on which the plaintiff entered into the loan transaction at issue.”  Barker, 740 F. Supp. 3d 
+at 208 (quoting Clement v. United Homes, LLC, 914 F. Supp. 2d 362, 369 n.3 (E.D.N.Y. 
+2012)).  Given the date of the Note and Mortgage (namely 2005) and the nearly two 
+decades that have passed since then, Plaintiffs’ claim against Wells Fargo for violations 
+of TILA and HOEPA is dismissed with prejudice as untimely.16              
+RESPA requires an action to be brought “within 3 years in the case of a violation 
+
+of section 2605,” which is related to servicing of mortgage loans and administration of 
+escrow accounts, and “1 year in the case of a violation of section 2607 or 2608,” which is 
+related to the prohibition of kickbacks and unearned fees (§ 2607) and title companies 
+
+
+15 The claims for fraud are counts 2 and 3 and are labeled, respectively, fraud in 
+the concealment and fraud in the inducement.  (Compl. ¶¶ 84–100).         
+16 The claim for violations of TILA and HOEPA is count 8.  (Compl. ¶¶ 140–49). 
+(§ 2608).  12 U.S.C. § 2614.  Tolling starts “from the date of the occurrence of the 
+violation.”  Id.  Plaintiffs allege that Defendants violated RESPA when they failed to 
+respond to a Qualified Written Request, failed to disclose they would “gain a financial 
+
+benefit,” and received payments that were “misleading and designed to create a 
+windfall.”  (Compl. ¶¶ 57, 153, 155).  The latest date by which such violation could have 
+occurred is prior to the Foreclosure Action, because Plaintiffs ceased payments on the 
+Mortgage after Defendants’ failure to respond to the Qualified Written Request.  (Id. 
+¶ 57).  Given the date of the commencement of the Foreclosure Action—May 13, 2009—
+Plaintiffs have no timely claim under any provision of RESPA.  (See Foreclosure Action 
+
+Compl.).  Accordingly, Plaintiffs’ RESPA claim against Wells Fargo is also dismissed 
+with prejudice.17                                                         
+  c.  IIED and Elder Abuse                                           
+Finally, Wells Fargo argues that Plaintiffs have failed to sufficiently plead each of 
+their causes of action.  (Wells Fargo’s Mem. of Law at 13–27).  The Court finds that all 
+remaining claims against Wells Fargo—IIED and elder abuse—are dismissed for failure 
+to state a claim.                                                         
+
+In New York, an IIED claim requires four elements: “(1) extreme and outrageous 
+conduct, (2) intent to cause severe emotional distress, (3) a causal connection between 
+the conduct and the injury, and (4) severe emotional distress.”  Friedman v. Self Help 
+Cmty. Servs., Inc., 647 F. App’x 44, 47 (2d Cir. 2016) (quoting Bender v. City of New York, 
+
+
+
+17 The RESPA claim is count 9.  (Compl. ¶¶ 150–56).                  
+78 F.3d 787, 790 (2d Cir. 1996)).                                         
+Here, Plaintiffs allege that Plunkett suffered “lack of sleep, anxiety, and 
+depression,” as well as “many sleepless nights, severe depression, lack of appetite, and 
+
+loss of productivity at its [sic] place of employment” as a result of the allegedly 
+fraudulent attempts to foreclose on the Property.  (Compl. ¶¶ 105, 108, 110).  Wells 
+Fargo argues that “[t]he filing of a foreclosure action does not rise to the level of 
+extreme emotional distress required[.]”  (Wells Fargo’s Mem. of Law at 18).  While it is 
+unclear what the scope of Wells Fargo’s argument is, the Court nevertheless agrees that 
+Plaintiffs fail to make out a claim.                                      
+
+“New York sets a high threshold for conduct that is ‘extreme and outrageous’ 
+enough to constitute intentional infliction of emotional distress.”  Bender, 78 F.3d at 790.  
+This conduct must be “so outrageous in character, and so extreme in degree, as to go 
+beyond all possible bounds of decency, and to be regarded as atrocious, and utterly 
+intolerable in a civilized community.”  Howell v. N.Y. Post Co., 81 N.Y.2d 115, 122 (1993) 
+(quotations omitted).                                                     
+Foreclosing on a property, or attempts thereof, does not constitute conduct “so 
+
+outrageous” and “extreme in degree” requisite of the first element of an IIED claim.  
+See, e.g., Calizaire v. Mortg. Elec. Registration Sys., Inc., No. 14-CV-1542, 2017 WL 895741, 
+at *8 (E.D.N.Y. Mar. 6, 2017) (“[K]nowingly initiat[ing] foreclosure proceedings without 
+the right to do so . . . does not constitute the ‘outrageous conduct’ necessary to support 
+an IIED claim.”), aff’d, 763 F. App’x 124 (2d Cir. 2019).                 
+Moreover, Wells Fargo was not involved in the Foreclosure Action, and therefore 
+could not have intentionally caused any emotional distress.  (See Foreclosure Action; 
+Wells Fargo’s Mem. of Law at 3).  Plaintiffs also do not allege a causal connection 
+between Wells Fargo specifically and the emotional distress Plunkett suffered.  (Compl. 
+
+¶¶ 101–11).                                                               
+In response, Plaintiffs fail to address their IIED claim, only vaguely concluding 
+that the “Failure to State a Claim doctrine” does not apply.  (Pls.’ Opp’n to Wells Fargo 
+at 4).  Because, at minimum, the first three prongs of an IIED claim are absent, the claim 
+against Wells Fargo is dismissed with prejudice.18                        
+Plaintiffs’ final claim against Wells Fargo is for elder abuse.  Plaintiffs allege that 
+
+Defendants, “aware of the Plaintiff’s advanced age,” “supplied false testimony and 
+flawed paperwork” in an abusive manner violative of state and federal law.  (Id. ¶¶ 164, 
+167–69).  Defendants’ conduct, Plaintiffs allege, constitutes emotional and financial 
+abuse under “New York State’s Elder Abuse Prevention Act of 2017.”  (Id. ¶¶ 163, 169–
+70).                                                                      
+“Elder abuse” is not a recognized cause of action in New York.  See Gilbert v. 
+Gilbert, No. 02-CV-3728, 2003 WL 22790940, at *2 (S.D.N.Y. Nov. 25, 2003) (“[N]either 
+
+federal nor New York law recognizes a cause of action for ‘elder abuse.’”) (adopting 
+report and recommendation).  And there is no “Elder Abuse Prevention Act” in New 
+York that the Court can locate.  Accordingly, the Court dismisses Plaintiffs’ cause of 
+
+
+
+
+18 The IIED claim is count 4.  (Compl. ¶¶ 101–11).                   
+action against Wells Fargo for elder abuse with prejudice.19              
+IV.  Leave to Amend                                                       
+In their responses to Defendants’ motions to dismiss, Plaintiffs have not 
+
+requested leave to amend their Complaint.  (Pls.’ Opp’n to U.S. Bank; Pls.’ Opp’n to 
+Wells Fargo).  “The court should freely give leave [to amend a complaint] when justice 
+so requires.”  Fed. R. Civ. P. 15(a)(2).  “[A] pro se complaint should not [be] dismiss[ed] 
+without [the Court] granting leave to amend at least once when a liberal reading of the 
+complaint gives any indication that a valid claim might be stated.”  Dolan v. Connolly, 
+794 F.3d 290, 295 (2d Cir. 2015) (quotations omitted).  However, leave to amend may be 
+
+denied if amendment would be futile.  Grullon v. City of New Haven, 720 F.3d 133, 140 
+(2d Cir. 2013).                                                           
+Any amendment for the claims brought solely against U.S. Bank—a Defendant 
+dismissed for insufficient service of process upon it—would be futile.  See, e.g., Heuser v. 
+City of Glen Cove, No. 21-CV-2018, 2023 WL 11852409, at *13 (E.D.N.Y. June 30, 2023) 
+(“No amendment could cure [Plaintiff’s] failure to timely serve Defendants.”), report and 
+recommendation adopted, 2025 WL 373636, at *1 (E.D.N.Y. Feb. 3, 2025).    
+
+Plaintiffs’ claims for lack of standing and wrongful foreclosure, slander of title, 
+quiet title, declaratory relief, and recission are barred under Rooker-Feldman, and their 
+claims for fraud in the concealment, fraud in the inducement, and violations of TILA, 
+HOEPA, and RESPA are time-barred, so any amendment would be futile.  See Harriott, 
+
+
+
+19 The elder abuse claim is count 11.  (Compl. ¶¶ 162–70).           
+2018 WL 4522102, at *12 (denying amendment where claims were time-barred and 
+precluded from review by Rooker-Feldman); see also Gross v. Intratek Comput. Inc., No. 22-
+CV-7440, 2023 WL 144129, at *3 (E.D.N.Y. Jan. 10, 2023) (“Where a complaint has been 
+
+dismissed for lack of subject matter jurisdiction, denial of leave to amend on the basis of 
+futility may be appropriate.”); Charlot v. Ecolab, Inc., 97 F. Supp. 3d 40, 68 (E.D.N.Y. 
+2015) (“Courts may deny a motion to amend where the proposed claims would be time-
+barred and therefore futile.”).                                           
+Because the IIED claim is against Wells Fargo, an entity not involved in the 
+Foreclosure Action, and the claim is based on a legally valid foreclosure—one that 
+
+cannot be challenged in federal court (and the time to do so in state court having long 
+passed)—any amendment to it could not, as a matter of law, amount to a claim for IIED.  
+And because elder abuse is not a cause of action recognized in New York and any claim 
+alleging it could not be sustained, Plaintiffs are not granted leave to amend their claim 
+for elder abuse.                                                          
+                     CONCLUSION                                      
+For the reasons stated above, the Court grants Defendants U.S. Bank, MERS, and 
+
+Wells Fargo’s motions to dismiss.  All of Plaintiffs’ claims against U.S. Bank, including 
+fraud upon the courts and unjust enrichment, and all claims against MERS are 
+dismissed without prejudice for insufficient service of process.  Plaintiffs’ claims against 
+Wells Fargo for lack of standing and wrongful foreclosure, slander of title, quiet title, 
+declaratory relief, and recission are dismissed without prejudice for lack of subject 
+matter jurisdiction.  Plaintiffs’ claims against Wells Fargo sounding in fraud and for 
+violations of TILA, HOEPA, RESPA, intentional infliction of emotional distress, and 
+elder abuse are dismissed with prejudice.  The Clerk of Court is directed to remove 
+Defendants U.S. Bank, MERS, and Wells Fargo from the docket.              
+
+
+
+                              SO ORDERED.                            
+
+                              /s/ Sanket J. Bulsara    May 23, 2025  
+                              SANKET J. BULSARA                      
+                              United States District Judge           
+
+
+
+Date:  May 23, 2025                                                  
+     Central Islip, New York                                         

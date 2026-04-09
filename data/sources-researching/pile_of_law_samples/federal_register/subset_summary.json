@@ -1,0 +1,19 @@
+{
+  "source": "Pile-of-Law (HuggingFace)",
+  "subset": "federal_register",
+  "description": "聯邦公報",
+  "why_selected": "行政法規和公告",
+  "num_samples": 10,
+  "sample_keys": [
+    "text",
+    "created_timestamp",
+    "downloaded_timestamp",
+    "url"
+  ],
+  "first_sample_preview": {
+    "text": "\n      \n        DEPARTMENT OF TRANSPORTATION\n        National Highway Traffic Safety Administration\n        49 CFR Part 571\n        [Docket No. NHTSA-2010-0112]\n        RIN 2127-AK56\n         Federal Motor Vehicle Safety Standards; Motorcoach Definition; Occupant Crash Protection\n        \n          ",
+    "created_timestamp": "08-18-2010",
+    "downloaded_timestamp": "09-14-2021",
+    "url": "https://www.govinfo.gov/bulkdata/FR/2010/08/FR-2010-08-18.xml"
+  }
+}

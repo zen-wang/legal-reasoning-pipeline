@@ -1,0 +1,101 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/218666/",
+  "id": 218666,
+  "absolute_url": "/opinion/218666/janus-capital-group-inc-v-first-derivative-traders/",
+  "panel": [],
+  "non_participating_judges": [],
+  "docket_id": 665839,
+  "docket": "https://www.courtlistener.com/api/rest/v4/dockets/665839/",
+  "sub_opinions": [
+    "https://www.courtlistener.com/api/rest/v4/opinions/9441742/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/9441743/",
+    "https://www.courtlistener.com/api/rest/v4/opinions/218666/"
+  ],
+  "citations": [
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "131",
+      "reporter": "S. Ct.",
+      "page": "2296",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "180",
+      "reporter": "L. Ed. 2d",
+      "page": "166",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "564",
+      "reporter": "U.S.",
+      "page": "135",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "2011",
+      "reporter": "U.S. LEXIS",
+      "page": "4380",
+      "type": 6
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "22",
+      "reporter": "Fla. L. Weekly Fed. S",
+      "page": "1124",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "79",
+      "reporter": "U.S.L.W.",
+      "page": "4466",
+      "type": 4
+    }
+  ],
+  "cluster_redirections": [],
+  "date_created": "2015-05-21T14:31:05.381391-07:00",
+  "date_modified": "2024-11-15T12:52:36.943107-08:00",
+  "judges": "Thomas, Breyer, Ginsburg, Sotomayor, Kagan",
+  "date_filed": "2011-06-13",
+  "date_filed_is_approximate": false,
+  "slug": "janus-capital-group-inc-v-first-derivative-traders",
+  "case_name_short": "Janus Capital",
+  "case_name": "Janus Capital Group, Inc. v. First Derivative Traders",
+  "case_name_full": "JANUS CAPITAL GROUP, INC., Et Al. v. FIRST DERIVATIVE TRADERS",
+  "scdb_id": "2010-063",
+  "scdb_decision_direction": 1,
+  "scdb_votes_majority": 5,
+  "scdb_votes_minority": 4,
+  "source": "CU",
+  "procedural_history": "",
+  "attorneys": "Mark A. Perry argued the cause for petitioners. With him on the briefs was Thomas G. Hungar., David C. Frederick argued the cause for respondent. With him on the brief were Brendan J. Crimmins and Ira M. Press., Curtis E. Gannon argued the cause for the United States as amicus curiae in support of respondent. With him on the brief were Acting Solicitor General Katyal, Deputy Solicitor General Stewart, David M. Becker, Mark D. Cahn, Jacob H. Stillman, and John W. Avery *",
+  "nature_of_suit": "",
+  "posture": "",
+  "syllabus": "",
+  "headnotes": "",
+  "summary": "",
+  "disposition": "",
+  "history": "",
+  "other_dates": "Argued December 7, 2010",
+  "cross_reference": "",
+  "correction": "",
+  "citation_count": 389,
+  "precedential_status": "Published",
+  "date_blocked": null,
+  "blocked": false,
+  "filepath_json_harvard": "law.free.cap.us.564/135.4333233.json",
+  "filepath_pdf_harvard": "harvard_pdf/218666.pdf",
+  "filepath_xml_scan": null,
+  "filepath_pdf_scan": null,
+  "arguments": "",
+  "headmatter": "<parties id=\"b179-4\">\n    JANUS CAPITAL GROUP, INC., et al.\n    <em>\n     v.\n    </em>\n    FIRST DERIVATIVE TRADERS\n   </parties><br><docketnumber id=\"b179-6\">\n    No. 09-525.\n   </docketnumber><otherdate id=\"Ag_\">\n    Argued December 7, 2010\n   </otherdate><decisiondate id=\"Aeg\">\n    Decided June 13, 2011\n   </decisiondate><br><attorneys id=\"b180-9\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"136\"> \n     *136\n     </span>\n<em>\n     Mark A. Perry\n    </em>\n    argued the cause for petitioners. With him on the briefs was\n    <em>\n     Thomas G. Hungar.\n    </em>\n</attorneys><br><attorneys id=\"b181-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"137\"> \n     *137\n     </span>\n<em>\n     David C. Frederick\n    </em>\n    argued the cause for respondent. With him on the brief were\n    <em>\n     Brendan J. Crimmins\n    </em>\n    and\n    <em>\n     Ira M. Press.\n    </em>\n</attorneys><br><attorneys id=\"b181-5\">\n<em>\n     Curtis E. Gannon\n    </em>\n    argued the cause for the United States as\n    <em>\n     amicus curiae\n    </em>\n    in support of respondent. With him on the brief were\n    <em>\n     Acting Solicitor General Katyal, Deputy Solicitor General Stewart, David M. Becker, Mark D. Cahn, Jacob H. Stillman,\n    </em>\n    and\n    <em>\n     John W. Avery\n    </em>\n<a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n<em>\n      *\n     </em>\n</a>\n</attorneys><div class=\"footnotes\"><div class=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b181-8\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging reversal were filed for the Attorneys’ Liability Assurance Society, Inc., by\n     <em>\n      John K. Villa\n     </em>\n     and\n     <em>\n      Kannon K. Shan-mugam;\n     </em>\n     for the Chamber of Commerce of the United States of America by\n     <em>\n      Richard D. Bernstein, Barry R Barbash, Robin S. Conrad,\n     </em>\n     and\n     <em>\n      Amar D. Sanoal;\n     </em>\n     for the Securities Industry and Financial Markets Association by\n     <em>\n      Carter G. Phillips, Jonathan F. Cohn, Daniel A. McLaughlin, Eric D. McArthur,\n     </em>\n     and\n     <em>\n      Kevin Carroll;\n     </em>\n     and for G. Erie Brunstad, Jr., et al. by Mr.\n     <em>\n      Brunstad, pro se, Robert W. Helm, Ruth S. Epstein, Collin O’Connor Udell,\n     </em>\n     and\n     <em>\n      Matthew J. Delude.\n     </em>\n</p>\n<p id=\"b181-9\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging affirmance were filed for AARP et al. by\n     <em>\n      Jaitj E. Suoholoky\n     </em>\n     and\n     <em>\n      Michael R. Schuster;\n     </em>\n     for the Employees’ Retirement System of the Government of the Virgin Mondo by\n     <em>\n      Eric Alan Isaacson, Joseph D. Daley,\n     </em>\n     and\n     <em>\n      Ruby Menon;\n     </em>\n     for the New York State Common Retirement Fund et al. by\n     <em>\n      Jay W. E'isenhofer;\n     </em>\n     for William A. Birdthistle et al. by\n     <em>\n      Mr. Birdthistle, pro se;\n     </em>\n     and for John P. Freeman et al. by\n     <em>\n      Michael J. Brickman, James C. Bradley,\n     </em>\n     and\n     <em>\n      Nina H. Fields.\n     </em>\n</p>\n<p id=\"b181-10\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     were filed for the Center for Audit Quality by\n     <em>\n      Lawrence S. Robbins, Roy T. Englert, Jr.,\n     </em>\n     and\n     <em>\n      Donald J. Russell;\n     </em>\n     and for the Council of Institutional Investors by\n     <em>\n      Gregory S. Coleman\n     </em>\n     and\n     <em>\n      Christian J. Ward.\n     </em>\n</p>\n</div></div>"
+}

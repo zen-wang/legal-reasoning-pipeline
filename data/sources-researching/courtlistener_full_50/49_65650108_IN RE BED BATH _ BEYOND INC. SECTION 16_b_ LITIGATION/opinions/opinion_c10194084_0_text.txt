@@ -1,0 +1,352 @@
+UNITED STATES DISTRICT COURT                                              
+SOUTHERN DISTRICT OF NEW YORK                                             
+                                         22 Civ. 9327 (DEH)              
+IN RE BED BATH & BEYOND INC.                                             
+SECTION 16(b) LITIGATION                    OPINION                      
+                                           AND ORDER                     
+DALE E. HO, United States District Judge:                                 
+    Before the Court are Defendants RC Ventures LLC and Ryan Cohen’s (collectively, 
+“Defendants’”) amended omnibus motion to dismiss (“Defs.’ Mot.”), ECF No. 64, as well as 
+Nominal Defendant Bed Bath and Beyond’s (“BBBY’s”) motion for substitution as plaintiff and 
+to stay consideration of the amended omnibus motion to dismiss (“BBBY’s Mot.”), ECF No. 82.  
+For the reasons set forth below, the Court GRANTS Defendants’ motion to dismiss and 
+DENIES BBBY’s motion for substitution as the real party in interest and to stay consideration of 
+the motion to dismiss.                                                    
+                         BACKGROUND                                      
+     Plaintiffs Todd Augenbaum and Judith Cohen bring suit under Section 16(b) of the 
+Securities Exchange Act, which “requires corporate insiders, including owners of more than ten 
+percent of a company’s stock [and directors], to disgorge what are colloquially known as short-
+swing profits, i.e., any profits made from buying and selling or selling and buying within a six-
+month period a security based on that company’s stock.”  Klein on behalf of Qlik Techs., Inc. v. 
+Qlik Techs., Inc., 906 F.3d 215, 219 (2d Cir. 2018).1  “Suits under 16(b) can be brought by the 
+company that issues the relevant stock or, if the issuer shall fail or refuse to bring such suit 
+
+
+
+1 In all quotations from cases, the Court omits citations, footnotes, emphases, internal quotation 
+marks, brackets, and ellipses unless otherwise indicated.  Any references to Rules are to the 
+Federal Rules of Civil Procedure.                                         
+within sixty days after request or shall fail diligently to prosecute the same thereafter, by any 
+owner of any security of the issuer.”  Id.                                
+     Plaintiffs were shareholders of BBBY, a publicly traded company on the Nasdaq.  
+Augenbaum Compl. ¶¶ 2, 4, ECF No. 1; Cohen Am. Compl, ECF No. 28. ¶ 7.  Defendant Ryan 
+Cohen is the manager of Defendant RC Ventures (“RCV”), an investment company.  
+Augenbaum Compl. ¶ 3; Cohen Am. Compl. ¶ 9.  Plaintiffs allege that during a six-month 
+
+period, while Defendants beneficially owned 10% or more of BBBY’s common stock and/or 
+were directors of BBBY, Defendants earned windfall short-swing profits “while other investors 
+in the Company’s common stock . . . suffered a dramatic loss.”  See Augenbaum Compl. ¶ 1; 
+Cohen Am. Compl. ¶ 1.                                                     
+ A.  Cooperation Agreement                                               
+    On or around March 24, 2022, BBBY and Defendant Cohen entered into a Cooperation 
+Agreement, pursuant to which Defendant Cohen would appoint three new members to BBBY’s 
+board of directors (“the Board”) while Defendants maintained ownership of at least 4.04% of 
+BBBY’s then outstanding common stock.  Cohen Am. Compl. ¶¶ 30, 32; see also Hunter Decl. 
+Ex. B, ECF No. 85-2.  The Cooperation Agreement, which terminated according to its terms in 
+
+2023, forbade BBBY from “assist[ing] in any lawsuit, claim or proceeding” against Defendants.  
+See Hunter Decl. Ex. B §§ 2(a), 13, 14.                                   
+ B.  District and Bankruptcy Court Proceedings                           
+    On August 2 and September 9, 2022, Plaintiffs made separate litigation demands on the 
+Board.  Augenbaum Compl. ¶ 32; Cohen Am. Compl. Ex. A, ECF No. 28-1.  On October 21, 
+2022, BBBY declined Plaintiffs’ request to file suit.  Augenbaum Compl. ¶ 33; Cohen Am. 
+Compl. Ex. B, ECF No. 28-2; Slocum Decl. Ex. 7, ECF No. 66-8.  On October 31, 2022, and 
+November 15, 2022, Plaintiffs filed separate suits as owners of BBBY securities against 
+Defendants.  See Augenbaum Compl.; Cohen Compl., ECF No. 1, Cohen v. Cohen, 22 Civ. 
+9733.  On December 12, 2022, the Court ordered the consolidation of Plaintiffs’ suits against 
+BBBY.  See Order, ECF No. 20.                                             
+    On April 25, 2023, while the District Court proceedings were ongoing, BBBY and its 
+affiliates filed a Chapter 11 petition in the U.S. Bankruptcy Court for the District of New Jersey 
+and subsequently filed a Suggestion of Bankruptcy on this docket.  See generally Bankr. Notice, 
+
+ECF No. 50.  The filing notified the parties that Section 362(a) of the Bankruptcy Code operates 
+as an automatic stay of, inter alia, judicial proceedings against the debtor—including those 
+commenced before the Bankruptcy Court case was filed, see id. at 2—and that “any action taken 
+against [BBBY and certain of its affiliates (“the Debtors,” or “Wind-Down Debtors”)] without 
+obtaining from the Bankruptcy Court relief from the automatic stay may be void ab initio.”  Id.   
+    On April 27, 2023, Plaintiff Augenbaum filed a response in this Court to the suggestion 
+of bankruptcy, arguing that “the Bankruptcy Code’s automatic stay provision is not applicable” 
+in this case.  ECF No. 51 at 1.2  Plaintiff Cohen joined that response one week later.  ECF No. 53 
+at 1.  Plaintiffs never filed a formal motion seeking relief from the Plan’s automatic stay nor took 
+any other substantial action to protect their Section 16(b) rights in the Bankruptcy Court.   
+
+    On September 14, 2023, BBBY’s Chapter 11 Plan (“the Plan” or “Bankruptcy Plan”) was 
+confirmed, with an effective date of September 29, 2023.  Hunter Decl. Ex. A at 1-3, ECF No. 
+85-1; id. at Ex. F at 2, ECF No. 85-2.  The Bankruptcy Plan held that each share of stock in 
+BBBY was “canceled, released, and extinguished, and w[ould] be of no further force or effect 
+and no Holder of Interests in BBBY shall be entitled to any recovery or distribution under the 
+Plan on account of such Interests.”  Id. at 102-03.  It provided that “all property of the Estates 
+
+
+2 This number reflects the ECF page number.                               
+shall vest in the Wind-Down Debtors, free and clear of all Liens, Claims, charges, or other 
+encumbrances.”  Hunter Decl. Ex. A at ¶ 74.  It further provided that “all Causes of Action shall 
+automatically vest in the Wind-Down Debtors,” and appointed the Plan Administrator to be “the 
+sole representative of, and [to] act for, the Wind-Down Debtors.”  Id. ¶¶ 95, 126.   
+    Under the Plan, BBBY and the Plan Administrator were granted the right to “exclusively 
+enforce any and all Causes of Action” and were deemed to have “the exclusive right, authority, 
+
+and discretion to determine and to initiate, file, prosecute, enforce, abandon, settle, compromise, 
+release, withdraw, or litigate to judgment” the same.  Id. at 111 (emphases added).  The Plan 
+effected the “complete settlement, compromise, and release, effective as of the Effective Date, of 
+Claims, Interests, and Causes of Action of any nature whatsoever” against “the Debtors or any of 
+their assets or properties.”  Id. at 127.  The Plan defined a “Claim” as a claim under Section 
+101(5) of the Bankruptcy Code, as well as “any Cause of Action or liability asserted against a 
+Debtor.”  Id. at 84.  It defined “Causes of Action” to include any “controversy, demand, right,” 
+or “suit,” whether “assertable directly or derivatively.”  Id. at 83.  In bold letters, the Plan 
+decreed that holders of these Claims and Causes of Action were “permanently enjoined and 
+precluded” from “commencing or continuing in any manner any action or other proceeding 
+
+of any kind on account of or in connection with or with respect to any such Claims, 
+Interests, Causes of Action or liabilities discharged, released, exculpated, or settled 
+pursuant to the Plan.”  Id. at 57, 132.                                   
+    On October 10, 2023, Defendants sought leave to file a Rule 12(b)(1) motion to dismiss, 
+citing the cancellation of Plaintiffs’ stock pursuant to the Bankruptcy Plan.  Oct. 6, 2023 Letter 1, 
+ECF No. 58.  The Court granted Defendants leave to file an amended omnibus motion to dismiss 
+under Rules 12(b)(1) and 12(b)(6) and stayed discovery pending resolution of the motion.  Oct. 
+25, 2023 Order, ECF No. 61.                                               
+    On November 6, 2023, this case was reassigned to the undersigned.  See Notice of 
+Reassignment, ECF No. 62.  On November 8, 2023, Defendants filed an amended omnibus 
+motion to dismiss.  ECF No. 64.  On November 22, 2023, counsel for BBBY, which Plaintiffs 
+had named as a nominal defendant, appeared.  See ECF No. 70.  On December 6, 2023, BBBY 
+filed a Rule 17(a)(3) Motion, seeking to substitute itself as the plaintiff in place of the existing 
+Plaintiffs.  ECF No. 82.  Both motions are fully briefed before the Court.  
+
+ C.  Plaintiffs’ Post-Bankruptcy Plan Purchases                          
+     Sixth Street Specialty Lending, Inc. (“Sixth Street”), a publicly traded company, 
+acquired BBBY’s debt as a creditor.  See Oct. 6, 2023 Pre-Motion Letter Ex. 1, ECF No. 58-1.  
+At some point thereafter, in or around October 2023, Plaintiffs acquired equity in Sixth Street.  
+See Oct. 12, 2023 Letters, ECF Nos. 59, 60; see also Abraham Decl., Ex. J, ECF No. 74-3 
+(providing proof of Plaintiff Augenbaum’s purchase of Sixth Street equity); Squitieri Decl. Ex. 
+A, ECF No. 76-1 (providing proof of Plaintiff Cohen’s purchase of same).  
+                       LEGAL STANDARDS                                   
+    “A case is properly dismissed for lack of subject matter jurisdiction under Rule 12(b)(1) 
+when the court lacks the statutory or constitutional power to adjudicate the case.”  Nowak v. 
+
+Ironworkers Local 6 Pension Fund, 81 F.3d 1182, 1187 (2d Cir. 1996).  “A case is moot, and 
+accordingly the federal courts have no jurisdiction over the litigation, when the parties lack a 
+legally cognizable interest in the outcome” because they no longer “have a personal stake in the 
+litigation.”  Fox v. Bd. of Trs. of the State Univ. of N.Y., 42 F.3d 135, 140 (2d Cir. 1994).  In 
+other words, Courts may “only entertain complaints from a complainant with a concrete stake—
+and not just a ‘keen interest’—in the outcome of the litigation.”  Klein, 906 F.3d at 220 (citing 
+Hollingsworth v. Perry, 570 U.S. 693, 700 (2013)).                        
+    Rule 17 provides that a court “may not dismiss an action for failure to prosecute in the 
+name of the real party in interest until, after an objection, a reasonable time has been allowed for 
+the real party in interest to ratify, join, or be substituted into the action.”  Fed. R. Civ. P. 17(a)(3).  
+“[T]here plainly should be no dismissal where substitution of the real party in interest is 
+necessary to avoid injustice.”  Advanced Magnetics, Inc. v. Bayfront Partners, Inc., 106 F.3d 11, 
+20 (2d Cir. 1997) (citing Fed. R. Civ. P. 15 Advisory Committee Notes (1966)).  By its terms, 
+
+the rule allows a motion to be denied as untimely if the movant fails to file within “a reasonable 
+time” after a standing objection is raised.  NCUA Bd. v. U.S. Bank Nat’l Ass’n, 898 F.3d 243, 256 
+(2d Cir. 2018).  Otherwise, Rule 17(a) motions “should be liberally allowed when the change is 
+merely formal and in no way alters the original complaint’s factual allegations as to the events or 
+the participants.”  Advanced Magnetics, 106 F.3d at 20 (emphases added); see also Klein, 906 
+F.3d at 218 (“Rule 17(a)(3) allows substitution of the real party in interest so long as doing so 
+does not change the substance of the action and does not reflect bad faith from the plaintiffs or 
+unfairness to the defendants.”).                                          
+                          DISCUSSION                                     
+    The Court determines that Plaintiffs’ claims have become moot.  Pursuant to its 
+
+“constitutional power to substitute a real party in interest to avoid mooting [the] case,” the Court 
+then considers BBBY’s motion for substitution.  See Klein, 906 F.3d at 219, 226.  For the 
+reasons discussed herein, that motion is denied.  Accordingly, this case is dismissed.   
+ A.  Plaintiffs’ Claims are Moot                                         
+    “Federal courts have no constitutional power to consider a moot case, which does not 
+present a live controversy . . . . We thus have a duty to consider mootness nostra sponte.”  Nat’l 
+Org. for Marriage, Inc. v. Walsh, 714 F.3d 682, 692 (2d Cir. 2013).  There is no longer a case or 
+controversy in a Section 16(b) case where the party bringing suit fails to maintain “some 
+continuing financial interest in the outcome of the litigation.”  See Gollust v. Mendell, 501 U.S. 
+115, 123, 126 (1991) (emphasis added); see also Klein, 906 F.3d at 218 (holding that a plaintiff’s 
+claim was moot where it lost “any financial interest in the litigation.”).  Plaintiffs had standing as 
+BBBY shareholders at this suit’s commencement.  But as explained below, their Section 16(b) 
+action became moot following confirmation of BBBY’s Bankruptcy Plan.      
+    The confirmation of a Chapter 11 bankruptcy plan “bind[s] the debtor . . . and any 
+
+creditor, equity security holder, or general partner in the debtor, whether or not the claim or 
+interest of such creditor, equity security holder, or general partner is impaired under the plan.”  
+11 U.S.C. § 1141(a); see also Celli v. First Nat’l Bank (In re Layo), 460 F.3d 289, 293 (2d Cir. 
+2006).  “[A] confirmed plan holds the status of a binding contract between the debtor and its 
+creditors,” or investors, which courts outside bankruptcy are not at liberty to alter.  See In re 
+Victory Mkts., 221 B.R. 298, 303 (B.A.P. 2d Cir. 1998).  As with any contract, a bankruptcy plan 
+must be interpreted according to its plain terms, which control if unambiguous.  See id.  (“Where 
+the language of the plan is unequivocal, therefore, a Court must adopt the plain and natural 
+meaning only of the words contained within the text of the instrument itself.”). 
+    Here, the plain language of the Bankruptcy Plan states that all shares in BBBY were 
+
+“canceled, released, and extinguished, and will be of no further force or effect and no Holder of 
+Interests in BBBY shall be entitled to any recovery or distribution under the Plan on Account of 
+such Interests” as of the effective date, September 29, 2023.  Slocum Decl. Ex. 8 at 102-03.  The 
+Plan effected a “complete settlement, compromise, and release, effective as of the Effective 
+Date, of Claims, Interests, and Causes of Action of any nature whatsoever” against the debtors or 
+their property.  Hunter Decl. Ex. A at 127.  And it decrees that the holders of claims, interests, 
+and causes of action against BBBY are “permanently enjoined and precluded” from 
+“commencing or continuing in any manner any action or other proceeding of any kind on 
+account of or in connection with or with respect to any such Claims, Interests, Causes of Action 
+or liabilities discharged, released, exculpated, or settled pursuant to the Plan.”  Id. at 131.  
+    In light of the extinguishment of Plaintiffs’ shares in BBBY pursuant to the Bankruptcy 
+Plan, Plaintiffs fail to establish “some continuing financial interest in the outcome of this 
+litigation.”  Gollust, 501 U.S. at 126.  See also Klein, 906 F.3d at 218 (after the accused company 
+“was bought out in an all-cash merger,” the shareholder—who did not receive any stock in the 
+
+surviving corporation—“los[t] any financial interest in the litigation.”).  Accordingly, the Court 
+concludes that intervening circumstances—BBBY’s bankruptcy and the effectuation of the 
+Plan—have rendered Plaintiffs’ claims moot.  See id. at 221 (holding that cases become moot “if 
+an intervening circumstance deprives the plaintiff of a personal stake in the outcome of the 
+lawsuit, at any point during litigation after its initiation.”) (emphasis added).   
+    Plaintiffs do not dispute that their BBBY common stock has been canceled and is of no 
+further force and effect.  See generally Augenbaum’s Mem. in Opp’n of Mot. to Dismiss 
+(“Augenbaum Opp’n”), ECF No. 73; Cohen’s Mem. in Opp’n of Mot. to Dismiss (“Cohen 
+Opp’n”), ECF No. 75.  Instead, Plaintiffs offer four theories to attempt to establish their 
+“continuing financial interest” in this suit.  As discussed below, each fails.  
+
+    First, Plaintiffs argue that a purchase of stock in Sixth Street, a BBBY creditor, 
+constitutes a continuing financial interest in this suit’s outcome sufficient to overcome mootness.  
+See Cohen Opp’n 16; Augenbaum Opp’n 22-23.  The Court adopts the reasoning in In re 
+WorldCom, Inc., 351 B.R. 130 (Bankr. S.D.N.Y. 2006), which considered and rejected the same 
+argument.  There, the court held that the plaintiff lost standing to bring a derivative claim where, 
+as here, his shares in a company were “canceled” and he would “receive no distributions” under 
+the company’s reorganization plan.  Id. at 134-35.  The plaintiff could not thereafter revive his 
+standing by independently acquiring an interest in a surviving company that merged with the 
+reorganized debtor, because that interest did not “flow from [his] former interest as a 
+shareholder” of the debtor.  Id. at 135.  Here, Plaintiffs have similarly failed to establish that their 
+purchase of stock in BBBY’s creditor, Sixth Street, “flow[ed] from [Plaintiffs’] former interest 
+as [] shareholder[s]” of BBBY, and the Court therefore concludes that Plaintiffs’ equity in Sixth 
+Street is not a continuing financial interest under Section 16(b) sufficient to overcome mootness.  
+Id.                                                                       
+
+    Plaintiffs’ reliance on Gollust is unavailing.  As Plaintiff Augenbaum concedes, “the 
+Supreme Court [in Gollust] was not called upon to address” whether a plaintiff could maintain a 
+financial interest in a suit by buying the stock of a creditor.  See Augenbaum Opp’n at 22-23.  In 
+Gollust, the Supreme Court held only that “a plaintiff, who properly instituted a § 16(b) action as 
+the owner of a security of the issuer, may continue to prosecute the action after his interest in the 
+issuer is exchanged in a merger for stock in the issuer’s new corporate parent.”  501 U.S. at 118 
+(emphasis added); see also id. at 127-28.  Here, by contrast, Plaintiffs have an interest in 
+BBBY’s creditor (rather than in its acquirer), which they obtained via an unrelated transaction 
+(rather than through an exchange of stock).  The Court is aware of no case that stands for the 
+proposition that a plaintiff may overcome mootness by independently buying stock in a creditor 
+
+of an entity after the plaintiff’s equity in the entity was extinguished.   
+    Second, Plaintiffs argue that their statutory interest under 15 U.S.C. § 78u-4(a)(4) in a 
+potential incentive reward for service as a class representative constitutes a continuing financial 
+interest in this case.  Neither of the two class action suits on which they rely—Jin v. Shanghai 
+Original, Inc., 990 F.3d 251 (2d Cir. 2021), and Espenscheid v. DirectSat USA, LLC, 688 F.3d 
+872 (7th Cir. 2012), see Augenbaum Opp’n 23-24; Cohen Opp’n 18—supports their position.  
+Jin was a putative class action under the New York Labor Law concerning whether a plaintiff 
+who prevails on his individual claims retained a continuing interest in the litigation sufficient to 
+have standing to appeal the district court’s decision decertifying the class.  See 990 F.3d at 254.  
+There, the Second Circuit hypothesized without deciding that the plaintiff may have “retained 
+some economic interest” to appeal via a “potential incentive award for his service as class 
+representative,” had he raised the claim.  Id. at 259 n.12.  Espenscheid was also a labor law case; 
+there, the Seventh Circuit held that the plaintiffs, despite settling their individual claims, retained 
+a sufficient interest in the case to appeal the decertification of their class because they had 
+
+reserved the right to seek an incentive award as class representatives if they succeeded on appeal.  
+688 F.3d at 874.  Neither of these cases is a Section 16(b) case, and neither stands for the 
+proposition that a potential incentive award under 15 U.S.C. § 78u-4(a)(4) constitutes a sufficient 
+financial interest in the outcome of a Section 16(b) suit to overcome mootness due to the 
+extinguishment of a plaintiff’s interest in the issuer.3                  
+    Relatedly, Plaintiff Cohen argues that her statutory right to attorney’s fees constitutes a 
+continuing financial interest in a Section 16(b) suit.  Cohen Opp’n 17.4  The Court is aware of no 
+caselaw in support of that proposition.  Plaintiff Cohen cites Smolowe v. Delendo Corp., 136 
+F.2d 231 (2d Cir. 1943), which says nothing about whether a party’s statutory right to attorney’s 
+fees constitutes a continuing financial interest to maintain a Section 16(b) suit and instead dealt 
+
+“solely” with “the construction and constitutionality of Sec[tion] 16(b),” id. at 234.  Ultimately, 
+Plaintiffs’ claims for attorney’s fees, expenses, and incentive awards are contingent claims 
+against BBBY’s estate within the meaning of the Bankruptcy Code and the Plan.  See 11 U.S.C. 
+
+3 The Court also notes that it is unclear how Plaintiffs (or any other former BBBY shareholders) 
+could continue to serve as representative plaintiffs, given the extinguishment of all BBBY shares 
+under the Plan.                                                           
+4 Plaintiff Cohen appears to argue in the alternative that she is only required to demonstrate that 
+she was a holder of the corporation’s security at the time the action was instituted.  See Cohen 
+Opp’n 17, ECF No. 75.  While this no doubt establishes standing under Section 16(b), it is, as 
+discussed herein, insufficient to overcome mootness.                      
+§ 101(5)(A) (defining a claim as a “right to payment, whether or not such right is reduced to 
+judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, 
+legal, equitable, secured, or unsecured”); Hunter Decl. Ex. A at 84 (defining a “Claim” as, 
+among other things, “a claim, as defined in section 101(5) of the Bankruptcy Code”).  The Plan 
+extinguished those claims, as discussed above.                            
+    Finally, Plaintiff Augenbaum argues, without citation to any authority, that “[e]ven if he 
+
+were not entitled to an incentive award, Plaintiff’s loss of the value of BBBY Common Stock, 
+which he held through cancellation to create a common fund, should be a reimbursable expense 
+from any judgment or settlement obtained, which also gives Plaintiff a continuing financial 
+interest in this Action.”  Augenbaum Opp’n 23-24.  It is not clear to the Court how such an 
+attenuated relationship to the action would confer a continued financial stake in this litigation’s 
+outcome, and the Court is unaware of any caselaw supporting this claim.   
+    A Section 16(b) claim cannot be maintained by plaintiffs who have been “divested of any 
+interest in the outcome of the litigation.”  Gollust, 501 U.S. at 124.  That is the situation here, as 
+BBBY’s Bankruptcy Plan canceled Plaintiffs’ stock in BBBY.  As discussed, Plaintiffs’ 
+alternative theories purporting to establish their continuing financial interest in this suit fail.  
+
+Accordingly, their claims have become moot.                               
+ B.  BBBY’s Motion is Denied                                             
+    Ordinarily, when a case becomes moot, a district court no longer has subject matter 
+jurisdiction and must dismiss the case.  See Fox v. Bd. of Trs. of State Univ. of N.Y., 42 F.3d 135, 
+140 (2d Cir. 1994).  However, “[a] district court determining whether a case has become moot 
+maintains jurisdiction to determine whether a substitute plaintiff would avoid that result.”  Klein, 
+906 F.3d at 218.  As discussed, “Rule 17(a)(3) allows substitution of the real party in interest so 
+long as doing so does not change the substance of the action and does not reflect bad faith from 
+the plaintiffs or unfairness to the defendants,” id., and “where substitution of the real party in 
+interest is necessary to avoid injustice.”  Advanced Magnetics, 106 F.3d at 20.   
+    On the record before the Court, BBBY has not established that these factors weigh in its 
+favor.  The Court has no way of ascertaining whether BBBY’s substitution would “change the 
+substance of the action,” because BBBY filed its motion for substitution without attaching any 
+proposed amended complaint.  See Klein, 906 F.3d at 218.  BBBY represents in its briefing that 
+
+its substitution would be “merely formal” because it “intends to pursue the same Section 16(b) 
+claim against the same defendants.”  BBBY’s Mot. 13.  Whether it seeks to pursue the same 
+claim is not, however, the end of the Court’s analysis.  The Court must also determine whether 
+the change in party in any way “alters the original complaint’s factual allegations as to the events 
+or the participants.”  Advanced Magnetics, 106 F.3d at 20.  BBBY notably declines to state 
+whether it seeks to alter the facts on which this case is brought.  Instead, it holds out the 
+possibility that it might, stating that upon its substitution, “it will seek leave to file an amended 
+complaint,” without specifying how the amended complaint might differ from the operative ones 
+in this case.  BBBY’s Mot. 13 n.5.  BBBY cannot have it both ways: it cannot claim that its 
+substitution as plaintiff “is a merely formal change in the alignment of the parties” while 
+
+representing that it seeks to amend its pleadings in a manner it declines to specify.  Id. at 13. 
+    “Even if [BBBY’s] proposed substitution m[et] [Rule 17] requirements, it should be 
+denied if it is being proposed in bad faith.”  Klein, 906 F.3d at 226.  “[A] party’s failure to 
+submit a proposed amended complaint or a new pleading demonstrates a lack of good faith.”  
+Gulley v. Dzurenda, 264 F.R.D. 34, 36 (D. Conn. 2010); see also State Trading Corp. of India 
+Ltd. v. Assuranceforeningen Skuld, 921 F.2d 409, 418 (2d Cir. 1990) (imputing a lack of good 
+faith to plaintiff in part because plaintiff “did not file a proposed amended complaint” when it 
+sought leave to amend); Twohy v. First Nat’l Bank of Chi., 758 F.2d 1185, 1197 (7th Cir. 1985) 
+(noting that “the normal procedure is for the proposed amendment or new pleading to be 
+submitted” with the motion for leave to amend, and that failure to do so “indicates a lack of 
+diligence and good faith”).  The Court cannot conclude that BBBY has acted in good faith here, 
+where BBBY claims both that its substitution would be “merely formal,” Advanced Magnetics, 
+106 F.3d at 20, while representing that it will seek leave to amend its pleadings in an unspecified 
+manner.                                                                   
+
+    Finally, the Court cannot conclude that granting substitution is “necessary to avoid 
+injustice” here, where nothing would preclude BBBY from filing its own complaint.  See Klein, 
+906 F.3d at 226.  The limitations period for a Section 16(b) claim is “two years after the date 
+such profit was realized.”  15 U.S.C. §78p(b).  Here, Defendants are alleged to have realized 
+short-swing profits on or around August 16, 2022, less than two years ago.  BBBY may, 
+therefore, avoid any theoretical prejudice to its economic interest by filing its own timely Section 
+16(b) action.                                                             
+                          CONCLUSION                                     
+    For the reasons given herein, the Court concludes that Plaintiffs’ claims are moot and 
+grants Defendants’ motion to dismiss.  The Court also denies BBBY’s motion for substitution 
+
+and to stay consideration of the motion to dismiss.5                      
+    The Clerk of Court is respectfully directed to terminate ECF Nos. 64 and 82 and to close 
+the case.                                                                 
+    SO ORDERED.                                                          
+
+
+
+5 In light of the Court’s determination on mootness, and its denial of the motion for substitution, 
+the Court declines to address the Rule 12(b)(6) arguments raised by Defendants.  See Defs.’ 
+Mem. of L. in Supp. of Am. Omnibus Mot. to Dismiss 15-27, ECF No. 65.     
+Dated: June 11, 2024 
+    New York, New York 
+
+                                                       DALE E. HO 
+                                                 United States District Judge 
+
+                                     14 

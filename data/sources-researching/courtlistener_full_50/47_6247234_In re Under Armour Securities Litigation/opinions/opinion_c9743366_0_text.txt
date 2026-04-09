@@ -1,0 +1,482 @@
+             IN THE UNITED STATES DISTRICT COURT                        
+                FOR THE DISTRICT OF MARYLAND                            
+
+                            *                                           
+IN RE UNDER ARMOUR                                                        
+SECURITIES LITIGATION         *         Civil Action No. RDB-17-0388      
+
+                            *                                           
+
+*    *    *    *    *    *    *    *    *    *    *    *    *             
+                   MEMORANDUM OPINION                                   
+   The instant securities class action against Defendants Under Armour, Inc. (“Under 
+Armour”) and Kevin Plank (“Plank”) (collectively, “Defendants”) has been ongoing since 
+February 10, 2017.    (ECF  No.  1.)    A  twelve-day  jury  trial  is  scheduled  to  begin  on 
+July 15, 2024.  (ECF No. 295.)                                            
+   This matter comes before the Court on the three (3) motions to exclude expert 
+testimony and opinions filed by Plaintiffs (ECF Nos. 302, 305, 308), and  four (4) motions to 
+exclude expert testimony and opinions filed by Defendants (ECF Nos. 309, 311, 314, 316)  
+(collectively with ECF Nos. 302, 305, 308, the “Daubert Motions”).  The Court heard oral 
+argument on the Daubert Motions on April 9, 2024.  (ECF No. 387.)  As the seven pending 
+Daubert Motions (ECF Nos. 302, 305, 308, 309, 311, 314, 316) are all DENIED by separate 
+Order, this Memorandum Opinion expounds upon the Court’s reasoning.       
+                        BACKGROUND                                      
+   This  securities  class  action  is  scheduled  for  a  twelve-day  trial  beginning  on 
+July 15, 2024.  (ECF No. 295.)  The parties’ Daubert Motions concern the parties’ disagreement 
+as to whether one of the proposed experts may testify at all1 and whether certain of the 
+proposed experts’ testimony and opinions should be limited.  Specifically, Defendants move 
+to exclude entirely testimony and opinions of Mark A. Cohen (“Cohen”), Plaintiffs’ proffered 
+
+experiential expert on the retail and apparel industry, (ECF No. 314); and Plaintiffs move to 
+exclude certain testimony of Defendant Under Armour’s proffered rebuttal expert to Cohen, 
+Laurie Wilson (“Wilson”), (ECF No. 308).  Defendants seek to limit the testimony and 
+opinions of Professor M. Todd Henderson (“Henderson”), Plaintiffs’ proffered expert on 
+Plank’s trading of Under Armour stock and Plank’s Rule 10b5-1 trading plan, (ECF No. 309); 
+and Plaintiffs seek to limit the testimony and opinions of Defendant Plank’s proffered rebuttal 
+
+expert to Henderson, Wayne Guay (“Guay”), (ECF No. 305).  Defendants have also moved 
+to limit the testimony and opinions of Plaintiffs’ proffered accounting expert D. Paul Regan 
+(“Regan”).  (ECF No. 11.)  Lastly, Defendants seek to limit the testimony and opinions of Dr. 
+Matthew  Cain,  Ph.D.  (“Cain”),  Plaintiffs’  proffered  market  efficiency,  materiality,  loss 
+causation, and damages expert, (ECF No. 316); and Plaintiffs seek to limit the testimony and 
+opinions of Defendant Under Armour’s proffered rebuttal expert to Cain, Paul A. Gompers 
+
+(“Gompers”), (ECF No. 302).                                               
+                    STANDARD OF REVIEW                                  
+   Pursuant to Rule 104(a) of the Federal Rules of Evidence, courts are responsible for 
+determining “preliminary questions concerning the qualifications of a person to be a witness” 
+
+
+1  While Defendants’ written submissions requested to exclude entirely the testimony and opinions of Professor 
+M. Todd Henderson (ECF No. 309) and Matthew D. Cain, Ph.D. (ECF No. 316), Defendants clarified on the 
+record at the April 9, 2024 hearing that they only sought to limit Henderson and Cain’s testimony.  Similarly, 
+while Plaintiffs’ written submissions requested to exclude Laurie Wilson entirely (ECF No. 308), Plaintiffs 
+clarified on the record at the April 9, 2024 hearing that they only sought to limit Wilson’s testimony.   
+and “the admissibility of evidence.”  This includes the admissibility of expert testimony under 
+Rule 702, which provides:                                                 
+   A witness who is qualified as an expert by knowledge, skill, experience, training, 
+   or education may testify in the form of an opinion or otherwise if:  
+        (a)  the  expert’s  scientific,  technical,  or  other  specialized 
+            knowledge will help the trier of fact to understand the     
+            evidence or to determine a fact in issue;                   
+        (b)  the testimony is based on sufficient facts or data;        
+        (c)  the  testimony  is  the  product  of  reliable  principles  and 
+            methods; and                                                
+        (d)  the expert has reliably applied the principles and methods to 
+            the facts of the case.                                      
+FED. R. EVID. 702.  Pursuant to Rule 702, a properly qualified expert witness may testify 
+regarding technical, scientific, or other specialized knowledge in a given field if the testimony 
+would assist the trier of fact in understanding the evidence or to determine a fact in issue, and 
+the testimony is both reliable2 and relevant.3  United States v. Young, 916 F.3d 368, 379 (4th Cir. 
+2019).  The proponent of the expert testimony in question must establish admissibility by a 
+preponderance of the evidence.  Cooper v. Smith & Nephew, Inc., 259 F.3d 194, 199 (4th Cir. 
+2001) (citing Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579, 589, 592 n.10 (1993)).   
+   A court’s role in applying Rule 702 is to act as a gatekeeper, ensuring that expert 
+testimony is relevant and reliable.  Daubert, 509 U.S. at 592–93; see also Kumho Tire Co. v. 
+Carmichael, 526 U.S. 137, 141 (1999) (holding that Daubert’s gatekeeping obligation applies not 
+only to scientific testimony but to all expert testimony); Bresler v. Wilmington Tr. Co., 855 F.3d 
+
+2  To be reliable, testimony must be grounded “in the methods and procedures of science,” and it must be 
+something more than subjective belief or unsupported assumptions.  Daubert, 509 U.S. at 589–90. 
+3  Evidence or testimony must be relevant to the extent that it will “assist the trier of fact to understand the 
+evidence or to determine a fact in issue.”  Daubert, 509 U.S. at 591.  An expert’s testimony is relevant if it has 
+“‘a valid scientific connection to the pertinent inquiry.’”  Belville v. Ford Motor Co., 919 F.3d 224, 232 (4th Cir. 
+2019) (citation omitted).                                                 
+178, 195 (4th Cir. 2017) (“Under Rule 702 . . . [c]ourts are required to act as ‘gatekeepers’ to 
+ensure that expert testimony is relevant and reliable.” (quoting Cooper, 259 F.3d at 199)).  
+However, the Supreme Court did not intend the gatekeeper role to replace the adversary 
+
+system  or  the  role  of  the  jury:  “[v]igorous  cross-examination,  presentation  of  contrary 
+evidence, and careful instruction on the burden of proof are the traditional and appropriate 
+means of attacking shaky but admissible evidence.”  Daubert, 509 U.S. at 596; see United States 
+v. Moreland, 437 F. 3d 424, 431 (4th Cir. 2006) (recognizing that “expert testimony is subject 
+to testing by vigorous cross-examination, presentation of contrary evidence, and careful 
+instruction on the burden of proof”).  “[C]onsequently, the rejection of expert testimony is 
+
+the exception rather than the rule.”  Lipitor (Atorvastatin Calcium) Mktg. v. Pfizer, Inc., 892 F.3d 
+624, 631 (4th Cir. 2018) (quoting United States v. Stanley, 533 F. App’x 325, 327 (4th Cir. 2013)). 
+   Although Rule 702 allows for a liberal introduction of expert evidence, “courts must 
+recognize that due to the difficulty of evaluating their testimony, expert witnesses have the 
+potential to ‘be both powerful and quite misleading.’”  Westberry v. Gislaved Gummi AB, 178 
+F.3d 257, 261 (4th Cir. 1999) (quoting Daubert, 509 U.S. at 595).  In Daubert v. Merrell Dow 
+
+Pharmaceuticals, Inc., 509 U.S. 579 (1993), the United States Supreme Court set forth several 
+factors for courts to consider in assessing the admissibility of expert testimony: (1) whether 
+the particular scientific theory has been or can be tested; (2) whether the theory has been 
+subjected to peer review and publication; (3) the known or potential rate of error; (4) whether 
+there are standards controlling the method; and (5) whether the technique has gained general 
+acceptance in the relevant scientific community.  Id. at 593–94; see Belville v. Ford Motor Co., 919 
+
+F.3d 224, 233 (4th Cir. 2019).  The Daubert factors are “neither definitive, nor exhaustive.”  
+Cooper, 259 F.3d at 199 (citing Kumho Tire Co., 526 U.S. at 150).  Rather, “[t]he district court 
+must be granted ‘considerable leeway in  deciding in a particular case how to go about 
+determining whether particular expert testimony is reliable.’”  United States v. McLean, 695 F. 
+
+App’x 681, 684 (4th Cir. 2017) (quoting United States v. Wilson, 484 F.3d 267, 273 (4th Cir. 
+2007)).                                                                   
+                          ANALYSIS                                      
+I.   Defendants’ Motion to Exclude the Opinions and Testimony of Plaintiffs’ 
+     Proposed Expert Mark A. Cohen (ECF No. 314)                        
+   Plaintiffs proffer Mark A. Cohen as an experiential expert on the retail apparel business.  
+Cohen has “over three decades” of experience in the apparel industry, including as Chairman 
+and Chief Executive Officer (“CEO”) of three different companies.  (ECF No. 303-22 
+*SEALED* at 51–54.)  He currently is on Columbia University Business School’s faculty as 
+Director of Retail Studies and an Adjunct Professor of Retailing.  (Id.)  Cohen submitted one 
+
+report dated April 3, 2023 (ECF No. 303-22 *SEALED*) and a reply report responding to 
+Under  Armour’s  retail  expert  Laurie  Wilson  dated  June 30, 2023  (ECF  No.  303-23 
+*SEALED*).                                                                
+   Defendants have moved to exclude Cohen’s opinions and testimony entirely for failure 
+to meet the admissibility requirements of Rule 702 and Daubert.  (ECF No. 314.)  First, 
+Defendants complain that Cohen offers his own interpretation of selective facts, unsupported 
+
+by any meaningful expert analysis.  (Id. at 4–7.)  This challenge, however, does not go to the 
+reliability of Cohen’s expert testimony.  Cohen is offered as an experiential expert, who may 
+testify on the basis of either “experience alone” or “experience in conjunction with other 
+knowledge, skill, training or education.”  United States v. Wilson, 484 F.3d 267, 274 (4th Cir. 
+2007) (quoting Fed. R. Evid. 702 advisory committee’s notes on 2000 amendments).  Such 
+testimony  satisfies  the  reliability  requirement  where  the  expert  can  “explain  how  [his] 
+experience leads to the conclusion reached, why [his] experience is a sufficient basis for the 
+
+opinion, and how [his] experience is reliably applied to the facts.”  Id. (quoting Fed. R. Evid. 
+702 advisory committee’s notes on 2000 amendments).  Applying this standard, this Court 
+finds that Cohen has sufficiently explained how his experience in the retail apparel industry 
+informed his testimony in this case.  With respect to Defendants’ challenge to Cohen’s 
+testimony as “his own interpretation of selective facts,” Defendants are free to explore this 
+issue on cross-examination.  With respect to Defendants’ argument that Cohen’s testimony is 
+
+unsupported by any meaningful expert analysis, this Court is satisfied that Cohen performed 
+extensive analysis to prepare his reports.  (ECF No. 303-22 *SEALED* at 39–50; 303-23 
+*SEALED* at 38–39; 303-6 *SEALED*.)                                       
+   Second, Defendants argue that his opinions are “flawed” and “unreliable,” improperly 
+speculating about Defendants’ state of mind (ECF No. 314 at 8–11), witness credibility (id. at 
+11), Defendants’ sales practices (id. at 12–14), and areas outside of his area of expertise—
+
+specifically, disclosures (id. at 14–16).  Defendants’ arguments seeking to exclude Cohen on 
+the bases that he improperly speculates as to witness credibility, Under Armour’s sales 
+practices, and disclosures mischaracterize Cohen’s proffered testimony.  With respect to 
+Defendants’  argument  seeking  to  exclude  Cohen’s  testimony  and  opinions  because  he 
+improperly speculates about Defendants’ state of mind and intentions, this Court emphasizes 
+that care must be taken during trial to avoid crossing boundaries that would amount to 
+
+impermissible legal conclusions or opinions about Defendants’ state of mind or intentions.  
+With that reservation, Defendants’ Motion to Exclude  the Opinions and Testimony of 
+Plaintiffs’ Proposed Expert Mark A. Cohen (ECF No. 314) is DENIED.        
+II.  Plaintiffs’ Motion to Exclude the Opinions and Testimony of Defendant 
+     Under Armour, Inc.’s Proposed Expert Laurie Wilson (ECF No. 314)   
+   Defendant Under Armour proffers Laurie Wilson as a rebuttal expert to Cohen.  
+Wilson has over three decades of professional experience leading strategy and planning at large 
+retailers, and currently serves as Chief Supply Chain Officer and Head of Planning, Allocation, 
+
+and Pricing at JCPenney.  (ECF No. 310-1 *SEALED* at 5–7.)  Wilson submitted one report 
+dated May 15, 2023 (ECF No. 310-1 *SEALED*).                              
+   In  their  written  submissions,  Plaintiffs  move  to  exclude  Wilson’s  testimony  and 
+opinions entirely.  (ECF No. 310 *SEALED* at 4–16.)  At oral argument, Plaintiffs clarified 
+that they do not seek to exclude Wilson’s testimony entirely, limiting their challenge to 
+Wilson’s general opinions regarding pull forward practices.  Specifically, Plaintiffs take issue 
+
+with  paragraphs  90–96  of  Wilson’s  report,  wherein  she  offers  “an  illustrative,  but  not 
+exhaustive, list of why a manufacturer-requested pull forward may occur.”  (ECF No. 310-1 
+*SEALED* ¶¶ 90–96.)  While Plaintiffs argue that such opinions are irrelevant and do not 
+satisfy Daubert or Rule 702, this Court is unpersuaded that exclusion of Wilson’s opinions on 
+pull forwards is necessary or appropriate.  As such, Plaintiffs’ Motion to Exclude the Opinions 
+and Testimony of Defendant Under Armour, Inc.’s Proposed Expert Laurie Wilson (ECF No. 
+
+314) is DENIED.                                                           
+III.  Defendants’ Motion to Exclude the Opinions and Testimony of Plaintiffs’ 
+     Proposed Expert Professor M. Todd Henderson (ECF No. 309)          
+   Plaintiffs proffer M. Todd Henderson, the Michael J. Marks Professor of Law at the 
+University of Chicago Law School, (ECF No. 303-25 *SEALED* at 2–3), as an expert 
+concerning Plank’s trading of Under Armour stock and Plank’s Rule 10b5-1 trading plan.4  
+Henderson  submitted  two  reports:  one  report  dated  April 3, 2023  (ECF  No.  303-25 
+
+*SEALED*); and a reply report to Plank’s proposed rebuttal expert Wayne Guay (ECF No. 
+303-26 *SEALED*).                                                         
+   In their written submissions, Defendants moved to exclude Henderson’s testimony 
+and opinions entirely.  (ECF No. 309 at 9–19.)  At oral argument, Defendants clarified that 
+they do not  seek  to exclude  Henderson’s testimony entirely,  limiting their  challenge to 
+Henderson’s opinion on Mr. Plank’s intent, motives, and state of mind, (ECF No. 309-1 at 9–
+
+11; ECF No. 349 at 7–9); Henderson’s “‘hallmarks’ for a legitimate 10b5-1 plan,” (ECF No. 
+309-1 at 11–17; ECF No. 349 at 9–12); Henderson’s “available-to-sell” metric, (ECF No. 
+309-1 at 17–19; ECF No. 349 at 13–14); and Henderson’s opinion that 10b5-1 plans are often 
+abused.                                                                   
+   With respect to Henderson’s “available-to-sell” metric, Plaintiffs clarified on the record 
+that Henderson does not intend to use this metric to compare Plank’s sales to other CEOs’ 
+
+sales.  Rather, Henderson only intends to use this metric to compare Plank to himself.  
+Defendants concede that Henderson’s “available-to-sell” metric—limited to this context—is 
+appropriate.5  As such, this Court need not address this issue further.   
+   With respect to Henderson’s hallmarks for a legitimate 10b5-1 plan, Defendants 
+
+4  Under Rule 10b5-1, corporate insiders, such as Plank, can set up trading plans to sell company shares at 
+predetermined times and amounts to avoid accusations of illegal insider trading.  See 17 C.F.R. § 240.10b5-1(c) 
+(stating that it is an affirmative defense in insider trading cases that the defendant’s purchases or sales were 
+made pursuant to a “written plan for trading securities”).                
+5  Defendants’ concern was that Henderson would use this “available-to-sell” metric to compare Plank’s sales 
+to the sales of other CEOs using CEOs’ total shareholdings.               
+concede that Henderson’s hallmarks have been used for background in other cases, see, e.g., In 
+re Twitter, Inc. Sec. Litig., No. 16-cv-05314-JST, 2020 U.S. Dist. LEXIS 252718, at *20–23 (N.D. 
+Cal. Apr. 20, 2020); Smilovits v. First Solar, Inc., No. CV12-0555-PHX-DGC, 2019 U.S. Dist. 
+
+LEXIS 221424, at *9–17 (D. Ariz. Dec. 27, 2019); In re Novatel Wireless Sec. Litig., No. 08cv1689 
+AJB (RBB), 2012 U.S. Dist. LEXIS 160555, at *7–14 (S.D. Cal. Nov. 8, 2012), but dispute 
+Henderson’s application of the hallmarks to the trading activity at issue in this case, contending 
+that other courts have not allowed Henderson to go that far.  While Henderson was not able 
+to discuss the trading activity at issue in the Twitter case, it does not appear that Smilovits and 
+Novatel were so limiting.  To be sure, Professor Henderson will not be permitted to offer his 
+
+legal opinions or conclusions as part of his testimony, and Defendants may object at trial if 
+they believe Henderson crosses the line into such opinions.  The same is true with respect to 
+any potential testimony and opinions about Plank’s intent, motives, and state of mind.  Lastly, 
+to the extent that Henderson intends to opine that 10b5-1 plans are often abused, Henderson 
+is precluded from offering this opinion at trial.  With those reservations, the Defendants’ 
+Motion to Exclude the Opinions and Testimony of Plaintiffs’ Proposed Expert Professor M. 
+
+Todd Henderson (ECF No. 309) is DENIED.                                   
+IV.  Plaintiffs’ Motion to Exclude Certain Testimony and Opinions of Defendant 
+     Kevin A. Plank’s Proposed Expert Wayne Guay (ECF No. 305)          
+   Defendant Plank proffers Wayne Guay, a faculty member of the Wharton School of 
+Business at the University of Pennsylvania for over 25 years, (ECF No. 306-1 *SEALED* at 
+4), as a rebuttal expert to Henderson (“Henderson”).  Guay submitted one report dated 
+May 15, 2023 (ECF No. 306-1 *SEALED*).                                    
+   Plaintiffs move to exclude two paragraphs contained in Guay’s report—paragraphs 72 
+and 80.  (ECF No. 305.)  In brief, Plaintiffs complain that Guay purports to set forth “the 
+three key SEC requirements of 10b5-1 plans,” but he ignores the “good faith” requirement 
+set forth in Rule 10b5-1(c)(ii), warranting exclusion under Fed. R. Evid. 702.  (ECF No. 306 
+
+*SEALED* at 3–5.)  This Court is unpersuaded.  Simply stated, there is nothing in the two 
+challenged paragraphs which is “patently incorrect,” and Guay does not deny the existence of 
+a “good faith” requirement under Rule 10b5-1.  As such, there is no reason to exclude either 
+challenged paragraph and Plaintiffs’ Motion to Exclude Certain Testimony and Opinions of 
+Defendant Kevin A. Plank’s Proposed Expert Wayne Guay (ECF No. 305) is DENIED. 
+V.   Defendants’  Motion  to  Exclude  Certain  Opinions  and  Testimony  of 
+     Plaintiffs’ Proposed Expert D. Paul Regan (ECF No. 311)            
+   Plaintiffs proffer D. Paul Regan, a CPA with over 50 years of accounting and auditing 
+experience,  (ECF  No.  303-28  *SEALED*  at  9),  as  an  expert  on  disclosure  rules  and 
+regulations  issued  by  the  U.S.  Securities  and  Exchange  Commission  (“SEC”)  and  U.S. 
+
+Generally Accepted Accounting Principles (“GAAP”).  Regan submitted an expert report 
+dated April 3, 2023 (ECF No. 303-28 *SEALED*) and a reply report responding to Under 
+Armour’s accounting expert Michael  F. Maloney  dated June 30, 2023 (ECF  No. 303-29 
+*SEALED*).                                                                
+   According to Defendants, several of Regan’s opinions are inadmissible, including his 
+opinions on pull forwards (ECF No. 313 *SEALED* at 4–11) and “tone at the top” (id. at 
+
+11–13.)  Defendants further argue that Regan’s “legal opinions regarding Under Armour’s 
+purported obligations under the terms of its arrangement with Quetico” should be excluded 
+as Regan—a non-attorney—is unqualified to offer such an opinion.  (Id. at 13–14.)  Lastly, 
+Defendants contend that Regan should not be permitted to testify about “unsubstantiated” 
+allegations of GAAP violations.  (Id. at 14–15.)  During oral argument, Plaintiffs confirmed 
+Regan’s Item 303 materiality opinions and the “unsubstantiated” allegations of GAAP will be 
+excluded.  Thus, this Court need not address these arguments further.     
+
+   This Court is unpersuaded that Regan’s pull forward quantifications are unreliable and 
+invade the province of the jury, and further unpersuaded that Regan has offered legal opinions 
+on the Quetico deal.  Considering Regan’s “tone at the top” opinion, this Court agrees that 
+this opinion invades the authority of the trier of fact to determine for itself the plain meanings 
+of the evidence presented at trial.  As such, Regan is precluded from testifying as to the “tone 
+at the top.”  With that reservation, the Defendants’ Motion to Exclude the Opinions and 
+
+Testimony of Plaintiffs’ Proposed Expert D. Paul Regan (ECF No. 311) is DENIED. 
+VI.  Defendants’ Motion to Exclude the Opinions and Testimony of Plaintiffs’ 
+     Proposed Expert Matthew D. Cain, Ph.D. (ECF No. 316)               
+   Plaintiffs proffer Dr. Matthew Cain, Ph.D. as their market efficiency, materiality, loss 
+causation, and damages expert.  Cain is a Senior Fellow at the Berkeley Center for Law and 
+Business where he teaches courses and conducts research related to finance, economics, 
+accounting, law, and business.  (ECF No. 303-19 *SEALED* at 7.)  Cain submitted two 
+reports relevant to the instant motion—one report dated April 3, 2023 (ECF Nos. 303-19 
+*SEALED*, 303-20 *SEALED*); and a reply report to Defendant Under Armour’s rebuttal 
+expert Paul A. Gompers dated June 30, 2023 (ECF No. 303-21 *SEALED*).     
+
+   According to Defendants, several of Cain’s opinions are inadmissible, including: (1) his 
+opinions related to loss causation, (ECF No. 316-1 at 5–10); (2) Cain’s inflation estimates and 
+damages, (id. at 10–14); and (3) his opinions related to economic materiality, (id. at 14–16).   
+   This Court first considers the admissibility of Cain’s opinions related to loss causation.  
+To study and opine on the stock price movements for Under Armour over the Class Period 
+and on relevant days, Cain performed an event study.  (ECF No. 303-19 *SEALED* ¶¶ 40–
+113.)  It is well-established that event studies are a common method of establishing loss 
+
+causation:                                                                
+   The tool most often used by experts to isolate the economic losses caused by 
+   the alleged fraud is the “event study.”  An event study is a statistical regression 
+   analysis that examines the effect of an event on a dependent variable, such as a 
+   corporation’s stock price.  For securities-fraud purposes, the “event” analyzed 
+   is the disclosure of the alleged fraud to the market.                
+See In re Apollo Grp. Inc. Sec. Litig., 509 F. Supp. 2d 837, 844 (D. Ariz. 2007) (internal citations 
+omitted); see also City of Cape Coral Mun. Firefighters’ Ret. Plan v. Emergent Biosolutions, Inc., 322 F. 
+Supp. 3d 676, 688 (D. Md. 2018); SEC v. Jacoby, No. CCB-17-3230, 2022 U.S. Dist. LEXIS 
+59959, at *5–6 (D. Md. Mar. 30, 2022); Smilovits, 2019 U.S. Dist. LEXIS 221424, at *19; City of 
+Ann Arbor Emps.’ Ret. Sys. v. Sonoco Prods. Co., 827 F. Supp. 2d 559, 571 (D.S.C. 2011).  Cain’s 
+event study identifies statistically significant movements in Under Armour’s stock price; 
+identifies the Under Armour-specific news that caused Under Armour’s stock price to change; 
+quantifies the amount of the daily stock price movement in Under Armour’s stock price caused 
+by the Under Armour-specific news by controlling for general market and industry factors; 
+and analyzes the news that caused the stock price movements to determine whether, and if so, 
+how it related to the alleged fraudulent misstatements and omissions.  (ECF No. 303-19 
+*SEALED* ¶¶ 40–113.)                                                      
+   Defendants do not challenge Cain’s event study; rather, Defendants contend that 
+Cain’s opinions on loss causation are unreliable because he failed to “conduct[] . . . analysis to 
+
+establish the necessary predicate of his conclusions regarding foreseeability—i.e.., what was 
+the  specific  information  that  should  have  been  disclosed  earlier  and  how  would  that 
+information have impacted the ‘timing, level, and risk of expected future cash flows’ at 
+different points in the Class Period.”  (ECF No. 316-1 at 7.)  While Defendants critique Cain’s 
+
+opinions as “rest[ing] on the flawed opinion that the specific dollar amount of investor losses 
+was foreseeable at the start of the Class Period,”6 Defendants have not provided a basis for 
+excluding Cain’s opinions on loss causation.  Cain is well-qualified and applies a generally 
+accepted methodology for determining loss causation.  Such procedural critiques of Cain’s 
+methodology—which, to be clear, do not concern reliability—are more appropriately explored 
+during cross-examination.                                                 
+
+   Briefly  considering  Defendants’  argument  that  Cain  relies  on  unsupported 
+assumptions, suggesting “the assumptions [he] ascribes to Plaintiffs are neither present in the 
+[Third Amended Complaint] nor consistent with Plaintiffs’ theory of the case,” (ECF No. 
+316-1 at 8–10), “the Court must look to Plaintiffs, not Defendants, for the nature of their 
+liability case.”  Smilovits, 2019 U.S. Dist. LEXIS 221424, at *30.  Plaintiffs claim they can prove 
+their case and support Cain’s opinion that the full amount of the fraud-related inflation was in 
+
+the stock from the start of the Class Period.  As such, the jury must assess the validity of Cain’s 
+conclusions.                                                              
+   Turning to Cain’s inflation estimates and damages, Defendants contend that Cain “fails 
+to reliably apply the constant dollar method because he offers no reliable basis for his opinion 
+that the allegedly concealed information had the same value to investors as the corrective 
+
+
+6  This Court finds it prudent to note that Cain merely opines that if Plaintiff proves their fraud allegations, then 
+it was foreseeable at the time of the alleged misstatements that when the relevant truth became known through 
+partial disclosures, the market values of Under Armour’s stock would fall.  (See ECF No. 303-19 ¶¶ 44–45.) 
+disclosures and remained constant throughout the Class Period . . . assum[ing] that the ‘nature 
+of the misrepresented and/or omitted information did not change during the Class Period’ 
+insofar as ‘Plaintiffs expect to prove that Defendants knew, or recklessly disregarded, that both 
+
+prior to and during the Class Period Under Armour’s customer demand was declining and 
+revenue  growth  deteriorating.’”    (ECF  No.  316-1  at  11–12  (quoting  ECF  No.  303-19 
+*SEALED* ¶ 116).)  According to Defendants, Cain was required to assess “whether the 
+magnitude of the alleged decline in demand that was allegedly known at the beginning of the 
+Class Period was the same as the magnitude of the alleged decline in demand that was 
+ultimately revealed on the alleged corrective disclosure dates,” and because he did not, his 
+
+assumption that the nature of the misrepresented and/or omitted information did not change 
+during the Class Period is unreasonable and unsupported.  (Id. at 12.)    
+   To evaluate the level of artificial inflation in the stock price attributable to the fraud on 
+each day of the Class Period, Cain applied the “constant dollar” method.  (ECF No. 303-19 
+*SEALED* ¶ 115.)  According to Cain, this method is “commonly relied upon” and “used by 
+a wide variety of experts in matters such as this, and in [his] experience, is often advocated by 
+
+defense experts.”  (Id. (citing Jeff G. Hammel & B. John Casey, Sizing Securities Fraud Damages: 
+“Constant Percentage” on Way Out?, NEW YORK L.J. (2009))); see also Baker v. SeaWorld Ent., Inc., 
+423  F.  Supp.  3d  878,  908  (S.D.  Cal.  2019).    This  method  is  calculated  by  working 
+chronologically backward from the disclosures of the relevant truth and cumulating the 
+artificial inflation in the stock price on each day.  (ECF No. 303-19 *SEALED* ¶¶ 114–126.)   
+   At bottom, this Court is satisfied that Cain’s constant dollar  inflation method is 
+
+sufficiently reliable.  As Defendants concede, (ECF No. 356 at 2), courts commonly accept 
+the constant dollar inflation method.  See, e.g., Baker, 423 F. Supp. 3d at 908 (“[T]he constant 
+dollar inflation method is commonly used to calculate 10b-5 damages.”).  And, as in Baker, 
+because “the jury is ultimately responsible for deciding whether [constant dollar inflation], or 
+
+another calculation, is a reasonable measurement of damages,” Cain’s “decision to use the 
+[constant dollar inflation] method in this case is sufficiently reliable for purposes of Daubert.”  
+Id.  To the extent that Defendants contend that there is evidence in the record to show that 
+the  magnitude  of  the  fraud  fluctuated  throughout  the  Class  Period,  the  remedy  is  not 
+exclusion, but “[v]igorous cross-examination, presentation of contrary evidence, and careful 
+instruction on the burden of proof.”  Daubert, 509 U.S. at 596.           
+
+   Lastly, Defendants argue that Cain’s opinions on economic materiality should be 
+excluded because it usurps the role of the judge and the jury and will confuse and mislead the 
+jury.  (ECF No. 316-1 at 14–16.)  Plaintiffs note that it is permissible for experts to opine “on 
+the concept of materiality in the field of economics,” as Cain does here.  (ECF No. 332 
+*SEALED* at 21–22 (citing Baker v. SeaWorld, Ent., Inc., 423 F. Supp. 3d 878, 898–99 (S.D. 
+Cal. 2019)).)  Plaintiffs ask that if the Court finds that the phrase “economic materiality” risks 
+
+confusion, the Court should simply instruct Cain to describe his opinion as “economic 
+importance.”  (Id.)  While this Court sees no reason to exclude Cain’s opinions on economic 
+materiality, this Court agrees that, to avoid confusion, Cain should describe his opinions as 
+relating  to  economic  “importance”  as  opposed  to  economic  “materiality.”    With  that 
+reservation, the Defendants’ Motion to Exclude the Opinions and Testimony of Plaintiffs’ 
+Proposed Expert Matthew D. Cain, Ph.D. (ECF No. 316) is DENIED.           
+VII.  Plaintiffs’ Motion to Exclude Certain Opinions and Testimony of Defendant 
+     Under Armour, Inc.’s Proposed Expert Paul A. Gompers (ECF No. 302) 
+   Defendant Under Armour proffers Paul A. Gompers, the Eugene Holman Professor 
+of Business Administration at Harvard Business School, as rebuttal expert to Cain.  Gompers 
+submitted one report dated May 15, 2023 (ECF No. 304-1 *SEALED*).         
+   Plaintiffs move to exclude two paragraphs contained in Gompers’ report—paragraphs 
+8 and 46.  (ECF No. 305.)  In brief, Plaintiffs complain that Gompers’ report “contains 
+
+inaccurate statements of law with respect to loss causation[,] set[ting] forth a standard for loss 
+causation that conflicts with the standard articulated in controlling Fourth Circuit precedent.”  
+(ECF No. 304 *SEALED* at 2 (citing ECF No. 304-1 *SEALED* ¶¶ 8, 46)).  “Because 
+Gompers’s opinion, by introducing an incorrect loss causation standard, would (i) usurp the 
+role of the Court and fail to help the jury, and (ii) mislead the jury, confuse the issues, and 
+unfairly prejudice Plaintiffs—without any countervailing probative value—the Court should 
+
+exclude ¶¶ 8 and 46 of the Gompers [r]eport and order [Defendants] not to elicit similar 
+testimony from Gompers at trial.”  (Id. at 2.)                            
+   Considering whether  Gompers sets forth an incorrect legal standard,  to prove a 
+violation of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, Plaintiffs must 
+establish: (1) a material misrepresentation (or omission); (2) scienter (i.e., a wrongful state of 
+mind; (3) a connection with the purchase or sale of a security; (4) reliance, often referred to in 
+
+cases  involving  public  securities  markets  (fraud-on-the-market  cases)  as  “transaction 
+causation;” (5) economic loss; and (6) loss causation (i.e., a causal connection between the 
+material misrepresentation and the loss).  Dura Pharms., Inc. v. Broudo, 544 U.S. 336, 341–42 
+(2005) (internal citations omitted).  The parties’ dispute over paragraphs 8 and 46 of the 
+Gompers’ Report (ECF No. 304-1 *SEALED*) involves the sixth element, loss causation.  
+   According to Plaintiffs, Gompers’ Report is inconsistent with the Fourth Circuit’s loss 
+causation standard.7  According to Defendants, the Gompers’ challenged opinions relate to 
+
+damages, not liability.                                                   
+   As the Fourth Circuit explained in Singer v. Reali, 883 F.3d 425 (4th Cir. 2018),  
+   [T]he ultimate loss causation inquiry  under  either the corrective disclosure 
+   theory or the materialization of a concealed risk theory is the same: whether a 
+   “misstatement or omission concealed something from the market that, when 
+   disclosed, negatively affected the value of the security.”  That is, pursuant to 
+   each theory, the plaintiff must show “that the loss caused by the alleged fraud 
+   results from the ‘relevant truth . . . leak[ing] out.’”              
+Id. at 446 (quoting In re Vivendi, S.A. Sec. Litig., 838 F.3d 223, 261–62 (2d Cir. 2016)).  “[T]o 
+establish 10b-5 liability, a plaintiff need only prove that defendant’s misrepresentation was a 
+substantial cause of the loss by showing ‘[a] direct or proximate relationship between the loss 
+and the misrepresentation.’ ”  Miller v. Asensio & Co., 364 F.3d 223, 232 (4th Cir. 2004) (quoting 
+Gasner v. Bd. of Supervisors, 103 F.3d 351, 360 (4th Cir. 1996)).  “On the other hand, recovering 
+out-of-pocket damages based on the market price of a security . . . ‘require[s] elimination of 
+that portion of the price decline that is the result of forces unrelated to the wrong,’ so as to 
+limit recovery to ‘actual damages on account of the act complained of.’”  Id. (quoting In re 
+Exec. Telecard, Ltd. Sec. Litig., 979 F. Supp. 1021, 1025 (S.D.N.Y. 1997); 15 U.S.C. § 78bb(a)).  
+   Plaintiffs’ arguments mischaracterize Gompers’ opinions as relating to establishing the 
+
+7  Plaintiffs are mainly concerned with that Gompers “sets forth his own purported standard for establishing 
+loss  causation  that  would  incorrectly  burden  Plaintiffs  with  identifying  some  ‘but-for  disclosure’  that 
+Defendants should have made to investors during the class period.  (ECF No. 304 *SEALED* at 4.)  Plaintiffs 
+criticize paragraphs 8 and 46 as “seek[ing] not only to set forth a legal standard for loss causation, but also to 
+narrowly prescribe what a plaintiff must do to meet that standard[,] . . . [which] is inconsistent with the Fourth 
+Circuit’s approach to loss causation.”  (Id. at 4–5.)                     
+legal element of loss causation.  According to Gompers, he has not opined, and does not 
+intend to opine at trial, that identification of but-for disclosures is a necessary component for 
+establishing the loss causation element of a Rule 10b-5 claim.  (ECF No. 331-1 at 16–17, 19–
+
+20.)  Because paragraphs 8 and 46 are appropriately limited to the issue of assessing damages, 
+Gompers’ opinions do not conflict with Fourth Circuit law.  Accordingly, Plaintiffs’ Motion 
+to Exclude Certain Testimony and Opinions of Defendant Under Armour, Inc.’s Proposed 
+Expert Paul A. Gompers (ECF No. 302) is DENIED.                           
+                        CONCLUSION                                      
+   For the reasons stated above as well as on the record at this Court’s April 9, 2024 
+hearing, Defendants’ Motion to Exclude the Opinions and Testimony of Professor Mark A. 
+
+Cohen  (ECF  No.  314)  is  DENIED;  Plaintiffs’  Motion  to  Exclude  the  Testimony  and 
+Opinions of Defendant Under Armour, Inc.’s Proposed Expert Laurie Wilson (ECF No. 308) 
+is DENIED; Defendants’ Motion to Exclude the Opinions and Testimony of Professor M. 
+Todd  Henderson  (ECF  No.  309)  is  DENIED;  Plaintiffs’  Motion  to  Exclude  Certain 
+Testimony and Opinions of Defendant Kevin A. Plank’s Proposed Expert Wayne Guay (ECF 
+No. 305) is DENIED; Defendants’ Motion to Exclude Certain Opinions and Testimony of 
+
+D. Paul Regan (ECF No. 311) is DENIED; Defendants’ Motion to Exclude the Opinions and 
+Testimony of Matthew D. Cain, Ph.D. (ECF No. 316) is DENIED; and Plaintiffs’ Motion to 
+Exclude Certain Testimony and Opinions of Defendant Under Armour, Inc.’s Proposed 
+Expert Paul A. Gompers (ECF No. 302) is DENIED.  A separate Order follows.  
+
+Dated: April 16, 2024                                                     
+                                        /s/                             
+                                      Richard D. Bennett                
+                                      United States Senior District Judge

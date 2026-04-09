@@ -1,0 +1,23 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Lorenzo v. SEC",
+  "cluster_id": 4604048,
+  "case_name_cl": "Lorenzo v. SEC. & Exch. Comm'n",
+  "date_filed": "2019-03-27",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "587 U.S. 71",
+    "139 S. Ct. 1094",
+    "203 L. Ed. 2d 484",
+    "2019 U.S. LEXIS 2295"
+  ],
+  "docket_number": "17-1077",
+  "docket_id": 14808987,
+  "judges": "Stephen Breyer",
+  "num_opinions": 1,
+  "num_cited_by": 0,
+  "absolute_url": "/opinion/4604048/lorenzo-v-sec-exch-commn/",
+  "legal_principle": "scheme liability for disseminating falsehoods",
+  "year": 2019
+}

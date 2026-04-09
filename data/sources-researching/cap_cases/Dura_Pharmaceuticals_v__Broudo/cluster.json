@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/142888/",
+  "id": 142888,
+  "absolute_url": "/opinion/142888/dura-pharmaceuticals-inc-v-broudo/",
+  "panel": [],
+  "non_participating_judges": [],
+  "docket_id": 214725,
+  "docket": "https://www.courtlistener.com/api/rest/v4/dockets/214725/",
+  "sub_opinions": [
+    "https://www.courtlistener.com/api/rest/v4/opinions/142888/"
+  ],
+  "citations": [
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "544",
+      "reporter": "U.S.",
+      "page": "336",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "125",
+      "reporter": "S. Ct.",
+      "page": "1627",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "161",
+      "reporter": "L. Ed. 2d",
+      "page": "577",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "2005",
+      "reporter": "U.S. LEXIS",
+      "page": "3478",
+      "type": 6
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "73",
+      "reporter": "U.S.L.W.",
+      "page": "4283",
+      "type": 4
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "18",
+      "reporter": "Fla. L. Weekly Fed. S",
+      "page": "233",
+      "type": 1
+    }
+  ],
+  "cluster_redirections": [],
+  "date_created": "2016-01-15T13:26:37.594485-08:00",
+  "date_modified": "2024-11-15T11:57:56.308976-08:00",
+  "judges": "Breyer, Breyek",
+  "date_filed": "2005-04-19",
+  "date_filed_is_approximate": false,
+  "slug": "dura-pharmaceuticals-inc-v-broudo",
+  "case_name_short": "Broudo",
+  "case_name": "Dura Pharmaceuticals, Inc. v. Broudo",
+  "case_name_full": "DURA PHARMACEUTICALS, INC., Et Al. v. BROUDO Et Al.",
+  "scdb_id": "2004-040",
+  "scdb_decision_direction": 1,
+  "scdb_votes_majority": 9,
+  "scdb_votes_minority": 0,
+  "source": "LRU",
+  "procedural_history": "",
+  "attorneys": "William F. Sullivan argued the cause for petitioners. With him on the briefs were Christopher H. McGrath and Tracey L. DeLange., Deputy Solicitor General Hungar argued the cause for the United States as amicus curiae urging reversal. With him on the brief were Acting Solicitor General Clement, Dan Himmelfarb, Jacob H. Stillman, Eric Summergrad, and Allan A. Capute., Patrick J. Coughlin argued the cause for respondents. With him on the brief were Sanford Svetcov, Eric Alan Isaacson, Joseph D. Daley, Alan Schulman, Myron Mosko-vitz, Daniel S. Sommers, and Paul R. Hoeber.*",
+  "nature_of_suit": "",
+  "posture": "",
+  "syllabus": "",
+  "headnotes": "",
+  "summary": "",
+  "disposition": "",
+  "history": "",
+  "other_dates": "Argued January 12, 2005",
+  "cross_reference": "",
+  "correction": "",
+  "citation_count": 2216,
+  "precedential_status": "Published",
+  "date_blocked": null,
+  "blocked": false,
+  "filepath_json_harvard": "law.free.cap.us.544/336.5891157.json",
+  "filepath_pdf_harvard": "harvard_pdf/142888.pdf",
+  "filepath_xml_scan": null,
+  "filepath_pdf_scan": null,
+  "arguments": "",
+  "headmatter": "<parties id=\"b432-3\">\n    DURA PHARMACEUTICALS, INC., et al.\n    <em>\n     v.\n    </em>\n    BROUDO et al.\n   </parties><br><docketnumber id=\"b432-6\">\n    No. 03-932.\n   </docketnumber><otherdate id=\"A7vg\">\n    Argued January 12, 2005\n   </otherdate><decisiondate id=\"Ad4\">\n    Decided April 19, 2005\n   </decisiondate><br><judges id=\"b433-7\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"337\"> \n     *337\n     </span>\n    Breyek, J., delivered the opinion for a unanimous Court.\n   </judges><br><attorneys id=\"b433-8\">\n<em>\n     William F. Sullivan\n    </em>\n    argued the cause for petitioners. With him on the briefs were\n    <em>\n     Christopher H. McGrath\n    </em>\n    and\n    <em>\n     Tracey L. DeLange.\n    </em>\n</attorneys><br><attorneys id=\"b433-9\">\n<em>\n     Deputy Solicitor General Hungar\n    </em>\n    argued the cause for the United States as\n    <em>\n     amicus curiae\n    </em>\n    urging reversal. With him on the brief were\n    <em>\n     Acting Solicitor General Clement, Dan Himmelfarb, Jacob H. Stillman, Eric Summergrad,\n    </em>\n    and\n    <em>\n     Allan A. Capute.\n    </em>\n</attorneys><br><attorneys id=\"b434-3\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"338\"> \n     *338\n     </span>\n<em>\n     Patrick J. Coughlin\n    </em>\n    argued the cause for respondents. With him on the brief were\n    <em>\n     Sanford Svetcov, Eric Alan Isaacson, Joseph D. Daley, Alan Schulman, Myron Mosko-vitz, Daniel S. Sommers,\n    </em>\n    and\n    <em>\n     Paul R. Hoeber.\n    </em>\n<a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n<em>\n      *\n     </em>\n</a>\n</attorneys><div class=\"footnotes\"><div class=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b434-6\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging reversal were filed for the American Institute of Certified Public Accountants by\n     <em>\n      Lawrence S. Robbins, Kathryn S. Zecca,\n     </em>\n     and\n     <em>\n      Richard I. Miller;\n     </em>\n     for Broadcom Corp. by\n     <em>\n      Kenneth R. Heitz, David Siegel,\n     </em>\n     and\n     <em>\n      Richard H. Zelichov;\n     </em>\n     for the Chamber of Commerce of the United States by\n     <em>\n      Neil M. Gorsuch\n     </em>\n     and\n     <em>\n      Robin S. Conrad;\n     </em>\n     for Merrill Lynch &amp; Co., Inc., by\n     <em>\n      Stephen M. Shapiro, Timothy S. Bishop, Andrew L. Frey,\n     </em>\n     and\n     <em>\n      Kenneth S. Geller;\n     </em>\n     for the Securities Industry Association et al. by\n     <em>\n      Carter G. Phillips, Richard D. Bernstein,\n     </em>\n     and\n     <em>\n      Jacqueline G. Cooper;\n     </em>\n     for Technology Network by\n     <em>\n      John R. Reese\n     </em>\n     and\n     <em>\n      Dale E. Barnes, Jr.;\n     </em>\n     and for the Washington Legal Foundation by\n     <em>\n      Michael L. Kichline, David A. Kotler, Daniel J. Popeo,\n     </em>\n     and\n     <em>\n      Paul D. Kamenar.\n     </em>\n</p>\n<p id=\"b434-7\">\n     Briefs of\n     <em>\n      amici curiae\n     </em>\n     urging affirmance were filed for the New Jersey Dept, of Treasury et al. by\n     <em>\n      Melvyn I. Weiss;\n     </em>\n     for the City of New York Pension Funds et al. by\n     <em>\n      Jay W. Eisenhofer, Geoffrey C. Jarvis, Leonard J. Koerner, Peter H. Mixon, David L. Muir,\n     </em>\n     and\n     <em>\n      Christopher W. Waddell;\n     </em>\n     for the National Association of Shareholder and Consumer Attorneys et al. by\n     <em>\n      Kevin P. Roddy, Deborah M. Zuckerman,\n     </em>\n     and\n     <em>\n      Michael Schuster;\n     </em>\n     for the North American Securities Administrators Association, Inc., by\n     <em>\n      Mark J. Davis;\n     </em>\n     for the Regents of the University of California by\n     <em>\n      James E. Holst\n     </em>\n     and\n     <em>\n      Christopher M. Patti;\n     </em>\n     and for James J. Hayes by\n     <em>\n      Edward M. Selfe.\n     </em>\n</p>\n</div></div>"
+}

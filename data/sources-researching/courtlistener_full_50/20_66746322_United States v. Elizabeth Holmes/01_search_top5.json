@@ -1,0 +1,629 @@
+[
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Merry Jean Chan, Assistant U.S. Attorney",
+      "John D. Cline",
+      "Lance A. Wade, Esquire, Attorney",
+      "Robert Leach, Assistant U.S. Attorney",
+      "Amy Saharia",
+      "Kelly Irene Volkar",
+      "Katherine A. Trefz",
+      "Brian Taylor Goldman",
+      "Kevin Downey, Attorney"
+    ],
+    "attorney_id": [
+      10117250,
+      10117251,
+      8180850,
+      8180852,
+      8180853,
+      8180854,
+      8180855,
+      8180856,
+      8396412
+    ],
+    "caseName": "United States v. Elizabeth Holmes",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "Court of Appeals for the Ninth Circuit",
+    "court_citation_string": "9th Cir.",
+    "court_id": "ca9",
+    "dateArgued": "2024-06-11",
+    "dateFiled": "2022-12-02",
+    "dateTerminated": "2025-02-24",
+    "docketNumber": "22-10312",
+    "docket_absolute_url": "/docket/66746322/united-states-v-elizabeth-holmes/",
+    "docket_id": 66746322,
+    "firm": [
+      "Direct: 510-637-3918, OFFICE OF THE U.S. ATTORNEY",
+      "Direct: 646-837-5129, Holwell Shuster & Goldberg, LLP",
+      "Direct: 646-837-5129, Holwell, Shuster & Goldberg",
+      "Direct: 650-843-5350, Cooley, LLP",
+      "Direct: 202-434-5460, Williams & Connolly, LLP",
+      "Direct: 415-436-7014, DOJ-USAO",
+      "Direct: 408-535-2695, DOJ Office of the U.S. Attorney",
+      "Doj-Usao",
+      "Direct: 408-535-5061, DOJ Office of the U.S. Attorney",
+      "Direct: 202-434-5847, Williams & Connolly, LLP",
+      "Direct: 415-203-6017, DOJ Office of the U.S. Attorney",
+      "Direct: 202-434-5000, Williams & Connolly LLP",
+      "Direct: 360-320-6435, Law Office of John D. Cline",
+      "DOJ Office of the U.S. Attorney",
+      "Direct: 202-434-5038, Williams & Connolly, LLP",
+      "Direct: 415-436-7014, DOJ Office of the U.S."
+    ],
+    "firm_id": [
+      798084,
+      978916,
+      795819,
+      341419,
+      971020,
+      800174,
+      804430,
+      804431,
+      804432,
+      804433,
+      841203,
+      927347,
+      961134,
+      836822,
+      953660,
+      575900,
+      575901
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-02T00:30:15.820605Z",
+      "date_created": "2023-01-20T19:02:34.126484Z",
+      "score": {
+        "bm25": 4395.7095
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "341504",
+    "party": [
+      "UNITED STATES OF AMERICA",
+      "ELIZABETH A. HOLMES",
+      "NATIONAL ASSOCIATION OF CRIMINAL DEFENSE LAWYERS"
+    ],
+    "party_id": [
+      12261825,
+      12261826,
+      12561084
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/66746322/36/1/united-states-v-elizabeth-holmes/",
+        "attachment_number": 1,
+        "cites": [
+          187185,
+          349990,
+          489922,
+          712931,
+          777787,
+          783273,
+          789122
+        ],
+        "description": "Filed (ECF) Appellant Elizabeth A. Holmes Motion for bail pending Appeal. Date of service: 04/25/2023. [12702996] [22-10312] (Saharia, Amy) [Entered: 04/25/2023 09:04 PM]",
+        "docket_entry_id": 295065871,
+        "document_number": 36,
+        "document_type": "Attachment",
+        "entry_date_filed": "2023-04-25",
+        "entry_number": 36,
+        "filepath_local": "recap/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.36.1.pdf",
+        "id": 301291555,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-02-24T17:55:13.504342Z",
+          "date_created": "2023-04-26T19:01:50.999878Z"
+        },
+        "pacer_doc_id": "009033981888",
+        "page_count": 31,
+        "short_description": "APPELLANT ELIZABETH A. HOLMES OPPOSED MOTION FOR RELEASE PENDING APPEAL",
+        "snippet": "     Case: 22-10312, 04/25/2023, ID: 12702996, DktEntry: 36-1, Page 1 of 31\n\n                                REDACTED\n\n                                 No. 22-10312\n\n\n            IN THE UNITED STATES COURT OF APPEALS\n                    FOR THE NINTH CIRCUIT\n\n\n\n                  UNITED STATES OF AMERICA,\n\n                                    Plaintiff-Appellee,\n\n                                       v.\n\n                      ELIZABETH A. HOLMES\n\n                                    Defendant-Appe"
+      },
+      {
+        "absolute_url": "/docket/66746322/37/1/united-states-v-elizabeth-holmes/",
+        "attachment_number": 1,
+        "cites": [
+          187185,
+          349990,
+          489922,
+          712931,
+          777787,
+          783273,
+          789122
+        ],
+        "description": "Filed (ECF) Appellant Elizabeth A. Holmes Motion for bail pending Appeal. Date of service: 04/25/2023. [12702997] [22-10312] (Saharia, Amy) [Entered: 04/25/2023 09:19 PM]",
+        "docket_entry_id": 295065872,
+        "document_number": 37,
+        "document_type": "Attachment",
+        "entry_date_filed": "2023-04-25",
+        "entry_number": 37,
+        "filepath_local": "recap/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.37.1.pdf",
+        "id": 301291556,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-02-24T17:55:13.504342Z",
+          "date_created": "2023-04-26T19:01:51.028555Z"
+        },
+        "pacer_doc_id": "009033981921",
+        "page_count": 31,
+        "short_description": "APPELLANT ELIZABETH A. HOLMES OPPOSED MOTION FOR RELEASE PENDING APPEAL",
+        "snippet": "     Case: 22-10312, 04/25/2023, ID: 12702997, DktEntry: 37-1, Page 1 of 31\n\n                                REDACTED\n\n                                 No. 22-10312\n\n\n            IN THE UNITED STATES COURT OF APPEALS\n                    FOR THE NINTH CIRCUIT\n\n\n\n                  UNITED STATES OF AMERICA,\n\n                                    Plaintiff-Appellee,\n\n                                       v.\n\n                      ELIZABETH A. HOLMES\n\n                                    Defendant-Appe"
+      },
+      {
+        "absolute_url": "/docket/66746322/27/2/united-states-v-elizabeth-holmes/",
+        "attachment_number": 2,
+        "cites": [
+          104321,
+          105912,
+          148698,
+          187185,
+          349990,
+          374078,
+          468638,
+          489922,
+          550361,
+          585271,
+          652907,
+          686786,
+          712931,
+          714859,
+          764978,
+          765439,
+          769335,
+          769940,
+          777787,
+          782689,
+          789122,
+          795871,
+          1039897,
+          1345996,
+          1405952,
+          1462639,
+          2674884,
+          2732856,
+          2789094,
+          2789095,
+          3160112,
+          4116439,
+          4238120,
+          4294771,
+          8414515
+        ],
+        "description": "Filed (ECF) Appellant Elizabeth A. Holmes Motion to file oversized brief. Date of service: 04/17/2023. [12697263] [22-10312]--[COURT UPDATE: Attached corrected motion, removed brief (resubmitted in correct entry [31]). 04/24/2023 by LA] (Saharia, Amy) [Entered: 04/17/2023 08:38 PM]",
+        "docket_entry_id": 281203705,
+        "document_number": 27,
+        "document_type": "Attachment",
+        "entry_date_filed": "2023-04-17",
+        "entry_number": 27,
+        "filepath_local": "recap/gov.uscourts.ca9.341504/gov.uscourts.ca9.341504.27.2.pdf",
+        "id": 287414133,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-02-24T17:55:13.504342Z",
+          "date_created": "2023-04-18T11:19:21.716025Z"
+        },
+        "pacer_doc_id": "009033969436",
+        "page_count": 132,
+        "short_description": "Redacted Brief Of Appellant Elizabeth A. Holmes",
+        "snippet": "    Case: 22-10312, 04/17/2023, ID: 12697263, DktEntry: 27-2, Page 1 of 132\n                               REDACTED\n\n\n                                No. 22-10312\n\n\n\n      IN THE UNITED STATES COURT OF APPEALS\n              FOR THE NINTH CIRCUIT\n\n\n                UNITED STATES OF AMERICA,\n\n                                    Plaintiff-Appellee,\n\n                                      v.\n\n                    ELIZABETH A. HOLMES\n\n                                    Defendant-Appellant.\n\n         On"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Susan V Kelley",
+    "assigned_to_id": 10232,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "Elizabeth A Holmes",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": "7",
+    "court": "United States Bankruptcy Court, E.D. Wisconsin",
+    "court_citation_string": "Bankr. E.D. Wis.",
+    "court_id": "wieb",
+    "dateArgued": null,
+    "dateFiled": "2017-07-29",
+    "dateTerminated": "2017-11-06",
+    "docketNumber": "17-27459",
+    "docket_absolute_url": "/docket/49016893/elizabeth-a-holmes/",
+    "docket_id": 49016893,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-02-24T15:05:18.982482Z",
+      "date_created": "2021-01-28T10:29:05.013031Z",
+      "score": {
+        "bm25": 1239.2828
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "397784",
+    "party": [
+      "Elizabeth A Holmes"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 335265919,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2017-09-04",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 341571374,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-09T06:00:36.371626Z",
+          "date_created": "2023-05-28T05:11:52.316383Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Chapter 7 Trustee's Report of No Distribution - No Funds",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/49016893/6/elizabeth-a-holmes/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 341286933,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2017-11-06",
+        "entry_number": 6,
+        "filepath_local": null,
+        "id": 347612116,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-09T22:31:54.505617Z",
+          "date_created": "2023-06-02T02:29:23.521915Z"
+        },
+        "pacer_doc_id": "202020799171",
+        "page_count": null,
+        "short_description": "Automated Discharging Debtor(s)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 341287844,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2017-11-06",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 347613034,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-06-09T22:32:03.240151Z",
+          "date_created": "2023-06-02T02:33:21.655861Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "AutoClose Bankruptcy Case AND Final Decree",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": "Whitten, Titania D."
+  },
+  {
+    "assignedTo": "Sara Elizabeth Lioi",
+    "assigned_to_id": 1943,
+    "attorney": [
+      "Eric D. Holmes",
+      "Alex Rokakis",
+      "Alexandros Rokakis"
+    ],
+    "attorney_id": [
+      5141220,
+      5141221,
+      1599718
+    ],
+    "caseName": "United States v. Holmes",
+    "case_name_full": "",
+    "cause": "12:1821 Default of Loan by Promissary Note",
+    "chapter": null,
+    "court": "District Court, N.D. Ohio",
+    "court_citation_string": "N.D. Ohio",
+    "court_id": "ohnd",
+    "dateArgued": null,
+    "dateFiled": "2017-06-30",
+    "dateTerminated": "2017-09-26",
+    "docketNumber": "1:17-cv-01395",
+    "docket_absolute_url": "/docket/6083710/united-states-v-holmes/",
+    "docket_id": 6083710,
+    "firm": [
+      "Eric D. Holmes",
+      "Office of the US Attorney Cleveland, Northern District of Ohio"
+    ],
+    "firm_id": [
+      525072,
+      78018
+    ],
+    "jurisdictionType": "U.S. Government Plaintiff",
+    "juryDemand": "None",
+    "meta": {
+      "timestamp": "2025-03-03T23:44:26.859329Z",
+      "date_created": "2017-07-03T15:00:14.392297Z",
+      "score": {
+        "bm25": 1139.7709
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "234926",
+    "party": [
+      "Eric D. Holmes",
+      "United States of America"
+    ],
+    "party_id": [
+      321932,
+      207
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/6083710/1/united-states-v-holmes/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Complaint against Eric D Holmes. Filing fee exempt. Filed by United States of America. (Attachments: # 1 Exhibit Promissory Note, # 2 Exhibit Certificate of Indebtedness, # 3 Summons, # 4 Civil Cover Sheet) (Rokakis, Alexandros) (Entered: 06/30/2017)",
+        "docket_entry_id": 19846383,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2017-06-30",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 20750873,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-04-01T20:31:37.781668Z",
+          "date_created": "2017-07-03T15:00:14.433649Z"
+        },
+        "pacer_doc_id": "14108920129",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/6083710/5/united-states-v-holmes/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion for default judgment against Eric D. Holmes with attached. Application for entry of default, declaration in support of service, declaration of amount due and proposed default judgment. filed by Plaintiff United States of America. (Rokakis, Alexandros) (Entered: 09/06/2017)",
+        "docket_entry_id": 88409618,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2017-09-06",
+        "entry_number": 5,
+        "filepath_local": null,
+        "id": 92586862,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-04T02:30:42.327587Z",
+          "date_created": "2019-06-19T08:27:42.613237Z"
+        },
+        "pacer_doc_id": "14109010265",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/6083710/4/united-states-v-holmes/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Return of Service by Clerk by certified mail executed upon Eric D. Holmes on 7/5/2017, no delivery date on green card, date obtained from U.S. Postal Service website, filed on behalf of United States of America Related document(s) 1, 2 . (W,CM) (Entered: 07/10/2017)",
+        "docket_entry_id": 88409616,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2017-07-10",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 92586860,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-04T02:30:42.103782Z",
+          "date_created": "2019-06-19T08:27:42.564966Z"
+        },
+        "pacer_doc_id": "14108929814",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "152 Contract: Recovery Student Loan",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Monica E. Tait",
+      "Michael Gregory Freedman",
+      "Sarah E. Spielberger"
+    ],
+    "attorney_id": [
+      10999323,
+      10788316,
+      10824980
+    ],
+    "caseName": "United States v. Holmes",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, C.D. California",
+    "court_citation_string": "C.D. Cal.",
+    "court_id": "cacd",
+    "dateArgued": null,
+    "dateFiled": "2025-10-10",
+    "dateTerminated": "2025-11-13",
+    "docketNumber": "2:25-mj-06350",
+    "docket_absolute_url": "/docket/71665736/united-states-v-holmes/",
+    "docket_id": 71665736,
+    "firm": [
+      "DOJ-USAO, Asset Forfeiture and Recovery Section",
+      "Freedman Firm PC",
+      "AUSA Office of US Attorney, Major Frauds Section",
+      "Doj-Usao"
+    ],
+    "firm_id": [
+      261456,
+      1115153,
+      1045488,
+      868462
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-12-23T17:10:20.414456Z",
+      "date_created": "2025-10-16T17:06:54.697289Z",
+      "score": {
+        "bm25": 1024.8412
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "991311",
+    "party": [
+      "USA",
+      "Cody Holmes"
+    ],
+    "party_id": [
+      16516473,
+      16516474
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/71665736/6/united-states-v-holmes/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "STIPULATION for Order AND JOINT REQUEST FOR A PROTECTIVE ORDER REGARDING DISCOVERY filed by Plaintiff USA as to Defendant Cody Holmes (Attachments: # 1 Proposed Order)(Attorney Sarah Elizabeth Spielberger added to party USA(pty:pla))(Spielberger, Sarah) (Entered: 10/21/2025)",
+        "docket_entry_id": 442199031,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-10-21",
+        "entry_number": 6,
+        "filepath_local": null,
+        "id": 456800288,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-12-23T17:10:20.377360Z",
+          "date_created": "2025-10-27T19:02:38.512441Z"
+        },
+        "pacer_doc_id": "031046136601",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Michael Gregory Freedman",
+      "Monica E. Tait",
+      "Sarah E. Spielberger"
+    ],
+    "attorney_id": [
+      10789172,
+      10860285,
+      10999324
+    ],
+    "caseName": "United States v. Holmes",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, C.D. California",
+    "court_citation_string": "C.D. Cal.",
+    "court_id": "cacd",
+    "dateArgued": null,
+    "dateFiled": "2025-10-10",
+    "dateTerminated": "2025-11-13",
+    "docketNumber": "2:25-mj-06350",
+    "docket_absolute_url": "/docket/71665728/united-states-v-holmes/",
+    "docket_id": 71665728,
+    "firm": [
+      "Doj-Usao",
+      "DOJ-USAO, Asset Forfeiture and Recovery Section",
+      "AUSA Office of US Attorney, Major Frauds Section",
+      "Freedman Firm PC"
+    ],
+    "firm_id": [
+      261456,
+      1115153,
+      1045488,
+      868462
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-12-15T05:17:41.714451Z",
+      "date_created": "2025-10-16T17:04:37.080828Z",
+      "score": {
+        "bm25": 1024.8412
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "991312",
+    "party": [
+      "USA",
+      "Cody Holmes"
+    ],
+    "party_id": [
+      16517540,
+      16517541
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/71665728/6/united-states-v-holmes/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "STIPULATION for Order AND JOINT REQUEST FOR A PROTECTIVE ORDER REGARDING DISCOVERY filed by Plaintiff USA as to Defendant Cody Holmes (Attachments: # 1 Proposed Order)(Attorney Sarah Elizabeth Spielberger added to party USA(pty:pla))(Spielberger, Sarah) (Entered: 10/21/2025)",
+        "docket_entry_id": 441563171,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-10-21",
+        "entry_number": 6,
+        "filepath_local": null,
+        "id": 456147639,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-12-15T05:17:41.696058Z",
+          "date_created": "2025-10-21T17:02:39.223547Z"
+        },
+        "pacer_doc_id": "031046136601",
+        "page_count": null,
+        "short_description": "Stipulation for Order",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  }
+]

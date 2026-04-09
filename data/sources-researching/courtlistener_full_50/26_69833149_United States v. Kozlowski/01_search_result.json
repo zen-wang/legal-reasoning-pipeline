@@ -1,0 +1,102 @@
+{
+  "assignedTo": "Mustafa Kasubhai",
+  "assigned_to_id": 9495,
+  "attorney": [
+    "Rosalind M. Lee",
+    "Joseph Huynh"
+  ],
+  "attorney_id": [
+    10227229,
+    10227230
+  ],
+  "caseName": "United States v. Kozlowski",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "District Court, D. Oregon",
+  "court_citation_string": "D. Or.",
+  "court_id": "ord",
+  "dateArgued": null,
+  "dateFiled": "2025-03-31",
+  "dateTerminated": null,
+  "docketNumber": "6:25-cr-00122",
+  "docket_absolute_url": "/docket/69833149/united-states-v-kozlowski/",
+  "docket_id": 69833149,
+  "firm": [
+    "Rosalind Manson Lee, LLC",
+    "United States Attorney's Office"
+  ],
+  "firm_id": [
+    177136,
+    178077
+  ],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+    "timestamp": "2025-05-30T17:16:04.522071Z",
+    "date_created": "2025-04-02T04:49:12.460995Z",
+    "score": {
+      "bm25": 4895.294
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "185505",
+  "party": [
+    "Thomas  John Kozlowski Jr.",
+    "USA"
+  ],
+  "party_id": [
+    15259316,
+    15259317
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/69833149/3/united-states-v-kozlowski/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Notice of Attorney Appearance appearing for Thomas John Kozlowski Jr. (Lee, Rosalind) (Entered: 03/31/2025)",
+      "docket_entry_id": 421113747,
+      "document_number": 3,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-03-31",
+      "entry_number": 3,
+      "filepath_local": null,
+      "id": 435104350,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-05-30T17:16:04.517058Z",
+        "date_created": "2025-04-02T04:49:18.906295Z"
+      },
+      "pacer_doc_id": "15109621158",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/69833149/1/united-states-v-kozlowski/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Information as to Thomas John Kozlowski Jr. (1) count(s) 1. (Forfeiture Allegation.) (le) (Entered: 03/31/2025)",
+      "docket_entry_id": 421113746,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-03-31",
+      "entry_number": 1,
+      "filepath_local": null,
+      "id": 435104349,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-05-30T17:16:04.517058Z",
+        "date_created": "2025-04-02T04:49:18.858079Z"
+      },
+      "pacer_doc_id": "15109620765",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+}

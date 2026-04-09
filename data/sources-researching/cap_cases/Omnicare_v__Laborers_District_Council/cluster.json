@@ -1,0 +1,99 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/2788684/",
+  "id": 2788684,
+  "absolute_url": "/opinion/2788684/omnicare-inc-v-laborers-dist-council-constr-industry-pension-fund/",
+  "panel": [],
+  "non_participating_judges": [],
+  "docket_id": 2644090,
+  "docket": "https://www.courtlistener.com/api/rest/v4/dockets/2644090/",
+  "sub_opinions": [
+    "https://www.courtlistener.com/api/rest/v4/opinions/2788684/"
+  ],
+  "citations": [
+    {
+      "date_created": "2025-10-27T11:34:07.425128-07:00",
+      "date_modified": "2025-10-27T11:34:07.425142-07:00",
+      "volume": "575",
+      "reporter": "U.S.",
+      "page": "175",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "135",
+      "reporter": "S. Ct.",
+      "page": "1318",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "191",
+      "reporter": "L. Ed. 2d",
+      "page": "253",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "2015",
+      "reporter": "U.S. LEXIS",
+      "page": "2120",
+      "type": 6
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "25",
+      "reporter": "Fla. L. Weekly Fed. S",
+      "page": "139",
+      "type": 1
+    },
+    {
+      "date_created": "2025-09-25T21:50:34.120042-07:00",
+      "date_modified": "2025-09-25T21:50:34.139566-07:00",
+      "volume": "83",
+      "reporter": "U.S.L.W.",
+      "page": "4187",
+      "type": 4
+    }
+  ],
+  "cluster_redirections": [],
+  "date_created": "2015-03-24T08:43:11.147489-07:00",
+  "date_modified": "2024-10-18T21:00:48.566073-07:00",
+  "judges": "KAGANdelivered",
+  "date_filed": "2015-03-24",
+  "date_filed_is_approximate": false,
+  "slug": "omnicare-inc-v-laborers-dist-council-constr-industry-pension-fund",
+  "case_name_short": "Omnicare",
+  "case_name": "Omnicare, Inc. v. Laborers Dist. Council Constr. Industry Pension Fund",
+  "case_name_full": "OMNICARE, INC., Et Al., Petitioners v. LABORERS DISTRICT COUNCIL CONSTRUCTION INDUSTRYPENSION FUND Et Al.",
+  "scdb_id": "2014-012",
+  "scdb_decision_direction": 1,
+  "scdb_votes_majority": 9,
+  "scdb_votes_minority": 0,
+  "source": "CU",
+  "procedural_history": "",
+  "attorneys": "Kannon K. Shanmugam, Washington, DC, for Petitioners., Thomas C. Goldstein, Washington, DC, for Respondents., Nicole A. Saharshky for the United States as amicus curiae, by special leave of the Court, supporting the Respondents., Linda T. Coberly, Winston & Strawn LLP, Chicago, IL, Harvey Kurzweil, Richard W. Reinthaler, John E. Schreiber, Winston & Strawn LLP, New York, NY, Andrew C. Nichols, Winston & Strawn LLP, Washington, DC, Kannon K. Shanmugam, Counsel of Record, Joseph M. Terry, John S. Williams, Sarah K. Campbell, A. Joshua Podoll, Williams & Connolly LLP, Washington, DC, for Petitioners., Thomas C. Goldstein, Kevin K. Russell, Goldstein & Russell, P.C., Washington, DC, Kevin L. Murphy, Graydon Head & Ritchey LLP, Fort Mitchell, KY, Darren J. Robbins, Eric Alan Isaacson, Counsel of Record, Henry Rosen, Joseph D. Daley, Steven F. Hubachek, Amanda M. Frame, Susannah R. Conn, David J. Harris, Jr., Robbins Geller Rudman & Dowd LLP, San Diego, CA, for Respondents.",
+  "nature_of_suit": "",
+  "posture": "",
+  "syllabus": "",
+  "headnotes": "",
+  "summary": "",
+  "disposition": "",
+  "history": "",
+  "other_dates": "",
+  "cross_reference": "",
+  "correction": "",
+  "citation_count": 513,
+  "precedential_status": "Published",
+  "date_blocked": null,
+  "blocked": false,
+  "filepath_json_harvard": "law.free.cap.s-ct.135/1318.12587416.json",
+  "filepath_pdf_harvard": null,
+  "filepath_xml_scan": null,
+  "filepath_pdf_scan": null,
+  "arguments": "",
+  "headmatter": "<parties id=\"p-1\">\n    OMNICARE, INC., et al., Petitioners\n    <br/>\n    v.\n    <br/>\n    LABORERS DISTRICT COUNCIL CONSTRUCTION INDUSTRYPENSION FUND et al.\n   </parties><docketnumber id=\"p-2\">\n    No. 13-435.\n   </docketnumber><court id=\"p-3\">\n    Supreme Court of the United States\n   </court><decisiondate id=\"p-4\">\n    Argued Nov. 3, 2014.\n    <br/>\n    Decided March 24, 2015.\n   </decisiondate><attorneys id=\"p-5\">\n    Kannon K. Shanmugam, Washington, DC, for Petitioners.\n   </attorneys><attorneys id=\"p-6\">\n    Thomas C. Goldstein, Washington, DC, for Respondents.\n   </attorneys><attorneys id=\"p-7\">\n    Nicole A. Saharshky for the United States as amicus curiae, by special leave of the Court, supporting the Respondents.\n   </attorneys><attorneys id=\"p-8\">\n    Linda T. Coberly, Winston &amp; Strawn LLP, Chicago, IL, Harvey Kurzweil, Richard W. Reinthaler, John E. Schreiber, Winston &amp; Strawn LLP, New York, NY, Andrew C. Nichols, Winston &amp; Strawn LLP, Washington, DC, Kannon K. Shanmugam, Counsel of Record, Joseph M. Terry, John S. Williams, Sarah K. Campbell, A. Joshua Podoll, Williams &amp; Connolly LLP, Washington, DC, for Petitioners.\n   </attorneys><attorneys id=\"p-9\">\n    Thomas C. Goldstein, Kevin K. Russell, Goldstein &amp; Russell, P.C., Washington, DC, Kevin L. Murphy, Graydon Head &amp; Ritchey LLP, Fort Mitchell, KY, Darren J. Robbins, Eric Alan Isaacson, Counsel of Record, Henry Rosen, Joseph D. Daley, Steven F. Hubachek, Amanda M. Frame, Susannah R. Conn, David J. Harris, Jr., Robbins Geller Rudman &amp; Dowd LLP, San Diego, CA, for Respondents.\n   </attorneys>"
+}

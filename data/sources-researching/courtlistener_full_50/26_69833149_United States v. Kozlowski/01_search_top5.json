@@ -1,0 +1,496 @@
+[
+  {
+    "assignedTo": "Mustafa Kasubhai",
+    "assigned_to_id": 9495,
+    "attorney": [
+      "Rosalind M. Lee",
+      "Joseph Huynh"
+    ],
+    "attorney_id": [
+      10227229,
+      10227230
+    ],
+    "caseName": "United States v. Kozlowski",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, D. Oregon",
+    "court_citation_string": "D. Or.",
+    "court_id": "ord",
+    "dateArgued": null,
+    "dateFiled": "2025-03-31",
+    "dateTerminated": null,
+    "docketNumber": "6:25-cr-00122",
+    "docket_absolute_url": "/docket/69833149/united-states-v-kozlowski/",
+    "docket_id": 69833149,
+    "firm": [
+      "Rosalind Manson Lee, LLC",
+      "United States Attorney's Office"
+    ],
+    "firm_id": [
+      177136,
+      178077
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-05-30T17:16:04.522071Z",
+      "date_created": "2025-04-02T04:49:12.460995Z",
+      "score": {
+        "bm25": 4895.294
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "185505",
+    "party": [
+      "Thomas  John Kozlowski Jr.",
+      "USA"
+    ],
+    "party_id": [
+      15259316,
+      15259317
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/69833149/3/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Attorney Appearance appearing for Thomas John Kozlowski Jr. (Lee, Rosalind) (Entered: 03/31/2025)",
+        "docket_entry_id": 421113747,
+        "document_number": 3,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-31",
+        "entry_number": 3,
+        "filepath_local": null,
+        "id": 435104350,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-30T17:16:04.517058Z",
+          "date_created": "2025-04-02T04:49:18.906295Z"
+        },
+        "pacer_doc_id": "15109621158",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69833149/1/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Information as to Thomas John Kozlowski Jr. (1) count(s) 1. (Forfeiture Allegation.) (le) (Entered: 03/31/2025)",
+        "docket_entry_id": 421113746,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-31",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 435104349,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-30T17:16:04.517058Z",
+          "date_created": "2025-04-02T04:49:18.858079Z"
+        },
+        "pacer_doc_id": "15109620765",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Kozlowski",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, D. Oregon",
+    "court_citation_string": "D. Or.",
+    "court_id": "ord",
+    "dateArgued": null,
+    "dateFiled": "2025-03-31",
+    "dateTerminated": null,
+    "docketNumber": "6:25-cr-00122",
+    "docket_absolute_url": "/docket/69826115/united-states-v-kozlowski/",
+    "docket_id": 69826115,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-05-30T17:15:59.061376Z",
+      "date_created": "2025-03-31T22:19:21.037254Z",
+      "score": {
+        "bm25": 4800.4517
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "185506",
+    "party": [
+      "United States",
+      "Kozlowski"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/69826115/1/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 420957765,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-31",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 434943141,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-30T17:15:58.515414Z",
+          "date_created": "2025-03-31T22:19:21.126408Z"
+        },
+        "pacer_doc_id": "15109620765",
+        "page_count": null,
+        "short_description": "Information - Felony - ALL TYPES",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 422856849,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-18",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 436899774,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-30T17:15:58.515414Z",
+          "date_created": "2025-04-18T21:25:56.583414Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "1- Scheduling Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 421346345,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-03",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 435343739,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-30T17:15:58.515414Z",
+          "date_created": "2025-04-03T22:20:31.510964Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "1- Scheduling Order",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Kozlowski",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, D. Utah",
+    "court_citation_string": "D. Utah",
+    "court_id": "utd",
+    "dateArgued": null,
+    "dateFiled": "2021-10-20",
+    "dateTerminated": "2021-10-20",
+    "docketNumber": "2:21-cr-00442",
+    "docket_absolute_url": "/docket/67562026/united-states-v-kozlowski/",
+    "docket_id": 67562026,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-04-28T17:00:58.744942Z",
+      "date_created": "2023-07-06T15:36:04.612308Z",
+      "score": {
+        "bm25": 4128.91
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "128303",
+    "party": [
+      "United States",
+      "Kozlowski"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/67562026/5/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 354842179,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-07-06",
+        "entry_number": 5,
+        "filepath_local": null,
+        "id": 361341188,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-04-28T17:00:58.742538Z",
+          "date_created": "2023-07-06T15:36:04.680854Z"
+        },
+        "pacer_doc_id": "18306150299",
+        "page_count": null,
+        "short_description": "Order and Report on Person Under Supervision",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Kozlowski",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, W.D. Louisiana",
+    "court_citation_string": "W.D. La.",
+    "court_id": "lawd",
+    "dateArgued": null,
+    "dateFiled": "2021-06-21",
+    "dateTerminated": "2021-06-24",
+    "docketNumber": "7:21-po-00583",
+    "docket_absolute_url": "/docket/60002505/united-states-v-kozlowski/",
+    "docket_id": 60002505,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-04-05T02:42:36.203267Z",
+      "date_created": "2021-06-22T04:22:30.500812Z",
+      "score": {
+        "bm25": 3977.5347
+      },
+      "more_docs": false
+    },
+    "pacer_case_id": "181672",
+    "party": [
+      "United States",
+      "Kozlowski"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 167782780,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-06-22",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 173016961,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-04-05T02:42:36.199238Z",
+          "date_created": "2021-06-22T04:22:30.515646Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Set Hearings (Updates CVB)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/60002505/1/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 167782781,
+        "document_number": 1,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-06-22",
+        "entry_number": 1,
+        "filepath_local": null,
+        "id": 173016962,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-04-05T02:42:36.199238Z",
+          "date_created": "2021-06-22T04:22:30.559573Z"
+        },
+        "pacer_doc_id": "08906379030",
+        "page_count": null,
+        "short_description": "Citation Issued (Updates CVB)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 168051095,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-06-24",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 173288230,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-04-05T02:42:36.199238Z",
+          "date_created": "2021-06-24T07:45:44.415952Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Forfeiture of Collateral",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Kozlowski",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. California",
+    "court_citation_string": "S.D. Cal.",
+    "court_id": "casd",
+    "dateArgued": null,
+    "dateFiled": "2021-01-06",
+    "dateTerminated": "2021-02-03",
+    "docketNumber": "3:21-po-00127",
+    "docket_absolute_url": "/docket/29087056/united-states-v-kozlowski/",
+    "docket_id": 29087056,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-05-16T13:50:28.589183Z",
+      "date_created": "2021-01-06T23:54:08.799464Z",
+      "score": {
+        "bm25": 3909.0051
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "696341",
+    "party": [
+      "United States",
+      "Kozlowski"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/29087056/5/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 157191516,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-03-03",
+        "entry_number": 5,
+        "filepath_local": null,
+        "id": 162286753,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-16T13:50:28.587413Z",
+          "date_created": "2021-03-03T17:49:10.253765Z"
+        },
+        "pacer_doc_id": "037016769913",
+        "page_count": null,
+        "short_description": "Supplemental CVB Document",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/29087056/3/united-states-v-kozlowski/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 151711550,
+        "document_number": 3,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-01-08",
+        "entry_number": 3,
+        "filepath_local": null,
+        "id": 156684233,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-16T13:50:28.587413Z",
+          "date_created": "2021-01-08T21:24:42.630756Z"
+        },
+        "pacer_doc_id": "037016590064",
+        "page_count": null,
+        "short_description": "Notice to Appear",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 151481320,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2021-01-06",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 156429767,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-05-16T13:50:28.587413Z",
+          "date_created": "2021-01-06T23:54:08.811551Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Set Hearings",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  }
+]

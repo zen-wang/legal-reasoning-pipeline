@@ -1,0 +1,156 @@
+{
+  "assignedTo": "Fernando Manzano Olguin",
+  "assigned_to_id": 2465,
+  "attorney": [
+    "Reed R Kathrein",
+    "Lucas E Gilmore",
+    "Michael J Kahn",
+    "Danielle Smith",
+    "Laurence M. Rosen",
+    "Brian Michael Lutz"
+  ],
+  "attorney_id": [
+    5904643,
+    5904644,
+    5904645,
+    5904646,
+    5904647,
+    9811871
+  ],
+  "caseName": "Mark DalPoggetto v. Wirecard AG",
+  "case_name_full": "",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "chapter": null,
+  "court": "District Court, C.D. California",
+  "court_citation_string": "C.D. Cal.",
+  "court_id": "cacd",
+  "dateArgued": null,
+  "dateFiled": "2019-02-08",
+  "dateTerminated": "2020-10-08",
+  "docketNumber": "2:19-cv-00986",
+  "docket_absolute_url": "/docket/14548876/mark-dalpoggetto-v-wirecard-ag/",
+  "docket_id": 14548876,
+  "firm": [
+    "Gibson Dunn Crutcher LLP",
+    "Gibson Dunn and Crutcher LLP",
+    "Hagen Berman Sobol Shapiro LLP",
+    "Rosen Law Firm PA",
+    "Hagens Berman Sobol Shapiro"
+  ],
+  "firm_id": [
+    279393,
+    25923,
+    5445,
+    15734,
+    14551
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-03-07T04:55:31.187983Z",
+    "date_created": "2019-02-13T07:23:00.368479Z",
+    "score": {
+      "bm25": 1306.5413
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "736484",
+  "party": [
+    "Mark DalPoggetto",
+    "Susanne Steidl",
+    "Alexander von Knoop",
+    "Wirecard AG",
+    "Burkhard Ley",
+    "Ernst & Young GmbH Wirtschaftspruefungsgesellschaft",
+    "Jan Marsalek",
+    "Wulf Matthias",
+    "Markus Braun",
+    "Lawrence Gallagher"
+  ],
+  "party_id": [
+    4589735,
+    4589736,
+    4589737,
+    4589738,
+    4589739,
+    4589740,
+    4589741,
+    9834634,
+    9834635,
+    8836862
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/14548876/71/mark-dalpoggetto-v-wirecard-ag/",
+      "attachment_number": null,
+      "cites": [
+        687400
+      ],
+      "description": "NOTICE of Plaintiff's Failure to Oppose Defendants' Motion to Dismiss First Amended Class Action Complaint for Violation of the Federal Securities Laws filed by Defendants Markus Braun, Burkhard Ley, Jan Marsalek, Susanne Steidl, Wirecard AG, Alexander von Knoop. (Attachments: # 1 Declaration of Brian M. Lutz ISO Notice)(Lutz, Brian) (Entered: 04/14/2020)",
+      "docket_entry_id": 126269187,
+      "document_number": 71,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-04-14",
+      "entry_number": 71,
+      "filepath_local": "recap/gov.uscourts.cacd.736484/gov.uscourts.cacd.736484.71.0.pdf",
+      "id": 130727264,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-05-09T21:57:33.743703Z",
+        "date_created": "2020-04-16T14:53:48.217711Z"
+      },
+      "pacer_doc_id": "031032870462",
+      "page_count": 3,
+      "short_description": "Notice (Other)",
+      "snippet": "            Case 2:19-cv-00986-FMO-SK Document 71 Filed 04/14/20 Page 1 of 3 Page ID #:2163\n\n\n            1    BRIAN M. LUTZ, SBN 255976\n                   blutz@gibsondunn.com\n            2    MICHAEL J. KAHN, SBN 303289\n                   mjkahn@gibsondunn.com\n            3    GIBSON, DUNN & CRUTCHER LLP\n                 555 Mission Street, Suite 3000\n            4    San Francisco, CA 94105-0921\n                 Telephone: 415.393.8200\n            5    Facsimile: 415.393.8306\n            6   "
+    },
+    {
+      "absolute_url": "/docket/14548876/76/mark-dalpoggetto-v-wirecard-ag/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE of Plaintiff's Failure to Oppose Defendants' Motion to Dismiss First Amended Class Action Complaint for Violation of the Federal Securities Laws filed by Defendants Markus Braun, Burkhard Ley, Jan Marsalek, Susanne Steidl, Wirecard AG, Alexander von Knoop. (Lutz, Brian) (Entered: 05/01/2020)",
+      "docket_entry_id": 129284907,
+      "document_number": 76,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2020-05-01",
+      "entry_number": 76,
+      "filepath_local": null,
+      "id": 133773301,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2024-05-10T09:14:43.485860Z",
+        "date_created": "2020-05-18T13:49:11.128004Z"
+      },
+      "pacer_doc_id": "031032996354",
+      "page_count": null,
+      "short_description": "Notice (Other)",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/14548876/34/1/mark-dalpoggetto-v-wirecard-ag/",
+      "attachment_number": 1,
+      "cites": [],
+      "description": "STIPULATION to Continue Deadline for Defendants' Motion to Dismiss filed by Defendant Wirecard AG. (Attachments: # 1 Proposed Order)(Lutz, Brian) (Entered: 05/31/2019)",
+      "docket_entry_id": 85391588,
+      "document_number": 34,
+      "document_type": "Attachment",
+      "entry_date_filed": "2019-05-31",
+      "entry_number": 34,
+      "filepath_local": "recap/gov.uscourts.cacd.736484/gov.uscourts.cacd.736484.34.1.pdf",
+      "id": 89552656,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2024-05-03T11:37:58.418880Z",
+        "date_created": "2019-06-03T12:11:41.346676Z"
+      },
+      "pacer_doc_id": "031030728767",
+      "page_count": 2,
+      "short_description": "",
+      "snippet": "           Case 2:19-cv-00986-FMO-SK Document 34-1 Filed 05/31/19 Page 1 of 2 Page ID #:475\n\n\n            1\n            2\n            3\n            4\n            5\n            6\n            7\n            8                         UNITED STATES DISTRICT COURT\n            9                        CENTRAL DISTRICT OF CALIFORNIA\n          10     MARK DALPOGGETTO, Individually          CASE NO. 2:19-cv-00986-FMO-SK\n                 and On Behalf of All Others Similarly\n          11     Situated,     "
+    }
+  ],
+  "referredTo": "Steve Kim",
+  "referred_to_id": 9053,
+  "suitNature": "850 Securities/Commodities",
+  "trustee_str": null
+}

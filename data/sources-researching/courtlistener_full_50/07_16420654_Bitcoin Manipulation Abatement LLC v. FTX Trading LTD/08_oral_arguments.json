@@ -1,0 +1,105 @@
+[
+  {
+    "absolute_url": "/audio/101157/united-states-of-america-v-bankman-fried/",
+    "caseName": "United States v. Bankman-Fried",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": "2025-11-04",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "24-961",
+    "docket_id": 69143697,
+    "download_url": "http://ww3.ca2.uscourts.gov/decisions/isysquery/cd286161-7133-4203-9f03-d6c12c977727/2/doc/24-961.mp3",
+    "duration": 3997,
+    "file_size_mp3": 24102996,
+    "id": 101157,
+    "judge": "",
+    "local_path": "mp3/2025/11/04/united_states_v._bankman-fried_cl.mp3",
+    "meta": {
+      "timestamp": "2025-11-04T20:35:09.606034Z",
+      "date_created": "2025-11-04T20:30:58.158341Z",
+      "score": {
+        "bm25": 13438310000000.0
+      }
+    },
+    "pacer_case_id": "9d455c17-4ee8-40a0-bafd-1eeeb19acafb",
+    "panel_ids": [],
+    "sha1": "8b806349f1cc4a31a08b54802c0683cc2ba7596c",
+    "snippet": "United States v. Samuel Bankman-Fried Good morning, and may it please the Court. My name is Alexandra Shapiro, and I represent Sam Bankman-Fried on this appeal. Mr. Bankman-Fried's trial was fundamentally unfair because the jury only got to hear one side of the story, the prosecution's side, which was demonstrably false. In a series of evidentiary and procedural rulings, the district court deprived Mr. Bankman-Fried of the most basic principle of due process, the ability to rebut the",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/90179/loper-bright-enterprises-et-al-petitioners-v-gina-raimondo-secretary/",
+    "caseName": "Loper Bright Enterprises, Inc. v. Raimondo, Sec. of Comm.",
+    "case_name_full": "",
+    "court": "Supreme Court of the United States",
+    "court_citation_string": "SCOTUS",
+    "court_id": "scotus",
+    "dateArgued": "2024-01-17",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "22-451",
+    "docket_id": 68166979,
+    "download_url": "http://www.supremecourt.gov/media/audio/mp3files/22-451.mp3",
+    "duration": 4573,
+    "file_size_mp3": 27527311,
+    "id": 90179,
+    "judge": "",
+    "local_path": "mp3/2024/01/17/loper_bright_enterprises_inc._v._raimondo_sec._of_comm._cl.mp3",
+    "meta": {
+      "timestamp": "2026-03-13T02:27:25.444758Z",
+      "date_created": "2024-01-17T21:32:59.770710Z",
+      "score": {
+        "bm25": 13381545000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      77,
+      1250,
+      1609,
+      1691,
+      1713,
+      2738,
+      3045,
+      3200,
+      8543
+    ],
+    "sha1": "c0bcde0529c935bd8e0b602237308ae7eff3a2ef",
+    "snippet": "Mr. Chief Justice, and may it please the Court, this case well illustrates the real-world cost of Chevron, which do not fall exclusively on the Chevrons of the world, but injure small businesses and individuals as well. Commercial fishing is hard, space onboard vessels is tight, and margins are tighter still. Therefore, for my clients, having to carry Federal observers onboard is a burden, but having to pay their salaries is a crippling blow. Congress recognized as much by strictly limiting the",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/88923/in-re-ftx-trading-ltd/",
+    "caseName": "In Re FTX Trading",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Third Circuit",
+    "court_citation_string": "3rd Cir.",
+    "court_id": "ca3",
+    "dateArgued": "2023-11-09",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "23-2297",
+    "docket_id": 67621693,
+    "download_url": "http://www2.ca3.uscourts.gov/Oralargument/audio/23-2297_InReFTXTrading.mp3",
+    "duration": 2456,
+    "file_size_mp3": 14793884,
+    "id": 88923,
+    "judge": "",
+    "local_path": "mp3/2023/11/09/in_re_ftx_trading_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-22T18:28:06.073960Z",
+      "date_created": "2023-11-09T22:38:01.278023Z",
+      "score": {
+        "bm25": 13375584000000.0
+      }
+    },
+    "pacer_case_id": "120496",
+    "panel_ids": [],
+    "sha1": "3430d9f1f9c2dc8180b873466d03fbdcff19041f",
+    "snippet": "And we'll call our second case 23 22 97 FTX V Vera Mr. Springer, whenever you're ready Good afternoon, Your Honor, so may it please the court. Brian Springer on behalf of the U.S. Trustee. I'd like to save three minutes for rebuttal if I'm sure Congress made the judgment that in bankruptcy cases involving more than $5 million in debts of the type described in the statute, bankruptcy courts must appoint an examiner to conduct an investigation when requested. As the Sixth Circuit in In Re Revco",
+    "source": "C"
+  }
+]

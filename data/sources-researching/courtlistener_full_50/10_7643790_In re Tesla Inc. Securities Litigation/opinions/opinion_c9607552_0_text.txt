@@ -1,0 +1,190 @@
+1                                                                         
+2                                                                         
+3                                                                         
+4                      UNITED STATES DISTRICT COURT                       
+5                     NORTHERN DISTRICT OF CALIFORNIA                     
+6                                                                         
+7    IN RE TESLA, INC. SECURITIES     Case No.  18-cv-04865-EMC           
+     LITIGATION                                                           
+8                                                                         
+                                      SUPPLEMENTAL DAUBERT ORDER          
+9                                     AND ORDER DENYING PLAINTIFF’S       
+                                      EMERGENCY MOTION IN LIMINE          
+10                                     RE OPTION DAMAGES                   
+11                                     Docket Nos. 508, 611                
+
+12                                                                         
+13                                                                         
+14        In this securities class action, Plaintiff Glen Littleton retained Professor Steven Heston to 
+15   set out a methodology to calculate options damages.  Plaintiff’s stock options methodology has 
+16   been the source of repeated Daubert motions and motions in limine.  See Docket Nos. 479, 553.  
+17   Most recently, Plaintiff filed an emergency motion in limine contending that judicial estoppel 
+18   barred Defendants from presenting argument or evidence regarding Plaintiff’s original damages 
+19   methodology.  See Docket No. 611 (Plaintiff’s Emergency Motion in Limine Re: Option 
+20   Damages, or “Mot.”).                                                  
+21        Below the Court issues two rulings connected to Plaintiff’s options damages methodology.   
+22   First, for the reasons set forth below, the Court denies Plaintiff’s motion in limine.  Second, the 
+23   Court finds that the issues originally raised by Defendants with respect to Professor Heston’s 
+24   initial methodology have been clarified by the subsequent briefing submitted by the parties.  The 
+25   Court hereby rules that Professor Heston’s original methodology for calculating stock option 
+26   damages as set forth in his November 8, 2021 report survives Daubert.  
+27   A.   Defendants May Offer Evidence and Argument Regarding the Different Methodologies 
+1   precluded from offering argument, testimony, or evidence at trial contradicting their previously 
+2   stated positions concerning the use of actual option prices for purposes of determining option 
+3   damages.  See Mot. at 1.  For two reasons, the Court rejects Plaintiff’s motion. 
+4        First, courts have held that impeachment of an expert with prior analysis is generally 
+5   proper.  As noted by Judge Lucy Koh, “the past methodologies of [] experts are highly probative 
+6   impeachment evidence that a fact-finder will consider in assessing the weight a fact-finder may 
+7   choose to give to the experts in the instant litigation.”  Apple, Inc. v. Samsung Elecs. Co., No. 12-
+8   cv-00630-LHK, 2014 WL 794328, at *12 (N.D. Cal. Feb. 25, 2014).  Judge Koh further noted that 
+9   the Court could not find any authority to exclude this testimony on relevance grounds and that it 
+10   was not precluded under Rule 403.  Id.  Likewise, the Third Circuit has likewise suggested that 
+11   evidence of an expert’s changing methodology is appropriate for cross.  See In re TMI Litig., 193 
+12   F.3d 613, 687 (3d Cir. 1999), amended, 199 F.3d 158 (3d Cir. 2000) (“If Shevchenko’s 
+13   methodology did change to meet Daubert challenges, those changes strike at the heart of 
+14   Shevchenko’s credibility as a witness and the weight to be afforded his testimony.”).  Plaintiff has 
+15   not provided any cases demonstrating that impeachment by prior analysis is improper.  The Court 
+16   thus concludes that Professor Heston’s different methodologies are a proper topic for 
+17   impeachment.                                                          
+18        Second, the doctrine of judicial estoppel does not apply because the Court did not make 
+19   any decision regarding Defendants’ initial Daubert challenge to Professor Heston’s methodology.  
+20   “Judicial estoppel is an equitable doctrine that precludes a party from gaining an advantage by 
+21   asserting one position, and then later seeking an advantage by taking a clearly inconsistent 
+22   position.”  Hamilton v. State Farm Fire & Cas. Co., 270 F.3d 778, 782 (9th Cir. 2001) (citation 
+23   omitted).  In considering whether judicial estoppel applies, “courts regularly inquire whether the 
+24   party has succeeded in persuading a court to accept that party’s earlier position, so that judicial 
+25   acceptance of an inconsistent position in a later proceeding would create ‘the perception that either 
+26   the first or the second court was misled.’”  Id. (quoting Edwards v. Aetna Life Ins. Co., 690 F.2d 
+27   595, 599 (6th Cir. 1982)).  Because—as described below—Plaintiff voluntarily agreed to use 
+1   Defendants’ motion in limine as moot.  See Docket No. 508 at 36–37.  As a result, there is no 
+2   ruling on the merits of the issue that can form the basis of a claim that the Court was misled by 
+3   Defendants.                                                           
+4   B.   Professor Heston’s Use of Theoretical Prices Survives Daubert    
+5        The issues raised by the parties in the supplemental briefing and supplemental expert 
+6   reports have prompted the Court to review the Daubert issue previously presented.  As set forth 
+7   below, the Court finds that Professor Heston’s original methodology survives Daubert.   
+8        Last September, Defendants moved to exclude certain opinions by Professor Heston based 
+9   on Professor Heston’s use of “theoretical” rather than actual option price data.  See Docket No. 
+10   479 (Defendants’ Motion to Exclude).  Defendants argued that Professor Heston’s methodology—
+11   which used the Black-Scholes-Merton (“BSM”) formula to compare one set of model-generated 
+12   price predictions to another set of model-generated price predictions—was “unprecedented” and 
+13   “junk financial engineering.”  Id. at 2 & 2 n.1.1  Defendants insisted that Professor Heston’s 
+14   methodology was unreliable because Professor Heston did not “compare the actual transaction 
+15   prices of Tesla options during the class period to ‘but for’ option prices,” which Defendants 
+16   asserted was “standard practice.”  Id. at 2.                          
+17        Plaintiff responded that Professor Heston had designed his methodology so as to account 
+18   for the large bid-ask spreads that existed for Tesla options during the Class Period and other 
+19   market microstructure features on damages.  See Docket No. 479-1 (Plaintiff’s Opposition to 
+20   Defendants’ Motion to Exclude) at 4.  In particular, Professor Heston explained that following 
+21   12:48pm on August 7, 2018, the bid-ask spread of traded Tesla options grew, which meant that 
+22   some investors, either by happenstance or acumen, achieved better prices.  Heston Report ¶ 164.  
+23   Professor Heston applied an impact quantum to account for these slight variations in pricing.  Id.  
+24   In other words, rather than calculating price impact as the difference between a unique but-for 
+25                                                                         
+    1 The Court described Professor Heston’s methodology in detail in its Final Pretrial Conference 
+26                                                                         
+    Order.  See Docket No. 508 (Final Pretrial Conference Order) at 39–46.  The Court found that 
+    Professor Heston’s use of the BSM Model for but-for options prices was sound.  Id. at 44.  The 
+27                                                                         
+    Court noted that Professor Heston’s use of theoretical data to calculate the “re-valued” (actual) 
+1   price and an actual transaction price, which would vary based on where the actual transaction fell 
+2   within the bid-ask spread, he used an impact quantum to measure the magnitude of the shift 
+3   without being affected by the bid-ask spread.  Id. ¶¶ 180–82.         
+4        During the pretrial conference in October, although Plaintiff’s counsel maintained 
+5   Professor Heston’s methodology was sound, in response to the Court’s questions regarding 
+6   Professor Heston’s use of theoretical data, Plaintiff’s counsel agreed to use actual, not adjusted 
+7   data, to calculate the “actual” (not but-for) curve.  In the Court’s Final Pretrial Conference Order, 
+8   the Court noted that:                                                 
+
+9             Defendants have raised serious questions about Professor Heston’s 
+              use of theoretical data to calculate the “re-valued” curve.  As noted 
+10             above, the “but-for” curve requires predictive modeling to derive 
+              counterfactual prices.  But it is not clear why calculated theoretical 
+11             re-valued prices are needed to determine damages when actual 
+              option prices and implied volatility exist, are available, and can be 
+12             used to generate the actual curve.  During the hearing, in response to 
+              the Court’s questioning, Plaintiff could not point to any precedent in 
+13             caselaw or practice where adjusted data based on ATM-forward 
+              straddles was used instead of actual known market data for each 
+14             specific stock option.  Plaintiff also conceded that he could use 
+              actual option prices to compare with the hypothetical but-for price to 
+15             calculate damages.  Finally, the instances where the purported 
+              damages for certain investors exceeded their investments indicate a 
+16             potential problem with the integrity of the model for which Plaintiff 
+              had no good answer.  During the hearing, in response to the 
+17             concerns expressed by the Court, Plaintiff agreed to use actual, not 
+              adjusted, data to calculate the “actual” (not but-for) curve.  As a 
+18             result, the Court need not decide whether Professor Heston’s use of 
+              theoretical data to calculate the “re-valued fitted option value” fails 
+19             Daubert; that issue is now moot.                            
+20   Docket No. 508 at 46–47.  Thus, in light of Plaintiff’s decision, the Court did not ultimately reach 
+21   the question of whether Professor Heston’s use of artificial data to calculate the “re-valued fitted 
+22   option value” survived Daubert.                                       
+23        Following the Final Pretrial Conference Order, Plaintiff provided supplemental expert 
+24   reports and revised calculations to Defendants.  Defendants then sought leave to file another 
+25   Daubert motion under the theory that Professor Heston’s new methodology, which implemented 
+26   actual market data for the “actual” prices, was unreliable.  See Docket No. 536 (Defendants’ 
+27   Letter).  Defendants argued that Professor Heston’s methodology failed to account for the fact that 
+1   precise problem that Professor Heston had addressed in his initial report.  Compare Defendants’ 
+2   Letter at 2 with Heston Report ¶¶ 180–82.  Professor Seru, Defendants’ rebuttal damages expert, 
+3   subsequently opined that Professor Heston’s updated methodology was “fundamentally flawed” 
+4   because it was sensitive to execution price within the bid-ask spread, and because it was 
+5   problematic to assume a constant rate of implied volatility for the but-for prices given his use of 
+6   actual prices.2  See Seru Supplemental Expert Report ¶¶ 13–21.  Professor Seru noted that 
+7   Professor Heston’s original methodology could arguably be considered an apples-to-apples 
+8   comparison because the assumption of implied volatility would apply to both the “actual” option 
+9   value and the “but-for” option value.  Id. ¶¶ 15, 21.  Professor Seru argued that assuming implied 
+10   volatility for only the “but-for” option value resulted in an “apples-to-oranges” comparison.  Id. ¶ 
+11   21.                                                                   
+12        The issues raised by Defendants and Professor Seru in response to Professor Heston’s 
+13   revised methodology have clarified for the Court why calculated theoretical re-valued prices may 
+14   be used to determine damages, even when actual option prices and implied volatility exist, are 
+15   available and can be used to generate the actual curve.  Among other reasons, it sets up an apples-
+16   to-apples comparison.  Professor Heston crafted his first methodology to address the precise issues 
+17   which Defendants now maintain render his second methodology unreliable.  See Docket No. 536.  
+18   As Defendants themselves emphasize in their supplemental briefing and expert reports, there are 
+19   reasons why the use of actual data may create problems, given the existence of the bid-ask spread.   
+20        Moreover, Defendants’ plan to utilize the first methodology to cross-examine Professor 
+21   Heston may (assuming it occurs as noted in Dr. Seru’s supplemental report) open the door to Dr. 
+22   Heston’s explanation and defense of that methodology should he so choose to so testify.3 
+23                                                                         
+    2 As the Final Pretrial Conference Order explained, the use of one implied volatility for all options 
+24                                                                         
+    with the same maturity is an assumption that is derived from the BSM model itself.  See Docket 
+    No. 508 at 45.  The Court held that this assumption was sufficiently warranted for Daubert 
+25                                                                         
+    purposes.  Id.                                                        
+
+26                                                                         
+    3 In their supplemental opposition to Plaintiff’s motion in limine, Defendants volunteered to 
+    refrain from referencing the prior Daubert motion practice or asking Plaintiff’s experts as to the 
+27                                                                         
+    reason why they changed their methodology.  See Docket No. 633 at 1.  Nonetheless, if 
+1        In sum: now that the issues have evolved, and in light of the supplemental material 
+2   submitted by the parties, the Court finds that Professor Heston’s original methodology (along with 
+3   his subsequent methodology) passes Daubert.  There is nothing so fundamentally wrong with 
+4   either of the methodologies employed by Professor Heston that would render them so unreliable as 
+5   to be inadmissible under Daubert.  Of course, they are subject to cross-examination.  The Court 
+6   DENIES Defendants’ Daubert challenge to Professor Heston’s use of artificial data to calculate 
+7   the “revalued fitted option value” (i.e. the “actual” price).  Plaintiff may choose to put on evidence 
+8   deriving from the first (and/or subsequent) methodologies at trial.   
+9   C.   Conclusion                                                       
+10        For the foregoing reasons, Plaintiff’s emergency motion in limine regarding stock option 
+11   damages is DENIED.  Defendants’ Daubert challenge to Professor Heston’s initial methodology 
+12   is also DENIED.                                                       
+13        This order disposes of Docket No. 611.                           
+14                                                                         
+15        IT IS SO ORDERED.                                                
+16                                                                         
+17   Dated: January 30, 2023                                               
+18                                                                         
+19                                   ______________________________________ 
+                                    EDWARD M. CHEN                        
+20                                   United States District Judge          
+21                                                                         
+22                                                                         
+23                                                                         
+24                                                                         
+25                                                                         
+26                                                                         
+27                                                                         

@@ -1,0 +1,25 @@
+{
+  "source": "Caselaw Access Project via CourtListener",
+  "case_name": "Janus Capital v. First Derivative",
+  "cluster_id": 218666,
+  "case_name_cl": "Janus Capital Group, Inc. v. First Derivative Traders",
+  "date_filed": "2011-06-13",
+  "court": "Supreme Court of the United States",
+  "court_citation_string": "SCOTUS",
+  "citations": [
+    "180 L. Ed. 2d 166",
+    "131 S. Ct. 2296",
+    "564 U.S. 135",
+    "2011 U.S. LEXIS 4380",
+    "22 Fla. L. Weekly Fed. S 1124",
+    "79 U.S.L.W. 4466"
+  ],
+  "docket_number": "09-525",
+  "docket_id": 665839,
+  "judges": "Thomas, Breyer, Ginsburg, Sotomayor, Kagan",
+  "num_opinions": 3,
+  "num_cited_by": 20,
+  "absolute_url": "/opinion/218666/janus-capital-group-inc-v-first-derivative-traders/",
+  "legal_principle": "who is the 'maker' of a statement",
+  "year": 2011
+}

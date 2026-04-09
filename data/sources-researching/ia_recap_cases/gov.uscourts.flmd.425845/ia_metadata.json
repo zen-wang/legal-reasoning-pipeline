@@ -1,0 +1,25 @@
+{
+  "identifier": "gov.uscourts.flmd.425845",
+  "collection": [
+    "usfederalcourts",
+    "USGovernmentDocuments",
+    "government-documents"
+  ],
+  "contributor": "<a href=\"https://free.law\" rel=\"ugc nofollow\">Free Law Project</a>",
+  "court": "flmd",
+  "description": "This item represents a case in PACER, the U.S. Government's website for federal case data. If you wish to see the entire case, please consult PACER directly.",
+  "language": "eng",
+  "licenseurl": "https://www.usa.gov/government-works",
+  "mediatype": "texts",
+  "scanner": "Internet Archive Python library 3.6.0",
+  "source_url": "https://www.courtlistener.com/docket/68391435/15/american-integrity-insurance-company-v-john-doe-owneruser-of-the-email/",
+  "title": "American Integrity Insurance Company v. John Doe, owner/user of the email address fraud@americanintegrityfraud.com",
+  "uploader": "info@free.law",
+  "collection_added": [
+    "additional_collections",
+    "USGovernmentDocuments",
+    "government-documents"
+  ],
+  "publicdate": "2024-04-09 09:05:14",
+  "addeddate": "2024-04-09 09:05:14"
+}

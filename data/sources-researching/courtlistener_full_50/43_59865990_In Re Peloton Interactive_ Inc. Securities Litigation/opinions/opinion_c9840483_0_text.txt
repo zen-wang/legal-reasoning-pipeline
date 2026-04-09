@@ -1,0 +1,259 @@
+UNITED STATES DISTRICT COURT                                              
+EASTERN DISTRICT OF NEW YORK                                              
+---------------------------------------------------------------- x        
+                                :                                        
+ASHLEY WILSON, Individually and on behalf of  :  REPORT &                 
+all others similarly situated,   :          RECOMMENDATION                 
+                  Plaintiff,    :                                        
+                                :                                        
+             -against-          :                                        
+                                :          1:21-cv-02369 (CBA)(PK)       
+                                :                                        
+PELOTON INTERACTIVE, INC.,       :                                         
+JOHN FOLEY, JILL WOODWORTH       :                                        
+                                :  :                                     
+                                             Defendants.   :             
+                                :                                        
+                                :                                        
+                                :                                        
+LEIGH DRORI, Individually and on behalf of all  :                         
+others similarly situated,       :                                        
+                  Plaintiff,    :          1:21-cv-02925 (CBA)(PK)       
+                                :                                        
+                                :                                        
+             -against-          :                                        
+                                :                                        
+                                :                                        
+PELOTON INTERACTIVE, INC.,       :                                        
+JOHN FOLEY, JILL WOODWORTH       :                                        
+                                :  :                                     
+                                             Defendants.   :             
+                                :                                        
+---------------------------------------------------------------- x        
+
+
+Peggy Kuo, United States Magistrate Judge:                                
+
+    This Report and Recommendation addresses a motion to consolidate the two above-named 
+class action lawsuits brought under the Securities Exchange Act of 1934 (the “Exchange Act”), to 
+appoint lead plaintiff and to approve class counsel.  For the reasons below, the undersigned 
+respectfully recommends that the motion be granted.                       
+                         BACKGROUND                                      
+    On April 29, 2021, Plaintiff Ashley Wilson brought a securities class action lawsuit against 
+Peloton Interactive, Inc. (“Peloton”), John Foley and Jill Woodworth (collectively, “Defendants”), 
+seeking compensable damages caused by Defendants’ violations of the federal securities laws under 
+the Exchange Act.  (See Dkt. 1 of 1:21-cv-02369(CBA)(PK) (the “Wilson Action”)1 ¶ 1.)  An 
+Amended Complaint was filed on May 6, 2021.  (“Am. Compl.,” Dkt. 8.)  Plaintiff Wilson alleges 
+
+that Defendants made materially false and misleading statements regarding Peloton’s business, 
+operational and financial results, by failing to disclose several adverse facts regarding serious safety 
+threats posed by Peloton’s Tread+.  (Am. Compl. ¶ 26.)  The Amended Complaint alleges that 
+Defendants knew that Peloton’s public documents and statements were materially false and 
+misleading and would be issued or disseminated to the investing public, and, as a result, the market 
+price of Peloton’s securities was artificially inflated.  (Id. ¶¶ 48, 50.)   
+    On the same day the original complaint was filed, counsel for Plaintiff Wilson published a 
+notice on Business Wire, announcing that a securities class action lawsuit had been filed against 
+Defendants, providing information on how to join the lawsuit, and advising anyone who wished to 
+serve as lead plaintiff to make a motion to the Court no later than June 28, 2021.  (Ex. A to 
+Declaration of James M. Wilson, Jr. (the “Notice”), Dkt. 27-1.)           
+    On May 24, 2021, Plaintiff Leigh Drori brought a securities class action lawsuit against the 
+
+Defendants, also seeking damages caused by Defendants’ violations of the Exchange Act.  (See Dkt. 
+1 of 1:21-cv-02925(CBA)(PK) (the “Drori Action”).)   The Drori Action similarly alleges that 
+Defendants made materially false and misleading statements by failing to disclose adverse facts 
+regarding serious safety threats posed by Peloton’s Tread+.  (Id. ¶¶ 24, 48, 50.)   
+
+
+1  Unless otherwise noted, the docket references are to the Wilson Action. 
+    In response to the Notice, seven individuals filed motions for consolidation, to serve as lead 
+plaintiff and to appoint lead counsel.  (Dkts. 18, 22, 24, 25, 28.)  One of those individuals was 
+Richard Neswick, who moved the Court on June 28, 2021 pursuant to the Private Securities 
+Litigation Reform Act (“PSLRA”), for an Order (a) consolidating the Wilson Action and Drori 
+Action, (b) appointing Neswick to serve as Lead Plaintiff in the consolidated action and (c) 
+approving Neswick’s selection of Faruqi & Faruqi, LLP as lead counsel.  (“Motion,” Dkt. 25.2)  In 
+
+addition, Neswick filed a “Certification of Proposed Lead Plaintiff” in compliance with 15 U.S.C. § 
+78u-4(a)(2).  (Ex. B to Declaration of James M. Wilson, Jr. (“Neswick Certification”), Dkt. 27-2.3) 
+    After Neswick filed the Motion, the other six individuals who had sought to be appointed as 
+lead plaintiff either withdrew their motions or filed notices that they did not oppose Neswick’s 
+Motion.4  (Dkts. 31, 32, 33, 34.)                                         
+                          DISCUSSION                                     
+I.  Motion for Consolidation                                             
+    Pursuant to Fed. R. Civ. P. 42(a)(2), the Court may consolidate actions before it if they 
+“involve a common question of law or fact.”                               
+    Both the Wilson and Drori Actions allege violations of §§ 10(b) and 20(a) of the Exchange 
+Act and Securities and Exchange Commission (“SEC”) Rule 10b-5, promulgated thereunder.  They 
+also allege that Defendants violated the Exchange Act by knowingly making materially false and 
+
+
+2 The same Motion was filed at Dkt. 12 of the Drori Action.               
+
+3  The same Certification was filed at Dkt. 14-2 of the Drori Action.     
+
+4 On July 1, 2021, Drew H. Brown, Sr., Jennifer Phung and David C. Millhisler filed a notice withdrawing 
+their motion for consolidation, appointment as lead plaintiffs and approval of lead counsel.  (Dkt. 31.)  
+On July 8, 2021, Melkon Krikorian filed a Notice of Non-Opposition to Competing Motions for 
+Consolidation, Appointment as Lead Plaintiff, and Approval of Lead Counsel stating that “it appears that 
+Krikorian does not have the ‘largest financial interest’ in this litigation within the meaning of the PSLRA.”  
+(Dkt. 32 at 2.)  On July 9, 2021, Bijan Khamanian filed a notice of non-opposition, and George Vayner 
+withdrew his motion; both of these movants also acknowledged that they did “not appear to have the largest 
+financial interest.”  (Dkt. 33 at 2; Dkt. 34 at 2.)                       
+misleading statements regarding the accuracy of financial reporting and material changes to 
+Peloton’s internal control over financial reporting and disclosure of all fraud, which caused the 
+artificial inflation of Peloton’s securities.  (Am. Compl. ¶¶ 26, 31, 50, 52, 59; Dkt. 1 ¶¶ 24, 48, 50 of 
+the Drori Action.)  Both actions assert claims on behalf of investors who were defrauded by the 
+same group of defendants.  They also allege that Defendants’ materially false and misleading 
+statements led to artificially inflated prices of Peloton securities, which subsequently damaged class 
+
+members when the Peloton stock prices fell.  (Am. Compl. ¶¶ 51–53, 59; Dkt. 1 ¶¶ 50–52 of the 
+Drori Action.)  Both actions define the same class period, from September 11, 2020 through May 5, 
+2021 (Am. Compl. ¶ 1; Dkt. 1 ¶ 1 of the Drori Action.)                    
+    Because the Wilson and Drori Actions involve substantially similar claims and common 
+questions of law and fact, consolidation is appropriate.  See Fed. R. Civ. P. 42(a); Malcolm v. Nat’l 
+Gypsum Co., 995 F.2d 346, 350 (2d Cir. 1993) (citing Johnson v. Celotex Corp., 899 F.2d 1281, 1284-85 
+(2d Cir. 1990)); In re Tronox, Inc. Sec. Litig., 262 F.R.D. 338, 344 (S.D.N.Y. 2009) (consolidating 
+securities class actions); Blackmoss Invs., Inc. v. ACA Capital Holdings, Inc., 252 F.R.D. 188, 190 
+(S.D.N.Y. 2008) (same).                                                   
+    Accordingly, the undersigned respectfully recommends that the motion to consolidate the 
+Wilson and Drori Actions be granted.                                      
+II.  Appointment of Lead Plaintiff                                       
+
+    In securities class actions, the PSLRA provides for the appointment of a lead plaintiff and 
+lead counsel.  The PSLRA requires plaintiffs, within twenty days of filing the complaint, to 
+    cause to be published, in a widely circulated national business-oriented publication or wire 
+    service, a notice advising members of the purported plaintiff class— 
+
+    (I) of the pendency of the action, the claims asserted therein, and the purported class period; 
+    and                                                                  
+    (II) that, not later than 60 days after the date on which the notice is published, any member 
+    of the purported class may move the court to serve as lead plaintiff of the purported class. 
+
+15 U.S.C. § 78u-4(a)(3)(A)(i).  “If more than one action on behalf of a class asserting substantially 
+the same claim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first 
+filed action shall be required to cause notice to be published.”  15 U.S.C. § 78u-4(a)(3)(B)(ii).   
+    Here, Plaintiff Wilson published the Notice on Business Wire, a widely circulated national 
+business-oriented wire service, the same day she filed her complaint.  See In re Hebron Tech. Co., Ltd. 
+Sec. Litig., No. 20 CIV. 4420 (PAE), 2020 WL 5548856, at *6 (S.D.N.Y. Sept. 16, 2020) (finding that 
+a notice published on Business Wire satisfied Rule 23).  The Notice stated that the Wilson Action 
+had been filed, described the claims in the action, and indicated a class period of September 11, 2020 
+to April 16, 2021.  (Dkt. 20-3 at 2 (page numbers references ECF pagination).)  It also stated a 
+deadline of June 28, 2021—60 days from the publication date of April 29, 2021—to make a motion 
+to be appointed as lead plaintiff.  (Id.)                                 
+    Neswick timely moved for appointment as lead plaintiff on June 28, 2021.  (Motion.)  See 15 
+U.S.C. § 78u-4(a)(3)(A)(i)(II); Fed. R. Civ. P. 6(a).  With his Motion, and in compliance with Section 
+21D(a)(2) of the Exchange Act, 15 U.S.C. § 78u-4(a)(2), he submitted a signed certification stating 
+that he has reviewed the complaint and adopts its allegations, that he did not purchase Peloton stock 
+at the direction of counsel or in order to participate in any federal securities lawsuit, that he is willing 
+to serve as a class representative, that he has not sought to serve as a class representative in any 
+securities class action in the past three years, and that he will not accept payment for serving as a 
+class representative beyond his pro rata share of any recovery, except as ordered or approved by the 
+Court.  (Neswick Certification at 2 (page numbers reference ECF pagination).)  He also identified all 
+his trades in Peloton stocks during the class period.  (Id. ¶¶ 3, 5.)     
+    The six other members of the purported class who also moved to serve as lead plaintiff 
+within the sixty-day time frame have withdrawn their motions or stated their non-opposition.  (Dkts. 
+31, 32, 33, 34; see supra note 4.)  The Motion is, thus, unopposed.       
+    Under the PSLRA, the court “shall appoint as lead plaintiff the member or members of the 
+purported plaintiff class that the court determines to be most capable of adequately representing the 
+interest of the class members,” known as the “most adequate plaintiff.”  15 U.S.C. § 78u-
+
+4(a)(3)(B)(i).                                                            
+    [T]he court shall adopt a presumption that the most adequate plaintiff in any private action 
+    … is the person or group of persons that—                            
+
+    (aa) has either filed the complaint or made a motion in response to a notice under 
+    subparagraph (A)(i);                                                 
+
+    (bb) in the determination of the court, has the largest financial interest in the relief sought by 
+    the class; and                                                       
+
+    (cc) otherwise satisfies the requirements of Rule 23 of the Federal Rules of Civil Procedure. 
+
+15 U.S.C. § 78u-4(a)(3)(B)(iii)(I).  The presumption “may be rebutted only upon proof by a member 
+of the purported plaintiff class…”  15 U.S.C. § 78u-4(a)(3)(B)(iii)(II).  
+    “In making the determination of which plaintiff has the greatest financial interest, courts 
+consider four factors: (1) the number of shares purchased during the class period; (2) the number of 
+net shares purchased during the class period; (3) the total net funds expended during the class 
+period; and (4) the approximate losses suffered.”  Clifford v. TRON Found., No. 20-CV-2804 (VSB), 
+2020 WL 3577923, at *2 (S.D.N.Y. June 30, 2020) (citing In re eSpeed, Inc. Sec. Litig., 232 F.R.D. 95, 
+100 (S.D.N.Y. 2005)); see also Xiangdong Chen v. X Fin., No. 19-CV-6908-KAM-SJB, 2020 WL 
+2478643, at *3 (E.D.N.Y. May 13, 2020).  “The fourth factor, the approximate losses suffered, is 
+considered to be the most important.”  Xiangdong Chen, 2020 WL 2478643, at *3 (collecting cases); see 
+also Clifford, 2020 WL 3577923 at *2.                                     
+    Neswick purchased 29,355 Peloton shares on October 8, 2020 at $113.88 per share and sold 
+the same number of shares on May 6, 2021 at $80.49 per share.  (Neswick Certification ¶¶ 3, 5.)  
+Thus, Neswick paid $3,342,947.40 and was only able to receive $2,362,783.90 for the same number 
+of shares, a difference of $980,163.50; Neswick states that he suffered losses of $900,611.37.  (Dkt. 
+26 at 9.)  The other movants do not dispute that Neswick has the largest financial interest among 
+them.  (Dkts. 31; 32 at 2; 33 at 2; 34 at 2.)  Because no other purported class member has shown a 
+
+greater loss, Neswick has the largest financial interest in the relief sought. 
+    Finally, Neswick satisfies the requirements of Rule 23 of the Federal Rules of Civil 
+Procedure.  The Court need only consider “whether the proposed plaintiff has made a ‘preliminary 
+showing’ that two Rule 23 requirements—typicality and adequacy—are satisfied.”  Xiangdon Chen, 
+2020 WL 2478643 at *4 (citing cases); see also Omdahl v. Farfetch Limited, No. 19-CV-8657 (AJN), 2020 
+WL 3072291, at *3 (S.D.N.Y. June 10, 2020) (citing In re Deutsche Bank Aktiengesellschaft Sec. Litig., No. 
+16-CV-03495 (CM), 2016 WL 5867497, at *4 (S.D.N.Y. Oct. 4, 2016)).        
+    “To establish typicality under Rule 23(a)(3), the party…must show that ‘each class member’s 
+claim arises from the same course of events and each class member makes similar legal arguments to 
+prove the defendant’s liability.’”  In re Flag Telecom Holdings, Ltd. Sec. Litig., 574 F.3d 29, 35 (2d Cir. 
+2009) (quoting Robidoux v. Celani, 987 F.2d 931, 936 (2d Cir. 1993)).  Neswick’s claims are typical of 
+the class because he purchased Peloton stock during the class period and suffered losses which he 
+
+claims were due to Defendants’ false and misleading statements.  The purported class members are 
+all those who purchased or acquired Peloton securities during the class period and “were damaged 
+thereby.”  (Am. Compl. ¶ 37.)  Because Neswick’s claims arise from the same alleged conduct by 
+Defendants, and the class members make similar legal arguments in support of their claims, Neswick 
+has established typicality.                                               
+    Adequacy “entails inquiry as to whether: (1) plaintiff’s interests are antagonistic to the 
+interest of other members of the class and (2) plaintiff’s attorneys are qualified, experienced and able 
+to conduct the litigation.”  Flag Telecom Holdings, 574 F.3d at 35 (citing Baffa v. Donaldson, Lufkin & 
+Jenrette Sec. Corp., 222 F.3d 52, 60 (2d Cir. 2000)).                     
+    Courts find that a plaintiff’s interests are not antagonistic to the class where, as here, the case 
+is “based on alleged violations of the Securities Act where class members are relying on the same 
+
+statements or omissions as the factual basis of their claims, and where the financial losses are tied to 
+the drop in value” as a result of the false or misleading statements.  See Xiangdong Chen, 2020 WL 
+2478643 at *4 (losses tied to drop in value that occurred after IPO); see also Quan v. Advanced Battery 
+Techs., Inc., No. 11 Civ. 2279(CM), 2011 WL 4343802, at *3 (S.D.N.Y. Sept. 9, 2011) (finding movant 
+“suffered losses as a result of [the company’s] false and misleading statements during the same 
+period as the other movants, plaintiffs, and potential class members, and…he is alleging violations 
+of the same provisions of the [Exchange Act], against the same defendants as the other parties”).   
+    With respect to the second prong, Faruqi & Faruqi, LLP is qualified, experienced and able to 
+conduct the litigation.  The firm has served as co-lead counsel or sole lead counsel in several class 
+action federal securities fraud matters in various jurisdictions.  (Ex. C to Declaration of James M. 
+Wilson, Jr., Dkt. 27-3 at 2-3.)  These cases appear to have involved complex legal issues and large 
+monetary amounts.  (Id.)                                                  
+
+    Therefore, Neswick satisfies the adequacy requirement.               
+    Because no other class member has provided any proof to rebut Neswick’s showing, the 
+presumption in the PLSRA that Neswick is the most adequate plaintiff stands.  See, e.g.¸Clifford, 2020 
+WL 3577923, at *3 (“In the absence of any competing motions, … there is no basis to rebut 
+Movants’ presumptive lead plaintiff status in this case”).                
+III.  Appointment of Lead Counsel                                         
+    The PLSRA requires that “[t]he most adequate plaintiff shall, subject to the approval of the 
+court, select and retain counsel to represent the class.”  15 U.S.C. § 78u-4(a)(3)(B)(v).  Courts defer 
+to a plaintiff’s selection of counsel “‘and will only reject the plaintiff’s choice … if necessary to 
+protect the interests of the class.’”  Xiangdong Chen, 2020 WL 2478643, at *5 (quoting Bray v. Frontier 
+Commc’ns Corp., No. 17-CV-1617, 2018 WL 525485, at *11 (D. Conn. Jan. 18, 2018)).  As referenced 
+
+above, Neswick’s chosen counsel, Faruqi & Faruqi, LLP, has substantial experience in litigating 
+complex class actions on behalf of plaintiffs, including securities class actions, and has served as the 
+sole lead counsel in several prominent securities class actions.  (Dkt. 35 at 8.)  The undersigned 
+therefore finds no reason to disturb Neswick’s selection of lead counsel. 
+                         CONCLUSION                                      
+    For the foregoing reasons, the undersigned respectfully recommends that the Motion be 
+granted, and that the Wilson Action and Drori Action be consolidated, that Richard Neswick be 
+appointed as lead plaintiff, and that Faruqi & Faruqi, LLP be appointed as lead counsel. 
+    Any objections must be filed in writing with the Clerk of Court within fourteen (14) days of 
+service.  28 U.S.C. § 636(b)(1); Fed. R. Civ. P. 72(b).  Failure to timely file any such objection waives 
+the right to appeal the District Court’s Order.  Caidor v. Onondaga Cty., 517 F.3d 601, 604 (2d Cir. 
+2008).                                                                    
+                             SO ORDERED:                                 
+                             Peggy Kuo                                   
+
+
+                             PEGGY KUO                                   
+                             United States Magistrate Judge              
+
+Dated:  Brooklyn, New York                                                
+     October 26, 2021                                                    

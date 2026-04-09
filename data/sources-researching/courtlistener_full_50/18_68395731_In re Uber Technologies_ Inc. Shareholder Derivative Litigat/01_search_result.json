@@ -1,0 +1,168 @@
+{
+  "assignedTo": "Maryellen Noreika",
+  "assigned_to_id": null,
+  "attorney": [
+    "Howard S. Suskin",
+    "Enoch P. Hicks",
+    "Gabriel K. Gillett",
+    "Michael I. Fistel , Jr.",
+    "Christopher Hamp Lyons",
+    "Mary E. Conner",
+    "Robert Lewis Burns",
+    "Alexandra M. Ewing",
+    "Tayler D Bolton"
+  ],
+  "attorney_id": [
+    9775008,
+    9775009,
+    9924435,
+    9924436,
+    9924437,
+    9089086,
+    9775005,
+    9775006,
+    9775007
+  ],
+  "caseName": "In re Uber Technologies, Inc. Shareholder Derivative Litigation",
+  "case_name_full": "",
+  "cause": "15:78m(a) Securities Exchange Act",
+  "chapter": null,
+  "court": "District Court, D. Delaware",
+  "court_citation_string": "D. Del.",
+  "court_id": "ded",
+  "dateArgued": null,
+  "dateFiled": "2024-03-29",
+  "dateTerminated": "2025-03-26",
+  "docketNumber": "1:24-cv-00403",
+  "docket_absolute_url": "/docket/68395731/in-re-uber-technologies-inc-shareholder-derivative-litigation/",
+  "docket_id": 68395731,
+  "firm": [
+    "Robbins Geller Rudman & Dowd LLP",
+    "Robbins Geller Rudman & Dowd, LLP"
+  ],
+  "firm_id": [
+    164886,
+    983959
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2025-05-13T17:51:06.021259Z",
+    "date_created": "2024-04-01T15:16:50.530787Z",
+    "score": {
+      "bm25": 3391.1885
+    },
+    "more_docs": true
+  },
+  "pacer_case_id": "85386",
+  "party": [
+    "Wan Ling Martello",
+    "Revathi Advaithi",
+    "Nelson Chai",
+    "Nikki Krishnamurthy",
+    "Feghali Foods Inc. PSP",
+    "Dara Khosrowshahi",
+    "Alexander Wynaendts",
+    "Uber Technologies, Inc.",
+    "Ursula Burns",
+    "David Trujillo",
+    "John Thain",
+    "Ronald Sugar",
+    "Prashanth Mahendra-Rajah",
+    "Rohit Jain",
+    "Yasir Al-Rumayyan",
+    "Amanda Ginsberg",
+    "Robert Eckert"
+  ],
+  "party_id": [
+    13509002,
+    13509003,
+    13509004,
+    13509005,
+    13509006,
+    13509007,
+    13509008,
+    13509009,
+    13509010,
+    13509011,
+    13509012,
+    13509013,
+    13509014,
+    13509015,
+    14531924,
+    14531925,
+    14531926
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/68395731/32/in-re-uber-technologies-inc-shareholder-derivative-litigation/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "AMENDED COMPLAINT // Verified Consolidated Shareholder Derivative Complaint for Breach of Fiduciary Duty, Unjust Enrichment, Corporate Waste, Contribution, and Violations of the Federal Securities Laws against Revathi Advaithi, Yasir Al-Rumayyan, Ursula Burns, Nelson Chai, Robert Eckert, Amanda Ginsberg, Dara Khosrowshahi, Nikki Krishnamurthy, Wan Ling Martello, Ronald Sugar, John Thain, David Trujillo, Uber Technologies, Inc., Alexander Wynaendts- filed by Rohit Jain, Feghali Foods Inc. PSP. (Attachments: # 1 Verification of Plaintiff Rohit Jain, # 2 Verification of Plaintiff Feghali Foods Inc. PSP, # 3 Exhibit A (redline compare))(Lyons, Christopher) Modified on 9/10/2024 (dlw). (Entered: 09/09/2024)",
+      "docket_entry_id": 401755988,
+      "document_number": 32,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2024-09-09",
+      "entry_number": 32,
+      "filepath_local": "recap/gov.uscourts.ded.85386/gov.uscourts.ded.85386.32.0.pdf",
+      "id": 411295729,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2025-05-13T17:51:06.014034Z",
+        "date_created": "2024-09-09T21:06:54.658188Z"
+      },
+      "pacer_doc_id": "04306539484",
+      "page_count": 43,
+      "short_description": "Complaint - Amended",
+      "snippet": "Case 1:24-cv-00403-MN          Document 32   Filed 09/09/24    Page 1 of 43 PageID #: 154\n\n\n\n\n                         IN THE UNITED STATES DISTRICT COURT\n\n                              FOR THE DISTRICT OF DELAWARE\n\n IN RE UBER TECHNOLOGIES, INC.\n SHAREHOLDER DERIVATIVE                       C.A. No. 24-00403-MN\n                                              (consolidated with C.A. No. 24-00758-\n LITIGATION                                   MN)\n\n\n\n\n  VERIFIED CONSOLIDATED SHAREHOLDER DERIVATIVE C"
+    },
+    {
+      "absolute_url": "",
+      "attachment_number": null,
+      "cites": [],
+      "description": "SO ORDERED, re 25 MOTION for Pro Hac Vice Appearance of Attorney Gabriel K. Gillett filed by Uber Technologies, Inc.. ORDERED by Judge Maryellen Noreika on 4/25/2024. (mdb)",
+      "docket_entry_id": 400679840,
+      "document_number": null,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2024-04-25",
+      "entry_number": null,
+      "filepath_local": null,
+      "id": 418766746,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-05-13T17:51:06.014034Z",
+        "date_created": "2024-11-05T03:03:20.479139Z"
+      },
+      "pacer_doc_id": "",
+      "page_count": null,
+      "short_description": "",
+      "snippet": ""
+    },
+    {
+      "absolute_url": "/docket/68395731/24/in-re-uber-technologies-inc-shareholder-derivative-litigation/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "NOTICE of Appearance by Robert Lewis Burns on behalf of Uber Technologies, Inc. (Burns, Robert) (Entered: 04/25/2024)",
+      "docket_entry_id": 386488373,
+      "document_number": 24,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2024-04-25",
+      "entry_number": 24,
+      "filepath_local": null,
+      "id": 395101849,
+      "is_available": false,
+      "meta": {
+        "timestamp": "2025-05-13T17:51:06.014034Z",
+        "date_created": "2024-04-25T18:08:35.604041Z"
+      },
+      "pacer_doc_id": "04306400698",
+      "page_count": null,
+      "short_description": "Notice of Appearance",
+      "snippet": ""
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "160 Stockholders Suits",
+  "trustee_str": null
+}

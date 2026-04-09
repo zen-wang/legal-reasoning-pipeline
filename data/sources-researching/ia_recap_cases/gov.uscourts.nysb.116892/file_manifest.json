@@ -1,0 +1,15 @@
+{
+  "identifier": "gov.uscourts.nysb.116892",
+  "title": "Enron Corp. v. Avenue Special Situation, Fund II, LP",
+  "total_files": 10,
+  "pdf_count": 5,
+  "xml_count": 2,
+  "json_count": 1,
+  "pdf_files": [
+    "gov.uscourts.nysb.116892.110.0.pdf",
+    "gov.uscourts.nysb.116892.35.0.pdf",
+    "gov.uscourts.nysb.116892.38.0.pdf",
+    "gov.uscourts.nysb.116892.75.0.pdf",
+    "gov.uscourts.nysb.116892.82.0.pdf"
+  ]
+}

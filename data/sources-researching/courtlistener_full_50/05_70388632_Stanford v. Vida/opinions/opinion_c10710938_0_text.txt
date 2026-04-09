@@ -1,0 +1,221 @@
+          IN THE UNITED STATES DISTRICT COURT                          
+           FOR THE WESTERN DISTRICT OF TEXAS                           
+                     AUSTIN DIVISION                                   
+
+JASON RUDOLPH STANFORD,        §    No. 1:25-CV-792-DAE                   
+                            §                                          
+                   Plaintiff,  §                                       
+                            §                                          
+vs.                            §                                          
+                            §                                          
+BEHROOZ P. VIDA, et al.,       §                                          
+                            §                                          
+                    Defendants.  §                                     
+________________________________                                          
+ORDER: (1) ADOPTING REPORT AND RECOMMENDATION; (2) DENYING                
+  PLAINTIFF’S MOTIONS; (3) DISMISSING RICO CLAIMS WITH                 
+PREJUDICE; AND (4) DISMISSING STATE-LAW CLAIMS WITHOUT                 
+                        PREJUDICE                                      
+
+       Before the Court is: (1) a Report and Recommendation (the “Report”) 
+(Dkt. # 5) submitted by United States Magistrate Judge Mark Lane; and (2) no less 
+than nineteen motions and other filings by Pro Se Plaintiff Jason Rudolph Stanford 
+(“Plaintiff” or “Stanford”).  (Dkts. ## 7–25.)  The Court finds these matters 
+suitable for disposition without a hearing.  After reviewing the Report, the Court 
+ADOPTS Judge Lane’s recommendations and DISMISSES WITH PREJUDICE          
+Plaintiff’s RICO claims as frivolous pursuant to 28 U.S.C. § 1915(e)(2)(B) and 
+DISMISSES WITHOUT PREJUDICE Plaintiff’s state-law claims.                 
+Accordingly, Plaintiff’s pending motions (Dkts. ## 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+16, 17, 18, 19, 20, 21, 23, 24, 25) are DENIED.  The Court again WARNS    
+Plaintiff that continuing to file frivolous or duplicative suits in this court may result 
+in imposition of monetary sanctions and a pre-filing bar.                 
+
+                      BACKGROUND                                       
+       Jason Stanford, a resident of Irving, Texas, is a repeat pro se filer who 
+was declared a vexatious litigant by the United States District Court for the 
+
+Northern District of Texas, where he must seek leave before filing any new 
+litigation.  See Stanford v. England Carrier Servs. LLC, No. 4:24-CV-00241-O-
+BP, 2024 WL 3732487, at *1 (N.D. Tex. Aug. 7, 2024).  The Northern District also 
+sanctioned Stanford under Rule 11 for knowingly filing false and misleading 
+
+documents.  England Carrier, No. 4:24-CV-00241-O-BP, Dkt. 24 (July 23, 2024).  
+Since then, he has filed several cases in this District.  See Stanford v. State of 
+Texas, No. 1:24-CV-01132-RP (W.D. Tex. Sept. 24, 2024) (sharing many of the 
+
+same defendants as the above-captioned action before it was dismissed as  
+frivolous); Stanford v. Vida (“Vida II”), No. 1:25-CV-00817-DAE-ML (W.D. Tex. 
+May 28, 2025).  This suit duplicates all but one of his defendants in Vida (II) and 
+shares many defendants with his Texas and England Carrier suits.  Judge Lane also 
+
+issued a vexatious litigant warning in Vida (II).  No. 1:25-CV-00817-DAE-ML 
+(Dkt. # 6).                                                               
+       In the present case, Plaintiff brings claims against Behrooz P. Vida, 
+
+the Chapter 7 Trustee in his bankruptcy matter and Vida’s law firm, Vida Law 
+Firm, PLLC.  He sues corporate entities England Carrier Services, LLC (“ECS”); 
+NFusion Capital Finance, LLC; and GlobalTranz Enterprises, LLC (collectively, 
+
+the “Corporate Defendants”).  He also sues the attorneys who represented these 
+entities: Lauren M. Nelson, Christopher Snead, Joseph Luce, Ken Starr, and 
+Spencer Fane LLP, attorneys Nelson and Snead’s firm.  Finally, he sues his own 
+
+previous counsel: Marcus Leinart, Richard Anderson, and Leinart Law, PLLC.  
+Plaintiff asserts two RICO claims and four state law claims, all arising out of 
+events that took place in Plaintiff’s previous litigations and bankruptcy matters.  
+(See Dkt. # 1.)                                                           
+
+       On September 4, 2025, Judge Lane issued his Report in the present 
+case, recommending that this Court dismiss with prejudice Plaintiff’s RICO claims 
+as frivolous pursuant to 28 U.S.C. § 1915(e)(2)(B) and dismiss without prejudice 
+
+Plaintiff’s state-law claims.  Judge Lane further warned Plaintiff that continuing to 
+file frivolous or duplicative suits in this court may result in imposition of monetary 
+sanctions and pre-filing bar.  Plaintiff failed to heed Judge Lane multiple warnings 
+and proceeded to file at least 28 motions on the docket of this Court, including in 
+
+Vida (II).  Plaintiff filed his objections to the Report on September 22, 2025.  (Dkt. 
+# 26.)                                                                    
+                     APPLICABLE LAW                                    
+
+       The Court must conduct a de novo review of any of the Magistrate  
+Judge’s conclusions to which a party has specifically objected.  See 28 U.S.C. 
+§ 636(b)(1)(C) (“A judge of the court shall make a de novo determination of those 
+
+portions of the report or specified proposed findings or recommendations to which 
+objection is made.”).  The objections must specifically identify those findings or 
+recommendations that the party wishes to have the district court consider.  
+
+Thomas v. Arn, 474 U.S. 140, 151 (1985).  A district court need not consider 
+“[f]rivolous, conclusive, or general objections.”  Battle v. U.S. Parole Comm’n, 
+834 F.2d 419, 421 (5th Cir. 1987).  “A judge of the court may accept, reject, or 
+modify, in whole or in part, the findings or recommendations made by the  
+
+magistrate judge.”  28 U.S.C. § 636(b)(1)(C).                             
+       Findings to which no specific objections are made do not require de 
+novo review; the Court need only determine whether the Recommendation is  
+
+clearly erroneous or contrary to law.  United States v. Wilson, 864 F.2d 1219, 1221 
+(5th Cir. 1989).  Furthermore, conclusory objections that fail to point out with 
+specificity any error in the Magistrate Judge’s analysis are not cognizable,” and the 
+Court here will not parse through the record to infer exactly what it is Plaintiff’s 
+
+objections are based upon.  See Palomo v. Collier, No. 2-23-CV-37, 2024 WL 
+180852, at *2 (S.D. Tex. Jan. 17, 2024) (citing Fed. R. Civ. P. 72(b)(2); Malacara 
+v. Garber, 353 F.3d 393, 405 (5th Cir. 2003); Edmond v. Collins, 8 F.3d 290, 293 
+
+n.7 (5th Cir. 1993)).                                                     
+                        ANALYSIS                                       
+       In his Report, Judge Lane determined that Plaintiff “fails to allege any 
+
+facts that support his conclusory allegations of wrongdoing by the parties who 
+litigated for or against him.”  (Dkt. # 5 at 7.)  Regarding this, Judge Lane 
+determined that Plaintiff cited non-existent cases in support of his arguments and 
+
+otherwise failed to allege facts to support a pattern of racketeering activity 
+necessary to establish his RICO claims.  (Id. at 6–8.)                    
+       As a preliminary matter, the Court first addresses the various motions 
+for judicial notice to which Plaintiff cites throughout his objections.  (See Dkts. 
+
+## 7–21, 23–25.)  A district court may take judicial notice of a “fact that is not 
+subject to reasonable dispute because it (1) is generally known within the trial 
+court’s territorial jurisdiction; or (2) can be accurately and readily determined from 
+
+sources whose accuracy cannot reasonably be questioned.”  Fed. R.         
+Evid. 201(b).  While some of Plaintiff’s many pending motions for judicial notice 
+may be procedurally proper, most are disguised attempts to re-argue various points 
+and improperly ask the Court to take judicial notice of various conclusory 
+
+allegations after Judge Lane already recommended dismissal.  (See, e.g., Dkts. 
+## 7, 16, 25.)  Objections to a Report and Recommendation are not the proper 
+vehicle for allowing parties to raise at the district court new evidence, argument, 
+
+and issues that were not presented to the magistrate judge.  Cupit v. Whitley, 28 
+F.3d 532, 535 n.5 (5th Cir. 1994).  Thus, to the extent that Plaintiff cites his 
+various pending motions in support of his objections to the Report, the Court will 
+
+not consider such evidence.  Even were the Court to consider Plaintiff’s new 
+evidence, nothing contained therein raises any viable legal argument or points to 
+any error by Judge Lane.                                                  
+
+       Plaintiff first objects that the Report “contains no factual findings or 
+application of law, violating § 636(b)(1) and Rule 72(b).”  (Dkt. # 26 at 2.)  
+Plaintiff then contends that his motions, which were filed after the Report, 
+“demonstrate this defect and show that findings are indispensable.”  (Id.) (citing 
+
+Dkts. ## 7, 16, 23.)  The Court disagrees.  Judge Lane discusses the elements of 
+civil RICO claims, the pleading requirements of such claims, and the allegations 
+Plaintiff put forth in support of these elements.  (Dkt. # 5 at 5–8.)  To the extent the 
+
+Report does not address each of Plaintiff’s allegations, any deficiency is due to the 
+frivolous nature of Plaintiff’s pleadings and Plaintiff’s own failures to allege facts 
+sufficient to support his claims.                                         
+       Plaintiff next objects that the Report improperly recommends    
+
+dismissal with prejudice.  (Dkt. # 26 at 2.)  It is true that courts ordinarily should 
+not dismiss pro se complaints for failure to state a claim without first extending an 
+opportunity to amend the pleadings.  Bazrowx v. Scott, 136 F.3d 1053, 1054 (5th 
+
+Cir. 1998).  However, a chance to amend is “unnecessary in cases where the facts 
+alleged are ‘fantastic or delusional scenarios’ or the legal theory upon which a 
+complaint relies is ‘indisputably meritless.’”   Eason v. Thaler, 14 F.3d 8, 8-9 & 
+
+n.5 (5th Cir. 1994) (quoting Neitzke v. Williams, 490 U.S. 319, 327–28 (1989)).  
+Here, Judge Lane thoroughly reviewed the history of this case and Plaintiff’s 
+repeated attempts to litigate his claims despite being labeled as a vexatious litigant.  
+
+Irrespective of Plaintiff’s history of frivolous lawsuits, Judge Lane independently 
+found Plaintiff’s claims to be frivolous.  (Dkt. # 5 at 5–8.)  Therefore, the Court 
+agrees that dismissal with prejudice is proper.                           
+       Plaintiff also objects that the Report erroneously requires proof of 
+
+criminal conviction.  (Dkt. # 26 at 2).  Plaintiff does not cite to any portion of the 
+Report that requires proof of criminal conviction, and the Court cannot identify 
+where Judge Lane purports to require proof of criminal conviction.  The Report 
+
+states the common elements of a civil RICO claim and finds that Plaintiff failed to 
+allege any facts to support his conclusory allegations of wrongdoing by   
+Defendants.  (Dkt. # 5 at 5–8.)  At no point did Judge Lane base his finding on a 
+failure to allege criminal conviction.                                    
+
+       Plaintiff’s next three objections again make conclusory arguments 
+based almost entirely on reference to his various pending motions.  Plaintiff objects 
+that the Report ignored binding judicial admissions and argues that his motions 
+
+establish (1) “self-dealing and fiduciary breach,” and (2) “[f]raud upon the court 
+[which] invalidates judicial proceedings.”  (Dkt. # 26 at 2–3.)  Once again, the 
+Court will not consider new arguments and evidence that were not presented to 
+
+Judge Lane.  See Cupit, 28 F.3d at 525 n.5.  Even if the Court was to consider such 
+evidence, Plaintiff’s objections amount to legal conclusions unsupported by the 
+record.                                                                   
+
+       Based on the foregoing and given his detailed consideration, the  
+Court finds that Judge Lane’s rulings in this matter were not clearly erroneous.  
+Therefore, the Court will overrule Plaintiff’s objections, and the Report will be 
+adopted.  The Court will dismiss with prejudice Plaintiff’s RICO claims as 
+
+frivolous pursuant to 28 U.S.C. § 1915(e)(2)(B) and dismiss without prejudice 
+Plaintiff’s state-law claims due to lack of jurisdiction.  Accordingly, Plaintiff’s 
+pending motions are denied (Dkts. ## 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 
+
+20, 21, 23, 24, 25).  Lastly, the Court warns Plaintiff that continuing to file 
+frivolous or duplicative suits in this court may result in imposition of monetary 
+sanctions and a pre-filing bar.                                           
+                       CONCLUSION                                      
+
+       Based on the foregoing, the Court: (1) ADOPTS Judge Lane’s Report 
+and Recommendation (Dkt. # 5) as the opinion of the Court; and (2) DENIES 
+Plaintiff’s pending motions (Dkts. ## 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 
+
+20, 21, 23, 24, 25).  It is further ORDERED that Plaintiff’s RICO claims in this 
+case are DISMISSED WITH PREJUDICE pursuant to 28 U.S.C. 
+§  1915(e)(2)(B), and Plaintiff's remaining state-law claims are DISMISSED 
+WITHOUT PREJUDICE.  The Court again WARNS Plaintiff that continuing to 
+file frivolous or duplicative suits in this court may result in imposition of monetary 
+sanctions and a pre-filing bar.  The Clerk’s Office is INSTRUCTED to ENTER 
+JUDGMENT and CLOSE THE CASE. 
+         IT IS SO ORDERED. 
+         DATE: Austin, Texas, October 22, 2025. 
+
+                                    Senior United States District Judge

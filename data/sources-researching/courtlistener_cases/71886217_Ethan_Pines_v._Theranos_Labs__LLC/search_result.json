@@ -1,0 +1,108 @@
+{
+  "assignedTo": "Maria A. Audero",
+  "assigned_to_id": 9046,
+  "attorney": [
+    "Stephen M. Doniger",
+    "Benjamin Firestone Tookey"
+  ],
+  "attorney_id": [
+    10878630,
+    10857174
+  ],
+  "caseName": "Ethan Pines v. Theranos Labs, LLC",
+  "case_name_full": "",
+  "cause": "17:101 Copyright Infringement",
+  "chapter": null,
+  "court": "District Court, C.D. California",
+  "court_citation_string": "C.D. Cal.",
+  "court_id": "cacd",
+  "dateArgued": null,
+  "dateFiled": "2025-11-06",
+  "dateTerminated": "2026-02-02",
+  "docketNumber": "2:25-cv-10703",
+  "docket_absolute_url": "/docket/71886217/ethan-pines-v-theranos-labs-llc/",
+  "docket_id": 71886217,
+  "firm": [
+    "Doniger Burroughs APC",
+    "Doniger Burroughs"
+  ],
+  "firm_id": [
+    28059,
+    15055
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+    "timestamp": "2026-02-27T17:26:13.103485Z",
+    "date_created": "2025-11-07T02:02:25.819523Z",
+    "score": {
+      "bm25": 1074.3745
+    },
+    "more_docs": false
+  },
+  "pacer_case_id": "994656",
+  "party": [
+    "Does",
+    "Access Medical Laboratories, LLC",
+    "Theranos Labs, LLC",
+    "Ethan Pines",
+    "Ryan ElHosseiny"
+  ],
+  "party_id": [
+    16688754,
+    16649909,
+    16649910,
+    16649911,
+    16649912
+  ],
+  "recap_documents": [
+    {
+      "absolute_url": "/docket/71886217/5/pines-v-theranos-labs-llc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "Request for Clerk to Issue Summons on Complaint (Attorney Civil Case Opening) 1 filed by Plaintiff Ethan Pines. (Doniger, Stephen) (Entered: 11/06/2025)",
+      "docket_entry_id": 443412287,
+      "document_number": 5,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-11-06",
+      "entry_number": 5,
+      "filepath_local": "recap/gov.uscourts.cacd.994656/gov.uscourts.cacd.994656.5.0.pdf",
+      "id": 458047954,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2026-02-27T17:26:13.073142Z",
+        "date_created": "2025-11-07T02:02:25.865030Z"
+      },
+      "pacer_doc_id": "031046277778",
+      "page_count": 2,
+      "short_description": "Summons Request",
+      "snippet": "             Case 2:25-cv-10703                 Document 5      Filed 11/06/25        Page 1 of 2 Page ID #:29\n\nAO 440 (Rev. 06/12) Summons in a Civil Action\n\n\n                                      UNITED STATES DISTRICT COURT\n                                                                 for the\n                                                     Central District\n                                                  __________  DistrictofofCalifornia\n                                             "
+    },
+    {
+      "absolute_url": "/docket/71886217/1/pines-v-theranos-labs-llc/",
+      "attachment_number": null,
+      "cites": [],
+      "description": "COMPLAINT Receipt No: ACACDC-40865786 - Fee: $405, filed by Plaintiff Ethan Pines. (Attorney Stephen M. Doniger added to party Ethan Pines(pty:pla))(Doniger, Stephen) (Entered: 11/06/2025)",
+      "docket_entry_id": 443412308,
+      "document_number": 1,
+      "document_type": "PACER Document",
+      "entry_date_filed": "2025-11-06",
+      "entry_number": 1,
+      "filepath_local": "recap/gov.uscourts.cacd.994656/gov.uscourts.cacd.994656.1.0.pdf",
+      "id": 458047975,
+      "is_available": true,
+      "meta": {
+        "timestamp": "2026-02-27T17:26:13.073142Z",
+        "date_created": "2025-11-07T02:02:28.118965Z"
+      },
+      "pacer_doc_id": "031046277742",
+      "page_count": 23,
+      "short_description": "Complaint (Attorney Civil Case Opening)",
+      "snippet": "       Case 2:25-cv-10703      Document 1     Filed 11/06/25    Page 1 of 23 Page ID #:1\n\n\n\n 1 Stephen M. Doniger (SBN 179314)\n     stephen@donigerlawfirm.com\n 2 Benjamin Tookey (SBN 330508)\n 3 btookey@donigerlawfirm.com\n     DONIGER / BURROUGHS\n 4 603 Rose Avenue\n 5 Venice, California 90291\n     Telephone: (310) 590-1820\n 6\n 7 Attorneys for Plaintiff\n 8                            UNITED STATES DISTRICT COURT\n 9                           CENTRAL DISTRICT OF CALIFORNIA\n\n10   Ethan Pines, an indiv"
+    }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "820 Copyright",
+  "trustee_str": null
+}

@@ -1,0 +1,19 @@
+{
+  "source": "Pile-of-Law (HuggingFace)",
+  "subset": "courtlistener_opinions",
+  "description": "CourtListener 法院判決意見書",
+  "why_selected": "判決書全文，可用於 RAG 語料庫",
+  "num_samples": 10,
+  "sample_keys": [
+    "text",
+    "created_timestamp",
+    "downloaded_timestamp",
+    "url"
+  ],
+  "first_sample_preview": {
+    "text": "—Appeal by the defendant from a judgment of the Supreme Court, Queens County (Brennan, J.), rendered December 1, 1983, adjudicating him a youthful offender, upon his plea of guilty to robbery in the first degree (two counts), robbery in the second degree, and assault in the first degree (two counts)",
+    "created_timestamp": "01-13-2022",
+    "downloaded_timestamp": "01-03-2023",
+    "url": "https://www.courtlistener.com/api/rest/v3/opinions/5901619/"
+  }
+}

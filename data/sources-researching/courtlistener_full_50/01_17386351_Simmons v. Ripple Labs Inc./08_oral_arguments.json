@@ -1,0 +1,131 @@
+[
+  {
+    "absolute_url": "/audio/101554/sostack-v-ripple-labs-inc/",
+    "caseName": "Sostack v. Ripple Labs, Inc.",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Ninth Circuit",
+    "court_citation_string": "9th Cir.",
+    "court_id": "ca9",
+    "dateArgued": "2025-12-04",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "24-7599",
+    "docket_id": 71996865,
+    "download_url": "https://www.ca9.uscourts.gov/datastore/media/2025/12/04/24-7599.mp3",
+    "duration": 2345,
+    "file_size_mp3": 14143165,
+    "id": 101554,
+    "judge": "RAWLINSON, MILLER, SANCHEZ",
+    "local_path": "mp3/2025/12/04/sostack_v._ripple_labs_inc._cl.mp3",
+    "meta": {
+      "timestamp": "2025-12-05T08:08:42.922404Z",
+      "date_created": "2025-12-04T23:30:32.272728Z",
+      "score": {
+        "bm25": 13440902000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      2664,
+      8603
+    ],
+    "sha1": "e4298755778670e0bb1677c24c6b0779d5bd27f5",
+    "snippet": "The District Court's judgment should be reversed because a reasonable jury could find that Ripple made a separate offering of XRP investment contracts in 2017 that triggered the repose clock for that offering. Under the Governing Murphy test for a separate offering, a reasonable jury could easily find that the 2017 offering was different from what came before. In 2017, Ripple for the first time targeted unsophisticated investors to develop a liquid market to support a new cross-border payments",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/65158/kevin-clanton-v-united-states/",
+    "caseName": "Kevin Clanton v. United States",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Seventh Circuit",
+    "court_citation_string": "7th Cir.",
+    "court_id": "ca7",
+    "dateArgued": "2019-09-11",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "18-3060",
+    "docket_id": 16182729,
+    "download_url": "http://media.ca7.uscourts.gov/sound/external/gw.18-3060.18-3060_09_11_2019.mp3",
+    "duration": 2454,
+    "file_size_mp3": 15163448,
+    "id": 65158,
+    "judge": "",
+    "local_path": "mp3/2019/09/11/kevin_clanton_v._united_states_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T12:06:01.983635Z",
+      "date_created": "2019-09-11T18:30:44.590615Z",
+      "score": {
+        "bm25": 13244256000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "64c4f263df7fee79d6b156c40adbb930cd6d4830",
+    "snippet": "May it please the court, Edward Himmelfarb with the Department of Justice. This is a medical malpractice case under the Federal Tort Claims Act involving kidney disease in which the district court awarded about 30 million dollars to Mr. Clanton. The government doesn't dispute negligence here, but the district court made four separate legal errors, each of which independently requires a remand. First, the court failed to assess comparative negligence under objective reasonable person standard.",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/11399/state-ex-rel-harris-v-2011-honda/",
+    "caseName": "FTC v. Wyndham Worldwide Corp,et.al",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Third Circuit",
+    "court_citation_string": "3rd Cir.",
+    "court_id": "ca3",
+    "dateArgued": "2015-03-03",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": null,
+    "docket_id": 2638782,
+    "download_url": "http://www2.ca3.uscourts.gov/Oralargument/audio/14-3514FTCv.WyndhamWorldwideCorp,et.al.mp3",
+    "duration": 4516,
+    "file_size_mp3": 27468274,
+    "id": 11399,
+    "judge": "",
+    "local_path": "mp3/2015/03/03/ftc_v._wyndham_worldwide_corpet.al_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-28T05:10:34.774949Z",
+      "date_created": "2015-03-03T21:32:08.703026Z",
+      "score": {
+        "bm25": 13101437000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "5e958ed48e44d64d7ccddfc9cb037b02731cf25b",
+    "snippet": "The first is No. 14-3514, Federal Trade Commission v. Wyndham Worldwide Corp,et.al, Mr. Asaf and Mr. Marcus. I'd like to reserve five minutes of rebuttal with the Court's permission. That's fine. May it please the Court, Gene Asaf on behalf of Wyndham. After Wyndham was the victim of Russian cyber criminals, the FTC brought an unfairness action, and we believe it should be dismissed for three reasons. In brief, first, as a matter of statutory interpretation, whatever unfair trade practices",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/7538/dependency-of-es-051803-dshs-resp-v-jason-scott-ap/",
+    "caseName": "Pharmaceutical Research & Manu v. County of Alameda",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Ninth Circuit",
+    "court_citation_string": "9th Cir.",
+    "court_id": "ca9",
+    "dateArgued": "2014-07-11",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "71464-3",
+    "docket_id": 2603536,
+    "download_url": "http://cdn.ca9.uscourts.gov/datastore/media/2014/07/11/13-16833.wma",
+    "duration": 2641,
+    "file_size_mp3": 16084692,
+    "id": 7538,
+    "judge": "Piersol, SMITH, CHRISTEN",
+    "local_path": "mp3/2014/07/11/pharmaceutical_research__manu_v._county_of_alameda_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-25T12:51:22.314381Z",
+      "date_created": "2014-11-17T23:31:16.998427Z",
+      "score": {
+        "bm25": 13081132000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [
+      613
+    ],
+    "sha1": "d425bef47f3258440ca713ce02535fa44962c5b8",
+    "snippet": "May it please the Court, Michael Carvin for Appellants. In this case, Alameda has enacted an unprecedented first-in-the-nation law which directly regulates out-of-county producers, directly burdens interstate commerce, solely to secure local economic advantage. They regulate my clients... Well, Counsel, when you say solely to secure economic advantage, can you help me with that? Of course, opposing... You've read the briefs, of course, many times. They cite several other reasons, several reasons",
+    "source": "H"
+  }
+]

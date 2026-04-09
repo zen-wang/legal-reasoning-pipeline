@@ -1,0 +1,218 @@
+          IN THE UNITED STATES DISTRICT COURT                        
+         FOR THE NORTHERN DISTRICT OF ILLINOIS                       
+                   EASTERN DIVISION                                  
+
+
+UNION ASSET MANAGEMENT             )                                      
+HOLDING AG and SJUNDE AP-FONDEN,   )                                      
+Individually and on Behalf of All Others    )                             
+Similarly Situated,                )                                      
+                              )                                      
+          Plaintiffs,         )                                      
+                              )    Case No. 19-cv-1339               
+v.                            )                                      
+                              )    Judge Robert M. Dow, Jr.          
+THE KRAFT HEINZ COMPANY, et al.,    )                                     
+                              )                                      
+          Defendants.         )                                      
+________________________________________  )                               
+                              )                                      
+In re KRAFT HEINZ SHAREHOLDER      )    Case No. 20-cv-2259               
+DERIVATIVE LITIGATION              )    Judge Robert M. Dow, Jr.          
+________________________________________  )                               
+
+            MEMORANDUM OPINION AND ORDER                             
+
+This shareholder derivative litigation stems from the 2015 merger of Kraft Foods Group, 
+Inc. with The H.J. Heinz Company to form the Kraft Heinz Company (“Kraft Heinz” or the 
+“Company”).   Before the Court are opposing motions for appointment of lead plaintiff and 
+counsel.1  For the reasons below, the Court grants Plaintiff Stephen Silverman’s motion to appoint 
+lead plaintiff and lead counsel [237] and Plaintiff Dale Waters’ motion to join Silverman as co-
+lead plaintiff and appoint co-lead counsel [246] and denies Plaintiff Richard Merritts’ motion to 
+appoint lead plaintiff and counsel [232].  Lead Plaintiffs and counsel are given leave to file a 
+consolidated amended complaint by November 22, 2021.  A joint status report including a 
+proposed case management plan is due by December 6, 2021.                 
+
+1 The parties also filed motions to consolidate the individual derivative actions [229, 232, 237] which the 
+Court has already granted [244].                                          
+In addition, as discussed on the record at the most recent status hearing, this derivative 
+litigation will be maintained as a separate docket from the related putative class action litigation 
+also included in the caption above.  Going forward, the Clerk shall administratively separate the 
+six derivative actions (20-cv-2280, 20-cv-2259, 20-cv-2258, 20-cv-2071, 20-cv-2257, 20-cv-
+2072) from the direct shareholder class action (19-cv-1339).  The derivative actions will be linked 
+
+as related, with Case No. 20-cv-2259 as the lead case number for the consolidated derivative 
+litigation.  All filings in the derivative litigation should be made on the docket for Case No. 20-cv-
+2259 with the caption set out above.  All filings in the putative class action litigation will continue 
+to be made on the docket for Case No. 19-cv-1339.                         
+I.   Background2                                                          
+Kraft Heinz is one of the world’s largest food and beverage companies, selling its products 
+under  several  familiar  brands,  including  Heinz,  Kraft,  Oscar  Mayer,  Philadelphia,  Planters, 
+Velveeta, and Lunchables. [See 229-2 at ¶ 1.].  The Company formed in July 2015 when Kraft 
+Food Groups, Inc. merged with The H.J. Heinz Company. [Id.].  Before the merger, 3G Capital 
+
+controlled the Heinz Company through one of its affiliates, Berkshire Hathaway, while after the 
+merger, 3G Capital installed its founders to key management roles at Kraft Heinz. [Id.] 
+Derivative Plaintiffs allege, in short, that Kraft Heinz management touted new strategies 
+to cut costs while also achieving growth trajectories, ultimately pledging to make the Company 
+more  efficient  and  generate  increased  profit.  [See  id.  at  ¶  2.]  According  to  the  derivative 
+complaints, despite reporting positive financial results between 2016 and 2018, the new budgeting 
+strategies at Kraft Heinz were not actually working.  As one example, rather than cutting costs the 
+Company revealed in February 2019 that their production costs had increased by $25 million. [Id. 
+
+2 The Court assumes general familiarity with the facts of this case, which are discussed in greater detail in 
+at least two previous opinions, [150] and [310].                          
+at  ¶  5–6.].  According  to  the  complaints,  once  the  Company  made  its  negative  financial 
+performance public, the value of the Company’s stock quickly spiraled downward. [Id. at ¶ 7.]   
+Suspecting wrongdoing at the company, at least three Plaintiffs, Steven Hill, Richard Merritts, and 
+Dale Waters, served books and records demands on the Company pursuant to 8 Del. C. § 220.  
+[See 229-1 at 1; 229-2 at ¶ 12.]  Several derivative actions followed.    
+
+As it exists now, this litigation consists of four different actions filed by a total of seven 
+plaintiffs across three districts.  Stephen Silverman has held Kraft Heinz stock since November 
+2016. He filed the first derivative complaint on May 15, 2019 in the United States District Court 
+for the Western District of Pennsylvania alleging breach of fiduciary duty, corporate waste, unjust 
+enrichment and contributions for violations of the federal securities laws on behalf of Nominal 
+Defendant Kraft Heinz. See Silverman et al. v. Behring et al., No. 19-cv-00574 (W.D. Pa. May 15, 
+2019) [Dkt. 1].  That case was consolidated with related derivative actions in the same district. See 
+id. [Dkt. 40].  Silverman, along with three other plaintiffs, Charlotte Hays, Ian Green, and Vladimir 
+Gusinsky Revocable Trust, filed an amended derivative complaint and the action was eventually 
+
+transferred to this district.  See In re Kraft Heinz Shareholder Derivative Litigation, No. 20-cv-
+2559 (N.D. Ill.).                                                         
+Dale Waters acted next by filing a derivative complaint in the District of Delaware on 
+March 30, 2020, which was transferred to this district shortly thereafter.  See Waters v. Behring et 
+al., No. 20-cv-2072 (N.D. Ill.).  Richard Merritts and Steven Hill then initiated their own separate 
+actions by filing derivative complaints in the Northern District of Illinois on March 31, 2020, and 
+April 13, 2020, respectively.  Merritts v. 3G Capital, Inc., et al., 1:20-cv-02071 (N.D. Ill.); Hill v. 
+Abel, et al., 1:20-cv-02280 (N.D. Ill.).  All four derivative actions were reassigned to this Court 
+pursuant to Local Rule 40.4 and consolidated with the related Securities Class Action also pending 
+before this Court. [244.]                                                 
+Plaintiffs have filed multiple competing motions for leadership.  Initially, Plaintiffs Waters 
+and Merritts moved together to appoint themselves as co-lead plaintiffs in the consolidated 
+derivative action, and to appoint the law firms of Glancy Prongay & Murray LLP (“GPM”) and 
+Hung G. Ta, Esq. PLLC (“HGT”) as co-lead counsel, and the law firm of Zimmerman Law Offices, 
+
+P.C. (“Zimmerman”) as liaison counsel. [232.]  Plaintiff Silverman, joined by Hays, Green, 
+Vladimir Gusinsky Revocable Trust, and Hill, then moved to appoint Silverman as lead plaintiff, 
+and for his choice of lead counsel. [237.]  After the Court reassigned and consolidated the four 
+derivative cases [see 244], Plaintiff Waters withdrew from Merritts’ motion for appointment of 
+lead plaintiff and lead counsel [see 246], and joined Silverman’s motion for appointment of lead 
+plaintiff and lead counsel [see id.; see also 251].                       
+Remaining before the Court are two competing motions. Silverman and Waters (with the 
+support of Hays, Green, Vladimir Gusinsky Revocable Trust, and Hill) seek to appoint Silverman 
+and Waters as co-lead plaintiffs, and their counsel, GPM and Robbins Geller Rudman & Dowd 
+
+LLP (“Robbins Geller”), as co-lead counsel. [237; 251.]  Merritts opposes that motion [see 247] 
+and instead seeks to appoint Merritts as lead plaintiff, and HGT as lead counsel [see 232; see also 
+247].  Both groups filed replies in further support of their respective motions [see 254; 256]. 
+II.  Analysis                                                             
+Federal Rule of Civil Procedure 23.1 states that a shareholder who brings a derivative 
+action to enforce the rights of the corporation must “fairly and adequately represent the interests 
+of shareholders or members who are similarly situated in enforcing the right of the corporation or 
+association.” Fed. R. Civ. P. 23.1.  If all competing plaintiffs are deemed “adequate” to represent 
+shareholders’ interests, the Court must determine “which lead plaintiff (and lead counsel) will best 
+represent those interests.”  N. Miami Beach Gen. Emps. Ret. Fund v. Parkinson, 2011 WL 
+12465137, at *1 (N.D. Ill. July 5, 2011).                                 
+The parties agree that the Court should apply the criteria set out in Dollens v. Ziontz, 2001 
+WL  1543524  (N.D.  Ill.  Dec.  4,  2001),  to  determine  which  plaintiff  would  best  represent 
+shareholders’ interests. See [239 at 9; 247 at 3 n.6].  Those factors are (1) whether the plaintiff is 
+
+an institutional investor; (2) the plaintiff’s financial stake; (3) whether plaintiff is represented by 
+counsel; (4) vigorousness of plaintiff’s prosecution; and (5) quality of the pleadings.  See Dollens, 
+2001 WL 1543524, at *5–6; see also Chester Cnty. Emps. Ret. Fund v. White, 2012 WL 1245724, 
+at *3 (N.D. Ill. Apr. 13, 2012); N. Miami Beach Gen. Emps. Ret. Fund, 2011 WL 12465137, at *1.  
+Neither candidate for lead status argues that the other is inadequate for the general purposes of 
+Rule 23.1.3  Instead, they disagree as to who is most adequate.           
+Considering the Dollens factors, leadership in this case turns on which team of counsel is 
+best situated to advance the interests of the shareholders in this derivative action, as the other 
+factors essentially are in equipoise.  Silverman, Waters, and Merritts are all individual investors; 
+
+thus none has the advantage of an institutional investor.  Similarly, all proposed lead plaintiffs 
+have owned shares for significant periods of time—Silverman since November 2016 [239 at 10], 
+Waters since 2009 [251 at 6], and Merritts since 2014 [247 at 12]—and none of the plaintiffs 
+discloses his precise stake in the company, which makes it impossible for the Court to draw any 
+distinctions on that basis.                                               
+Vigorousness of prosecution is not dispositive here either, despite Merritts’ contentions 
+otherwise.  Merritts places great weight on his Section 220 inquiry to argue that he has prosecuted 
+
+3 Merritts argued initially that Silverman is inadequate because he did not make a books and records demand 
+pursuant to 8 Del. C. § 220 before filing his complaint. See [247 at 10.]  Merritts abandoned that precise 
+argument, however, and rightly so, when Waters joined Silverman and moved for co-lead plaintiff status, 
+as Waters did make a Section 220 demand before filing his complaint.      
+this action more vigorously than the other Plaintiffs.  It is worth noting at the outset that Section 
+220 does not function as a prerequisite or a “passport” to leadership.  See Pyott v. Louisiana Mun. 
+Police Employees' Ret. Sys., 74 A.3d 612, 618 (Del. 2013).  The Court notes, however, that Section 
+220 demands are strongly enough encouraged under Delaware law to be a “plus-factor” for those 
+leadership applicants who avail themselves of it.  (Robbins Geller touts its own efforts under 
+
+Section 220 when it undertakes them, although it did not do so here.)  But, how much weight to 
+give to a Section 220 inquiry as a “plus-factor” depends on context.  Here, it seems that the 
+information gathered from the Section 220 demand proved useful and is incorporated in some of 
+the complaints.  If Merritts had been the only plaintiff to have undertaken the Section 220 inquiry, 
+that might be a significant factor in favor of appointing him (and his counsel) as leads.  But multiple 
+plaintiffs (Merritts, Waters, and Hill) made inspection demands here.  While Silverman did not 
+make a Section 220 document demand (which demonstrates, according to Merritts, “Silverman’s 
+haste to file” [247 at 9]), that potential disadvantage is not as important given that Silverman’s 
+proposed co-lead plaintiff, Waters, did follow Section 220 procedures before filing his complaint.  
+
+The fact that Merritts engaged in pre-suit discovery therefore does not give the Court reason to 
+find that he has pursued this action with materially more vigor than Silverman and especially 
+Waters.                                                                   
+Nor does the quality of the pleadings advantage one party over the other.  Each plaintiff 
+has filed a lengthy verified complaint with the assistance of diligent counsel.  Although each 
+candidate spends a considerable amount of time doing Defendants’ work—that is, picking apart 
+the quality of the pleadings, pointing out potential weaknesses that may make the pleading 
+susceptible to a motion to dismiss—the Court’s review shows that the pleadings allege the same 
+core claims based on the same core concepts, despite some differences at the margins.   
+Merritts relies again on his Section 220 inquiry in suggesting that his pleadings are superior 
+to the others.  He contends that although Waters obtained the documents, his lawyers did not draw 
+out the “smoking gun” as clearly as they should have.  Specifically, Merritts argues that the 
+Silverman/Waters pleadings “do not contain any critical analysis of the Garlati Memorandum and 
+accompanying presentation.” [254 at 2.]  But the Court does not view the differences in approach 
+
+to the Garlati Memorandum as substantial.  Both the Waters and Merritts complaints identify the 
+nature of the problem and the significance of the Memorandum.  Although Merritts analyzes that 
+particular memorandum in greater detail, he does not name the author of the memorandum, Garlati, 
+as a Defendant, though Waters does.  In short, it is not evident that the Section 220 work led the 
+Merritts lawyers to deep insights that were missed by all of the other lawyers, regardless of whether 
+they obtained the corporate books and records.                            
+The foregoing analysis leads the Court to conclude that application of the Dollens factors 
+does not lead to a clear winner in the competition for lead Plaintiff and lead counsel in this litgation.  
+With those factors indeterminate, the Court turns back to first principles: “which lead plaintiff (and 
+
+lead counsel) will best represent [the shareholders’] interests[?]” N. Miami Beach Gen. Emps. Ret. 
+Fund, 2011 WL 12465137, at *1.  The Court starts with the premise, supported by the parties’ 
+submissions, that each proposed team would be capable of prosecuting this action.  All of the 
+lawyer candidates have substantial experience with these types of cases, and even if there is a 
+better choice here, there is no bad choice.  The question for the Court, then, is whether one group 
+of lawyers is better suited to handle this particular shareholder derivative litigation.  Although 
+shareholder derivative cases are almost never small, they do come in all shapes, sizes, and 
+complexities.  Even in its early stages, this litigation bears the indicia of a larger and more complex 
+undertaking with a sizable amount of money claimed as damages.  These high stakes counsel in 
+favor of selecting lead lawyers with vast resources and experience in cases of this magnitude, as 
+the ultimate responsibility of the Court is to the shareholders who will be the clients in this matter.  
+For this reason, the Court selects the Silverman and Waters team, as its lawyers have been lead 
+counsel in many of these types of cases. [See 239-12.]                    
+With that selection having been made, the Court recognizes the quality of the work done 
+
+by Merritts and his lawyers.  The Court also notes the concern expressed by Merritts’ proposed 
+team of counsel over potentially being excluded from work on the case.  The Silverman/Waters 
+team says “[n]ot so” [256 at 8] and goes on to tout the inclusiveness of their team.  In appointing 
+the Silverman/Waters team, the Court trusts that lead counsel will consider the Merritts lawyers 
+for appropriate work in this complex litigation on the basis of the thorough pre-suit investigation 
+they conducted and the sound factual and legal points in their briefs on this motion. 
+III.  Conclusion                                                          
+
+For the reasons stated above, the Court appoints Silverman and Waters as co-lead plaintiffs, 
+and Robbins Geller and GPM as co-lead counsel for plaintiffs in the consolidated Kraft Heinz 
+shareholder derivative actions.  the Clerk shall administratively separate the six derivative actions 
+(20-cv-2280, 20-cv-2259, 20-cv-2258, 20-cv-2071, 20-cv-2257, 20-cv-2072) from the direct 
+shareholder class action (19-cv-1339).  The derivative actions will be linked as related, with Case 
+No. 20-cv-2259 as the lead case number for the consolidated derivative litigation.  All filings in 
+the derivative litigation should be made on the docket for Case No. 20-cv-2259 with the caption 
+set out above.  All filings in the putative class action litigation will continue to be made on the 
+docket for Case No. 19-cv-1339.                                           
+Dated: October 21, 2021 
+                                     Robert M. Dow, Jr. 
+                                     United States Distrief   Judge

@@ -1,0 +1,1176 @@
+              IN THE UNITED STATES DISTRICT COURT                        
+                 FOR THE DISTRICT OF MARYLAND                            
+
+                             *                                           
+IN RE UNDER ARMOUR                                                        
+SECURITIES LITIGATION         *         Civil Action No. RDB-17-0388      
+
+                             *                                           
+
+*    *    *    *    *    *    *    *    *    *    *    *    *             
+                    MEMORANDUM OPINION                                   
+    The basic allegation in this putative class action is that Defendants Under Armour, Inc. 
+(“Under Armour,” “UA,” or the “Company”) and its co-founder and former Chief Executive 
+Officer (“CEO”) Kevin Plank (“Plank”) (collectively, “Defendants”) misrepresented the level 
+of consumer demand for Under Armour products.  The Consolidated Third Amended 
+Complaint (“TAC”) (ECF No. 153)1 alleges violations of Sections 10(b), 20(a), and 20A of the 
+Securities and Exchange Act of 1934 (the “Exchange Act”), as well as Rule 10b-5 thereunder.  
+Lead Plaintiff Aberdeen City Council as Administrating Authority for the North East Scotland 
+Pension Fund (“Aberdeen”) and Plaintiffs Monroe County Employees’ Retirement System 
+(“Monroe”) and KBC Asset Management (“KBC”) (collectively, “Plaintiffs”) contend that 
+Defendants misled investors and defrauded the market by falsely claiming that consumer 
+demand for the Company’s products was strong between the third quarter of 2015 and the 
+fourth quarter of 2016.  (ECF No. 153 ¶¶ 20, 81, 126, 160–68.)  They further allege that the 
+Defendants manipulated the Company’s financial results, and otherwise led investors to 
+
+1  For clarity, this Memorandum Opinion cites to the ECF generated page number, rather than the page number 
+at the bottom of the parties’ various submissions, unless otherwise indicated.  Likewise, this Memorandum 
+Opinion cites to the ECF generated document number, rather than the exhibit number provided by the parties’ 
+various submissions.                                                      
+believe that Under Armour’s 26-consecutive quarter year-over-year (“YoY”) growth streak 
+was “intact,” when demand for the Company’s products was in decline.  (Id. ¶¶ 5–7, 148–68.)   
+    Ten motions are presently pending in this case: Defendants’ Motion for Summary 
+
+Judgment (ECF No. 299); Plaintiffs’ Motion for Leave to File Surreply to Defendants’ Motion 
+for Summary Judgment (ECF No. 366); three (3) motions to exclude expert testimony and 
+opinions filed by Plaintiffs (ECF Nos. 302, 305, 308); four (4) motions to exclude expert 
+testimony and opinions filed by Defendants (ECF Nos. 309, 311, 314, 316); and Defendant 
+Under Armour, Inc.’s Motion to Seal2 (ECF No. 364).  This Court heard oral argument from 
+the parties on Friday, February 9, 2024, on Defendants’ Motion for Summary Judgment (ECF 
+
+No. 299) and Plaintiffs’ Motion for Leave to File Surreply to Defendants’ Motion for Summary 
+Judgment (ECF No. 366).  A hearing on the seven (7) motions to exclude expert testimony 
+and opinions (ECF Nos. 302, 305, 308, 309, 311, 314, 316) is presently scheduled for 
+Tuesday, April 9, 2024 and Wednesday, April 10, 2024.  (ECF No. 375.)  Accordingly, the 
+instant Memorandum Opinion addresses only Defendants’ Motion for Summary Judgment 
+(ECF No. 299) and Plaintiffs’ Motion for Leave to File Surreply to Defendants’ Motion for 
+
+Summary Judgment (ECF No. 366).                                           
+    To prove a violation of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, 
+Plaintiffs must establish six elements, two of which Defendants challenge through their 
+Motion for Summary Judgment.  Specifically, Defendants challenge whether Plaintiffs can 
+
+2  In connection with this pending Motion to Seal, Under Armour refiled several documents previously filed 
+under seal, (ECF Nos. 357, 358, 359, 360), and refiled with redactions several documents previously filed under 
+seal, (ECF Nos. 361, 362, 363).  This Court will address Defendant Under Armour’s Motion to Seal (ECF No. 
+366) in a separate opinion.  Where documents were previously filed under seal and subsequently refiled or 
+refiled with redactions, this Memorandum Opinion cites to the subsequently filed documents, as such 
+documents are publicly available.                                         
+show a genuine issue of material fact as to the requisite material misrepresentation or omission 
+and scienter (i.e., a wrongful state of mind) elements.  With respect to the first element, the 
+circumstances under which the challenged statements were made creates a genuine issue of 
+
+material fact as to whether such statements were in fact misleading.  Likewise, with respect to 
+scienter, there are genuine issues of material fact that must be addressed by the jury as the 
+finder of fact in this case.  For the reasons that follow, Defendants’ Motion for Summary 
+Judgment (ECF No. 299) is hereby DENIED; and Plaintiffs’ Motion for Leave to File 
+Surreply (ECF No. 366) is hereby DENIED.                                  
+                         BACKGROUND                                      
+
+    In ruling on a motion for summary judgment, this Court considers the facts and draws 
+all reasonable inferences in the light most favorable to the nonmoving party.  Scott v. Harris, 
+550 U.S. 372, 378 (2007).                                                 
+ I.   The Parties                                                        
+ A. Plaintiffs.                                                          
+    Pursuant  to  this  Court’s  Order  dated  September 29, 2022,  Plaintiffs  Aberdeen, 
+
+Monroe, and KBC are Class Representatives.  (ECF No. 246.)  Plaintiffs bring this federal 
+class action under Sections 10(b), 20(a), and 20A of the Exchange Act, and Rule 10b-5 
+promulgated thereunder, on behalf of all persons or entities that purchased or acquired 
+common stock of Under Armour between September 16, 2015 and November 1, 2019 (the 
+“Class Period”).  (Id.; ECF No. 153 ¶ 2.)                                 
+ B. Defendants.                                                          
+
+    The Consolidated Third Amended Complaint—the operative complaint in this class 
+action—names Under Armour and Plank as the sole Defendants.  (ECF No. 153.)  Under 
+Armour “is a leading inventor, marketer, and distributor of branded athletic performance 
+apparel, footwear, and accessories.”  Under Armour, Inc., Quarterly Report (Form 10-Q) 
+
+(Nov. 8, 2023).  Plank co-founded Under Armour and currently serves as its Executive 
+Chairman and Brand Chief.  (ECF No. 153 ¶ 31.)  Plank served as Under Armour’s CEO from 
+1996 through December 31, 2019, and has served as its Chairman of the Board since Under 
+Armour  went  public  in  2005.    Under  Armour,  Inc.,  Current  Report  (Form  8-K) 
+(Oct. 22, 2019).                                                          
+ II.  Factual Background                                                 
+ A. Under  Armour’s  Reported  Financial  Performance  and  Disclosures  During 
+    Relevant Period(Q3 2015–Q1 2017).3                                   
+ 1.  2015.                                                               
+    For  Q3  2015,  Under  Armour  reported  net  revenues  of  $1.2  billion,  reflecting 
+year-over-year (“YoY”) growth of 28%.  See Under Armour, Inc., Current Report (Form 8-K) 
+
+(Oct. 22, 2015).  Under Armour raised its 2015 net revenue guidance by $70 million.  Id.   
+    For Q4 2015, Under Armour reported net revenues of $1.17 billion, reflecting YoY 
+growth of 31%.  See Under Armour, Inc., Current Report (Form 8-K) (Jan. 28, 2016).   
+    Net revenues for FY 2015 were $3.963 billion, representing 28% YoY growth.  See 
+Under Armour, Inc., Current Report (Form 8-K) (Jan. 28, 2016).            
+ 2.  2016.                                                               
+
+    During Under Armour’s January 28, 2016 Earnings Conference Call, the Company 
+
+3  Fiscal quarters are referenced in the format of “Q# YYYY,” such that the third quarter of 2015 appears as 
+Q3 2015.  Fiscal years are referenced in the format “FY YYYY” such that the fiscal year of 2015 appears as FY 
+2015.                                                                     
+disclosed 2016 net revenue guidance of $4.95 billion, representing 25% YoY growth.  (ECF 
+No. 301-20.)                                                              
+    For Q1 2016, Under Armour reported net revenues of $1.05 billion, reflecting YoY 
+
+growth of 30%.  See Under Armour, Inc., Current Report (Form 8-K) (Apr. 21, 2016).  Under 
+Armour raised its 2016 net revenue to approximately $5 billion.  Id.      
+    On May 31, 2016, Under Armour disclosed a reduction of its FY 2016 net revenue 
+guidance to $4.925 billion related to the bankruptcy proceedings of one of its customers, The 
+Sports Authority.  See Under Armour, Inc., Current Report (Form 8-K) (May 31, 2016).   
+    For Q2 2016, Under Armour reported net revenues of $1 billion, reflecting 28% YoY 
+
+growth.  See Under Armour, Inc., Current Report (Form 8-K) (July 26, 2016).   
+    For Q3 2016, net revenues were $1.47 billion, reflecting YoY growth of 22% over Q3 
+2015.  Under Armour, Inc., Current Report (Form 8-K) (Oct. 25, 2016).     
+    Under Armour did not achieve revenue guidance for Q4 2016 or FY 2016.  Net 
+revenues for Q4 2016 were $1.3 billion, reflecting YoY growth of 12%.  Under Armour, Inc., 
+Current Report (Form 8-K) (Jan. 31, 2017).  Net revenues for FY 2016 were $4.828 billion, 
+
+reflecting YoY growth of 22%.  Id.                                        
+    Unsurprisingly, the parties’ narratives vary significantly from here.  The below provides 
+an overview of the parties’ respective positions, beginning with Defendants’ narrative. 
+ B. Defendants’ Narrative.                                               
+ 1.  According  to  Defendants,  Under  Armour’s  Internal  Projections  Forecasted 
+    Robust Revenue Growth in Both 2016 and 2017 Through Mid-to-Late 2016.  
+    Throughout the Relevant Period, Defendants emphasize that Under Armour’s internal 
+financial reporting process included developing an annual financial plan for the upcoming 
+fiscal year and then updating the plan again at or just before the fiscal year began and then 
+updating the plan again after each quarter, which incorporated sales that had been pulled 
+forward.  (ECF No. 361-1 at 21 (citing ECF Nos. 357-22, 357-1, 357-3, 361-18).)  The 
+
+Company  also  prepared  monthly  updates.    (Id.  (citing  ECF  No.  557-22).)  Defendants 
+emphasize that the Company’s internal reporting in mid-to-late 2016 forecasted “robust 
+revenue growth” in both 2016 and 2017 and “consistently indicated that UA would meet or 
+exceed its externally provided [] guidance.”  (Id. at 22 (citing ECF Nos. 357-19, 361-15, 357-21, 
+361-16, 361-17), 56.)                                                     
+ 2.  According to Defendants, the Company’s Practice Of Pulling Forward Sales 
+    Was Above Board.                                                     
+    Under Armour operates through an international supply chain, with “virtually all of its 
+products . . . manufactured by unaffiliated manufacturers . . . outside of the United States.”  
+(ECF No. 361-1 at 22 (citing Under Armour, Inc., Annual Report (Form 10-K) (Feb. 23, 
+
+2017)).)  Consequently, the Company’s “products had long ‘lead times’ from the beginning of 
+the manufacturing process . . . to delivery to the [wholesale] customer,” (id.), with wholesale 
+orders sometimes “[placed] a year in advance.”  (Id. at 23 (citing ECF No. 361-5).)  Upon 
+booking, a wholesale order is assigned a “purchase order date,” which was Under Armour’s 
+“best estimate of when the product will be available and when [the customer] would pick it 
+up.”  (Id.)  Any delivery within two weeks of the “purchase order date” was considered “on 
+
+time.”  (Id.)                                                             
+    According to Under Armour, the term “pull forward” was used to reference a customer 
+sale executed earlier than originally planned.  (Id. (citing Under Armour, Inc., Current Report 
+(Form 8-K) (July 27, 2020)).)  Under Armour concedes that it executed pull forward sales 
+during the Relevant Period, (id. (citing Under Armour, Inc., Current Report (Form 8-K) (May 
+3, 2021)), but insists that “[p]ull forwards were a commonplace industry mechanism that were 
+done on a regular basis.”  (Id. (citing ECF Nos. 357-6).)                 
+
+    Under Armour emphasizes that it did not coerce its customers to take product early.  
+(ECF No. 300 at 25 *SEALED*.)  In support of this, Under Armour points to the testimony 
+of an Under Armour customer, (id. (citing ECF No. 303-12  *SEALED*(“If [we] did not 
+want the product that [Under Armour] was offering to ship early, [we] could say no.”))), and 
+internal emails from June 2016 showing a customer reached out “in hopes of pulling forward” 
+purchase orders that were originally anticipated to ship in July 2016 (Q3 2016) such that the 
+
+order would ship in June 2016 (Q2 2016).  (ECF No. 361-1 at 25 (citing ECF No. 361-20).)   
+    Under  Armour  emphasizes  that  “[n]o  witness  testified  that  pull  forwards  Under 
+Armour used during the Relevant Period violated [Generally Accepted Accounting Principles 
+(“GAAP”)],” nor is it suggested that the pull forwards “did not involve real sales of real 
+products to real customers.”  (Id. at 26.)  Defendants assert that “[n]o financial or accounting 
+professional informed senior management that [its] financial reporting was improper or that 
+
+pull  forwards  must  be  disclosed,”  and  “[t]here  is  no  evidence  that  any . . . senior 
+executive . . . believed  that  [Under  Armour]’s  financial  disclosures  were  inaccurate  or 
+insufficient during the Relevant Period.”  (Id.)                          
+ 3.  Defendants  Stress  that  Under  Armour  Utilized  its  Independent  Auditor, 
+    Disclosures, and its Disclosure and Audit Committees During the Relevant 
+    Period.                                                              
+    Throughout  their  briefing,  Defendants  emphasize  that,  throughout  the  Relevant 
+Period,  Under  Armour  utilized  its  independent  auditor,  PricewaterhouseCoopers  LLP 
+(“PwC”),  (ECF No. 361-1 at 26–27), as well its Disclosure Committee and Audit Committee.  
+(Id. at 28–30.)  Defendants further note that, in its public filings with the United States 
+Securities and Exchange Commission (“SEC”) during the Relevant Period, it disclosed risk 
+
+factors  that  could  adversely  impact  the  Company’s  results  of  operations  and  financial 
+conditions, such as “changing consumer preferences,” “[increased] competition,” “inability to 
+compete successfully against our competitors and maintain our gross margin,” “the financial 
+condition of our retail customers,” and “[v]ariations in weather conditions,” particularly 
+warmer weather..  (Id. at 27–28 (citing Under Armour, Inc., Quarterly Report (Form 10-Q) 
+(Nov. 4, 2015); Under Armour, Inc., Annual Report (Form 10-K) (Feb. 22, 2016); Under 
+
+Armour, Inc., Quarterly Report (Form 10-Q) (Apr. 29, 2016); Under Armour, Inc., Quarterly 
+Report (Form 10-Q) (Aug. 3, 2016); Under Armour, Inc., Quarterly Report (Form 10-Q) 
+(Nov. 2, 2016); Under Armour, Inc., Annual Report (Form 10-K) (Feb. 23, 2017); Under 
+Armour, Inc., Quarterly Report (Form 10-Q) (May 9, 2017)).)  According to Defendants, when 
+some of these risks materialized, Under Armour provided updates to investors during earning 
+calls for Q1 2016 to Q4 2016.  (Id. at 28 (citing ECF Nos. 301-21, 301-16, 301-23, 301-24).)  
+
+ 4.  Kevin Plank Sold Shares of Under Armour Common Stock on “No More Than 
+    Nine Days During the Class Period.”                                  
+    Under Armour offers three classes of common stock: Class A, Class B, and Class C, 
+with shares of Class C first distributed on April 7, 2016 through a one-for-one dividend to all 
+holders of Class A and Class B stock.  Under Armour, Inc., Annual Report (Form 10-K) (Feb. 
+23, 2017).  Defendants emphasize that Plank sold shares of Under Armour common stock on 
+“no more than nine days during the Class Period”: Plank sold shares of Class A stock on 
+November 17, 18, 19, 20, and 23, 2015, and sold shares of Class C stock on April 26, 27, 28, 
+and 29, 2016.  (ECF No. 361-1 at 30.)                                     
+ C. Plaintiffs’ Narrative.                                               
+ 1.  According  to  Plaintiffs,  Defendants  Continued  to  Publicly  Boast  Growth, 
+    Drivers, and Demand Despite Internal Recognition that the Company’s Core 
+    North American Wholesale Business Was Declining.                     
+    According to Plaintiffs, the first material misstatement was made by Plank at Under 
+Armour’s  September 16, 2015  Investor  Day,  where  Plank  emphasized  the  Company’s 
+“20%-plus growth streak . . . [over] 21 consecutive quarters, and stated that ‘demand for our 
+brand has never been stronger’ and the ‘drivers’ of sales growth were the same as they had 
+been ‘over the past 10 years.’”  (ECF No. 361-34 at 15–16 (citing ECF No. 337-10).)  Plaintiffs 
+allege that Defendants continued to make similar statements throughout the Class Period.  (Id. 
+
+at 16.)                                                                   
+    Plaintiffs further allege that Under Armour “knew that [it] ‘need[ed] to maintain high 
+growth to justify [its] share price.’”  (Id. (citing ECF No. 360-18).)  And according to Plaintiffs, 
+internal communications conflict with Defendants’ public representations.  (Id. at 16–19.)  
+Plaintiff’s opposition cites several notable examples from as early as April 2015 of Under 
+
+Armour’s internal recognition that sales in core North American wholesale business were 
+decelerating.  (See id. at 16–17 (citing ECF Nos. 359-26 (discussing “dire situation in US 
+Wholesale Apparel”), 363-22 (noting the situation was “[f]ricking ugly” and “[t]he update for 
+[Plank] will not be fun”), 360-18 (noting meeting “to discuss the [year-end] challenge” and the 
+“obvious . . . need” for additional revenue in 2015 to “mitigate the sales risks that exists [sic] 
+in North America”), 363-25 (circulating a presentation explaining how the Company’s North 
+
+American business relied on declining brick and mortar retail, “making ‘[a]chieving [the 
+Company’s] growth rate aspirations . . . less and less possible as we have reached our current 
+scale” and noting that “some of our efforts fueling are last miles of growth are manifesting 
+themselves  in  weaker  performance”),  362-17,  360-344  (describing  the  Company’s  pull 
+
+forwards and “[i]ncreased liquidation above what we planned” as an amount that “isn’t really 
+our natural growth,” and noting “North America’s a f***ing disaster”)).)  Significantly, on 
+December 22, 2015, an internal email noted Under Armour would “miss targets in 2015” and 
+summarizing talking points for Plank, including that “[k]ey performance indicators for 2016 
+are not heading in the right direction,” that Plank was “disappointed” by how “the brand is 
+being managed,” and indicating that warm weather alone could not explain these results.  (Id. 
+
+at 17 (citing ECF No. 360-3).)  The next day, an email sent to Plank from another top executive 
+included a presentation that indicated liquidations were up 50% and estimated revenues for 
+2016 came down by approximately $135 million.  (Id. at 17–18 (citing ECF No. 363-26).) 
+    According to Plaintiffs, this internal recognition continued into 2016.  (See id. at 18 
+(citing ECF Nos. 362-26, 362-4 (noting “a [2016] Net Revenue gap of app[roximately] $100 
+[million] to our forecast”), 360-9 (replying “[a]fraid so . . . will be 19% for Q2” to internal 
+
+question “[i]s this apparel number for second quarter real”), 362-38 (noting the numbers 
+“point us to guiding total company Q3 to below 20% [revenue growth],” citing a “wholesale 
+revenue shift”), 363-8, 363-19 (stating the Company had “sliding revenue growth rates since 
+2014  driven  by  [North  America]”  attributed  to  “declining  consumer  demand  creation 
+specifically in [North America] despite massive investments into retail and ecom[merce]”)).). 
+
+
+4  ECF No. 360-34, or Exhibit 194 to the Declaration of Robert R. Henssler, Jr. (ECF No. 337) (“Henssler 
+Declaration”), is a physical exhibit filed with the Clerk’s Office.       
+Notably, in an October 2, 2016 email from then-Chief Financial Officer (“CFO”) Chip Molloy 
+(“Molloy”) to Plank, Molloy stated: “sales are projected to be missing plan . . . while operating 
+income is expected to be off. . . . Slowing apparel growth. We are missing in [North America] 
+
+wholesale.”  (Id. at 18–19 (citing ECF No. 360-5).)                       
+ 2.  According to Plaintiffs, Plank’s Obsession with Growth Created Bad Behavior. 
+    According to Plaintiffs, Plank created a “culture of fear” that drove the Company’s 
+“f***ing hit the number” growth strategy and behavior.  (ECF No. 361-34 at 19–20.)  Plaintiffs 
+emphasize that former-CFO Molloy testified that “‘[y]ou have to go f***ing hit the number’” 
+was “a common refrain” from Plank and “‘there was an overriding obsession in the company 
+to grow at least 20 percent, if not more, in any given period.’”  (Id. at 19 (citing ECF No. 
+
+359-12).)  Plaintiffs contend that “[t]his pressure created a constant scramble during the Class 
+Period to make up revenue needed to artificially hit Plank’s revenue growth numbers and 
+extend the streak.”  (Id.)  Plaintiffs’ briefing cites several significant examples of Plank’s 
+fixation  on  growth.    (Id.  (citing  ECF  Nos.  359-20,  360-315  (Plank  calling  Molloy 
+“motherf***er”  after  Molloy  suggested  reducing  Q1  2016  revenue  guidance  and  telling 
+
+another executive “I need you to go get that f***ing number” and “I need you running and 
+driving that f***ing number”), 360-11, 359-12 (“I want us modeling 25%” and “[t]here is no 
+such thing as an approved [three-year] anything that included a growth%# below 25%.”)).)  
+Plaintiffs emphasize that “[a]ttempts to push back on Plank’s unrealistic financial targets were 
+referred to as ‘loser talk’ throughout the Company and executives were instead required to 
+
+
+
+5  ECF No. 360-31, or Exhibit 190 to the Henssler Declaration, is a physical exhibit filed with the Clerk’s Office. 
+‘find a way.’”  (Id. at 20 (citing ECF Nos. 363-47, 360-41,6 363-7, 362-4, 362-7).)   
+    Plaintiffs contend that, by 2014, Under Armour “abandoned” the industry standard of 
+“[b]ottoms up sales planning” in favor of “top down planning,” which was “built on what 
+
+someone wants to happen” and “just cramming the market and hoping.”  (Id. (citing ECF No. 
+363-44).)  In support of this position, Plaintiffs highlight the testimony of Under Armour’s 
+former-CFO Molloy, who testified that the “culture of fear” he referenced in a July 2016 
+internal email was based on the tone set by Plank.  (Id. at 19 (citing ECF Nos. 363-23, 359-12).)  
+He further testified that the culture “may be creating bad behavior.”  (Id. at 20 (citing ECF 
+Nos. 359-20, 359-12).)  “That makes it very disheartening to me in my role if I’m not getting 
+
+what I would consider a very believable and trustworthy plan from those that actually sell the 
+product, make the product and sell the product.”  (Id. (citing ECF No. 359-20).)   
+ 3.  According  to  Plaintiffs,  Under  Armour  Relied  on  “Unnatural”  Business 
+    Practices to Conceal Declining Demand and Achieve Revenue Estimates. 
+    According to Plaintiffs, Under Armour did not use pull forwards to achieve revenue 
+targets prior to 2015, fearing that pull forwards could create “a domino effect.”  (ECF No. 
+361-34 at 21 (citing ECF Nos. 362-23, 363-6, 359-24, 359-14).)  Plaintiffs further contend that, 
+from Q3 2015 to Q1 2017, Under Armour “relied on pull forwards to mask its decelerating 
+growth and hit revenue growth targets,” pulling forward “at least $387 million in revenue,” 
+according to Plaintiffs’ proposed expert Paul Regan’s (“Regan”) calculations.  (Id. at 21, 30).  
+
+Plaintiffs emphasize that “Plank and other executives admit[] this in sworn testimony,” (id. 
+(citing ECF Nos. 362-7, 359-12, 359-6, 362-1, 362-4, 359-8)); that Under Armour induced 
+
+
+6  ECF No. 360-41, or Exhibit 204 to the Henssler Declaration, is a physical exhibit filed with the Clerk’s Office. 
+wholesale customers to accept shipments early, offering discounts, extended payment terms, 
+and the right to return unsold product, (id. at 21–22 (citing 359-12, 359-8, 359-13, 360-17, 
+359-5, 362-20, 363-30, 362-6)); and that Under Armour avoided using the term “pull forward” 
+
+in communications with PwC.  (Id. at 22 (citing ECF No. 359-27).)         
+    Plaintiffs point to an internal presentation from September 2015 indicating that Under 
+Armour already “[e]xecuted” at least $44.5 million of pull forwards from Q4 2015 into 
+Q3 2015 to close the revenue gap.”  (Id. (citing ECF No. 360-1).)  According to Plaintiffs’ 
+proposed expert Regan, Under Armour would have missed analyst consensus estimates for 
+the first time ever without the pull forwards in Q3 2015.  (Id.)  When Under Armour reported 
+
+its Q3 2015 financial results, the Company “hid declining demand and reliance on pull 
+forwards from investors and instead claimed revenue growth was driven by ‘a growing interest 
+in performance products and the strength of the Under Armour brand in the marketplace.’”  
+(Id. (citing ECF No. 358-2).)                                             
+    According  to  Plaintiffs,  Under  Armour’s  reliance  on  pull  forwards  continued  in 
+Q4 2015 “as it again struggled to achieve its forecasted revenue growth and meet consensus 
+
+revenue estimates.”  (Id. at 23 (citing ECF No. 363-4).)  Plaintiffs emphasize that executives 
+internally acknowledged that “‘[the Company] would not have hit our 2015 [revenue forecast] 
+without overdriving liquidation and pulling revenue out of 2016.’”  (Id. (citing ECF No. 
+363-36).)                                                                 
+    Then, in early January 2016, Morgan Stanley published an in-depth report partially 
+revealing the point-of-sale data (the “SportScan data”) that Under Armour’s demand, market 
+
+share, and average sale prices (“ASPs”) had declined since spring 2015.  (Id. (citing ECF No. 
+337-21).)  The following day, an internal email addressed to Plank and other executives 
+highlighted the Morgan Stanley report, noting “[w]e have known about the SportScan data for 
+some time (showing lackluster apparel sell-through trends).”  (Id. (citing ECF No. 360-13).)  
+
+Plank immediately sent an email ordering a “strategy to put our friends in media and other 
+analysts to work to refute [the Morgan Stanley] report” and further stating that the Company 
+was “in a quiet period but this will not go unanswered.”  (Id. (citing ECF No. 360-21); see also 
+ECF Nos. 360-27, 360-24, 360-12.)                                         
+    According  to  Plaintiffs,  Under  Armour  downplayed  the  SportScan  data  on  its 
+January 28, 2016  earnings  call  for  Q4  2015  and  FY  2015,  and  Plank  “made  materially 
+
+misleading statements reassuring the market of the Company’s financial condition, stating that 
+UA’s ‘growth story is strong, we remain a growth company, and none of that is wavered’” and 
+“[o]ur brand, our presence, our ability to drive ASPs have never been stronger in North 
+America.’”  (ECF No. 361-34 at 24 (citing ECF No. 337-12; Under Armour, Inc., Current 
+Report (Form 8-K) (Jan. 28, 2016); Under Armour, Inc., Annual Report (Form 10-K) (Feb. 
+22, 2016)).)  A February 1, 2016 internal email addressed to Plank and other executives 
+
+summarized analyst reaction to Q4 2015 results:                           
+    “Channel stuffing” was a concern given the high level of year end accounts 
+    receivable, which grew 24 points higher than sales growth after single-digit 
+    spreads the prior seven quarters.  In other words, did UA pull levers with TJX 
+    or other partners to make the top line numbers late in the quarter?  
+(Id. (citing ECF No. 360-14); see also ECF No. 363-13.)                   
+    According to Plaintiffs, the pull forwards executed in 2015 created gaps in 2016, which 
+Under Armour filled with more pull forwards.  (ECF No. 361-34 at 24–25 (citing ECF No. 
+359-29); see also ECF Nos. 357-28, 363-2, 362-17.)  According to Plaintiffs’ proposed expert 
+Regan, the Company would have missed analysts’ estimates in both Q1 and Q2 2016 without 
+these orders.  (ECF No. 361-34 at 25.)                                    
+    Plaintiffs further emphasize that Defendants took steps to quiet channel stuffing 
+
+concerns noted by analysts in response to the Company’s disparity in revenue growth and 
+accounts receivable growth in Q4 2015.  (Id. at 25–26 (citing ECF Nos. 363-13, 360-14, 
+363-28, 363-21, 363-29, 363-31, 363-3).)  Specifically, Under Armour incentivized one of its 
+largest customer to pay down its accounts receivable balances early to conceal the disparity in 
+revenue growth and accounts receivable growth, who ultimately agreed to prepay $33 million, 
+which “enable[ed] UA to hide its channel stuffing.”  (Id.)                
+
+    Plaintiffs further assert that by mid-2016, Under Armour executives, including Plank, 
+understood that actual growth would not come close to 20% during the second half of the 
+year without continuing to manipulate revenue with pull forwards.  (Id. at 26.)  Plaintiffs point 
+to internal communications reflecting as much.  (Id. (citing ECF Nos. 363-5, 359-28, 363-4, 
+360-30,7 362-7, 362-29, 360-16, 359-12, 360-6, 363-32, 360-29,8 362-7).)  Plaintiffs emphasize 
+that, to entice its largest customer to consider additional pull forwards in Q3 2016, Under 
+
+Armour agreed to a 25% discount and 30 additional days for payment.  (Id. at 27 (citing ECF 
+No. 338-26 *SEALED*).)  According to Plaintiffs’ proposed expert Regan, Under Armour 
+would not have reached estimates or 20% revenue growth in Q3 2016 without such orders.  
+(Id.)                                                                     
+    Under Armour’s reliance on pull forwards continued into Q4 2016.  (Id. at 28 (citing 
+
+
+7  ECF No. 360-30, or Exhibit 189 to the Henssler Declaration, is a physical exhibit filed with the Clerk’s Office. 
+8  ECF No. 360-29, or Exhibit 188 to the Henssler Declaration, is a physical exhibit filed with the Clerk’s Office. 
+ECF Nos. 359-30, 363-19, 360-8, 363-35, 362-18).)  As one executive put it, “[they do not] 
+want any of that product in [Q4 2016] but we are shipping it to them and they are absolutely 
+taking it from us as a favor.  If we were a privately held company, we would not ship that 
+
+product to them in December.”  (Id (citing Ex. 191 to the Henssler Decl.9 *SEALED*, ECF 
+No. 360-2).)                                                              
+    Under Armour planned significant pull forwards from Q1 2017 into Q4 2016, (id. 
+(citing ECF No. 363-4)), but ultimately realized that there were not enough additional pull 
+forwards to meet consensus estimates or 20%+ revenue growth.  (Id. (citing ECF Nos. 363-4, 
+362-36).)  On December 15, 2016, Plank explained internally:              
+
+    We’ve  been  living  in  this  bubble  for  a  while.  Pulling  ahead  [$]40-
+    50M ahead each quarter. I don’t think that’s healthy.  It’s going to be a cold 
+    shower in January. . . . We’re not going to compromise 2017. . . . And if we’re 
+    going to miss, we’re going to miss gloriously.  But we’re not going to take from 
+    next year.  To save what, a burning house?                           
+(Id. at 28–29 (citing ECF No. 362-36).)  Just days before, however, Plank signed off on the 
+decision to pull forward $11 million of footwear business “to secure higher footwear growth 
+number in Q4.”  (Id. at 29 (citing ECF No. 362-25).)                      
+    Plaintiffs further assert that Under Armour overdrove liquidations to “offset softness” 
+in its North American wholesale business, then manipulated accounts receivable to avoid 
+public disclosure.  (Id. at 30–33 (citing ECF Nos. 363-46, 363-38, 363-40).)  Under Armour 
+executives referred to this practice as “overdriving” and acknowledged the Company “would 
+not have hit our 2015 [forecast] without overdriving liquidation and pulling revenue out of 
+2016.”  (Id. at 31 (ECF No. 363-36).)                                     
+
+9  Exhibit 191 to the Henssler Declaration, is a physical exhibit filed under seal with the Clerk’s Office. 
+    Internally, executives discussed the need to keep liquidation retailers below 10% of the 
+Company’s accounts receivable “in order to stay out of disclosure concerns.”  (Id. at 32 (citing 
+ECF Nos. 363-41, 362-16).)  To stay below this threshold and avoid disclosure, executives 
+
+asked one liquidator to pay down approximately $30 million of its accounts payable early, 
+which the liquidator agreed to do in exchange for an “anticipation” discount.  (Id. (citing ECF 
+No. 363-27).)  To further avoid hitting the 10% disclosure threshold for such customers, 
+Under Armour began selling to additional major discount chains.  (Id. at 32–33 (citing ECF 
+Nos. 363-24, 362-13, 363-49, 362-12).)                                    
+    As one Under Armour executive put it: “we massively missed sales in North American 
+
+wholesale, we made up for it in liquidation.”  (Id. at 33 (citing ECF Nos. 360-42,10 360-15, 
+363-19, 338-28 *SEALED*, 363-20).)  As of December 16, 2016, Under Armour’s liquidation 
+sales grew “+56% in 2016.”  (Id. (citing ECF No. 363-20).)                
+ 4.  According to Plaintiffs, Plank Profited While Investors Suffered as Reality of 
+    Under Armour’s Financial Condition Partially Revealed.               
+    According  to  Plaintiffs,  the  “truth  regarding  [Under  Armour]’s  operational  and 
+financial condition” slowly leaked out “in a series of partial disclosures that resulted in 
+statistically significant stock price declines and investor losses as the artificial inflation in the 
+Company’s  stock  price  dissipated.”    (ECF  No.  361-34  at  33.)    “Defendants,  however, 
+concealed this grim reality from investors,” and “Plank cashed in on the fraud with $138 
+
+million in all profit stock sales.”  (Id.)  “The market did not learn the full truth until the [Wall 
+Street Journal (“WSJ”)] published an article on November 3, 2019, revealing that both the SEC 
+
+10  ECF No. 360-42, or Exhibit 205 to the Henssler Declaration, is a physical exhibit filed with the Clerk’s 
+Office.                                                                   
+and [Department of Justice (“DOJ”) were investigating whether Under Armour ‘shifted sales 
+from quarter to quarter to appear healthier.’”11  (Id.)                   
+ III.  Procedural History.                                               
+
+    This class action was initiated on February 10, 2017 upon Plaintiff Brian Breece filing 
+a complaint against Under Armour, Plank, and Molloy.  (ECF No. 1.)  After consolidation 
+with other suits filed against Under Armour, Plank, and numerous other defendants, this Court 
+dismissed the Plaintiffs’ Consolidated Amended Complaint on September 19, 2018.  (ECF 
+No. 75.)  On November 16, 2018, Lead Plaintiff Aberdeen filed a Consolidated Second 
+Amended Complaint for violations of the federal securities laws (ECF No. 78), naming only 
+
+Under Armour and Plank as Defendants.  That Second Amended Complaint alleged that 
+between September 16, 2015 and January 30, 2017, the Defendants issued a series of false and 
+misleading statements about demand for Under Armour products and the company’s financial 
+condition.  (Id. ¶¶ 2, 14.)                                               
+    On  August 19, 2019,  this  Court  dismissed  the  Second  Amended  Complaint  with 
+prejudice.  (ECF No. 98 at 26.)  Judgment was entered on September 9, 2019 (ECF No. 101), 
+
+and on September 17, 2019, the Plaintiffs filed a notice of appeal to the United States Court 
+of Appeals for the Fourth Circuit (ECF No. 102).  Based on the reports of the WSJ that Under 
+Armour was the subject of SEC investigations, Lead Plaintiff moved on November 18, 2019 
+for an indicative ruling (ECF No. 105), requesting that this Court grant the Plaintiffs’ Motion 
+for Relief from the Court’s September 9, 2019 Judgment pursuant to Federal Rule of Civil 
+
+
+11  Aruna Viswanatha & Khadeeja Safdar, Under Armour Is Subject of Federal Accounting Probes, WALL ST. J. 
+(Nov. 3, 2019),  available  at  https://www.wsj.com/articles/under-armour-is-subject-of-federal-accounting-
+probe-11572819835.                                                        
+Procedure 60(b), if the Fourth Circuit remanded for that purpose.  (ECF No. 106.)  On 
+January 22, 2020, this Court granted the Lead Plaintiff’s request.  (ECF No. 139.)  Accordingly, 
+this Court held that it would permit Lead Plaintiff to file a third amended complaint bringing 
+
+claims against the Defendants for violations of the Exchange Act.  (Id.)  
+    On  October 14, 2020,  the  Lead  Plaintiff  filed  the  operative  Consolidated  Third 
+Amended Complaint (ECF No. 153) for violations of the federal securities laws, alleging that 
+Defendants Under Armour and Plank misled investors during the Class Period by falsely 
+claiming that consumer demand for the Company’s products was strong between the third 
+quarter of 2015 and the fourth quarter of 2016.  Plaintiffs allege that the Defendants led 
+
+investors to believe that Under Armour’s 26-consecutive quarter 20% year-over-year revenue 
+growth streak was “safely intact,” when in reality demand for the company’s products was in 
+decline.  (ECF No. 153 ¶¶ 148–168.)  They claim that Defendants manipulated the Company’s 
+financial results by pulling sales forward from future quarters and engaged in other allegedly 
+suspect sales practices.  (Id.)  The Plaintiffs assert violations of Section 10(b) of the Exchange 
+Act and Rule 10b–5 promulgated thereunder against Defendants Under Armour and Plank 
+
+(Count I); violations of Section 20(a) of the Exchange Act, again against both Under Armour 
+and Plank (Count II); and violation of Section 20A of the Exchange Act against Defendant 
+Plank (Count III).  (Id. ¶¶ 412–436.)                                     
+    On May 31, 2021, this Court denied Defendants’ Motion to Dismiss the TAC (ECF 
+No. 159).  (ECF No. 173); In re Under Armour Sec. Litig., 540 F. Supp. 3d 513 (D. Md. 2021).  
+On December 1, 2021, Plaintiffs filed their Motion for Class Certification (ECF No. 197), 
+
+which was granted on September 29, 2022.  (ECF No. 245); In re Under Armour Sec. Litig., 631 
+F. Supp. 3d 285 (D. Md. 2022).                                            
+    Discovery in this matter has now concluded, (ECF No. 280), and a twelve-day jury trial 
+is scheduled to begin on July 15, 2024.  (ECF No. 295.)  Pursuant to the Scheduling Order in 
+
+this case, deadline to file dispositive motions and challenges to experts was October 2, 2023.  
+Defendants have moved for summary judgment (ECF No. 299) and to exclude or limit the 
+opinions and testimony of Professor M. Todd Henderson (ECF No. 309), D. Paul Regan 
+(ECF No. 311), Professor Mark A. Cohen (ECF No. 314), and Matthew D. Cain, Ph.D. (ECF 
+No. 316).  Plaintiffs have moved to exclude or limit the opinions and testimony of Paul A. 
+Gompers (ECF No. 302), Wayne Guay (ECF No. 305), and Laurie Wilson (ECF No. 308).  
+
+Also pending is Defendant Under Armour, Inc.’s Motion to Seal (ECF No. 364) and Plaintiffs’ 
+Motion for Leave to File Surreply to Defendants’ Motion for Summary Judgment (ECF 
+No. 366).                                                                 
+    This Court heard oral argument from the parties on Friday, February 9, 2024, on 
+Defendants’ Motion for Summary Judgment (ECF No. 299) and Plaintiffs’ Motion for Leave 
+to File Surreply to Defendants’ Motion for Summary Judgment (ECF No. 366.)  A hearing on 
+
+the seven (7) motions to exclude expert testimony and opinions (ECF Nos. 302, 305, 308, 309, 
+311,  314,  316)  is  presently  scheduled  for  Tuesday,  April 9, 2024  and  Wednesday, 
+April 10, 2024. (ECF No. 375).  Thus, the instant Memorandum Opinion addresses only 
+Defendants’ Motion for Summary Judgment (ECF No. 299) and Plaintiffs’ Motion for Leave 
+to File Surreply to Defendants’ Motion for Summary Judgment (ECF No. 366).12 
+
+
+
+12  This Court will address on Defendant Under Armour’s Motion to Seal (ECF No. 366) in a separate opinion.  
+                     STANDARD OF REVIEW                                  
+ I.   Motion for Summary Judgment                                        
+    Rule 56 of the Federal Rules of Civil Procedure provides that a court “shall grant 
+
+summary judgment if the movant shows that there is no genuine dispute as to any material 
+fact and the movant is entitled to judgment as a matter of law.”  FED. R. CIV. P. 56(c).  A 
+material fact is one that “might affect the outcome of the suit under the governing law.”  
+Libertarian Party of Va. v. Judd, 718 F.3d 308, 313 (4th Cir. 2013) (quoting Anderson v. Liberty 
+Lobby, Inc., 477 U.S. 242, 248 (1986)).  A genuine issue over a material fact exists “if the 
+evidence is such that a reasonable jury could return a verdict for the nonmoving party.”  
+
+Anderson, 477 U.S. at 248.  When considering a motion for summary judgment, a judge’s 
+function is limited to determining whether sufficient evidence exists on a claimed factual 
+dispute to warrant submission of the matter to a jury for resolution at trial.  Id. at 249.   Trial 
+courts  in  the  Fourth  Circuit  have  an  “affirmative  obligation . . . to  prevent  factually 
+unsupported claims and defenses from proceeding to trial.”  Bouchat v. Balt. Ravens Football Club, 
+Inc., 346 F.3d 514, 526 (4th Cir. 2003) (quoting Drewitt v. Pratt, 999 F.2d 774, 778–79 (4th Cir. 
+
+1993)).  This Court has previously explained that a “party cannot create a genuine dispute of 
+material fact through mere speculation or compilation of inferences.”  Shin v. Shalala, 166 F. 
+Supp. 2d 373, 375 (D. Md. 2001) (citations omitted).                      
+    In undertaking this inquiry, this Court must consider the facts and all reasonable 
+inferences in the light most favorable to the nonmoving party.  Libertarian Party of Va., 718 
+F.3d at 312; see also Scott v. Harris, 550 U.S. 372, 378 (2007).  This Court “must not weigh 
+
+evidence or make credibility determinations.”  Foster v. Univ. of Md.-Eastern Shore, 787 F.3d 243, 
+248 (4th Cir. 2015) (citing Mercantile Peninsula Bank v. French, 499 F.3d 345, 352 (4th Cir. 2007)).  
+Indeed, it is the function of the fact-finder to resolve factual disputes, including issues of 
+witness credibility.  See Tolan v. Cotton, 572 U.S. 650, 656–60 (2014).   
+
+ II.  Motion for Leave to File Surreply                                  
+    In general, parties are not permitted to file surreplies.  Local Rule 105.2(a) (D. Md. 
+2023) (“Unless otherwise ordered by the Court, surreply memoranda are not permitted to be 
+filed.”).  A surreply is permitted when the moving party would be unable to contest any matters 
+raised by the opposing party in their reply for the first time.  Khoury v. Meserve, 268 F. Supp. 2d 
+600, 605 (D. Md. 2003).                                                   
+
+                           ANALYSIS                                      
+ I.   Defendants’ Motion for Summary Judgment (ECF No. 299)              
+    Through their TAC (ECF No. 153), Plaintiffs assert violations of Section 10(b) of the 
+Exchange Act and Rule 10b-5 promulgated thereunder against Defendants Under Armour 
+and Plank (Count I); violations of Section 20(a) of the Exchange Act against Under Armour 
+and Plank (Count II); and violation of Section 20A of the Exchange Act against solely 
+
+Defendant Plank (Count III).  (Id. ¶¶ 412–436.)  Through their Motion for Summary Judgment 
+(ECF No. 299), Defendants contend that summary judgment should be granted on all counts.  
+With respect to Count I, Defendants assert that they are entitled to summary judgment because 
+the undisputed facts show that Defendants did not make a material misrepresentation or 
+omission, (ECF No. 361-1 at 31–53), and the undisputed record cannot support a scienter 
+determination as a matter of law, (id. at 53–60).  With respect to Counts II and III, Defendants 
+
+assert that Defendants are not liable under Sections 20(a) and 20A of the Exchange Act 
+because, to the extent summary judgment is granted as to Count I, Plaintiffs cannot establish 
+a primary violation.  (Id. at 60–61.)  With respect to Count III, Defendants assert that Plank is 
+not liable under Section 20A of the Exchange Act to class members who did not purchase the 
+
+same class of securities contemporaneously with his sales.  (Id. at 61–63.)  If summary 
+judgment is not granted in full, Defendants submit that the Court should modify the class 
+definition by shortening the Class Period, which currently is September 16, 2015 through 
+November 1, 2019,  to  begin  no  earlier  than  October 25, 2016,  and  end  no  later  than 
+August 1, 2017.  (Id. at 63–67.)                                          
+ A. According to Defendants, Count I, Which Alleges Violations of Section 10(b) of 
+    the Exchange Act and Rule 10b-5 Promulgated Thereunder Against Defendants 
+    Under  Armour  and  Plank  (ECF  No.  153  ¶¶  412–423),  Must  Fail  Because 
+    Plaintiffs Cannot Show a Genuine Issue of Material Fact as to the Requisite 
+    Material  Misrepresentation  or  Omission  Element  and  the  Record  Cannot 
+    Support a Scienter Determination as a Matter of Law.                 
+    To prove a violation of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, 
+Plaintiffs must establish: (1) a material misrepresentation (or omission); (2) scienter (i.e., a 
+wrongful state of mind; (3) a connection with the purchase or sale of a security; (4) reliance, 
+often referred to in cases involving public securities markets (fraud-on-the-market cases) as 
+“transaction causation;” (5) economic loss; and (6) loss causation (i.e., a causal connection 
+between the material misrepresentation and the loss).  Dura Pharms., Inc. v. Broudo, 544 U.S. 
+336, 341–42 (2005) (internal citations omitted).  Defendants assert that they are entitled to 
+summary judgment because the undisputed facts show that Defendants did not make a 
+material misrepresentation or omission, (ECF No. 361-1 at 31–53), and the undisputed record 
+cannot support a scienter determination as a matter of law, (id. at 53–60). 
+ 1.  Material Misrepresentation or Omission.                             
+    The  first  element  of  a  Section 10(b)  and  Rule 10b-5  securities  fraud  requires  an 
+actionable misstatement or omission.  Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, Inc., 552 
+
+U.S. 148, 157 (2008); Matrix Cap. Mgmt. Fund v. BearingPoint, Inc., 576 F.3d 172, 181 (4th Cir. 
+2009); see also Hillson Partners, Ltd. v. Adage, Inc., 42 F.3d 204, 208–09 (4th Cir. 1994) (explaining 
+that there are two components of this requirement: (1) the statement must be false, or the 
+omission must be misleading, and (2) the statement or omission must be material).  To satisfy 
+this element, the plaintiff must point to “a factual statement or omission—that is, one that is 
+demonstrable as being true or false.”  See Longman v. Food Lion, Inc., 197 F.3d 675, 682 (4th Cir. 
+
+1999) (citing Va. Bankshares, Inc. v. Sandberg, 501 U.S. 1083, 1091–96 (1991); 7 LOUIS LOSS & 
+JOEL SELIGMAN, SECURITIES REGULATION 3423 (3d ed. 1991)).  The challenged statement 
+or omission must also be “material.”  Id. at 683 (“[T]here [must be] a substantial likelihood that 
+a reasonable purchaser or seller of a security (1) would consider the fact important in deciding 
+whether to buy or sell the security or (2) would have viewed the total mix of information made 
+available to be significantly altered by disclosure of the fact.” (citing Basic, Inc. v. Levinson, 485 
+
+U.S. 224, 231–32 (1988); Gasner v. Bd. of Supervisors, 103 F.3d 351, 356 (4th Cir. 1996))).  “And 
+the plaintiff must establish that the defendant either said something that is ‘false’ or left 
+something out that renders ‘misleading’ the ‘public statements’ the defendant made.”  In re 
+Marriott Int’l, Inc., 31 F.4th 898, 901 (4th Cir. 2022) (citing Longman, 197 F.3d at 682). 
+    With respect to an alleged omission, Section 10(b) and Rule 10b-5 “do not create an 
+affirmative duty to disclose any and all material information.”  Matrixx Initiatives, Inc. v. 
+
+Siracusano, 563 U.S. 27, 44 (2011).  Rather, “[d]isclosure is required . . . only when necessary ‘to 
+make . . . statements made, in the light of the circumstances under which they were made, not 
+misleading.’”  Id. (quoting 17 C.F.R. § 240.10b-5(b)).  The Supreme Court has recognized that 
+“silence, absent a duty to disclose, is not misleading under Rule 10b-5.”  Basic, 485 U.S. at 239 
+
+n.17.  Simply stated, an omission is actionable only if—absent the fact omitted—“a reasonable 
+investor, exercising due care, would gather a false impression from a statement, which would 
+influence an investment decision.”  Phillips v. LCI Int’l, Inc., 190 F.3d 609, 613 (4th Cir. 1999). 
+    Defendants advance several challenges with respect to this first element.  (ECF No. 
+361-1 at 32–53.)  Defendants argue that Plaintiffs have not established any GAAP violations 
+or financial statement errors based on pull forwards, (id. at 32–33); that Under Armour did 
+
+not omit any material information or make material misstatements regarding pull forwards, 
+(id. at 33–45); and that Plaintiffs’ allegations of affirmative misstatements fail as a matter of 
+law (id. at 45–53).  While Plaintiffs concede that they have not established any GAAP 
+violations  based  on  pull  forwards  and  that  a  failure  to  disclose  under  Item 303  of 
+Regulation S-K cannot support their claim, this Court finds that the circumstances under 
+which the challenged statements were made creates a genuine issue of material fact as to 
+
+whether such statements were in fact misleading.  As such, summary judgment is inappropriate 
+on this basis.                                                            
+i.  Plaintiffs’ Failure to Establish a Violation of GAAP Based on Defendants’ Pull 
+    Forward Sales Is Not Fatal to Their Claims                           
+    In their Motion for Summary Judgment, Defendants argue that Plaintiffs’ GAAP-based 
+theory must fail.  (ECF No. 361-1 at 32–33.)  Defendants emphasize that “[t]he undisputed 
+evidence demonstrates that [the Company]’s pull forwards involved real sales of real products 
+to real customers who agreed to accept the products and make real payments,” and “[m]ultiple 
+witnesses confirmed that [Defendants] ensured that the pull forwards were legitimate sales 
+that complied with GAAP.”  (Id. at 32.)  In support of this position, Defendants cite to In re 
+Cypress Semiconductor Sec. Litig., 891 F. Supp. 1369, 1381 (N.D. Cal. 1995) (“[W]hile they may be 
+
+emblematic of American business’ habitual tendency toward short-term views, ‘pull-ins’ are 
+not the nefariously manipulative scheme that plaintiffs make them out to be.  ‘Pull-ins’ do not 
+result in the improper recognition of revenue under [GAAP].  They are actual sales which are 
+treated no differently than any other sale.”); In re Smith & Wesson Holding Corp. Sec. Litig., 836 
+F. Supp. 2d 1, 10 (D. Mass. 2011) (same); In re Cytyc Corp. Sec. Litig., No. 02-12399-NMG, 2005 
+U.S. Dist. LEXIS 6166, at *65 (D. Mass Mar. 1, 2005) (same).              
+
+    While Plaintiffs counter that they “uncovered a series of GAAP violations that also 
+rendered Defendants’ financial statements false and misleading in 2016 and 2017,” (ECF No. 
+361-34 at 48–51), Plaintiffs concede that Defendants’ pull forwards did not violate GAAP.  
+Nevertheless, Defendants’ purported compliance with GAAP does not shield Defendants 
+from liability.  As other courts have observed, “[a] defendant could employ a GAAP-approved 
+accounting standard in preparing its financial reports, but nonetheless violate the securities 
+
+laws by failing to disclose additional information necessary to render its financial reports fair 
+and accurate.”  In re Michaels Stores, Inc. Sec. Litig., No. 3:03-CV-0246-M, 2004 U.S. Dist. LEXIS 
+33558, at *14–15 (N.D. Tex. Dec. 13, 2004) (citing In re Global Crossing, Ltd. Sec. Litig., 322 F. 
+Supp. 2d 319, 339–41 (S.D.N.Y. 2004)).  Plaintiffs do not claim that Defendants’ use of pull 
+forwards in and of itself violated the securities laws; rather, Plaintiffs argue that Defendants 
+acted fraudulently when they failed to disclose—and took steps to conceal (i.e., pull forwards, 
+
+increased sales to liquidators, manipulating accounts receivable)—declining demand.  As such, 
+Plaintiffs’ failure to establish that Defendants’ practice of pull forwards violated GAAP is not 
+fatal to Plaintiffs’ claims.                                              
+ii.  While There Is No Affirmative Duty to Disclose Pull Forward Sales Exists, This 
+    Does Not Address Plaintiffs’ Theory that Defendants’ Statements Created a 
+    Duty to Tell the Whole Truth                                         
+    In their Motion for Summary Judgment, Defendants contend that there is no legal 
+requirement  to  disclose  pull  forward  sales.    (ECF  No.  361-1  at  34–35.)    To  be  clear, 
+Defendants correctly note that there is no affirmative duty to disclose pull forward sales. See 
+Iron Workers Loc. 16 Pension Fund v. Hilb Rogal & Hobbs Co., 432 F. Supp. 2d 571, 582 (E.D. Va. 
+2006); In re Cypress Semiconductor Sec. Litig., 891 F. Supp. 1369, 1380–81 (N.D. Cal. 1995); In re 
+AXIS Cap. Holdings Ltd. Sec. Litig., 456 F. Supp. 2d 576, 590 (S.D.N.Y. 2006); City of Omaha 
+
+Police & Fire Ret. Sys. v. Timberland Co., No. 11-cv-277-SM, 2013 U.S. Dist. LEXIS 44652, at 
+*25 (D.N.H. Mar. 28, 2013); In re Smith & Wesson Holding Corp. Sec. Litig., 836 F. Supp. 2d 1, 
+10 (D. Mass. 2011); Greebel v. FTP Software, Inc., 194 F.3d 185, 202–03 (1st Cir. 1999); In re Cytyc 
+Corp. Sec. Litig., No. 02-12399-NMG, 2005 U.S. Dist. LEXIS 6166, at *65 (D. Mass Mar. 1, 
+2005).  Nevertheless, this does not address Plaintiffs’ theory that Defendants’ statements 
+
+created a duty to tell the whole truth.                                   
+iii.  Plaintiffs’ Claims Do Not Rise or Fall on the Basis of an Item 303 Violation 
+    In their Motion for Summary Judgment, Defendants contend that a violation of 
+Item 303 of Regulation S-K does not establish a violation of Section 10(b) or Rule 10b-5.  
+(ECF No. 361-1 at 36–37 (citing Oran v. Stafford, 226 F.3d 275, 287–88 (3d Cir. 2000); In re 
+Sofamor Danek Grp., 123 F.3d 394, 403 (6th Cir. 1997); In re NVIDIA Corp. Sec. Litig., 768 F.3d 
+1046, 1054, 1056 (9th Cir. 2014); Carvelli v. Ocwen Fin. Corp., 934 F.3d 1307, 1330–31 (11th Cir. 
+2019); Ash v. PowerSecure Int’l, Inc., No. 4:14-CV-92-D, 2015 U.S. Dist. LEXIS 122692, at *28 
+(E.D.N.C. Sept. 15, 2015); In re SCANA Corp. Sec. Litig., No. 3:17-2616-MBS, 2019 U.S. Dist. 
+LEXIS 54176, at *35 (D.S.C. Mar. 29, 2019); In re Maximus, Inc. Sec. Litig., No. 1:17-cv-0884 
+
+(AJT/IDD), 2018 U.S. Dist. LEXIS 146068, at *45 (E.D. Va. Aug. 27, 2018); Shah v. GenVec, 
+Inc., No. DKC 12-0341, 2013 U.S. Dist. LEXIS 134997, at *50 n.16 (D. Md. Sept. 20, 2013)).)  
+Item 303 requires companies to make a disclosure “where a trend, demand, commitment, 
+event or uncertainty is both presently known to management and reasonably likely to have 
+material  effects  on  the  registrant’s  financial  conditions  or  results  of  operations.”  
+Stratte-McClure v. Morgan Stanley, 776 F.3d 94, 101 (2d Cir. 2015); see also 17 C.F.R. § 229.303. 
+
+    While the United States Court of Appeals for the Second Circuit has held that a failure 
+to disclose under Item 303 can amount to an actionable omission for a Section 10(b) claim, 
+Stratte-McClure, 776 F.3d at 103–04, the Third, Sixth, Ninth, and Eleventh Circuits have held 
+plaintiffs to a higher standard, requiring them to show, for example, that the issuer had an 
+independent duty to disclose the information allegedly withheld.  Oran, 226 F.3d at 287–88; In 
+re Sofamor Danek Grp., 123 F.3d at 403; In re NVIDIA Corp. Sec. Litig., 768 F.3d at 1054, 1056; 
+
+Carvelli, 934 F.3d at 1330–31.  In September 2023, the Supreme Court granted certiorari in in 
+Macquarie Infrastructure Corp. v. Moab Partners, L.P., 216 L. Ed. 2d 1312 (U.S. 2023), to resolve 
+this  circuit  split.    While  the  case  remains  pending,  oral  argument  was  heard  on 
+January 16, 2024.  Defendants assert that “the Supreme Court [appears] poised to rule that an 
+Item 303 violation does not give rise to a duty to disclose under Rule 10b-5.”  (ECF No. 
+361-35 at 11.)                                                            
+
+    Plaintiffs, however, are not advancing an Item 303 claim absent an underlying violation 
+of Section 10(b) Rule 10b-5.  (ECF No. 361-34 at 45 n.39.)  In other words, Plaintiffs claims 
+do not rise or fall on the basis of an Item 303 violation or a potential ruling by the Supreme 
+Court in a pending case.  As such, this Court need not further address the issue of whether 
+
+Defendants violated Item 303, and whether such a violation supports Plaintiffs’ claim.   
+iv.  The Circumstances Under Which Defendants’ Statements Were Made Creates 
+    a Genuine Issue of Material Fact as to Whether Challenged Statements Were in 
+    Fact Misleading                                                      
+    Plaintiffs contend that certain statements made by Defendants created an obligation to 
+“tell the whole truth.”  (ECF No. 361-34 at 35 (citing Singer v. Reali, 883 F.3d 425, 440 (4th 
+Cir. 2018)).)  Plaintiffs emphasize that:                                 
+    From the first day of the Class Period, Defendants continuously misrepresented 
+    [its] revenue growth and drivers (saying they had not changed), including by 
+    attributing its results to demand for its brand (saying it had never been stronger), 
+    its status as a premium and full-price brand (saying it was intact), and growth in 
+    its  core  apparel  business  (saying  it  was  continuing).    Defendants  also  led 
+    investors to believe that UA would continue 20%+ revenue growth and achieve 
+    consensus estimates when they knew they could not without the pull forwards. 
+    Thus, in every quarter of the Class Period, UA’s statements about the drivers of 
+    its quarterly financial results and growth (including touting its 20% growth 
+    streak)  were  misleading  because  Defendants  used  pull  forwards  to 
+    “manipulate,”  inflate,  and  achieve  these  results.    By  concealing  the  pull 
+    forwards,  these  statements  made  UA  appear  healthier  than  it  was  by 
+    misrepresenting UA’s natural revenue and growth and masking slowing demand 
+    in its core North American wholesale business, and concealing material drivers 
+    of UA’s revenue and results.                                         
+(Id.  at  35–36  (internal  citations  omitted).)    Plaintiffs  further  contend  that  Defendants’ 
+statements about the Company’s use of liquidations and the state of its inventory were 
+misleading.  (Id. at 36–37.)                                              
+    Defendants argue summary judgment should be granted because Defendants had no 
+affirmative duty to disclose the challenged pull forward sales, because disclosure of such sales 
+would be required under Rule 10b-5 only if necessary to make “‘statements made, in the light 
+of the circumstances under which they were made, not misleading.’”  (ECF No. 361-1 at 43 
+(citing 17 C.F.R. § 240.10b-5(b); In re Marriott Int’l, Inc., 31 F.4th 898, 901–02 (4th Cir. 2022).)  
+
+According to Defendants, “Plaintiffs cannot make such a showing based on the undisputed 
+factual record here.”  (Id.)  In short, Defendants argue that summary judgment should be 
+granted because Under Armour’s statements were true, (id. at 43–44), and further because the 
+statements must be considered in the full context in which they were made, including risk 
+disclosures and warnings.  (Id. at 44–45.)                                
+    “Not all material omissions are actionable.  Although investors would surely prefer to 
+
+know everything about a company, Section 10(b) and Rule 10b-5 ‘do not create an affirmative 
+duty to disclose any and all material information.’”  Marriott, 31 F.4th at 901–02 (quoting 
+Matrixx  Initiatives,  Inc.  v.  Siracusano,  563  U.S.  27,  44  (2011)).    “Rather,  ‘[d]isclosure  is 
+required . . . only  when  necessary  ‘to  make . . . statements  made,  in  the  light  of  the 
+circumstances  under  which  they  were  made,  not  misleading.’”    Id.;  see  also  17  C.F.R. 
+§ 240.10b-5(b).  “In other words, an omission is actionable only if—absent the fact omitted ‘a 
+
+reasonable investor, exercising due care, would gather a false impression from a statement, 
+which would influence an investment decision.’”  Marriott, 31 F.4th at 902 (quoting Phillips v. 
+LCI Int’l, Inc., 190 F.3d 609, 613 (4th Cir. 1999)).                      
+    “In several instances,” courts in this Circuit “ha[ve] found that even in the absence of 
+a  specific  false  statement,  when  a  company  officer  made  statements  giving  a  positive 
+impression of the company’s prospects, the failure to disclose related adverse information 
+
+could constitute a material omission under the Exchange Act.”  Sinnathurai v. Novavax, Inc., 645 
+F. Supp. 3d 495, 518 (D. Md. 2022).  Plaintiffs aver “[t]hat is exactly what happened here: 
+Defendants’ failure to disclose their pull-forward tactics ‘to investors while touting positive 
+revenue results misled investors into believing that the revenue results they touted were caused 
+
+by  other  factors . . . created  an  inaccurate  impression  as  to  the  financial  health  of  the 
+Company.’”  (ECF No. 361-34 at 40 (quoting In re Plantronics, Inc. Sec. Litig., No. 19-cv-07481-
+JST, 2022 U.S. Dist. LEXIS 152745, at *32–33 (N.D. Cal. Aug. 16, 2022)).)  
+    Plaintiffs challenge several of Defendants’ statements during the Relevant Period as 
+materially misleading in support of their Exchange Act Claims, with the first challenged 
+statement occurring during Under Armour’s September 16, 2015 Investor Day meeting.  (See 
+
+ECF No. 361-34 at 35–44.)  Therein, Plank boasted about the Company’s revenue growth: 
+“We’ve enjoyed 21 consecutive quarters of 20-plus% revenue growth, more than five years of 
+20-plus% revenue growth quarter in an[d] quarter out, delivering and finding a way and doing 
+it not because we are pushing or pressing, because it’s the demand and the app from our 
+consumer.”  (ECF No. 337-10.)  “We are a growth company led by five growth drivers that 
+remain effectively the same over the past ten years.”  (Id.)  “The demand for our brand has 
+
+never  been  stronger.”    (Id.)    According  to  Plaintiffs,  “Defendants[’]  misrepresentations 
+[throughout the Class Period] were like an unending drumbeat,” pointing to Defendants’ 
+statements about the drivers of the Company’s growth; statements about demand for Under 
+Armour’s brand; statements about the strength of Under Armour’s core, premium full-price 
+wholesale business; statements about Under Armour’s growth company status; statements that 
+Under Armour was limiting liquidation and that increased liquidation and inventory were 
+
+planned or resulted from benign causes; and statements that Under Armour’s inventory was 
+healthy.  (ECF No. 361-34 at 37–39.)                                      
+    The “case at hand is not one of ‘simply an omission of fact in the ether.’”  City of Ann 
+Arbor Emps.’ Ret. Sys. v. Sonoco Prods. Co., 827 F. Supp. 2d 559, 580 (D.S.C. 2011).  Rather, 
+
+Plaintiffs theory is that the Defendants needed to disclose their dependence on pull forward 
+sales, overdriving sales to liquidators, and manipulating accounts receivable to achieve revenue 
+expectations in order to make Under Armour’s statements about its financial performance and 
+results not misleading.  Indeed, the record substantiates Plaintiffs’ claims that Under Armour’s 
+public statements throughout the Class Period did not align with the Company’s internal 
+communications.  Internal emails and presentations during the Relevant Period acknowledge 
+
+that the Company would not have hit its external guidance “without overdriving liquidation 
+and pulling [forward] forward revenue,” (ECF Nos. 363-4, 363-36, 360-6, 359-26), and 
+executives, including Plank, testified that Under Armour utilized pull forwards to meet 
+financial objectives, including external guidance.  (ECF Nos. 359-12, 362-7.)  The record 
+further makes clear that the Company internally recognized the need to mitigate market 
+speculation about “channel stuffing.”  (ECF Nos. 360-14, 363-13.)  Specifically, internal emails 
+
+show that Under Armour took strategic steps to better balance its accounts receivable to the 
+Company’s revenue growth, (ECF Nos. 363-28, 363-21, 363-3, 363-31, 363-49), and avoid 
+disclosure of sales to liquidators.  (ECF Nos. 363-41, 362-16, 363-27, 363-24, 363-34, 362-31.)   
+    In  sum,  Plaintiffs  contend  that  the  affirmative  statements  made  by  Defendants 
+regarding the drivers of the Company’s growth; demand for Under Armour’s brand; the 
+strength of Under Armour’s core, premium full-price wholesale business; Under Armour’s 
+
+growth company status; liquidation; and inventory required Defendants to make full disclosure 
+of the facts to avoid making its statements misleading.  Defendants argue that their statements 
+about the Company’s financial performance and results were not misleading because they 
+involved “accurate historical data.”  (ECF No. 361-1 at 46–47.)  However, “literal accuracy is 
+
+not enough: [a]n issuer must as well desist from misleading investors by saying one thing and 
+holding back another.”  Omnicare, Inc. v. Labs. Dist. Council Constr. Indus. Pension Fund, 575 U.S. 
+175, 192 (2015).  Considering Defendants’ argument that the statements must be considered 
+in the full context in which they were made, including risk disclosures and warnings, (ECF 
+No. 361-1 at 44–45), this Court finds there is a question of fact considering whether the 
+disclosures and warnings accompanying Defendants’ statements were meaningful.  See Sonoco, 
+
+827 F. Supp. 2d at 576 (citing Lefkoe v. Jos. A. Bank Clothiers, No. WMN-06-1892, 2007 U.S. 
+Dist. LEXIS 98777, at n.10 (D. Md. Sept. 10, 2007)).                      
+    The statements about the drivers of Under Armour’s growth, about demand for Under 
+Armour’s brand, about the strength of Under Armour’s core, premium full-price wholesale 
+business, about Under Armour’s growth company status, about limiting liquidation and the 
+causes for increased liquidation, and about the status of inventor—all create genuine issues of 
+
+material fact as to whether these statements were misleading.  Therefore, Defendants’ Motion 
+for Summary Judgment on this basis is denied.                             
+ 2.  Scienter.                                                           
+    The second element of a Section 10(b) and Rule 10b-5 securities fraud requires a 
+plaintiff to establish that each defendant acted with scienter, or a mental state embracing intent 
+to deceive, manipulate, or defraud investors.  Matrixx Initiatives, Inc. v. Siracusano, 563 U.S. 27, 
+
+48 (2011) (quoting Tellabs, Inc. v. Makor Issues & Rts., Ltd., 551 U.S. 308, 319 (2007)).  An award 
+of summary judgment is “seldom appropriate” in disputes where state of mind is a decisive 
+element, Metric/Kvaerner Fayetteville v. Fed. Ins. Co., 403 F.3d 188, 197 (4th Cir. 2005), but 
+“summary judgment on this issue is sometimes appropriate.”  SEC v. Ficken, 546 F.3d 45, 51 
+
+(1st Cir. 2008); see also SEC v. Jakubowski, 150 F.3d 675, 682 (7th Cir. 1998) (upholding 
+summary judgment on scienter where what was said on behalf of a defendant could not 
+persuade a reasonable trier of fact).                                     
+    “Proof  of  scienter  need  not  be  direct,  but  may  be  inferred  from  circumstantial 
+evidence.”  Malone v. Microdyne Corp., 26 F.3d 471, 479 (4th Cir. 1994).  “The inference that the 
+defendant acted with scienter need not be irrefutable, i.e., of the ‘smoking-gun’ genre, or even 
+
+the ‘most plausible of competing inferences.’”  Tellabs, 551 U.S. at 324.  “To evaluate the 
+strength of the scienter inferences, courts engage in a comparative analysis.”  Zak v. Chelsea 
+Therapeutics Int’l Ltd., 780 F.3d 597, 606 (4th Cir. 2015).               
+    “A plaintiff must show either ‘intentional misconduct’ or such ‘severe recklessness’ that 
+the danger of misleading investors was ‘either known to the defendant or so obvious that the 
+defendant must have been aware of it.’”  Cozzarelli v. Inspire Pharms., Inc., 549 F.3d 618, 623 
+
+(4th Cir. 2008).  This “‘severe recklessness’ is, in essence, ‘a slightly lesser species of intentional 
+misconduct.’”  Ottmann v. Hanger Orthopedic Grp., Inc., 353 F.3d 338, 343 (4th Cir. 2003) (quoting 
+Nathenson v. Zonagen Inc., 267 F.3d 400, 408 (5th Cir. 2001)). A showing of mere negligence 
+cannot establish the necessary mental state.  Cozzarelli, 549 F.3d at 623.  “To establish scienter 
+as to a corporation, an agent of the corporation must act with the appropriate state of mind, 
+‘since corporate liability derives from the actions of its agents.’”  In re Mut. Funds Inv. Litig., 590 
+
+F. Supp. 2d 741, 749 (D. Md. 2008) (quoting Tchrs’ Ret. Sys. of La. v. Hunter, 477 F.3d 162, 172 
+(4th Cir. 2007)).                                                         
+    Defendants contend that the record here cannot support a scienter determination as a 
+matter of law.  (ECF No. 361-1 at 53–60.)  Specifically, Defendants note that the pulled 
+
+forwards do not support a scienter determination (id. at 54–57) and senior management did 
+not believe that disclosure of pull forwards was required (id. at 57–60.)  Plaintiffs counter that 
+the evidence demonstrates Defendants’ scienter, (ECF No. 361-34 at 51–57), pointing to 
+Plank’s  actual  knowledge  of  waning  demand  in  Under  Armour’s  core  North  American 
+wholesale business and reliance on pull forwards and other manipulative sales practices to hit 
+financial targets during the Class Period, as well as Plank’s alleged affirmative steps to prevent 
+
+the disclosure of the Company’s true operational condition.  (Id.)        
+    Based on the evidence of record, there is a genuine issue of material fact on the element 
+of scienter.  Plaintiffs have established a question of fact concerning whether Defendants 
+intended to deceive the market when it issued the challenged statements.  Simply stated, this 
+is a matter for the jury to decide.  This Court finds that the Defendants’ alleged omission of 
+the information, coupled with internal communications demonstrating Plank’s knowledge of 
+
+pull forwards and increased sales to liquidators, create a genuine issue of fact on the question 
+of scienter.                                                              
+ B. According to Defendants, to the Extent Summary Judgment Is Granted as to 
+    Plaintiffs’ Claims Under Section 10(b) and Rule 10b-5 (Count I), Summary 
+    Judgment Should also Be Granted for Plaintiffs’ Claims Under Sections 20(a) 
+    and 20A of the Exchange Act (Counts II and III).                     
+    Count II and III of the TAC assert claims under Sections 20(a) and 20A of the 
+Securities Exchange Act of 1934.  Section 20(a) of the Exchange Act imposes liability on every 
+person who, directly or indirectly, controls any person liable under any provision of the 
+chapter, 15 U.S.C.S. § 78t(a), while § 20A of the Exchange Act creates a private right of action 
+against those who engage in insider trading, 15 U.S.C.S. § 78t-1(a).  To successfully establish a 
+claim under either section, a plaintiff must first establish a predicate violation of securities 
+
+fraud under Section 10(b) of the Exchange Act or Rule 10b-5.  Karp v. First Conn. Bancorp, Inc., 
+69 F.4th 223, 236 (4th Cir. 2023) (quoting Svezzese v. Duratek, Inc., 67 F. App’x 169, 174 (4th 
+Cir. 2003)); Tchrs’ Ret. Sys. of La. v. Hunter, 477 F.3d 162, 188 (4th Cir. 2007)).   
+    As such, Defendants assert that, should summary judgment be granted as to Count I, 
+summary judgment should also be granted as to Plaintiffs’ claims under Sections 20(a) and 
+20A of the Exchange Act (Counts II and III).  (ECF No. 361-1 at 60–61.)  Having found that 
+
+summary judgment is inappropriate for Count I, this Court further finds that summary 
+judgment is also inappropriate with respect to Counts II and III on this basis. 
+ C. With Respect to Count III, Which Alleges Violation of Section 20A of the 
+    Exchange Act Against Plank (ECF No. 153 ¶¶ 427–436), Defendants Assert that 
+    Plank Is Not Liable to Class Members Who Did Not Purchase the Same Class 
+    of Securities Contemporaneously with his Sales.                      
+    To state a claim under Section 20A(a), a plaintiff must: (1) plead a predicate insider 
+trading  violation  of  the  Exchange  Act;  and  (2)  allege  sufficient  facts  showing  that  the 
+defendant traded the security at issue contemporaneously with the plaintiff.  15 U.S.C. 
+§ 78t-1(a); In re MicroStrategy, Inc., Sec. Litig., 115 F. Supp. 2d 620, 662 (E.D. Va. 2000).  “This 
+inquiry into contemporaneity proceeds from a recognition that ‘[s]ince identifying the party in 
+actual privity with the insider is virtually impossible in transactions occurring on an anonymous 
+public market, the contemporaneous standard was developed as a more feasible way to sue 
+insiders.’”  In re MicroStrategy, Inc., 115 F. Supp. 2d at 662 (quoting Buban v. O’Brien, No. C 94-
+0331 FMS, 1994 U.S. Dist. LEXIS 8643, at *6 (N.D. Cal. June 22, 1994)).  The statute “does 
+not define ‘contemporaneous,’ leaving courts to resolve the issue on a case-by-case basis.”  
+Buban, 1994 U.S. Dist. LEXIS 8643, at *6.                                 
+    With respect to Count III, Defendants assert that Plank is not liable under Section 20A 
+
+of the Exchange Act to class members who did not purchase the same class of securities 
+contemporaneously with Plank’s sales.  (ECF No. 361-1 at 61–63.)  Defendants emphasize 
+that “where, as here, public-company securities allegedly trade in a ‘highly efficient and 
+automated market,’ courts properly define ‘contemporaneous’ to mean a purchase and sale on 
+the same day.”  (Id. at 61–62 (citing In re MicroStrategy, Inc., 115 F. Supp. 2d at 664; In re Fed. 
+Nat’l Mortg. Ass’n Sec., Deriv., & ERISA Litig., 503 F. Supp. 2d 25, 46–47 (D.D.C. 2007)).)13 
+
+    During the Class Period, Plank sold shares of Class A stock on November 17, 18, 19, 
+20, and 23, 2015, and sales of Class C stock on April 26, 27, 28, and 29, 2016.  Defendants 
+encourage this Court to find that “to have a private right of action under Section 20A, a 
+plaintiff must have purchased Under Armour’s Class A stock on November 17–23, 2015 or [] 
+Class C stock on April 26–29, 2016.”  (ECF No. 361-1 at 62.)  Defendants argue that “[n]one 
+of  Aberdeen’s  transactions  in  UA  securities  satisfy  Section 20A,”  as  Aberdeen  did  not 
+
+purchase any shares of Class A common stock from November 17–23, 2015 and did not 
+
+13  Defendants cite several cases for the proposition that the same day standard is the only reasonable standard 
+given the way the stock market functions.  These cases include Steamfitters Loc. 449 Pension Fund v. Alter, No. 
+09-4730, 2011 U.S. Dist. LEXIS 112499, at *44 (E.D. Pa. Sept. 30, 2011) (dismissing § 20A claims for sales not 
+“on the same day,” even those “very close in time”); In re Able Labs. Sec. Litig., No. 05-2681 (JAG), 2008 U.S. 
+Dist. LEXIS 23538, at *102 (D.N.J. Mar. 24, 2008) (adopting same-day standard for “publicly traded company 
+with millions of outstanding shares”); Copland v. Grumet, 88 F. Supp. 2d 326, 338 (D.N.J. 1999) (“[T]o satisfy 
+the ‘contemporaneous’ requirement,” plaintiff must have “bought stock on the same dates on which the 
+defendant’s sales took place.”); In re AST Rsch. Sec. Litig., 887 F. Supp. 231, 234 (C.D. Cal. 1995) (“The same 
+day standard is the only reasonable standard given the way the stock market functions.”)  However, “[d]ifferent 
+courts have found that ‘contemporaneity’ requires the insider and the investor/plaintiff to have traded 
+anywhere from on the same day, to less than a week, to within a month, to ‘the entire period while relevant and 
+nonpublic information remains undisclosed.’”  In re Cobalt Int’l Energy, Inc. Sec. Litig., No. H-14-3428, 2017 U.S. 
+Dist. LEXIS 91938, at *11 (S.D. Tex. Jun. 15, 2017).                      
+purchase any shares of Class C common stock from April 26–29, 2016.  (Id.)   
+    Plaintiffs’ respond that Defendants are “rehashing [] the same arguments they made at 
+class certification.”  (ECF No. 361-34 at 60–62.)  Plaintiffs first contend that this Court should 
+
+reject Defendants’ same-day trading requirement, citing cases in other circuits recognizing that 
+a trading gap of four to six days can be considered contemporaneous.  (Id. at 61 (citing 
+Lamartina v. VMware, Inc., No. 20-cv-02182-EJD, 2023 U.S. Dist. LEXIS 57673, at *52–53 
+(N.D. Cal. Mar. 31, 2023) (four days); In re Cobalt Int’l Energy, Inc. Sec. Litig., No. H-14-3428, 
+2017 U.S. Dist. LEXIS 91938, at *11 (S.D. Tex. Jun. 15, 2017) (six days); In re Bear Stearns Cos., 
+Inc. Sec., Derivative, & ERISA Litig., 763 F. Supp. 2d 423, 508–09 (S.D.N.Y. 2011) (five days)).)  
+
+Plaintiffs further contend that Defendants’ argument that only a Class Member who purchased 
+Under Armour Class A shares contemporaneously with Plank’s sale of Class A shares (or 
+purchased Class C shares contemporaneously with Plank’s sale of Class C shares) has standing 
+to bring a § 20A claim against Plank was rejected by this Court at class certification.  (ECF 
+No. 361-34 at 61–62 (citing In re Under Armour Sec. Litig., 631 F. Supp. 3d 285, 307 n.6 (D. Md. 
+2022)).)14  “Because Defendants fail to cite to any new facts or legal authority supports this 
+
+argument, the Court should reaffirm its previous ruling.”  (Id. at 62.)   
+
+14  That footnote read:                                                   
+    [T]his Court is not convinced that Aberdeen’s purchase of Class A stock is irrelevant to this 
+    analysis.  As other courts have recognized, the language “securities of the same class” is not 
+    necessarily delimited to “the exact same type of security.”  Basile v. Valeant Pharm. Int’l, Inc., 
+    No. SACV 14-2004-DOC (JCGx), 2015 U.S. Dist. LEXIS 158055, at *25–26 (C.D. Cal. Nov. 
+    9, 2015) (noting that “Defendants fail to provide any persuasive legal authority for this narrow 
+    interpretation of the insider trading laws”).  As Plaintiffs note, the only substantial difference 
+    between Under Armour’s Class A and Class C stock is the voting rights accorded to the 
+    former. . . . Similar  distinctions,  such  as  stock  options,  have  been  found  to  fall  within 
+    “securities of the same class” for the purpose of Section 20A.  Id.  Accordingly, by overlooking 
+    Aberdeen’s Class A purchases, Defendants’ argument takes too narrow a view of Section 20A. 
+In re Under Armour Sec. Litig., 631 F. Supp. 3d at 307 n.6.               
+    As Plaintiffs correctly note, this Court previously addressed Defendants’ argument that 
+only a Class Member who purchased Under Armour Class A shares contemporaneously with 
+Plank’s sale of Class A shares (or purchased Class C shares contemporaneously with Plank’s 
+
+sale of Class C shares) has standing to bring a § 20A claim against Plank.  In re Under Armour 
+Sec. Litig., 631 F. Supp. 3d at 307 n.6.  “[B]y overlooking Aberdeen’s Class A purchases, 
+Defendants’ argument takes too narrow a view of Section 20A.”  Id.        
+    However, this Court reserved consideration of the contemporaneity requirement “for 
+later stages of the litigation, including summary judgment.  Id. at 298 n.2.  “[D]ifferent courts 
+have found that ‘contemporaneity’ requires the insider and the investor/plaintiff to have 
+
+traded anywhere from on the same day, to less than a week, to within a month, to ‘the entire 
+period while relevant and nonpublic information remains undisclosed.’”  Id. (citing In re Cobalt 
+Int’l Energy, Inc. Sec. Litig., 2017 U.S. Dist. LEXIS 91938, at *11; Hodges v. Akeena Solar, Inc., 274 
+F.R.D. 259, 272 (N.D. Cal. 2011)).                                        
+    Courts that have required a plaintiff asserting a Section 20A claim to have traded on 
+the same day as the defendant state that the underlying purpose behind Section 20A is “to 
+
+serve ‘as a proxy for the traditional requirement of contractual privity between plaintiffs and 
+defendants.’”  Middlesex Ret. Sys. v. Quest Software, Inc., 527 F. Supp. 2d 1164, 1196 (C.D. Cal. 
+2007) (quoting  In re AST Research Sec. Litig., 887 F. Supp. 231, 233 (C.D. Cal. 1995)).  
+“Accordingly, the ‘contemporaneous’ time frame between an insider’s sale and a plaintiff’s 
+purchase is relatively short because it is possible that the plaintiff purchased the actual shares 
+sold by the insider.  As the time between the insider’s sale and plaintiff’s purchase increases, 
+
+the likelihood that the shares purchased by the plaintiff are the same shares the insider sold 
+decreases substantially.”  Id.                                            
+    However, this is not the only interpretation of the purpose behind Section 20A.  In In 
+re American Business Computers Corp. Securities Litigation, MDL No. 913 (CLB), 1994 U.S. Dist. 
+
+LEXIS 21467 (S.D.N.Y. Feb. 24, 1994), the United States District Court for the Southern 
+District of New York explained that “the better rule with respect to standing seems to be that 
+a class action may be maintained on behalf of all persons who purchased stock on an exchange 
+during the period that defendants were selling that stock on the basis of insider information.”  
+Id. at 11.                                                                
+    This  Court  is  satisfied  that  Aberdeen  has  established  contemporaneity.    While 
+
+Aberdeen did not purchase any shares of Class A common stock from November 17–23, 2015 
+and did not purchase any shares of Class C common stock from April 26–29, 2016, Aberdeen 
+acquired nearly 500,000 shares of Under Armour Class A common stock in 2016, including 
+15,641  shares  on  April 26, 2016,  3,014  shares  on  April 27, 2016,  and  2,997  shares  on 
+April 29, 2016.  (See ECF No. 153-4.)  These trades are clearly contemporaneous under any 
+standard.                                                                 
+
+ D. According  to  Defendants,  the  Class  Period  Should  Be  Shortened  to 
+    October 25, 2016 to August 1, 2017.                                  
+    Federal Rule of Civil Procedure 23(c)(1)(C) provides that “[a]n order that grants or 
+denies class certification may be altered or amended before final judgment.”  “In the event 
+that summary judgment is not granted in full, Defendants [] submit that the Court should 
+modify the Class definition by shortening the Class Period [to end no later than August 1, 
+2017 and begin no earlier than October 25, 2016]” because “Plaintiffs admit that the truth was 
+revealed to the market by August 1, 2017” and “there is no material dispute of material fact 
+that there was no actionable misrepresentation or omission before October 25, 2016.”  (ECF 
+No. 361-1 at 63–67.)                                                      
+ 1.  When the Class Period Should End.                                   
+    This Court has previously analyzed the issue of when to close the class period have 
+
+held that “in a securities class action based on material misrepresentations and omissions to 
+the  investing  public  the  class  period  should  end  when  curative  information  is  publicly 
+announced or otherwise effectively disseminated to the market.”  In re Kirschner Med. Corp. Sec. 
+Lit., 139 F.R.D. 74, 82 (D. Md 1991) (citing cases).  Where the parties dispute the curative 
+effect of a release, such as here, the court should determine whether there is a “substantial 
+question of fact as to whether the release had cured the market or was itself misleading.”  Id.  
+
+    According to Defendants, “Plaintiffs cannot establish any losses caused by disclosures 
+subsequent to [August 1, 2017], as Plaintiffs admit the truth regarding the deceleration in 
+demand was fully revealed to the market by August 1, 2017.”  (ECF No. 361-1 at 64.)  
+However, there is a substantial question of fact as to whether any disclosure prior to the 
+November 3, 2019 WSJ article constituted a corrective disclosure.  Therefore, this Court will 
+
+not shorten the Class Period to end no later than August 1, 2017.         
+ 2.  When the Class Period Should Begin.                                 
+    Typically, the class period begins on the date of the first misstatement, as it is the 
+injection of misinformation into the marketplace that distorts the price of the stock.”  In re 
+Sanofi-Aventis Secs. Litig., 293 F.R.D. 449, 459 n.12 (S.D.N.Y. 2013) (citing In re Bank of Am. 
+Corp. Secs., 281 F.R.D. 134, 148 (S.D.N.Y. 2012) (beginning the class period in a securities class 
+
+action on the date of the first alleged misstatement)).                   
+    According  to  Defendants,  the  Class  Period  should  begin  no  earlier  than 
+October 25, 2016—the day that the Company issued its Q3 2016 earnings release.  (ECF 
+No. 361-1 at 66–67.)  However, Plaintiffs have proffered evidence that suggests that the 
+
+Defendants’ first alleged misrepresentation and omission occurred during Under Armour’s 
+September 16, 2015 Investor Day.  As such, this Court finds no reason to adjust the Class 
+Period.                                                                   
+ II.  Plaintiffs’ Motion for Leave to File Surreply (ECF No. 366)        
+    In their Reply Memorandum of Law in Support of Motion for Summary Judgment, 
+Defendants assert “[Plaintiffs] are precluded from relying on the SEC Order to support their 
+
+liability claims at summary judgment.”  (ECF No. 361-35 at 37–38.)  In support of this 
+position, Defendants note that Federal Rule of Evidence 408(a) precludes the introduction of 
+settlements “to prove or disprove the validity or amount of a disputed claim.”  FED. R. EVID. 
+408(a).  Defendants further argue that the SEC Order is also inadmissible at summary 
+judgment under Rule 403, as its probative value is substantially outweighed by the danger of 
+unfair prejudice.  (ECF No. 361-35 at 37 (citing FED. R. EVID. 403).)     
+
+    In response, Plaintiffs filed the pending Motion for Leave to File Surreply (ECF No. 
+366) to refute Defendants argument that this Court should not consider the SEC Order at 
+summary judgment.  (ECF No. 366-1 at 4.)  According to Plaintiffs, Defendants’ argument is 
+premature, unnecessary, and legally incorrect.  (Id. at 4–7.)  In short, Plaintiffs contend that 
+the SEC Order is admissible as a public record under Rule 803(8).  (Id. at 5.) 
+    In general, parties are not permitted to file surreplies.  Local Rule 105.2(a) (D. Md. 
+
+2023) (“Unless otherwise ordered by the Court, surreply memoranda are not permitted to be 
+filed.”).  A surreply is permitted when the moving party would be unable to contest any matters 
+raised by the opposing party in their reply for the first time.  Khoury v. Meserve, 268 F. Supp. 2d 
+600, 605 (D. Md. 2003).                                                   
+
+    While it is true that Defendants raised the admissibility of the SEC Order for the first 
+time in their reply, the admissibility of the SEC Order has no bearing on this Court’s 
+determination of the pending Defendants’ Motion for Summary Judgment (ECF No. 299).  
+As such, Plaintiffs’ Motion for Leave to File Surreply (ECF No. 366) is DENIED. 
+    Nevertheless, this Court finds it prudent to address the admissibility of the SEC Order.  
+As shown by the parties’ respective positions, two competing federal rules of evidence are in 
+
+play: Rule 408, which generally prohibits the admission of settlement information for purposes 
+of establishing liability; and Rule 803(8)(C), which allows the admission of public records of 
+public agencies setting forth factual findings resulting from a lawful investigation.  Compare 
+Option Res. Grp. v. Chambers Dev. Co., 967 F. Supp. 846, 849 (W.D. Pa. 1996) (finding that the 
+SEC’s  factual  findings,  including  its  opinions  and  conclusions,  contained  in  the  settled 
+administrative orders were admissible under Rule 803(8)(C)), with Carpenter’s Health & Welfare 
+
+Fund v. Coca-Cola Co., No. 1:00-CV-2838-WBH, 2008 U.S. Dist. LEXIS 112503, at *19–20 
+(N.D. Ga. Apr. 23, 2008) (finding that SEC cease and desist order against the defendant was 
+not admissible under Rules 408 and 803(c)), and SEC v. Pentagon Cap. Mgmt. PLC, No. 08 Civ. 
+3324, 2010 U.S. Dist. LEXIS 25092, at *2–4 (S.D.N.Y. 2010) (finding that factual findings 
+contained in SEC settled orders relating to third-parties were admissible under Rule 803(c)); 
+see also Wilson v. Parisi, No. 3:CV-04-1737, 2009 U.S. Dist. LEXIS 3970, at *6–7 (M.D. Pa. Jan. 
+
+21, 2009) (“Courts generally agree that Rule 408 applies to consent decrees.” (citations 
+omitted)).                                                                
+    The two competing categories are clearly presented to this Court.  The Defendants 
+note that the SEC Order is expressly inadmissible based on Rule 408’s prohibition against 
+
+allowing into evidence statements made in the course of compromise and settlement.  The 
+Plaintiffs contend that such a settlement agreement should be admissible under Rule 803(8)’s 
+“public records and report” hearsay exception.  While this issue may await further briefing 
+prior to trial, this Court expressly notes that “Rule 408 exists to protect a party that settles one 
+claim from having that settlement used against it to establish liability (or the extent of liability) 
+of that same party in another lawsuit for the same claim.”  Pentagon Cap. Mgmt., 2010 U.S. Dist. 
+
+LEXIS 25092, at *2–4.  This Court does not envision the SEC Order being admissible at the 
+trial of this case.                                                       
+                         CONCLUSION                                      
+    For the reasons stated above, Defendants’ Motion for Summary Judgment (ECF No. 
+299) is hereby DENIED; and Plaintiffs’ Motion for Leave to File Surreply (ECF No. 366) is 
+hereby DENIED.  A separate Order follows.                                 
+
+
+Dated: February 26, 2024                                                  
+                                          /s/                            
+                                       Richard D. Bennett                
+                                       United States Senior District Judge 

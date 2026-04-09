@@ -1,0 +1,64 @@
+[
+  {
+    "absolute_url": "/audio/90274/hopkins-v-watson/",
+    "caseName": "Hopkins v. Watson",
+    "case_name_full": "",
+    "court": "Court of Appeals for the Fifth Circuit",
+    "court_citation_string": "5th Cir.",
+    "court_id": "ca5",
+    "dateArgued": "2024-01-23",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "19-60662",
+    "docket_id": 67664829,
+    "download_url": "https://www.ca5.uscourts.gov/OralArgRecordings/19/19-60662_1-23-2024.mp3",
+    "duration": 3879,
+    "file_size_mp3": 23303994,
+    "id": 90274,
+    "judge": "",
+    "local_path": "mp3/2024/01/23/hopkins_v._watson_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-22T18:02:28.960787Z",
+      "date_created": "2024-01-23T19:31:39.307252Z",
+      "score": {
+        "bm25": 13382064000000.0
+      }
+    },
+    "pacer_case_id": "190884",
+    "panel_ids": [],
+    "sha1": "a6e11b31516c1e68fc41544d414e396495430e18",
+    "snippet": "but she will be listening to the arguments and participating in the resolution of the case. Case is, the first case is 19-60662, Hopkins v. Secretary of State. Mr. Stewart. May it please the court, I'm Scott Stewart, I'm the Mississippi Secretary of State. This case involves five facial claims to two parts of the Mississippi Constitution. The Eighth Amendment claim has, of course, taken center stage in the case and I'd like to get right to that issue. But before I do, I want to address briefly,",
+    "source": "C"
+  },
+  {
+    "absolute_url": "/audio/69404/brian-j-karem-v-donald-j-trump-in-his-individual-capacity-and-official/",
+    "caseName": "Brian J. Karem v. Donald J. Trump, In his individual capacity and official capacity as President of the United States and Stephanie A. Grisham, In her individual capacity and official capacity as White House Press Secretary",
+    "case_name_full": "",
+    "court": "Court of Appeals for the D.C. Circuit",
+    "court_citation_string": "D.C. Cir.",
+    "court_id": "cadc",
+    "dateArgued": "2020-03-23",
+    "dateReargued": null,
+    "dateReargumentDenied": null,
+    "docketNumber": "19-5255",
+    "docket_id": 17004084,
+    "download_url": "https://www.cadc.uscourts.gov/recordings/recordings2019.nsf/F743D7B5CBF9D18F8525853400736151/$file/19-5255.mp3",
+    "duration": 4162,
+    "file_size_mp3": 25415646,
+    "id": 69404,
+    "judge": "Srinivasan, Tatel, Pillard",
+    "local_path": "mp3/2020/03/23/brian_j._karem_v._donald_j._trump_in_his_individual_capacity_and_cl.mp3",
+    "meta": {
+      "timestamp": "2024-06-28T05:08:21.494798Z",
+      "date_created": "2020-03-23T21:34:40.318822Z",
+      "score": {
+        "bm25": 13261018000000.0
+      }
+    },
+    "pacer_case_id": "",
+    "panel_ids": [],
+    "sha1": "0b15495063f0d05c16f9f1dc85d82c87f4143ee5",
+    "snippet": "Mr. Burnham for the Appellants, Mr. Butchart for the Appellees. May it please the Court, this is a very narrow dispute. The District Court agreed with the Press Secretary that Mr. Karem made, as the District Court put it, an allusion to a physical application in the Rose Garden. The Press Secretary's decision to suspend Mr. Karem's hard pass after that for 30 days did not violate due process for two basic reasons. First, every credentialed White House reporter, including Mr. Karem, knows",
+    "source": "C"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/12561084/",
+    "id": 12561084,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8396412/",
+        "attorney_id": 8396412,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "name": "Amicus\u00a0Curiae",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2023-04-26T12:02:32.364258-07:00",
+    "date_modified": "2023-04-26T12:02:32.364284-07:00",
+    "name": "NATIONAL ASSOCIATION OF CRIMINAL DEFENSE LAWYERS",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/12261826/",
+    "id": 12261826,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180853/",
+        "attorney_id": 8180853,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180854/",
+        "attorney_id": 8180854,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180855/",
+        "attorney_id": 8180855,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180856/",
+        "attorney_id": 8180856,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180852/",
+        "attorney_id": 8180852,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "name": "Defendant\u00a0-\u00a0Appellant",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2023-01-20T11:02:34.679449-08:00",
+    "date_modified": "2023-01-20T11:02:34.679465-08:00",
+    "name": "ELIZABETH A. HOLMES",
+    "extra_info": ""
+  },
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/parties/12261825/",
+    "id": 12261825,
+    "attorneys": [
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10117250/",
+        "attorney_id": 10117250,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/8180850/",
+        "attorney_id": 8180850,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      },
+      {
+        "attorney": "https://www.courtlistener.com/api/rest/v4/attorneys/10117251/",
+        "attorney_id": 10117251,
+        "date_action": null,
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "role": null
+      }
+    ],
+    "party_types": [
+      {
+        "docket": "https://www.courtlistener.com/api/rest/v4/dockets/66746322/",
+        "docket_id": 66746322,
+        "name": "Plaintiff\u00a0-\u00a0Appellee",
+        "date_terminated": null,
+        "extra_info": "",
+        "highest_offense_level_opening": "",
+        "highest_offense_level_terminated": "",
+        "criminal_counts": [],
+        "criminal_complaints": []
+      }
+    ],
+    "date_created": "2023-01-20T11:02:34.529044-08:00",
+    "date_modified": "2023-01-20T11:02:34.529059-08:00",
+    "name": "UNITED STATES OF AMERICA",
+    "extra_info": ""
+  }
+]

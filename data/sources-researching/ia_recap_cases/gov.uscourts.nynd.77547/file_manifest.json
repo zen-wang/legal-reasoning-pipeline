@@ -1,0 +1,14 @@
+{
+  "identifier": "gov.uscourts.nynd.77547",
+  "title": "O'Neil v. Ponzi-Flett",
+  "total_files": 9,
+  "pdf_count": 4,
+  "xml_count": 2,
+  "json_count": 1,
+  "pdf_files": [
+    "gov.uscourts.nynd.77547.12.0.pdf",
+    "gov.uscourts.nynd.77547.5.0.pdf",
+    "gov.uscourts.nynd.77547.7.0.pdf",
+    "gov.uscourts.nynd.77547.8.0.pdf"
+  ]
+}

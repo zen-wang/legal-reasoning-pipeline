@@ -1,0 +1,3065 @@
+22-484
+Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc.
+                     UNITED STATES COURT OF APPEALS
+                           FOR THE SECOND CIRCUIT
+                                ______________
+
+                             August Term 2022
+
+           (Argued: September 21, 2022 | Decided: August 10, 2023)
+
+                             Docket No. 22-484
+
+     ARKANSAS TEACHER RETIREMENT SYSTEM, WEST VIRGINIA
+  INVESTMENT MANAGEMENT BOARD, PLUMBERS AND PIPEFITTERS
+                     PENSION GROUP,
+
+                                                 Plaintiffs-Appellees,
+
+PENSION FUNDS, ILENE RICHMAN, Individually and on behalf of all others
+similarly situated, PABLO ELIZONDO, THOMAS DRAFT, Individually and on
+                      behalf of all others similarly situated,
+
+                                                 Plaintiffs,
+
+ HOWARD SORKIN, Individually and on behalf of all others similarly situated,
+TIKVA BOCHNER, Individually and on behalf of herself and all others similarly
+situated, DR. EHSAN AFSHANI, LOUIS GOLD, Individually and on behalf of all
+                        others similarly situated,
+                                              Consolidated Plaintiffs,
+
+                                     v.
+
+    GOLDMAN SACHS GROUP, INC., LLOYD C. BLANKFEIN, DAVID A.
+                   VINIAR, GARY D. COHN,
+
+                                              Defendants-Appellants
+                                     SARAH E. SMITH,
+
+                                                    Consolidated Defendant. †
+                                       ______________
+
+Before:
+                     WESLEY, CHIN, and SULLIVAN, Circuit Judges.
+
+       Shareholders of Defendant-Appellant Goldman Sachs Group, Inc. brought
+this class action lawsuit against Goldman and several of its former executives,
+claiming defendants committed securities fraud in violation of § 10(b) of the
+Securities Exchange Act of 1934 and Rule 10b–5 promulgated thereunder by
+misrepresenting Goldman’s ability to manage conflicts of interest in its business
+practices. After a number of appeals and subsequent remands, including an
+appeal to the Supreme Court, the district court once again certified a shareholder
+class under Federal Rule of Civil Procedure 23(b)(3).
+       For the reasons that follow, we reverse the district court’s class certification
+decision with instructions to decertify the class.
+       Judge Sullivan concurs in the result in a separate opinion.
+_________________
+
+                ROBERT J. GIUFFRA, JR., Sullivan & Cromwell LLP, New York, NY
+                    (Richard H. Klapper, David M.J. Rein, Benjamin R. Walker,
+                    Julia A. Malkina, Jacob E. Cohen, Sullivan & Cromwell LLP,
+                    New York, NY; Morgan L. Ratner, Sullivan & Cromwell LLP,
+                    Washington, D.C., on the brief) for Defendants-Appellants.
+
+                KANNON K. SHANMUGAM, Paul, Weiss, Rifkind, Wharton &
+                    Garrison LLP, Washington D.C. (Audra J. Soloway, Paul,
+                    Weiss, Rifkind, Wharton & Garrison LLP, New York, NY, on the
+                    brief) for Defendants-Appellants.
+
+                THOMAS C. GOLDSTEIN, Goldstein & Russell, P.C., Bethesda, MD
+                    (Kevin K. Russell, Goldstein & Russell, P.C., Bethesda, MD;
+
+†   The Clerk of the Court is directed to amend the official caption as set forth above.
+                                               2
+      Spencer A. Burkholz, Joseph D. Daley, Robbins Geller Rudman
+      & Dowd LLP, San Diego, CA; Thomas A. Dubbs, James W.
+      Johnson, Michael H. Rogers, Irina Vasilchenko, Labaton
+      Sucharow LLP, New York, NY, on the brief) for
+      Plaintiffs-Appellees.
+
+Todd G. Cosenza, Willkie Farr & Gallagher LLP, New York, NY, for
+     Amicus Curiae Former United States Securities and Exchange
+     Commission Officials and Law Professors in Support of Defendants-
+     Appellants.
+
+Carmine D. Boccuzzi, Jr. (Victor L. Hou, Jared Gerber, on the brief)
+     Cleary Gottlieb Steen & Hamilton LLP, New York, NY, for
+     Amicus Curiae Economic Scholars in Support of Defendants-
+     Appellants.
+
+Jonathan K. Youngwood, Simpson Thacher & Bartlett LLP, New
+      York, NY (Craig S. Waldman, Joshua C. Polster, Daniel H.
+      Owsley, Simpson Thacher & Bartlett LLP, New York, NY; Ira
+      D. Hammerman, Kevin Carroll, Securities Industry and
+      Financial Markets Association, Washington, D.C.; Thomas
+      Pinder, American Bankers Association, Washington, D.C.;
+      Gregg Rozansky, Bank Policy Institute, Washington, D.C.;
+      Tyler S. Badgley, U.S. Chamber Litigation Center, Washington,
+      D.C.; Kenneth Stoller, American Property Casualty Insurance
+      Association, Washington, D.C., on the brief) for Amicus Curiae
+      Securities Industry and Financial Markets Association, Bank Policy
+      Institute, American Bankers Association, Chamber of Commerce of
+      the United States of America, American Property Casualty Insurance
+      Association in Support of Defendants-Appellants.
+
+Christopher E. Duffy, Vinson & Elkins LLP, New York, NY (Jeremy
+      C. Marwell, James T. Dawson, Vinson & Elkins LLP,
+      Washington, D.C.; Darla C. Stuckey, Randi V. Morrison,
+      Society for Corporate Governance, New York, NY, on the brief)
+
+                            3
+                   for Amicus Curiae Society for Corporate Governance in Support of
+                   Defendants-Appellants.
+
+            Lyle Roberts, Shearman & Sterling LLP, Washington, D.C. (George
+                  Anhang, Shearman & Sterling LLP, Washington, D.C.; William
+                  Marsh, Shearman & Sterling LLP, Dallas, TX; Cory L. Andrews,
+                  John M. Masslon II, Washington Legal Foundation,
+                  Washington, D.C., on the brief) for Amicus Curiae Washington
+                  Legal Foundation in Support of Defendants-Appellants.
+
+            Ernest A. Young, Apex, NC (Jeremy Lieberman, Emma Gilmore,
+                  Pomerantz LLP, New York, NY; Andrew L. Zivitz, Kessler
+                  Topaz Meltzer & Check, LLP, Radnor, PA; Stacey M. Kaplan,
+                  Kessler Topaz Meltzer & Check, LLP, San Fransisco, CA, on the
+                  brief) for Amicus Curiae Financial Economists in Support of
+                  Plaintiffs-Appellees.
+
+            Deepak Gupta, Gupta Wessler PLLC, Washington, D.C. (Linnet R.
+                 Davis-Stermitz, Gupta Wessler PLLC, Washington, D.C.;
+                 Salvatore J. Graziano, Jai K. Chandrasekhar, Bernstein Litowitz
+                 Berger & Grossmann LLP, New York, NY; Joseph E. White, III,
+                 Saxena White P.A., Boca Raton, FL, on the brief) for Amicus Curiae
+                 Securities Law Scholars in Support of Plaintiffs-Appellees.
+
+            John    Paul Schnapper-Casteras, Schnapper-Casteras PLLC,
+                   Washington, D.C., for Amicus Curiae Better Markets, Inc. in
+                   Support of Plaintiffs-Appellees.
+
+           Carolyn E. Shapiro, Schnapper-Casteras PLLC, Washington, D.C.
+                 (John Paul Schnapper-Casteras, Schnapper-Casteras PLLC,
+                 Washington, D.C.; Daniel P. Chiplock, Lieff Cabraser Heimann
+                 & Bernstein, LLP, New York, NY, on the brief) for Amicus Curiae
+                 Former SEC Officials in Support of Plaintiffs-Appellees.
+_________________
+
+
+
+                                        4
+WESLEY, Circuit Judge:
+
+      This class certification dispute has been laboring in federal court for nearly
+
+a decade. It raises challenging questions about how defendants in securities fraud
+
+class actions, having lost a motion to dismiss, can rebut the legal presumption of
+
+reliance established in Basic Inc. v. Levinson, 485 U.S. 224 (1988), at the class
+
+certification stage. The case is before us again: for a third time, the district court
+
+certified, under Federal Rule of Civil Procedure 23(b)(3), a shareholder class, and,
+
+for a third time, we granted defendants leave to pursue an interlocutory appeal of
+
+that order under Rule 23(f).
+
+      Some context is required at the outset. The Basic presumption excuses
+
+classes of securities fraud plaintiffs from proving that each class member
+
+individually relied upon a defendant’s alleged misrepresentations. Courts can
+
+instead presume that stock trading in an efficient market incorporates into its price
+
+all public, material information—including material misrepresentations—and that
+
+investors rely on the integrity of the market price when they choose to buy or sell
+
+that stock. At the same time, defendants can rebut the presumption and defeat
+
+class certification by demonstrating, by a preponderance of the evidence, that the
+
+
+
+
+                                          5
+misrepresentations did not actually affect, or impact, the market price of the stock.
+
+This legal terrain under Basic is familiar, and, in this appeal, uncontested.
+
+       From there, however, the journey becomes difficult. Analyzing whether a
+
+defendant has proved a lack of price impact is complicated by the fact that a
+
+misrepresentation can affect a stock’s price either by causing the stock to trade at
+
+an inflated price, or as is alleged here, by maintaining inflation that is already built
+
+into the stock price. See In re Vivendi, S.A. Sec. Litig., 838 F.3d 223, 258 (2d Cir. 2016).
+
+In the latter scenario, the misrepresentation prevents preexisting inflation in a
+
+stock price from dissipating, but does not cause a price uptick. Instead, the
+
+back-end price drop—what happens when the truth is finally disclosed—operates
+
+as an indirect proxy for the front-end inflation, or the amount that the
+
+misrepresentation fraudulently propped up the stock price. Simply put, the
+
+theory goes: back-end price drop equals front-end inflation.
+
+       Fair enough. But what happens when the match between the contents of
+
+the price-propping misrepresentation and the truth-revealing corrective
+
+disclosure is tenuous?      Consider two examples.          In the first, an automobile
+
+manufacturer’s earlier statement to the market that its best-selling vehicle passed
+
+all safety tests is followed by later news that, in fact, the car failed several crash
+
+                                             6
+tests. A price drop follows. There, the earlier statement is precisely negated, or
+
+rendered false, by the later news—a clean match. In the second example, however,
+
+the same back-end news (and the same price drop) is instead preceded by the
+
+manufacturer’s statement to the market that it strives to ensure that all its vehicles
+
+are road-ready, that it has an elaborate testing protocol to that effect, but that the
+
+task is tall, the goal difficult to achieve. There, it is less apparent the market would
+
+understand the later news of failed crash tests revealed that, in fact, there was no
+
+protocol, or that, in fact, the manufacturer did not seek to make its automobiles
+
+safe to drive. The match between the more specific “corrective disclosure” and the
+
+earlier, more generic statement is on shakier ground. Can courts still infer that the
+
+back-end price drop equals the front-end inflation?
+
+      The Supreme Court answered that commonsense question. It explained that
+
+the “inference [] that the back-end price drop equals front-end inflation [] starts to
+
+break down” when the earlier misrepresentation is generic and the later corrective
+
+disclosure is specific, and that, “[u]nder those circumstances it is less likely that
+
+the specific disclosure actually corrected the generic misrepresentation . . . .”
+
+Goldman Sachs Grp., Inc. v. Ark. Tchr. Ret. Sys. (Goldman), 141 S. Ct. 1951, 1961 (2021).
+
+
+
+
+                                           7
+         Following Goldman, courts are now directed to compare, at the class
+
+certification stage, the relative genericness of a misrepresentation with its
+
+corrective disclosure, notwithstanding that such evidence is often also highly
+
+relevant to the closely related merits question of whether the misrepresentation
+
+would have been material to a shareholder’s investment calculus—which, under
+
+other Supreme Court guidance, a court may not resolve at class certification. See
+
+Amgen Inc. v. Conn. Ret. Plans & Tr. Funds, 568 U.S. 455 (2013). In short, Goldman’s
+
+mismatch framework requires careful trekking: district courts must analyze the
+
+price impact issue without drawing what might appear to be obvious conclusions
+
+for off-limits merits questions such as materiality. As Judge Hamilton, writing for
+
+the Seventh Circuit, put it, courts must analyze this issue “without . . . thinking
+
+about a pink elephant.” In re Allstate Corp. Sec. Litig, 966 F.3d 595, 602 (7th Cir.
+
+2020).
+
+         The question in this case is whether, in applying the Supreme Court’s
+
+mismatch framework, the district court clearly erred in finding that Goldman
+
+failed to rebut the Basic presumption by a preponderance of the evidence, and,
+
+therefore, abused its discretion by certifying the shareholder class.        It did.
+
+
+
+
+                                         8
+Accordingly, we reverse the district court’s order and remand with instructions to
+
+the district court to decertify the class.
+
+                                   BACKGROUND
+
+      Factual Background
+
+      The facts underlying this lawsuit have been discussed at length in our prior
+
+opinions, see, e.g., Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc. (ATRS I), 879 F.3d
+
+474, 478 (2d Cir. 2018), but are nonetheless recounted here.
+
+      Plaintiffs-appellees are individuals and institutions who acquired shares in
+
+The Goldman Sachs Group, Inc. between February 5, 2007, and June 10, 2010 (the
+
+“Class Period”). Their claims are being pursued by three pension funds—the lead
+
+plaintiffs—each of which acquired Goldman common stock within the same
+
+period. Plaintiffs filed a consolidated class action complaint in July 2011 against
+
+Goldman and a handful of its former executives (collectively, “Goldman” or
+
+“defendants”), accusing Goldman of violating Section 10(b) of the Securities
+
+Exchange Act and Rule 10b–5 promulgated thereunder. See 15 U.S.C. § 78j(b); 17
+
+C.F.R. § 240.10b–5. Plaintiffs allege defendants made material misrepresentations
+
+about Goldman’s business practices and its approach to conflicts-of-interest
+
+management.
+
+
+                                             9
+      The Challenged Statements
+
+      The alleged misrepresentations generally fall into two categories. First,
+
+plaintiffs point to statements relating to Goldman’s business principles, which
+
+were included in the company’s annual report to shareholders and made by
+
+Goldman executives at various conferences:
+
+      • We are dedicated to complying fully with the letter and spirit of
+        the laws, rules and ethical principles that govern us. Our
+        continued success depends upon unswerving adherence to this
+        standard.
+
+      • Most importantly, and the basic reason for our success, is our
+        extraordinary focus on our clients.
+
+      • Our clients’ interests always come first. Our experience shows that
+        if we serve our clients well, our own success will follow.
+
+      • Integrity and honesty are at the heart of our business.
+
+Joint Appendix (“J.A.”) at 97.
+
+      Second, plaintiffs challenge statements contained in the “Risk Factors”
+
+portion of Goldman’s Form 10-K, filed every year during the Class Period with the
+
+Securities Exchange Commission (“SEC”), concerning the management of conflicts
+
+of interest.   With respect to this conflicts disclosure, plaintiffs focus on the
+
+emphasized language below:
+
+
+
+                                        10
+Conflicts of interest are increasing and a failure to appropriately
+identify and deal with conflicts of interest could adversely affect our
+businesses.
+
+Our reputation is one of our most important assets. As we have
+expanded the scope of our businesses and our client base, we
+increasingly have to address potential conflicts of interest, including
+situations where our services to a particular client or our own
+proprietary investments or other interests conflict, or are perceived to
+conflict, with the interests of another client, as well as situations
+where one or more of our businesses have access to material non-
+public information that may not be shared with other businesses
+within the firm.
+
+The SEC, the NYSE, FINRA, other federal and state regulators and
+regulators outside the United States, including in the United
+Kingdom and Japan, have announced their intention to increase their
+scrutiny of potential conflicts of interest, including through detailed
+examinations of specific transactions. There have been complaints
+filed against financial institutions, including Goldman Sachs, alleging
+the violation of antitrust laws arising from their joint participation in
+certain leveraged buyouts, referred to as “club deals,” as discussed
+under “Legal Proceedings—Private Equity-Sponsored Acquisitions
+Litigation” in Part I, Item 3 of the Annual Report on Form 10-K. In
+addition, a number of class action complaints have also been filed in
+connection with certain specific “club deal” transactions which name
+the relevant “club deal” participants among the defendants, including
+Goldman Sachs affiliates in several cases, and generally allege that the
+transactions constitute a breach of fiduciary duty by the target
+company and that the “club” participants aided and abetted such
+breach. We cannot predict the outcome of the litigation to which we
+are a party, and we may become subject to further litigation or
+regulatory scrutiny in the future in this regard.
+
+
+
+
+                                   11
+       We have extensive procedures and controls that are designed to
+       identify and address conflicts of interest, including those designed
+       to prevent the improper sharing of information among our
+       businesses. However, appropriately identifying and dealing with
+       conflicts of interest is complex and difficult, and our reputation could
+       be damaged and the willingness of clients to enter into transactions in
+       which such a conflict might arise may be affected if we fail, or appear
+       to fail, to identify and deal appropriately with conflicts of interest. In
+       addition, potential or perceived conflicts could give rise to litigation
+       or enforcement actions.
+
+J.A. 3278 (emphasis added). 1
+
+       It is undisputed that the challenged statements did not cause statistically
+
+significant increases in Goldman’s stock price.              Instead, plaintiffs say, the
+
+statements maintained an already-inflated stock price. According to plaintiffs,
+
+that balloon popped when news of undisclosed conflicts of interest revealed the
+
+falsity of the challenged statements and caused the stock to drop.
+
+       The Corrective Disclosures
+
+
+
+1 Plaintiffs also include a footnote in their brief to remind us they challenged in their
+complaint a December 2009 Goldman press release—issued in response to a
+December 24, 2009, New York Times article detailing Goldman’s questionable business
+practices—in which Goldman asserted, inter alia, that “its CDOs were fully disclosed and
+well known to [CDO] investors.” Appellees Br. at 45 n.7 (quoting Compl. ¶ 124).
+Plaintiffs make little attempt to flesh out their theory of liability based on this statement,
+perhaps because the district court previously rejected plaintiffs’ claim for relief based on
+the press release. See Richman v. Goldman Sachs Grp., Inc., 868 F. Supp. 2d 261, 274
+(S.D.N.Y. 2012). In any event, we generally regard an argument as waived when it
+appears only in a footnote. See United States v. Botti, 711 F.3d 299, 313 (2d Cir. 2013).
+                                             12
+      Specifically, plaintiffs target three dates in 2010 when they claim the false
+
+nature of the business principles and conflicts disclosure statements was revealed
+
+to the market. Broadly, they focus on what they characterize as the disclosure of
+
+concealed conflicts of interest infecting several collateralized debt obligation
+
+(“CDO”) transactions involving subprime mortgages. In essence, they allege that,
+
+publicly, Goldman touted various CDOs as long-term investment opportunities to
+
+investors when, in fact, Goldman was betting on them to fail.
+
+      First, and featured most heavily throughout this litigation, on April 16, 2010,
+
+the SEC initiated an enforcement action against Goldman and one of its employees
+
+regarding a CDO transaction known as Abacus 2007 AC-1 (the “Abacus
+
+Complaint”). See generally Press Release, SEC, Goldman Sachs to Pay Record $550
+
+Million to Settle SEC Charges Related to Subprime Mortgage CDO (July 15, 2010),
+
+https://www.sec.gov/news/press/2010/2010-123.htm. The SEC accused Goldman
+
+and its employee of committing securities fraud. It targeted Goldman’s failure to
+
+disclose in its marketing materials to various institutional customers that the
+
+hedge fund Paulson & Co. played an active role in the CDO’s asset selection
+
+process, and for telling those investors that Paulson held a long interest in the
+
+
+
+
+                                         13
+Abacus CDO when, in fact, Paulson was short. The next day, Goldman’s stock
+
+price declined 12.79% from $184.27 to $160.70 per share.
+
+      Second, on April 30, 2010, Goldman’s stock price dropped another 9.39%
+
+following a report from The Wall Street Journal that Goldman was under
+
+investigation by the Department of Justice (“DOJ”) for its purported role in
+
+unspecified CDOs. Finally, on June 10, 2010, various media outlets reported that
+
+the SEC was investigating Goldman’s conduct in another transaction, Hudson
+
+Mezzanine Funding 2006; a further 4.52% decline in the price of Goldman stock
+
+followed.
+
+      Neither the DOJ nor the SEC took further action related to the second two
+
+corrective disclosures. As to the first corrective disclosure, the Abacus Complaint
+
+culminated in a consent judgment under which Goldman agreed to pay
+
+$550 million, and, without “admitting or denying the allegations in the
+
+complaint . . . acknowledge[d]” that the Abacus marketing materials were
+
+“incomplete” and that it was a “mistake” for Goldman to state that the reference
+
+portfolio was “selected by” ACA Management LLC “without disclosing the role
+
+of Paulson.” J.A. 665.
+
+
+
+
+                                        14
+       In plaintiffs’ view, these corrective disclosures revealed to the market that
+
+Goldman’s statements about its conflicts management practices and business
+
+principles were false. Goldman, they say, lied about having extensive practices
+
+and procedures in place to manage its conflicts of interest, or otherwise knowingly
+
+failed to disclose mishaps in their conflicts protocol. 2 As a result of Goldman’s
+
+fraud, plaintiffs claim that they lost over $13 billion.
+
+
+
+
+2Plaintiffs’ theory of falsity has evolved throughout this lawsuit. For example, although
+plaintiffs alleged in their complaint that “Goldman’s warnings to shareholders regarding
+potential conflicts of interest omitted the fact that it was indeed aware of the existence of
+such conflicts at the time,” J.A. 53, plaintiffs’ counsel appeared to abandon that theory at
+oral argument, acknowledging that “everybody knew that [Goldman] had conflicts,”
+Oral Arg. Audio at 1:11:30, Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc (No 22-484). On
+appeal, plaintiffs instead claim that the filing of the Abacus Complaint revealed to the
+market that “Goldman doesn’t have effective practices and procedures in place” to
+manage conflicts. Id. at 48:30. They press the same argument in their brief. See Appellees
+Br. at 44, 57.
+It strains credulity to say that the corrective disclosures revealed to the market that
+Goldman lied about having extensive procedures and controls designed to address
+conflicts of interest. The district court did not make such a finding. Nor does the
+post-disclosure market commentary offered by plaintiffs come anywhere close to
+supporting that inference; no report cited by them questions the extensiveness of
+Goldman conflicts procedures. Dr. Finnerty, plaintiffs’ class certification expert, did not
+espouse that view. The record, in short, provides no support for that theory.
+Accordingly, we consider as plaintiffs’ theory that the challenged statements were
+misleading because Goldman failed to disclose, in choosing to speak on its business
+practices and, in particular, its approach to conflicts management, that it was actively
+mismanaging conflicts—a theory plaintiffs have offered throughout this litigation, and
+which the district court considered. See, e.g., Special Appendix (“S.A.”) at 17; J.A. 4707.
+                                             15
+      Litigation History
+
+      1. Goldman’s Motion to Dismiss
+
+      Much of the early action in this case proceeded in line with a typical
+
+securities litigation. Following the filing of plaintiffs’ complaint, Goldman moved
+
+to dismiss under Federal Rules of Civil Procedure 9(b) and 12(b)(6). In pertinent
+
+part, it pressed a materiality argument: the alleged misrepresentations, Goldman
+
+argued, were too vague and general for a reasonable shareholder to have relied on
+
+them in determining the value of Goldman’s stock. Thus, it continued, those
+
+statements did not influence plaintiffs’ investment decision-making, and any loss
+
+they suffered was unrelated to them.
+
+      The district court saw it differently. Although it agreed that some of
+
+Goldman’s statements were immaterial as a matter of law—and dismissed the
+
+complaint to the extent it relied upon those statements—it held that the business
+
+principles and conflicts statements were not “so obviously unimportant to a
+
+reasonable investor” as to be immaterial as a matter of law. Richman v. Goldman
+
+Sachs Grp., Inc., 868 F. Supp. 2d 261, 271, 280 (S.D.N.Y. 2012). With respect to those
+
+statements, the district court denied Goldman’s motion to dismiss, and thereafter
+
+denied Goldman’s motions for reconsideration of, and an interlocutory appeal
+
+
+                                         16
+from, that order. See In re Goldman Sachs Grp., Inc. Sec. Litig., No. 10 Civ. 3461, 2014
+
+WL 2815571, at *6 (S.D.N.Y. June 23, 2014) (reconsideration); In re Goldman Sachs
+
+Grp., Inc. Sec. Litig., No. 10 Civ. 3461, 2014 WL 5002090, at *3 (S.D.N.Y. Oct. 7, 2014)
+
+(interlocutory appeal).
+
+      2. Class Certification
+
+      Having survived defendants’ threshold attack, plaintiffs moved to certify a
+
+class of shareholder plaintiffs.       Class certification under Federal Rule of
+
+Civil Procedure 23 is dictated by certain requirements, many of which are not at
+
+issue here. To the point, Goldman did not dispute that (1) the named plaintiffs’
+
+class is so numerous that joinder is impracticable, (2) at least one question of law
+
+or fact is common to the class, (3) the class representatives’ claims are typical of
+
+the class wide claims, and (4) the class representatives, here, the pension funds,
+
+will be able to fairly and adequately protect the interests of the class. See Fed. R.
+
+Civ. P. 23(a). Goldman did, however, maintain that plaintiffs failed to satisfy
+
+Rule 23’s additional hurdle for classes primarily seeking money damages. That
+
+requirement, set forth in Rule 23(b)(3), demands that common questions of law or
+
+fact predominate over individual questions that pertain only to certain class
+
+members.
+
+
+                                          17
+       In this lawsuit, Rule 23(b)(3)’s predominance requirement has been, and in
+
+this appeal remains, center stage. Under the Rule, analysis of whether questions
+
+of law or fact common to class members predominate “begins, of course, with
+
+the . . . underlying cause of action.” Erica P. John Fund, Inc. v. Halliburton Co.
+
+(Halliburton I), 563 U.S. 804, 809 (2011). Like many securities scrap-ups, the parties
+
+here join issue on the element of reliance—that is, whether plaintiffs relied upon
+
+the alleged misrepresentations. 3
+
+       As previewed above, to satisfy their class certification obligation of
+
+demonstrating class-wide reliance, plaintiffs invoked the Basic presumption,
+
+asking the district court to presume that all class members relied upon defendants’
+
+misstatements, as reflected in its price, in choosing to buy Goldman stock. 4
+
+
+
+
+3The six elements of securities fraud are “(1) a material misrepresentation or omission by
+the defendant; (2) scienter; (3) a connection between the misrepresentation or omission
+and the purchase or sale of a security; (4) reliance upon the misrepresentation or
+omission; (5) economic loss; and (6) loss causation.” Halliburton I, 563 U.S. at 810 (internal
+citations omitted).
+4For purposes of this appeal, the parties do not dispute that the other prerequisites to the
+Basic presumption are satisfied, that is, that defendants’ purported misstatements were
+publicly known, its shares traded in an efficient market, and plaintiffs purchased the
+shares at the market price after the misstatements were made but before the truth was
+revealed. Additionally, although materiality is an additional prerequisite under Basic,
+class members need not prove it prior to class certification. See Halliburton Co. v. Erica P.
+John Fund, Inc. (Halliburton II), 573 U.S. 258, 276 (2014).
+                                             18
+      Again, Basic rests on what is referred to as the “fraud-on-the-market”
+
+theory—that a stock trading on theoretically efficient markets like the New York
+
+Stock Exchange or Nasdaq, incorporates all public, material information,
+
+including material misrepresentations, into its share price. Basic, 485 U.S. at 246.
+
+More simply, the misrepresentation—the fraud—is “on the market.”             See id.
+
+Without the Basic presumption, classes pursuing claims of securities fraud would
+
+face the onerous task of demonstrating each class member was aware of, and
+
+bought the company’s stock based on, an alleged misrepresentation. That burden
+
+would splinter classes along class member-specific lines, undermining the
+
+purpose of the class action device, and all but dooming securities claims from
+
+proceeding under Rule 23. Basic is therefore a saving grace for classes: they need
+
+not directly prove that the defendant’s statements impacted its share price.
+
+Instead, satisfaction of Basic’s prerequisites serves as an “indirect proxy” for a
+
+showing of price impact. See Halliburton II, 573 U.S. at 278–81.
+
+      Importantly, however, the presumption is rebuttable. “[A]n indirect proxy
+
+should not preclude . . . a defendant’s direct, more salient evidence showing that
+
+the alleged misrepresentation did not actually affect the stock’s market price and,
+
+consequently, that the Basic presumption does not apply.” Id. at 281–82 (emphasis
+
+                                        19
+added). Throughout what the district court aptly characterized as a “prolonged
+
+interlocutory appeals saga,” In re Goldman Sachs Grp., Inc. Sec. Litig., 579 F. Supp.
+
+3d 520, 522 (S.D.N.Y. 2021), Goldman has steadfastly attempted to do just that.
+
+          a. Round One: Goldman’s First Appeal
+
+       In its initial response to plaintiffs’ Rule 23 motion, Goldman laid the
+
+groundwork for the evidence that, in the present appeal, it continues to rely on to
+
+show an absence of price impact.
+
+       Goldman introduced, first, an event study 5 conducted by its chief price
+
+impact expert, Dr. Paul Gompers, demonstrating that the business principles
+
+statements and conflicts disclosure did not cause a significant uptick in Goldman’s
+
+stock price. Second, Goldman identified 36 dates—all prior to the corrective
+
+
+
+
+5 As we previously explained, an event study “isolates the stock price movement
+attributable to a company (as opposed to market-wide or industry-wide movements) and
+then examines whether the price movement on a given date is outside the range of typical
+random stock price fluctuations observed for that stock.” Ark. Tchr. Ret. Sys. v. Goldman
+Sachs Grp., Inc. (ATRS II), 955 F.3d 254, 261 n.4 (2d Cir. 2020), vacated and remanded, 141 S.
+Ct. 1951 (2021) (citing Mark L. Mitchell & Jeffry M. Netter, The Role of Financial Economics
+in Securities Fraud Cases: Applications at the Securities and Exchange Commission, 49 BUS.
+LAW. 545, 556–69 (1994)); In re Vivendi, 838 F.3d at 253–56. If the isolated stock price
+movement falls outside the range of typical random stock price fluctuations, it is
+statistically significant. ATRS II, 955 F.3d at 261 n.4. If the stock price movement is
+indistinguishable from random price fluctuations, it cannot be attributed to company-
+specific information announced on the event date. See id.
+                                             20
+disclosure dates—on which media outlets discussed, in varying degrees of detail,
+
+transactions which, according to the reports, raised questions about Goldman’s
+
+ability to manage conflicts of interest.
+
+        Goldman’s view on the significance of these pre-disclosure reports was
+
+fleshed out by Dr. Gompers.        He explained that the pre-disclosure reports
+
+implicated the same topics covered by the challenged statements and, just like
+
+plaintiffs’ alleged corrective disclosures, called the reliability of the challenged
+
+statements into question. Building from there, Dr. Gompers opined that because
+
+these    pre-disclosure   reports—viewed        by   him   as   alternative   corrective
+
+disclosures—caused no statistically significant price decrease, the price drop that
+
+did occur following plaintiffs’ offered corrective disclosures must have been caused
+
+by something other than any corrective effect that they had upon the challenged
+
+statements.
+
+        Goldman relied on another expert, Dr. Stephen Choi, to press an alternative
+
+explanation. Dr. Choi conducted an event study focusing on the first corrective
+
+disclosure, the April 2010 filing of the SEC’s Abacus Complaint. He pointed to
+
+qualities of that enforcement action—so-called “severity factors”—which, in his
+
+view, accounted for the entirety of the price decline that followed. To buttress that
+
+                                           21
+opinion, he identified four out of a group of 117 enforcement events bearing
+
+similar qualities, whose announcements to the market resulted in significant drops
+
+in those companies’ stock prices. Goldman relied on Dr. Choi’s submissions to
+
+argue that the price drop in April 2010 was caused entirely by the news of the
+
+enforcement action itself, rather than the revelation of Goldman’s client conflicts.
+
+      Of course, plaintiffs countered defendants at every turn. They did so
+
+through their sole expert, Dr. John D. Finnerty, who, as discussed in more detail
+
+below, disputed the methods and conclusions of Goldman’s experts.
+
+      The district court disagreed with Goldman and certified the class. See In re
+
+Goldman Sachs Group, Inc. Securities Litig., No. 10 Civ. 3461, 2015 WL 5613150
+
+(S.D.N.Y. Sept. 24, 2015).      In relevant part, the district court discredited
+
+Dr. Gompers’ event study, observing that under plaintiffs’ inflation-maintenance
+
+theory, the challenged statements could have maintained, rather than caused, an
+
+already inflated stock price. Id. at *6. It also declined to consider Goldman’s
+
+evidence regarding the pre-disclosure reports, concluding that such evidence was
+
+either “an inappropriate truth on the market defense” or an argument for
+
+materiality that the court “w[ould] not consider” at the class certification stage. Id.
+
+(internal quotation marks omitted). Finally, it found Dr. Choi’s submissions
+
+                                          22
+unconvincing, explaining that alternative explanations regarding the cause of the
+
+price declines did not rule out that the corrective effect of each disclosure on the
+
+challenged statements may have been a contributing cause. Id.
+
+     Ultimately, the district court held that while a defendant can rebut the Basic
+
+presumption by a preponderance of the evidence, Goldman had failed to do so
+
+because it did not provide “conclusive evidence that no link exists between the
+
+price decline [of Goldman’s stock] and the misrepresentations.” Id. at *4 n.3, *7.
+
+      ATRS I. The first time this case arrived at our doorstep, we vacated and
+
+remanded. Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc. (ATRS I), 879 F.3d 474
+
+(2d Cir. 2018). We held that defendants seeking to rebut the Basic presumption
+
+must do so by a preponderance of the evidence, and that it was unclear whether
+
+the district applied that standard. Id. at 485.
+
+      Second, we held it was error for the district court to conclude that it could
+
+not consider the pre-disclosure reports. Id. We also encouraged the district court
+
+to hold an evidentiary hearing, which, in advance of its initial class certification
+
+decision, it had deemed unnecessary. Id. at 486.
+
+
+
+
+                                          23
+      b. Round Two: We Affirm
+
+      On remand, the district court received supplemental briefing, held a class
+
+certification evidentiary hearing, and, ultimately, certified the class a second time.
+
+In re Goldman Sachs Grp., Inc. Sec. Litig., No. 10 Civ. 3461, 2018 WL 3854757, at *2
+
+(S.D.N.Y. Aug. 14, 2018). Defendants called Drs. Gompers and Choi, who offered
+
+testimony in line with their expert submissions. Plaintiffs, meanwhile, called
+
+Dr. Finnerty, who, consistent with his submissions, offered rebuttals to
+
+defendants’ experts.
+
+      In the end, the district court again credited Dr. Finnerty’s opinion that the
+
+alleged misrepresentations maintained an already-inflated stock price, finding
+
+that he had established a causal link between the alleged misrepresentations and
+
+the price decline following the three alleged corrective disclosures. Id. at *4.
+
+      Defendants’ experts, it continued, did not sufficiently sever that link. In
+
+pertinent part, the district court distinguished the pre-disclosure reports from
+
+plaintiffs’ corrective disclosures; it found that although the former may have
+
+reported and suggested “Goldman’s conflicts in the ABACUS deal, the ABACUS
+
+Complaint was the first to detail it.” Id. at *4. Those details—and the fact that the
+
+charges were brought by Goldman’s principal regulator—“obviously rendered the
+
+
+                                         24
+[Abacus Complaint] more reliable and credible than any of the 36 media
+
+reports . . . .” Id.
+
+       As for Dr. Choi’s event study, the district court again largely discounted it.
+
+It noted that the study concerned only the Abacus Complaint, but not the second
+
+and third corrective disclosures, and that, in any event, the severity factors were
+
+arbitrary and not well-established methods of measurement. It concluded that
+
+defendants had failed to rebut the Basic presumption. Id. at *5–6.
+
+       ATRS II.        We granted Goldman leave to pursue another interlocutory
+
+appeal, and, ultimately, affirmed. See Ark. Tchr. Ret. Sys. v. Goldman Sachs Grp., Inc.
+
+(ATRS II), 955 F.3d 254 (2d Cir. 2020), cert. granted, 141 S. Ct. 950 (2020), and vacated
+
+and remanded, 141 S. Ct. 1951 (2021).
+
+       That time, however, Goldman principally pressed a hardline rule: general
+
+statements, as a matter of law, are incapable of maintaining inflation in a stock
+
+price. Id. at 266. We disagreed; in our view, Goldman’s proposed rule too closely
+
+resembled a materiality analysis, which, as we then understood Supreme Court
+
+precedent, was off-limits at the class certification stage. Id. at 269.
+
+       We also concluded that the district court did not abuse its discretion in
+
+certifying the class. Id. at 274. Goldman primarily took issue with the district
+
+                                           25
+court’s analysis of the 36 dates of pre-disclosure reporting, but we found no clear
+
+error in the district court’s findings.
+
+      Judge Sullivan dissented. He would have accorded more weight to those
+
+pre-disclosure reports, which he said demonstrated that when the market learned
+
+about Goldman’s conflicts, it did not negatively react. See id. at 278 (Sullivan, J.,
+
+dissenting). In his view, “the generic quality of Goldman’s alleged misstatements,
+
+coupled with the undisputed fact that Goldman’s stock price did not move on any
+
+of the 36 dates on which the falsity of the alleged misstatements was revealed to
+
+the public, clearly compels the conclusion that the stock drop following the
+
+corrective disclosures was attributable to something other than the misstatements
+
+alleged in the complaint.” See id. at 278–79 (Sullivan, J., dissenting) (internal
+
+quotation marks and citation omitted).
+
+      c. The Supreme Court’s Decision in Goldman
+
+      The Supreme Court granted Goldman’s petition for certiorari. Before the
+
+Court, however, defendants abandoned their rule-based argument, and, notably,
+
+plaintiffs conceded that, as a factual matter, the generic nature of a
+
+misrepresentation often is important evidence of price impact that courts should
+
+consider at class certification. Goldman, 141 S. Ct. at 1958. Plaintiffs further
+
+
+                                          26
+conceded that courts can consider expert testimony and use “their common sense
+
+in assessing whether a generic misrepresentation had a price impact,” id. at 1960,
+
+and that such considerations are appropriate at class certification even though they
+
+might also be relevant to materiality, see id.
+
+      As previewed above, the Court agreed with the parties, and offered
+
+guidance as to how genericness concerns should fit into cases proceeding under
+
+the inflation-maintenance theory of price impact. It acknowledged that, under the
+
+theory, courts generally look to the back-end price drop as a proxy for front-end
+
+inflation.
+
+      However, the Court added:
+
+      [T]hat final inference—that the back-end price drop equals front-end
+      inflation—starts to break down when there is a mismatch between the
+      contents of the misrepresentation and the corrective disclosure. That
+      may occur when the earlier misrepresentation is generic (e.g., “we
+      have faith in our business model”) and the later corrective disclosure
+      is specific (e.g., “our fourth quarter earnings did not meet
+      expectations”). Under those circumstances, it is less likely that the
+      specific disclosure actually corrected the generic misrepresentation,
+      which means that there is less reason to infer front-end price
+      inflation—that is, price impact—from the back-end price drop.
+
+Goldman, 141 S. Ct. at 1961. As such, it explained, the “generic nature of a
+
+misrepresentation often will be important evidence of a lack of price impact,
+
+particularly in cases proceeding under the inflation-maintenance theory” id., and
+                                         27
+that is true “regardless whether that evidence is also relevant to a merits question
+
+like materiality,” id. at 1960.    Concluding that it was unclear whether we
+
+considered that evidence, the Supreme Court vacated our judgment and
+
+remanded for further proceedings consistent with its opinion. See Goldman, 141 S.
+
+Ct. at 1963.
+
+      ATRS III. Upon remand, we noted that in evaluating the parties’ competing
+
+price impact evidence, the district court did not discuss the generic nature of
+
+Goldman’s alleged misrepresentations, nor the submissions of a third Goldman
+
+expert, Dr. Laura Starks, relevant to that inquiry. Ark. Tchr. Ret. Sys. v. Goldman
+
+Sachs Grp., Inc. (ATRS III), 11 F.4th 138, 143 (2d Cir. 2021) (internal citation
+
+omitted). We concluded that the fact intensive questions raised by Goldman were
+
+better evaluated by the district court in the first instance. We vacated the district
+
+court’s order and remanded, directing the district court to “consider all record
+
+evidence relevant to price impact and apply the legal standard as supplemented
+
+by the Supreme Court.” Id. at 143–44.
+
+
+
+
+                                         28
+      3. Round Three: The Decision Below
+
+      That brings us to the present appeal. On remand, the district court stayed
+
+the course and—in the decision Goldman now appeals—certified plaintiffs’ class
+
+for a third time. In re Goldman, 579 F. Supp. 3d at 520.
+
+      Much of the evidence before the district court, as well as the district court’s
+
+analysis of it, should by now be familiar. Because it is discussed extensively below,
+
+it needs only brief mentioning here. On plaintiffs’ side of the ledger, the district
+
+court again found “persuasive[]” plaintiffs’ evidence establishing a link between
+
+(a) the revelatory nature of the corrective disclosures regarding Goldman’s
+
+conflicts of interest and (b) the subsequent stock price declines.        Id. at 531.
+
+Specifically, it credited Dr. Finnerty’s focus on the “conduct underlying the
+
+reported enforcement actions, not merely the actions themselves.” Id. at 532
+
+(alteration omitted).
+
+      Turning to defendants’ experts, the district court noted it had previously
+
+declined to credit Dr. Gompers’ opinion regarding the lack of abnormal price
+
+movement associated with the pre-disclosure reports, and reasoned that neither
+
+the Supreme Court’s nor our remand had any bearing on its previous findings.
+
+Thus, the district court “again decline[d] to credit Dr. Gompers’ conclusions.” Id.
+
+
+                                         29
+On the same tack, reconsideration of Dr. Choi’s event study did not alter the
+
+district court’s view of it, which remained “unaffected by the updated direction
+
+from above.” Id. It reiterated that “Dr. Choi’s methodology was novel, unreliable,
+
+and thoroughly outpaced by the conclusions he derived therefrom.” Id.
+
+      The court then turned to “the heart of the parties’ post-appeal dispute: the
+
+extent of the alleged misstatements’ generic nature.” Id. at 533. Noting that
+
+defendants had abandoned their “‘genericness’-as-a-matter-of-law” test, it began
+
+by considering the genericness, “as a matter of fact,” of the challenged statements.
+
+Id. On this issue, the district court considered, for the first time, the opinions
+
+offered by Goldman’s expert, Dr. Laura Starks, as well as Dr. Finnerty’s rebuttals
+
+to them. In the end the district court sided with Dr. Finnerty, finding that the
+
+statements’ generic nature did not render them incapable of inducing investor
+
+reliance. See id. at 534.
+
+      Finally, the district court applied the Supreme Court’s mismatch sliding
+
+scale and found that the alleged misstatements “are not so exceedingly more
+
+generic than the corrective disclosures that they vanquish the otherwise strong
+
+inference of price impact embedded in the evidentiary record.” Id. at 537. The
+
+“comfortable, though certainly not boundless, gap in genericness,” it explained,
+
+                                        30
+“fails to satisfy Defendants’ burden to demonstrate a complete lack of price impact
+
+attributable to the alleged misstatements.” Id. at 538. It certified the class.
+
+      For a third time, we granted defendants leave to pursue an interlocutory
+
+appeal of that order.
+
+                                     DISCUSSION
+
+      “We review a district court’s grant of class certification for abuse of
+
+discretion,” Levitt v. J.P. Morgan Sec., Inc., 710 F.3d 454, 464 (2d Cir. 2013),
+
+reviewing de novo “the conclusions of law underlying that decision” and “‘for clear
+
+error the factual findings underlying’” its ruling, such as the court’s price impact
+
+determination, id. (quoting Teamsters Loc. 445 Freight Div. Pension Fund v.
+
+Bombardier Inc., 546 F.3d 196, 201 (2d Cir. 2008)). “Under the clear error standard,
+
+we may not reverse [a finding] even though convinced that had [we] been sitting
+
+as the trier of fact, [we] would have weighed the evidence differently.” Atl.
+
+Specialty Ins. Co. v. Coastal Envtl. Grp. Inc., 945 F.3d 53, 63 (2d Cir. 2019) (alterations
+
+in original) (internal quotation marks and citations omitted). Rather, a finding is
+
+clearly erroneous only if although there is evidence to support it, the reviewing
+
+court on the entire evidence is left with the definite and firm conviction that a
+
+
+
+
+                                            31
+mistake has been committed.”          Id. (internal quotation marks and citations
+
+omitted); see also ATRS III, 11 F.4th at 142.
+
+      Goldman presses three principal arguments on appeal. First, it contends the
+
+district court understated the genericness of the alleged misrepresentations and,
+
+in setting them against the more detailed corrective disclosures, failed to
+
+meaningfully apply the Supreme Court’s mismatch framework. Second, Goldman
+
+challenges the district court’s application of the inflation-maintenance theory; it
+
+claims that by using the price drop following the detailed, specific corrective
+
+disclosures as a proxy for the inflation-maintaining capacity of the broad, generic
+
+misrepresentations, the district court improperly extended the theory. These
+
+arguments have merit.
+
+      Finally, though less forcefully this time around, Goldman maintains the
+
+district court again misweighed Dr. Gompers’ and Dr. Finnerty’s expert
+
+submissions, and in doing so made untenable credibility findings. We begin there,
+
+because although that argument does not carry the day, the district court’s analysis
+
+on this front gives important context to why we agree with Goldman’s first two
+
+arguments. In the end, the district court’s class certification decision cannot stand.
+
+
+
+
+                                          32
+         I.    The district court did not clearly err in rejecting defendants’
+               characterization of the 36 dates of pre-disclosure reporting as
+               alternative corrective disclosure dates.
+
+         Careful application of the Supreme Court’s guidance in Goldman requires a
+
+clear understanding of plaintiffs’ theory regarding the tie between the corrective
+
+disclosures and the alleged misrepresentations—why, according to them, there are
+
+grounds to infer that the back-end news actually corrected the front-end
+
+misstatements. The dueling submissions of Drs. Finnerty and Gompers regarding
+
+the significance of the 36 dates of pre-disclosure reporting bear directly on that
+
+issue.
+
+         Although the two experts maintained differing views on the significance of
+
+the pre-disclosure reports, their respective analyses shared common ground: the
+
+price declines on the alleged corrective disclosure dates, they agreed, were
+
+attributable to “Goldman-specific” information. J.A. 3908, 3912, 3915. However,
+
+in order to determine what Goldman-specific information caused the stock price
+
+decline on the corrective disclosure dates, Dr. Gompers focused on 36 dates on
+
+which various articles, all published before the filing of the Abacus Complaint,
+
+reported broadly on Goldman and concerns of conflicts of interest.
+
+
+
+
+                                         33
+       Dr. Gompers viewed the 36 pre-disclosure dates as “alternative corrective
+
+disclosure dates,” J.A. 3806, because the information contained in the articles “was
+
+similar to the information released on the alleged corrective disclosure dates in
+
+that it indicated to market participants that Goldman allegedly favored itself over
+
+its clients, or favored one client over another,” J.A. 1532. Building from there,
+
+Dr. Gompers explained that because Goldman’s stock did not decline in response
+
+to similar information revealed by the pre-disclosure articles, the price decline on
+
+the three disclosure dates must have been due to news of the enforcement action
+
+in and of itself.
+
+       In that sense, Dr. Gompers opined that the pre-disclosure reports
+
+“disentangle[d] how much [of the price decline] was due to [the] conflict news.”
+
+J.A. 4602. Unlike the three corrective disclosure dates, which contained both
+
+“conflicts news” and “news of an enforcement action,” id., the pre-disclosure
+
+reports discussed only news implicating Goldman’s conflicts management. The
+
+pre-disclosure reports, for Dr. Gompers, are simply a better match.
+
+       Through Dr. Finnerty, plaintiffs offered various rebuttals. For example,
+
+Dr. Finnerty argued that any potential price impact was “thwarted by Goldman’s
+
+repeated denials” as set forth in many of the articles. J.A. 2043. Dr. Finnerty also
+
+                                        34
+opined that the Abacus Complaint revealed “significant new information
+
+concerning the severity of Goldman’s misconduct in issuing the Abacus CDO,”
+
+J.A. 2044, which, for him, uncovered for the first time “the truth about Goldman’s
+
+fraudulent conduct regarding its conflicts of interest,” id., and the fact that
+
+Goldman had “failed to manage its conflicts of interest,” J.A. 4707.
+
+      On the whole, Dr. Finnerty pegged as futile Dr. Gompers’ efforts to
+
+disentangle the price impact caused by the news of the enforcement action itself
+
+from the conduct underlying it. Dr. Finnerty explained that “[t]he enforcement
+
+actions or investigations are inextricably tied to the content [and] . . . the fact that
+
+[the SEC] embodied [the conduct] in an enforcement action document raises . . . in
+
+the minds of investors, the severity level.” J.A. 657.
+
+      The district court ultimately credited Dr. Finnerty’s opinion. It noted that it
+
+had previously declined to credit Dr. Gompers’ view of the pre-disclosure reports,
+
+and that because “the updated direction from the Supreme Court and Second
+
+Circuit has no bearing on these factual findings,” it would “reiterate[], and
+
+restate[], its grounds only in brief.” In re Goldman, 579 F. Supp. 3d at 532.
+
+      It found that (1) unlike the pre-disclosure reports, the Abacus Complaint
+
+was the first public account to detail and document those conflicts with hard
+
+                                          35
+evidence, including incriminatory emails and memoranda authored by Goldman
+
+employees; (2) “the underlying source of the disclosure—the SEC—lent extra
+
+credibility and gravitas unequaled in the prior reports; and (3) the disclosure was
+
+unencumbered by any of the denials or mitigating commentary that had rendered
+
+prior reports less jarring.” Id.
+
+      Goldman begins its press by arguing that the district court erred in crediting
+
+Dr. Finnerty’s views of the pre-disclosure reports. It did not. The district court
+
+recognized correctly—or, at least, not clearly erroneously—a qualitative difference
+
+in the respective buckets of news. The Abacus Complaint contained details which
+
+substantiated its allegations of wrongdoing; the pre-disclosure reports,
+
+meanwhile, discussed the transactions, but only generally alleged that Goldman
+
+had acted unlawfully, or was otherwise guilty of wrongdoing. It was not clearly
+
+erroneous to recognize that, in pointing its finger at Goldman, the SEC had details
+
+to back it up.
+
+      Nor did the district court err in finding that the SEC’s name lends a certain
+
+amount of credibility or gravitas to the allegations underlying the Abacus
+
+Complaint, and, therefore that, as a matter of common sense, denying wrongdoing
+
+in the face of an SEC enforcement action is likely to have less of a thwarting effect
+
+                                         36
+on potential stock price declines than denying more general claims made by media
+
+outlets. The district court recognized what, at minimum, is not clearly erroneous:
+
+the filing of an enforcement action is a different kind of event than the publishing
+
+of a news story. The two events ring of different tenors.
+
+      By the same token, the district court did not misstep in finding unpersuasive
+
+Goldman’s efforts to disentangle and separately quantify the price decline
+
+attributable to, on the one hand, the conduct underlying the enforcement action,
+
+and, on the other hand, the news of the enforcement action itself. The SEC’s
+
+decision to charge Goldman was precisely because of the nature of the conduct. As
+
+Dr. Finnerty opined, the enforcement action “signals the greater severity than if an
+
+enforcement action hadn’t been filed, but an enforcement action is never going to
+
+get filed unless the misbehavior or alleged misbehavior occurred in the first
+
+place . . . [t]hat’s why you can’t separate them.” J.A. 658. It was not clear error to
+
+credit that opinion.
+
+      Still, that gets us only so far. While the district court did not clearly err in
+
+rejecting Goldman’s invitation to view the pre-disclosure reports as alternative
+
+corrective disclosure dates, that focuses our analysis on the corrective disclosures
+
+as alleged by plaintiffs—but it does not resolve it. Likewise, even accepting as true
+
+                                         37
+(or not clearly erroneous) the district court’s view that the conduct (conflicts
+
+management) described in the Abacus Complaint is intertwined with the charge—
+
+in other words, that the price drop occurred because of both—that establishes, at
+
+most, that the corrective disclosures, like the alleged misrepresentations, concern
+
+the subject of conflicts management.
+
+      The question remains whether, in light of the Supreme Court’s guidance in
+
+Goldman, it was clear error for the district court to rely on that subject-matter match
+
+to use the back-end price drop as a proxy for front-end inflation allegedly
+
+maintained by what the district court acknowledged were comparatively generic
+
+misstatements. Again, a back-end price drop is, at most, “backward-looking,
+
+indirect evidence,” In re Allstate Corp. Sec. Litig., 966 F.3d at 613, of the price impact
+
+“at the time of purchase,” id. at 611. “Data from later times may be relevant to this
+
+inquiry, but only insofar as they help the district court determine the information
+
+impounded into the price at the time of the initial transaction.” Id. at 612. In our
+
+view, the genericness and mismatch inquiries go to the value of the back-end price
+
+drop as indirect evidence of a front-end, inflation-maintaining price impact, an issue
+
+at which the parties direct most of their efforts.
+
+
+
+
+                                           38
+      II.      The district court clearly erred in assessing the generic nature of
+               business principles statements, but not the conflicts disclosure.
+
+      Goldman argues the district court failed to appreciate the generic nature of
+
+the challenged statements. It faults the district court for discrediting Dr. Laura
+
+Starks, who, Goldman says, correctly observed that the alleged misrepresentations
+
+“do not provide information that bears on a company’s future financial
+
+performance or value” and “are also too general to convey anything precise or
+
+meaningful” that can be used in investment decision-making. J.A. 2608. Goldman
+
+insists that in finding as a matter of fact that “[t]he alleged misstatements were not
+
+so generic as to diminish their power to maintain pre-existing price inflation,” In
+
+re Goldman, 579 F. Supp. 3d at 534, the district court glossed over and minimized
+
+the genericness analysis.
+
+      The district court’s findings on this issue go to a baseline question: how
+
+generic are the alleged misrepresentations? Beginning there makes sense; it is a
+
+practical, threshold factual inquiry to the ensuing Goldman-driven analysis of
+
+whether there is a gap in specificity between a set of misstatements and corrective
+
+disclosures.
+
+      The district court conducted that initial inquiry by separating the statements
+
+in two buckets, one consisting of the business principles statements—such as
+                                         39
+“integrity and honesty are at the heart of our business,” which it acknowledged
+
+“present as platitudes when read in isolation”—and the other containing the
+
+“more specific” conflicts disclosure. 6 In re Goldman, 579 F. Supp. 3d at 534. With
+
+respect to the former, it found that “even the more generic statements, when read
+
+in conjunction with one another (and particularly in conjunction with statements
+
+specifically concerning conflicts), may reinforce misconceptions about Goldman’s
+
+business practices, and thereby serve to sustain an already-inflated stock price.”
+
+Id. As to the more specific conflicts disclosure, the court found that “the statements
+
+concerning Goldman’s conflicts . . . are quite a bit more specific in form and focus
+
+than, say assurances that ‘[i]ntegrity and honesty are at the heart of our business.’”
+
+Id. The district court’s answer to the preliminary inquiry: not so generic.
+
+      Business Principles Statements
+
+      With respect to the business principles statements, the district court’s
+
+genericness analysis is untenable.
+
+
+
+
+6 Again, plaintiffs focus on Goldman’s representation in its conflicts disclosure that it
+“ha[s] extensive procedures and controls that are designed to identify and address
+conflicts of interest, including those designed to prevent the improper sharing of
+information among our businesses.” J.A. 3278.
+                                           40
+       The district court found that the business principles category of
+
+statements—statements such as “integrity and honesty are at the heart of our
+
+business”—“present as platitudes when read in isolation.” Id. There is no need to
+
+second-guess that factual finding; nor was it clearly erroneous to find, as the
+
+district court did, that when read as a whole the business principles statements are
+
+somewhat more specific. See id. From there however, the district court overstated
+
+their specificity by finding that these “more generic statements, when read . . .
+
+particularly in conjunction with statements specifically concerning conflicts[], may
+
+reinforce misconceptions about Goldman’s business practices.” Id.
+
+       That finding was clearly erroneous. The business principles and conflicts
+
+statements were separately disseminated to shareholders in separate reports at
+
+separate times, 7 and plaintiffs offered no evidence, either through Dr. Finnerty or
+
+otherwise, to support a finding that, notwithstanding that space in medium and
+
+time, investors would still conjunctively consume those statements. True, a
+
+statement can be materially misleading when “the defendants’ representations,
+
+
+
+
+7  For instance, plaintiffs allege in their complaint that Goldman released its 2007
+Form 10-K, containing the conflicts disclosure, on January 29, 2008, J.A. 139, and released
+its 2007 Annual Report, containing its business principles, on March 8, 2008, J.A. 141.
+                                            41
+taken together and in context, would have mislead a reasonable investor.” Altimeo
+
+Asset Mgmt. v. Qihoo 360 Tech. Co., 19 F.4th 145, 151 (2d Cir. 2021) (quoting Rombach
+
+v. Chang, 355 F.3d 164, 172 n.7 (2d Cir. 2004)). But the relevant “context” is not a
+
+separately disseminated misstatement—at least where, as here, the statements do
+
+not obviously compliment or implicate the same topics—but the reality of the
+
+company’s affairs or condition at a time when a misstatement was made.
+
+      So, for example, a company’s statement that its distribution market is
+
+“highly competitive,” might be actionable when considered within the context that
+
+the company did not actually operate in a competitive market and instead
+
+colluded with its competitors to fix prices. See In re Henry Schein, Inc. Sec. Litig.,
+
+No. 18 Civ. 01428, 2019 WL 8638851, at *12 (E.D.N.Y. Sept. 27, 2019). Or, a
+
+company’s statement that it has “demonstrated successful acquisition and
+
+integration capabilities” might be actionable when, at the time the statement was
+
+made, the company had already fired key integration staff and was dealing with
+
+a poor integration of a newly acquired company. City of Omaha Police & Fire Ret.
+
+Sys. v. Evoqua Water Techs. Corp., 450 F. Supp. 3d 379, 412 (S.D.N.Y. 2020). Case
+
+law does not suggest, however, that investors read one statement in conjunction
+
+
+
+
+                                         42
+with separately disseminated statements, at least where, as here, those statements
+
+do not obviously build off one and other.
+
+      Plaintiffs offer no meaningful rebuttal.      Instead, they claim that “the
+
+business-principle[s] statements, while more generic, are not challenged standing
+
+alone but as reinforcing the conflict statements.” Appellees Br. at 39. That bald
+
+assertion is unsupported by any citation to the record, nor, upon our independent
+
+of review of it, is there any suggestion that the business principles statements were
+
+consumed by investors as piggybacking off the conflicts disclosure.          To the
+
+contrary, plaintiffs’ complaint alleges that they comprise, on their own, the “third
+
+category of false and misleading statements.” J.A. 95. In any event, by that logic,
+
+an exceedingly generic statement could always withstand, for example, motions
+
+to dismiss or for summary judgment by seeking shelter under a more specific
+
+statement, so long as the more specific statement implicates broad topics such as
+
+integrity or honesty. Securities law provides no such cover.
+
+      “A finding is ‘clearly erroneous’ when although there is evidence to support
+
+it, the reviewing court on the entire evidence is left with the definite and firm
+
+conviction that a mistake has been committed.” Dist. Lodge 26, Int’l Ass’n of
+
+Machinists & Aerospace Workers, AFL-CIO v. United Techs. Corp., 610 F.3d 44, 51 (2d
+
+                                         43
+Cir. 2010) (internal citation omitted). The record evidence here provides no
+
+support for reading the business principles statements in conjunction with the
+
+conflicts disclosure. Accordingly, doing so was clear error.
+
+         Keeping in mind that a class certification genericness analysis pursuant to
+
+Goldman was, for the district court, and is, for us, new and uncharted territory, it
+
+is appropriate to pause to consider the implications of the error identified. In the
+
+normal course, that error would almost certainly require remand. Erroneously
+
+assessing a misrepresentation’s genericness would necessarily infect the ensuing
+
+mismatch inquiry—it would proceed from the wrong starting point.
+
+         However, the balance of the district court’s analysis, including its mismatch
+
+inquiry, centers on the conflicts disclosure. Apart from acknowledging that the
+
+business principles statements “equate roughly, in terms of genericness, to the
+
+Supreme Court’s prototype,” 8 In re Goldman, 579 F. Supp. 3d at 538, it did not
+
+meaningfully discuss them further. To be sure, the district court’s choice in focus
+
+is no fault of its own; throughout this litigation the conflicts disclosure has been
+
+center stage. Still, the district court acknowledged a gap in genericness even
+
+
+
+
+8   That protype: “we have faith in our business model.” Goldman, 141 S. Ct. at 1961.
+                                             44
+between the two sets of alleged misrepresentations—that is, that the conflicts
+
+disclosure is “quite a bit more specific in form and focus,” id. at 534, than the
+
+business principles statements. Plaintiffs likewise agree that their best shot at
+
+success is the conflicts disclosure; their counsel conceded at oral argument that,
+
+standing on its own, a claim based on the business principles statements would
+
+face a decidedly tough road to recovery. See Oral Arg. Audio at 1:07:16, Ark. Tchr.
+
+Ret. Sys. v. Goldman Sachs Grp., Inc (No 22-484). 9 In short, if the district court’s
+
+mismatch analysis, centered as it is on the conflicts disclosure, cannot withstand
+
+scrutiny—and, as explained below, it cannot—then plaintiffs’ claim based on the
+
+business principles statements must also fail. Accordingly, there is no need to
+
+remand for the district court’s reconsideration of the genericness of the business
+
+principles statements.
+
+      Conflicts Disclosure
+
+      As an initial matter, however, there is no merit to Goldman’s claim that, in
+
+labeling the conflicts disclosure as, essentially, less generic than the business
+
+principles statements, the district court similarly understated that statement’s
+
+
+
+9 Plaintiffs’ counsel acknowledged that “if this was a case just about the business
+principles, we would have a very, very significant problem.” Id.
+                                         45
+generic nature. Not so. The district court assessed the conflicts disclosure, and,
+
+again, found that it was “quite a bit more specific in form and focus” than the
+
+business principles statements. In re Goldman, 579 F. Supp. 3d at 534. Goldman
+
+insists that is not enough; it contends that the district court failed to meaningfully
+
+consider our materiality case law, which, it claims, would have spotlighted the
+
+generic nature of the conflicts disclosure.
+
+       It is true that Goldman gives courts a green light to assess a statement’s
+
+generic nature by referencing case law bearing on materiality. More specifically,
+
+Goldman permits courts to look to those cases for guidance as to whether, as a
+
+factual matter, courts have labeled comparable statements as generic.                     For
+
+example, our own materiality cases often feature claims based on a company’s risk
+
+disclosures, and our discussion in those cases often centers on whether the risk
+
+disclosures are sufficiently specific to evoke investors’ reliance. 10 Those cases have
+
+examined, on one end, a detailed description of a company’s environmental
+
+compliance efforts, recounting the company’s pollution abatement equipment,
+
+
+
+10See, e.g., Plumber & Steamfitters Loc. 773 Pension Fund v. Danske Bank A/S, 11 F.4th 90, 103
+(2d Cir. 2021); Singh v. Cigna Corp., 918 F.3d 57, 60 (2d Cir. 2019); Meyer v. Jinkosolar
+Holdings Co., 761 F.3d 245, 247–50 (2d Cir. 2014); ECA, Loc. 134 IBEW Joint Pension Tr. Of
+Chicago v. JP Morgan Chase Co., 553 F.3d 187, 205–06 (2d Cir. 2009).
+                                             46
+water treatment efforts, and around-the-clock environmental monitoring teams,
+
+Jinkosolar Holdings, 761 F.3d at 247, and, on the other, more generic representations
+
+that a company has “established policies and procedures to comply with
+
+applicable requirements,” Singh, 918 F.3d at 61.
+
+       Of course, the overarching question in those cases—materiality—differs
+
+from the price-impact analysis at issue here, yet both inquiries task courts with
+
+considering an alleged misrepresentation’s generic nature. Courts can look to
+
+those cases to answer whether a set of challenged statements are, as a matter of
+
+fact, generic.
+
+      Goldman complains that the district court failed to do that here.
+
+Again: not so. The district court made clear that it considered cases bearing on
+
+materiality to the extent they presented issues overlapping with the price impact
+
+analysis. See In re Goldman, 579 F. Supp. 3d at 535 n.17. We take the district court
+
+at its word. Goldman bemoans that the district court relegated that point to a
+
+footnote, but that provides no occasion to impose specific stylistic mandates on
+
+district courts as they navigate this tricky area of law.
+
+
+
+
+                                          47
+      III.   The district court’s price impact analysis was based on an erroneous
+             application of the inflation-maintenance theory.
+
+      Although its attack on the district court’s threshold inquiry regarding the
+
+generic nature of the conflicts disclosure is without merit, we agree with Goldman
+
+that, having conducted that factual assessment, the district court then erred in
+
+applying Vivendi’s inflation-maintenance theory to weigh the parties’ evidence
+
+regarding the extent to which that disclosure might, in practice, maintain
+
+Goldman’s stock price. Review of the district court’s factual findings is limited to
+
+clear error, but whether a legal standard—here, the inflation-maintenance
+
+theory—has been incorrectly applied to those findings is an issue of law to be
+
+reviewed de novo. See In re Initial Public Offerings Sec. Litig., 471 F.3d 24, 32 (2d Cir.
+
+2006) (“We will apply the abuse-of-discretion standard both to [the district
+
+court’s] ultimate decision on class certification as well as her rulings as
+
+to Rule 23 requirements,        bearing      in     mind       that      whether       an
+
+incorrect legal standard has been used is an issue of law to be reviewed de novo.”).
+
+      In this portion of its analysis, the district court began by crediting Goldman’s
+
+expert, Dr. Starks, who opined that the alleged misrepresentations were “unlikely,
+
+in a vacuum, to consciously influence investor behavior . . . .” In re Goldman, 579
+
+F. Supp. 3d at 534. Ultimately, however, the district court found Dr. Starks’
+                                           48
+opinion to be of “limited use[].” Id. It explained that “the proper measure of
+
+inflation maintenance by a company that chooses to speak ‘is not what might have
+
+happened had a company remained silent, but what would have happened if it
+
+had spoken truthfully.’” Id. (quoting In re Vivendi, 838 F.3d at 258).
+
+      Proceeding from that principle, the court credited “Dr. Finnerty’s analysis
+
+that truthful, contrary substitutes for the alleged misstatements would have
+
+impacted investors’ subsequent decision-making,” and found that “as Dr. Finnerty
+
+concluded, ‘[t]his is precisely what happened here when investors learned in April
+
+and June 2010 the details and severity of Goldman’s misconduct, and Goldman’s
+
+stock was devalued accordingly.’” Id. (quoting J.A. 2816). To the same tune, it
+
+faulted Goldman for failing to present evidence “purporting to demonstrate,
+
+under the test set forth in Vivendi, that if Goldman had replaced the alleged
+
+misstatements with the alleged truth about its conflicts, its stock price would have
+
+held fast.” Id. at 535.
+
+      Goldman      contends    that   the        district   court’s   rendition   of   the
+
+inflation-maintenance theory is overly expansive. Correct. Specifically, our cases
+
+applying the theory establish its limits; the district court’s interpretation pushed
+
+the inflation-maintenance theory well beyond them.
+
+                                            49
+          a. The inflation-maintenance theory under Vivendi, Waggoner, and
+             Goldman
+
+      Waggoner. Our recent application of the inflation-maintenance theory in
+
+Waggoner v. Barclays PLC highlights the tension at work with applying the
+
+inflation-maintenance theory to the facts of this case. There, in order to quell
+
+“concerns that high-frequency traders may have been front running” other traders
+
+on a specific Barclays trading platform, Barclays’ officers made numerous
+
+statements to assure investors the platform was “safe from” aggressive trading
+
+practices, and that it “was taking steps to protect” institutional investors on those
+
+platforms by monitoring and removing aggressive traders who violated the
+
+platforms’ special protections. 875 F.3d 79, 87 (2d Cir. 2017). In the end, upon the
+
+filing of a complaint by the New York Attorney General (the “NYAG Complaint”)
+
+alleging securities fraud under state law, investors learned that those
+
+representations were allegedly false because, according to the State, no special
+
+protections existed, and, in fact, Barclays favored rather than removed aggressive
+
+traders. Id. at 88.
+
+      Waggoner is particularly illuminating given the similarity between the
+
+corrective disclosure there and here; both took the form of an enforcement action.
+
+Unlike here, however, Waggoner presented a tight fit between corrective disclosure
+                                         50
+and misrepresentation: the NYAG Complaint targeted the same trading platform
+
+discussed by Barclays in their misleading statements, and took aim at the same or
+
+similar statements underlying the claims subsequently pressed by plaintiffs in
+
+Waggoner, alleging that those statements were false or misleading. Compare id. at
+
+87–88, with Summons and Complaint at 6, 8–11, People ex rel. Schneiderman v.
+
+Barclays Capital, Inc. et al., No. 451391/2014 (N.Y. Sup. Ct. June 25, 2014), Dkt. No. 1,
+
+2014 WL 2880709.       There was no question in Waggoner that the corrective
+
+disclosure directly implicated not just the same topic, but the alleged
+
+misstatements        themselves—a          notable       distinction      from        the
+
+misrepresentation-corrective disclosure relationship here.
+
+      Waggoner is therefore an easy inflation-maintenance case. The company’s
+
+affirmative false statements were expressly identified as such by the corrective
+
+disclosure. By expressly and specifically negating the alleged false statement, the
+
+truthful substitute for the lie was identified by the corrective disclosure itself.
+
+      Vivendi. The link between misstatement and disclosure was equally strong
+
+in Vivendi. There, the company’s repeated statements regarding its comfortable
+
+liquidity situation were later contradicted by a body of information—including
+
+several downgrades to its debt rating, public reports regarding the company’s lack
+
+                                           51
+of transparency about its large debt obligations, and, ultimately, the
+
+announcement that the company faced massive refinancing needs that would
+
+require a fire sale of assets—all of which revealed that its cash flow was anything
+
+but strong. See In re Vivendi, 838 F.3d at 235–37.
+
+      As in Waggoner, among the various disclosures identified by the plaintiffs in
+
+Vivendi were back-end reports or investigations expressly implicating the alleged
+
+misstatements. See Amended Complaint at ¶¶ 132, 146, In re Vivendi Universal,
+
+S.A. Sec. Litig., No. 02 Civ. 5571, (S.D.N.Y. July 8, 2009), ECF No. 904, 2009 WL
+
+2611656. Simply, the company’s lie that it had abundant cash flow was made
+
+apparent by a cascade of news revealing its crippling debt obligations. In both
+
+Vivendi and Waggoner, the strong link between misrepresentation and corrective
+
+disclosure provided sturdy ground to use the back-end price drop as a proxy for
+
+front-end inflation.    The back-end disclosures’ corrective effect upon the
+
+affirmative misrepresentations was obvious.
+
+      To be sure, not all the corrective disclosures in Vivendi expressly referenced
+
+the alleged misrepresentations.        For example, the company’s back-end
+
+announcement revealing its massive refinancing needs did not expressly recant its
+
+earlier statements regarding its comfortable cash situation. See In re Vivendi, 838
+
+                                         52
+F.3d at 237. Yet there can be little doubt that even those corrective disclosures
+
+directly rendered false the company’s affirmative misrepresentations. It is also
+
+true that Vivendi’s misrepresentation regarding its “strong free cash flow,” id. at
+
+235, or its “free operational cash flow . . . far above . . . objectives,” id., might
+
+plausibly be labeled more generic than, for example, later announcements from
+
+the company describing the company’s specific refinancing needs. We do not
+
+suggest that the inflation-maintenance theory requires a precise match. It may
+
+frequently be the case that what is corrective about a “corrective disclosure” is
+
+situated among details which, in the aggregate, make for a somewhat more
+
+specific back-end disclosure.
+
+      And yet, Vivendi accounts for that possibility.        Its application of the
+
+back-end—front-end inference rested on a finding that, had the company spoken
+
+truthfully regarding its debt problems at an equally generic level, the market would
+
+have reacted. We described, as a truthful substitute for the company’s “rosy
+
+picture of its liquidity state,” the “misgivings its executives were sharing behind
+
+the scenes,” which included statements—less specific than the corrective
+
+disclosure news—that the company was in “danger” of a downgrade, or that its
+
+liquidity situation was “tense.” Id. at 235, 258. Vivendi therefore directs that where
+
+                                         53
+the corrective disclosures do not expressly identify the alleged misrepresentation
+
+as false (as in Waggoner), the “truthful substitute” should align in genericness with
+
+the alleged misrepresentation. 11
+
+       Goldman. The Supreme Court’s guidance in Goldman adds more to the mix.
+
+Even under a proper application of Vivendi’s equally-generic-truthful-substitute
+
+formula, plaintiffs might still attempt to (a) identify a highly specific corrective
+
+disclosure, and (b) identify and extract a generic truth purportedly embodied
+
+therein, in order to (c) craft a link between a generic misrepresentation and specific
+
+corrective disclosure. For example, plaintiffs could point to news detailing a
+
+company’s commission of securities fraud, and then claim that nestled therein was
+
+the more generic revelation that the company’s earlier, general statement that it
+
+aims to act lawfully was a lie. From there, they might still contend that the
+
+back-end price drop is an appropriate proxy for front-end inflation.
+
+
+
+
+11To be sure, with respect to the loss causation element of securities fraud—that is, the
+causal link between the alleged misconduct and the loss ultimately suffered by plaintiff—
+the “basic [] calculus” remains the same whether the truth is revealed in “a corrective
+disclosure describing the precise fraud” or through “events constructively disclosing the
+fraud.” Vivendi, 838 F.3d at 262. Yet the question here—whether there is a basis to infer
+that the back-end price equals front-end inflation—is a different question than loss
+causation, and, in light of Goldman, requires a closer fit (even if not precise) between the
+front- and back-end statements.
+                                            54
+      Goldman dispels that notion. The Court explained that a gap in genericness
+
+between misrepresentation and corrective disclosure reduces the likelihood that
+
+investors would understand the “specific disclosure [to have] actually corrected
+
+the generic misrepresentation,” Goldman, 141 S. Ct. at 1961, and, in such a scenario,
+
+the back-end–front-end inference starts to break down. In other words, although
+
+Vivendi somewhat solves for a back-end–front-end space in genericness by asking
+
+whether an equally generic, truthful substitute would have dissipated inflation,
+
+Goldman requires that any gap among the front- and back-end statements as
+
+written be limited. 12
+
+          b. The district court erroneously applied Vivendi’s “truthful
+             substitute” inquiry
+
+       The Goldman-Vivendi-Waggoner trio spotlights the district court’s error
+
+below.    First, unlike both Vivendi and Waggoner, not one of the corrective
+
+disclosures here expressly identifies either the business principles statements or
+
+conflicts disclosure. Second, the district court acknowledged a considerable gap
+
+
+
+
+12Of course, Goldman does not call into question Vivendi itself. There, any mismatch in
+specificity between the misrepresentations and disclosures was minimal. Vivendi’s
+affirmative, repeated representations regarding its cushy cash flow were directly
+contradicted by news portraying its cash situation as anything but that. See In re Vivendi,
+838 F.3d at 234–36.
+                                            55
+in specificity between the corrective disclosures and alleged misrepresentations.
+
+Therefore, the district court should have asked “what would have happened if [the
+
+company] had spoken truthfully,” In re Vivendi, 838 F.3d at 258, at an equally generic
+
+level. However, in what amounts to the crux of the district court’s misstep, the
+
+district court allowed the “details and severity,” In re Goldman, 579 F. Supp. 3d at
+
+534, of the corrective disclosure to do the work of proving front-end price impact,
+
+notwithstanding that the front-end statements are, according to the district court’s
+
+own findings, “comfortabl[y]” more generic than the back-end disclosures, id. at
+
+538. The district court’s formulation of Vivendi outpaces Vivendi itself. It also fails
+
+to heed Goldman’s cautionary guidance that the back-end—front-end inference
+
+starts to “break down,” Goldman, 141 S. Ct. at 1961, when there is a mismatch in
+
+genericness at the front and back ends.
+
+      Utilizing a back-end price drop as a proxy for the front-end
+
+misrepresentation’s price impact works only if, at the front end, the
+
+misrepresentation is propping up the price—that is, in the district court’s words,
+
+if “Goldman’s alleged misstatements reinforced [the market’s] misconception.” In
+
+re Goldman, 579 F. Supp. 3d at 536. In other words, reinforcement requires some
+
+indication that investors relied upon the conflicts disclosure as written, and, here,
+
+                                          56
+the district court credited Dr. Starks’ opinion that investors did not. Although the
+
+theory’s starting point is that a misrepresentation need not be “associated with an
+
+uptick in inflation,” Vivendi, 838 F.3d at 259, a misrepresentation must actually
+
+maintain inflation; it must, in other words, hold its weight in propping up the
+
+price.
+
+         Consider, for example, an investor who reads certain statements in a
+
+company’s Form 10-K, and then thinks “Things seem to be going well; I think I’ll
+
+hold onto my shares.” Although the statements did not cause that investor to buy
+
+more stock, they informed or influenced her decision. And if the company’s
+
+statements are later revealed as false, liability might follow not because the
+
+statement caused new or more inflation—that is, caused investors to purchase
+
+more stock (thereby increasing demand and, ultimately, raising the share price)—
+
+but instead because the statement maintained inflation, or influenced the
+
+investor’s decision to hold tight.
+
+     Viewed against that backdrop, the district court’s finding that the challenged
+
+“statements were [not] consciously relied upon, in the moment, by investors
+
+evaluating Goldman,” In re Goldman, 579 F. Supp. 3d at 535, begs the following
+
+question: how, then, can it be that the statement impacted Goldman’s stock price?
+
+                                        57
+The district court’s answer: because they would be relied upon had Goldman
+
+disclosed “the details and severity of Goldman’s misconduct,” id. at 534, which no
+
+one doubts did impact the price. The details and severity of the misconduct, it
+
+says, should be substituted in place of the challenged, more generic statements.
+
+Again, that substitution stretches the “back-end price drop equals front-end
+
+inflation” inference beyond its breaking point—and certainly beyond how we’ve
+
+previously construed it. Vivendi requires that the “truthful substitute” align in
+
+genericness with the alleged misrepresentation. Here, however, the district court’s
+
+substitute looks nothing like the original.
+
+     Likewise, Goldman requires that courts pay special attention to mismatches
+
+in specificity between a misstatement and corrective disclosure.           But by
+
+reimagining a more specific misstatement, the district court failed to sufficiently
+
+follow that guidance. Again, the district court found a “comfortable” gap in
+
+genericness between the alleged misstatements and subsequent corrective
+
+disclosures, but then found that it was not “boundless” given the fact that both
+
+implicated conflicts of interest at Goldman and “Goldman’s infrastructure for
+
+managing them.” Id. at 538. It recognized, in other words, that the corrective
+
+disclosures bore on the same subject—conflicts of interest management—but did
+
+                                         58
+not expressly or otherwise clearly refer to Goldman’s cautionary language
+
+regarding conflicts in the “Risk Factors” portion of its 10-K.
+
+     Proceeding from that match in subject matter, the district court moved
+
+forward with its Vivendi analysis by finding that, if Goldman had disclosed in its
+
+Risk Factors the “details and severity of Goldman’s misconduct” as set forth in the
+
+Abacus Complaint, a price drop would have followed. However, again, requiring
+
+only a general front-end—back-end subject matter match to, effectively, concoct a
+
+highly specific truthful substitute does not meaningfully account for the Supreme
+
+Court’s guidance in Goldman.
+
+          c. Our materiality cases contextualize the district court’s
+             misapplication of inflation-maintenance theory, and the
+             heightened relevance of Goldman’s guidance in this case.
+
+      Nor, in any event, does securities law permit plaintiffs to target generic risk
+
+disclosures on the theory that, had the risk disclosures contained a detailed
+
+admission of severe wrongdoing, a price drop would follow.                There is no
+
+“affirmative duty to disclose any and all material information.” Vivendi, 838 F.3d
+
+at 239. 13 Instead, “disclosure is required when necessary to make statements
+
+
+
+13Vivendi explains: “Absent an actual statement, a complete failure to make a statement—
+in other words, a ‘pure omission’—is actionable under the securities laws only when the
+
+                                          59
+made, in light of the circumstances under which they were made, not misleading.”
+
+Jinkosolar Holdings, 761 F.3d at 250 (internal citations and alterations omitted). But
+
+the duty to disclose more is triggered only when that which is disclosed is
+
+sufficiently specific to evoke a reasonable investor’s reliance.       See, e.g., Caiola v.
+
+Citibank, N.A., 295 F.3d 312, 331 (2d Cir. 2002).
+
+      For example, in ECA shareholders alleged JP Morgan made numerous
+
+misrepresentations in its annual report to shareholders regarding its “highly
+
+disciplined” risk management process. 553 F.3d at 205. The plaintiffs claimed
+
+those statements were revealed as false in light of, in their view, the bank’s poor
+
+financial discipline and the bank’s liability arising from the infamous WorldCom
+
+and Enron scandals. See id. at 205–06. In rejecting plaintiffs’ claim, the court in
+
+ECA held that “the statements are too general to cause a reasonable investor to rely
+
+upon them . . . these statements did not, and could not, amount to a guarantee that
+
+its choices would prevent failures in its risk management.” Id. at 206. Indeed, since
+
+ECA we have reaffirmed that a company’s 10-K disclosures regarding, for
+
+example, its compliance efforts “can be materially misleading if ‘the descriptions
+
+
+
+
+corporation is subject to a duty to disclose the omitted facts.” 838 F.3d at 239 (internal
+citations omitted). There is no claim in this case that Goldman was under such a duty.
+                                           60
+of compliance efforts’ are ‘detailed’ and ‘specific.’” Plumber & Steamfitters Loc. 773
+
+Pension Fund, 11 F.4th at 103 (quoting Singh, 918 F.3d at 63).
+
+      In such cases, the disclosure itself acts as a gatekeeper: courts ask whether
+
+investors would even rely on that disclosure—as written—such that they would
+
+be misled by an omission. Were it otherwise, securities plaintiffs could find a road
+
+to success in the rearview mirror: they would need only find negative news, such
+
+as the revelation that a company may have committed securities fraud, and then
+
+point to any previous disclosure from the company which touches upon a similar
+
+subject, such as that company’s commitment to complying with the law—no
+
+matter how generic that statement is. Asking whether the disclosure as written is
+
+specific enough to evoke investor reliance avoids turning securities claims into a
+
+game of litigation-by-hindsight.
+
+      These risk-disclosure cases highlight why the Supreme Court’s concerns in
+
+Goldman loom especially large here. As in ECA, plaintiffs contend that having
+
+generally discussed risks related to conflicts of interest, Goldman should have
+
+divulged the details surrounding its mismanagement of conflicts with respect to,
+
+for example, the Abacus transaction.          In failing to do so, plaintiffs claim,
+
+Goldman’s risk disclosure was misleading by omission. See J.A. 52, 477. However,
+
+                                         61
+as explained above, such claims require special attention to the generic nature of
+
+the disclosure. Again: the duty to disclose more is triggered only where that which
+
+is disclosed is sufficiently specific.
+
+      Of course, in ECA and its progeny, analysis of the level of detail in the
+
+disclosure answered whether, as written, the disclosure was material. Class
+
+certification litigation provides no forum to relitigate materiality. See Amgen, 568
+
+U.S. at 468. But the Supreme Court’s guidance in Goldman directs courts to
+
+consider issues bearing on materiality to the extent those issues overlap with the
+
+price impact analysis, and with respect to genericness concerns, the overlap is
+
+substantial. In cases based on the theory plaintiffs press here, a plaintiff cannot
+
+(a) identify a specific back-end, price-dropping event, (b) find a front-end
+
+disclosure bearing on the same subject, and then (c) assert securities fraud, unless
+
+the front-end disclosure is sufficiently detailed in the first place. The central focus,
+
+in other words, is ensuring that the front-end disclosure and back-end event stand
+
+on equal footing; a mismatch in specificity between the two undercuts a plaintiff’s
+
+theory that investors would have expected more from the front-end disclosure.
+
+      Goldman’s guidance involves similar concerns. If a stock price decline
+
+follows a back-end, highly detailed corrective disclosure—containing, for
+
+                                          62
+example,     “hard . . . incriminatory”   evidence    regarding    the   company’s
+
+wrongdoing, In re Goldman, 579 F. Supp. 3d at 532—courts must be skeptical
+
+whether the more generic, front-end statement propped up the price to the same
+
+extent. As in ECA, Vivendi does not authorize plaintiffs to beef up a generic
+
+disclosure with a healthy dose of detail and thereby transform it into something
+
+that, as then consumed by investors, it was not.
+
+           d. Guidance moving forward
+
+      Accordingly, a searching price impact analysis must be conducted where
+
+(1) there is a considerable gap in front-end–back-end genericness, as the district
+
+court found here, (2) the corrective disclosure does not directly refer, as it did in
+
+Waggoner, to the alleged misstatement, and (3) the plaintiff claims, as plaintiffs
+
+claim here, that a company’s generic risk-disclosure was misleading by omission.
+
+      In such cases, case law bearing on materiality can help guide courts in
+
+considering, as a factual matter, the generic nature of the alleged
+
+misrepresentation. Where a gap exists, courts should ask, under Vivendi, whether
+
+a truthful—but equally generic—substitute for the alleged misrepresentation
+
+would have impacted the stock price.               Importantly, unlike the classic
+
+inflation-maintenance case—where the back-end price drop is itself the evidence
+
+
+                                          63
+(albeit indirect) of the front-end price impact—the value of the back-end proxy,
+
+given the gap in specificity, will be diminished.
+
+      As such, courts should consider other indirect evidence of price impact,
+
+directed at either the inflation-maintaining nature of the generic misstatement, or
+
+the price-dropping capacity of an equally generic corrective disclosure.
+
+Ultimately, a court must determine not just whether the defendant spoke on topics
+
+generally important to investment decision-making, but instead whether the
+
+defendant’s generic statements on that topic were important in that regard. 14 For
+
+instance, pre- or post-disclosure discussion in the market regarding a generic
+
+front-end misstatement can be a useful indicator of its inflation-maintaining
+
+
+
+14Indeed, litigants already appear to be offering this kind of evidence. For example, in
+Ferris v. Wynn Resorts Ltd., 2023 WL 2337364 (D. Nev. Mar. 1, 2023), the defendants
+attempted to exploit a front-end back-end mismatch. At the front end, defendants denied
+allegations of misconduct by the company’s former chief executive office. Back-end news
+detailing an alleged decades-long pattern of sexual harassment by the executive was
+followed by a price decline. Defendants argued that because neither their denials nor the
+allegations specifically referenced sexual misconduct, the back-end news bearing
+specifically on sexual harassment could not be used as a proxy for front-end inflation.
+In rejecting that argument, the district court pointed to evidence that “the media, market
+participants, and the defendants themselves immediately made the connection between
+the revelations” and the allegations. Id. at *10. The district court identified post-
+disclosure commentary specifically discussing both the back-end news, as well as the
+front-end misstatements. See id. We express no view on the district court’s analysis, but
+mention that case simply to note the kind of post-Goldman evidence parties are offering
+at the class certification stage.
+                                           64
+capacity, as well as of the fact that a truthful, equally generic substitute would
+
+likewise not go unnoticed by the market as an inflation dissipator.
+
+       Much of this analysis fits comfortably within the prototypical class
+
+certification skirmish.    In claims proceeding under the inflation-maintenance
+
+theory, plaintiffs relying on the Basic presumption will likely face opposition from
+
+defendants, who will attempt to rebut that presumption by demonstrating that the
+
+alleged misrepresentations did not impact share price. Parties will then join issue
+
+with respect to the generic nature of both the misstatements and corrective
+
+disclosures, whether they match in specificity, and, if not, whether truthful,
+
+equally generic substitutes for the challenged statements would have impacted the
+
+stock price. Evidentiary submissions are likely to follow. Ultimately, the court
+
+must still find whether the defendants have demonstrated, by a preponderance of
+
+the evidence, that the alleged misstatements did not in fact impact the price of the
+
+stock. 15
+
+
+
+
+15It may be true that class certification litigation following Goldman is likely to involve
+evidence that, at the summary judgment stage, might also be relevant to materiality. But
+that’s by design; Goldman directs courts to consider “all record evidence relevant to price
+impact, regardless whether that evidence overlaps with materiality or any other merits
+issue.” Goldman, 141 S. Ct. at 1961.
+                                            65
+      Although, of course, the district court did not have the benefit of our
+
+analysis, the parties submitted a mountain of evidence that bears directly on
+
+whether an equally generic substitute for the conflicts disclosure would have
+
+dissipated the inflation allegedly maintained by that statement, making remand
+
+for further factfinding unnecessary.
+
+      For example, the district court credited Dr. Finnerty’s analysis of the news
+
+coverage and commentary surrounding the alleged corrective disclosures, which
+
+it found “convincingly links Goldman’s post-disclosure plight back to the alleged
+
+misstatements.” In re Goldman, 579 F. Supp. 3d at 536. But, while this commentary
+
+certainly touches on the subject of conflicts of interest and suggests that the
+
+management of them is important, it does not suggest that the market relied on the
+
+conflicts statements to assess Goldman’s conflicts management procedures.
+
+      To put a finer point on it, Dr. Finnerty cited a pre-disclosure investor report
+
+providing that “Goldman is very careful” about conflicts and “actually has a
+
+full-time partner monitoring” conflicts “according to [a Goldman executive],”
+
+J.A. 1228 (emphasis added)—but not according to the conflicts disclosure.
+
+Similarly, a pre-corrective disclosure 2007 Merrill Lynch report offered by
+
+plaintiffs says that the “consistency with which the firm has avoided crossing the
+
+                                         66
+line and damaging its reputation is such that it must be doing something right”
+
+with respect to managing conflicts. J.A. 782. But there is no indication that the
+
+analyst drew that conclusion from the conflicts disclosure—nor could it, as the
+
+conflicts disclosure says nothing about how Goldman manages its conflicts other
+
+than through “extensive procedures.” That same article says that “the conflict
+
+management process is clearly taken extremely seriously at the firm, since it is
+
+viewed as not just a by-product but a key pillar of the firm’s franchise business.”
+
+J.A. 782. Yet there is no discussion in the conflicts disclosure of “key pillars.”
+
+      On the same tack, the pre-disclosure Merrill Lynch report says that “the scale
+
+and growth of its client trading and investment-banking franchise make it clear that []
+
+conflicts have overall been well managed.” J.A. 1228, 4825 (emphasis added). The
+
+report itself suggests that the analyst relied on something other than the conflicts
+
+disclosure.
+
+      With respect to the post-disclosure Wall Street Journal article, the article notes
+
+that CDOs are “riddled with potential conflicts,” and that “[t]his territory is
+
+especially dangerous for Goldman because of the perception that it is an elite
+
+adviser and an elite trader that can do both simultaneously while managing the
+
+
+
+
+                                          67
+conflicts to the satisfaction of its clients.” J.A. 3773. But again, nothing suggests
+
+that the market came to that realization by relying on the conflicts disclosure.
+
+      In short, although market commentary can provide insight into the kind of
+
+information investors would rely upon in making investment decisions—and
+
+therefore can serve as indirect evidence of price impact—commentary touching
+
+upon only the same subject matter, given the contours of this case as discussed
+
+above, cannot be enough. As we have previously put it, albeit in another context:
+
+“[p]laintiffs conflate the importance of a bank’s reputation for integrity with the
+
+materiality of a bank’s statements regarding its reputation.        While a bank’s
+
+reputation is undeniably important, that does not render a particular statement by
+
+a bank regarding its integrity per se material.” ECA, 553 F.3d at 206.
+
+      On the other side of the ledger, defendants managed to sever the link
+
+between back-end price drop and front-end misrepresentation.               Goldman
+
+introduced Dr. Starks’ analysis of 880 analyst reports published during the Class
+
+Period (both before and after the filing of the Abacus Complaint), none of which
+
+reference the conflicts disclosure.   J.A. 2617–18.   Likewise, the pre-disclosure
+
+reports identified by Dr. Gompers, even if falling short as alternative corrective
+
+disclosures, touch on the subject of conflicts of interest (and do so in more generic
+
+                                         68
+terms), but do not expressly nor impliedly refer to the conflicts disclosure. As with
+
+the market commentary identified by Dr. Finnerty, the pre-disclosure reports
+
+might suggest that the market cared generally about how mismanaged conflicts
+
+could damage Goldman’s reputation, but they do not suggest that investors were
+
+misled by Goldman’s conflicts disclosure. Indeed, as provided above, the district
+
+court found that investors would not consciously rely on the conflicts disclosure
+
+in making investment decisions. 16
+
+     In summary, a searching review of the record leaves us with the firm
+
+conviction that there is an insufficient link between the corrective disclosures and
+
+the alleged misrepresentations.           Defendants have demonstrated, by a
+
+preponderance of the evidence, that the misrepresentations did not impact
+
+Goldman’s stock price, and, by doing so, rebutted Basic’s presumption of reliance.
+
+
+
+
+16At most, plaintiffs identify a single post-disclosure news article expressly mentioning
+the business principles statements. See J.A. 2317. Yet, as provided above, the district
+court found that those statements, which it characterized as platitudes, would not have
+been relied on by investors absent inclusion of the details and severity in the Abacus
+Complaint. The Vivendi error remains. Moreover, defendants offered 880 pre- and
+post-disclosure analyst reports which make no mention of the business principles
+statements. Finally, the considerable front-end–back-end genericness gap is, based on
+the district court’s findings, even more pronounced with respect to the business
+principles statements. Against that backdrop, the article fails to do the work plaintiffs
+ask of it. In other cases—without that backdrop—it might.
+                                           69
+The district court clearly erred in concluding otherwise, and therefore abused its
+
+discretion in certifying the shareholder class.
+
+          e. The concurrence
+
+      Judge Sullivan criticizes the above analysis as “circuitous.” Concurring Op.
+
+at 7–8. This case has a long and difficult history. The parties have substantially
+
+changed their arguments along the way. In Judge Sullivan’s view, the linchpin
+
+remains the 36 dates of pre-disclosure reporting and the accompanying expert
+
+testimony. We’ll agree to disagree on that score. In any event, this is a complex
+
+case and whatever analytical approaches might be warranted in future cases
+
+remains to be seen. However, we take no issue with Judge Sullivan’s observation
+
+regarding the difficult task of thinking about materiality but not ruling on it. Not
+
+easy stuff. Someday the Supreme Court will revisit the issue. In the meantime,
+
+we have work to do.
+
+
+
+
+                                  CONCLUSION
+
+      We REVERSE the district court’s class certification order, and REMAND
+
+with instructions to decertify the class.
+
+
+
+
+                                            70
+RICHARD J. SULLIVAN, Circuit Judge, concurring in the judgment:
+
+      I join the majority in its bottom-line conclusion that the district court
+
+improperly granted class certification in this long-running case. Nevertheless,
+
+I disagree with Part I of the majority opinion, since my position all along has been
+
+that the district court committed clear error in assessing Goldman’s expert
+
+evidence. I likewise disagree with Part II of the majority opinion, given my view
+
+that the district court also clearly erred in evaluating the “generic nature” of both
+
+Goldman’s     business-principles    statements    and    its   conflicts   disclosures.
+
+Finally, while I concur in the majority’s ultimate conclusion that the district court
+
+erred in its class-certification ruling, I fear that the majority’s approach needlessly
+
+complicates what, to my mind, should be a straightforward balancing of the
+
+several factors that bear on the question of reliance. Let me explain why.
+
+                                         I.
+
+      When this case came before us in 2020, I took the position that we should
+
+reverse the lower court’s class-certification ruling. See Ark. Tchr. Ret. Sys. v.
+
+Goldman Sachs Grp., Inc. (ATRS II), 955 F.3d 254, 275, 279 (2d Cir. 2020) (Sullivan,
+
+J., dissenting). This was because, in my view, “Defendants offered persuasive and
+
+uncontradicted evidence that Goldman’s share price was unaffected by earlier
+disclosures of Defendants’ alleged conflicts of interest,” which thereby “sever[ed]
+
+the link between the alleged misrepresentation and the price paid by Plaintiffs for
+
+Goldman shares.” Id. at 275, 278–79 (internal quotation marks and alterations
+
+omitted). Back then, I felt compelled to credit Dr. Paul Gompers’s testimony
+
+demonstrating that “prior disclosures – as set forth in [thirty-six] separate news
+
+reports over as many months – had no impact on Goldman’s stock price,” id. at
+
+278, and Dr. Stephen Choi’s testimony that “the stock drop following the
+
+corrective disclosures was attributable” entirely to the “news that the SEC and DOJ
+
+were pursuing enforcement actions against Goldman,” id. at 279. The weight of
+
+this expert evidence, “coupled with” “the generic quality of Goldman’s alleged
+
+misstatements,” persuaded me that Goldman had succeeded in rebutting the
+
+presumption of reliance outlined in Basic Inc. v. Levinson, 485 U.S. 224 (1988).
+
+Id. at 278–79.
+
+      After taking up this case, the Supreme Court did not ultimately determine
+
+whether Goldman had rebutted all evidence of price impact. See Goldman Sachs
+
+Grp., Inc. v. Ark. Tchr. Ret. Sys., 141 S. Ct. 1951, 1961, 1963 (2021). It nevertheless
+
+instructed that, in “assessing price impact at class certification, courts should be
+
+open to all probative evidence on that question – qualitative as well as quantitative
+
+
+
+                                          2
+– aided by a good dose of common sense.” Id. at 1960–61 (internal quotation marks
+
+omitted).
+
+      In light of the Supreme Court’s guidance, we agreed that remand was
+
+appropriate so that the district court could reassess the price-impact evidence
+
+relating to the allegedly false statements. First, we acknowledged that the district
+
+court was required “to take into account all record evidence relevant to price
+
+impact, including the generic nature of Goldman’s statements.” Ark. Tchr. Ret. Sys.
+
+v. Goldman Sachs Grp., Inc. (ATRS III), 11 F.4th 138, 143 (2d Cir. 2021)
+
+(internal quotation marks omitted). Second, we impressed upon the district court
+
+the need to consider the report of Goldman’s expert, Dr. Laura Starks, “which
+
+focused on the generic nature of Goldman’s statements.” Id. And third, we
+
+recognized that the district court should consider not only “expert testimony,” but
+
+also apply “common[-]sense” reasoning to “assess all the evidence of price
+
+impact.” Id. (internal quotation marks omitted). I agreed to remand the case,
+
+believing that each of these factors reinforced my prior conclusion that Goldman
+
+had rebutted all evidence of price impact.
+
+
+
+
+                                         3
+                                       II.
+
+      Now that the district court has certified the class yet again, the majority
+
+rightfully concludes that the latest class-certification order should be reversed
+
+because Goldman “rebutted Basic’s presumption of reliance” by “demonstrat[ing],
+
+by a preponderance of the evidence, that the [alleged] misrepresentations did not
+
+impact Goldman’s stock price.” Maj. Op. at 69. While I agree with this ultimate
+
+conclusion, I worry that the majority has charted a meandering course that, in
+
+addition to contradicting my earlier conclusions, obscures what should be an
+
+uncomplicated inquiry. That is, we are to weigh all types of evidence of price
+
+impact – including the “generic nature” of the disputed statements, “evidence . . .
+
+relevant to . . . materiality,” and “all [other] probative evidence” – whether
+
+presented as “expert testimony” or revealed as a simple matter of “common
+
+sense.” Goldman, 141 S. Ct. at 1960.
+
+                                        A.
+
+      As one might expect, my longstanding position in this case is fully at odds
+
+with Part I of the majority opinion, which concludes that the district court did not
+
+clearly err in rejecting the testimony of Dr. Choi and Dr. Gompers. On this point,
+
+not much more needs to be said beyond what has already been covered in my
+
+prior dissent. See ATRS II, 955 F.3d at 275–79 (Sullivan, J., dissenting). It simply
+
+                                         4
+bears noting that Dr. Choi’s event study established that the drop in Goldman’s
+
+share price following a corrective disclosure was entirely attributable to the
+
+announcement of an SEC enforcement action against the company. Moreover, as
+
+Dr. Gompers recounted without contradiction, the releases of thirty-six news
+
+reports, beginning three years before the first corrective disclosure, revealed
+
+Goldman’s conflicts of interest (including ones concerning the Hudson and
+
+Abacus transactions specifically), and yet had no measurable impact on
+
+Goldman’s share price. Based on this expert testimony, my view was – and
+
+remains – that Goldman “rebut[ted]” the “presumption of reliance” by
+
+“demonstrating that news of the truth credibly entered the market” through these
+
+prior disclosures and “dissipated the effects of [any] prior misstatements.” Amgen
+
+Inc. v. Conn. Ret. Plans & Tr. Funds, 568 U.S. 455, 481–82 (2013) (internal quotation
+
+marks and alterations omitted); see also Halliburton Co. v. Erica P. John Fund, Inc.
+
+(Halliburton II), 573 U.S. 258, 279–84 (2014). 1
+
+
+
+
+1 The majority correctly recognizes that, in my view, the “linchpin” of Goldman’s defense
+“remains the [thirty-six] dates of pre-disclosure reporting and the accompanying expert
+testimony.” Maj. Op. at 70. While this may be true, it is the overwhelming evidence offered by
+Goldman in its totality – that is, these prior disclosures, the exceedingly generic nature of the
+alleged misstatements, its mismatch with the genericness of the more specific corrective
+disclosures, and the evidence relevant to materiality – that makes this truly not a “close case[].”
+Goldman, 141 S. Ct. at 1970 (Gorsuch, J., concurring).
+
+                                                5
+                                               B.
+
+       I also disagree with Part II of the majority opinion, which finds “no merit to
+
+Goldman’s claim that . . . the district court . . . understated [the conflicts]
+
+statement[s’] generic nature.” Maj. Op. at 45–46. 2 For starters, common sense tells
+
+us that the alleged misstatements in Goldman’s Form 10-K filings were highly
+
+generic, as they merely stated that Goldman “ha[d] extensive procedures and
+
+controls that [were] designed to identify and address conflicts of interest,” while
+
+warning that “a failure to appropriately identify and deal with conflicts of interest
+
+could adversely affect [the company’s] business” and lead to “litigation,”
+
+“enforcement actions,” and “damage[]” to its “reputation.” J. App’x at 3278.
+
+According to the district court, this language attested to “Goldman’s specific
+
+approach to conflicts management” and its “sufficient conflicts procedures.”
+
+Sp. App’x at 23, 26–27 (emphasis added). And while the majority avoids reversal
+
+of this finding by insisting that it was not clearly erroneous, I am still convinced
+
+that such exceptionally “general” statements were not capable of “affect[ing]” the
+
+
+
+
+2I concur with the majority that the district court clearly erred in evaluating the genericness of
+the business-principles statements. Accordingly, my concurrence is limited to a discussion of the
+conflicts-of-interest statements that Goldman made in its Form 10-K filings.
+
+                                                6
+“price” of Goldman’s “securit[ies].” Goldman, 141 S. Ct. at 1960 (internal quotation
+
+marks omitted).
+
+       Indeed, when placed side-by-side, these Form 10-K statements and the
+
+corrective disclosures are a study in contrasts. Unlike the Form 10-K statements,
+
+the corrective disclosures – relating to the selection of the underlying assets for the
+
+Abacus CDO by Paulson & Co. and the purchases of the Hudson CDO by
+
+hedge-fund Dodona I LLC – were far more specific, given that they referred to
+
+particular    transactions,   financial   products,   and    industry    participants.
+
+Accordingly, “[a] good dose of common sense” leads to the obvious conclusion
+
+that the Form 10-K statements were highly “generic,” the corrective disclosures
+
+were appreciably more “specific,” and the “mismatch” between the “contents” of
+
+the two was striking. Id. at 1960–61 (internal quotation marks omitted).
+
+                                          C.
+
+       To be clear, my disagreement with Parts I and II of the majority opinion
+
+extends beyond these specific findings about Goldman’s price-impact experts and
+
+the “generic nature” of the statements at issue; it also goes to the heart of the
+
+majority opinion’s approach in assessing reliance under the Basic presumption at
+
+class certification.
+
+
+
+                                           7
+       For one thing, the majority’s stepwise consideration of Goldman’s expert
+
+testimony and the “generic nature” of the statements is difficult to square with
+
+existing precedents, which have never required courts to consider these
+
+price-impact factors in isolation. See, e.g., Halliburton II, 573 U.S. at 279–282, 284;
+
+Goldman, 141 S. Ct. at 1960–61. In the same vein, the circuitous path taken by the
+
+majority – i.e., first rejecting Goldman’s expert evidence, then affirming in part the
+
+district court’s genericness and materiality analyses (without addressing
+
+mismatch), before eventually doubling back to reach the opposite conclusion after
+
+considering mismatch and materiality in the context of our inflation-maintenance
+
+precedents – strikes me as unnecessary and overthinks what, in my view, was a
+
+relatively straightforward directive from the Supreme Court to assess “all
+
+probative evidence” of price impact. 3 Goldman, 141 S. Ct. at 1960. Finally, to the
+
+extent that the majority implies that a more “searching” price-impact analysis is
+
+required for inflation-maintenance cases only, Maj. Op. at 63, I strongly disagree.
+
+Based on my reading of the Supreme Court’s decision, courts must apply the
+
+
+
+3 As but one example, the majority purports to stand behind the district court’s materiality
+analysis in Part I, where it “t[ook] the district court at its word” “that it considered cases bearing
+on materiality to the extent they presented issues overlapping with . . . price impact,” only to later
+reverse course in Part III and observe during its discussion of the inflation-maintenance theory
+that our materiality precedents do in fact indicate that a reasonable investor would not rely upon
+the alleged misstatements. Compare Maj. Op. at 45–47, with id. at 59–62.
+
+                                                  8
+genericness, mismatch, and materiality analyses to all questions of reliance, and
+
+not just to ones related to the inflation-maintenance theory.
+
+                                          D.
+
+      I offer a final observation, not as a criticism of the majority opinion, but
+
+simply as an acknowledgment of the predicament that the Supreme Court has
+
+created for lower courts tasked with assessing reliance at the class-certification
+
+stage of securities actions like this one. In the span of a decade, the Supreme Court
+
+has held that defendants may not challenge materiality at class certification,
+
+Amgen, 568 U.S. at 480–82, while also acknowledging that materiality evidence
+
+may be introduced to rebut price impact and reliance, Goldman, 141 S. Ct. at
+
+1960–61. This instruction places district courts in a peculiar position.
+
+      As an initial matter, it’s hard to imagine how class-wide reliance based on
+
+the Basic presumption can be established under Federal Rule of Civil Procedure 23
+
+without consideration of the statements’ materiality.         To be sure, proof of
+
+materiality for class-certification purposes is not needed because plaintiffs’
+
+materiality claims all rise and fall in unison, leaving no room for individualized
+
+concerns to predominate over class ones. See Amgen, 568 U.S. at 459–60. This is
+
+logical enough. That said, the inescapable reality is that plaintiffs must also satisfy
+
+class-certification requirements under Rule 23 for the element of reliance. See id.
+
+                                          9
+at 466–67, 473.    Crucially, the Basic presumption is appropriate only if the
+
+“fraud-on-the-market theory” holds true – that is, “investors” “rel[ied] on the
+
+market price’s integrity” and material statements were readily incorporated into
+
+share prices in an “efficient market.” Id. at 462–63, 466–67. Since, by definition,
+
+only material statements are reflected in market prices, a showing of materiality at
+
+the class-certification stage is needed – not to answer the merits question of
+
+materiality – but to satisfy a precondition to the very fraud-on-the-market theory
+
+that props up the Basic presumption of reliance. See id. at 490–91 (Thomas, J.,
+
+dissenting).
+
+      It is difficult to conceive how a statement that is immaterial under an
+
+objective “reasonable[-]investor” standard could ever be relied upon by rational
+
+investors. Basic, 485 U.S. at 231–32; see also Louis Loss et al., Fundamentals of
+
+Securities Regulation 896 (7th ed. 2018).      Further still, permitting the use of
+
+materiality evidence to resist class certification only when it is dressed in reliance’s
+
+clothing strikes me as needlessly exalting form over substance, since moving
+
+forward, it stands to reason that materiality evidence will virtually always be
+
+presented to courts tasked with resolving class-certification motions. Although
+
+“Goldman d[id] not ask [the Supreme Court] to revisit these precedents,” Goldman,
+
+
+
+                                          10
+141 S. Ct. at 1962, the tension between Amgen and Goldman cries out for the Court
+
+to take another look at these decisions, since courts are now forced to navigate a
+
+materiality-reliance twilight zone that is shrouded in considerable confusion.
+
+      Fortunately, the fog is not so dense in the case before us. I agree with the
+
+majority that our materiality precedents support Goldman’s position that the
+
+corrective disclosures had no discernible price impact. See Singh v. Cigna Corp.,
+
+918 F.3d 57, 63–64 (2d Cir. 2019) (holding that no “reasonable investor would”
+
+“rely on” one defendant’s “Form 10-K statements as representations of satisfactory
+
+compliance,” since they were only “simple and generic assertions” about it
+
+“having” and “allocating significant resources” to compliance “policies and
+
+procedures” (internal quotation marks omitted)); see also ECA, Loc. 134 IBEW Joint
+
+Pension Tr. of Chi. v. JP Morgan Chase Co., 553 F.3d 187, 205–06 (2d Cir. 2009)
+
+(finding no materiality with regard to bank’s statements about its integrity and
+
+risk-management capabilities). Those precedents demonstrate that “no reasonable
+
+investor would have attached any significance to the generic statements on which
+
+Plaintiffs’ claims are based,” ATRS II, 955 F.3d at 278 (Sullivan, J., dissenting), and
+
+along with the expert testimony presented to the district court and a healthy dose
+
+
+
+
+                                          11
+of common sense, lead us all to agree that the Basic presumption has been
+
+sufficiently rebutted.
+
+                                      III.
+
+      For the reasons discussed above and in my prior dissent, see ATRS II,
+
+955 F.3d at 275–79 (Sullivan, J., dissenting), I remain persuaded that Goldman
+
+carried its burden of severing the link between the alleged misstatements and the
+
+price paid by Plaintiffs for their shares, thus rebutting “the presumption of
+
+reliance” that adheres where rational investors transact in an efficient market for
+
+securities, Basic, 485 U.S. at 248. I therefore join in the majority’s conclusion,
+
+though not its precise reasoning, and vote to reverse the district court’s
+
+class-certification ruling.
+
+
+
+
+                                        12
+

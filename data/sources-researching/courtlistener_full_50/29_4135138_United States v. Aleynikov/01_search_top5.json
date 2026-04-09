@@ -1,0 +1,632 @@
+[
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [],
+    "attorney_id": [],
+    "caseName": "United States v. Aleynikov",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "Court of Appeals for the Second Circuit",
+    "court_citation_string": "2d Cir.",
+    "court_id": "ca2",
+    "dateArgued": null,
+    "dateFiled": "2011-03-24",
+    "dateTerminated": "2012-02-16",
+    "docketNumber": "11-1126",
+    "docket_absolute_url": "/docket/4135138/united-states-v-aleynikov/",
+    "docket_id": 4135138,
+    "firm": [],
+    "firm_id": [],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-03T05:11:09.550878Z",
+      "date_created": "2016-08-18T23:13:14.322774Z",
+      "score": {
+        "bm25": 2272.3433
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "",
+    "party": [
+      "United States",
+      "Aleynikov"
+    ],
+    "party_id": [],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/4135138/1/2/united-states-v-aleynikov/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "NOTICE OF CRIMINAL APPEAL, with district court docket, on behalf of Appellant Sergey Aleynikov, FILED. [244061] [11-1126]",
+        "docket_entry_id": 677028,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2011-03-24",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.ca2.11-1126.1.2.pdf",
+        "id": 532939,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-03-10T23:25:22.437124Z",
+          "date_created": "2016-08-18T23:13:14.359190Z"
+        },
+        "pacer_doc_id": "0020651756",
+        "page_count": 2,
+        "short_description": "Dkt_Ntc_BK_CV_PR_Tax",
+        "snippet": "       Case: 11-1126      Document: 1-2       Page: 1     03/24/2011          244061   2\n\n\n\n\n                  United States Court of Appeals for the Second Circuit\n                          Thurgood Marshall U.S. Courthouse\n                                    40 Foley Square\n                                 New York, NY 10007\n DENNIS JACOBS                                              CATHERINE O'HAGAN WOLFE\n CHIEF JUDGE                                                 CLERK OF COURT\n\n\n\n\n Date: "
+      },
+      {
+        "absolute_url": "/docket/4135138/1/1/united-states-v-aleynikov/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "NOTICE OF CRIMINAL APPEAL, with district court docket, on behalf of Appellant Sergey Aleynikov, FILED. [244061] [11-1126]",
+        "docket_entry_id": 677028,
+        "document_number": 1,
+        "document_type": "Attachment",
+        "entry_date_filed": "2011-03-24",
+        "entry_number": 1,
+        "filepath_local": "recap/gov.uscourts.ca2.11-1126.1.1.pdf",
+        "id": 532938,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-03-10T23:25:04.979737Z",
+          "date_created": "2016-08-18T23:13:14.349309Z"
+        },
+        "pacer_doc_id": "0020651753",
+        "page_count": 22,
+        "short_description": "Case FILED",
+        "snippet": "           Case:\n            Case11-1126    Document: Document\n                 1:10-cr-00096-DLC   1-1 Page:  1\n                                              149                                   03/24/2011\n                                                                                   Filed 03/23/11 244061\n                                                                                                  Page 1 of 322\n\nCriminal Notice of Appeal· Form A                                         "
+      },
+      {
+        "absolute_url": "/docket/4135138/51/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "DEFECTIVE DOCUMENT, BRIEF, [50], on behalf of Appellant Sergey Aleynikov, FILED.[306207] [11-1126]",
+        "docket_entry_id": 677051,
+        "document_number": 51,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2011-06-03",
+        "entry_number": 51,
+        "filepath_local": null,
+        "id": 532962,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-03-27T21:40:13.863002Z",
+          "date_created": "2016-08-18T23:13:14.704309Z"
+        },
+        "pacer_doc_id": "0020815215",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Joseph Paul Facciponti",
+      "Sabrina P. Shroff"
+    ],
+    "attorney_id": [
+      5751265,
+      5751266
+    ],
+    "caseName": "United States v. Aleynikov",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2009-07-04",
+    "dateTerminated": "2010-02-11",
+    "docketNumber": "1:09-mj-01553",
+    "docket_absolute_url": "/docket/12711348/united-states-v-aleynikov/",
+    "docket_id": 12711348,
+    "firm": [
+      "Federal Defenders of New York Inc. (NYC)",
+      "Law Offices of Sabrina P. Shroff"
+    ],
+    "firm_id": [
+      157730,
+      584218
+    ],
+    "jurisdictionType": "Federal question",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-06T12:18:47.433186Z",
+      "date_created": "2019-01-21T19:06:25.465543Z",
+      "score": {
+        "bm25": 2156.9543
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "348719",
+    "party": [
+      "Sergey Aleynikov",
+      "USA"
+    ],
+    "party_id": [
+      8496492,
+      8496493
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Arrest of Sergey Aleynikov. (gq)",
+        "docket_entry_id": 96317660,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-07-03",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 100533722,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-05T11:26:54.564840Z",
+          "date_created": "2019-07-26T08:52:05.554220Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/12711348/4/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ADVICE OF PENALTIES AND SANCTIONS as to Sergey Aleynikov. (gq) (Entered: 07/06/2009)",
+        "docket_entry_id": 96317665,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-07-06",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 100533727,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-05T11:26:54.902024Z",
+          "date_created": "2019-07-26T08:52:05.689626Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/12711348/7/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE OF ATTORNEY APPEARANCE: Sabrina P. Shroff appearing for Sergey Aleynikov. (Shroff, Sabrina) (Entered: 08/06/2009)",
+        "docket_entry_id": 96317669,
+        "document_number": 7,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-08-06",
+        "entry_number": 7,
+        "filepath_local": null,
+        "id": 100533731,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-05T11:26:54.959394Z",
+          "date_created": "2019-07-26T08:52:05.787983Z"
+        },
+        "pacer_doc_id": "12706695086",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "440 Civil rights other",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": "Denise Cote",
+    "assigned_to_id": 733,
+    "attorney": [
+      "Sabrina P. Shroff",
+      "John David Tortorella",
+      "Rebecca Anne Rohr",
+      "Joseph Paul Facciponti",
+      "Kevin H. Marino"
+    ],
+    "attorney_id": [
+      10674240,
+      1386165,
+      1386166,
+      1386167,
+      10674239
+    ],
+    "caseName": "United States v. Aleynikov",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2010-02-11",
+    "dateTerminated": "2011-03-23",
+    "docketNumber": "1:10-cr-00096",
+    "docket_absolute_url": "/docket/4347430/united-states-v-aleynikov/",
+    "docket_id": 4347430,
+    "firm": [
+      "Marino Tortorella, P.C.",
+      "Sabrina Shroff",
+      "Federal Defenders of New York Inc. (NYC)",
+      "Marino, Tortorella & Boyle, P.C."
+    ],
+    "firm_id": [
+      157730,
+      160299,
+      139260,
+      687110
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-09-04T05:03:38.662655Z",
+      "date_created": "2016-08-21T20:03:13.840829Z",
+      "score": {
+        "bm25": 1949.1003
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "358302",
+    "party": [
+      "USA",
+      "Sergey Aleynikov",
+      "Goldman, Sachs & Co."
+    ],
+    "party_id": [
+      16247196,
+      16247197,
+      1731606
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/4347430/18/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "INDICTMENT FILED as to Sergey Aleynikov (1) count(s) 1, 2, 3. (jm) (Entered: 02/16/2010)",
+        "docket_entry_id": 9759422,
+        "document_number": 18,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2010-02-11",
+        "entry_number": 18,
+        "filepath_local": "recap/gov.uscourts.nysd.358303.18.0.pdf",
+        "id": 7254677,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2025-09-04T05:03:38.650240Z",
+          "date_created": "2016-08-21T20:03:14.135254Z"
+        },
+        "pacer_doc_id": "12707405388",
+        "page_count": 14,
+        "short_description": "Indictment",
+        "snippet": "CaSe 1210-CI’-00096-DLC DOCUm€r]€t 18 Filed 02/11/10 Page l Of 14\n\n \n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n__________________________________ *_X:\n\n \n\n \n\nUNITED STATES OF AMERICA,\n\n_ v ' ._\n\nSERGEY ALEYNIKOV, 1 :0 CR!M 9 6\n§ coUNT oNE\n\n(Theft of Trade Secrets)\n\n \n\n \n\nThe Grand Jury charges:\nRelevant Persons and Entities\n\nl. At all times relevant to this Indictment, Goldman\nSachs & Co. (“Goldman”) was a company headquartered in New York,\nNew York that provided financial serv"
+      },
+      {
+        "absolute_url": "/docket/4347430/129/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER as to Sergey Aleynikov. For the reasons set forth on the record this day, it is hereby ORDERED that the defendant's bail is revoked and he is remanded to the custody of the United States Marshal's Service. (Signed by Judge Denise L. Cote on 2/24/2011)(bw) (Entered: 02/25/2011)",
+        "docket_entry_id": 9759532,
+        "document_number": 129,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2011-02-25",
+        "entry_number": 129,
+        "filepath_local": null,
+        "id": 26440792,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-09-04T05:03:48.419185Z",
+          "date_created": "2018-04-18T11:22:39.054441Z"
+        },
+        "pacer_doc_id": "12708858465",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Jury Impaneled as to Sergey Aleynikov. (bw)",
+        "docket_entry_id": 436729847,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2010-11-29",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 451183407,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2025-09-04T05:03:45.787235Z",
+          "date_created": "2025-09-04T05:03:45.739953Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Sabrina P. Shroff",
+      "John David Tortorella",
+      "Kevin H. Marino",
+      "Rebecca Anne Rohr",
+      "Joseph Paul Facciponti"
+    ],
+    "attorney_id": [
+      5751269,
+      5751270,
+      1386168,
+      1386169,
+      1386170
+    ],
+    "caseName": "United States v. Aleynikov",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2010-02-11",
+    "dateTerminated": "2011-03-23",
+    "docketNumber": "1:10-cr-00096",
+    "docket_absolute_url": "/docket/4347431/united-states-v-aleynikov/",
+    "docket_id": 4347431,
+    "firm": [
+      "Marino, Tortorella & Boyle, P.C.",
+      "Marino Tortorella, P.C.",
+      "Federal Defenders of New York Inc. (NYC)"
+    ],
+    "firm_id": [
+      157730,
+      160299,
+      139260
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-03T07:21:26.761425Z",
+      "date_created": "2016-08-21T20:03:16.227015Z",
+      "score": {
+        "bm25": 1892.9084
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "358303",
+    "party": [
+      "Sergey Aleynikov",
+      "USA",
+      "Goldman, Sachs & Co."
+    ],
+    "party_id": [
+      8496496,
+      8496497,
+      1731607
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "/docket/4347431/139/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "RESPONSE by Sergey Aleynikov re: 137 Order,. (Marino, Kevin) (Entered: 03/15/2011)",
+        "docket_entry_id": 9759707,
+        "document_number": 139,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2011-03-15",
+        "entry_number": 139,
+        "filepath_local": "recap/gov.uscourts.nysd.358303.139.0.pdf",
+        "id": 7254731,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-10-29T09:45:52.616148Z",
+          "date_created": "2016-08-21T20:03:18.290396Z"
+        },
+        "pacer_doc_id": "12708943404",
+        "page_count": 1,
+        "short_description": "Response",
+        "snippet": "     Case 1:10-cr-00096-DLC Document 139 Filed 03/15/11 Page 1 of 1\n\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n---------------------------------- x\n                                   :\nUNITED STATES OF AMERICA,          :                      10 CR. 0096 (DLC)\n                                   :\n                                   :\n     v.                            :\n                                   :\n                                   :\nSERGEY ALEYNIKOV,                  "
+      },
+      {
+        "absolute_url": "/docket/4347431/138/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "RESPONSE by USA as to Sergey Aleynikov re: 137 Order,. (Rohr, Rebecca) (Entered: 03/15/2011)",
+        "docket_entry_id": 9759706,
+        "document_number": 138,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2011-03-15",
+        "entry_number": 138,
+        "filepath_local": "recap/gov.uscourts.nysd.358303.138.0.pdf",
+        "id": 7254730,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-10-29T09:45:52.616148Z",
+          "date_created": "2016-08-21T20:03:18.276257Z"
+        },
+        "pacer_doc_id": "12708943149",
+        "page_count": 2,
+        "short_description": "Response",
+        "snippet": "            Case 1:10-cr-00096-DLC Document 138 Filed 03/15/11 Page 1 of 2\n\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -x\n\nUNITED STATES OF AMERICA,                                   :\n\n                    -v.-                                     :\n                                                                          10 Cr. 96 (DLC)\nSERGEY ALEYNIKOV,                                            :\n\n                   "
+      },
+      {
+        "absolute_url": "/docket/4347431/40/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [
+          109084,
+          109101,
+          754228,
+          1965532
+        ],
+        "description": "RESPONSE by USA as to Sergey Aleynikov Re: Defendant's Revised Subpoena. (Rohr, Rebecca) (Entered: 06/28/2010)",
+        "docket_entry_id": 9759609,
+        "document_number": 40,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2010-06-28",
+        "entry_number": 40,
+        "filepath_local": "recap/gov.uscourts.nysd.358303.40.0.pdf",
+        "id": 7254695,
+        "is_available": true,
+        "meta": {
+          "timestamp": "2024-10-29T09:45:52.616148Z",
+          "date_created": "2016-08-21T20:03:16.825522Z"
+        },
+        "pacer_doc_id": "12707923308",
+        "page_count": 5,
+        "short_description": "Response",
+        "snippet": "             Case 1:10-cr-00096-DLC Document 40                 Filed 06/28/10 Page 1 of 5\n\n\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF NEW YORK\n------------------------------------------------------x\n\nUNITED STATES OF AMERICA,                             :\n\n      - v. -                                          :    10 Cr. 96 (DLC)\n\nSERGEY ALEYNIKOV,                                     :\n\n                    Defendant. :\n------------------------------x\n\n                  The Government’s"
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  },
+  {
+    "assignedTo": null,
+    "assigned_to_id": null,
+    "attorney": [
+      "Sabrina P. Shroff",
+      "Joseph Paul Facciponti"
+    ],
+    "attorney_id": [
+      5751267,
+      5751268
+    ],
+    "caseName": "United States v. Aleynikov",
+    "case_name_full": "",
+    "cause": "",
+    "chapter": null,
+    "court": "District Court, S.D. New York",
+    "court_citation_string": "S.D.N.Y.",
+    "court_id": "nysd",
+    "dateArgued": null,
+    "dateFiled": "2009-07-04",
+    "dateTerminated": "2010-02-11",
+    "docketNumber": "1:09-mj-01553",
+    "docket_absolute_url": "/docket/15971938/united-states-v-aleynikov/",
+    "docket_id": 15971938,
+    "firm": [
+      "Federal Defenders of New York Inc. (NYC)"
+    ],
+    "firm_id": [
+      157730
+    ],
+    "jurisdictionType": "",
+    "juryDemand": "",
+    "meta": {
+      "timestamp": "2025-03-07T18:52:23.593028Z",
+      "date_created": "2019-07-26T08:52:23.048086Z",
+      "score": {
+        "bm25": 1827.515
+      },
+      "more_docs": true
+    },
+    "pacer_case_id": "348718",
+    "party": [
+      "Sergey Aleynikov",
+      "USA"
+    ],
+    "party_id": [
+      8496494,
+      8496495
+    ],
+    "recap_documents": [
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Arrest of Sergey Aleynikov. (gq)",
+        "docket_entry_id": 96317690,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-07-03",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 100533752,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-05T11:26:54.691235Z",
+          "date_created": "2019-07-26T08:52:23.197098Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/15971938/4/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ADVICE OF PENALTIES AND SANCTIONS as to Sergey Aleynikov. (gq) (Entered: 07/06/2009)",
+        "docket_entry_id": 96317695,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-07-06",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 100533757,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-05T11:26:54.888453Z",
+          "date_created": "2019-07-26T08:52:23.354446Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/15971938/7/united-states-v-aleynikov/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "NOTICE OF ATTORNEY APPEARANCE: Sabrina P. Shroff appearing for Sergey Aleynikov. (Shroff, Sabrina) (Entered: 08/06/2009)",
+        "docket_entry_id": 96317699,
+        "document_number": 7,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2009-08-06",
+        "entry_number": 7,
+        "filepath_local": null,
+        "id": 100533761,
+        "is_available": false,
+        "meta": {
+          "timestamp": "2024-05-05T11:26:54.970487Z",
+          "date_created": "2019-07-26T08:52:23.474359Z"
+        },
+        "pacer_doc_id": "12706695086",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      }
+    ],
+    "referredTo": null,
+    "referred_to_id": null,
+    "suitNature": "",
+    "trustee_str": null
+  }
+]

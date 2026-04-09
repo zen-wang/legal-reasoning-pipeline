@@ -1,0 +1,1894 @@
+             FOR PUBLICATION
+
+  UNITED STATES COURT OF APPEALS
+       FOR THE NINTH CIRCUIT
+
+UNITED STATES OF AMERICA,         No. 22-10312
+
+           Plaintiff-Appellee,       D.C. No.
+                                  5:18-cr-00258-
+ v.                                   EJD-1
+
+ELIZABETH A. HOLMES,
+                                    OPINION
+           Defendant-Appellant.
+
+
+UNITED STATES OF AMERICA,         No. 22-10338
+
+           Plaintiff-Appellee,
+                                     D.C. No.
+ v.                               5:18-cr-00258-
+                                      EJD-2
+RAMESH SUNNY BALWANI,
+
+           Defendant-Appellant.
+
+
+UNITED STATES OF AMERICA,          Nos. 23-1040
+                                        23-1167
+           Plaintiff-Appellee,
+                                      D.C. No.
+ v.                                5:18-cr-00258-
+2                       USA V. HOLMES
+
+
+                                                 EJD-1
+ELIZABETH A. HOLMES,
+
+                Defendant-Appellant.
+
+
+UNITED STATES OF AMERICA,                     No. 23-1166
+                                                D.C. No.
+                Plaintiff-Appellee,          5:18-cr-00258-
+                                                 EJD-2
+    v.
+
+RAMESH "SUNNY" BALWANI,
+
+               Defendant-Appellant.
+
+         Appeal from the United States District Court
+           for the Northern District of California
+         Edward J. Davila, District Judge, Presiding
+
+            Argued and Submitted June 11, 2024
+                 San Francisco, California
+
+                   Filed February 24, 2025
+
+    Before: Mary M. Schroeder, Jacqueline H. Nguyen, and
+              Ryan D. Nelson, Circuit Judges.
+
+                  Opinion by Judge Nguyen
+                          USA V. HOLMES                            3
+
+
+                          SUMMARY *
+
+
+                         Criminal Law
+
+    The panel affirmed Elizabeth Holmes’s and Ranesh
+“Sunny” Balwani’s convictions on numerous fraud charges,
+their sentences, and the district court’s $452 million
+restitution order, in a case in which Defendants defrauded
+investors about the achievements of their company
+Theranos’s blood-testing technology.
+    Defendants argued that the district court erred by
+allowing former Theranos employees, who testified as lay
+witnesses, to offer improper expert testimony. The panel
+explained that if a witness offers an opinion that is based on
+specialized knowledge, experience, training, or education
+contemplated by Fed. Rule of Evidence 702, a party cannot
+evade the Rule by labeling a witness “percipient.” And there
+is no “on-the-job” exception to Rule 702. But the fact that a
+witness’s testimony pertains to scientific matters, or conveys
+opinions drawn from the witness’s own experiences with
+such matters, does not automatically render it expert
+testimony within the ambit of Rule 702. Considering each
+of the challenged witnesses with these principles in mind,
+the panel held that some aspects of the testimonies veered
+into expert territory, but any error was harmless.
+   Holmes argued that a report prepared by the Center for
+Medicare and Medicaid Services was irrelevant under
+Federal Rule of Evidence 401 and should have been
+excluded pursuant to Federal Rule of Evidence 403 because
+
+*
+ This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+4                      USA V. HOLMES
+
+
+there was a significant risk that the report would mislead the
+jury. The panel held that the district court did not abuse its
+discretion in finding that the report was relevant to Holmes’s
+knowledge, intent, or state of mind, and in finding that the
+probative value of the report was not substantially
+outweighed by its potential for unfair prejudice.
+    Holmes argued that the district court abused its
+discretion by allowing testimony that Theranos voided all
+patient sample tests run on a device used in Theranos’s
+clinical lab. Federal Rule of Evidence 407 provides that
+when measures are taken that would have made an earlier
+injury less likely to occur, evidence of subsequent measures
+is not admissible to prove culpable conduct. The purpose of
+Rule 407—to avoid punishing the defendant for efforts to
+remedy safety problems—is not implicated in cases
+involving subsequent measures in which the defendant did
+not voluntarily participate. The panel held that the district
+court did not clearly err in finding that the decision to void
+was not voluntary, and did not abuse its discretion balancing
+the risk of prejudice against the probative value of the
+evidence.
+   Holmes argued that the district court violated her rights
+under the Confrontation Clause of the Sixth Amendment
+when it prohibited her from cross-examining a former
+Theranos laboratory director on aspects of his post-Theranos
+employment. The panel held that the district court did not
+abuse its discretion in limiting the scope of the cross-
+examination.
+    Holmes argued that the district court should have
+admitted, as statements against interest under Federal Rule
+of Evidence 804(b)(3), portions of deposition testimony
+given by Balwani to the Securities and Exchange
+                        USA V. HOLMES                          5
+
+
+Commission. The panel held that the district court correctly
+recognized that the statements were not solidly inculpatory
+and did not abuse its discretion in declining to admit these
+statements.
+    Balwani argued that the indictment was constructively
+amended in violation of his Fifth Amendment rights when
+the government presented evidence concerning the accuracy
+and reliability of Theranos tests run on conventional
+technology even though the indictment only charged him
+with misrepresentations concerning the accuracy and
+reliability of tests run on proprietary technology. The panel
+rejected this argument because the indictment plainly gave
+Balwani notice that he was charged with misrepresenting the
+accuracy of a non-exhaustive list of patient tests, regardless
+of which type of device the tests were run on.
+    Balwani argued that his due process rights were violated
+under Napue v. Illinois by the government’s failure to correct
+allegedly false testimony given by two investor-
+victims. The panel held that the Napue claim fails under
+plain error review.
+    The panel held that the district court did not err in
+applying the preponderance-of-the-evidence standard for
+proving loss at sentencing. Regarding Defendants’
+arguments concerning loss causation and the number of
+victims, raised for the first time in letters pursuant to Federal
+Rule of Appellate Procedure 28(j), the panel held that the
+district court’s factual findings were not clearly erroneous.
+    Defendants argued that the district court erred by
+awarding restitution based on investors’ total investments,
+rather than the diminution in value of the shares after the
+fraud came to light. The panel explained that, although the
+district court properly identified the money invested as the
+6                      USA V. HOLMES
+
+
+lost property, it should have also considered possible credits
+against Defendants’ restitution obligation by accounting for
+the residual value of the shares after the fraud came to
+light. The panel concluded that any error was harmless
+because the district court’s factual findings compel the
+conclusion that the victims’ actual losses were equal to the
+total amount of their investments.
+
+
+
+                        COUNSEL
+
+Kelly I. Volkar (argued), Robert Leach, Merry J. Chan,
+Casey Boome, Amani S. Floyd, and John C. Bostic,
+Assistant United States Attorneys; Matthew M. Yelovich,
+Chief, Appellate Section, Criminal Division; Thomas A.
+Colthurst, Martha Boersch, Ismail Ramsey, and Stephanie
+M. Hinds, United States Attorneys; United States
+Department of Justice, Office of the United States Attorney,
+San Francisco, California; for Plaintiff-Appellee.
+Amy M. Saharia (argued), Patrick J. Looby (argued), Kevin
+M. Downey, Katherine A. Trefz, and Lance A. Wade,
+Williams & Connolly LLP, Washington, D.C.; John D.
+Cline, Law Office of John D. Cline, Seattle, Washington;
+Jeffrey B. Coopersmith (argued), Corr Cronin LLP, Seattle,
+Washington; Aaron P. Brecher, Orrick Herrington &
+Sutcliffe LLP, Seattle, Washington; Stephen A. Cazares and
+Amari L. Hammonds, Orrick Herrington & Sutcliffe LLP,
+Los Angeles, California; Sachi Schuricht, Orrick Herrington
+& Sutcliffe LLP, San Francisco, California; Amy Walsh,
+Orrick Herrington & Sutcliffe LLP, New York, New York;
+Mark S. Davies, White & Case, Washington, D.C.; James A.
+Flynn, Orrick Herrington & Sutcliffe LLP, Washington,
+D.C.; for Defendants-Appellants.
+                       USA V. HOLMES                        7
+
+
+Brian T. Goldman, Daniel M. Sullivan, and Benjamin B.
+Allen, Holwell Shuster & Goldberg LLP, New York, New
+York, for Amicus Curiae National Association of Criminal
+Defense Lawyers.
+Kimberly K. Chemerinsky, Alston & Bird LLP, Los
+Angeles, California; Paul N. Monnin and Danielle K.
+Goldstein, Alston & Bird LLP, Atlanta, Georgia; for Amici
+Curiae American Board of Criminal Lawyers, California
+Attorneys for Criminal Justice, and Due Process Institute.
+
+
+
+                         OPINION
+
+NGUYEN, Circuit Judge:
+
+    “[O]ne tiny drop changes everything.” That was the
+vision shared by Elizabeth Holmes and Ramesh “Sunny”
+Balwani, who set out in the mid-2000s to revolutionize
+medical laboratory testing through a biotechnology
+company called Theranos. In the early 2010s, Theranos
+claimed that it could run fast, accurate, and affordable tests
+with just a drop of blood drawn from the prick of a finger, in
+contrast to traditional testing methods that require large
+needles to draw blood from a vein.
+    Investors, health care professionals and companies, and
+Silicon Valley spectators were captivated by the potential of
+Theranos’s revolutionary technology. As a result, Holmes
+and Balwani were able to establish relationships with major
+companies, investors, and prominent figures, including high-
+ranking members of the United States military.
+   But the vision sold by Holmes and Balwani was nothing
+more than a mirage. In late 2015, news reporting revealed
+8                      USA V. HOLMES
+
+
+internal struggles within the Theranos laboratory and the
+limitations of its technology. The grandiose achievements
+touted by Holmes and Balwani were half-truths and outright
+lies. Theranos’s blood-testing device failed to deliver faster
+and more accurate testing results than conventional
+technology. Pharmaceutical companies never validated the
+technology, as Holmes and Balwani had told investors.
+Contrary to the rosy revenue projections shared with
+investors and business partners, Theranos was running out
+of money.
+     After a two-and-a-half-year investigation, a grand jury
+returned an indictment against Holmes and Balwani. They
+were tried separately in lengthy jury trials, and each was
+convicted on numerous fraud charges. Holmes and Balwani
+now bring several challenges to the district court’s decisions
+at trial and sentencing. We affirm.
+                   Factual Background
+    The Third Superseding Indictment (the “Indictment”)
+charged Holmes and Balwani (collectively, “Defendants”)
+with conspiracy to commit wire fraud against investors from
+2010 to 2015 (Count 1), six wire fraud counts involving
+investors who invested in Theranos in 2013 and 2014
+(Counts 3 to 8), conspiracy to commit wire fraud against
+patients from 2013 to 2016 (Count 2), and four wire fraud
+counts involving patients (Counts 9 to 12).
+    A. Holmes Starts Theranos
+    Holmes founded Theranos in 2003 and served as its
+Chief Executive Officer until 2018. Theranos aimed to
+revolutionize medical laboratory testing through innovative
+methods for drawing blood, testing blood, and interpreting
+patient data. Holmes’s claimed goal was to create
+                           USA V. HOLMES                             9
+
+
+technology to run blood tests on small samples of blood
+drawn from a fingerstick.
+    Balwani, who was in a romantic relationship with
+Holmes from 2004 to 2016, joined the company in 2009 and
+was later appointed its President and Chief Operating
+Officer. The precise division of responsibilities between
+Holmes and Balwani was disputed at their respective trials.
+But evidence offered at both showed that Balwani oversaw
+operations in Theranos’s patient-testing lab and served as the
+primary contact for Theranos’s relationships with retailers,
+including Safeway and Walgreens. Both Holmes and
+Balwani communicated with investors and business partners
+on behalf of Theranos. And they were both informed of
+Theranos’s financial position on a regular basis. Holmes
+admitted that although not everyone directly reported
+directly to her, “ultimately all roads” led to her as the CEO.
+    B. Theranos’s Technology
+    Theranos’s technology was structured around “three
+core areas: the first was the chemistry or the assays; the
+second was hardware; and the third was software.” One of
+Theranos’s early developments was a miniaturized device
+called the “Edison.” 1 The Edison was used in Theranos’s
+clinical lab to test patient samples. While other devices,
+including the “minilab” and the “4.0” (or “4s”), were in
+development while Holmes ran Theranos, the Edison was
+the only device developed by Theranos that was ever used to
+test patient samples.
+   Theranos also developed proprietary “nanotainers” that
+were used to collect blood samples from a fingerstick. These
+
+1
+ The “Edison” is also referred to as the “3.5” device, the “Edison 3.5”
+device, or the “Theranos Proprietary System” (“TPS”).
+10                     USA V. HOLMES
+
+
+nanotainers contrasted with traditional “vacutainers,” which
+are used to collect higher volumes of blood from traditional
+venous blood draws. Blood samples that were collected by
+Theranos from a fingerstick using the nanotainer would be
+tested on either the Edison device or a modified third-party
+device.
+    Although Theranos developed 300 small-sample assays
+during Holmes’s time at the company, only twelve assays
+were ever run on the Edison. Other “general chemistry tests”
+conducted by Theranos were run on third-party-
+manufactured machines.          Theranos made various
+modifications to third-party machines to run certain tests.
+Theranos’s goal was to get as many tests to run on the Edison
+as possible, and Holmes and Balwani pushed employees in
+the clinical laboratory to do so despite their expressed
+concerns about the Edison’s accuracy.
+ C. Scheme to Defraud Investors
+    In 2010, Theranos partnered with Walgreens to use
+Theranos’s propriety device to conduct patient tests in
+Walgreens’s retail pharmacies. After publicly launching its
+testing services at Walgreens in the fall of 2013, Theranos
+raised funds by offering shares to investors. Three investors
+purchased C-1 shares in late 2013: Chris Lucas (Count 4),
+John Bryan Tolbert (Count 5), and Alan Eisenman (Count
+3). In 2014, Theranos offered C-2 shares to new investors:
+Brian Grossman (Count 6), Lisa Peterson (Count 7), and
+Daniel Mosley (Count 8). Theranos shares were not publicly
+traded.
+   The Indictment alleged that, in procuring these
+investments, Holmes and Balwani made materially false and
+misleading statements to the investors, which generally fell
+in the following categories:        (A) the technological
+                        USA V. HOLMES                       11
+
+
+capabilities of Theranos’s device; (B) Theranos’s financial
+health; (C) technology demonstrations; (D) a purportedly
+expanding relationship with Walgreens; (E) Theranos’s
+work with the United States military; (F) the use of third-
+party devices to test patients; and (G) pharmaceutical
+companies’ purported validation of Theranos’s technology.
+   Theranos employees testified at both trials that the
+Edison device consistently failed quality control checks and
+was unable to provide accurate results. They conveyed their
+concerns about the reliability of Theranos’s testing to
+Holmes and Balwani in real time, but Holmes and Balwani
+dismissed these concerns or shifted blame away from any
+problems with the Theranos device.
+    One extensively litigated item of evidence was a report
+prepared by the Center for Medicare and Medicaid Services
+(“CMS”) (“the Report” or “the CMS Report”). CMS, the
+federal agency responsible for overseeing blood testing
+laboratories, conducted an unannounced inspection of
+Theranos in late 2015. The CMS Report summarized the
+findings from that inspection, including the conclusion that
+deficiencies in Theranos’s clinical laboratory practices and
+procedures presented “immediate jeopardy” to patient
+health. The Report identified quality control failures within
+the lab relating to tests that were run on the Edison device as
+well as patient tests from modified, commercial third-party
+devices.
+    One form of deception charged in the Indictment is
+Theranos’s use of third-party devices to conduct patient
+samples and tests. Theranos employees explained how
+patient tests were run on machines that were commercially
+available and manufactured by third parties. Some patient
+tests were run on “modified” versions of the third-party
+12                     USA V. HOLMES
+
+
+machines, while some tests were run on unmodified
+versions. Multiple investors testified that Holmes and
+Balwani misled them to believe that Theranos ran its tests
+solely on devices manufactured by Theranos. The truth,
+according to these investors, would have impacted their
+investment decisions.
+    Holmes and Balwani took steps to conceal their use of
+third-party devices. Employees testified that Theranos
+would invite “VIP” guests, including investors, to observe
+technological demonstrations of the Theranos device. These
+VIP guests would be placed in a room with an Edison or
+“minilab” and would be led to believe that the device was
+running a sample of their blood. In reality, the device was
+running a “null protocol” while some of the VIP samples
+were surreptitiously run on third-party devices.
+    Holmes and Balwani also shared false financial
+projections with investors. In the early 2010s, Theranos’s
+business partnerships with pharmaceutical and retail
+companies were failing to generate revenue. Theranos’s
+Corporate Controller, Han Spivey, testified that Theranos
+did not have any revenue in 2012 and 2013 and, in fact,
+suffered $57 million and $92 million in net losses,
+respectively. In November 2013, Balwani told Holmes that
+Theranos was down to $15 million in cash, but the company
+was spending up to $2 million weekly. In 2015, Theranos
+reported only $1,944,948 in total income to the IRS. But
+Holmes and Balwani painted a very different picture to
+investors. For example, investor-victim Peterson testified at
+Holmes’s trial that financial documents she received from
+Holmes and Balwani showed that Theranos was projecting a
+profit of $230 million by the end of 2015. And investor-
+victim Grossman testified that, prior to his investment,
+                       USA V. HOLMES                       13
+
+
+Holmes and Balwani told him that Theranos had generated
+$200 million in revenue from the Department of Defense.
+     Theranos’s work with the military, and various false
+representations Holmes and Balwani made to investors
+about that work, was explored in significant detail at both
+trials. General James Mattis testified at Holmes’s trial
+regarding Theranos’s relationship with the military.
+Although Theranos had developed a relationship with the
+Department of Defense to explore the potential use of the
+Edison device in combat settings, that application never
+materialized. General Mattis testified that the Edison device
+was never put into the field by the military, it was never
+installed on a military medevac, and it was never used to
+treat servicemembers on the battlefield. But multiple C-1
+and C-2 investors testified that Holmes and Balwani led
+them to believe otherwise.         At Holmes’s trial, the
+government introduced a recording of Holmes speaking to
+investors on a call in December 2013 in which she made
+various statements about Theranos’s partnership with the
+military. 2 For instance, Holmes told investors that “we have
+also been doing a lot of work for special operations
+command in the context of missions in remote areas” and
+that Theranos had “created a distributed system that can be
+used in remote areas.”
+    Finally, the Indictment alleged that Holmes and Balwani
+also misrepresented to investors the status of Theranos’s
+partnerships with other companies, including retailers and
+pharmaceutical companies. A Walgreens representative
+testified that, while Holmes and Balwani were touting to
+investors that Theranos’s partnership with Walgreens was
+
+2
+  As relevant to Balwani’s Napue claim, the government did not
+introduce this recording at his trial.
+14                     USA V. HOLMES
+
+
+expanding, the partnership was actually contracting, and the
+pilot program was not going as hoped. Walgreens’s decision
+to reduce the number of stores launching Theranos’s testing
+services was motivated in part by the high percentage of
+blood draws that were being performed venously (a
+traditional blood draw), rather than through a finger prick.
+    Theranos’s      partnerships    with      pharmaceutical
+companies—which began in 2008 and 2009 with the purpose
+of conducting studies of the Theranos technology—quickly
+soured. A representative of Pfizer testified that he believed
+that Theranos’s answers to technical due diligence questions
+were oblique, deflective, or evasive, and that after 2008,
+Pfizer and Theranos had no meaningful business dealings.
+But once again, Holmes and Balwani projected a very
+different image to investors. Holmes admitted that she
+personally affixed the logo of various pharmaceutical
+companies, including Pfizer, GlaxoSmithKline, and
+Schering-Plough, onto reports containing favorable
+conclusions about Theranos’s device.           In emails to
+Walgreens, Holmes described these reports as representing
+the pharmaceutical companies’ independent and technical
+validation of the Theranos device. At trial, representatives
+from these companies testified that they neither
+independently validated the Theranos technology nor
+authorized the use of their company logo on these reports.
+These reports were shared with investors, who found it
+significant that large, independent, third-party companies
+were vouching for the technology.
+ D. Scheme to Defraud Patients
+   The Indictment further alleged that Holmes and Balwani
+devised a scheme to defraud patients through advertisements
+and marketing materials boasting about the accuracy, cost,
+                        USA V. HOLMES                       15
+
+
+and reliability of Theranos’s blood testing services. Multiple
+patients testified at the trials. One patient testified that an
+HIV test she took through Theranos came back positive, but
+two subsequent tests showed that she was in fact negative.
+Another patient testified that she received incorrect results
+from a Theranos blood test about her pregnancy. The
+evidence linked Balwani to the transmission of these
+inaccurate results, as well as the purchase of advertisements
+for Theranos Wellness Centers in Arizona.
+                    Procedural History
+    The district court severed Defendants’ trials based on
+Holmes’s disclosure of Balwani’s abuse in their personal
+relationship. Holmes was tried first in late 2021. Balwani
+was then tried in early 2022. Each trial lasted nearly four
+months.
+  A. Holmes’s Conviction and Sentence
+    During Holmes’s trial, the government dismissed Count
+9. The jury acquitted Holmes on the patient-related counts:
+conspiracy (Count 2) and wire fraud (Counts 10–12). The
+jury convicted Holmes of four investor-related counts: the
+investor-related conspiracy (Count 1), and wire fraud
+relating to three investor-victims (Counts 6–8). The jury
+hung on the wire-fraud counts related to C-1 investors
+(Counts 3–5).
+    At Holmes’s sentencing, the district court found that the
+offense involved ten or more victims, resulting in a two-level
+sentencing enhancement under United States Sentencing
+Guidelines (“USSG”) § 2B1.1(b)(2). United States v.
+Holmes (Holmes I), 2023 WL 149108, at *7–9 (N.D. Cal.
+Jan. 10, 2023). It further found that the offense caused a loss
+of $120 million, resulting in a 24-level enhancement under
+16                      USA V. HOLMES
+
+
+§ 2B1.1(b)(1). Id. at *6–7. These calculations yielded a
+sentencing range of 135 to 168 months. The district court
+sentenced Holmes to 135 months of imprisonment.
+  B. Balwani’s Conviction and Sentence
+    The jury convicted Balwani of all counts: conspiracy to
+commit wire fraud against Theranos investors (Count 1),
+conspiracy to commit wire fraud against Theranos patients
+(Count 2), investor wire fraud (Counts 3–8), and patient wire
+fraud (Counts 9–12).
+    Based on the same findings of the number of victims and
+the amount of the loss as in Holmes’s case, Balwani faced
+the same sentencing range of 135 to 168 months. United
+States v. Balwani, 2023 WL 2065045, at *15 (N.D. Cal. Feb.
+16, 2023). The district court sentenced him to 155 months
+of imprisonment. Id.
+  C. Restitution Order
+    The district court issued its restitution order in May
+2023. United States v. Holmes, et al. (Holmes II), 673 F.
+Supp. 3d 1049 (N.D. Cal. 2023). It first determined that the
+twelve investors who had been induced by Defendants’ fraud
+to invest in Theranos were “victims” under the Mandatory
+Victims Restitution Act of 1996 (“MVRA”), 18 U.S.C.
+§ 3663A. Id. at 1056. The district court found that the
+“property” each victim “lost” was the money that each
+invested in exchange for ownership shares in Theranos. Id.
+at 1058. The district court credited the amount that Theranos
+had already paid to three investors in civil settlements, but it
+rejected the proposition that the residual value of the
+Theranos shares qualified as “returned” property within the
+meaning of § 3663A(b)(1)(B)(ii). Id. at 1057–58. The court
+held Holmes and Balwani jointly and severally liable for
+                       USA V. HOLMES                       17
+
+
+$452 million in restitution, including $397 million for the
+twelve victims identified at sentencing and $54.5 million for
+two other victims, Safeway and Walgreens. Id. at 1066.
+   Holmes and Balwani timely appealed, challenging their
+convictions, sentences, and the restitution order.
+                  Conviction Challenges
+                   I. Expert Testimony
+    Holmes and Balwani argue that the district court erred
+by allowing former Theranos employees, who testified as lay
+witnesses, to offer improper expert opinions. We review the
+district court’s determination of whether testimony is offered
+as an expert or a lay witness for abuse of discretion. United
+States v. Perez, 962 F.3d 420, 434 (9th Cir. 2020).
+  A. Legal Standard
+    Under Federal Rule of Evidence 701, a lay witness may
+provide opinions “rationally based on the witness’s
+perception” that are “not based on scientific, technical, or
+other specialized knowledge within the scope of Rule 702.”
+Fed. R. Evid. 701. Opinion testimony requiring special
+“knowledge, skill, experience, training, or education” is
+subject to the requirements of Federal Rule of Evidence 702,
+Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S.
+579 (1993), and the disclosure requirements of Federal Rule
+of Criminal Procedure 16.
+    “[W]hether evidence is more properly offered by an
+expert or a lay witness ‘depends on the basis of the opinion,
+not its subject matter.’” Perez, 962 F.3d at 436 (quoting
+United States v. Barragan, 871 F.3d 689, 704 (9th Cir.
+2017)). If the basis of a witness’s opinion is “technical or
+specialized knowledge,” then that opinion falls within Rule
+18                      USA V. HOLMES
+
+
+702. Id. at 437. But if the basis of the opinion is “just
+familiarity with the subjects,” then it is proper lay opinion
+under Rule 701. Id.
+    Drawing that line is a particularly difficult task in a case
+like this one. By the very nature of the underlying facts and
+the alleged fraud, the testimony of percipient witnesses will
+inevitably involve observations made in a scientific setting
+and relate to scientific or technical concepts. But the fact
+that a witness’s testimony pertains to scientific matters, or
+conveys opinions drawn from the witness’s own experiences
+with such matters, does not automatically render it expert
+testimony within the ambit of Rule 702. Indeed, “[a] lay
+witness’s opinion testimony necessarily draws on the
+witness’s own understanding, including a wealth of personal
+information, experience, and education, that cannot be
+placed before the jury.” United States v. Gadson, 763 F.3d
+1189, 1208 (9th Cir. 2014). A lay witness’s opinion is
+permissible so long as it is not “based on scientific, technical,
+or other specialized knowledge.” Fed. R. Evid. 701
+(emphasis added).
+    By the same token, the “mere percipience of a witness to
+the facts on which he wishes to tender an opinion does not
+trump Rule 702.” United States v. Figueroa-Lopez, 125 F.3d
+1241, 1246 (9th Cir. 1997). In other words, there is no “on-
+the-job” exception to Rule 702. See id. at 1247. The fact
+that a witness personally observes a matter does not take the
+witness’s opinion about that matter outside the scope of Rule
+702 if that opinion is the product of “specialized
+knowledge.” Id. at 1246. Thus, as we explained in
+Figueroa-Lopez, if a witness offers an opinion that is based
+on specialized knowledge, experience, training, or education
+contemplated by Rule 702, a party cannot evade the Rule by
+labeling a witness “percipient.” See id. at 1243. But the
+                       USA V. HOLMES                      19
+
+
+converse is also true—an opinion is not automatically
+deemed “expert” within the meaning of Rule 702 merely
+because it is offered by a lay witness drawing on their own
+unique experiences or personal knowledge.
+   With these principles in mind, we consider each of the
+challenged witnesses in turn.
+ B. Dr. Kingshuk Das
+    Holmes argues that the district court erroneously allowed
+Dr. Kingshuk Das, who worked as a laboratory director at
+Theranos, to offer expert opinion testimony. Das began
+working at Theranos in March of 2016. Holmes hired him
+to review and respond to the CMS Report, a task that became
+Das’s near “sole responsibility.” In carrying out this role,
+Das had many conversations with Holmes about the CMS
+Report, the company’s response to its findings, and
+Theranos’s quality control data from Edison tests run in
+2014 and 2015.
+    Das testified that, in responding to the CMS Report, he
+was involved in Theranos’s performance of Patient Impact
+Assessments (PIAs)—one of two retrospective analyses of
+the Edison. According to Das, the PIAs were “descriptions
+of [Theranos’s] assessment on [its] evaluation of whether
+these tests led to potential for patient harm.” To perform
+these assessments, Das reviewed three categories of
+Theranos documents: validation reports for tests performed,
+quality control results and reports, and patient test result
+distributions and calculations. The PIAs were sent to CMS
+as part of Theranos’s response to CMS’s deficiency findings.
+   Over Holmes’s objection, the government introduced the
+PIA concerning Theranos’s proprietary Edison device. That
+document states, and Das confirmed, that the Theranos
+20                     USA V. HOLMES
+
+
+“laboratory conducted an expanded retrospective analysis
+for 2014 and 2015 [quality control] data,” with the goal of
+“see[ing] how far the poor performance extended.” Based
+on that comprehensive analysis, the laboratory concluded
+that “there [was] a possible patient impact for every test
+reported from the laboratory’s TPS 3.5 [Edison]
+instruments.” Das confirmed that, based on the data
+analyzed in the PIA, he found the Edison “unsuitable for
+clinical use.”
+    Das further testified that he conveyed these results and
+conclusions to Holmes. While Theranos was preparing its
+response to CMS, Das shared with Holmes his concerns that,
+based on “the validation data,” he believed that “these
+instruments apparently were not performing from the very
+beginning.” Das then explained that, when he raised these
+issues, Holmes attributed the poor results to laboratory
+control failures rather than an issue with the device itself—
+an explanation that Das found unsatisfying.
+    Holmes claims that “[t]he government’s examination of
+Das was an ‘end-run around Rule 702 and Daubert.’” See
+In re: Taxtore (Docetaxel) Prods. Liab. Litig., 26 F.4th 256,
+264 (5th Cir. 2022). The PIA and Das’s opinions about
+Theranos’s quality control data, according to Holmes,
+“rested on sophisticated data analysis based on extensive
+scientific training.” In response, the government argues that
+Das properly testified as a percipient witness because he
+merely described the job he was hired to do, and the PIA is
+not expert testimony but rather an admission by Theranos—
+and, by extension, Holmes—that there were serious
+reliability issues with the Edison device.
+   The government’s argument is misplaced. As we
+explained, there is no “on-the-job” exception to Rule 702.
+                       USA V. HOLMES                       21
+
+
+That Das described personal observations made while
+performing his job would not take his testimony outside the
+scope of Rule 702 if Das offered opinions that relied on
+specialized knowledge, training, or skill. See Figueroa-
+Lopez, 125 F.3d at 1246. And there is little doubt that the
+PIA and Das’s opinions concerning the suitability of the
+Theranos device for clinical use were based on specialized
+knowledge. Das testified that he reviewed data collected by
+Theranos (i.e., validation reports, quality control data, and
+patient test result distributions and calculations), conducted
+a comprehensive retrospective analysis of this data, and
+reached conclusions about the Edison device based on this
+statistical analysis. In his conversations with Holmes, Das
+used “terms of the validation data in describing that these
+instruments apparently were not performing from the very
+beginning.”        Das’s conclusion, reached after a
+comprehensive statistical analysis and interpretation of the
+results, was clearly based on highly specialized knowledge.
+    Moreover, the district court recognized before trial that
+the “Six Sigma” data analysis—the second retrospective
+analysis of the Edison that Das conducted—would have
+approached expert witness territory. Holmes argues, and the
+government does not refute, that the analysis contained in
+the PIA was not meaningfully different from the Six Sigma
+data analysis in terms of the specialized training or
+knowledge required to reach the resulting opinions. We
+therefore conclude that certain aspects of Das’s testimony,
+including the PIA, and Das’s accompanying opinions about
+the Edison device, amounted to expert opinions. To the
+extent that the government used Das’s testimony to prove
+that there were significant problems with the accuracy and
+reliability of the Edison device, Rule 702 required that Das’s
+opinions be subject to Daubert scrutiny.
+22                          USA V. HOLMES
+
+
+    Nevertheless, any error in admitting these opinions was
+harmless. To the extent that Holmes is now challenging
+Das’s qualifications as an expert, we conclude he was
+qualified. See id. at 1247. Based on his extensive experience
+working in clinical laboratories, Das would have easily
+qualified as an expert to deliver the disputed opinion
+testimony. See United States v. Holguin, 51 F.4th 841, 855–
+56 (9th Cir. 2022) (finding error in admitting expert
+testimony harmless and recognizing that “[e]xperience
+alone” could be reliable basis for certain expert testimony).
+“[T]he failure formally to go through the usual process—
+although an error—was clearly harmless.” Figueroa-Lopez,
+125 F.3d at 1247.
+    Holmes also stresses that Daubert required the district
+court to scrutinize the reliability of Das’s opinions under
+Rule 702. 3 It is not likely however that the admission of
+Das’s opinion testimony affected the jury’s verdict, given
+the weight of other evidence against Holmes. The standard
+of harmlessness for evidentiary errors in this circuit is clear.
+See United States v. Charley, 1 F.4th 637, 651 (9th Cir.
+2021). “Evidentiary errors ‘are not harmless unless it is
+more probable than not that the erroneous admission of the
+evidence did not affect the jury’s verdict.’” Id. (quoting
+
+3
+  Holmes also argues a discovery violation based on the government’s
+failure to disclose Das as an expert. See Fed. R. Crim. P. 16. “[A]
+violation of Rule 16 does not itself require reversal, or even exclusion of
+the affected testimony.” Figueroa-Lopez, 125 F.3d at 1247. The
+discovery violation must have resulted in prejudice to the defendant’s
+substantial rights. United States v. Basinger, 60 F.3d 1400, 1407 (9th
+Cir. 1995). Holmes was aware of the substance of Das’s testimony as
+early as February 2021. And as Holmes recognizes, the substance of
+Das’s scientific opinions largely overlapped with that of Dr. Stephen
+Master, who was timely disclosed. On these facts, any untimely
+disclosure did not result in prejudice.
+                         USA V. HOLMES                         23
+
+
+United States v. Hill, 953 F.2d 452, 458 (9th Cir. 1991)).
+Holmes objects to Das’s opinions concerning the accuracy
+and reliability of the Edison device, but his was not isolated
+testimony on that subject. Multiple former Theranos
+employees reported similar problems with the technology,
+and Das’s testimony was essentially cumulative of theirs.
+    Das’s testimony was relevant to misrepresentations
+concerning the technological capabilities of the device, but
+such misrepresentations constituted only one of numerous
+types of misrepresentations to investors that the government
+alleged and presented evidence to prove. The government
+offered evidence that Holmes misrepresented Theranos’s
+financial status, its reliance on third-party testing devices, its
+partnerships with Walgreens and the military, and
+pharmaceutical companies’ purported validation of
+Theranos’s technology.          Das’s testimony about the
+technology’s unreliability was not essential to proving any
+of these misrepresentations.
+    Moreover, after the district court permitted the
+government to call Das as a percipient witness, Holmes
+never requested a Daubert hearing to test the reliability of
+his testimony. Nor did she object when Das offered the
+opinions she now challenges. Only when the court admitted
+the PIA itself did Holmes raise a Rule 702 objection. There
+was no reversible error by the district court.
+  C. Dr. Adam Rosendorff and Dr. Mark Pandori
+    Balwani challenges certain testimony given by two other
+former Theranos laboratory directors—Dr. Adam
+Rosendorff and Dr. Mark Pandori. Both testified that there
+were problems with Theranos’s laboratory tests. During
+Rosendorff’s tenure, he developed concerns about the
+systemic inaccuracy of the Theranos device, specific tests
+24                      USA V. HOLMES
+
+
+offered to patients, management’s unwillingness to perform
+proper proficiency testing as required by federal regulations,
+and the pressure he felt to explain problematic results when
+patients and physicians complained.
+    Like Rosendorff, Pandori testified that the “failure rate
+of the controls on the Edisons was notably higher than what
+[he] would see on the assay equipment with which [he] had
+familiarity.” Pandori detailed his experience with the
+proficiency testing at Theranos, which he described as a
+regulatory requirement that was meant to be “a neutral way
+to ascertain the quality of [a] test.” His concern stemmed
+from the fact that the proficiency tests were performed on
+third-party devices, whereas actual patient samples were run
+on Theranos-manufactured devices. And when the same
+tests were run on Theranos devices and third-party devices,
+the significant differences in the results led him to question
+the accuracy of Theranos’s device.
+    We conclude that, as with Das, some aspects of these
+witnesses’ testimonies veered into expert territory. A prime
+example is Rosendorff’s explanation of hemolysis.
+Rosendorff testified that hemolysis is the “bursting of red
+blood cells,” which can happen “when you collect the
+blood.” Rosendorff explained that damage to the red blood
+cells can cause “whatever is inside of the red blood cells [to]
+get[] into the sample, and it can really interfere with the
+detection of a lot of different things.” This, according to
+Rosendorff, interfered with the ability of the Theranos
+devices to read the sample, thereby affecting the accuracy
+and reliability of the tests. Rosendorff further explained that
+hemolysis was more common in Theranos fingerstick
+samples rather than standard vein samples. This is plainly
+expert opinion within the meaning of Rule 702 because a lay
+person without specialized scientific training or education
+                        USA V. HOLMES                        25
+
+
+would not know what hemolysis means, why it more
+commonly occurs when blood is collected from via a
+fingerstick rather than a venous blood draw, or how it can
+interfere with the accuracy of test result. See United States
+v. Finley, 301 F.3d 1000, 1008, 1013 (9th Cir. 2002)
+(describing expert testimony as that which goes “beyond the
+common knowledge of the average layman”). The fact that
+Rosendorff personally observed a relationship between
+hemolysis and the accuracy of certain Theranos tests would
+not remove this testimony from the ambit of Rule 702. See
+Figueroa-Lopez, 125 F.3d at 1246.
+    Similarly, Pandori’s testimony about the results of
+Theranos’s proficiency testing constituted expert opinion.
+Pandori explained that Theranos conducted proficiency
+testing by running certain tests on third-party machines, and
+then ran the same tests on Theranos devices, and compared
+the results. Pandori explained that the third-party machines
+were “extraordinarily vetted methodolog[ies],” meaning
+“one might feel very confident that a [third-party] method
+will give an accurate result.” Pandori then testified that there
+were “large differences” between the third party and
+Theranos testing. He specifically stated that “you would
+need to be an expert to appreciate the differences because
+the differences don’t look large.” By Pandori’s own
+explanation, a lay person would not know whether the
+differences in the results were significant.
+    These opinions required the witnesses to draw on their
+respective specialized experience and background in clinical
+labs. The government’s questions illustrate the expert nature
+of these opinions because they called on the witnesses to
+compare the quality control issues experienced at Theranos
+with quality control issues at other labs and to explain why
+problems were worse at Theranos.            Only one with
+26                     USA V. HOLMES
+
+
+specialized experience in clinical laboratory science could
+understand whether the problems suffered at Theranos were
+unique or particularly problematic—an average lay person
+without that background would not be able to opine on
+Theranos’s problems relative to other laboratories.
+    Still, any error in permitting Rosendorff’s or Pandori’s
+testimonies was harmless for the same reason the
+erroneously admitted testimony in Figueroa-Lopez was
+harmless. See 125 F.3d at 1247. Rosendorff testified as to
+his medical background and qualifications to serve as
+laboratory director. Rosendorff completed medical school,
+a fellowship in basic science research in a laboratory,
+worked as a post-doctoral fellow at Harvard University in a
+laboratory, completed specialized training in laboratory
+medicine, and oversaw laboratory testing at a children’s
+hospital for five years. Pandori received a doctoral degree
+and was trained as a public health microbiologist at the
+California Department of Public Health. He worked as a
+postdoctoral research fellow at Harvard University School
+of Medicine and became an instructor of medicine there.
+Pandori then served as the chief microbiologist at the San
+Francisco Department of Public Health Laboratory, which
+was a Clinical Laboratory Improvement Amendments
+(“CLIA”)-certified diagnostic laboratory that ran blood tests.
+Both Rosendorff and Pandori would have easily qualified as
+experts, and their extensive experiences allowed them to
+draw reliable conclusions about problems with Theranos’s
+device and testing services. See Holguin, 51 F.4th at 855
+(“The Rules Advisory Committee has explicitly recognized
+that ‘the application of extensive experience’ is a ‘method’
+                            USA V. HOLMES                              27
+
+
+that can reliably support expert testimony.” (quoting Fed. R.
+Evid. 702 advisory committee’s note to 2000 amendment)). 4
+    D. Erika Cheung
+    Balwani argues that Erika Cheung, a former Theranos
+laboratory associate, also offered expert testimony in
+violation of Rule 702.
+    Cheung was hired immediately after graduating college.
+During her time at Theranos, Cheung ran test samples on the
+Edison device and became familiar with which types of tests
+each device ran. Cheung was responsible for running quality
+controls, which she described as “essentially a check that
+you have to do before you run the patient samples.”
+According to Cheung, in “[quality control], you have a
+known concentration of a particular test.” The known
+sample is put into the machine, which “gives . . . an answer”
+that should reflect the known value of the sample or a value
+“in some acceptable range.” Cheung explained that quality
+control testing “gives you some level of confidence that all
+of the parts and pieces of the system are working properly.”
+     Cheung testified, and documentary evidence presented
+by the government corroborated, that the Edison device
+frequently failed these quality control checks. Cheung
+eventually concluded that the Theranos blood testing devices
+were “highly unreliable” because quality controls were
+failing with such high frequency across multiple tests.
+Although devices that failed quality control were not used
+
+
+4
+  Additionally, Balwani failed to object to the vast majority Rosendorff’s
+testimony, including instances where he expressed concerns about the
+accuracy of certain tests and problems in the laboratory. Even if certain
+portions of his testimony were erroneously admitted, it is unlikely they
+materially affected the impact of Rosendorff’s testimony in its entirety.
+28                      USA V. HOLMES
+
+
+for patient testing, Cheung nevertheless harbored concerns
+about the accuracy of patient tests. Over Balwani’s Rule 702
+objection, Cheung explained that “if you just extrapolate out
+essentially the percentage of failures that are happening
+across the system, even if we change the device, there’s
+something still going on that is causing one out of four
+failures of every single test that we do on this . . . system.”
+    Balwani argues that Cheung’s testimony concerning the
+capabilities and accuracy of the Theranos technology
+constituted impermissible expert opinions. Even though
+Cheung did not have any relevant expertise or special
+statistical training, Balwani nevertheless contends that
+because Cheung’s opinions about quality control were
+derived from her on-the-job training at Theranos, her
+testimony falls within Rule 702 pursuant to Figueroa-Lopez.
+Not so. Figueroa-Lopez does not stand for the proposition
+that testimony given by a percipient witness is “expert”
+merely because the testimony concerns a matter that a
+witness learned about at her job. See 125 F.3d at 1244, 1247.
+Figeroa-Lopez involved officers who offered an
+interpretation of a specific set of facts based on an
+application their prior law enforcement training and
+experience that were completely unrelated to those facts.
+See 125 F.3d at 1246. In contrast, Cheung testified about her
+training at Theranos for the purpose of explaining what she
+understood that training to mean, not for the purpose of
+applying that training to reach conclusions about an
+unrelated set of facts.
+    Importantly, Balwani does not argue that any scientific
+expertise is required to know whether a given sample passed
+or failed quality control. Had Cheung testified as to the
+mechanics or operation of the Edison device, or how the
+device generated quality control results, that may have
+                        USA V. HOLMES                         29
+
+
+hewed closer to expert testimony. But Cheung only testified
+that she ran samples in the Theranos device and that the
+device indicated that those samples failed quality control.
+Balwani himself described this as nothing more than
+“scan[ning] barcodes, load[ing] samples into cartridges and
+machines, and then ‘hit[ting] start.’” Such testimony
+resembles that offered in United States v. Jimenez-Chaidez,
+96 F.4th 1257, 1267–68 (9th Cir. 2024), where we found that
+an FBI agent appropriately testified as a lay witness when
+the agent used software to extract information from a cell
+phone. The agent did not testify as to the mechanics of the
+software, but rather testified as to the report that the software
+produced. Id. The agent’s testimony about the report was
+“based on his perception and not specialized knowledge.”
+Id. at 1267. Similarly, Cheung’s testimony did not require
+specialized knowledge.
+    Moreover, it takes no special knowledge, training, or
+education to infer that when a device consistently fails
+measures designed to test the accuracy of the device, the
+device may in fact suffer from accuracy issues. To borrow
+the district court’s analogy, if a certain model of a toaster
+consistently burned bread or short-circuited when run on
+regular settings, and those problems consistently manifested
+across multiple toasters of the same model, a lay person
+using the toaster could reasonably reach the conclusion that
+there is a problem with the design or manufacturing of the
+toaster. Similarly, Cheung could offer lay opinion testimony
+that repeated quality control problems with the Edison
+device signaled a problem with the device.
+   We therefore conclude that the district court did not
+abuse its discretion in admitting Cheung’s testimony about
+quality control problems that led her to question the accuracy
+and reliability of the Theranos device as lay opinion.
+30                     USA V. HOLMES
+
+
+                     II. CMS Report
+     The CMS Report was the subject of intense litigation
+below. The district court denied Holmes’s pre-trial motion
+in limine to exclude the Report, rejecting her arguments that
+its probative value was substantially outweighed by its risk
+of unfair prejudice. Over Holmes’s renewed objection at
+trial, the government introduced the CMS Report into
+evidence during its direct examination of Das. After Das’s
+testimony, Holmes moved to strike the report and Das’s
+related testimony, which the district court denied.
+    On appeal, Holmes argues that the CMS Report was
+irrelevant under Federal Rule of Evidence 401 first, because
+the Report was issued in January 2016—after the alleged
+misrepresentations to investors took place—and second,
+because the Report made no findings as to whether
+Theranos’s technology was in fact accurate or reliable.
+Holmes further argues that the Report should have been
+excluded pursuant to Federal Rule of Evidence 403 because
+there was a significant risk that the Report would mislead the
+jury. We review the district court’s decision as to the
+admissibility of the Report for an abuse of discretion. See
+Figueroa-Lopez, 125 F.3d at 1244. Under this standard, we
+will only reverse a district court’s decision if the decision
+“(1) illogical, (2) implausible, or (3) without support in
+inferences that may be drawn from the facts in the record.”
+United States v. Hinkson, 585 F.3d 1247, 1262 (9th Cir.
+2009) (en banc) (quotation omitted).
+    First, the district court did not abuse its discretion in
+finding that the CMS Report was relevant to questions about
+Holmes’s state of mind, intent, and knowledge regarding the
+alleged misrepresentations about the accuracy and reliability
+of Theranos’s blood tests. As the district court recognized,
+                        USA V. HOLMES                        31
+
+
+the Report and the related testimony were probative of
+Holmes’s knowledge of the state of Theranos’s clinical
+laboratory in late 2015, when the CMS inspection occurred,
+and early 2016, when the Report was received by Theranos.
+The Report therefore makes it more likely that Holmes also
+knew about the condition of the lab during the charging
+period even if Holmes did not receive the Report itself until
+after the alleged misrepresentations were made. See United
+States v. Bibo-Rodriguez, 922 F.2d 1398, 1400 (9th Cir.
+1991) (recognizing that subsequent acts may raise an
+inference of prior knowledge); United States v. Nelson, 137
+F.3d 1094, 1106–07 (9th Cir. 1998) (same); United States v.
+Boulware, 384 F.3d 794, 805 (9th Cir. 2004) (“Evidence is
+relevant if it has ‘any tendency to make the existence of any
+fact that is of consequence to the determination of the action
+more probable or less probable than it would be without the
+evidence.’” (quoting Fed. R. Evid. 401) (emphasis added)).
+    Second, the district court did not abuse its discretion in
+finding that the probative value of the CMS Report was not
+substantially outweighed by its potential for unfair
+prejudice. “A district court’s decision to exclude or admit
+evidence under [Rule] 403 is reviewed ‘with considerable
+deference.’” United States v. Hankey, 203 F.3d 1160, 1167
+(9th Cir. 2000) (quoting United States v. Cordoba, 194 F.3d
+1053, 1063 (9th Cir. 1999)).
+    With the benefit of extensive briefing and oral argument,
+the district court fully and carefully considered Holmes’s
+arguments and declined to exclude the CMS Report on three
+separate occasions: first, in denying Holmes’s motion in
+limine to exclude the Report, again in deferring ruling on
+Holmes’s proposed redactions to the Report and its cover
+letter, and finally, in denying her motion to strike the Report.
+The district court’s decision to admit the Report certainly
+32                       USA V. HOLMES
+
+
+does not “lie[] beyond the pale of reasonable justification
+under the circumstances.” United States v. Hollis, 490 F.3d
+1149, 1153 (9th Cir. 2007) (quoting Harman v. Apfel, 211
+F.3d 1172, 1175 (9th Cir. 2000)).
+    Importantly, the district court implemented appropriate
+safeguards to minimize the risk of unfair prejudice to
+Holmes by instructing the jury that its limited purpose was
+to show Holmes’s state of mind and that she could not be
+found guilty merely because she may have violated
+regulations or industry standards. Holmes cites United
+States v. Wolf, 820 F.2d 1499 (9th Cir. 1987), to argue that
+jury instructions are not always curative of prejudice
+associated with evidence of regulatory violations. But
+unlike the instruction in Wolf, which vaguely described the
+regulations at issue as “background evidence,” 820 F.2d at
+1505, the instructions given by the district court here
+explicitly informed the jury that any CLIA violations
+reported by CMS were not independently relevant of
+Holmes’s guilt. Nothing in the record rebuts the “strong[]
+presum[ption] that the jury followed the court’s instruction.”
+United States v. Ubaldo, 859 F.3d 690, 704 (9th Cir. 2017).
+    In sum, the district court did not err in admitting the CMS
+Report as evidence of Holmes’s knowledge, intent, or state
+of mind.
+                  III.     Voiding Results
+    Holmes also argues that the district court abused its
+discretion by allowing Das to testify that Theranos voided
+all patient tests run on the Edison. That testimony, Holmes
+claims, is evidence of a “subsequent remedial measure” that
+Theranos took out of “an abundance of caution.” As such, it
+should have been excluded under Federal Rule of Evidence
+407, which provides that “[w]hen measures are taken that
+                           USA V. HOLMES                             33
+
+
+would have made an earlier injury or harm less likely to
+occur, evidence of the subsequent measures is not admissible
+to prove . . . culpable conduct.” Fed. R. Evid. 407. We
+assume, without deciding, that Theranos’s decision to void
+results of patient tests run on the Edison constitutes a
+“measure” within the meaning of the Rule. 5             We
+nevertheless find that the district court did not abuse its
+discretion in admitting this evidence.
+    “The purpose of Rule 407 is not implicated in cases
+involving subsequent measures in which the defendant did
+not voluntarily participate.” In re Aircrash in Bali,
+Indonesia, 871 F.2d 812, 817 (9th Cir. 1989). Rule 407 is
+meant to avoid “‘punish[ing]’ the defendant for his efforts to
+remedy his safety problems,” so the rule does not
+contemplate exclusion of evidence that the defendant took
+actions that it was legally obligated to take. Id. The central
+issue here is whether Theranos’s decision to void tests was
+truly “voluntary.”       Because this issue goes to the
+admissibility of the voiding evidence under Rule 407, it is a
+preliminary question for the district court to decide. Fed. R.
+Evid. 104(a). Where a preliminary question turns on a
+question of fact, it must be established by a preponderance
+of the evidence, and the district court’s fact-finding on that
+question is subject to clear error review. See Bourjaily v.
+United States, 483 U.S. 171, 175–76 (1987).
+    When the district court overruled Holmes’s Rule 407
+objection and allowed Das to testify regarding the voiding,
+it implicitly found that the decision to void was not
+
+5
+  The government urges us to conclude that “Theranos’s internal analysis
+leading to the voiding” is not a “measure” protected by Rule 407. But
+we reach the same conclusion regardless of whether voiding results is a
+“remedial measure” rather than an “internal analysis.”
+34                          USA V. HOLMES
+
+
+voluntary. As Holmes’s counsel recognized prior to Das’s
+testimony, there was evidence in the record that could
+support a finding either way on the voluntariness issue. And
+“[w]here there are two permissible views of the evidence,
+the factfinder’s choice between them cannot be clearly
+erroneous.” United States v. Working, 224 F.3d 1093, 1102
+(9th Cir. 2000) (en banc) (quotation omitted).
+    Additionally, the district court carefully balanced the risk
+of prejudice against the probative value of the evidence
+pursuant to Rule 403. 6 The district court reasonably
+concluded that this evidence is highly probative of Holmes’s
+knowledge and state of mind because the decision to void
+every single patient test result generated by the Edison is an
+admission by Theranos, and by extension Holmes, that the
+test results were, and always had been, unreliable, despite
+Holmes’s representations to investors saying exactly the
+opposite. Moreover, the district court reasonably concluded
+that the government proffered adequate evidence linking
+Holmes’s 2016 conduct and the charged conduct, where
+investor-victims testified that in 2016, Holmes
+“downplayed” the CMS inspection and kept investors in the
+
+6
+  We reject Holmes’s assertion that we must apply de novo review
+because the district court failed to explicitly perform any Rule 403
+balancing. In overruling Holmes’s objection, “it is clear from the record
+that the district court implicitly made the necessary finding.” United
+States v. Ramirez-Jiminez, 967 F.2d 1321, 1326 (9th Cir. 1992). The
+parties’ motions in limine concerning the voiding evidence addressed
+Rule 403 considerations, the district court entertained oral argument on
+those motions, and it acknowledged the Rule 403 considerations in its
+order deferring ruling on the motions. The record is sufficient for us to
+conclude that “the court considered [Rule 403’s] requirements before
+admitting the evidence.” United States v. Lillard, 354 F.3d 850, 855 (9th
+Cir. 2003). We therefore review the district court’s decision for an abuse
+of discretion.
+                        USA V. HOLMES                       35
+
+
+dark regarding the seriousness of the problems with
+Theranos’s tests. We cannot say that the district court’s
+decision to admit the evidence of voiding is so illogical,
+implausible, or without support in the record as to constitute
+an abuse of discretion. See Hinkson, 585 F.3d at 1251.
+          IV.    Rosendorff Cross-Examination
+    Holmes argues that the district court violated her rights
+under the Confrontation Clause of the Sixth Amendment
+when it prohibited her from cross-examining Rosendorff on
+certain aspects of his post-Theranos employment. As the
+laboratory director at Theranos, Rosendorff was
+“responsible for ensuring that the tests that come out of a lab
+are appropriate for patient care,” which included monitoring
+the accuracy of tests.
+    Holmes sought to cross-examine Rosendorff about his
+employment at three different companies after he left
+Theranos, which she claimed “bore directly on Rosendorff’s
+credibility and competence.” The district court allowed
+cross-examination as to Rosendorff’s employer at the time
+of trial, PerkinElmer, but prohibited further questioning as
+to the other employers. At the time of trial, PerkinElmer was
+under investigation by the same CMS investigators who had
+conducted the inspection of the Theranos laboratory. The
+district court permitted Holmes’s counsel “to probe any
+issues of bias that may exist” regarding Rosendorff’s
+personal stake in the PerkinElmer investigation.
+    The district court’s ruling was well within its discretion.
+See United States v. Larson, 495 F.3d 1094, 1101 (9th Cir.
+2007) (en banc) (setting forth the standard of review for a
+Confrontation Clause challenge to the district court’s
+“limitation on the scope of questioning within a given area”).
+Holmes was allowed to question Rosendorff about the
+36                          USA V. HOLMES
+
+
+personal consequences attached to the pending CMS
+investigation at PerkinElmer, which was adequate to expose
+Rosendorff’s stake in cooperating with CMS.              Id.
+(identifying the relevant issue as whether “the exclusion of
+evidence left the jury with sufficient information to assess
+the credibility of the witness” (quotation omitted)).
+    Holmes argues that evidence of problems elsewhere
+would have bolstered her defense that Rosendorff’s
+incompetence obscured any problems in the lab from her.
+Even assuming this is true, “[di]strict courts have
+‘considerable latitude even with admittedly relevant
+evidence in rejecting that which is cumulative.’” United
+States v. Shih, 73 F.4th 1077, 1097 (9th Cir. 2023) (quoting
+Hamling v. United States, 418 U.S. 87, 127 (1974)).
+Holmes’s cross-examination of Rosendorff lasted nearly
+four-and-half trial days, during which Holmes thoroughly
+attacked Rosendorff’s competence. The Confrontation
+Clause does not require more. See United States v. Weiner,
+578 F.2d 757, 766 (9th Cir. 1978) (per curium) (“The court
+in its discretion may limit cross-examination in order to
+preclude repetitive questioning, upon determining that a
+particular subject has been exhausted, or to avoid extensive
+and time-wasting exploration of collateral matters.”). 7
+
+
+
+
+7
+  Holmes argues that Rosendorff’s employment at another company,
+uBiome, was relevant to show Rosendorff’s motive to testify favorably
+for the government. But the uBiome criminal investigation centered on
+billing practices, not the reliability of its tests. And Rosendorff was not
+a target of that investigation. Any relevance of this evidence would have
+been marginal.
+                            USA V. HOLMES                             37
+
+
+    Therefore, the district court did not abuse its discretion
+in limiting the scope of Holmes’s cross-examination into
+Rosendorff’s post-Theranos employment. 8
+          V. Balwani’s Statement Against Interest
+   During trial, Holmes moved to admit excerpts of
+deposition testimony given by Balwani to the Securities and
+Exchange Commission (“SEC”), under Federal Rule of
+Evidence 804(b)(3), as statements against interest. On
+appeal, Holmes argues that the following statements should
+have been admitted:
+
+         A: Around 2010, when we started engaging
+         with the retail pharmacies, Safeway and
+         Walgreens, I started building a financial
+         model with the help initially from Safeway
+         and Walgreens that I owned . . . until I left the
+         company.
+         Q: By saying you owned, you mean you were
+         the person responsible for the company’s
+         financial projections as you just described?
+         A: Financial model.
+         ***
+
+
+
+
+8
+  Holmes also argues that the government “opened the door” when it
+elicited testimony that the problems Rosendorff experienced at Theranos
+were worse than expected based on experience at other labs. But the
+district court struck that question and answer from the record and
+instructed the jury to disregard it. Holmes does not persuasively explain
+why that instruction was inadequate. See United States v. Saelee, 51
+F.4th 327, 345 (9th Cir. 2022) (citing United States v. Parks, 285 F.3d
+1133, 1139 (9th Cir. 2002)).
+38                      USA V. HOLMES
+
+
+       Q: Was there anyone else from Theranos
+       who was working on the model while you
+       were working on it?
+       A: I don’t think so . . . . Nobody with direct
+       access to the model. I don’t think anybody
+       else modified it.
+       Q: [Holmes] was generally familiar with the
+       kinds of inputs that went into the financial
+       model?
+       A: She may have been at some point, but I
+       was revving the model and adding so many
+       assumptions that she may not be familiar with
+       all of them or even most of them.
+       ***
+       Q: Did she ever edit the model?
+       A: To the best of my knowledge, no.
+
+We conclude that the district court did not abuse its
+discretion in declining to admit these statements.
+    Under the exception to the rule against hearsay for
+statements against penal interest, the proponent of the
+statement must show “(1) the declarant is unavailable as a
+witness; (2) the statement so far tended to subject the
+declarant to criminal liability that a reasonable person in the
+declarant’s position would not have made the statement
+unless he believed it to be true; and (3) corroborating
+circumstances clearly indicate the trustworthiness of the
+statement.” United States v. Paguio, 114 F.3d 928, 932 (9th
+Cir. 1997). Neither party disputes that Balwani was
+unavailable after invoking his Fifth Amendment privilege
+against self-incrimination. To satisfy the second element,
+the prior statements must “solidly inculpate” the declarant—
+                        USA V. HOLMES                       39
+
+
+mere speculation that the statement may have subjected the
+declarant to criminal liability will not suffice. United States
+v. Monaco, 735 F.2d 1173, 1176 (9th Cir. 1984).
+    The district court correctly recognized that Balwani’s
+statements were not solidly inculpatory because “[it] is . . .
+not a crime to take ownership over the creation of a financial
+model.” Even if a reasonable person in Balwani’s position
+knew that Theranos’s “financial projections” were in the
+SEC’s crosshairs, he did not clearly or unequivocally take
+responsibility for those projections. To the contrary, when
+the government asked if he was the person responsible for
+the company’s “financial projections,” Balwani clarified that
+he was responsible for the “financial model.” Balwani
+admitted to owning the financial model while expressly
+disclaiming responsibility for the financial projections, with
+the latter being the primary interest of the SEC and U.S.
+Attorney’s Office. See United States v. Oropeza, 564 F.2d
+316, 325 (9th Cir. 1977) (disagreeing that a hearsay
+statement was exculpatory of the defendant where the co-
+conspirator “averred that [the defendant] was not involved
+in the heroin distribution scheme, that the .357 magnum
+pistol belonged to [the co-conspirator], and that [the
+defendant] never ‘possessed’ the pistol” because the
+“statement was merely a general assertion of [the
+defendant’s] innocence rather than an assertion of [the co-
+conspirator’s] own culpability”); United States v. Lynch, 903
+F.3d 1061, 1072–74 (9th Cir. 2018) (finding the statement
+that “[Defendant] didn’t know anything about this deal” not
+admissible under Rule 804(b)(3) because “[s]tating the
+negative, that another person does not know about a crime,
+hardly inculpates the declarer, and certainly neither ‘so far’
+nor so clearly that a reasonable person would not say so if
+the statement were false” (quotation omitted)).
+40                          USA V. HOLMES
+
+
+   We therefore conclude that the district court did not
+abuse its discretion in declining to admit these statements.
+               VI.      Constructive Amendment
+    Balwani argues that the district court violated his Fifth
+Amendment rights by constructively amending the
+Indictment. Specifically, Balwani claims that evidence
+concerning the accuracy and reliability of Theranos tests run
+on conventional technology constructively amended the
+Indictment, which, according to Balwani, only charged him
+with misrepresentations concerning the accuracy and
+reliability of Theranos tests run on proprietary technology.
+Upon de novo review, we reject this argument. 9
+    Under the Fifth Amendment, “a court cannot permit a
+defendant to be tried on charges that are not made in the
+indictment against him.” United States v. Miller, 471 U.S.
+130, 143 (1985) (quotation omitted).
+
+         Discrepancies between an indictment and
+         evidence presented at trial amount to a
+         constructive amendment in two general
+         situations: first, when “there is a complex set
+         of facts distinctly different from those set
+
+9
+  We generally review allegations of constructive amendment de novo.
+United States v. Bhagat, 436 F.3d 1140, 1145 (9th Cir. 2006). The
+government argues for plain error review because Balwani did not object
+at trial. We decline to do so because, as the district court recognized in
+its order denying Balwani’s motion for release pending appeal, it
+considered the substance of this argument, including Balwani’s
+interpretation of the scope of the indictment, in its prior order denying
+his motion in limine. See United States v. Valera-Rivera, 279 F.3d 1174,
+1177 (9th Cir. 2002) (recognizing that issue is preserved for appeal
+where substance was “thoroughly explored” in district court (quoting
+United States v. Palmer, 3 F.3d 300, 304 (9th Cir. 1993))).
+                       USA V. HOLMES                       41
+
+
+       forth in the charging instrument” such that
+       the defendant lacked notice; and second,
+       when “the crime charged was substantially
+       altered at trial, so that it was impossible to
+       know whether the grand jury would have
+       indicted for the crime actually proved.”
+
+United States v. Lopez, 4 F.4th 706, 727–28 (9th Cir. 2021)
+(quoting United States v. Von Stoll, 726 F.2d 584, 586 (9th
+Cir. 1984)). Balwani describes this case as the first kind: By
+presenting evidence concerning the inaccuracy of Theranos
+tests run on conventional technology, the government
+presented a complex set of facts distinctly different from
+those set forth in the indictment.
+    We begin our analysis of Balwani’s constructive
+amendment claim by determining what the Indictment may
+be fairly read to charge. In so doing, we are guided by the
+principle that the purpose of an indictment is “to provide the
+defendant with fair notice of the charges against him and to
+ensure that the defendant is not placed in double jeopardy.”
+United States v. Luong, 965 F.3d 973, 985 (9th Cir. 2020).
+“[A]n indictment is not to be read in a technical manner, but
+is to be construed according to common sense with an
+appreciation of existing realities.”       United States v.
+Anderson, 532 F.2d 1218, 1222 (9th Cir. 1976).
+    In support of the constructive amendment claim,
+Balwani distinguishes the Indictment’s background
+references to Theranos’s “blood testing services” from the
+charging allegations that only identify “Theranos
+technology.” But parsing out the charging allegations from
+the background allegations in the way that Balwani proposes
+is not the most logical way to read the Indictment. The
+Indictment includes multiple statements that refer not
+42                     USA V. HOLMES
+
+
+specifically to Theranos’s proprietary analyzer, but rather to
+Theranos and its “testing services” or “technology” more
+generally. Importantly, the Indictment also alleges that, as
+part of their scheme to defraud investors, Holmes and
+Balwani “represented to investors that Theranos conducted
+its patients’ tests using Theranos-manufactured analyzers;
+when, in truth, Holmes and Balwani knew that Theranos
+purchased and used for patient testing third party,
+commercially-available analyzers.” In other words, Balwani
+was charged with misrepresenting the capabilities of
+Theranos’s testing services, and as part of the fraud against
+investors, those services included tests run on conventional
+technology. Applying basic transitive rules, the Indictment
+can be fairly read to charge Balwani with misrepresenting
+the accuracy of tests run on conventional technology.
+    Both the government and Balwani ascribe significance
+to the Indictment’s inclusion of a list of specific tests for
+which Theranos was unable to consistently produce accurate
+and reliable results. The government argues that the list
+includes assays that were not run (and were never run) on
+Theranos technology, including the HIV test, meaning that
+the reliability of tests run on conventional technology was
+squarely at issue in the Indictment. On the other hand,
+Balwani argues that the reference to HIV testing cuts in his
+favor because, at the time of the Indictment, the government
+(incorrectly) believed that HIV tests were conducted using
+proprietary rather than conventional technology. We decline
+Balwani’s invitation to inject a subjective component into
+the constructive amendment analysis because the primary
+consideration is not what the government believes, but rather
+the notice that an indictment fairly and objectively gives to
+the defendant. Luong, 965 F.3d at 985 (finding an
+indictment sufficient where it named the charges against the
+                        USA V. HOLMES                      43
+
+
+defendant even though it did not identify facts for every
+single element of the charge); see also Simpson v. United
+States, 289 F. 188, 189 (9th Cir. 1923) (recognizing that
+indictment is sufficient if “[i]ts meaning is plain” and “a
+person of ordinary intelligence could not be misled as to the
+nature of the charge”). The Indictment plainly gave Balwani
+notice that he was charged with misrepresenting the
+accuracy of a non-exhaustive list of patient tests, regardless
+of which type of device the tests were run on, especially
+when viewed alongside the Indictment’s allegation that he
+and Holmes fraudulently used conventional machines to run
+patient tests.
+    Therefore, Balwani’s constructive amendment claim
+fails.
+                 VII.    Napue Challenge
+    Balwani brings a claim under Napue v. Illinois, 360 U.S.
+264 (1959), that his due process rights were violated by the
+government’s failure to correct allegedly false testimony
+given by two investor-victims, John Bryan Tolbert and Chris
+Lucas. According to Balwani, Tolbert’s and Lucas’s
+testimonies inaccurately describe Holmes’s representations
+regarding Theranos’s military relationships made on a
+December 2013 investor phone call. Applying plain error
+review, we reject this claim.
+  A. Plain error review applies to Balwani’s Napue
+     challenge.
+   Balwani failed to contemporaneously object to the
+aspects of Lucas’s and Tolbert’s testimonies that he now
+argues are false. Nor did he attempt to argue that, once those
+witnesses testified, playing the tape of the recording was
+necessary to impeach their credibility, refresh their
+44                           USA V. HOLMES
+
+
+recollections, or correct false testimony. See United States
+v. Castillo, 181 F.3d 1129, 1132 (9th Cir. 1999) (recognizing
+that “impeachment by contradiction permits courts to admit
+extrinsic evidence that specific testimony is false, because
+contradicted by other evidence”). Indeed, Balwani raised
+this Napue claim for the first time after trial, at his bail
+motion before the district court.
+     Balwani nevertheless argues that the issue is preserved
+because his attempts to introduce the recording prior to the
+witnesses’ testimonies put the district court “on notice” of
+the same Napue arguments he raises now. We disagree.
+Before Tolbert testified, the government signaled that it
+would not introduce the recording. Invoking the best
+evidence rule and the rule of completeness, Balwani urged
+the district court to allow him to play portions of the
+recording during cross-examination. But these arguments
+did not sufficiently bring to the district court’s attention the
+substance of his Napue claim. 10 We therefore review the
+Napue claim for plain error. See United States v. Bingham,
+653 F.3d 983, 995 (9th Cir. 2011) (holding that a Napue
+claim is reviewed for plain error when it was not raised at
+trial). Plain error is found where there is “(1) error, (2) that
+was clear or obvious, (3) that affected substantial rights, and
+(4) that seriously affected the fairness, integrity, or public
+reputation of the judicial proceedings.” United States v.
+Romero-Avila, 210 F.3d 1017, 1022 (9th Cir. 2000).
+
+10
+   We are also not persuaded that the district court’s rejection of
+Balwani’s best evidence and rule of completeness arguments precluded
+Balwani from using the recording to impeach Tolbert or Lucas or
+otherwise raising Napue claims. To the contrary, the district court left
+open the possibility of introducing the tape at a later point, stating in its
+ruling that it “[did]n’t see grounds to allow the defense at this time to
+put” the tape in.
+                       USA V. HOLMES                       45
+
+
+  B. Balwani’s Napue claim fails under plain error
+     review.
+     In Napue, the Supreme Court held that a prosecutor
+violates a defendant’s due process rights by eliciting or
+failing to correct false testimony.
+
+       To establish a Napue violation, a defendant
+       must show: (1) that the testimony was
+       actually false, (2) that the government knew
+       or should have known that it was false, and
+       (3) that the testimony was material, meaning
+       there is a “reasonable likelihood that the false
+       testimony could have affected the judgment
+       of the jury.”
+
+United States v. Renzi, 769 F.3d 731, 751 (9th Cir. 2014)
+(quoting United States v. Houston, 648 F.3d 806, 814 (9th
+Cir. 2011)). Balwani argues that three statements by Tolbert
+and Lucas are false, each of which is discussed below. We
+conclude that the challenged statements are not so clearly or
+obviously false such that Balwani has demonstrated plain
+error.
+    First, Balwani fails to establish the falseness of Lucas’s
+testimony that Holmes told him that the “technology was
+being used in the Middle East and . . . on the battlefield.”
+Even if this testimony is inconsistent with Holmes’s
+statements in the recording, that is insufficient to
+demonstrate actual falsity. Lucas testified that he had
+regular contact with Holmes between 2006 and 2013 leading
+up to his investment and that Holmes provided updates on
+Theranos’s business activities during these conversations.
+Balwani has not negated the possibility that Holmes
+discussed Theranos’s relationship with the military with
+46                      USA V. HOLMES
+
+
+Lucas in one of these other conversations. Thus, Balwani
+cannot show that Lucas’s statement is actually false.
+    Second, Balwani argues that Tolbert gave false
+testimony when he testified that “Holmes had claimed that
+Theranos’ military work would advance, in a ‘broadening of
+the[] [company’s] business opportunities.’” Once again,
+Balwani has failed to show that this testimony is false.
+Although Holmes said on the call that Theranos had paused
+some of its military programs, she also stated that she
+anticipated continuing Theranos’s work with the military:
+“[W]e will proceed with the pharmaceutical and military
+business in leveraging some of this infrastructure and the
+resources from it that we’re building out now.” Moreover,
+Tolbert did not testify that Holmes herself said the military
+work would “broaden” Theranos’s business opportunities.
+Rather, Tolbert testified that he perceived Theranos’s work
+with the military as broadening Theranos’s business
+opportunities as compared to Theranos’s work in 2006.
+Thus, this testimony is not “false” and cannot form the basis
+of a Napue violation.
+    Third, Balwani argues that Tolbert’s testimony that
+Holmes said Theranos devices were “employed on the
+medevac helicopters” and “being used to kind of improve
+survival rates” on the December 2013 phone call was false
+and misleading. Balwani is technically correct: On the
+December 2013 call, Holmes never explicitly said that
+Theranos devices were actively employed by the military or
+used on the battlefield, so Tolbert’s testimony that Holmes
+did say that is in fact “actually false.” According to Balwani,
+this created a “false impression” that Holmes definitively
+stated that the military was currently using Theranos devices
+on the battlefield. See Dickey v. Davis, 69 F.4th 624, 636
+(9th Cir. 2023).
+                        USA V. HOLMES                        47
+
+
+    Although Tolbert’s testimony as to Holmes’s statements
+on the December 2013 call may have been inaccurate,
+nothing in the record suggests that this was anything more
+than a mistaken recollection. We have previously said that
+“[m]ere inconsistencies or honestly mistaken witness
+recollections generally do not satisfy the falsehood
+requirement.” Renzi, 769 F.3d at 752 (citing United States
+v. Bagley, 473 U.S. 667, 678 (1985)). In Henry v. Ryan, 720
+F.3d 1073, 1084 (9th Cir. 2013), we rejected a Napue claim
+where the defendant failed to present any evidence that the
+government’s witness “knew his testimony was inaccurate at
+the time he presented it rather than [the witness’s]
+recollection merely being mistaken, inaccurate, or
+reputable.” Balwani’s Napue claim therefore fails under
+plain error review.
+                   Sentencing Challenges
+    Defendants argue that the district court erroneously
+applied the lower standard of preponderance of the evidence
+for proving loss at sentencing, rather than the higher standard
+of clear and convincing evidence. This argument is
+foreclosed by our recent decision in United States v. Lucas,
+101 F.4th 1158, 1163 (9th Cir. 2024) (en banc), where we
+held that “clear and convincing evidence is not required for
+factual findings under the Guidelines, even when potentially
+large enhancements are at stake.” The district court
+therefore did not err in applying the preponderance-of-the-
+evidence standard.
+    After Lucas, both Holmes and Balwani filed letters
+pursuant to Federal Rule of Appellate Procedure 28(j),
+arguing for the first time that the district court’s findings on
+loss causation and number of victims do not satisfy the
+preponderance-of-the-evidence standard because there was
+48                      USA V. HOLMES
+
+
+no evidence introduced at trial as to five of the ten investors.
+Ordinarily, we do not consider arguments raised for the first
+time in a 28(j) letter. See Kilpatrick v. Kijakazi, 35 F.4th
+1187, 1195 n.1 (9th Cir. 2022). But even on the merits, the
+argument fails.
+    We review factual findings made at the sentencing phase
+for clear error. United States v. Buenrostro-Torres, 24 F.3d
+1173, 1174 (9th Cir. 1994). The thrust of Holmes’s
+argument—which Balwani adopts—is that the government
+did not introduce evidence at trial that five out of the ten
+investor-victims relied on any alleged misrepresentation
+when they made their investment. But this argument rests
+on the faulty premise that the district court was limited to
+admissible trial evidence.           “In making factual
+determinations, a sentencing judge is generally not restricted
+to evidence that would be admissible at trial.” United States
+v. Egge, 223 F.3d 1128, 1132 (9th Cir. 2000). The test is
+whether the evidence bears “sufficient indicia of reliability
+to support its probable accuracy.” Id. (quoting United States
+v. Hopper, 27 F.3d 378, 382 (9th Cir. 1994)).
+    Here, in finding that ten investors qualified as victims—
+and whose investments were relevant for loss purposes—the
+district court relied on trial testimony, prior sworn testimony
+given by witnesses to the SEC, and FBI memoranda
+summarizing statements made by investors in interviews.
+See Holmes I, 2023 WL 149108, at *9; Balwani, 2023 WL
+2065045, at *9–10. There is no basis to conclude that this
+evidence lacked sufficient indicia of reliability. Because the
+district court’s factual findings are not clearly erroneous, we
+affirm Defendants’ sentences.
+                        USA V. HOLMES                        49
+
+
+           Joint Challenge to Restitution Order
+    Finally, we address the district court’s restitution order
+requiring Defendants to pay $452 million to fourteen victims
+under the MVRA. See Holmes II, 673 F. Supp. 3d at 1065–
+66. Defendants argue that the district court erred by
+awarding restitution based on investors’ total investments,
+rather than the diminution in value of the shares after the
+fraud came to light. We review de novo “the legality of a
+restitution order” as well as “the district court’s ‘valuation
+methodology.’” United States v. Gagarin, 950 F.3d 596, 607
+(9th Cir. 2020) (quoting United States v. Berger, 473 F.3d
+1080, 1104 (9th Cir. 2007)). “If ‘the order is within statutory
+bounds,’ then the restitution calculation is reviewed for
+abuse of discretion, with any underlying factual findings
+reviewed for clear error.” Id. (quoting United States v.
+Galan, 804 F.3d 1287, 1289 (9th Cir. 2015)).
+    The MVRA provides instructions for calculating
+restitution “in the case of an offense resulting in damage to
+or loss or destruction of property of a victim of the offense.”
+18 U.S.C. § 3663A(b)(1). In such cases, the offender must
+“return the property to the owner,” id. § 3663A(b)(1)(A), or
+if return of the property lost by the victim is “impossible,
+impracticable, or inadequate,” the offender must pay the
+victim “an amount equal to . . . the value of the property”
+less “the value (as of the date the property is returned) of any
+part of the property that is returned,” id. § 3663A(b)(1)(B).
+   The district court determined that the twelve investors
+who were induced by Defendants’ fraud to invest in
+50                       USA V. HOLMES
+
+
+Theranos were “victims” under the MVRA. 11 Holmes II,
+673 F. Supp. 3d at 1055–56. It next concluded that the
+“property” that these victims “lost” within the meaning of
+the statute was the money that they invested in the company.
+Id. at 1058. Relying on Dura Pharmaceuticals, Inc. v.
+Broudo, 544 U.S. 336 (2005), Defendants argue that the
+relevant lost “property” was not the money that each victim
+invested, but rather the victim’s ownership interest in
+Theranos.
+    In Dura Pharmaceuticals, the Supreme Court considered
+a claim of securities fraud under the Securities Exchange Act
+§ 10(b), which requires a plaintiff to show both economic
+loss and loss causation. Id. at 338. The Court rejected the
+proposition that a plaintiff alleging a claim of fraud on the
+market could establish these elements merely by showing
+that she paid an inflated price for a security in reliance on the
+integrity of the market. Id. The Court reasoned that merely
+purchasing securities at a fraudulently inflated price does not
+establish economic loss because “at the moment the
+transaction takes place, the plaintiff has suffered no loss; the
+inflated purchase payment is offset by ownership of a share
+that at that instant possesses equivalent value.” Id. at 342
+(emphasis removed). Furthermore, even if the plaintiff sells
+the securities at a loss, this does not necessarily establish loss
+causation, because the lower price may reflect factors
+unrelated to the misrepresentations. Id. at 343.
+   We do not read Dura Pharmaceuticals to support the
+proposition that the victims here suffered no loss under the
+MVRA. Defendants’ reliance on Dura Pharmaceuticals
+
+11
+   These represent the same twelve investors whose losses had been
+included in the district court’s loss calculation under USSG
+§ 2B1.1(b)(2) at sentencing.
+                        USA V. HOLMES                         51
+
+
+conflates the concept of economic loss with property loss,
+and the MVRA speaks in terms of the latter. See 18 U.S.C.
+§ 3663A(b)(1) (directed toward cases involving “loss or
+destruction of property of a victim” (emphasis added)).
+Under the plain text of the MVRA, the victims need not
+necessarily have suffered an economic loss in order to have
+suffered a loss of property. This reading is consistent with
+the Supreme Court’s decision in Robers v. United States, 572
+U.S. 639 (2014), a case involving fraudulent loan
+applications to banks. The Court determined that “the
+property the banks lost” under the MVRA was “the money
+they lent to” the defendant, not the economic loss the banks
+suffered when they ultimately sold the houses at foreclosure
+sales for less than the banks were owed. Id. at 642; see also
+id. at 640–41 (“In our view, the statutory phrase ‘any part of
+the property’ refers only to the specific property lost by a
+victim . . . . Therefore, no ‘part of the property’ is ‘returned’
+to the victim until the collateral is sold and the victim
+receives money from the sale.”).
+    We find more merit in Defendants’ argument that they
+are entitled to credit for the residual value of a victim’s
+investment under the MVRA. The district court rejected this
+contention, reasoning that the MVRA only authorizes offsets
+for “property that is returned.”                  18 U.S.C.
+§ 3663A(b)(1)(B)(ii). The district court reasoned that
+because the lost “property” was the money invested, no
+money was returned, and the residual value of the investment
+would not justify a reduction in the restitution award. But
+Robers clearly stated that the MVRA “provides room for
+credits against an offender’s restitution obligation to prevent
+double recovery to the victim.” 572 U.S. at 645 (cleaned
+up); see also id. (“These provisions [of the MVRA] would
+seem to give a court adequate authority to count, as part of
+52                      USA V. HOLMES
+
+
+the restitution paid, the value of collateral previously
+received but not sold.”).
+    The district court’s failure to discount the restitution
+value by the residual value of the shares is at odds with the
+well-settled principle that “[a] district court may not order
+restitution such that victims will receive an amount greater
+than their actual losses; to do so is plain error.” United States
+v. Rizk, 660 F.3d 1125, 1137 (9th Cir. 2011). This limitation
+stems from the basic premise that “[t]he purpose of
+restitution is to put the victim back in the position he or she
+would have been but for the defendant’s criminal conduct,”
+United States v. Gossi, 608 F.3d 574, 581 (9th Cir. 2010),
+not to provide a windfall.
+    Thus, although the district court properly identified the
+money invested as the lost property, it should have also
+considered possible credits against Defendants’ restitution
+obligation—given that the victims still owned their Theranos
+shares—by accounting for the residual value of the shares
+after the fraud came to light. See United States v. Zolp, 479
+F.3d 715, 719 (9th Cir. 2007) (“[W]hen the court confronts
+a ‘pump-and-dump’ scheme involving an otherwise
+legitimate company” and “the stock continues to have
+residual value after the fraudulent scheme is revealed, the
+court may not assume that the loss inflicted equals the full
+pre-disclosure value of the stock; rather, the court must
+disentangle the underlying value of the stock, inflation of
+that value due to the fraud, and either inflation or deflation
+of that value due to unrelated causes.”).
+    But we find that any error by the district court was
+harmless because the district court’s factual findings compel
+the conclusion that the victims’ actual losses were equal to
+the total amount of their investments. Most importantly, the
+                        USA V. HOLMES                        53
+
+
+court found that the victims were “[un]able to liquidate their
+shares” after the fraud came to light. Holmes II, 673 F. Supp.
+3d at 1059. In other words, for restitution purposes, the
+victims were never able to recover any amount of residual
+value that the stock may have retained. One investor who
+testified at both trials explained that he had no opportunity
+to sell his stock “once the cascade of negative publicity was
+unleashed” and that “there was never a legitimate
+opportunity from the company or from a third party to buy
+my stock.” The evidence Holmes and Balwani cite—which
+suggests, at best, that there was some opportunity to sell
+shares to some parties at some unidentified time—is not
+enough to render the district court’s finding clearly
+erroneous.
+    The significant difference in sentencing loss versus
+restitution was driven in part by the district court’s
+determination that although investors were unable to sell
+their shares and that their shares ultimately became
+worthless, our case law, including Zolp, required the court to
+give Defendants credit for the residual value of the shares for
+the purpose of loss calculation under USSG § 2B1.1. Cf.
+Holmes I, 2023 WL 149108, at *4; Balwani, 2023 WL
+2065045, at *4. As we just explained, the investors’ inability
+to sell their shares effectively meant that they lost out on any
+residual or inherent value in those shares, which justifies
+restitution in the full amount of each investment to make the
+victim “whole.” It does not necessarily follow that the same
+reasoning must be applied for loss calculation at sentencing,
+which focuses on actions of the criminal defendant. See
+United States v. Leonard, 529 F.3d 83, 93 (2d Cir. 2008)
+(finding that the “district court erred in not deducting from
+the purchase price the actual value of” illiquid securities).
+The investors’ inability to resell their shares would justify
+54                      USA V. HOLMES
+
+
+awarding them the full value of their investment for purposes
+of restitution, as that amount made them “whole,” while the
+inability to sell shares would not necessarily require an offset
+of residual value for purpose of the court’s punitive
+assessment of the defendant’s conduct. See United States v.
+Crandall, 525 F.3d 907, 916 (9th Cir. 2008).
+     We therefore affirm the district court’s restitution order
+in its entirety.
+     AFFIRMED.
+

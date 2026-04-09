@@ -1,0 +1,5 @@
+{
+  "subset": "atticus_contracts",
+  "error": "Dataset scripts are no longer supported, but found pile-of-law.py",
+  "hint": "\u5b50\u96c6\u540d\u7a31\u53ef\u80fd\u4e0d\u5c0d\uff0c\u5617\u8a66: load_dataset('pile-of-law/pile-of-law', streaming=True) \u67e5\u770b\u53ef\u7528\u5b50\u96c6"
+}

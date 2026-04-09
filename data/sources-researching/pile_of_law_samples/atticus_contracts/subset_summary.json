@@ -1,0 +1,19 @@
+{
+  "source": "Pile-of-Law (HuggingFace)",
+  "subset": "atticus_contracts",
+  "description": "合約文件",
+  "why_selected": "法律文件的另一種類型",
+  "num_samples": 10,
+  "sample_keys": [
+    "text",
+    "created_timestamp",
+    "downloaded_timestamp",
+    "url"
+  ],
+  "first_sample_preview": {
+    "text": "Exhibit 10.2\nINDEMNIFICATION AGREEMENT\n     This Indemnification Agreement (this “Agreement”) is made as of the 3rd day\nof February, 2009, by and between Magellan Petroleum Corporation, a Delaware\ncorporation (the “Company”), and William H. Hastings, an individual residing at\n2 Thurston Lane, Falmou",
+    "created_timestamp": "",
+    "downloaded_timestamp": "08-28-2021",
+    "url": "https://github.com/TheAtticusProject/cuad"
+  }
+}

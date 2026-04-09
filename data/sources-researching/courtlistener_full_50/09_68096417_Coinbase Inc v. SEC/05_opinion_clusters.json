@@ -1,0 +1,61 @@
+[
+  {
+    "resource_uri": "https://www.courtlistener.com/api/rest/v4/clusters/10312624/",
+    "id": 10312624,
+    "absolute_url": "/opinion/10312624/coinbase-inc-v-sec/",
+    "panel": [],
+    "non_participating_judges": [],
+    "docket_id": 68096417,
+    "docket": "https://www.courtlistener.com/api/rest/v4/dockets/68096417/",
+    "sub_opinions": [
+      "https://www.courtlistener.com/api/rest/v4/opinions/10779212/"
+    ],
+    "citations": [
+      {
+        "date_created": "2025-11-17T13:37:52.533607-08:00",
+        "date_modified": "2025-11-17T13:37:52.533621-08:00",
+        "volume": "126",
+        "reporter": "F.4th",
+        "page": "175",
+        "type": 1
+      }
+    ],
+    "cluster_redirections": [],
+    "date_created": "2025-01-13T10:00:36.843021-08:00",
+    "date_modified": "2025-01-13T10:00:40.488845-08:00",
+    "judges": "",
+    "date_filed": "2025-01-13",
+    "date_filed_is_approximate": false,
+    "slug": "coinbase-inc-v-sec",
+    "case_name_short": "",
+    "case_name": "Coinbase Inc v. SEC",
+    "case_name_full": "",
+    "scdb_id": "",
+    "scdb_decision_direction": null,
+    "scdb_votes_majority": null,
+    "scdb_votes_minority": null,
+    "source": "C",
+    "procedural_history": "",
+    "attorneys": "",
+    "nature_of_suit": "",
+    "posture": "",
+    "syllabus": "",
+    "headnotes": "",
+    "summary": "",
+    "disposition": "",
+    "history": "",
+    "other_dates": "",
+    "cross_reference": "",
+    "correction": "",
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "date_blocked": null,
+    "blocked": false,
+    "filepath_json_harvard": null,
+    "filepath_pdf_harvard": null,
+    "filepath_xml_scan": null,
+    "filepath_pdf_scan": null,
+    "arguments": "",
+    "headmatter": ""
+  }
+]

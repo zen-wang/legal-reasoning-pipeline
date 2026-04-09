@@ -1,0 +1,89 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Nikola Corp",
+  "cik": 1731289,
+  "sic": "3711",
+  "sic_description": "Motor Vehicles & Passenger Car Bodies",
+  "tickers": [
+    "NKLAQ"
+  ],
+  "exchanges": [
+    null
+  ],
+  "stateOfIncorporation": "DE",
+  "why_selected": "SPAC 詐欺",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "10-K",
+      "date": "2025-10-09",
+      "accession": "0001731289-25-000065",
+      "filename": "10-K_2025-10-09_nkla-20241231.htm",
+      "description": "10-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-03-26",
+      "accession": "0001731289-25-000017",
+      "filename": "8-K_2025-03-26_nkla-20250324.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-02-21",
+      "accession": "0001731289-25-000011",
+      "filename": "8-K_2025-02-21_nkla-20250219.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2025-02-19",
+      "accession": "0001731289-25-000004",
+      "filename": "8-K_2025-02-19_nkla-20250218.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2024-12-09",
+      "accession": "0001193125-24-272939",
+      "filename": "8-K_2024-12-09_d564705d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2024-11-21",
+      "accession": "0001731289-24-000261",
+      "filename": "8-K_2024-11-21_nkla-20241121.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2024-11-14",
+      "accession": "0001193125-24-257936",
+      "filename": "8-K_2024-11-14_d899673d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2024-10-31",
+      "accession": "0001193125-24-248788",
+      "filename": "8-K_2024-10-31_d865726d8k.htm",
+      "description": "8-K"
+    },
+    {
+      "form": "10-Q",
+      "date": "2024-10-31",
+      "accession": "0001731289-24-000253",
+      "filename": "10-Q_2024-10-31_nkla-20240930.htm",
+      "description": "10-Q"
+    },
+    {
+      "form": "8-K",
+      "date": "2024-10-31",
+      "accession": "0001731289-24-000248",
+      "filename": "8-K_2024-10-31_nkla-20241031.htm",
+      "description": "8-K"
+    }
+  ],
+  "total_filings_available": 1012
+}

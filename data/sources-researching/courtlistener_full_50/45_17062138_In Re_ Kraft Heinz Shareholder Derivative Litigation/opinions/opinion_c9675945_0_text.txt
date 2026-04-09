@@ -1,0 +1,694 @@
+              IN THE UNITED STATES DISTRICT COURT                        
+           FOR THE WESTERN DISTRICT OF PENNSYLVANIA                      
+
+
+JOHN OSBORNE, et al.,           )                                         
+                               )                                         
+         Plaintiffs,           )                                         
+                               )   2:19-cv-00307                         
+              v.               )                                         
+                               )                                         
+EMPLOYEE BENEFITS               )                                         
+ADMINISTRATION BOARD OF         )                                         
+KRAFT HEINZ, et al.,            )                                         
+                               )                                         
+         Defendants.                                                     
+
+                               )                                         
+In re KRAFT HEINZ SHAREHOLDER   )   2:19-cv-00549                         
+DERIVATIVE LITIGATION           )                                         
+                               )                                         
+                               )                                         
+                               )                                         
+
+                            OPINION                                      
+Mark R. Hornak, Chief United States District Judge                        
+    On February 21, 2019, Kraft Heinz Food Company (“Kraft Heinz”) announced certain 
+accounting  adjustments  and  revealed  the  existence  of  a  U.S.  Securities  and  Exchange 
+Commission (“SEC”) investigation. (No. 19-307, Am. Compl., ECF No. 45, ¶¶ 2–5; No. 19-549, 
+Am. Compl., ECF No. 29, ¶¶ 9–10.) Twelve (12) lawsuits followed in four (4) different courts, 
+each alleging that the Defendants are liable because they disseminated, approved, or failed to 
+correct allegedly false and/or misleading statements regarding Kraft Heinz’s internal controls, its 
+compliance with SEC regulations, and the value of its goodwill and intangible assets. 
+    This Court is presiding over five (5) such matters: (1) an Employee Retirement Income 
+Security Act (“ERISA”) action at No. 19-307; and (2) four (4) shareholder derivative suits, 
+which  are  consolidated  at  No.  19-549.  Currently  before  the  Court  are  two  (2)  Motions  to 
+Transfer, one (1) filed by the ERISA Defendants, and the other filed by the Defendants in the 
+consolidated shareholder derivative suit.1 (No. 19-307, Defs.’ Mot. to Transfer Venue to the 
+Northern District of Illinois, ECF No. 50; No. 19-549, Defs.’ Mot. to Transfer Venue to the 
+Northern District of Illinois, ECF No. 30.)                               
+
+    Defendants’ Motions seek “to bring order to all of this litigation” and request that this 
+Court “transfer the cases pending before it to the United States District Court for the Northern 
+District of Illinois, which is the locus of the center of gravity of these claims, and where the first-
+filed actions are pending.” (No. 19-307, Def.’s Mem. of Law in Supp. of Mot. to Transfer Venue, 
+ECF No. 51, at 1–2.) That resolution, the Defendants argue, would allow for the federal cases to 
+be adjudicated in one (1) forum in an efficient and consistent manner. (Id. at 2.) 
+    The ERISA Plaintiffs, on the other hand, oppose transfer to Chicago because litigation in 
+Pittsburgh “simply makes sense.” (No. 19-307, Pls.’ Resp. in Opp’n to Defs.’ Mem. of Law in 
+Supp. of Mot. to Transfer Venue, ECF No. 56, at 1.) Not only is the Plan administered in 
+
+Pittsburgh, but all of the Plan’s assets are held within a trust account administered in Pittsburgh, 
+and, most importantly, Pittsburgh is the ERISA Plaintiffs’ chosen forum. (Id.) 
+    Similarly, the derivative Plaintiffs argue that Pittsburgh is the proper forum for “obvious” 
+reasons: (1) public SEC filings list Pittsburgh as the Company’s corporate headquarters; and (2) 
+an individual Plaintiff resides in Pittsburgh. (No. 19-549, Pls.’ Resp. in Opp’n to Defs.’ Mot. to 
+Transfer Venue to the Northern District of Illinois, ECF No. 38, at 3.)   
+    The Court has reviewed all briefing in support or opposition of the Defendants’ Motions 
+to Transfer and will grant the Motions for the reasons stated below.      
+
+
+1 The Motions to Transfer, and the Defendants’ briefing in support of such, are identical. Therefore, throughout this 
+Opinion, the Court will only cite to the Defendants’ briefing in support of the Motion to Transfer at No. 19-307. 
+  I.  BACKGROUND                                                         
+    A.  Kraft Heinz’s Chicago and Pittsburgh Offices                     
+    Kraft Heinz was formed in 2015, when, through a series of transactions, Kraft Foods 
+Group, Inc., headquartered in Chicago, merged with and into Kraft Heinz Foods Company (f/k/a 
+H.J. Heinz Company), headquartered in Pittsburgh. (No. 19-307, Decl. of Anna Oliveira in Supp. 
+
+of Def.’s Mot. to Transfer Venue, ECF No. 52, ¶ 5.) The Company is co-headquartered in two 
+(2)  locations:  Chicago  (the  historical  headquarters  of  Kraft)  and  Pittsburgh  (the  historical 
+headquarters of Heinz). (Id. ¶ 6.)                                        
+    The Chicago headquarters is Kraft Heinz’s largest office nationwide, with approximately 
+1,400 employees working out of that office. (Id. ¶ 7.) In addition, the Chicago office serves as 
+the home base for the Company’s officers and several senior executives, including the Chief 
+Executive Officer, Chief Financial Officer, Chief Business Planning and Development Officer, 
+and Principal Accounting Officer and Global Controller, all of whom are Defendants in the 
+actions pending before this Court. (Id. ¶ 8.)                             
+
+    And, central to the matters before this Court, the Kraft Heinz employees responsible for 
+preparing, reviewing, certifying, and approving the Company’s regulatory filings, press releases, 
+and statements on earnings calls from 2017 to 2019 largely performed their work out of the 
+Chicago Office. (Id. ¶ 14.) The Company’s investor relations team, which is based in Chicago, is 
+responsible for drafting earnings-related press releases and talking points for earnings calls with 
+investors and analysts, with input from a Chicago-based individual on the Corporate Affairs 
+team. (Id.) The Company’s Senior Vice President of Corporate Affairs, who currently resides in 
+Pittsburgh, also reviews those materials. (Id.)                           
+    In  contrast,  employees  based  at  Kraft  Heinz’s  Pittsburgh  co-headquarters  focus  on 
+activities related to supply chain planning, sales and operations planning, human resources, and 
+information technology. (Id. ¶ 9.)                                        
+    B.  The Lawsuits                                                     
+    On February 21, 2019, Kraft Heinz announced, among other things, impairment charges 
+to its goodwill accounting for intangible assets, an SEC subpoena regarding accounting practices 
+
+in the Company’s procurement function, and a reduction in the Company’s quarterly dividend 
+from $0.625 per share to $0.40 per share. (No. 19-307, ECF No. 45, ¶¶ 72–74.) Several lawsuits 
+ensued, all of which claim that the Defendants are liable for disseminating or approving false 
+and/or  misleading  statements  in  regulatory  filings,  press  releases,  and  on  earnings  calls 
+concerning  the  adequacy  of  the  Company’s  internal  controls,  its  compliance  with  SEC 
+regulations, and the value of its goodwill and intangible assets.         
+      1.  The Chicago Actions                                            
+    The first-filed of the remaining lawsuits,2 Hedick v. Kraft Heinz Co., No. 19-1339 (N.D. 
+Ill.), is a shareholder class action that was filed in the United States District Court for the 
+
+Northern District of Illinois (the “Chicago Court”) on February 24, 2019. Two (2) substantially 
+similar actions were later filed in that same District and were consolidated with Hedick on 
+October 8, 2019: (1) Iron Workers Dist. Council (Phila. and Vicinity) Ret. & Pension Plan v. 
+Kraft Heinz Co., No. 19-1845 (N.D. Ill.); and (2) Timber Hill LLC v. Kraft Heinz Co., No. 19-
+2807 (N.D. Ill.). (No. 19-1339, Order, ECF No. 149.)                      
+      2.  The Pittsburgh Actions                                         
+    Then, participants in certain Kraft Heinz retirement plans filed a lawsuit in this Court on 
+March 19, 2019, alleging violations of ERISA. That matter, Osborne v. Emp. Benefits Admin. 
+
+
+2 Walling v. Kraft Heinz Co., No. 19-214 (W.D. Pa.), was filed on February 26, 2019, and was voluntarily dismissed 
+on April 26, 2019.                                                        
+Bd. of Kraft Heinz, is currently pending at No. 19-307.                   
+    Lastly, five (5) shareholder derivative lawsuits were also filed in the Western District of 
+Pennsylvania: (1) DeFabiis v. Hees, No. 19-433 (W.D. Pa.) was filed on April 16, 2019; (2) 
+Vladimir Gusinsky Revocable Tr. v. Hees, No. 19-549 (W.D. Pa.) was filed on May 8, 2019; (3) 
+Kailas v. Hees, No. 19-567 (W.D. Pa.) was filed on May 13, 2019; (4) Silverman v. Behring, No. 
+
+19-574 (W.D. Pa.) was filed on May 15, 2019; and (5) Green v. Behring, No. 19-613 (W.D. Pa.) 
+was filed on May 23, 2019. Two (2) of those shareholders (those in DeFabiis and Kailas) 
+voluntarily dismissed their cases  in  the Western  District  of Pennsylvania and one of them 
+(DeFabiis) refiled in the United States District Court for the Southern District of New York, 
+voluntarily dismissed there, again, and then refiled in the Delaware Chancery Court.3 The three 
+(3) remaining shareholder derivative suits were consolidated at No. 19-549, which is currently 
+pending before this Court. (No. 19-549, Order, ECF No. 20.)               
+    C.  The Motions to Transfer                                          
+    Now, the Defendants in the matters pending before this Court (the only federal matters 
+
+not before the Northern District of Illinois) seek to transfer those actions from this Court to the 
+Chicago Court. (No. 19-307, ECF No. 50; No. 19-549, ECF No. 30.) Those Motions have been 
+fully briefed and are ripe for disposition.                               
+ II.  LEGAL STANDARD                                                     
+    Our Circuit provides two (2) mechanisms by which a district court may consider a motion 
+to transfer: (1) 28 U.S.C. § 1404(a); and (2) the “first-filed” rule.     
+    A.  28 U.S.C. § 1404(a)                                              
+    Pursuant to 28 U.S.C. § 1404(a), “a district court may transfer a civil action to another 
+district where the case might have been brought, . . . for the convenience of the parties and 
+
+3 DeFabiis is now pending before the Delaware Court of Chancery at No. 2019-0587-AGB. 
+witnesses and in the interest of justice.” In re McGraw-Hill Glob. Educ. Holdings LLC, 909 F.3d 
+48, 57 (3d Cir. 2018) (citing Jumara v. State Farm Ins. Co., 55 F.3d 873, 879–80 (3d Cir. 1995)). 
+Ultimately, the district court retains broad discretion to determine whether or not transfer is 
+appropriate. In re United States, 273 F.3d 380, 387 (3d Cir. 2001) (citing Piper Aircraft Co. v. 
+Reyno, 454 U.S. 235, 257 (1981)).                                         
+
+    In considering a motion to transfer under § 1404(a), district courts in our Circuit apply a 
+two-part inquiry. First, as required by § 1404(a), a court must determine whether the action could 
+have been originally brought in the transferee forum (i.e., whether venue in the transferee district 
+is proper). Then, in addition to considering the factors enumerated by § 1404(a), a court should 
+apply the balancing test set forth by the Third Circuit in Jumara, which requires district courts to 
+weigh a number of public and private interests in order to determine whether the transferee 
+forum “would best serve the convenience of the parties and witnesses as well as the interests of 
+justice.” Mitel Networks Corp. v. Facebook, Inc., 943 F. Supp. 2d 463, 467 (D. Del. 2013). 
+    The private interests to be balanced relate to § 1404(a)’s concern for “the convenience of 
+
+the parties and witnesses” and may include the following: (1) the plaintiff’s original choice of 
+forum; (2) the defendant’s forum preference; (3) whether the claim arose elsewhere; (4) the 
+convenience of the parties as indicated by their relative physical and financial condition; (5) the 
+convenience  of  the  witnesses,  but  only  to  the  extent  that  the  witnesses  may  actually  be 
+unavailable for trial in one of the fora; and (6) the location of any relevant records or files, 
+limited to the extent that the files could not be produced in the alternative forum. Jumara, 55 
+F.3d at 879.                                                              
+    By contrast, the public interests to be balanced are not necessarily tied to the parties, but 
+instead derive from § 1404(a)’s consideration of “the interests of justice” and may include the 
+following: (1) the enforceability of the judgment; (2) practical considerations that could make the 
+trial easy, expeditious, or inexpensive; (3) the relative administrative difficulty in each of the fora 
+resulting from court congestion; (4) the local interest in deciding local controversies at home; 
+(5) the public policies of the fora; and (6) the familiarity of the trial judge with the applicable 
+state law in diversity cases. Id. at 879–80.                              
+
+    District  courts  are  to  consider  both  the  public  and  private  factors  to  determine,  on 
+balance, whether the litigation would “more conveniently proceed and the interests of justice be 
+better served by transfer to a different forum.” Jumara, 55 F.3d at 879 (quoting 15 Charles A. 
+Wright, et al., Federal Practice & Procedure, § 3847 (2d ed. 1986)). And the Court should keep 
+in mind that “[t]he purpose of transferring venue under § 1404(a) is to prevent the waste of time, 
+energy,  and  money  and  to  protect  litigants,  witnesses,  and  the  public  against  unnecessary 
+inconvenience and expense.” Stillwagon v. Innsbrook Golf & Marina, LLC, No. 11-1338, 2013 
+WL 1180312, at *24 (W.D. Pa. Mar. 20, 2013) (quoting Van Dusen v. Barrack, 376 U.S. 612, 
+616 (1964)).                                                              
+
+    At each step of the transfer inquiry, the moving party bears the burden of demonstrating 
+that transfer of venue is appropriate and, “unless the balance of convenience of the parties is 
+strongly in favor of defendant, the plaintiff’s choice of forum should prevail.” Shutte v. Armco 
+Steel Corp., 431 F.2d 22, 25 (3d Cir. 1970).                              
+    B.  The Third Circuit’s “First-Filed” Rule                           
+    Our Circuit has also adopted the first-filed rule, which “gives a court the power to enjoin 
+the  subsequent  prosecution  of  proceedings  involving  the  same  parties  and  the  same  issues 
+already before another district court.” Equal Emp’t Opportunity Comm’n v. Univ. of Pa., 850 
+F.2d 969, 971 (3d Cir. 1988); see also Crosley Corp. v. Hazeltine Corp., 122 F.2d 925, 929 (3d 
+Cir. 1941) (“In all cases of concurrent jurisdiction, the court which first has possession of the 
+subject must decide it.”) (quoting Smith v. McIver, 22 U.S. 532, 535 (1824)). The rule “permits 
+courts to consolidate similar cases by transferring later-filed cases for consolidation with the 
+first-filed case.” Emps.’ Ret. Sys. of City of St. Petersburgh, Fla. v. Teva Pharm. Indus. Ltd., No. 
+19-2711, 2019 WL 5485549, at *3 (E.D. Pa. Oct. 8, 2019).                  
+
+    The Third Circuit has not clarified the degree of similarity required under the rule. 
+However, several district courts within our Circuit have found that “a flexible approach . . . more 
+fully meets the purposes of the first-filed rule.” Id. (citing Law Sch. Admission Council, Inc. v. 
+Tatro, 153 F. Supp. 3d 714, 724 (E.D. Pa. 2015); see also Chavez v. Dole Food Co., 836 F.3d 
+205, 216 (3d Cir. 2016) (“[T]he first-filed rule is grounded on equitable principles and requires 
+district court judges to fashion a flexible response to the issue of concurrent jurisdiction.”). 
+Under the flexible approach, the first-filed rule “applies to cases that are substantially similar.” 
+Palagano v. NVIDIA Corp., No. 15-1248, 2015 WL 5025469, at *2 (E.D. Pa. Aug. 25, 2015). 
+    In other words, “the applicability of the first-filed rule is not limited to mirror image 
+
+cases where the parties and the issues perfectly align. Rather, the principles underlying the rule 
+support its application where the subject matter of the later filed case substantially overlaps with 
+that of the earlier one.” Emps.’ Ret. Sys. of City of St. Petersburgh, Fla., 2019 WL 5485549, at 
+*3. The “substantive touchstone of the first-to-file inquiry is subject matter.” Id. (quoting Shire 
+U.S., Inc. v. Johnson Matthey, Inc., 543 F. Supp. 2d 404, 409 (E.D. Pa. 2008)). 
+    Simply put, substantial overlap in subject matter between two (2) separate actions is 
+significant in terms of determining whether or not an action should be transferred under the first-
+filed rule. Equal Emp’t Opportunity Comm’n, 850 F.2d 969, 971 (3d Cir. 1988) (“[T]he court 
+which first has possession of the subject must decide it.”); see also Ivy-Dry, Inc. v. Zanfel Labs., 
+Inc., No. 08-4942, 2009 WL 1851028, at *5 (D.N.J. June 24, 2009) (“[A] plain reading of the 
+Third Circuit’s opinion in EEOC strongly suggests that whether the cases share subject matter is 
+more important than the absolute identity of the parties.”).              
+    However, even if transfer is warranted under the first-filed rule, the Court may retain 
+jurisdiction of a later-filed action if faced with “rare or extraordinary circumstances, inequitable 
+
+conduct, bad faith, or forum shopping.” Equal Emp’t Opportunity Comm’n, 850 F.2d at 972. 
+III.  DISCUSSION                                                         
+    The Court finds that it is appropriate to consider the Defendants’ Motions to Transfer 
+under both the § 1404(a) transfer analysis and the Third Circuit’s first-filed rule. For the reasons 
+stated below, both standards weigh in favor of transferring the actions at No. 19-307 and No. 19-
+549 to the United States District Court for the Northern District of Illinois. 
+    A.  The Propriety of the Transferee Forum                            
+    As noted above, a district court may only transfer an action to a “district or division 
+where it might have been brought” originally. 28 U.S.C. § 1404(a). Accordingly, the Court may 
+
+only transfer the actions at No. 19-307 and No. 19-549 to the Chicago Court if venue would have 
+been proper in that District initially and if that Court could have exercised personal and subject 
+matter jurisdiction over each action.                                     
+    Here, the Defendants argue, and (importantly) the Plaintiffs offer no argument to the 
+contrary, that venue in the Northern District of Illinois is proper. (No. 19-307, ECF No. 51, at 7.) 
+And the Court agrees that both actions could have originally been filed in the Northern District 
+of Illinois.                                                              
+    The  action  at  No.  19-307  was  brought  pursuant  to  Section  502  of  the  Employee 
+Retirement Income Security Act, 29 U.S.C. § 1132. (No. 19-307, ECF No. 45, at ¶ 1.) According 
+to that provision, venue is proper “where the plan is administered, where the breach took place, 
+or where a defendant resides or may be found.” 29 U.S.C. § 1132(e)(2). The record in this case is 
+clear that nearly all individual Defendants are located in Chicago. (No. 19-307, ECF No. 52, 
+¶¶ 8, 13, 18.) Thus, venue is proper in the Northern District of Illinois regarding the ERISA 
+action.                                                                   
+
+    The action at No. 19-549 alleges violations of: (1) Sections 10(b), 21D, and 14(a) of the 
+Securities Exchange Act, 15 U.S.C. §§ 78j(b), 78u-4, and 78n(a); (2) SEC Rule 10b-5, 17 C.F.R. 
+§ 240.10b-5; and (3) state law fiduciary duties. (No. 19-549, ECF No. 29, ¶¶ 139–60.) Claims 
+alleging violations of the Securities Exchange Act may be brought in a district where a defendant 
+resides or is found, among other things. In re: USA Techs., Inc. Securities Litigation, No. 18-
+13759, 2019 WL 4785780, at *2 (D.N.J. Sept. 20, 2019). As stated above, nearly all individual 
+Defendants are located in Chicago. (No. 19-307, ECF No. 52, ¶¶ 8, 13, 18.) And pendent venue 
+would then exist over both the SEC Rule 10b-5 claim and the state law claim, regardless of 
+whether or not proper venue could have been established as to each claim individually, because 
+
+all claims at issue “arise out of the same operative facts.” High River Ltd. P’ship v. Mylan Labs., 
+Inc., 353 F. Supp 2d 487, 493 (M.D. Pa 2005). Thus, venue is proper in the Northern District of 
+Illinois regarding the consolidated shareholder derivative action.        
+    Likewise, the Chicago Court would have had jurisdiction over each suit if initially filed 
+there.  The  Company’s  presence  in  Illinois,  as  well  as  that  of  the  individual  Defendants, 
+establishes personal jurisdiction; subject matter jurisdiction would have existed over each federal 
+claim pursuant to 28 U.S.C. § 1331; and supplemental jurisdiction would apply to the state law 
+claims pursuant to 28 U.S.C. §1367.                                       
+    Therefore, because both venue and jurisdiction are proper in the Northern District of 
+Illinois, the Court concludes that the actions at No. 19-307 and No. 19-549 could have been 
+originally brought in the proposed transferee forum and will thus proceed to the second step of 
+the transfer analysis.                                                    
+    B.  The Jumara Factors                                               
+    Next, the Court must balance the various public and private interests set forth by the 
+
+Third Circuit in Jumara. After doing so, and for the reasons stated below, the Court concludes 
+that the factors weigh strongly in favor of transferring both cases to the Northern District of 
+Illinois.                                                                 
+      1.  Private Interests – Convenience of the Parties and Witnesses   
+    In assessing the private interests at stake, the Court is to consider “the convenience of the 
+parties and witnesses.” In re: Howmedica Osteonics Corp., 867 F.3d 390, 402 (3d Cir. 2017) 
+(citing 28 U.S.C. § 1404(a)). On balance, the Court finds that the private interests weigh in favor 
+of transferring both cases to the Northern District of Illinois.          
+            i.  Plaintiffs’ Forum Preference                             
+
+    First, the Court is to consider the “plaintiff’s forum preference as manifested in the 
+original choice.” Jumara, 55 F.3d at 879. Both the derivative Plaintiffs and the ERISA Plaintiffs, 
+obviously, prefer the district where the action was originally filed—the Western District of 
+Pennsylvania.                                                             
+    Generally,  the  plaintiff’s  choice  of  forum  should  “not  be  lightly  disturbed.”  Id.  An 
+individual plaintiff’s forum preference, however, is entitled to little weight in a shareholder 
+derivative suit or in a class action. See Scanlan v. Am. Airlines Grp., Inc., 366 F. Supp. 3d 673, 
+677 (E.D. Pa. 2019) (“[W]here there are hundreds of potential plaintiffs . . . the claim of any one 
+plaintiff  that  a  forum  is  appropriate  merely  because  it  is  his  home  forum  is  considerably 
+weakened.”) (quoting Koster v. (Am.) Lumbermens Mut. Cas. Co., 330 U.S. 518, 524 (1947)). 
+    Here, there is no indication that the derivative Plaintiffs have any particular personal 
+interest that would entitle their choice of forum to special weight. The best that the Plaintiffs are 
+able  to  provide  on  this  front  is  an  assertion  that  “at  least  one  of  the  Plaintiffs  resides  in 
+
+Pittsburgh.” (No. 19-549, ECF No. 38, at 2.) However, that resident is only “generally familiar 
+with the concerns and allegations in the complaint.” (No. 19-549, ECF No. 40, ¶ 4.) And, as far 
+as the Court can tell, that individual Plaintiff will not be significantly inconvenienced if the 
+litigation were to proceed in another forum because, given the nature of a shareholder derivative 
+suit, it is unlikely that he would be called to testify at trial or otherwise required to actively 
+participate in any other substantive proceedings. See In re Amkor Tech., Inc. Sec. Litig., No. 06-
+298, 2006 WL 3857488, at *3 (E.D. Pa. Dec. 28, 2006) (stating that “the nominal plaintiff’s role 
+in [a class or shareholder derivative action] is likely to be quite minimal.”). Consequently, the 
+derivative  Plaintiffs’  choice  of  forum,  while  weighing  against  transfer,  is  not  entitled  to 
+
+significant deference.                                                    
+    And the ERISA Plaintiffs (who filed their Complaint as a class action “on behalf of 
+themselves and other similarly situated current and former employees of Kraft Heinz Food 
+Company”) likewise fail to identify any particular personal interest that would entitle their 
+choice of forum to special weight. (No. 19-307, ECF No. 45, at 1.) Plaintiffs’ only stated interest 
+is that the Plan itself is administered in Pennsylvania.4 Therefore, the ERISA Plaintiffs’ choice of 
+forum, while weighing against transfer, is not entitled to significant deference.5 
+
+
+4 Plaintiffs argue that their choice of forum should receive heightened deference simply because the claims at issue 
+revolve around ERISA. (No. 19-307, ECF No. 56, at 7.) However, Plaintiffs concede that such a result has not yet 
+been mandated by the Third Circuit. And, as the United States Supreme Court held, a plaintiff’s forum preference in 
+a class action, like the one brought by the ERISA Plaintiffs, is considerably weakened. Koster, 330 U.S. at 524; see 
+    Thus, as to both the derivative and ERISA Plaintiffs, the first Jumara factor generally 
+weighs against transfer, but will be afforded little deference because of the communal nature of 
+each action.                                                              
+           ii.  Defendants’ Forum Preference                             
+    The Defendants, on the other hand, prefer that the case be transferred to the Northern 
+
+District of Illinois. The gist of their argument is that transfer would bring all related actions 
+before one (1) federal  district  court, which would  allow for the cases to  be resolved in a 
+consistent  and  efficient  manner.  (No.  19-307,  ECF  No.  51,  at  1–2.)  Notwithstanding  the 
+“common sense” nature of this factor, it is, however, generally afforded little deference. As such, 
+the  Court  will  count  this  factor  in  favor  of  transfer  but  is  obligated  to  only  consider  it 
+incrementally.                                                            
+           iii.  Where the Claim Arose                                   
+    The third factor the Court is to consider is whether or not “the claim arose elsewhere.” 
+Jumara, 55 F.3d at 879. “This consideration focuses on where the activities relevant to the 
+
+claims at issue took place.” Stillwagon, 2013 WL 1180312, at *26 (citing Van Cauwenberghe v. 
+Biard, 486 U.S. 517, 529 (1988) (the “locus of the alleged culpable conduct” determines the 
+place  where  the  claim  arose)).  “More  specifically,  in  the  context  of  claims  based  on 
+misrepresentations or omissions, misrepresentations and omissions are deemed to occur in the 
+district  where they were transmitted or withheld,  not  where they are  received.” Panitch v. 
+
+
+also In re Amkor Tech., 2006 WL 3857488, at *3 (“[T]he weight accorded to plaintiff’s choice of forum is 
+considerably reduced in class and derivative actions, where each of many potential plaintiffs may claim the right to 
+have the action heard in his home forum, and where the nominal plaintiff’s role in the litigation is likely to be quite 
+minimal.”).                                                               
+
+5 In addition, the ERISA Plaintiffs appear to insinuate that a forum-selection clause applies in this instance. (See No. 
+19-307, ECF No. 56, at 7–8.) The Court, however, agrees with the Defendants’ position that Plaintiffs’ Response 
+conflates a choice-of-law provision with a forum-selection clause. (See No. 19-307, ECF No. 58, at 9–10.) 
+Quaker Oats Co., No. 16-4586, 2017 WL 1333285, at *6 (E.D. Pa. Apr. 5, 2017) (quoting 
+Palagano, 2015 WL 5025469, at *5).                                        
+    Here, the Defendants argue that all activities relevant to the claims at issue occurred in 
+Chicago—not Pittsburgh. (No. 19-307, ECF No. 51, at 11.) At the heart of both the ERISA 
+action and the shareholder derivative suit is the fact that “Kraft Heinz and its officers and 
+
+employees  are  alleged  to  have  made,  approved,  or  failed  to  correct  misrepresentations  or 
+omissions in regulatory filings, press releases, and on earnings calls regarding internal controls, 
+goodwill  and  intangible  asset  impairment  accounting,  and  procurement  issues,  or  failed  to 
+adequately oversee those accounting functions.” (Id. at 11–12.) And, as the Defendants argue, 
+any such conduct was carried out by employees located almost entirely in Chicago. (ECF No. 52, 
+at ¶¶ 8, 14.)                                                             
+    In other words, the Defendants assert that it is irrelevant that Kraft Heinz maintains a 
+second headquarters in Pittsburgh, or that the Company’s SEC filings list Pittsburgh as the 
+location of Kraft Heinz’s Principal Executive Offices. Rather, the Defendants urge the Court to 
+
+focus on the location in which the events at issue arose. And here, because each suit revolves 
+around  alleged  misrepresentations  and/or  omissions  that  occurred  in  Chicago,  the  claim 
+necessarily arose in that same city. (ECF No. 51, at 13 (citing In re Amkor Tech., 2006 WL 
+3857488, at *5, which transferred a securities case involving a company with Pennsylvania 
+offices because “the vast majority of events and public statements alleged in the Complaint 
+occurred or were made in Arizona from the Company’s Arizona Headquarters”).) 
+    Plaintiffs, on the other hand, disagree. The derivative Plaintiffs argue that Kraft Heinz is 
+co-headquartered in Pittsburgh, the Company’s annual shareholder meeting is held in Pittsburgh, 
+and the Company also maintains close ties with the larger Pittsburgh community, including 
+primary sponsorship of the Pittsburgh Pickle festival known as “PicklesBurgh.” (No. 19-549, 
+ECF No. 38, at 7.)                                                        
+    The derivative Plaintiffs, however, fail to allege that any misstatements or omissions 
+occurred in Pittsburgh, or that any of the senior executives or accounting personnel responsible 
+for such statements carried out their relevant duties in Pittsburgh, or that any alleged wrongful 
+
+conduct had its locus here. At best, Plaintiffs brief verifies that venue is proper in Pittsburgh. 
+However, that fact is immaterial to where the claims at issue arose. And, because venue can be 
+proper in multiple districts, confirming that venue is proper in Pittsburgh doesn’t foreclose 
+transfer to Chicago, where venue is also proper.                          
+    The ERISA Plaintiffs don’t fare much better. Their main argument on this prong is that 
+the Kraft Heinz Savings Plan maintains a Pittsburgh address and, as a result, the conduct of the 
+fiduciary Defendants “necessarily occurred in Pennsylvania . . . regardless of where [they] were 
+physically located.” (No. 19-307, ECF No. 56, at 8.)                      
+    However, “when [an ERISA] plaintiff alleges only a breach of fiduciary duty, rather than 
+
+makes a claim for benefits due, the breach is considered to have occurred where defendants acted 
+or failed to act as their duties required.” Cross v. Fleet Reserve Ass’n Pension Plan, 383 F. Supp. 
+2d 852, 856 (D. Md. 2005); see also Wright v. Elton Corp., No. 16-329, 2017 WL 1035830, at 
+*4 (D. Md. Mar. 17, 2017) (holding that “the place where the breach occurred was where 
+defendants acted or failed to act as their duties required” in an ERISA case claiming only breach 
+of fiduciary duty); McFarland v. Yegen, 699 F. Supp. 10, 13 (D.N.H. 1988) (“A breach of 
+fiduciary duties . . . can occur only where the defendants commit or fail to commit the actions 
+that their duties require.”).                                             
+    Here, the claimed breach occurred when the Defendants allegedly made, approved, or 
+failed to correct misrepresentations or omissions in regulatory filings, press releases, and on 
+earnings calls. (No. 19-307, ECF No. 45, ¶¶ 8–12; No. 19-549, ECF No. 29, ¶ 69.) And all signs 
+point to any such actions occurring in Chicago. (See No. 19-307, ECF No. 52.) The Company’s 
+officers and several senior executives are based in Chicago. (Id. ¶ 8.) The Kraft Heinz employees 
+
+responsible for preparing, reviewing, certifying, and approving the Company’s regulatory filings, 
+press releases, and statements on earnings calls from 2017 to 2019 largely performed their work 
+out of the Chicago Office. (Id. ¶ 14.) And the Company’s Chicago-based investor relations team 
+is responsible for drafting earnings-related press releases and talking points for earnings calls 
+with investors and analysts, with input from a Chicago-based individual on the Corporate Affairs 
+team. (Id.) The ERISA Plaintiffs do not dispute the above-listed facts, nor do they provide 
+evidence  that  the  Defendants  made,  approved,  or  failed  to  correct  misrepresentations  or 
+omissions while in Pittsburgh.                                            
+    In sum, the Defendants have presented strong arguments that the claims at issue in both 
+
+cases  arose  in  Chicago,  to  which  the  Plaintiffs  failed  to  provide  any  convincing  counter 
+arguments. As such, this factor weighs very significantly in favor of transfer. 
+           iv.  Convenience of the Parties                               
+    Next, the Court is to consider “the convenience of the parties as indicated by their relative 
+physical and financial condition.” Jumara, 55 F.3d at 879. Neither party provided argument as to 
+this factor. However, the Court finds that this factor weighs in favor of transfer. 
+    Although Kraft Heinz’s financial resources likely exceed that of the Plaintiffs in either 
+action, the burden imposed on the Company by litigating substantially similar claims in two (2) 
+separate  districts  would  be  considerable.  See,  e.g.,  Panitch,  2017  WL  1333285,  at  *7 
+(“[R]equiring  [the  defendant]  to  defend  materially  identical  suits  in  two  districts  would 
+inevitably lead to duplication of voluminous discovery and documentary evidence, the burden of 
+which would fall almost entirely on the company.”).                       
+    The Court also considers the fact that the Plaintiffs in each action will have “little, if any, 
+documentary evidence to contribute” at trial given the nature of each suit. See Catanese v. 
+
+Unilever, 774 F. Supp. 2d 684, 690 (D.N.J. 2011) (finding the “convenience of parties” factor to 
+weigh in favor of a company defending against multiple putative class action suits in various 
+jurisdictions). As such, this factor weighs in favor of transfer.         
+           v.  Convenience of the Witnesses                              
+    Fifth, the Court is to consider the convenience of the witnesses, but “only to the extent 
+that the witnesses may actually be unavailable for trial in one of the fora.” Jumara, 55 F.3d at 
+879; see also Smart Audio Techs., LLC v. Apple, Inc., 910 F. Supp. 2d 718, 732 (D. Del. 2012) 
+(noting that this factor applies only insofar as “a witness actually will refuse to testify absent a 
+subpoena”). In addition, “witnesses who are employed by a party carry no weight,” because 
+
+“each party is able, indeed, obligated to procure the attendance of its own employees for trial.” 
+Affymetrix, Inc. v. Synteni, Inc., 28 F. Supp. 2d 192, 203 (D. Del. 1998). In considering this 
+factor,  however,  “the  Court  should  be  particularly  concerned  not  to  countenance  undue 
+inconvenience to third-party witnesses . . . who have no direct connection to the litigation.” 
+Intellectual Ventures I LLC v. Altera Corp., 842 F. Supp. 2d 744, 757 (D. Del. 2012). 
+    Here, no party has indicated that a party witness will be unable or unwilling to testify in 
+either District. The Defendants, however, have noted that some third-party witnesses would be 
+outside this Court’s subpoena power. (No. 19-307, ECF No. 51, at 13.) “For example, the 
+Company’s auditors at [PricewaterhouseCoopers] perform their work out of the Company’s 
+Chicago offices, and the relevant outside legal and financial advisors to the Company and the 
+Board of Directors are based in either Chicago, New York, Boston, or Washington, DC.” (Id.) 
+That consideration tips the scale in favor of transfer. See Saint-Gobain Calmar, Inc. v. Nat’l 
+Prods. Corp., 230 F. Supp. 2d 655, 661 (E.D. Pa. 2002) (granting transfer in part because the 
+transferee forum would have power to compel process of key third-party witnesses). 
+
+           vi.  Location of Documents                                    
+    Lastly, the Court must consider the location of any relevant records or files, to the extent 
+that those materials may be unavailable in one forum or the other. Jumara, 55 F.3d at 879. Here, 
+nothing in the record indicates that the relevant evidentiary materials would be unavailable in 
+either Chicago or Pittsburgh. Thus, this factor remains relatively neutral, but for the reasons 
+noted at the outset, the record before the Court is that all of the activities that were challenged in 
+these actions allegedly occurred by individuals located in Chicago, doing their work in Chicago, 
+so the natural and likely inference is that any documents relative to those things, to the extent 
+they are paper rather than virtual, are in Chicago.                       
+
+          vii.  Conclusion                                               
+    On balance, the Court finds that the private Jumara factors weigh in favor of transferring 
+both actions to the Northern District of Illinois. Chicago appears to be at the center of the action 
+in  all  cases  at  issue.  As  such,  transfer  to  that  District  would  likely  make  litigation  more 
+convenient for a majority of the parties and witnesses involved. The Court will next consider the 
+public factors.                                                           
+      2.  Public Interests – Interests of Justice                        
+    In balancing the public interests, the Court is to consider “the interest of justice,” rather 
+than focusing on the wants and needs of the parties. In re: Howmedica Osteonics Corp., 867 F.3d 
+at 402. As with the private interests considered above, the Court also finds that the public 
+interests weigh in favor of transferring both actions to the Northern District of Illinois. 
+            i.  Enforceability of the Judgment                           
+    First, the Court is to consider whether or not shifting the litigation to the transferee forum 
+would inhibit “enforceability of the judgment.” Jumara, 55 F.3d at 879. Here, “it is unlikely that 
+
+there would be any significant difference in the difficulty of enforcing a judgment rendered by 
+one federal forum or the other.” In re: Howmedica Osteonics Corp., 867 F.3d at 410 (quoting 1 
+James Moore, et al., Moore’s Manual: Federal Practice & Procedure, § 7.81[3][b] (2017)). 
+Thus, this factor remains neutral.                                        
+           ii.  Practical Considerations                                 
+    Second, the Court is to weigh “practical considerations that could make the trial easy, 
+expeditious, or inexpensive.” Jumara, 55 F.3d at 879. One such consideration is the avoidance of 
+duplicative litigation in different fora. See Cont’l Grain Co. v. The FBL-585, 364 U.S. 19, 26 
+(1960) (“To permit a situation in which two cases involving precisely the same issues are 
+
+simultaneously pending in different District Courts leads to the wastefulness of time, energy and 
+money that § 1404(a) was designed to prevent.”). And our Circuit has found this to be a critical 
+factor in the transfer analysis. In re Amendt, 169 F. App’x 93, 96 (3d Cir. 2006) (“Here, the most 
+important factor is the avoidance of duplicative litigation: Adjudicating almost identical issues in 
+separate fora would waste judicial resources.”); see also Job Haines Home for the Aged v. 
+Young, 936 F. Supp. 223, 233 (D.N.J. Aug. 2, 1996) (“A strong public policy favors avoiding 
+duplicative litigation in different fora. Where the parties and issues are the same, or similar, and 
+another court is already familiar with the case, bringing related litigation together in one forum 
+ensures that pretrial discovery may be conducted more efficiently, witnesses’ time may be 
+conserved, public and parties’ litigation expenses may be reduced, and inconsistent results can be 
+avoided.”) (internal citations omitted).                                  
+    In addition, “courts in our district have held that where there is a strong likelihood of 
+consolidation  with  a  related  action,  a  transfer  of  venue  is  warranted.”  Panitch,  2017  WL 
+1333285, at *6 (quoting Palagano, 2015 WL 5025469, at *3). “In fact, the presence of a related 
+
+action in the transferee forum is such a powerful reason to grant a transfer that courts do so even 
+where other Jumara factors, such as the convenience of the parties and witnesses, would suggest 
+the opposite.” Villari Brandes & Kline, P.C. v. Plainfield Specialty Holdings II, Inc., No. 09-
+2552, 2009 WL 1845236, at *5 (E.D. Pa. June 26, 2009). Accordingly, “the existence of a related 
+action in another district is a sound reason for favoring transfer when venue is proper there, even 
+though the transfer conflicts with the plaintiff’s choice of forum.” Id.  
+    Here, the cases currently pending before the transferee forum are substantially similar to 
+the  actions  currently  before  this  Court.  Both  the  Pittsburgh  and  Chicago  securities  claims 
+concern the same alleged material misstatements and omissions, as does the ERISA action. (See 
+
+No. 19-307, ECF No. 45; No. 19-1339, ECF No. 179; No. 19-549, ECF No. 29). The same key 
+issues are at the heart of each case: Who said or did what? When? And why? In the Court’s 
+estimation, allowing litigation surrounding the same key facts to sprawl across districts would 
+waste the “time, energy and money that § 1404(a) was designed to prevent.” Cont’l Grain Co., 
+364 U.S. at 26.                                                           
+    For instance, the parties in the actions currently pending before this Court all agree that 
+discovery in the Pittsburgh and Chicago actions will need to be coordinated if transfer does not 
+occur. (See No. 19-307, Tr. of Telephone Status Conference, ECF No. 41, at 7–8.) In addition, 
+the Defendants raise the possibility that discovery disputes could become problematic if transfer 
+were not to occur. “If, for example, a dispute arises in connection with discovery that impacts all 
+these cases, absent transfer, would both courts hear that issue?” (No. 19-307, Defs.’ Reply in 
+Supp. of Mot. to Transfer Venue, ECF No. 58, at 5–6.) Or, “[i]f a discovery motion was made in 
+the securities cases, and resolved in Chicago in favor of the Defendants, would the plaintiffs be 
+able to seek a second bite at the apple in this Court?” (Id.)             
+
+    In contrast, transfer of the actions currently pending before this Court to the Northern 
+District of Illinois would allow for one (1) federal court to run the show.6 Regardless of the legal 
+claims at issue, discovery would be simplified, witnesses’ time would be conserved, expenses 
+would be reduced, and inconsistent results would certainly be avoided. And that is exactly what 
+§ 1404(a) envisioned. And as noted above, the litigation in Chicago had a head start on these 
+cases,  and  this  Court  believes  that  such  puts  the  Chicago  Court  in  the  better  position  to 
+adjudicate what are essentially parallel claims.                          
+    As such, the Court finds that the “practical considerations” factor strongly weighs in 
+favor of transferring both actions to the Northern District of Illinois.  
+
+           iii.  Court Congestion                                        
+    Next, the Court is to consider “the relative administrative difficulty in the two fora 
+resulting  from  court congestion.” Jumara, 55  F.3d  at  879. Based on  data provided by the 
+Administrative Office of the U.S. Courts, the Northern District of Illinois appears in some 
+variables to be more congested than the Western District of Pennsylvania, specifically as to 
+weighted civil cases per judge, and time to disposition of civil cases (but not by much as to that 
+factor). By the same token, this Court’s vacancy rate has been about 25% to 50% or more higher 
+for about five (5) years, with about 60% more felony criminal cases assigned to each district 
+
+6 The Court recognizes that the matter pending before the Delaware Chancery Court will not be joined with the 
+federal actions. However, that is not a sufficient reason for the actions at issue to proceed in more than one (1) 
+federal forum.                                                            
+judge. See Combined Civil & Criminal Federal Court Management Statistics (Dec. 31, 2019), 
+https://www.uscourts.gov/sites/default/files/data_tables/fcms_na_distprofile1231.2019.pdf.  As 
+with many statistical indicators in life, sound arguments can be presented from a number of 
+variables. The Chicago Court is a big, busy federal court. This Court is about half the size, and 
+also quite busy, especially with its criminal docket, which is required to take precedence over the 
+
+civil matters in the ordinary course.                                     
+    However, keeping the cases in Pittsburgh will not necessarily lead to overall ease of case 
+administration for either Court. For example, as discussed above, the Pittsburgh and Chicago 
+Courts will need to work together on some level to coordinate discovery if transfer is denied. 
+And, even if discovery is coordinated, individual decisions made by either Court (regarding 
+discovery disputes or other logistical matters) might be undone in all practicality by an opposite 
+ruling from the other Court.                                              
+    As such, this factor is for the most part a “push,” and due to this Court’s more expansive 
+criminal docket, generally weighs in favor of transfer. That is also enhanced substantially by the 
+
+inconvenience compounded by allowing various actions to continue in two (2) different fora, 
+especially when the Chicago cases had a material head start.              
+           iv.  Local Interest                                           
+    Fourth, the Court is to consider “the local interest in deciding local controversies at 
+home.” Jumara, 55 F.3d at 879. Given the fact that Kraft Heinz is co-headquartered in both 
+Pittsburgh and Chicago, and because several of the individual Defendants reside in Chicago and 
+at least one (1) individual Plaintiff resides in Pittsburgh, this factor is neutral. 
+           v.  Public Policies of the Fora                               
+    Similarly, the public policies of the fora are neutral because both venues have competing 
+interests in that the Defendant Company is co-headquartered in both Districts. Thus, this factor 
+remains neutral.                                                          
+           vi.  Familiarity with Applicable State Law                    
+
+    Lastly, the Court is to consider “the familiarity of the trial judge with the applicable state 
+law in diversity cases.” Jumara, 55 F.3d at 879–80. Here, as to the claims that arise under federal 
+law, the familiarity of the respective Districts with state law is not applicable. And as to any state 
+law claims, this Court has no reason believe that there is a “disparity in the qualifications of the 
+federal judges sitting in the two districts to pass on the same [state] law.” Id. at 883. Thus, this 
+factor remains neutral.                                                   
+          vii.  Conclusion                                               
+    On balance, the Court finds that the public Jumara factors weigh meaningfully in favor 
+of transferring both actions to the Northern District of Illinois. Substantially similar litigation is 
+
+already pending before the transferee forum. That in itself overwhelmingly suggests that the 
+interests of justice would be served via transfer, as discovery would be streamlined, witnesses’ 
+time would be saved, and inconsistent results would be avoided.           
+      3.  Jumara Conclusion                                              
+    In sum, of the twelve (12) Jumara factors, six (6) weigh in favor of transfer, one (1) 
+weighs against transfer, and five (5) are neutral. Having considered the factors in their totality, 
+the Court finds that the Defendants have demonstrated that the Jumara factors weigh strongly in 
+favor of transfer, in that: (1) the claims at issue likely arose in Chicago; (2) the convenience of 
+the parties and witnesses will likely be served by transferring the actions to the Chicago Court; 
+and (3) substantially similar litigation is already pending before the transferee forum. Those 
+considerations are countered by Plaintiffs’ preference that the cases remain in Pittsburgh. In the 
+Court’s  estimation,  however,  such  considerations  do  not  warrant  denial  of  the  Defendants’ 
+Motions.                                                                  
+    The Court would therefore grant the Defendants’ Motions to transfer the cases to the 
+
+Northern District of Illinois in applying the Jumara test.                
+ C.  First-Filed Rule                                                    
+    As noted above, the Third Circuit has adopted the first-filed rule, which also allows a 
+district court to transfer a later-filed action to the district in which the first-filed case is pending, 
+so long as the subject matter of the cases sufficiently overlaps. See Equal Emp’t Opportunity 
+Comm’n, 850 F.2d at 971 (“[T]he court which first has possession of the subject must decide 
+it.”).                                                                    
+    Here,  while  the  theories  of  liability  differ  across  cases,  the  factual  background  and 
+subject matter is almost identical. Each case at issue—either in Chicago or Pittsburgh—revolves 
+
+around the same alleged misstatements and omissions. (See No. 19-307, ECF No. 45; No. 19-
+1339, ECF No. 179; No. 19-549, ECF No. 29). And no party disagrees that the facts underlying 
+each action are substantially similar. In fact, the parties stipulated to such: 
+    Plaintiffs in the Derivative Action seek to recover the extensive costs the Company has 
+    expended  (and  is  continuing  to  expend)  undertaking  the  restatement,  the  extensive 
+    internal  investigations,  and  responding  to  the  SEC  investigation.  Additionally,  the 
+    Company has been named as a defendant in a class action lawsuit for alleged violations 
+    of the federal securities laws pending in the Northern District of Illinois (“Securities 
+    Action”). The ERISA Plaintiffs allege breaches of fiduciary duties under ERISA based 
+    on a similar set of underlying facts.                                
+
+See No. 19-307, Joint Status Report, ECF No. 40, at 4.                    
+    What  is  at  dispute,  according  to  the  Plaintiffs,  is  that  even  though  the  factual 
+circumstances are the same, the legal claims at issue and the parties involved differ from case to 
+case.7 (No. 19-307, ECF No. 56, at 11–12; No. 19-549, ECF No. 38, at 3–5.) However, as 
+outlined above, a flexible analysis of the first-filed rule directs district courts to consider whether 
+or not “the subject matter of the later filed case substantially overlaps with that of the earlier 
+
+one”—not the parties or the legal claims for relief. Emps.’ Ret. Sys. of City of St. Petersburgh, 
+Fla., 2019 WL 5485549, at *3–4.                                           
+    And, in the Court’s estimation, exceptional circumstances do not suggest that the Court 
+should refrain from applying the first-filed rule. Forum shopping is not a concern because the 
+Defendants did not file any of the actions at issue. See Equal Emp’t Opportunity Comm’n, 850 
+F.2d at 978 (noting that the forum shopping exception only applies when a plaintiff shows that a 
+defendant in the second action filed the first action to avoid the second forum). There has been 
+no showing of bad faith on behalf of the Defendants. And the substance of the actions before this 
+Court have not progressed beyond that of the actions before the Northern District of Illinois, in 
+that this Court has not yet addressed the merits of the actions currently pending before it.8 See, 
+
+e.g.,  Auto.  Serv.  Ass’n  of  N.J.,  Inc.  v.  Rockland  Exposition,  Inc.,  No.  08-3186,  2008  WL 
+5244282, at *5 (D.N.J. Dec. 12, 2008) (declining to extend the first-filed rule where the court in 
+
+7 The derivative Plaintiffs also argue that the first-filed action was actually DeFabiis because that was the first 
+shareholder derivative suit to be filed. (No. 19-549, ECF No. 38, at 3.) However, that case was voluntarily 
+dismissed, refiled in the Southern District of New York, voluntarily dismissed again, and then refiled in the 
+Delaware Chancery Court. So, in the Court’s estimation, the Chicago securities actions are the only earlier-filed 
+actions that the Pittsburgh cases could be joined with. Ultimately, the purpose of the first-filed rule is to conserve 
+time and resources when possible. And transfer of the Pittsburgh cases to the Northern District of Illinois will do just 
+that.                                                                     
+
+8 By the same token, the actions pending before the Chicago Court have not progressed substantially beyond that of 
+those pending before this Court. So far, the Chicago Court has consolidated cases and appointed lead counsel. (No. 
+19-1339, ECF No. 150.) The parties filed an Amended Complaint on January 6, 2020. (No. 19-1339, ECF No. 179.) 
+And two (2) Motions to Dismiss were filed on March 6, 2020, which remain pending. (ECF Nos. 215, 217.) As 
+such, transfer of the cases currently pending before this Court to the Northern District of Illinois would not be 
+fruitless—the Chicago Court will remain the sole arbiter as to all material issues in what are essentially parallel 
+claims.                                                                   
+the later-filed action had already denied a motion for a preliminary injunction and a motion to 
+dismiss or transfer the action).                                          
+    Therefore, the Court finds that transfer of the actions at No. 19-307 and No. 19-549 is 
+also appropriate under the Third Circuit’s first-filed rule.              
+IV.  CONCLUSION                                                          
+
+    Based on the foregoing, the Court finds that the Defendants have met their burden of 
+proving that venue is proper in the Northern District of Illinois, that private and public interests 
+at stake will be served by transferring the actions, and that the Third Circuit’s first-filed rule 
+similarly warrants transfer of both actions. Accordingly, the actions at No. 19-307 and No. 19-
+549 shall be transferred to the Northern District of Illinois.9           
+    An appropriate Order will follow.                                    
+
+
+                             s/ Mark R. Hornak                           
+                             Mark R. Hornak                              
+                             Chief United States District Judge          
+
+Dated: April 9, 2020                                                      
+
+cc:  All counsel of record                                                
+
+
+
+9 A Motion to Appoint Lead Counsel was filed in the action at No. 19-433 on June 14, 2019. (No. 19-433, ECF No. 
+35.) That action, however, has since been voluntarily dismissed and was de-consolidated from the matters pending at 
+No. 19-549. (No. 19-549, Order, ECF No. 20.) As such, the Court no longer views the Motion at No. 19-433, ECF 
+No. 35 to be “live,” but to the extent that it is, any such Motion is dismissed without prejudice, in that the transferee 
+Court is the appropriate forum to consider such Motion now that all (federal) actions revolving around the alleged 
+misstatements and/or omissions are pending before that Court.             

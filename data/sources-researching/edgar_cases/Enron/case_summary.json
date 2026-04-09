@@ -1,0 +1,85 @@
+{
+  "source": "SEC EDGAR",
+  "name": "ENRON CORP/OR/",
+  "cik": 1024401,
+  "sic": "6200",
+  "sic_description": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "tickers": [],
+  "exchanges": [],
+  "stateOfIncorporation": "OR",
+  "why_selected": "會計詐欺典型案例",
+  "num_filings_downloaded": 10,
+  "downloaded_files": [
+    {
+      "form": "8-K",
+      "date": "2004-11-18",
+      "accession": "0000950129-04-009127",
+      "filename": "8-K_2004-11-18_h20315e8vk.txt",
+      "description": "ENRON CORP. - DATED 11/17/2004"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-11-05",
+      "accession": "0000950129-04-008539",
+      "filename": "8-K_2004-11-05_h19822e8vk.txt",
+      "description": "ENRON CORP. - NOVEMBER 2, 2004"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-10-20",
+      "accession": "0000950129-04-007877",
+      "filename": "8-K_2004-10-20_h19235e8vk.txt",
+      "description": "ENRON CORP.- OCTOBER 13, 2004"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-10-14",
+      "accession": "0000950129-04-007785",
+      "filename": "8-K_2004-10-14_h19089e8vk.txt",
+      "description": "ENRON CORP. - OCTOBER 12, 2004"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-10-01",
+      "accession": "0000950134-04-014392",
+      "filename": "8-K_2004-10-01_h18788e8vk.txt",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-09-16",
+      "accession": "0000950129-04-007090",
+      "filename": "8-K_2004-09-16_h18462e8vk.txt",
+      "description": "ENRON CORP. - SEPTEMBER 13, 2004"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-09-14",
+      "accession": "0000909518-04-000772",
+      "filename": "8-K_2004-09-14_jd9-14_8k.txt",
+      "description": ""
+    },
+    {
+      "form": "8-K",
+      "date": "2004-09-08",
+      "accession": "0000950134-04-013335",
+      "filename": "8-K_2004-09-08_d18257e8vk.htm",
+      "description": "FORM 8-K"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-09-03",
+      "accession": "0000950129-04-006818",
+      "filename": "8-K_2004-09-03_h18231e8vk.txt",
+      "description": "ENRON CORP.- SEPTEMBER 1, 2004"
+    },
+    {
+      "form": "8-K",
+      "date": "2004-09-03",
+      "accession": "0000909518-04-000761",
+      "filename": "8-K_2004-09-03_jd9-2_8k.txt",
+      "description": ""
+    }
+  ],
+  "total_filings_available": 351
+}

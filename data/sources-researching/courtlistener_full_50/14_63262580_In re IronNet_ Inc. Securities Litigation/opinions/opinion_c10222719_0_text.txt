@@ -1,0 +1,397 @@
+           IN THE UNITED STATES DISTRICT COURT                       
+           FOR THE EASTERN DISTRICT OF VIRGINIA                      
+                    Alexandria Division                              
+
+ADAM GRAD, on Behalf of Himself and  )                                    
+All Others Similarly Situated,     )                                      
+                         )                                           
+Plaintiff,               )                                           
+                         )                                           
+v.                       )    Case No. 1:22-cv-00449 (RDA/JFA)       
+                         )                                           
+IRONNET, INC., et al.,        )    CLASS ACTION                           
+                         )                                           
+Defendants.              )                                           
+
+            MEMORANDUM OPINION AND ORDER                             
+
+This matter comes before the Court on the outstanding Motions to Appoint Counsel and 
+Lead Plaintiff (“Motions”).  See Dkt. Nos. 19; 23; 26.  This Court has dispensed with oral argument 
+as it would not aid in the decisional process.  Fed. R. Civ. P. 78(b); Local Civil Rule 7(J).  This 
+matter has been fully briefed and is now ripe for disposition.  Considering the Motions, including 
+the supporting memorandum and related exhibits filed on behalf of Chris Riemer (“Riemer”) (Dkt. 
+Nos. 19-22; 31), the supporting memorandum and related exhibits, opposition brief, and reply brief 
+on behalf of Roger Caroway, Shirley Guthrie, and Yong Kim (“CGK”) (Dkt. Nos. 24-25; 37; 40), 
+and the supporting memorandum and related exhibits, opposition brief, and reply brief on behalf 
+of James Shunk (“Shunk”) (Dkt. Nos. 27; 38; 39), this Court GRANTS Shunk’s Motion (Dkt. 26) 
+and DENIES the Motions of both Riemer and CGK (Dkt. Nos. 19; 23) for the reasons that follow.  
+                    I.  BACKGROUND                                   
+The instant Complaint alleges that all Defendants—IronNet, Inc. (“IronNet”), Keith B. 
+Alexander, James C. Gerber, and William E. Welch (“Individual Defendants”)—violated § 10(b) 
+of the Securities Exchange Act of 1934 (“Exchange Act”) and SEC Rule 10b-5.  The Complaint 
+also alleges that Individual Defendants violated § 20(a) of the Exchange Act.   
+This matter arises as a result of Defendants’ allegedly false and misleading statements and 
+omissions with respect to all securities publicly offered by IronNet and purchased between 
+September 15, 2021 and December 15, 2021 (“Class Period”) by members of the putative class.  
+IronNet is a cyber security services provider headquartered in McLean, Virginia.  On August 27, 
+2021, IronNet merged with a “blank check special purpose” acquisition company (“SPAC”), LGL 
+
+Systems Acquisition Corp. (“LGL”).  As a result of this de-SPAC transaction, IronNet became a 
+publicly traded company on the New York Stock Exchange and issued, among other securities, 
+common shares under the ticker symbol “IRNT.”                             
+Ahead of the merger approval, on August 10, 2021, IronNet revised its financial forecasts.  
+But after IronNet began publicly trading its common shares, on September 14, 2021, IronNet 
+issued a press release announcing its quarterly financially results, which fell significantly short of 
+its prior forecasts.  Notwithstanding the suboptimal results, IronNet reaffirmed it was “on target” 
+with its “first half guidance” and that “[n]ew customer momentum so far in the second half of [its] 
+fiscal year is strong.”  Dkt. 1 ¶¶ 20-21.  The stock price climbed 38% immediately following that 
+
+announcement.  But on December 15, 2021, after market close, IronNet altered its guidance in new 
+customer acquisition due to unanticipated “government delays in getting funding through to 
+federal budgets.”  Id. ¶ 24.  The earnings call that followed revealed that IronNet had fired its Chief 
+Revenue Officer and would reformulate its guidance methodology going forward.  On December 
+16, 2021, the common stock price dropped 31%.                             
+The Complaint alleges that Defendants materially misled public IronNet investors by 
+inflating the price of IronNet securities, issuing false and misleading statements and omitting 
+material facts related to IronNet’s adverse business and operations performance.  
+On April 22, 2022, Plaintiff Adam Grad “Plaintiff” filed the instant Complaint.  Dkt. 1.  
+That same day, counsel for Plaintiff caused a notice to be published over Globe Newswire pursuant 
+to § 21D(a)(3)(A)(i) of the Private Securities Litigation Reform Act of 1995 (“PSLRA”).  Dkt. 20 
+at 10.  On May 18, 2022, Defendants moved for suspension of their response filing obligations 
+pending the resolution of the appointment of a lead plaintiff and lead counsel in this matter, which 
+
+this Court granted on May 20, 2022.  Dkt. Nos. 12; 13.  On June 21, 2022, 60 days from the filing 
+of the original Complaint as required by the PSLRA, this Court received five motions for 
+appointment of lead plaintiff and lead counsel, accompanied by supporting memoranda and 
+exhibits.  Dkt. Nos. 15; 16; 19; 23; 26.  This Court then issued a scheduling order requiring all 
+responses to the initial motions by July 6, 2022, and all final replies to those responses by July 11, 
+2022.  On July 5, 2022, counsel for Chris Riemer filed a notice acknowledging that Riemer did 
+not appear to have the largest financial interest in the matter.  Dkt. 31 at 2.  Two of the other parties 
+withdrew their motions.  Dkt. Nos. 32; 33.  Counsel for CGK also filed a notice of correction as to 
+Shirley Guthrie’s loss chart to reflect her options trades made during the Class Period which 
+
+resulted only in gains, decreasing her aggregate loss amount by $9,020.00.  Dkt. 34 at 1.  On July 
+6, 2022, CGK and Shunk each filed opposition briefs.  Dkt. Nos. 37-38.  On July 11, 2022, CGK 
+and Shunk each filed replies as permitted by this Court’s briefing order.  Dkt. Nos. 39-40. 
+                 II.  STANDARD OF REVIEW                             
+The PSLRA outlines the relevant procedures to appoint a lead plaintiff in a federal class 
+action.  See 15 U.S.C. § 78u-4(a)(1).  The original lead plaintiff(s) must publish a class action 
+notice “in a widely circulated national business-oriented publication or wire service” within 20 
+days of the filing of the original complaint.  Id. § 78u-4(a)(3)(A)(i).  Within 90 days of the 
+published notice, the court must determine which of the potential plaintiffs (and derivatively their 
+counsel) is “most capable of adequately representing the interests of class members.”  Id. § 78u-
+4(a)(3)(B)(i).  In drawing that conclusion, the PSLRA directs courts to presume the most adequate 
+plaintiff is the person or group of persons that (a) has either filed the complaint or made a motion 
+in response to the publication notice; (b) in the court’s determination has the “largest financial 
+interest in the relief sought by the class”; and (c) otherwise satisfies the requirements of Federal 
+
+Rule of Civil Procedure 23.  Id. § 78u-4(a)(3)(B)(iii)(I).  The presumption may be rebutted “only 
+upon proof by a member of the purported plaintiff class” that the presumptive most adequate 
+plaintiff (a) “will not fairly and adequately protect the interests of the class” or (b) “is subject to 
+unique defenses” that render such plaintiff incapable of adequate representation.  Id. § 78u-
+4(a)(3)(B)(iii)(II).                                                      
+“Subject to the approval of the court,” the most adequate plaintiff shall select and retain 
+counsel to represent the class.  Id. § 78u-4(a)(3)(B)(v).  A court must consider “the work counsel 
+has done in identifying or investigating potential claims in the action, counsel’s experience in 
+handling class actions, other complex litigation, and claims of the type asserted in the action, 
+
+counsel’s knowledge of the applicable law, and the resources counsel will commit to representing 
+the class.”  In re Mills Corp., No. 1:06-cv-77, 2006 WL 2035391, at *3 (E.D. Va. May 30, 2006).  
+Courts retain the additional discretion to consider “any other matter pertinent to counsel’s ability 
+to fairly and adequately represent the interests of the class.”  Fed. R. Civ. P. 23(g)(1)(B).  
+                      III.  ANALYSIS                                 
+                     A.  Lead Plaintiff                              
+The PSLRA directs that the plaintiff with the “largest financial interest in the relief sought 
+by the class” initially is to be considered the lead plaintiff, provided that such plaintiff satisfies the 
+requirements of Federal Rule of Civil Procedure 23.  15 U.S.C. § 78u-4(a)(3)(B)(iii)(I)(bb).  The 
+parties do not dispute that options securities are covered by the Complaint and therefore are treated 
+in like manner with common stock losses in calculating each applicant’s aggregate financial losses.  
+See Dkt. 37 at 2 (CGK admitting that Shunk has the largest financial interest); see also Dkt. 34 
+(CGK revising the calculable loss chart to account for option gains).  As a result, Shunk’s covered 
+losses during the Class Period—$776,722.50—represent the largest financial loss in this matter.  
+
+Through counsel, Shunk has also moved to be appointed lead plaintiff.  Dkt. 26.  Therefore, he is 
+the presumptive lead plaintiff so long as he (1) meets the other requirements of Rule 23 and (2) 
+such presumption is not adequately rebutted.1                             
+       1.  Whether Shunk Meets the Other Requirements of Rule 23     
+CGK seeks to overcome the presumption that Shunk is the adequate lead plaintiff by 
+arguing that the disproportionality of his losses as a result of his common and call option holdings 
+makes him an atypical class representative.  Interpreting a collection of recent vintage cases 
+stemming from two Southern District of New York cases, CGK advances a rule that if “the 
+overwhelming majority of the movant’s losses resulted from options or stock trades” or simply 
+“the majority is from options trades,” then the applicant is atypical of the class.  Dkt. 37 at 5.   
+
+In assessing whether the plaintiff suffering the largest financial loss meets the other 
+requirements of Rule 23, “the candidate must make at least a preliminary showing that it has claims 
+which are typical of those of the putative class and that it has the capacity to provide adequate 
+representation for others.”  Switzenbaum v. Orbital Scis. Corp., 187 F.R.D. 246, 250 (E.D. Va. 
+1999); see also Patel v. Reata Pharma., Inc., 549 F. Supp. 3d 559, 566 (E.D. Tex. 2021) (“[I]t is 
+
+1    Of  the  remaining  applicants,  CGK  incurred  aggregate  losses  of  approximately 
+$509,730.77, entirely through losses incurred from trading common stock.  Losses among the three 
+members of the CGK were approximately evenly dispersed:  Shirley Guthrie ($189,662.17), Dkt. 
+34-2 at 6, Yong Kim ($162,271.64), Dkt. 25-5 at 2, and Roger Caroway ($157,796.96), Dkt. 25-7 
+at 2.  Reimer incurred aggregate losses of $81,272.00 during the Class Period, representing losses 
+from both call options and common stock.  Dkt. 21-1 at 2.                 
+sufficient that a lead-plaintiff movant make only a prima facie showing that he or she satisfies the 
+typicality and adequacy requirements of Rule 23.”); In re Oxford Health Plans, Inc. Sec. Litig., 
+182 F.R.D. 42, 49 (S.D.N.Y. 1998) (“[T]ypicality and adequacy of representation are the only 
+provisions relevant to the determination of lead plaintiff under the PSLRA.”).  “A person’s claim 
+is typical when each class member’s claim arises from the same course of events, and each class 
+
+member makes similar legal arguments to prove the defendant’s liability.”  In re MicroStrategy 
+Inc. Sec. Litig., 110 F. Supp. 2d 427, 435 (E.D. Va. 2000) (quoting In re Drexel Burnham Lambert 
+Grp., Inc., 960 F.2d 285, 291 (2d Cir. 1992)); see also E. Tex. Motor Freight Sys., Inc. v. 
+Rodriguez, 431 U.S. 395, 403 (1977) (“A class representative must be part of the class and possess 
+the same interest and suffer the same injury as the class members.”); Teran v. Subaye, Inc., No. 11 
+Civ. 2614, 2011 WL 4357362, at *5 (S.D.N.Y. Sept. 16, 2011) (holding that the “typicality 
+threshold is satisfied” when the applicant’s claims “arise from the same conduct from which the 
+other class members’ claims and injuries arise”).  “[A] person may be an adequate representative 
+of the class where that person (i) does not have interests that are adverse to the interests of the 
+
+class, (ii) has retained competent counsel, and (iii) is otherwise competent to serve as class 
+representative.”  MicroStrategy, 110 F. Supp. 2d at 435-36.               
+At this prima facie showing stage, Shunk’s claims appear mainstream and adequately 
+represent the interests of the class.  Appointing optionholders as lead plaintiffs is not an uncommon 
+question.  However, courts generally disfavor appointing applicants whose losses are entirely 
+borne out of their options trades—be they selling puts or buying calls—as those claims are 
+considered atypical of a class predominately consisting of common stockholders.2  But while 
+
+
+2  See, e.g., In re Stitch Fix, Inc. Sec. Litig., 393 F. Supp. 3d 833, 836 (N.D. Cal. 2019); 
+Applestein v. Medivation, Inc., No. C 10-00998, 2010 WL 3749406, at *4 (N.D. Cal. Sept. 20, 
+2010); Andrada v. Atherogenics, Inc., No. 05 Civ. 00061, 2005 WL 912359, at *5 (S.D.N.Y. Apr. 
+certain optionholder applicants suffering the largest financial losses in the class have confronted 
+difficulties on rebuttable presumption grounds in securing appointment, many others have been 
+appointed.3                                                               
+When an applicant has incurred losses from both the purchase of common stock and call 
+options, such trading behavior is not atypical of the class when the class seeks recovery for all 
+
+losses related to the securities of the issuer.  See Kiken v. Lumber Liquidators Holdings, Inc., 2014 
+WL 12588686, at **1, 3-4 (E.D. Va. May 14, 2014) (holding that for a class consisting of “all 
+persons or entities who purchased or otherwise acquired [] securities” during the class period, 
+applicants  who  traded  in  common  stock  and  call  options  were  not  atypical  or  inadequate 
+representatives of the class); see also In re Orbital Scis. Corp. Sec. Litig., 188 F.R.D. 237, 240 
+(E.D. Va. 1999) (“Even if the shareholders and the optionholders are not identically situated in 
+every respect, they share a mutual interest in having the Court resolve these questions about 
+whether the [d]efendants made any misstatements or omissions, whether they did so with scienter, 
+and whether the price of [] common stock became artificially inflated as a result.”); but see 
+
+MicroStrategy, 110 F. Supp. 2d at 440 (considering optionholder as atypical of the class because 
+
+
+19, 2005); Weikel v. Tower Semiconductor Ltd., 183 F.R.D. 377, 390-92 (D.N.J. 1998); Margolis 
+v. Caterpillar, Inc., 815 F. Supp. 1150, 1156 (C.D. Ill. 1991); but see, e.g., In re Sepracor Inc., 
+233 F.R.D. 52, 56 (D. Mass. 2005) (concluding that an applicant trading entirely in options may 
+represent a class that includes purchasers of all equity securities).     
+
+3  See, e.g., Medina v. Clovis Oncology, Inc., No. 15-CV-2546, 2016 WL 660133, at *4 (D. 
+Colo. Feb. 18, 2016); Ash v. PowerSecure Intern., Inc., No. 4:14-cv-92-D, 2014 WL 5100607, at 
+*4 (E.D.N.C. Oct. 10, 2014); Goldstein v. Puda Coal, Inc., 827 F. Supp. 2d 348, 355 (S.D.N.Y. 
+2011); Hall v. Medicis Pharm. Corp., No. CV08-1821, 2009 WL 648626, at *5 (D. Ariz. Mar. 11, 
+2009); In re Scientific-Atlanta, Inc. Sec. Litig., 571 F. Supp. 2d 315, 1330-31 (N.D. Ga. 2007); In 
+re Priceline.com Sec. Litig., 236 F.R.D. 89, 99 (D. Conn. 2006); In re Donnkenny Inc., Sec. Litig., 
+171 F.R.D. 156, 156 (S.D.N.Y. 1997); In re Adobe Sys., Inc. Sec. Litig., 139 F.R.D. 150, 155 (N.D. 
+Cal. 1991); Deutschman v. Beneficial Corp., 132 F.R.D. 359, 371 (D. Del. 1990); Moskowitz v. 
+Lopp, 128 F.R.D. 624, 631 (E.D. Pa. 1989)).                               
+the applicant was a hedge fund that “engages in transactions far beyond the scope of what a typical 
+investor contemplates”).                                                  
+Shunk’s trading behavior is not atypical of the class.  Shunk incurred $64,016.00 in losses 
+from the sale of common stock purchased during the Class Period.  Dkt. 27-4 at 1.  Moreover, the 
+losses incurred from his sale of call options resulted from the same motivation as the sales made 
+
+by common stockholders.4  See Deutchman, 132 F.R.D. at 371 (holding that call option purchasers 
+“can invoke the fraud on the market theory” because “both call option purchasers and stock 
+purchasers hope to profit from an increase in the market price of the underlying security”); see 
+also Nursing Home Pension Fund v. Oracle Corp., No. C-01-00988, 2006 WL 8071391, at *8 
+(N.D. Cal. Dec. 20, 2006) (finding the sale of call options in conjunction with the purchase of 
+common stock as not atypical of the class).                               
+Shunk has also preliminarily demonstrated himself to “not have interests that are adverse 
+to the interests of the class.”  MicroStrategy, 110 F. Supp. 2d at 435-36.  Not only are the purchase 
+and sale motives aligned between call optionholders and common stockholders, but the specific 
+
+interests of the members of this class also align with Shunk’s.  Ten percent of Riemer’s losses, for 
+example, resulted from either his call options having been sold or expired.  Dkt. 21-1 at 2; see also 
+Adobe, 139 F.R.D. at 155 (finding the typicality requirement satisfied where “the value of options 
+is directly related to the value of common stock” and the defendants “had reason to expect that 
+option traders would rely on their alleged misrepresentations”).  Shunk has also proposed lead and 
+
+
+4  Unsurprisingly, Shirley Guthrie, a member of the CGK applicants, purchased call options 
+during the Class Period which resulted in no losses as they either were sold or expired in the money 
+prior to the end of the Class Period.  Dkt. 34-2 at 5-6.  The only difference between these options 
+and the options Shunk purchased were the relative strike prices and duration of each contract, 
+explaining why Shunk incurred losses while Guthrie did not.  Shunk’s call option transactions 
+appear even more typical of the class given Guthrie’s prior transaction history.   
+liaison  counsel  with  a  respectable track record handling securities and other complex  civil 
+litigation matters and, through briefing, has not demonstrated any questions as to his competency 
+to serve as class representative.  MicroStrategy, 110 F. Supp. 2d at 435-36.  Rather, given the sheer 
+magnitude of his losses, “there is no reason to believe that [he or his] counsel will not vigorously 
+prosecute this action.”  Medina, 2016 WL 660133, at *4.                   
+
+     2.  Whether Shunk’s Presumptive Lead Plaintiff Status is Rebutted 
+CGK relies on the determinations from sister districts in Di Scala v. ProShares Ultra 
+Bloomberg Crude Oil, No. 20 Civ. 5865 (NRB), 2020 WL 7698321, at *4 (S.D.N.Y. Dec. 28, 
+2020) and Cook v. Allergan PLC, No. 18 Civ. 12089 (CM), 2019 WL 1510894 (S.D.N.Y. Mar. 
+21, 2019) to assert that when losses from options exceed losses from common shares, the 
+applicant’s claims are atypical of a class whose losses stem from trading the issuer’s securities.  
+And while it is true that the courts in Di Scala and Cook rejected appointing a lead-plaintiff with 
+82% and 61% of option losses, respectively, both cases are distinguishable from the instant case.  
+In Di Scala, the optionholding applicant incurred losses from the sale of put options as opposed to 
+the purchase of call options.5  As such, the court reckoned whether selling contracts effectively 
+
+betting against a certain increase in the issuer’s stock price over a certain period of time would 
+“qualify him as [a] member of a class of all investors who purchased or otherwise acquired” the 
+issuer’s securities during the Class Period.  2020 WL 7698321, at *4 (internal quotations omitted).  
+Whereas here, the original  Complaint only  considers “economic loss to  investors who had 
+purchased” the IronNet’s securities during the Class Period.  Dkt. 1 ¶¶ 5, 28, 37, 52.  The defined 
+putative class in the Complaint here is even narrower than in Di Scala; and Shunk engaged in no 
+
+
+5  For a primer on the mechanics of a put option and its sale, see Priceline.com, 236 F.R.D. 
+at 98-99.                                                                 
+sales of put options.  Rather, Shunk’s purchase of call options convincingly aligns with the 
+investment calculus of those who purchase common shares.                  
+Cook  also  fails  to  undercut  Shunk’s  presumptive  lead-plaintiff  status.    There,  the 
+optionholder sold both put and call options, reflecting a unique trading strategy atypical of the 
+overall class.  Cook, 2019 WL 1510894, at *2 (noting the applicant’s “self-contradictory and 
+
+unusual trading patterns”).  And unlike here, the competing applicant was an institutional investor 
+which further compelled the court to forego appointing the optionholder applicant as lead plaintiff.  
+Id. at *1 (“There is, therefore, a preference for the appointment of an institutional lead plaintiff, 
+assuming all else is in equipoise.”); see id. at *2 (noting that the optionholder applicant was an 
+individual and not an institutional investor).                            
+Even more, the reasoning upon which Di Scala and Cook rely effectively eschews the 
+PSLRA’s explicit directive that any rebuttal be made “upon proof by a member of the purported 
+plaintiff class” that the presumptive most adequate plaintiff (a) “will not fairly and adequately 
+protect the interests of the class” or (b) “is subject to unique defenses” that render such plaintiff 
+
+incapable of adequate representation.  15 U.S.C. § 78u-4(a)(3)(B)(iii)(II) (emphasis added).  
+Instead,  Di  Scala  and  Cook  speculate  that  the  sheer  magnitude  of  losses  incurred  from 
+disproportionate  options  trading  “very  likely  would  introduce  factual  issues  irrelevant  to 
+stockholder class members, like strike price, duration, maturity, volatility, and interest rates” and 
+the applicant “could subject the class to unique defenses, causing unnecessary conflict.”  Di Scala, 
+2020 WL 7698321, at *4 (quoting Allergan, 2019 WL 1510894, at *2).        
+Significantly, this Court fails to see how such risks emerge when the losses sustained by 
+other members of the putative class occurred in the same manner as the presumptive lead 
+plaintiff’s.  Dkt. 21-2 at 2 (revealing call option losses from Riemer who has applied separately 
+for lead-plaintiff status); Dkt. 31 at 2 (despite recognizing he has not sustained the largest financial 
+loss, Riemer reserves his “right to share in any recovery obtained for the benefit of Class 
+members”).  The “factual issues” undergirding the options losses discovery process would prove 
+essential to awarding those class members, like Riemer, who have sustained losses from their 
+optionholdings.  Considering how many courts have comfortably appointed optionholders who 
+
+also suffered losses from common stock, including other courts sitting in the Southern District of 
+New York, see, e.g., Goldstein, 827 F. Supp. 2d at 355, this Court also doubts that the risks 
+identified in Cook and reiterated in Di Scala suddenly become problematic when an applicant’s 
+losses in options crosses the Rubicon from 49.9% of its aggregate losses to 50.1%.  Indeed, 
+Allergan conflicts directly with the decision of a district court sitting in this Circuit.6  See Dkt. 13-
+4 at 2, Ash v. Powersecure Int’l Inc., Dkt. No. 4:14-cv-00092 (E.D.N.C. July 22, 2014); Ash, 2014 
+WL 5100607, at *4 (appointing a lead plaintiff that sustained millions in losses of which more 
+than 50% were attributable to having sold put options).                   
+The Di Scala and Cook progeny also fail to persuade this Court.  For instance, in Patel, the 
+
+court determined that while the optionholder applicant incurred the largest financial loss, his losses 
+during the class period “were based solely on option contracts,” rendering him atypical of the class.  
+549 F. Supp. 3d at 567.  The Patel court also added that the optionholder’s presumptive lead status 
+was  rebuttable  because  his  “trading  practices  subject  him  to  ‘unique  defenses’  concerning 
+damages.”  Id. at 568-69 (citing Gelt Trading v. Co-Diagnostics, Inc., No. 2:20-cv-00368, 2021 
+
+
+6  The Southern District of New York held in Andrada that an applicant who only incurred 
+losses from options was not qualified to be appointed lead plaintiff, discrediting that applicant’s 
+misguided reliance on this Circuit’s decisions in MicroStrategy and Orbital.  2005 WL 912359, at 
+*5 n.1.  But as that footnote correctly notes, neither of the courts in MicroStrategy and Orbital 
+decided the express question before this Court; rather, those courts held that the creation of a 
+subclass for optionholders was unnecessary given that the lead plaintiff’s losses incurred from the 
+sale of common stock adequately represented the interests of the optionholders.    
+WL 913934, at *5 (D. Utah Mar. 10, 2021)).  In Gelt, the presumptive lead plaintiffs also had not 
+sustained any common stock losses.  Tracing the chain of precedent, the Gelt decision relied in 
+turn on Bricklayers of W. Pa. Pension Plan v. Hecla Mining Co., No. 2:12-cv-42, 2012 WL 
+2872787, at *4 (D. Idaho July 12, 2012).  That court considered a unique valuation contest related 
+to an applicant’s claimed losses from options and the resulting financial loss calculation.  Hecla 
+
+did not address optionholders who also sustained common stock losses and their capacity to 
+typically and adequately represent the class.  Tellingly, only two courts have cited Hecla with 
+respect to the rebuttable presumption unique defense damages claim—Patel and Gelt.  Both cases 
+involved  a  presumptive  lead  plaintiff  that  sustained  the  entirety  of  its  losses  from  option 
+transactions.  Here, Shunk amassed nearly $65,000.00 in losses from sale of his common stock 
+purchased during the Class Period, making him typical to and representative of the average class 
+member.                                                                   
+CGK offers no “specific evidence” which suggests that “the nature of [Shunk’s] options, 
+the history of their purchase and sale, or some other factor [makes Shunk] inadequate to represent 
+
+the class.”  Hall, 2009 WL 648626, at *4.  Without such hard “proof” required by the PSLRA, this 
+Court will not discount the high burden of proof that challengers must overcome to successfully 
+rebut the lead plaintiff presumption.  Tchatchou v. India Globalization Cap., Inc., No. 8:18-cv-
+3396, 2019 WL 1004591, at *8 (D. Md. Feb. 28, 2019) (“[O]nce the presumption is triggered, the 
+question is not whether another movant might do a better job of protecting the interests of the class 
+than the presumptive lead plaintiff; instead, the question is whether anyone can prove that the 
+presumptive lead plaintiff will not do a fair and adequate job.”); see also In re Fannie Mae Sec. 
+Litig., 355 F. Supp. 2d 261, 263 (D.D.C. 2006) (rejecting a challenge to a presumptive lead-
+plaintiff because the challengers “offer[ed] no proof” of how potential conflicts would become 
+actual conflicts and because their arguments were “too speculative and hypothetical to rebut the 
+presumption”).  Given that no other applicant has presented any specific evidence that Shunk’s 
+trading patterns were atypical or that Shunk’s interests were adverse to the interests of the class, 
+Shunk has satisfied the necessary showing that his service as a lead plaintiff meets the typicality 
+and adequacy requirements of Rule 23.                                     
+
+                     B.  Lead Counsel                                
+Shunk seeks to appoint Bernstein Liebhard LLP (“Bernstein”) as lead counsel and The 
+Kaplan Law Firm (“Kaplan”) as liaison counsel.  A lead plaintiff’s selection of counsel is subject 
+to court approval.  15 U.S.C. § 78u-4(a)(3)(B)(v).  There is “a strong presumption in favor of 
+approving a properly-selected lead plaintiff[’]s decisions as to counsel selection and counsel 
+retention.”  In re Cendant Corp. Litig., 264 F.3d 201, 276 (3d Cir. 2001).  “In determining whether 
+to grant such approval, the Court must consider: (1) ‘the work counsel has done in identifying or 
+investigating potential claims in the action’; (2) ‘counsel’s experience in handling class actions, 
+other complex litigation, and the types of claims asserted in the action’; (3) ‘counsel’s knowledge 
+
+of the applicable law’; (4) ‘the resources that counsel will commit to representing the class’; and 
+(5) ‘any other matter pertinent to counsel’s ability to fairly and adequately represent the interests 
+of the class.’”  Kiken, 2014 WL 12588686, at *4 (citing Fed. R. Civ. P. 23(g)(1)).   
+Here, Bernstein and Kaplan have filed extensive briefings and supporting documentation 
+in this matter.  They have provided evidence of substantial experience in securities litigation and 
+other complex civil litigation matters.  Dkt. Nos. 27-5; 27-6.  And while Kaplan’s expertise does 
+not appear to focus entirely on securities litigation, its principal attorney has significant prior 
+experience in litigating securities cases.  Dkt. 27-6.  Considering their combined expertise and 
+already demonstrated commitment to this matter through its thoughtful briefing, this Court will 
+permit the appointment of Bernstein as Lead Counsel and Kaplan as Liaison Counsel in this matter. 
+This position of trust that this Court has placed with counsel comes with an expectation of the 
+highest standards of professionalism and effective advocacy.              
+                    IV.  CONCLUSION                                  
+Accordingly, it is hereby ORDERED that the Motion to be appointed as Lead Plaintiff by 
+
+James Shunk (Dkt. 26) is GRANTED; and it is                               
+FURTHER ORDERED that the remaining motions by Riemer (Dkt. 19) and CGK (Dkt. 
+23) are DENIED; and it is                                                 
+FURTHER ORDERED that James Shunk is APPOINTED to serve as Lead Plaintiff 
+pursuant to Section 21D(a)(3)(B) of the Securities Exchange Act of 1934, 15 U.S.C. § 78u-
+4(a)(3)(B), as amended by the Private Securities Litigation Reform Act of 1995, in the above-
+captioned action; and it is                                               
+FURTHER ORDERED that James Shunk’s selection of Lead Counsel is APPROVED, and 
+Bernstein Liebhard LLP (“Bernstein Liebhard”) is APPOINTED to serve as Lead Counsel for the 
+
+class; and it is                                                          
+FURTHER ORDERED that James Shunk’s selection of Liaison Counsel is APPROVED, 
+and The Kaplan Law Firm (“Kaplan Law”) is APPOINTED to serve as Liaison Counsel for the 
+class; and it is                                                          
+FURTHER ORDERED that pursuant to Rule 42(a) of the Federal Rules of Civil Procedure, 
+any pending subsequently filed, removed, or transferred actions that are related to the claims 
+asserted in the above-captioned action are consolidated for all purposes; and it is 
+ FURTHER ORDERED that this action shall bear the caption “In re IronNet, Inc. Securities 
+Litigation” and shall be maintained under master file number No. 1:22-cv-00449-RDA-JFA; and 
+it is 
+ FURTHER ORDERED that within fourteen (14) days of this Order and Opinion, counsel 
+for Lead Plaintiff and Defendants will submit a proposed schedule for the filing of an amended 
+complaint and Defendants’ responses thereto. 
+ The Clerk is directed to forward copies of this Order to counsel of record and reflect the 
+aforementioned updates to the docket, including making James Shunk a  Plaintiff and revising the 
+docket caption. 
+ It is SO ORDERED. 
+Alexandria, Virginia 
+July 15, 2022 
+                                        fll 
+                                        Rossie D, Alston, Jr. 
+                                        United States District Judge 
+
+                                 15 

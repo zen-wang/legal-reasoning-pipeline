@@ -1,0 +1,14 @@
+{
+  "source": "SEC EDGAR",
+  "name": "Servabo, Inc.",
+  "cik": 1605326,
+  "sic": "",
+  "sic_description": "",
+  "tickers": [],
+  "exchanges": [],
+  "stateOfIncorporation": "IL",
+  "why_selected": "排放數據造假",
+  "num_filings_downloaded": 0,
+  "downloaded_files": [],
+  "total_filings_available": 1
+}
