@@ -169,6 +169,7 @@ This table builds the citation graph for Phase 2 (Knowledge Graph) and Phase 4 (
 | party_type | TEXT | "Plaintiff", "Defendant", "Lead Plaintiff", "Relief Defendant" |
 | date_terminated | TEXT | When this party was dismissed/settled |
 | criminal_counts | TEXT | JSON array of parallel criminal charges |
+| extra_info | TEXT | Additional party information from CourtListener |
 
 ### attorneys
 
@@ -179,6 +180,7 @@ This table builds the citation graph for Phase 2 (Knowledge Graph) and Phase 4 (
 | name | TEXT | Attorney name |
 | contact_raw | TEXT | Full address, firm name, phone |
 | phone | TEXT | Phone number |
+| fax | TEXT | Fax number |
 | email | TEXT | Email address |
 | roles | TEXT | JSON array of role codes |
 
