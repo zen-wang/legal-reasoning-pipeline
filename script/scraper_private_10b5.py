@@ -209,6 +209,12 @@ def init_db(db_path: Path) -> sqlite3.Connection:
             value           TEXT
         );
 
+        CREATE TABLE IF NOT EXISTS discovered_dockets (
+            docket_id       INTEGER PRIMARY KEY,
+            tier            TEXT NOT NULL,
+            discovered_at   TEXT DEFAULT (datetime('now'))
+        );
+
         CREATE INDEX IF NOT EXISTS idx_opinions_docket ON opinions(docket_id);
         CREATE INDEX IF NOT EXISTS idx_parties_docket ON parties(docket_id);
         CREATE INDEX IF NOT EXISTS idx_attorneys_docket ON attorneys(docket_id);
@@ -230,6 +236,25 @@ def is_case_scraped(conn: sqlite3.Connection, docket_id: int) -> bool:
 def get_scraped_count(conn: sqlite3.Connection) -> int:
     row = conn.execute("SELECT COUNT(*) FROM cases WHERE scrape_status = 'done'").fetchone()
     return row[0] if row else 0
+
+
+def get_cached_dockets(conn: sqlite3.Connection, tier: str) -> list[int] | None:
+    """Return cached docket IDs for a tier, or None if not yet discovered."""
+    rows = conn.execute(
+        "SELECT docket_id FROM discovered_dockets WHERE tier = ? ORDER BY docket_id",
+        (tier,),
+    ).fetchall()
+    return [r[0] for r in rows] if rows else None
+
+
+def cache_dockets(conn: sqlite3.Connection, docket_ids: list[int], tier: str) -> None:
+    """Save discovered docket IDs so we skip re-discovery on restart."""
+    conn.executemany(
+        "INSERT OR IGNORE INTO discovered_dockets (docket_id, tier) VALUES (?, ?)",
+        [(d, tier) for d in docket_ids],
+    )
+    conn.commit()
+    logger.info(f"Cached {len(docket_ids)} docket IDs for tier '{tier}'")
 
 
 # ── API Client ──────────────────────────────────────────────────────
@@ -577,9 +602,15 @@ async def run_scrape(tier: str = "all", db_path: Path = DB_PATH) -> None:
     timeout = aiohttp.ClientTimeout(total=60)
     async with aiohttp.ClientSession(timeout=timeout) as session:
 
-        # ── Pass 1: Discover opinion-bearing dockets ──
+        # ── Pass 1: Discover opinion-bearing dockets (cached after first run) ──
         limit = TIER_LIMITS.get(tier)
-        opinion_docket_ids = await discover_opinion_dockets(session, limiter, limit=limit)
+        cached = get_cached_dockets(conn, "opinions")
+        if cached:
+            opinion_docket_ids = cached[:limit] if limit else cached
+            logger.info(f"Loaded {len(opinion_docket_ids)} cached opinion docket IDs (skipping API discovery)")
+        else:
+            opinion_docket_ids = await discover_opinion_dockets(session, limiter, limit=limit)
+            cache_dockets(conn, opinion_docket_ids, "opinions")
 
         # Filter out already-scraped
         opinion_todo = [d for d in opinion_docket_ids if not is_case_scraped(conn, d)]
@@ -613,7 +644,13 @@ async def run_scrape(tier: str = "all", db_path: Path = DB_PATH) -> None:
         # ── Pass 3 & 4: Remaining dockets (metadata only) ──
         if tier == "all":
             opinion_set = set(opinion_docket_ids)
-            remaining_ids = await discover_all_dockets(session, limiter, exclude=opinion_set)
+            cached_all = get_cached_dockets(conn, "metadata")
+            if cached_all:
+                remaining_ids = cached_all
+                logger.info(f"Loaded {len(remaining_ids)} cached metadata docket IDs (skipping API discovery)")
+            else:
+                remaining_ids = await discover_all_dockets(session, limiter, exclude=opinion_set)
+                cache_dockets(conn, remaining_ids, "metadata")
             remaining_todo = [d for d in remaining_ids if not is_case_scraped(conn, d)]
             logger.info(f"\n{'='*60}")
             logger.info(f"PASS 2: Scraping {len(remaining_todo)} metadata-only cases")

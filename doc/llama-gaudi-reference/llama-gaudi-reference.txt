@@ -1,0 +1,35 @@
+Key Scripts                                                                                                                                                                                                              
+                                                                                                                                                                                                                           
+  1. vLLM Server Launch (the main one)                                                                                                                                                                                     
+                                                                                                                                                                                                                           
+  Llama-3.3-70B/scripts/run_vllm_gaudi.sh — Launches the vLLM OpenAI-compatible server on 8x Gaudi 2 HL-225. This is the most important reference script. Key details:                                                     
+                                                                                     
+  - SLURM: --partition=gaudi, --gres=gpu:hl225:8, --cpus-per-task=64, --mem=320G                                                                                                                                           
+  - Model path: /data/datasets/community/huggingface/models--meta-llama--Llama-3.3-70B-Instruct/snapshots/6f6073b423013f6a7d4d9f39144961bfbfbc386b (direct snapshot to bypass HF auth)
+  - Environment: /packages/envs/gaudi-pytorch-vllm/bin (ASU-provided Gaudi+vLLM env)                                                                                                                                       
+  - Critical env vars:                                                                                                                                                                                                     
+    - PYTHONNOUSERSITE=1 — prevents user packages from shadowing Gaudi env                                                                                                                                                 
+    - GC_KERNEL_PATH — auto-detected libtpc_kernels.so (fixes synStatus 26)                                                                                                                                                
+    - PT_HPU_LAZY_MODE=0 — torch.compile mode                                                                                                                                                                              
+    - VLLM_GRAPH_RESERVED_MEM=0.1 — prevents OOM on 70B                                                                                                                                                                    
+    - VLLM_PROMPT_USE_FUSEDSDPA=1                                                                                                                                                                                          
+  - vLLM args: --dtype bfloat16 --block-size 128 --tensor-parallel-size 8 --max-model-len 2048 --max-num-seqs 16
+                                                                                                                                                                                                                           
+  2. Singularity Container Version                                                   
+                                                                                                                                                                                                                           
+  Llama-3.3-70B/scripts/run_vllm_gaudi_sif.sh — Same setup but runs inside apptainer exec with container /packages/apps/simg/vllm-nightly-26.03.19.sif. Same env vars and vLLM args.                                       
+                                                                               
+  3. Client Script                                                                                                                                                                                                         
+                                                                                     
+  Llama-3.3-70B/scripts/run_generate.sh — Runs on a separate CPU node, connects to the vLLM server via http://<gaudi_host>:8000 using the OpenAI Python client.                                                            
+                                                                                     
+  Packages                                                                                                                                                                                                                 
+                                                                                     
+  requirements.txt (client-side, for the generation/eval scripts):                                                                                                                                                         
+  tqdm, accelerate, transformers, datasets, sentencepiece, sacrebleu,
+  networkx, gpustat, wandb, bert-score, openai, sentence-transformers                                                                                                                                                      
+                                                                                     
+  The vLLM server side doesn't need a custom venv — it uses the pre-built env at /packages/envs/gaudi-pytorch-vllm/ (or the .sif container). The openai package on the client side is the key dependency for talking to the
+   vLLM server.                                                                                                                                                                                                            
+  
+  For your other project, the run_vllm_gaudi.sh script is the main reference — it has all the Gaudi 2 workarounds documented inline.
