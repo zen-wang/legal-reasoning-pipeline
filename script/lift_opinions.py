@@ -12,10 +12,10 @@ Usage:
   python script/lift_opinions.py --db data/private_10b5_sample_416.db --mock --limit 3
 
   # Sol: run against vLLM on Gaudi 2
-  python script/lift_opinions.py --db data/private_10b5_sample_416.db --llm-url http://gaudi004:8000 --limit 5
+  python script/lift_opinions.py --db data/private_10b5_sample_416.db --llm-url http://gaudi004:8000
 
-  # Single opinion
-  python script/lift_opinions.py --db data/private_10b5_sample_416.db --opinion-id 12345 --llm-url http://gaudi004:8000
+  # Sol: run with 4 concurrent requests
+  python script/lift_opinions.py --db data/private_10b5_sample_416.db --llm-url http://gaudi004:8000 --concurrency 4
 """
 
 from __future__ import annotations
@@ -24,6 +24,8 @@ import argparse
 import logging
 import sqlite3
 import sys
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from script.lifting.extract import extract_opinion
@@ -72,7 +74,7 @@ def get_opinions_to_process(
             JOIN cases c ON o.docket_id = c.docket_id
             JOIN case_labels cl ON o.opinion_id = cl.opinion_id
             WHERE cl.contamination_type = 'PRIVATE'
-              AND cl.outcome_label NOT IN ('UNLABELED', 'UNCLEAR')
+              AND cl.outcome_label NOT IN ('UNLABELED')
               AND o.plain_text IS NOT NULL AND length(o.plain_text) > 1000
               AND o.opinion_id NOT IN (
                   SELECT opinion_id FROM irac_extractions WHERE is_valid = 1
@@ -84,6 +86,49 @@ def get_opinions_to_process(
         rows = conn.execute(query).fetchall()
 
     return [dict(r) for r in rows]
+
+
+def _process_one(
+    op: dict,
+    idx: int,
+    total: int,
+    db_path: str,
+    client: LLMClient | None,
+    mode: str,
+) -> tuple[str, float, str | None]:
+    """Process a single opinion in its own thread with its own DB connection."""
+    logger.info(
+        f"[{idx}/{total}] Opinion {op['opinion_id']}: "
+        f"{op['case_name'][:50]} ({len(op['plain_text']):,} chars)"
+    )
+
+    conn = sqlite3.connect(db_path)
+    init_irac_table(conn)
+
+    t0 = time.time()
+    result = extract_opinion(
+        conn=conn,
+        opinion_id=op["opinion_id"],
+        docket_id=op["docket_id"],
+        case_name=op["case_name"],
+        court_id=op["court_id"],
+        plain_text=op["plain_text"],
+        procedural_stage=op.get("procedural_stage"),
+        client=client,
+        mode=mode,
+    )
+    elapsed = time.time() - t0
+    conn.close()
+
+    status = result["status"]
+    outcome = result.get("outcome")
+
+    if outcome:
+        logger.info(f"  → {status}: outcome={outcome} ({elapsed:.1f}s)")
+    elif result.get("errors"):
+        logger.warning(f"  → {status}: {result['errors']} ({elapsed:.1f}s)")
+
+    return (status, elapsed, outcome)
 
 
 def main() -> None:
@@ -105,6 +150,10 @@ def main() -> None:
     parser.add_argument(
         "--opinion-id", type=int, default=None,
         help="Extract a single opinion by ID",
+    )
+    parser.add_argument(
+        "--concurrency", type=int, default=1,
+        help="Number of concurrent LLM requests (default: 1)",
     )
     parser.add_argument(
         "--dry-run", action="store_true",
@@ -133,60 +182,69 @@ def main() -> None:
 
     # Get opinions
     opinions = get_opinions_to_process(conn, limit=args.limit, opinion_id=args.opinion_id)
+    conn.close()
 
     if not opinions:
         print("No opinions to process (all done or none match criteria).")
-        conn.close()
         return
 
-    logger.info(f"Processing {len(opinions)} opinions in {mode} mode")
+    logger.info(f"Processing {len(opinions)} opinions in {mode} mode (concurrency={args.concurrency})")
 
-    # Create LLM client (only needed for live mode)
+    # Create LLM client (shared across threads — stateless HTTP)
     client = None
     if mode == "live":
         client = LLMClient(base_url=args.llm_url)
         logger.info(f"LLM endpoint: {args.llm_url}")
 
-    # Process each opinion
-    stats = {"valid": 0, "invalid": 0, "error": 0, "dry-run": 0, "invalid_subs": 0}
+    # Process opinions
+    stats: dict[str, int] = {}
+    durations: list[float] = []
+    batch_start = time.time()
 
-    for i, op in enumerate(opinions, 1):
-        logger.info(
-            f"[{i}/{len(opinions)}] Opinion {op['opinion_id']}: "
-            f"{op['case_name'][:50]} ({len(op['plain_text']):,} chars)"
-        )
-
-        result = extract_opinion(
-            conn=conn,
-            opinion_id=op["opinion_id"],
-            docket_id=op["docket_id"],
-            case_name=op["case_name"],
-            court_id=op["court_id"],
-            plain_text=op["plain_text"],
-            procedural_stage=op.get("procedural_stage"),
-            client=client,
-            mode=mode,
-        )
-
-        status = result["status"]
-        stats[status] = stats.get(status, 0) + 1
-
-        if result.get("outcome"):
-            logger.info(f"  → {status}: outcome={result['outcome']}")
-        elif result.get("errors"):
-            logger.warning(f"  → {status}: {result['errors']}")
+    if args.concurrency <= 1:
+        # Sequential
+        for i, op in enumerate(opinions, 1):
+            status, elapsed, _ = _process_one(op, i, len(opinions), str(args.db), client, mode)
+            stats[status] = stats.get(status, 0) + 1
+            durations.append(elapsed)
+    else:
+        # Concurrent
+        with ThreadPoolExecutor(max_workers=args.concurrency) as executor:
+            futures = {
+                executor.submit(_process_one, op, i, len(opinions), str(args.db), client, mode): op
+                for i, op in enumerate(opinions, 1)
+            }
+            for future in as_completed(futures):
+                try:
+                    status, elapsed, _ = future.result()
+                    stats[status] = stats.get(status, 0) + 1
+                    durations.append(elapsed)
+                except Exception as e:
+                    import traceback
+                    logger.error(f"Thread error: {e}\n{traceback.format_exc()}")
+                    stats["error"] = stats.get("error", 0) + 1
 
     # Summary
+    batch_elapsed = time.time() - batch_start
     print(f"\n{'='*55}")
-    print(f"  EXTRACTION SUMMARY ({mode} mode)")
+    print(f"  EXTRACTION SUMMARY ({mode} mode, concurrency={args.concurrency})")
     print(f"{'='*55}")
     print(f"  Total processed:  {len(opinions)}")
     for k, v in sorted(stats.items()):
         if v > 0:
             print(f"    {k:15s} {v}")
 
+    if durations:
+        avg = sum(durations) / len(durations)
+        print(f"\n  Timing:")
+        print(f"    Wall time:      {batch_elapsed:.1f}s ({batch_elapsed/60:.1f} min)")
+        print(f"    Avg per case:   {avg:.1f}s")
+        print(f"    Min / Max:      {min(durations):.1f}s / {max(durations):.1f}s")
+        if args.concurrency > 1:
+            print(f"    Throughput:     {len(durations)/batch_elapsed*60:.1f} cases/min")
+
     if mode != "dry-run":
-        # Show DB stats
+        conn = sqlite3.connect(str(args.db))
         row = conn.execute(
             "SELECT is_valid, COUNT(*) FROM irac_extractions GROUP BY is_valid"
         ).fetchall()
@@ -195,8 +253,7 @@ def main() -> None:
             for valid, count in row:
                 label = "valid" if valid else "invalid"
                 print(f"    {label:15s} {count}")
-
-    conn.close()
+        conn.close()
 
 
 if __name__ == "__main__":

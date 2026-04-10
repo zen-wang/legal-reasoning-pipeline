@@ -205,16 +205,10 @@ def split_sections(text: str) -> OpinionSections:
 
 
 def get_analysis_text(opinion_sections: OpinionSections) -> str:
-    """Extract the combined ANALYSIS + CONCLUSION text for LLM input."""
-    parts: list[str] = []
-    for s in opinion_sections.sections:
-        if s.section_type in ("ANALYSIS", "CONCLUSION"):
-            parts.append(s.text)
-
-    # Fallback: if no ANALYSIS sections found, use everything except HEADER
-    if not parts:
-        parts = [s.text for s in opinion_sections.sections if s.section_type != "HEADER"]
-
+    """Extract opinion text for LLM input — everything except the court header boilerplate."""
+    parts: list[str] = [
+        s.text for s in opinion_sections.sections if s.section_type != "HEADER"
+    ]
     return "\n".join(parts)
 
 

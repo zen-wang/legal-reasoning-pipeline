@@ -16,9 +16,9 @@ import requests
 logger = logging.getLogger(__name__)
 
 DEFAULT_URL = "http://localhost:8000"
-DEFAULT_MODEL = "meta-llama/Llama-3.3-70B-Instruct"
-DEFAULT_TIMEOUT = 120
-DEFAULT_MAX_TOKENS = 2048
+DEFAULT_MODEL = "/data/datasets/community/huggingface/models--meta-llama--Llama-3.3-70B-Instruct/snapshots/6f6073b423013f6a7d4d9f39144961bfbfbc386b"
+DEFAULT_TIMEOUT = 300
+DEFAULT_MAX_TOKENS = 1024
 
 
 # ---------------------------------------------------------------------------
@@ -93,6 +93,7 @@ class LLMClient:
     def chat_completion(
         self,
         messages: list[dict[str, str]],
+        max_tokens: int | None = None,
     ) -> tuple[str, dict | None]:
         """
         Send a chat completion request to the vLLM server.
@@ -105,7 +106,7 @@ class LLMClient:
             "model": self.model,
             "messages": messages,
             "temperature": 0.0,
-            "max_tokens": self.max_tokens,
+            "max_tokens": max_tokens or self.max_tokens,
         }
 
         try:
@@ -116,7 +117,8 @@ class LLMClient:
         except requests.exceptions.Timeout:
             raise TimeoutError(f"LLM request timed out after {self.timeout}s")
         except requests.exceptions.HTTPError as e:
-            raise RuntimeError(f"LLM server error: {e}")
+            body = resp.text[:500] if resp is not None else ""
+            raise RuntimeError(f"LLM server error: {e} | {body}")
 
         data = resp.json()
         choices = data.get("choices", [])

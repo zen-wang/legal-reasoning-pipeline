@@ -15,7 +15,7 @@ from pydantic import ValidationError
 
 from .llm_client import LLMClient
 from .preprocess import get_analysis_text, split_sections
-from .prompt import build_messages, estimate_tokens
+from .prompt import build_messages
 from .rules import validate_extraction_rules
 from .schema import (
     ElementAnalysis,
@@ -27,12 +27,41 @@ from .store import init_irac_table, save_extraction
 
 logger = logging.getLogger(__name__)
 
-MAX_PROMPT_TOKENS = 14_000  # leave room for output within 16K context
+MODEL_CONTEXT_LIMIT = 8192  # vLLM --max-model-len
+PROMPT_TEMPLATE_TOKENS = 1200  # system prompt + instructions + schema + chat template overhead
+MIN_OUTPUT_TOKENS = 512  # minimum tokens reserved for JSON output
+MAX_OUTPUT_TOKENS = 1024  # ideal output budget
+SAFETY_MARGIN = 100  # extra buffer for chat template tokens
 
 
-# ---------------------------------------------------------------------------
-# Truncation
-# ---------------------------------------------------------------------------
+def _estimate_tokens(text: str) -> int:
+    """Rough token estimate: ~4 chars per token for English legal text."""
+    return int(len(text) / 2.6)
+
+
+def _compute_budget(opinion_chars: int) -> tuple[int, int]:
+    """
+    Dynamically compute max opinion chars and max_tokens for LLM output.
+
+    Returns (max_opinion_chars, max_output_tokens).
+    """
+    opinion_tokens = int(opinion_chars / 2.6)  # Llama tokenizer: ~2.6 chars/token for legal text
+    total_input = opinion_tokens + PROMPT_TEMPLATE_TOKENS + SAFETY_MARGIN
+
+    available_for_output = MODEL_CONTEXT_LIMIT - total_input
+    if available_for_output >= MAX_OUTPUT_TOKENS:
+        # Fits fine — no truncation needed
+        return (opinion_chars, MAX_OUTPUT_TOKENS)
+
+    if available_for_output >= MIN_OUTPUT_TOKENS:
+        # Tight but usable — reduce output budget
+        return (opinion_chars, available_for_output)
+
+    # Must truncate opinion text
+    max_input_tokens = MODEL_CONTEXT_LIMIT - MAX_OUTPUT_TOKENS - PROMPT_TEMPLATE_TOKENS - SAFETY_MARGIN
+    max_chars = int(max_input_tokens * 2.6)
+    return (max_chars, MAX_OUTPUT_TOKENS)
+
 
 def truncate_text(text: str, max_chars: int) -> tuple[str, bool]:
     """
@@ -157,9 +186,9 @@ def extract_opinion(
     sections = split_sections(plain_text)
     analysis_text = get_analysis_text(sections)
 
-    # Step 2: Truncate if needed
-    max_chars = MAX_PROMPT_TOKENS * 4  # rough char estimate
-    analysis_text, was_truncated = truncate_text(analysis_text, max_chars)
+    # Step 2: Dynamic budget — truncate if needed, compute max_tokens
+    max_opinion_chars, output_tokens = _compute_budget(len(analysis_text))
+    analysis_text, was_truncated = truncate_text(analysis_text, max_opinion_chars)
     if was_truncated:
         logger.warning(
             f"Opinion {opinion_id}: truncated from {len(plain_text):,} to {len(analysis_text):,} chars"
@@ -173,8 +202,11 @@ def extract_opinion(
         docket_id=docket_id,
     )
 
-    prompt_tokens = estimate_tokens(messages[0]["content"] + messages[1]["content"])
-    logger.info(f"Opinion {opinion_id}: ~{prompt_tokens:,} prompt tokens, {len(analysis_text):,} chars")
+    prompt_tokens = _estimate_tokens(messages[0]["content"] + messages[1]["content"])
+    logger.info(
+        f"Opinion {opinion_id}: ~{prompt_tokens:,} input tokens, "
+        f"max_output={output_tokens}, {len(analysis_text):,} chars"
+    )
 
     # Step 4: Get LLM response (or mock/dry-run)
     if mode == "dry-run":
@@ -197,7 +229,7 @@ def extract_opinion(
             result["errors"] = ["No LLM client provided"]
             return result
         try:
-            raw_text, parsed = client.chat_completion(messages)
+            raw_text, parsed = client.chat_completion(messages, max_tokens=output_tokens)
         except (ConnectionError, TimeoutError, RuntimeError) as e:
             logger.error(f"Opinion {opinion_id}: LLM error — {e}")
             result["status"] = "error"
