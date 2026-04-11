@@ -156,6 +156,10 @@ def main() -> None:
         help="Number of concurrent LLM requests (default: 1)",
     )
     parser.add_argument(
+        "--timeout", type=int, default=300,
+        help="LLM request timeout in seconds (default: 300)",
+    )
+    parser.add_argument(
         "--dry-run", action="store_true",
         help="Print prompts without calling LLM",
     )
@@ -193,8 +197,8 @@ def main() -> None:
     # Create LLM client (shared across threads — stateless HTTP)
     client = None
     if mode == "live":
-        client = LLMClient(base_url=args.llm_url)
-        logger.info(f"LLM endpoint: {args.llm_url}")
+        client = LLMClient(base_url=args.llm_url, timeout=args.timeout)
+        logger.info(f"LLM endpoint: {args.llm_url} (timeout={args.timeout}s)")
 
     # Process opinions
     stats: dict[str, int] = {}
