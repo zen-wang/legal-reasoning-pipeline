@@ -298,6 +298,11 @@ def lower(
             precedents, constraint_ctx,
         )
 
+    # Log raw response for debugging
+    if parsed is None and raw:
+        logger.warning(f"JSON parse failed. Raw LLM response ({len(raw)} chars):")
+        logger.warning(raw[:2000])
+
     # Parse response
     analysis = _parse_llm_response(
         raw, parsed, docket_id, case_name, precedents, context_tokens,
