@@ -158,9 +158,14 @@ def _parse_llm_response(
     # Parse cited precedents
     cited: list[CitedPrecedent] = []
     for cp_data in parsed.get("cited_precedents", []):
+        raw_did = cp_data.get("docket_id")
+        try:
+            did = int(raw_did) if raw_did is not None else None
+        except (ValueError, TypeError):
+            did = None
         cited.append(CitedPrecedent(
             case_name=cp_data.get("case_name", ""),
-            docket_id=cp_data.get("docket_id"),
+            docket_id=did,
             court_id=cp_data.get("court_id", ""),
         ))
 
