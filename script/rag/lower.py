@@ -164,9 +164,9 @@ def _parse_llm_response(
         except (ValueError, TypeError):
             did = None
         cited.append(CitedPrecedent(
-            case_name=cp_data.get("case_name", ""),
+            case_name=cp_data.get("case_name") or "",
             docket_id=did,
-            court_id=cp_data.get("court_id", ""),
+            court_id=cp_data.get("court_id") or "",
         ))
 
     # Parse uncertainty flags
