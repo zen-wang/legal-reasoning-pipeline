@@ -1,0 +1,150 @@
+"""
+Generate full evaluation report in Markdown.
+
+Aggregates all component metrics, baselines, and human annotation
+results into a single reproducible report.
+"""
+
+from __future__ import annotations
+
+import json
+import logging
+from datetime import datetime
+from pathlib import Path
+from typing import Any
+
+logger = logging.getLogger(__name__)
+
+
+def generate_report(
+    db_path: Path,
+    output_path: Path | None = None,
+) -> str:
+    """
+    Run all evaluation modules and generate Markdown report.
+
+    Returns the report as a string. Optionally writes to file.
+    """
+    from .anco_holdout import compute_anco_evaluation
+    from .baselines import run_all_baselines
+    from .constraint_rates import compute_constraint_rates
+    from .element_accuracy import compute_element_accuracy
+    from .iaa import compute_iaa
+    from .outcome_accuracy import compute_outcome_accuracy
+
+    lines: list[str] = []
+
+    def h1(text: str) -> None:
+        lines.append(f"# {text}\n")
+
+    def h2(text: str) -> None:
+        lines.append(f"## {text}\n")
+
+    def h3(text: str) -> None:
+        lines.append(f"### {text}\n")
+
+    def p(text: str) -> None:
+        lines.append(f"{text}\n")
+
+    def table(headers: list[str], rows: list[list[str]]) -> None:
+        lines.append("| " + " | ".join(headers) + " |")
+        lines.append("| " + " | ".join("---" for _ in headers) + " |")
+        for row in rows:
+            lines.append("| " + " | ".join(str(c) for c in row) + " |")
+        lines.append("")
+
+    # Header
+    h1("Phase 7 Evaluation Report")
+    p(f"**Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    p(f"**Database**: `{db_path}`")
+    p("")
+    p("*With 24 annotated cases, we report point estimates with bootstrap CIs. "
+      "Statistical significance between baselines cannot be established at this "
+      "sample size. The evaluation framework is designed to scale to the full "
+      "3,400-case dataset.*")
+    p("")
+
+    # Baselines
+    h2("Baseline Comparison")
+    baselines = run_all_baselines(db_path)
+    baseline_rows = []
+    for i, b in enumerate(baselines, 1):
+        if "balanced_accuracy" in b:
+            ba = f"{b['balanced_accuracy']*100:.1f}%"
+            n = str(b.get("n_cases", "—"))
+        else:
+            ba = "STUB"
+            n = "—"
+        baseline_rows.append([f"B{i}", b["name"], ba, n])
+    table(["#", "Baseline", "Bal. Accuracy", "N"], baseline_rows)
+
+    # ANCO-HITS
+    h2("ANCO-HITS Evaluation")
+    anco = compute_anco_evaluation(db_path)
+    if "error" not in anco:
+        for key in ["training_set", "held_out", "full_set"]:
+            r = anco[key]
+            auc = f"{r['auc']:.4f}" if r.get("auc") else "N/A"
+            p(f"**{r['description']}**: N={r['n_cases']}, AUC={auc}")
+        p(f"\nSingleton ratio: {anco['singleton_ratio']:.1%} "
+          f"({anco['n_extremal_arguments']}/{anco['n_arguments']} arguments are extremal)")
+
+    # Constraint rates
+    h2("Constraint Violation Rates")
+    constraints = compute_constraint_rates(db_path)
+    p(f"Cases evaluated: {constraints['n_cases_evaluated']}, "
+      f"Violation rate: {constraints['violation_rate']*100:.1f}%")
+    if constraints["per_constraint_counts"]:
+        constraint_rows = [
+            [c, str(n)]
+            for c, n in sorted(constraints["per_constraint_counts"].items())
+        ]
+        table(["Constraint", "Violations"], constraint_rows)
+
+    # Element accuracy (requires human annotations)
+    h2("Element-Level Accuracy")
+    elements = compute_element_accuracy(db_path)
+    if elements.get("status") == "WAITING":
+        p(f"*{elements['message']}*")
+    elif elements.get("status") == "OK":
+        p(f"Cases compared: {elements['n_cases_compared']}, "
+          f"Overall accuracy: {elements['overall_accuracy']*100:.1f}%, "
+          f"Balanced: {elements['overall_balanced_accuracy']*100:.1f}%")
+
+    # Outcome accuracy (requires human annotations)
+    h2("Outcome Prediction Accuracy")
+    outcomes = compute_outcome_accuracy(db_path)
+    if outcomes.get("status") == "WAITING":
+        p(f"*{outcomes['message']}*")
+    elif outcomes.get("status") == "OK":
+        for key in ["pipeline", "regex_baseline"]:
+            r = outcomes[key]
+            if r.get("n", 0) > 0:
+                p(f"**{r['name']}**: N={r['n']}, "
+                  f"Accuracy={r['accuracy']*100:.1f}%, "
+                  f"Balanced={r['balanced_accuracy']*100:.1f}%")
+
+    # IAA
+    h2("Inter-Annotator Agreement")
+    iaa = compute_iaa(db_path)
+    if iaa.get("status") == "WAITING":
+        p(f"*{iaa['message']}*")
+    else:
+        for pair in iaa.get("pairs", []):
+            gate = "PASS" if pair["element_gate_passed"] else "FAIL"
+            p(f"**{pair['annotator_1']} vs {pair['annotator_2']}** ({pair['type']}): "
+              f"element kappa={pair['element_kappa']:.3f} [{gate}], "
+              f"outcome kappa={pair['outcome_kappa']:.3f}")
+
+    # Footer
+    p("")
+    p("---")
+    p("*Generated by `python -m script.run_evaluation --report`*")
+
+    report = "\n".join(lines)
+
+    if output_path:
+        output_path.write_text(report)
+        logger.info(f"Report written to {output_path}")
+
+    return report

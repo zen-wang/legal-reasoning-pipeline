@@ -1,0 +1,203 @@
+{
+  "description": "Phase 7 annotation set: 24 cases for human evaluation by Emre",
+  "selection_date": "2026-04-10",
+  "total_cases": 24,
+  "test_split_cases": 14,
+  "hard_negative_cases": 10,
+  "dev_excluded": [6135547, 87229],
+  "eval_cases_count": 23,
+  "cases": [
+    {
+      "docket_id": 19225,
+      "case_name": "Smith v. Ayres",
+      "source": "test_split",
+      "court_id": "ca5",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 28160,
+      "case_name": "Golding v. Barr",
+      "source": "test_split",
+      "court_id": "ca2",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 37974,
+      "case_name": "Alexander Theoharous v. Henry Fong",
+      "source": "test_split",
+      "court_id": "ca11",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 87229,
+      "case_name": "Ashland, Inc. v. Oppenheimer & Co., Inc.",
+      "source": "test_split",
+      "court_id": "ca6",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split — DEV EXCLUDED from eval metrics"
+    },
+    {
+      "docket_id": 4426187,
+      "case_name": "In re Vivendi, S.A. Secs. Litig.",
+      "source": "test_split",
+      "court_id": "ca2",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 6328090,
+      "case_name": "James Webb v. Solarcity Corporation",
+      "source": "test_split",
+      "court_id": "ca9",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 16566489,
+      "case_name": "Gordon Gamm v. Sanderson Farms, Inc.",
+      "source": "test_split",
+      "court_id": "ca2",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 17356912,
+      "case_name": "Carpenters Pension Trust Fund v. Allstate Corporation",
+      "source": "test_split",
+      "court_id": "ca7",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 66821987,
+      "case_name": "In re: Overstock Securities",
+      "source": "test_split",
+      "court_id": "ca10",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 70353466,
+      "case_name": "Lee v. McDowell",
+      "source": "test_split",
+      "court_id": "ncbizct",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 54674,
+      "case_name": "Streber v. Hunter",
+      "source": "test_split",
+      "court_id": "ca5",
+      "regex_label": "MIXED",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 48095,
+      "case_name": "Barrie v. Intervoice-Brite Inc",
+      "source": "test_split",
+      "court_id": "ca5",
+      "regex_label": "PLAINTIFF_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 6076389,
+      "case_name": "JP Morgan Securities v. Geveran Investments",
+      "source": "test_split",
+      "court_id": "fladistctapp",
+      "regex_label": "PLAINTIFF_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 15582770,
+      "case_name": "David Masel v. Adriana Villarreal",
+      "source": "test_split",
+      "court_id": "ca5",
+      "regex_label": "PLAINTIFF_WINS",
+      "selection_reason": "Existing test split"
+    },
+    {
+      "docket_id": 1903179,
+      "case_name": "WPP Luxembourg Gamma Three v. Spot Runner, Inc.",
+      "source": "hard_negative",
+      "court_id": "ca9",
+      "regex_label": "MIXED",
+      "selection_reason": "MIXED outcome (rarest class), high confidence label"
+    },
+    {
+      "docket_id": 67983529,
+      "case_name": "In Re: Ali Alavi v. Genius Brands International, Inc.",
+      "source": "hard_negative",
+      "court_id": "ca9",
+      "regex_label": "MIXED",
+      "selection_reason": "MIXED outcome (rarest class), high confidence label"
+    },
+    {
+      "docket_id": 66798773,
+      "case_name": "In re: Amalgamated Bank v. Facebook, Inc.",
+      "source": "hard_negative",
+      "court_id": "ca9",
+      "regex_label": "MIXED",
+      "selection_reason": "MIXED outcome, low confidence (0.68), complex multi-element analysis"
+    },
+    {
+      "docket_id": 1870471,
+      "case_name": "FirstBank Puerto Rico, Inc. v. LA VIDA MERGER SUB",
+      "source": "hard_negative",
+      "court_id": "ca1",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Underrepresented circuit (CA1 not in test split)"
+    },
+    {
+      "docket_id": 160053,
+      "case_name": "Minneapolis Firefighters' Relief Ass'n v. MEMC Electronic Materials",
+      "source": "hard_negative",
+      "court_id": "ca8",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Underrepresented circuit (CA8 not in test split)"
+    },
+    {
+      "docket_id": 8175,
+      "case_name": "Cory v. Stewart",
+      "source": "hard_negative",
+      "court_id": "ca5",
+      "regex_label": "MIXED",
+      "selection_reason": "Low confidence label (0.50), ambiguous regex outcome"
+    },
+    {
+      "docket_id": 98386,
+      "case_name": "Trust Company of LA v. NNP Incorporated",
+      "source": "hard_negative",
+      "court_id": "ca5",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "Low confidence label (0.50), ambiguous regex outcome"
+    },
+    {
+      "docket_id": 6136502,
+      "case_name": "Lighting Science v. Geveran Investments",
+      "source": "hard_negative",
+      "court_id": "fladistctapp",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "4 CONTESTED elements — pipeline expected to struggle with ambiguity"
+    },
+    {
+      "docket_id": 6136505,
+      "case_name": "J.P. Morgan Securities v. Geveran Investments",
+      "source": "hard_negative",
+      "court_id": "fladistctapp",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "4 CONTESTED elements — pipeline expected to struggle with ambiguity"
+    },
+    {
+      "docket_id": 17357763,
+      "case_name": "Carpenters Pension Trust Fund v. Allstate Corporation",
+      "source": "hard_negative",
+      "court_id": "ca7",
+      "regex_label": "DEFENDANT_WINS",
+      "selection_reason": "3 CONTESTED elements, different opinion from same docket as test case"
+    }
+  ]
+}
