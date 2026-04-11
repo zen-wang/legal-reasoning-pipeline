@@ -54,6 +54,8 @@ def _retrieve_semantic(
         return {}
 
     query_vec = encode_query(query_text)
+    if query_vec is None:
+        return {}
     results = cosine_search(query_vec, embeddings, top_k=top_k)
     return dict(results)
 

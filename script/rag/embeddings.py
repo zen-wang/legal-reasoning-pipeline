@@ -179,9 +179,13 @@ def cosine_search(
     return [(ids[i], float(scores[i])) for i in top_indices]
 
 
-def encode_query(text: str) -> np.ndarray:
-    """Encode a single query text using SBERT. Loads model on first call."""
-    from sentence_transformers import SentenceTransformer
+def encode_query(text: str) -> np.ndarray | None:
+    """Encode a single query text using SBERT. Returns None if not installed."""
+    try:
+        from sentence_transformers import SentenceTransformer
+    except ImportError:
+        logger.warning("sentence-transformers not installed — skipping semantic search")
+        return None
 
     model = SentenceTransformer(MODEL_NAME)
     vec = model.encode(text)
