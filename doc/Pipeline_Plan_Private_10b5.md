@@ -175,7 +175,7 @@ LossCausation(case) ←
 - Flag failures for human review rather than passing through
 
 **Step 5: Human validation (MVP benchmark)**
-- Hand-label ~5 cases per outcome type with Emre (law student)
+- Hand-label ~5 cases per outcome type with a human annotator
 - Compare LLM extraction against human ground truth
 - Fix prompt issues and rerun until >90% agreement
 
@@ -487,7 +487,7 @@ This is the "programmable" in "Programmable AI" from Beyond the Black Box.
 |--------|------------|--------|
 | **Citation accuracy** | Every cited case checked against dataset | 100% (zero invented) |
 | **Rule extraction accuracy** | Extracted statute matches `cause` field + opinion text | >90% |
-| **Element extraction accuracy** | LLM element assessment matches human label | >85% (validated with Emre) |
+| **Element extraction accuracy** | LLM element assessment matches human label | >85% (validated with human annotator) |
 | **Outcome prediction** | Predicted outcome matches actual on held-out test set | >80% |
 | **ANCO-HITS scaling validity** | High-score arguments correlate with plaintiff-win cases | AUC >0.85 |
 | **Uncertainty calibration** | When system flags uncertainty, actual outcome is indeed ambiguous | Precision >0.75 |
@@ -496,7 +496,7 @@ This is the "programmable" in "Programmable AI" from Beyond the Black Box.
 ### 7.2 MVP Benchmark (First)
 
 Before running automated evaluation:
-1. Hand-label ~5 cases per outcome type with Emre (law student)
+1. Hand-label ~5 cases per outcome type with a human annotator
 2. For each: material facts, governing rules, arguments both sides, outcome and why
 3. Run pipeline on same cases, compare output against human labels
 4. Fix prompt/pattern issues until >90% agreement
@@ -529,7 +529,7 @@ This is the **exception handling loop** from Beyond the Black Box (Algorithm 1, 
 | 6 | **Phase 3: ANCO-HITS** | Argument scores computed. Validation: case scores separate plaintiff-win vs defendant-win. |
 | 7-8 | **Phase 4: GraphSAGE** | Model trained on labeled cases. Predictions for unlabeled cases. |
 | 9-10 | **Phase 5: RAG** | Retrieval pipeline with all constraints. Zero-hallucination verified on test batch. |
-| 11 | **Phase 6: Output** | End-to-end IRAC outputs generated. Emre reviews 20 samples. |
+| 11 | **Phase 6: Output** | End-to-end IRAC outputs generated. Domain expert reviews 20 samples. |
 | 12+ | **Phase 7: Eval** | Full evaluation on held-out test set. Metrics computed. Feedback loop to earlier phases. |
 
 ---

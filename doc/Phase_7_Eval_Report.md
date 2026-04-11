@@ -42,11 +42,11 @@ Cases evaluated: 23, Violation rate: 87.0%
 
 ## Element-Level Accuracy
 
-*human_annotations table not found — Emre annotations pending*
+*human_annotations table not found — human annotations pending*
 
 ## Outcome Prediction Accuracy
 
-*human_annotations table not found — Emre annotations pending*
+*human_annotations table not found — human annotations pending*
 
 ## Inter-Annotator Agreement
 

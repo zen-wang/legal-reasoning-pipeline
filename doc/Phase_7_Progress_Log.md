@@ -8,7 +8,7 @@
 
 ## Overview
 
-Built a rigorous evaluation framework following LegalBench methodology (Guha et al., 2023). The framework defines component-level metrics for each pipeline phase, 5 baselines for comparison, a blinded human annotation protocol, and 7 explicit anti-pattern rules. Automated metrics run immediately; human-dependent metrics activate when Emre's annotations arrive.
+Built a rigorous evaluation framework following LegalBench methodology (Guha et al., 2023). The framework defines component-level metrics for each pipeline phase, 5 baselines for comparison, a blinded human annotation protocol, and 7 explicit anti-pattern rules. Automated metrics run immediately; human-dependent metrics activate when human annotations arrive.
 
 **Key result**: Automated evaluation on 23 eval cases shows the symbolic pipeline produces zero ERROR-level constraint violations (no hallucinated citations, no anachronistic references). ANCO-HITS AUC = 0.687 against regex labels reveals a meaningful gap between regex-derived outcomes and IRAC-based analysis — quantifying why human ground truth is needed. Framework is reproducible across local and Sol environments.
 
@@ -46,13 +46,13 @@ Each pipeline component mapped to a LegalBench task type with appropriate metric
 
 | Component | LegalBench Type | Primary Metric | Ground Truth |
 |-----------|----------------|----------------|-------------|
-| Phase 0: Outcome labeling | Rule-conclusion | Balanced accuracy (3-class) | Emre labels |
-| Phase 1: Element extraction | Rule-application | Element status accuracy + analysis quality (0-3) | Emre IRAC |
-| Phase 1: Procedural stage | Issue-spotting | Balanced accuracy (4-class) | Emre labels |
+| Phase 0: Outcome labeling | Rule-conclusion | Balanced accuracy (3-class) | Human annotations |
+| Phase 1: Element extraction | Rule-application | Element status accuracy + analysis quality (0-3) | Human annotator IRAC |
+| Phase 1: Procedural stage | Issue-spotting | Balanced accuracy (4-class) | Human annotations |
 | Phase 3: ANCO-HITS | N/A (graph alg) | AUC on held-out cases | Held-out labels |
-| Phase 5: Retrieval | N/A (retrieval) | Precision@5, NDCG@10 | Emre relevance judgments |
+| Phase 5: Retrieval | N/A (retrieval) | Precision@5, NDCG@10 | Human relevance judgments |
 | Phase 5: Constraints | Rule-recall | Violation rate per type | Dataset ground truth |
-| Phase 5+6: LLM generation | Rule-application | Correctness + analysis quality (0-3) | Emre grading |
+| Phase 5+6: LLM generation | Rule-application | Correctness + analysis quality (0-3) | Human annotator grading |
 
 **Dual metrics for rule-application** (LegalBench Appendix E): Correctness (binary — is the element status correct?) and Analysis Quality (0-3 scale — does the reasoning connect facts to law?). These are reported separately because a model can guess correctly without sound reasoning.
 
@@ -70,9 +70,9 @@ B1-B3 run immediately. B4-B5 require LLM access on Sol (stubs created with instr
 
 ### 7.4 Human Annotation Protocol
 
-**Annotator**: Emre (lab RA, law student)
+**Annotator**: Human annotator (lab RA, law student)
 
-**Blinding**: Emre reads raw opinion text only — never sees pipeline output. Cases in randomized order (fixed seed). When grading LLM output quality, system identity hidden (B4 vs full pipeline interleaved).
+**Blinding**: The annotator reads raw opinion text only — never sees pipeline output. Cases in randomized order (fixed seed). When grading LLM output quality, system identity hidden (B4 vs full pipeline interleaved).
 
 **Annotation set**: 24 cases (14 test split + 10 hard negatives)
 
@@ -93,7 +93,7 @@ B1-B3 run immediately. B4-B5 require LLM access on Sol (stubs created with instr
 - E. Quality Flags: is it 10b-5? sufficient text? debatable elements?
 
 **Inter-annotator agreement** (1 annotator workaround):
-- Intra-rater: Emre re-annotates 5 cases after 2 weeks (blind). Target: kappa >= 0.70
+- Intra-rater: Annotator re-annotates 5 cases after 2 weeks (blind). Target: kappa >= 0.70
 - Calibration: Professor annotates 5 cases independently. Target: kappa >= 0.70
 - Quality gate: annotations not used as ground truth until kappa passes
 
@@ -111,7 +111,7 @@ B1-B3 run immediately. B4-B5 require LLM access on Sol (stubs created with instr
 | B4 | Zero-shot LLM | STUB | — | — |
 | B5 | BM25 + LLM | STUB | — | — |
 
-*B2 is circular: regex labels ARE the ground truth. Will drop to ~55-70% against Emre's annotations.
+*B2 is circular: regex labels ARE the ground truth. Will drop to ~55-70% against human annotations.
 
 **Interpretation**:
 - B1 (33.3%) confirms balanced accuracy works correctly for 3-class
@@ -203,7 +203,7 @@ script/
     ├── iaa.py                   # Cohen's kappa (intra-rater + calibration)
     └── report.py                # Markdown report generator
 doc/
-├── Annotation_Rubric.md         # Printable rubric for Emre (5 sections)
+├── Annotation_Rubric.md         # Printable rubric for human annotator (5 sections)
 └── Phase_7_Eval_Report.md       # Auto-generated evaluation report
 data/
 └── annotation_cases.json        # 24 case docket IDs with selection rationale
@@ -220,7 +220,7 @@ python -m script.run_evaluation --db data/private_10b5_sample_416.db
 # Baselines only
 python -m script.run_evaluation --db data/private_10b5_sample_416.db --baselines-only
 
-# Include human-dependent metrics (after Emre annotations)
+# Include human-dependent metrics (after human annotations)
 python -m script.run_evaluation --db data/private_10b5_sample_416.db --human-metrics
 
 # Generate full Markdown report
@@ -241,9 +241,9 @@ python -m script.run_evaluation --db data/private_10b5_sample_416.db --report do
 
 ## Next Steps
 
-- **Emre annotation**: Give Emre `doc/Annotation_Rubric.md` + 24 cases. Target: 2-3 cases/day, ~12 hours total. Unlocks element accuracy, outcome accuracy, and honest baseline comparison.
+- **Human annotation**: Give annotator `doc/Annotation_Rubric.md` + 24 cases. Target: 2-3 cases/day, ~12 hours total. Unlocks element accuracy, outcome accuracy, and honest baseline comparison.
 - **B4 zero-shot baseline**: Batch run on Sol — critical for answering "does the pipeline add value over raw LLM?"
 - **B5 BM25 baseline**: Install `rank-bm25`, implement BM25 retrieval, compare against hybrid
 - **Retrieval metrics on Sol**: Run P@K, NDCG with sentence-transformers
 - **Scale to 3,400 cases**: More IRAC extractions → more shared arguments → intermediate ANCO-HITS scores → higher AUC → held-out evaluation possible
-- **Phase 7 progress log update**: After Emre's annotations arrive, re-run evaluation and update results
+- **Phase 7 progress log update**: After human annotations arrive, re-run evaluation and update results

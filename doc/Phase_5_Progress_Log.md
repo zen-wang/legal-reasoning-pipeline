@@ -459,7 +459,7 @@ script/
 
 ## Next Steps
 
-- **Phase 7 evaluation**: Rigorous evaluation framework with 5 baselines, 24 human-annotated cases (Emre), LegalBench methodology
+- **Phase 7 evaluation**: Rigorous evaluation framework with 5 baselines, 24 human-annotated cases, LegalBench methodology
 - **A100 vLLM testing**: Test `run_vllm_a100.sh` for faster generation without Gaudi warmup overhead
 - **Semantic argument deduplication**: Cluster similar arguments to improve ANCO-HITS intermediate scores
 - **Scale to 3,400 cases**: Re-run embeddings and ANCO-HITS after full scrape completes; add Neo4j vector index at that scale
