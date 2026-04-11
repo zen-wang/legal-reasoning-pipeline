@@ -263,6 +263,7 @@ def lower(
     precedents: list[RetrievedPrecedent],
     constraint_ctx: ConstraintContext,
     client: LLMClient | None = None,
+    max_tokens: int = 2048,
 ) -> IRACAnalysis | SymbolicOnlyResult:
     """
     Execute the lowering step: prompt LLM with constrained context.
@@ -290,7 +291,7 @@ def lower(
 
     # Call LLM
     try:
-        raw, parsed = client.chat_completion(messages, max_tokens=1024)
+        raw, parsed = client.chat_completion(messages, max_tokens=max_tokens)
     except (ConnectionError, TimeoutError, RuntimeError) as e:
         logger.warning(f"LLM call failed: {e} — returning symbolic-only result")
         return build_symbolic_result(

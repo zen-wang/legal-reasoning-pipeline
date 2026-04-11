@@ -71,6 +71,7 @@ def run_analysis(
     llm_url: str | None = None,
     neo4j_uri: str | None = None,
     timeout: int = 600,
+    max_tokens: int = 2048,
 ) -> None:
     """Run the full analysis pipeline for a single case."""
     from script.lifting.llm_client import LLMClient
@@ -203,6 +204,7 @@ def run_analysis(
         precedents=ranked,
         constraint_ctx=constraint_ctx,
         client=client,
+        max_tokens=max_tokens,
     )
     lower_time = time.time() - t0
 
@@ -367,6 +369,10 @@ def main() -> None:
         help="LLM request timeout in seconds (default: 600)",
     )
     parser.add_argument(
+        "--max-tokens", type=int, default=2048,
+        help="Max output tokens for LLM generation (default: 2048)",
+    )
+    parser.add_argument(
         "--batch-golden", action="store_true",
         help="Batch analyze golden demo cases",
     )
@@ -400,6 +406,7 @@ def main() -> None:
         llm_url=args.llm_url,
         neo4j_uri=args.neo4j_uri,
         timeout=args.timeout,
+        max_tokens=args.max_tokens,
     )
 
 
