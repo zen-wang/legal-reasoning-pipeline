@@ -49,7 +49,7 @@ def load_human_labels(conn: sqlite3.Connection) -> dict[int, str]:
     if table_exists:
         rows = conn.execute(
             "SELECT docket_id, outcome FROM human_annotations "
-            "WHERE annotator = 'emre' ORDER BY annotation_date DESC"
+            "ORDER BY annotation_date DESC"
         ).fetchall()
         if rows:
             # Deduplicate: keep latest per docket

@@ -88,6 +88,10 @@ def main() -> None:
     from script.eval.constraint_rates import compute_constraint_rates, print_constraint_rates
     print_constraint_rates(compute_constraint_rates(args.db))
 
+    # Cross-validation (no human labels needed)
+    from script.eval.cross_validate import compute_cross_validation, print_cross_validation
+    print_cross_validation(compute_cross_validation(args.db))
+
     if args.human_metrics:
         # Element accuracy
         from script.eval.element_accuracy import compute_element_accuracy, print_element_accuracy

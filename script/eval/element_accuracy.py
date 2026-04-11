@@ -59,14 +59,14 @@ def compute_element_accuracy(db_path: Path) -> dict[str, Any]:
     # Load human annotations
     human_rows = conn.execute(
         "SELECT docket_id, element_statuses, outcome FROM human_annotations "
-        "WHERE annotator = 'emre' ORDER BY annotation_date DESC"
+        "ORDER BY annotation_date DESC"
     ).fetchall()
 
     if not human_rows:
         conn.close()
         return {
             "status": "WAITING",
-            "message": "No annotations by Emre found",
+            "message": "No human annotations found",
         }
 
     # Deduplicate (latest per docket)

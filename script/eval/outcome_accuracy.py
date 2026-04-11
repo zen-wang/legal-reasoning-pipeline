@@ -49,12 +49,12 @@ def compute_outcome_accuracy(db_path: Path) -> dict[str, Any]:
     # Load human annotations
     human_rows = conn.execute(
         "SELECT docket_id, outcome FROM human_annotations "
-        "WHERE annotator = 'emre' ORDER BY annotation_date DESC"
+        "ORDER BY annotation_date DESC"
     ).fetchall()
 
     if not human_rows:
         conn.close()
-        return {"status": "WAITING", "message": "No annotations by Emre found"}
+        return {"status": "WAITING", "message": "No human annotations found"}
 
     human: dict[int, str] = {}
     for did, outcome in human_rows:
