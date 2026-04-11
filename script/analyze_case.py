@@ -70,6 +70,7 @@ def run_analysis(
     symbolic_only: bool = False,
     llm_url: str | None = None,
     neo4j_uri: str | None = None,
+    timeout: int = 600,
 ) -> None:
     """Run the full analysis pipeline for a single case."""
     from script.lifting.llm_client import LLMClient
@@ -189,7 +190,7 @@ def run_analysis(
     # Step 5: Lower (LLM or symbolic)
     client = None
     if llm_url and not symbolic_only:
-        client = LLMClient(base_url=llm_url)
+        client = LLMClient(base_url=llm_url, timeout=timeout)
         logger.info(f"Using LLM at {llm_url}")
 
     t0 = time.time()
@@ -362,6 +363,10 @@ def main() -> None:
         help="Generate SBERT embeddings only (one-time setup)",
     )
     parser.add_argument(
+        "--timeout", type=int, default=600,
+        help="LLM request timeout in seconds (default: 600)",
+    )
+    parser.add_argument(
         "--batch-golden", action="store_true",
         help="Batch analyze golden demo cases",
     )
@@ -394,6 +399,7 @@ def main() -> None:
         symbolic_only=args.symbolic_only,
         llm_url=args.llm_url,
         neo4j_uri=args.neo4j_uri,
+        timeout=args.timeout,
     )
 
 
