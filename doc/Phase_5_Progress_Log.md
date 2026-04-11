@@ -251,6 +251,84 @@ Gaudi 2 uses `torch.compile` (not eager mode), which compiles optimized HPU kern
 
 ---
 
+## Neo4j Graph Channel Verification (Local)
+
+Activated the graph retrieval channel by running with Neo4j on Docker locally. The graph channel was coded but untested — all prior tests used `--neo4j-uri none` (semantic-only).
+
+### Graph State
+
+Neo4j verified with `build_graph.py --verify`:
+
+| Metric | Value |
+|--------|------:|
+| Total nodes | 9,005 |
+| Total edges | 15,149 |
+| Internal opinions | 486 |
+| External opinions (placeholders) | 7,215 |
+| CITES edges | 13,530 |
+| INVOLVES edges (signed) | 389 |
+
+### Test 1: Ketan Patel (docket 6135547) — Graph-Only Retrieval
+
+Without `sentence-transformers` installed locally, the pipeline gracefully degrades to graph + ANCO-HITS channels only.
+
+| Metric | Semantic-Only (Sol) | Graph-Only (Local) |
+|--------|-------------------:|------------------:|
+| Candidates retrieved | 19 | 105 |
+| Retrieval time | 18.3s (SBERT load) | 0.8s |
+| Graph column | `—` | `2-hop ci` |
+| Top score | 0.589 | 0.450 |
+
+The graph channel returned **105 opinion candidates** via Cypher — all from 2-hop citation traversals. This case has only 1 direct citation, so no 1-hop results appeared. The 2-hop network is rich because the cited opinion itself cites many others.
+
+### Test 2: Novak v. Kasaks (docket 109152) — High-Citation Case
+
+Selected because it has 33 direct internal citations (most in the dataset).
+
+| Metric | Value |
+|--------|------:|
+| Candidates | 218 |
+| Retrieval time | 0.06s |
+| Graph column | `1-hop ci` |
+| Top score | 0.600 |
+
+**`1-hop ci` confirmed** — direct citation neighbors ranked highest (score 0.600 = 0.3 × 1.0 graph + 0.2 × 1.0 ANCO + 0.1 IRAC). Cross-circuit constraints correctly flagged CADC, CA3, CA10, CA5 cases cited in a CA2 case.
+
+### Graph Channel Score Contribution
+
+With graph active, the ranking formula works as designed:
+
+| Proximity | Weight | Score Contribution |
+|-----------|-------:|---------:|
+| 1-hop citation | 0.3 × 1.0 | 0.300 |
+| 2-hop citation | 0.3 × 0.5 | 0.150 |
+| Same statute | 0.3 × 0.3 | 0.090 |
+| Same judge | 0.3 × 0.3 | 0.090 |
+| Same court | 0.3 × 0.1 | 0.030 |
+
+On Sol with both channels active (semantic + graph), cases that are both textually similar AND citation-connected will rank highest — the best of both signals.
+
+### Graceful Degradation Fix
+
+Added graceful handling when `sentence-transformers` is not installed: `encode_query()` returns `None`, semantic channel skips silently, graph + ANCO-HITS channels still work. This enables local development and testing without the 3-5GB torch/sentence-transformers install.
+
+---
+
+## Bug Fixes During LLM Integration
+
+| Bug | Cause | Fix | Commit |
+|-----|-------|-----|--------|
+| LLM response truncated at 1024 tokens | IRAC JSON needs ~1500 tokens; `max_tokens=1024` too low | Added `--max-tokens` CLI flag (default 2048) | `99d90bf` |
+| `docket_id: "NOT_PROVIDED"` crash | LLM returned string instead of int for docket_id | `try/except` int conversion, fallback to `None` | `9611fe6` |
+| `court_id: null` crash | LLM returned `null` for court_id field | Use `or ""` instead of `.get("court_id", "")` | `705aa4d` |
+| No raw response on JSON parse failure | `extract_json()` failed silently | Log first 2000 chars of raw response as WARNING | `a37c81d` |
+| 300s timeout too short for Gaudi warmup | First requests trigger torch.compile on HPU | Added `--timeout` CLI flag (default 600s) | `3725975` |
+| `sentence-transformers` ImportError locally | Module not installed on local machine | `encode_query()` returns `None`, semantic channel skips | `b809421` |
+
+These fixes make the pipeline robust to LLM output variability and environment differences between local/Sol machines.
+
+---
+
 ## Design Decisions
 
 | Decision | Rationale |
@@ -340,6 +418,8 @@ PYTHONNOUSERSITE=1 python -m script.analyze_case --db data/private_10b5_sample_4
 ```
 script/
 ├── analyze_case.py              # Phase 5 CLI: --embed-only, --dry-run, --symbolic-only
+├── run_vllm_legal.sh            # vLLM on Gaudi 2 (8x HL-225, TP=8)
+├── run_vllm_a100.sh             # vLLM on A100 (4x 80GB, TP=4)
 └── rag/
     ├── __init__.py
     ├── schema.py                # Output models: IRACAnalysis, SymbolicOnlyResult, etc.
@@ -365,11 +445,22 @@ script/
 
 ---
 
+## Completion Status
+
+| Milestone | Status |
+|-----------|--------|
+| Embedding generation (149 opinions) | Done — 22s on A100 |
+| Semantic retrieval (cosine search) | Done — tested on Sol |
+| Neo4j graph channel (5 Cypher queries) | Done — tested locally, 105-218 candidates |
+| Constraint validation (6 validators) | Done — all firing correctly |
+| LLM end-to-end on Gaudi 2 | Done — 12/12 elements correct, 2 test cases |
+| Graceful degradation | Done — SymbolicOnlyResult on timeout/missing LLM |
+| A100 vLLM script | Created (`run_vllm_a100.sh`) — untested pending node availability |
+
 ## Next Steps
 
-- **Phase 7 evaluation**: Quantitative metrics on retrieval quality (precision@K, NDCG) and constraint violation rates across golden cases
+- **Phase 7 evaluation**: Rigorous evaluation framework with 5 baselines, 24 human-annotated cases (Emre), LegalBench methodology
 - **A100 vLLM testing**: Test `run_vllm_a100.sh` for faster generation without Gaudi warmup overhead
-- **Neo4j graph channel**: Test retrieval with Neo4j running to add citation-based and statute-based neighbors
 - **Semantic argument deduplication**: Cluster similar arguments to improve ANCO-HITS intermediate scores
 - **Scale to 3,400 cases**: Re-run embeddings and ANCO-HITS after full scrape completes; add Neo4j vector index at that scale
 - **Expand citation database**: Add landmark SCOTUS cases (Twombly, Iqbal, Tellabs, Dura, Basic v. Levinson) to reduce false-positive citation violations
