@@ -17,6 +17,7 @@ Usage:
   python scraper_private_10b5.py --tier golden    # 200 cases for testing
   python scraper_private_10b5.py --tier opinions  # 3,400 opinion cases only
   python scraper_private_10b5.py --tier all       # all ~10,200 cases
+  python scraper_private_10b5.py --backfill-html  # backfill html_with_citations for empty opinions
 """
 
 from __future__ import annotations
@@ -25,10 +26,12 @@ import argparse
 import asyncio
 import json
 import logging
+import re
 import sqlite3
 import sys
 import time
 from dataclasses import dataclass, field
+from html import unescape
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlencode, quote
@@ -80,6 +83,28 @@ TIER_LIMITS = {
 }
 
 logger = logging.getLogger("scraper_10b5")
+
+
+# ── HTML → Plain Text ──────────────────────────────────────────────
+
+def html_to_plain_text(html: str) -> str:
+    """Convert HTML opinion text to clean plain text.
+
+    Preserves paragraph structure by replacing block elements with newlines.
+    Uses stdlib only (no BeautifulSoup needed for well-structured CL HTML).
+    """
+    if not html:
+        return ""
+    # Replace block elements with newlines
+    text = re.sub(r"<(?:p|div|br|blockquote|h[1-6]|li|tr)[^>]*>", "\n", html, flags=re.I)
+    # Remove all remaining tags
+    text = re.sub(r"<[^>]+>", "", text)
+    # Decode HTML entities
+    text = unescape(text)
+    # Clean up whitespace: collapse horizontal space, normalize blank lines
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n\s*\n", "\n\n", text)
+    return text.strip()
 
 
 # ── Rate Limiter ────────────────────────────────────────────────────
@@ -151,6 +176,7 @@ def init_db(db_path: Path) -> sqlite3.Connection:
             docket_id       INTEGER REFERENCES cases(docket_id),
             cluster_id      INTEGER,
             plain_text      TEXT,
+            html_with_citations TEXT,
             type            TEXT,
             author_str      TEXT,
             per_curiam      INTEGER,
@@ -222,6 +248,15 @@ def init_db(db_path: Path) -> sqlite3.Connection:
         CREATE INDEX IF NOT EXISTS idx_citations_source ON citation_edges(source_opinion_id);
     """)
     conn.commit()
+
+    # Migration: add html_with_citations column to existing databases
+    try:
+        conn.execute("ALTER TABLE opinions ADD COLUMN html_with_citations TEXT")
+        conn.commit()
+        logger.info("Migrated: added html_with_citations column to opinions table")
+    except sqlite3.OperationalError:
+        pass  # column already exists
+
     return conn
 
 
@@ -479,18 +514,26 @@ async def scrape_case(
                 opinion_id = op.get("id")
                 opinions_cited = op.get("opinions_cited", [])
 
+                # Use plain_text if available; fall back to html_with_citations
+                plain_text = op.get("plain_text") or ""
+                html_citations = op.get("html_with_citations") or ""
+                if not plain_text.strip() and html_citations:
+                    plain_text = html_to_plain_text(html_citations)
+
                 conn.execute("""
                     INSERT OR REPLACE INTO opinions (
-                        opinion_id, docket_id, cluster_id, plain_text, type,
+                        opinion_id, docket_id, cluster_id, plain_text,
+                        html_with_citations, type,
                         author_str, per_curiam, download_url,
                         cluster_date_filed, precedential_status, citation_count,
                         syllabus, disposition, posture, procedural_history
-                    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                 """, (
                     opinion_id,
                     docket_id,
                     cluster_id,
-                    op.get("plain_text"),
+                    plain_text,
+                    html_citations,
                     op.get("type"),
                     op.get("author_str"),
                     1 if op.get("per_curiam") else 0,
@@ -588,6 +631,131 @@ async def scrape_case(
     )
     conn.commit()
     return True
+
+
+# ── Backfill HTML ──────────────────────────────────────────────────
+
+async def run_backfill_html(db_path: Path = DB_PATH) -> None:
+    """Re-fetch opinions that have empty plain_text and backfill from html_with_citations.
+
+    Only targets 010combined opinions (the ones that should have full text).
+    Crash-safe: commits after each opinion.
+    """
+    limiter = RateLimiter()
+    conn = init_db(db_path)
+
+    # Find opinions worth backfilling:
+    #   1. All 010combined (the main full-text record)
+    #   2. Standalone 020lead (no 010combined in same cluster — the lead IS the opinion)
+    empty_opinions = conn.execute("""
+        SELECT opinion_id, type FROM opinions
+        WHERE (html_with_citations IS NULL OR length(html_with_citations) <= 100)
+          AND (
+            type = '010combined'
+            OR (type = '020lead' AND NOT EXISTS (
+                SELECT 1 FROM opinions o2
+                WHERE o2.cluster_id = opinions.cluster_id AND o2.type = '010combined'
+            ))
+          )
+    """).fetchall()
+    opinion_ids = [row[0] for row in empty_opinions]
+    type_counts: dict[str, int] = {}
+    for _, t in empty_opinions:
+        type_counts[t] = type_counts.get(t, 0) + 1
+
+    if not opinion_ids:
+        logger.info("No opinions to backfill — all already have html_with_citations.")
+        conn.close()
+        return
+
+    logger.info(f"Backfilling html_with_citations for {len(opinion_ids)} opinions")
+    for t, c in sorted(type_counts.items()):
+        logger.info(f"  {t}: {c}")
+    logger.info(f"Estimated time: {len(opinion_ids) * REQUEST_INTERVAL / 60:.0f} minutes")
+
+    filled = 0
+    failed = 0
+    still_empty = 0
+
+    timeout = aiohttp.ClientTimeout(total=60)
+    async with aiohttp.ClientSession(timeout=timeout) as session:
+        with tqdm(total=len(opinion_ids), desc="Backfill HTML", unit="op") as pbar:
+            for opinion_id in opinion_ids:
+                data = await fetch_json(
+                    session,
+                    f"{BASE_URL}/opinions/{opinion_id}/",
+                    limiter,
+                )
+                if not data:
+                    failed += 1
+                    pbar.update(1)
+                    continue
+
+                html_citations = data.get("html_with_citations") or ""
+                plain_text = html_to_plain_text(html_citations) if html_citations else ""
+
+                if len(plain_text) > 100:
+                    # Store html_with_citations; only update plain_text if currently empty
+                    existing_plain = conn.execute(
+                        "SELECT plain_text FROM opinions WHERE opinion_id = ?",
+                        (opinion_id,),
+                    ).fetchone()
+                    has_plain = existing_plain and existing_plain[0] and len(existing_plain[0]) > 100
+
+                    if has_plain:
+                        conn.execute(
+                            "UPDATE opinions SET html_with_citations = ? WHERE opinion_id = ?",
+                            (html_citations, opinion_id),
+                        )
+                    else:
+                        conn.execute(
+                            "UPDATE opinions SET plain_text = ?, html_with_citations = ? "
+                            "WHERE opinion_id = ?",
+                            (plain_text, html_citations, opinion_id),
+                        )
+                    conn.commit()
+                    filled += 1
+                else:
+                    # Try other HTML fields as fallback
+                    for field_name in ("html", "html_lawbox", "xml_harvard"):
+                        alt_html = data.get(field_name) or ""
+                        if alt_html:
+                            plain_text = html_to_plain_text(alt_html)
+                            if len(plain_text) > 100:
+                                existing_plain = conn.execute(
+                                    "SELECT plain_text FROM opinions WHERE opinion_id = ?",
+                                    (opinion_id,),
+                                ).fetchone()
+                                has_plain = existing_plain and existing_plain[0] and len(existing_plain[0]) > 100
+
+                                if has_plain:
+                                    conn.execute(
+                                        "UPDATE opinions SET html_with_citations = ? WHERE opinion_id = ?",
+                                        (alt_html, opinion_id),
+                                    )
+                                else:
+                                    conn.execute(
+                                        "UPDATE opinions SET plain_text = ?, html_with_citations = ? "
+                                        "WHERE opinion_id = ?",
+                                        (plain_text, alt_html, opinion_id),
+                                    )
+                                conn.commit()
+                                filled += 1
+                                break
+                    else:
+                        still_empty += 1
+
+                pbar.update(1)
+
+    conn.close()
+
+    logger.info(f"\n{'='*60}")
+    logger.info(f"BACKFILL COMPLETE")
+    logger.info(f"{'='*60}")
+    logger.info(f"  Filled:      {filled}")
+    logger.info(f"  Failed:      {failed}")
+    logger.info(f"  Still empty: {still_empty}")
+    logger.info(f"  API requests: {limiter.total_requests}")
 
 
 # ── Main Orchestration ──────────────────────────────────────────────
@@ -697,6 +865,11 @@ def main() -> None:
         help="Scraping tier: golden (50 cases), opinions (~3,400), all (~10,200)",
     )
     parser.add_argument(
+        "--backfill-html",
+        action="store_true",
+        help="Backfill html_with_citations for opinions with empty plain_text",
+    )
+    parser.add_argument(
         "--db",
         type=Path,
         default=DB_PATH,
@@ -709,9 +882,6 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.db != DB_PATH:
-        # Override module-level DB_PATH via the run function
-        pass
     db_path = args.db
 
     logging.basicConfig(
@@ -720,10 +890,14 @@ def main() -> None:
         datefmt="%H:%M:%S",
     )
 
-    logger.info(f"Tier: {args.tier}")
-    logger.info(f"Database: {db_path}")
-
-    asyncio.run(run_scrape(tier=args.tier, db_path=db_path))
+    if args.backfill_html:
+        logger.info(f"Mode: backfill html_with_citations")
+        logger.info(f"Database: {db_path}")
+        asyncio.run(run_backfill_html(db_path=db_path))
+    else:
+        logger.info(f"Tier: {args.tier}")
+        logger.info(f"Database: {db_path}")
+        asyncio.run(run_scrape(tier=args.tier, db_path=db_path))
 
 
 if __name__ == "__main__":

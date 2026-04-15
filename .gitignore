@@ -9,6 +9,10 @@
 # Teammate's work
 sec-litigation-scraper/
 
+# Large data files
+data/cv88on.*
+*.zip
+
 # Python
 venv/
 __pycache__/

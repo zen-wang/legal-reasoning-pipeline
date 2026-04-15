@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neuro-Symbolic Thinking RAG for Securities Fraud</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ============================================
+   RESET & BASE
+   ============================================ */
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%;overflow-x:hidden}
+html{scroll-snap-type:y mandatory;scroll-behavior:smooth}
+
+:root{
+  --maroon:#8C1D40;
+  --gold:#FFC627;
+  --charcoal:#1a1a1a;
+  --dark:#111;
+  --white:#f5f5f5;
+  --mid:#777;
+  --light-gray:#2a2a2a;
+
+  --title-size:clamp(1.75rem,5.5vw,4.5rem);
+  --h2-size:clamp(1.4rem,4vw,3.2rem);
+  --h3-size:clamp(1.2rem,3vw,2.4rem);
+  --body-size:clamp(.95rem,2.3vw,2rem);
+  --small-size:clamp(.85rem,1.9vw,1.8rem);
+  --code-size:clamp(.6rem,1vw,.82rem);
+
+  --slide-padding:clamp(1.5rem,5vw,5rem);
+  --content-gap:clamp(.5rem,1.5vw,1.5rem);
+}
+
+/* ============================================
+   SLIDE BASE
+   ============================================ */
+.slide{
+  width:100vw;height:100vh;height:100dvh;overflow:hidden;
+  scroll-snap-align:start;display:flex;flex-direction:column;
+  position:relative;background:var(--charcoal);color:var(--white)
+}
+
+/* Split layout */
+.slide.split{flex-direction:row}
+.slide.split .left{flex:1;display:flex;flex-direction:column;justify-content:center;padding:var(--slide-padding);position:relative;z-index:1}
+.slide.split .right{
+  width:clamp(180px,32vw,380px);background:var(--maroon);
+  display:flex;flex-direction:column;justify-content:center;
+  padding:clamp(1.2rem,3vw,2.5rem);position:relative;overflow:hidden
+}
+
+/* Full-width layout */
+.slide.full .content{
+  flex:1;display:flex;flex-direction:column;justify-content:center;
+  padding:var(--slide-padding);position:relative;z-index:1;max-height:100%
+}
+
+/* Section number watermark */
+.section-num{
+  font-family:'Archivo Black',sans-serif;
+  font-size:clamp(3rem,10vw,8rem);
+  color:rgba(255,255,255,.04);
+  position:absolute;top:clamp(.3rem,1vw,.8rem);right:clamp(.5rem,2vw,1.5rem);
+  line-height:1;pointer-events:none;z-index:0
+}
+
+/* ============================================
+   TYPOGRAPHY
+   ============================================ */
+.label{
+  font-family:'Space Grotesk',sans-serif;font-weight:400;
+  font-size:var(--small-size);text-transform:uppercase;
+  letter-spacing:.25em;color:var(--mid);margin-bottom:clamp(.4rem,1vw,1rem)
+}
+h1{font-family:'Archivo Black',sans-serif;font-size:var(--title-size);line-height:1.08;color:var(--white);max-width:16ch}
+h1 span,.accent{color:var(--maroon)}
+h1 .gold{color:var(--gold)}
+h2{font-family:'Archivo Black',sans-serif;font-size:var(--h2-size);line-height:1.15;color:var(--white);margin-bottom:clamp(.3rem,1vw,.8rem)}
+h3{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:var(--h3-size);color:var(--gold);margin-bottom:clamp(.2rem,.5vw,.5rem)}
+p,.desc{font-family:'Space Grotesk',sans-serif;font-weight:300;font-size:var(--body-size);color:rgba(245,245,245,.6);line-height:1.5;max-width:55ch}
+
+/* ============================================
+   LISTS & CARDS
+   ============================================ */
+ul.bullets{list-style:none;display:flex;flex-direction:column;gap:clamp(.25rem,.6vw,.5rem)}
+ul.bullets li{
+  font-family:'Space Grotesk',sans-serif;font-size:var(--body-size);
+  color:rgba(245,245,245,.75);padding-left:1.2em;position:relative;line-height:1.45
+}
+ul.bullets li::before{content:'';position:absolute;left:0;top:.55em;width:5px;height:5px;background:var(--maroon);border-radius:50%}
+ul.bullets li strong{color:var(--white);font-weight:600}
+ul.bullets li .gold{color:var(--gold);font-weight:600}
+
+/* Right card list */
+.card-title{font-family:'Archivo Black',sans-serif;font-size:clamp(.85rem,1.5vw,1.2rem);color:var(--white);margin-bottom:clamp(.4rem,.8vw,.7rem)}
+.card-list{list-style:none;display:flex;flex-direction:column;gap:clamp(.3rem,.6vw,.5rem)}
+.card-list li{font-family:'Space Grotesk',sans-serif;font-size:clamp(.6rem,.9vw,.78rem);color:rgba(255,255,255,.8);padding-left:1em;position:relative;line-height:1.4}
+.card-list li::before{content:'';position:absolute;left:0;top:.5em;width:5px;height:5px;background:var(--gold);border-radius:50%}
+
+/* ============================================
+   TABLES
+   ============================================ */
+table{width:100%;border-collapse:collapse;font-family:'Space Grotesk',sans-serif;font-size:var(--small-size)}
+thead th{
+  text-align:left;padding:clamp(.3rem,.5vw,.5rem) clamp(.4rem,.8vw,.7rem);
+  font-weight:600;color:var(--gold);border-bottom:2px solid var(--maroon);
+  text-transform:uppercase;letter-spacing:.08em;font-size:clamp(.55rem,.8vw,.7rem)
+}
+tbody td{
+  padding:clamp(.25rem,.4vw,.4rem) clamp(.4rem,.8vw,.7rem);
+  color:rgba(245,245,245,.7);border-bottom:1px solid rgba(255,255,255,.06)
+}
+tbody td:first-child{color:var(--white);font-weight:500}
+tbody tr:hover td{background:rgba(140,29,64,.08)}
+td.num{text-align:right;font-family:'JetBrains Mono',monospace;color:var(--gold);font-weight:500}
+td.check{color:#4ade80;text-align:center}
+td.err{color:#f87171;text-align:center}
+
+/* ============================================
+   CODE BLOCKS
+   ============================================ */
+.code-block{
+  background:var(--dark);border:1px solid rgba(255,255,255,.08);
+  border-radius:6px;padding:clamp(.5rem,1vw,1rem);overflow:hidden;
+  font-family:'JetBrains Mono',monospace;font-size:var(--code-size);
+  line-height:1.55;color:rgba(245,245,245,.75);max-width:min(90vw,700px)
+}
+.code-block .kw{color:var(--maroon);filter:brightness(1.6)}
+.code-block .str{color:var(--gold)}
+.code-block .cm{color:rgba(245,245,245,.3);font-style:italic}
+.code-block .fn{color:#93c5fd}
+.code-block .tp{color:#a78bfa}
+
+/* ============================================
+   DIAGRAMS (CSS-based)
+   ============================================ */
+.pipeline-flow{display:flex;align-items:center;gap:clamp(.2rem,.4vw,.35rem);flex-wrap:nowrap;overflow:hidden}
+.pipe-box{
+  background:rgba(140,29,64,.2);border:1.5px solid var(--maroon);
+  border-radius:6px;padding:clamp(.35rem,.7vw,.6rem) clamp(.4rem,.8vw,.7rem);
+  text-align:center;flex:1;min-width:0
+}
+.pipe-box.deferred{border-color:rgba(255,255,255,.15);background:rgba(255,255,255,.03);opacity:.5}
+.pipe-box .pipe-label{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:clamp(.5rem,.75vw,.65rem);color:var(--white);text-transform:uppercase;letter-spacing:.05em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pipe-box .pipe-stat{font-family:'JetBrains Mono',monospace;font-size:clamp(.45rem,.65vw,.55rem);color:var(--gold);margin-top:.2em;white-space:nowrap}
+.pipe-arrow{color:var(--maroon);font-size:clamp(.6rem,1vw,.9rem);flex-shrink:0}
+
+/* Bipartite diagram */
+.bipartite{display:flex;justify-content:center;align-items:center;gap:clamp(2rem,6vw,5rem)}
+.bp-col{display:flex;flex-direction:column;gap:clamp(.4rem,.8vw,.6rem)}
+.bp-node{
+  padding:clamp(.3rem,.5vw,.4rem) clamp(.5rem,1vw,.8rem);border-radius:4px;
+  font-family:'Space Grotesk',sans-serif;font-size:clamp(.55rem,.8vw,.7rem);
+  text-align:center;border:1.5px solid
+}
+.bp-case{border-color:var(--gold);color:var(--gold);background:rgba(255,198,39,.08)}
+.bp-arg{border-color:var(--maroon);color:rgba(245,245,245,.8);background:rgba(140,29,64,.15);max-width:clamp(100px,18vw,200px);filter:brightness(1.3)}
+.bp-edges{font-family:'JetBrains Mono',monospace;font-size:clamp(.5rem,.7vw,.6rem);color:rgba(245,245,245,.4);display:flex;flex-direction:column;gap:clamp(.5rem,1vw,.8rem);align-items:center}
+.bp-edge{display:flex;align-items:center;gap:.3em}
+.bp-plus{color:#4ade80;font-weight:700}
+.bp-minus{color:#f87171;font-weight:700}
+
+/* Stat row */
+.stats{display:flex;gap:clamp(1rem,3vw,2.5rem);flex-wrap:wrap}
+.stat{text-align:center}
+.stat-val{font-family:'Archivo Black',sans-serif;font-size:clamp(1.2rem,2.5vw,2rem);color:var(--gold)}
+.stat-lbl{font-family:'Space Grotesk',sans-serif;font-size:clamp(.5rem,.7vw,.6rem);color:var(--mid);text-transform:uppercase;letter-spacing:.1em;margin-top:.15em}
+
+/* Phase pills */
+.phases{display:flex;gap:clamp(.25rem,.4vw,.4rem);flex-wrap:wrap;margin-top:clamp(.8rem,1.5vw,1.5rem)}
+.phase{
+  font-family:'Space Grotesk',sans-serif;font-size:clamp(.5rem,.7vw,.6rem);
+  padding:.25em .65em;border:1.5px solid rgba(245,245,245,.2);
+  color:rgba(245,245,245,.5);text-transform:uppercase;letter-spacing:.06em;border-radius:3px
+}
+.phase.done{border-color:var(--maroon);color:var(--white);background:rgba(140,29,64,.2)}
+.phase.defer{border-color:rgba(255,255,255,.1);color:rgba(255,255,255,.25)}
+
+/* Two-column */
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:clamp(.8rem,2vw,2rem);align-items:start}
+
+/* RAG flow */
+.rag-flow{display:flex;flex-direction:column;gap:clamp(.3rem,.5vw,.4rem);align-items:center}
+.rag-box{
+  padding:clamp(.25rem,.5vw,.4rem) clamp(.6rem,1.2vw,1rem);
+  border:1.5px solid rgba(255,255,255,.15);border-radius:5px;
+  font-family:'Space Grotesk',sans-serif;font-size:clamp(.55rem,.8vw,.7rem);
+  color:rgba(245,245,245,.7);text-align:center;width:min(90%,350px)
+}
+.rag-box.highlight{border-color:var(--maroon);background:rgba(140,29,64,.15);color:var(--white)}
+.rag-box.gold-border{border-color:var(--gold);color:var(--gold)}
+.rag-branch{display:flex;gap:clamp(.3rem,.5vw,.4rem);justify-content:center}
+.rag-branch .rag-box{flex:1;min-width:0}
+.rag-arrow{color:var(--mid);font-size:clamp(.6rem,.9vw,.8rem)}
+
+/* Reveal animations */
+.reveal{opacity:0;transform:translateY(20px);transition:opacity .6s ease,transform .6s ease}
+.reveal.visible{opacity:1;transform:translateY(0)}
+.reveal-delay-1{transition-delay:.1s}
+.reveal-delay-2{transition-delay:.2s}
+.reveal-delay-3{transition-delay:.3s}
+
+/* Progress bar */
+.progress{position:fixed;top:0;left:0;height:3px;background:var(--maroon);z-index:999;transition:width .3s ease}
+
+/* Slide counter */
+.counter{
+  position:fixed;bottom:clamp(.8rem,2vw,1.5rem);right:clamp(.8rem,2vw,1.5rem);
+  font-family:'JetBrains Mono',monospace;font-size:clamp(.55rem,.8vw,.7rem);
+  color:rgba(245,245,245,.2);z-index:999
+}
+
+/* Keyboard hint */
+.kbd-hint{
+  position:fixed;bottom:clamp(.8rem,2vw,1.5rem);left:clamp(.8rem,2vw,1.5rem);
+  font-family:'Space Grotesk',sans-serif;font-size:clamp(.5rem,.7vw,.6rem);
+  color:rgba(245,245,245,.15);z-index:999
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media(max-width:800px){
+  .slide.split{flex-direction:column}
+  .slide.split .right{width:100%;flex:none;max-height:35vh}
+  .two-col{grid-template-columns:1fr}
+  .pipeline-flow{flex-wrap:wrap}
+  .bipartite{flex-direction:column;gap:1rem}
+}
+@media(max-height:700px){
+  :root{--slide-padding:clamp(1rem,3vw,2.5rem);--title-size:clamp(1.25rem,4vw,2.5rem);--h2-size:clamp(1rem,2.5vw,1.6rem)}
+}
+@media(max-height:600px){
+  :root{--slide-padding:clamp(.7rem,2.5vw,1.5rem);--body-size:clamp(.65rem,1.1vw,.9rem);--title-size:clamp(1.1rem,3.5vw,2rem)}
+  .section-num,.kbd-hint{display:none}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.2s!important}
+  html{scroll-behavior:auto}
+  .reveal{opacity:1;transform:none}
+}
+</style>
+</head>
+<body>
+
+<!-- Progress bar -->
+<div class="progress" id="progress"></div>
+<div class="counter" id="counter">01 / 24</div>
+<div class="kbd-hint">Arrow keys or scroll to navigate</div>
+
+<!-- ============================================
+     SLIDE 1: TITLE
+     ============================================ -->
+<section class="slide split" id="slide-1">
+  <div class="left">
+    <div class="label">CIPS Lab &middot; Arizona State University</div>
+    <h1>Neuro-Symbolic <span>Thinking RAG</span> for Securities Fraud</h1>
+    <p class="desc" style="margin-top:clamp(.5rem,1.5vw,1.2rem)">Structured legal reasoning from judicial opinions via Rule 10b-5 &mdash; with zero hallucinated citations</p>
+    <div class="phases">
+      <div class="phase done">Phase 0 Data</div>
+      <div class="phase done">Phase 1 Lifting</div>
+      <div class="phase done">Phase 2 Graph</div>
+      <div class="phase done">Phase 3 ANCO-HITS</div>
+      <div class="phase defer">Phase 4 GNN</div>
+      <div class="phase done">Phase 5 RAG</div>
+      <div class="phase done">Phase 7 Eval</div>
+    </div>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">01</div>
+    <div class="card-title">Key Results</div>
+    <ul class="card-list">
+      <li>416 cases scraped, 128 IRAC extractions</li>
+      <li>9,005-node knowledge graph in Neo4j</li>
+      <li>370 arguments scored on [-1, +1]</li>
+      <li>3-channel hybrid RAG + 6 hard constraints</li>
+      <li>12/12 elements correct end-to-end</li>
+      <li>Zero ERROR-level violations</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 2: THE PROBLEM
+     ============================================ -->
+<section class="slide full" id="slide-2">
+  <div class="content">
+    <div class="section-num">02</div>
+    <div class="label">Motivation</div>
+    <h2>Why Not Just Use an LLM?</h2>
+    <div class="two-col" style="margin-top:clamp(.5rem,1.5vw,1.5rem)">
+      <div>
+        <h3 style="color:#f87171">Black-Box LLM</h3>
+        <ul class="bullets">
+          <li><strong>Hallucinated citations</strong> &mdash; invents case names that don't exist</li>
+          <li><strong>Opaque reasoning</strong> &mdash; no way to trace why it reached a conclusion</li>
+          <li><strong>Unfaithful CoT</strong> &mdash; reasoning traces can "fabricate justifications that contradict the true reasoning paths"</li>
+          <li><strong>Unfixable</strong> &mdash; if wrong, retrain the whole model?</li>
+        </ul>
+      </div>
+      <div>
+        <h3 style="color:#4ade80">Neuro-Symbolic Pipeline</h3>
+        <ul class="bullets">
+          <li><strong>Verified citations</strong> &mdash; every case checked against real dataset</li>
+          <li><strong>Traceable reasoning</strong> &mdash; element &rarr; fact &rarr; statute &rarr; precedent</li>
+          <li><strong>Editable rules</strong> &mdash; if wrong, fix the symbolic rule directly</li>
+          <li><strong>No retraining</strong> &mdash; edit a rule, re-run, see the fix</li>
+        </ul>
+      </div>
+    </div>
+    <p class="desc" style="margin-top:clamp(.5rem,1vw,.8rem);font-style:italic;font-size:var(--small-size)">"Life demands safe, accurate, and hallucination-free programmable AI, built from proven scientific hypothesis and governed by human oversight." &mdash; Beyond the Black Box (IEEE TCSS 2026)</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 3: LIFTING & LOWERING
+     ============================================ -->
+<section class="slide split" id="slide-3">
+  <div class="left">
+    <div class="section-num">03</div>
+    <div class="label">Core Architecture</div>
+    <h2>Lifting &amp; Lowering</h2>
+    <ul class="bullets" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <li><strong>Lifting</strong> = translate LLM output into symbolic logic (structured patterns a human can read)</li>
+      <li><strong>Lowering</strong> = inject symbolic constraints back into neural generation (the LLM can only reason about verified facts)</li>
+      <li><strong>Symbolic Rule Interface</strong> sits in between &mdash; human-readable, human-editable boolean templates</li>
+      <li><strong>Exception Handling</strong> = human reviews failures, fixes rules, re-runs &mdash; no full retraining</li>
+    </ul>
+    <p class="desc" style="margin-top:clamp(.4rem,.8vw,.6rem)">From <em>Beyond the Black Box</em> (Trivedi et al., IEEE TCSS 2026) Algorithm 1</p>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">03</div>
+    <div class="card-title">The Loop</div>
+    <ul class="card-list">
+      <li>1. Neural theme extraction</li>
+      <li>2. Symbolic pattern lifting</li>
+      <li>3. Store as rule interface R</li>
+      <li>4. Pattern lowering (constrain LLM)</li>
+      <li>5. Exception handling (human review)</li>
+      <li>6. Modify rules &rarr; back to step 4</li>
+    </ul>
+    <p style="font-family:'Space Grotesk',sans-serif;font-size:clamp(.5rem,.7vw,.6rem);color:rgba(255,255,255,.4);margin-top:clamp(.5rem,1vw,.8rem)">"Programmable" = you can fix the AI by editing the rules</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 4: RULE 10b-5
+     ============================================ -->
+<section class="slide full" id="slide-4">
+  <div class="content">
+    <div class="section-num">04</div>
+    <div class="label">Legal Domain</div>
+    <h2>Rule 10b-5: The 6-Element Test</h2>
+    <p class="desc" style="margin-bottom:clamp(.4rem,1vw,.8rem)">Federal anti-fraud rule for securities. Investor sues company. <strong>All 6 elements must be satisfied</strong> &mdash; any single failure means defendant wins.</p>
+    <div class="code-block">
+<span class="fn">PlaintiffWins</span>(case) &larr; <span class="tp">MaterialMisrep</span>(case) <span class="kw">AND</span> <span class="tp">Scienter</span>(case) <span class="kw">AND</span> <span class="tp">Connection</span>(case)
+                      <span class="kw">AND</span> <span class="tp">Reliance</span>(case) <span class="kw">AND</span> <span class="tp">EconomicLoss</span>(case) <span class="kw">AND</span> <span class="tp">LossCausation</span>(case)
+
+<span class="cm">/* Sub-rules (disjunctive &mdash; any one can satisfy the element): */</span>
+<span class="tp">Scienter</span>       &larr; MotiveAndOpportunity <span class="kw">OR</span> ConsciousMisbehavior <span class="kw">OR</span> RecklessDisregard
+<span class="tp">Reliance</span>       &larr; FraudOnTheMarket <span class="kw">OR</span> DirectReliance <span class="kw">OR</span> AffiliateOmission
+<span class="tp">LossCausation</span>  &larr; CorrectiveDisclosurePriceDrop <span class="kw">OR</span> MaterializationOfConcealedRisk
+    </div>
+    <p class="desc" style="margin-top:clamp(.3rem,.8vw,.6rem)">This conjunctive structure makes 10b-5 perfect for symbolic reasoning &mdash; the rule is precise enough to encode, but reasoning within each element requires LLM-level comprehension.</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 5: THE 6 ELEMENTS TABLE
+     ============================================ -->
+<section class="slide full" id="slide-5">
+  <div class="content">
+    <div class="section-num">05</div>
+    <div class="label">Legal Domain</div>
+    <h2>The 6 Elements in Detail</h2>
+    <table style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <thead><tr><th>Element</th><th>What it Means</th><th>Sub-Conditions (OR)</th></tr></thead>
+      <tbody>
+        <tr><td>Material Misrepresentation</td><td>Defendant made false/misleading statements</td><td>FalseStatements, MisleadingOmissions, SchemeToDefraud</td></tr>
+        <tr><td>Scienter <span style="color:var(--gold);font-size:.8em">(hardest)</span></td><td>Intent to deceive or recklessness</td><td>MotiveAndOpportunity, ConsciousMisbehavior, RecklessDisregard</td></tr>
+        <tr><td>Connection</td><td>Fraud connected to securities transaction</td><td>InConnectionWithPurchase, InConnectionWithSale</td></tr>
+        <tr><td>Reliance</td><td>Plaintiff relied on the fraud</td><td>FraudOnTheMarket, DirectReliance, AffiliateOmission</td></tr>
+        <tr><td>Economic Loss</td><td>Actual financial harm occurred</td><td>ActualDamages, DiminishedValue</td></tr>
+        <tr><td>Loss Causation</td><td>The fraud (not other factors) caused the loss</td><td>CorrectiveDisclosurePriceDrop, MaterializationOfConcealedRisk</td></tr>
+      </tbody>
+    </table>
+    <p class="desc" style="margin-top:clamp(.3rem,.8vw,.5rem)">These 6 elements &times; 14 sub-conditions are encoded in <code style="color:var(--gold)">rules.py</code> as the symbolic backbone. The LLM extracts which are satisfied; the rules evaluate the outcome.</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 6: PIPELINE OVERVIEW (KEY DIAGRAM)
+     ============================================ -->
+<section class="slide full" id="slide-6">
+  <div class="content">
+    <div class="section-num">06</div>
+    <div class="label">Architecture</div>
+    <h2>Pipeline Overview</h2>
+    <div class="pipeline-flow" style="margin-top:clamp(.5rem,1.5vw,1.2rem)">
+      <div class="pipe-box"><div class="pipe-label">Phase 0</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.5)">Data Scraping</div><div class="pipe-stat">416 cases</div></div>
+      <div class="pipe-arrow">&rarr;</div>
+      <div class="pipe-box"><div class="pipe-label">Phase 1</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.5)">Symbolic Lifting</div><div class="pipe-stat">128 IRAC</div></div>
+      <div class="pipe-arrow">&rarr;</div>
+      <div class="pipe-box"><div class="pipe-label">Phase 2</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.5)">Knowledge Graph</div><div class="pipe-stat">9,005 nodes</div></div>
+      <div class="pipe-arrow">&rarr;</div>
+      <div class="pipe-box"><div class="pipe-label">Phase 3</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.5)">ANCO-HITS</div><div class="pipe-stat">370 args scored</div></div>
+      <div class="pipe-arrow">&rarr;</div>
+      <div class="pipe-box deferred"><div class="pipe-label">Phase 4</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.3)">GraphSAGE</div><div class="pipe-stat" style="color:rgba(245,245,245,.3)">deferred</div></div>
+      <div class="pipe-arrow" style="color:rgba(245,245,245,.15)">&rarr;</div>
+      <div class="pipe-box"><div class="pipe-label">Phase 5</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.5)">Constrained RAG</div><div class="pipe-stat">12/12 correct</div></div>
+      <div class="pipe-arrow">&rarr;</div>
+      <div class="pipe-box"><div class="pipe-label">Phase 7</div><div style="font-size:clamp(.45rem,.65vw,.55rem);color:rgba(245,245,245,.5)">Evaluation</div><div class="pipe-stat">0 ERRORs</div></div>
+    </div>
+    <div style="margin-top:clamp(.8rem,2vw,1.5rem)">
+      <h3 style="font-size:var(--small-size)">Data Flow</h3>
+      <ul class="bullets">
+        <li>Each phase consumes the output of the previous phase</li>
+        <li><strong>Phase 3 &rarr; Phase 5 feedback</strong>: ANCO-HITS scores are used as retrieval re-ranking signals</li>
+        <li><strong>Phase 4 grayed out</strong>: deferred due to insufficient graph scale (65 training cases vs paper's 2,373 minimum)</li>
+        <li><strong>Graceful degradation</strong>: if LLM offline, Phases 0-3 still produce structured analysis</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 7: TECH STACK
+     ============================================ -->
+<section class="slide split" id="slide-7">
+  <div class="left">
+    <div class="section-num">07</div>
+    <div class="label">Architecture</div>
+    <h2>Technology Stack</h2>
+    <table style="margin-top:clamp(.3rem,.8vw,.6rem)">
+      <thead><tr><th>Component</th><th>Technology</th></tr></thead>
+      <tbody>
+        <tr><td>LLM</td><td>Llama 3.3 70B Instruct (BF16)</td></tr>
+        <tr><td>Accelerator</td><td>Intel Gaudi 2 HL-225 (8&times;96 GB HBM)</td></tr>
+        <tr><td>Serving</td><td>vLLM (Habana fork), TP=8</td></tr>
+        <tr><td>Graph DB</td><td>Neo4j 5.x Community (Docker)</td></tr>
+        <tr><td>Storage</td><td>SQLite (WAL mode, crash-safe)</td></tr>
+        <tr><td>Schema</td><td>Pydantic v2 (strict validation)</td></tr>
+        <tr><td>Embeddings</td><td>all-mpnet-base-v2 (768d)</td></tr>
+        <tr><td>HPC</td><td>ASU Sol (SLURM, Gaudi 2 + A100)</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">07</div>
+    <div class="card-title">Why This Stack</div>
+    <ul class="card-list">
+      <li>Open-weight LLM &mdash; fully reproducible, no API costs</li>
+      <li>Pydantic = double defense against LLM output errors</li>
+      <li>Neo4j = citation traversal + Cypher queries for RAG</li>
+      <li>SQLite = crash-safe scraping + source of truth</li>
+      <li>No cloud dependencies &mdash; runs entirely on ASU Sol</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 8: PHASE 0 — DATA SCRAPING
+     ============================================ -->
+<section class="slide split" id="slide-8">
+  <div class="left">
+    <div class="section-num">08</div>
+    <div class="label">Phase 0</div>
+    <h2>Data Scraping</h2>
+    <ul class="bullets" style="margin-top:clamp(.3rem,.8vw,.6rem)">
+      <li><strong>Source</strong>: CourtListener API v4 (EDU-tier account)</li>
+      <li><strong>Strategy</strong>: opinion-bearing cases first (richest data), then metadata-only</li>
+      <li><strong>Crash-safe</strong>: SQLite checkpointing with resume-from-failure</li>
+      <li><strong>Rate limiting</strong>: 5,000 req/hr, 1.5s intervals, 60s cooldown on HTTP 429</li>
+      <li><strong>6 API calls per case</strong>: dockets &rarr; opinions &rarr; parties &rarr; attorneys &rarr; entries &rarr; clusters</li>
+    </ul>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">08</div>
+    <div class="card-title">Results</div>
+    <ul class="card-list">
+      <li>416 cases scraped</li>
+      <li>149 opinions with full text</li>
+      <li>Avg opinion: 50K characters</li>
+      <li>13,530 citation edges</li>
+      <li>196 parties, 192 attorneys</li>
+      <li>6 SQLite tables</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 9: PHASE 0 — LABELING
+     ============================================ -->
+<section class="slide full" id="slide-9">
+  <div class="content">
+    <div class="section-num">09</div>
+    <div class="label">Phase 0</div>
+    <h2>Outcome Labeling &amp; Contamination</h2>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <h3>Regex Labeling (14 patterns)</h3>
+        <ul class="bullets">
+          <li>Two-pass: scan last 2,000 chars (conclusion) first, then full text</li>
+          <li>AFFIRMED disambiguation: check what the lower court ruled</li>
+          <li>Separate <code style="color:var(--gold)">case_labels</code> table &mdash; never modify source data</li>
+        </ul>
+        <div style="margin-top:clamp(.4rem,.8vw,.6rem)">
+          <table>
+            <thead><tr><th>Outcome</th><th>Count</th></tr></thead>
+            <tbody>
+              <tr><td>DEFENDANT_WINS</td><td class="num">67</td></tr>
+              <tr><td>PLAINTIFF_WINS</td><td class="num">18</td></tr>
+              <tr><td>MIXED</td><td class="num">8</td></tr>
+              <tr><td style="color:var(--mid)">UNCLEAR</td><td class="num" style="color:var(--mid)">34</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div>
+        <h3>Contamination Detection</h3>
+        <ul class="bullets">
+          <li><span class="gold">53 cases excluded</span> from private 10b-5 dataset</li>
+          <li>22 SEC enforcement ("SEC v.")</li>
+          <li>29 DOJ criminal ("United States v.")</li>
+          <li>2 SEC appeal cases</li>
+        </ul>
+        <p class="desc" style="margin-top:clamp(.4rem,.8vw,.5rem)"><strong>Key finding</strong>: FJC metadata fields had ~1% coverage. Labels must come from opinion text &mdash; harder but more reliable.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 10: PHASE 1 — SYMBOLIC LIFTING
+     ============================================ -->
+<section class="slide full" id="slide-10">
+  <div class="content">
+    <div class="section-num">10</div>
+    <div class="label">Phase 1</div>
+    <h2>Symbolic Lifting: Text &rarr; Structured IRAC</h2>
+    <p class="desc">The LLM reads each opinion and extracts a machine-readable IRAC analysis per the 6-element schema.</p>
+    <div class="code-block" style="margin-top:clamp(.4rem,.8vw,.6rem)">
+<span class="kw">class</span> <span class="tp">ElementAnalysis</span>(BaseModel):
+    status: <span class="tp">ElementStatus</span>     <span class="cm"># SATISFIED | NOT_SATISFIED | CONTESTED | NOT_ANALYZED</span>
+    sub_conditions: list[<span class="tp">str</span>]  <span class="cm"># e.g. ["FraudOnTheMarket"] — validated against ELEMENT_RULES</span>
+    key_facts: list[<span class="tp">str</span>]       <span class="cm"># supporting facts from the opinion</span>
+    judge_reasoning: <span class="tp">str</span>       <span class="cm"># relevant quote from the judge</span>
+    confidence: <span class="tp">float</span> = <span class="str">0.0</span>   <span class="cm"># computed post-hoc, NOT filled by LLM</span>
+    </div>
+    <ul class="bullets" style="margin-top:clamp(.3rem,.8vw,.6rem)">
+      <li><strong>Pydantic v2 validation</strong> &mdash; schema enforced on every LLM output</li>
+      <li><strong>Sub-condition validation</strong> &mdash; "FraudOnTheMarket" valid for reliance, not for scienter</li>
+      <li><strong>Anti-hallucination</strong> &mdash; case_id, opinion_id, procedural_stage injected post-hoc, never by LLM</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 11: PHASE 1 — SAMPLE OUTPUT
+     ============================================ -->
+<section class="slide full" id="slide-11">
+  <div class="content">
+    <div class="section-num">11</div>
+    <div class="label">Phase 1</div>
+    <h2>Sample: Minneapolis Firefighters v. MEMC</h2>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <h3 style="font-size:var(--small-size)">Raw Opinion (50K chars)</h3>
+        <div class="code-block" style="font-size:clamp(.55rem,.8vw,.72rem);color:rgba(245,245,245,.5);font-style:italic">
+"...The district court concluded the pre-class period disclosures could not create a duty on MEMC's part to disclose the incidents... We do not believe the inference of scienter is as compelling as the more innocent, simpler inference..."
+        </div>
+      </div>
+      <div>
+        <h3 style="font-size:var(--small-size)">Structured Output (JSON)</h3>
+        <div class="code-block" style="font-size:clamp(.55rem,.8vw,.72rem)">
+{
+  <span class="str">"material_misrepresentation"</span>: {
+    <span class="str">"status"</span>: <span class="kw">"NOT_SATISFIED"</span>,
+    <span class="str">"sub_conditions"</span>: [<span class="str">"MisleadingOmissions"</span>]
+  },
+  <span class="str">"scienter"</span>: {
+    <span class="str">"status"</span>: <span class="kw">"NOT_SATISFIED"</span>,
+    <span class="str">"sub_conditions"</span>: [<span class="str">"RecklessDisregard"</span>]
+  }
+}
+        </div>
+      </div>
+    </div>
+    <p class="desc" style="margin-top:clamp(.3rem,.6vw,.5rem)">The LLM correctly identified both elements as NOT_SATISFIED and extracted the judge's reasoning. This is <strong>structured extraction</strong>, not summarization.</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 12: PHASE 1 — PERFORMANCE
+     ============================================ -->
+<section class="slide split" id="slide-12">
+  <div class="left">
+    <div class="section-num">12</div>
+    <div class="label">Phase 1</div>
+    <h2>Extraction Performance</h2>
+    <table style="margin-top:clamp(.3rem,.8vw,.6rem)">
+      <thead><tr><th>Metric</th><th>Value</th></tr></thead>
+      <tbody>
+        <tr><td>Valid extractions</td><td class="num">128</td></tr>
+        <tr><td>With real element analysis</td><td class="num">111 (87%)</td></tr>
+        <tr><td>All NOT_ANALYZED</td><td class="num">17 (13%)</td></tr>
+        <tr><td>Throughput</td><td class="num">6.1 cases/min</td></tr>
+        <tr><td>Concurrency</td><td class="num">12-20 parallel</td></tr>
+        <tr><td>HBM usage</td><td class="num">84%</td></tr>
+        <tr><td>Success rate (later runs)</td><td class="num">100%</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">12</div>
+    <div class="card-title">Challenges Solved</div>
+    <ul class="card-list">
+      <li>Legal text tokenizes at 2.6 chars/token (not 4) &mdash; dynamic budget</li>
+      <li>vLLM warmup crash: max-num-seqs 16 fix</li>
+      <li>Context overflow: per-request token estimation</li>
+      <li>Preprocessor kept 95%+ of text (not just sections)</li>
+      <li>JSON fallbacks: strip fences, regex {&hellip;} block</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 13: PHASE 2 — KNOWLEDGE GRAPH
+     ============================================ -->
+<section class="slide split" id="slide-13">
+  <div class="left">
+    <div class="section-num">13</div>
+    <div class="label">Phase 2</div>
+    <h2>Knowledge Graph</h2>
+    <p class="desc">Neo4j graph connecting cases through citations, arguments, judges, statutes, and parties.</p>
+    <div class="stats" style="margin-top:clamp(.5rem,1.2vw,1rem)">
+      <div class="stat"><div class="stat-val">9,005</div><div class="stat-lbl">Nodes</div></div>
+      <div class="stat"><div class="stat-val">15,149</div><div class="stat-lbl">Edges</div></div>
+      <div class="stat"><div class="stat-val">13,530</div><div class="stat-lbl">Citations</div></div>
+      <div class="stat"><div class="stat-val">2.6s</div><div class="stat-lbl">Load Time</div></div>
+    </div>
+    <ul class="bullets" style="margin-top:clamp(.4rem,.8vw,.6rem)">
+      <li><strong>7 node types</strong>: Case, Opinion, Statute, LegalArgument, Judge, Company, LawFirm</li>
+      <li><strong>7,215 external opinion placeholders</strong> &mdash; preserves 97% of citations (landmarks like <em>Tellabs</em>, <em>Dura</em>)</li>
+      <li><strong>MERGE-based loading</strong> &mdash; idempotent, safe to re-run</li>
+    </ul>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">13</div>
+    <div class="card-title">Edge Types</div>
+    <ul class="card-list">
+      <li>CITES (13,530)</li>
+      <li>HAS_OPINION (486)</li>
+      <li>INVOLVES &mdash; signed! (389)</li>
+      <li>DECIDED_BY (326)</li>
+      <li>CHARGED_UNDER (269)</li>
+      <li>DEFENDANT_IS (85)</li>
+      <li>REPRESENTED_BY (64)</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 14: PHASE 2 — SIGNED EDGES
+     ============================================ -->
+<section class="slide full" id="slide-14">
+  <div class="content">
+    <div class="section-num">14</div>
+    <div class="label">Phase 2</div>
+    <h2>Signed Bipartite Edges (Critical for ANCO-HITS)</h2>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <h3 style="font-size:var(--small-size)">Sign Convention</h3>
+        <table>
+          <thead><tr><th>Case Outcome</th><th>Plaintiff Arg</th><th>Defendant Arg</th></tr></thead>
+          <tbody>
+            <tr><td>PLAINTIFF_WINS</td><td style="color:#4ade80;font-weight:600;text-align:center">+1 (won)</td><td style="color:#f87171;font-weight:600;text-align:center">-1 (lost)</td></tr>
+            <tr><td>DEFENDANT_WINS</td><td style="color:#f87171;font-weight:600;text-align:center">-1 (lost)</td><td style="color:#4ade80;font-weight:600;text-align:center">+1 (won)</td></tr>
+            <tr><td>MIXED</td><td style="color:var(--mid);text-align:center">0</td><td style="color:var(--mid);text-align:center">0</td></tr>
+          </tbody>
+        </table>
+        <p class="desc" style="margin-top:clamp(.3rem,.6vw,.4rem)"><strong>Sign distribution</strong>: +1: 149 &middot; -1: 143 &middot; 0: 97 &mdash; balanced, healthy for convergence</p>
+      </div>
+      <div>
+        <h3 style="font-size:var(--small-size)">Concrete Example</h3>
+        <div class="bipartite">
+          <div class="bp-col">
+            <div class="bp-node bp-case">Case A<br><span style="font-size:.8em;opacity:.7">PLT_WINS</span></div>
+            <div class="bp-node bp-case">Case B<br><span style="font-size:.8em;opacity:.7">DEF_WINS</span></div>
+          </div>
+          <div class="bp-edges">
+            <div class="bp-edge"><span class="bp-plus">+1</span> &rarr;</div>
+            <div class="bp-edge"><span class="bp-minus">-1</span> &rarr;</div>
+          </div>
+          <div class="bp-col">
+            <div class="bp-node bp-arg">"Defendant had motive and opportunity"</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 15: PHASE 3 — ANCO-HITS
+     ============================================ -->
+<section class="slide split" id="slide-15">
+  <div class="left">
+    <div class="section-num">15</div>
+    <div class="label">Phase 3</div>
+    <h2>ANCO-HITS Argument Scoring</h2>
+    <p class="desc">Score every legal argument and case on [-1, +1]. From NARRA-SCALE (Gokalp et al., ICTAI).</p>
+    <div class="code-block" style="margin-top:clamp(.3rem,.8vw,.6rem);max-width:min(90vw,550px)">
+<span class="cm">/* Per-entity normalization (Paper Eq. 1) */</span>
+x<sub>i</sub><sup>(k)</sup> = &Sigma;<sub>j</sub>(a<sub>ij</sub> &middot; y<sub>j</sub><sup>(k-1)</sup>) / &Sigma;<sub>j</sub>|a<sub>ij</sub> &middot; y<sub>j</sub><sup>(k-1)</sup>|  <span class="cm">// case score</span>
+y<sub>j</sub><sup>(k)</sup> = &Sigma;<sub>i</sub>(a<sub>ij</sub> &middot; x<sub>i</sub><sup>(k)</sup>)   / &Sigma;<sub>i</sub>|a<sub>ij</sub> &middot; x<sub>i</sub><sup>(k)</sup>|    <span class="cm">// argument score</span>
+    </div>
+    <div class="stats" style="margin-top:clamp(.4rem,1vw,.8rem)">
+      <div class="stat"><div class="stat-val">370</div><div class="stat-lbl">Args Scored</div></div>
+      <div class="stat"><div class="stat-val">121</div><div class="stat-lbl">Cases Scored</div></div>
+      <div class="stat"><div class="stat-val">0.687</div><div class="stat-lbl">AUC (regex)</div></div>
+      <div class="stat"><div class="stat-val">2</div><div class="stat-lbl">Iterations</div></div>
+    </div>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">15</div>
+    <div class="card-title">Top Arguments</div>
+    <ul class="card-list">
+      <li style="color:#4ade80">+1.0: "Morgan Stanley made material misstatements to conceal its exposure"</li>
+      <li style="color:#4ade80">+1.0: "Defendants acted recklessly in choosing to disclose incomplete information"</li>
+      <li style="color:#f87171">-1.0: "Twitter's statements were not false or misleading"</li>
+      <li style="color:#f87171">-1.0: "Forward-looking statement with safe harbor"</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 16: PHASE 3 — EXTREMAL SCORES
+     ============================================ -->
+<section class="slide full" id="slide-16">
+  <div class="content">
+    <div class="section-num">16</div>
+    <div class="label">Phase 3</div>
+    <h2>Why Scores Are Extremal (and That's OK)</h2>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <ul class="bullets">
+          <li><strong>353 of 370 arguments are singletons</strong> &mdash; connected to exactly 1 case</li>
+          <li>Per-entity normalization on a singleton: <code style="color:var(--gold)">raw / |raw| = &plusmn;1</code> always</li>
+          <li>17 shared arguments all have uniform signs &mdash; no conflicting signals yet</li>
+          <li>AUC = 0.687 vs regex labels is honest (not 1.0 from circular evaluation)</li>
+        </ul>
+        <h3 style="margin-top:clamp(.4rem,.8vw,.6rem);font-size:var(--small-size)">Score Distribution</h3>
+        <table>
+          <thead><tr><th>Range</th><th>Meaning</th><th>Count</th></tr></thead>
+          <tbody>
+            <tr><td>+0.5 to +1.0</td><td>Strong plaintiff</td><td class="num">141</td></tr>
+            <tr><td>-0.1 to +0.1</td><td>Contested</td><td class="num">89</td></tr>
+            <tr><td>-1.0 to -0.5</td><td>Strong defendant</td><td class="num">140</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:center;justify-content:center">
+        <img src="../data/anco_hits_argument_distribution.png" alt="ANCO-HITS argument distribution" style="max-width:100%;max-height:min(45vh,350px);object-fit:contain;border-radius:6px;border:1px solid rgba(255,255,255,.08)">
+        <p style="font-size:var(--small-size);color:var(--mid);margin-top:.4em">Trimodal distribution: -1, 0, +1</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 17: PHASE 4 — GRAPHSAGE DEFERRED
+     ============================================ -->
+<section class="slide full" id="slide-17">
+  <div class="content">
+    <div class="section-num">17</div>
+    <div class="label">Phase 4</div>
+    <h2>GraphSAGE: Principled Deferral</h2>
+    <p class="desc">Not enough data for meaningful structural learning. Three specific problems:</p>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <table>
+          <thead><tr><th>Metric</th><th>Paper (PPI)</th><th>Ours</th></tr></thead>
+          <tbody>
+            <tr><td>Nodes</td><td class="num">2,373</td><td class="num" style="color:#f87171">416</td></tr>
+            <tr><td>Avg degree</td><td class="num">28.8</td><td class="num" style="color:#f87171">2.4</td></tr>
+            <tr><td>Training</td><td class="num">2,373</td><td class="num" style="color:#f87171">65</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <ul class="bullets">
+          <li><strong>65 training cases</strong> across 3 classes would overfit immediately</li>
+          <li><strong>2-hop sampling covers entire graph</strong> &mdash; no meaningful local structure</li>
+          <li><strong>Raw features already saturate</strong> &mdash; ANCO score + element vector matches a GNN</li>
+        </ul>
+      </div>
+    </div>
+    <p class="desc" style="margin-top:clamp(.4rem,.8vw,.6rem)"><strong>Pipeline continues without it.</strong> Symbolic phases 1-3 are self-sufficient. Revisit at ~3,400 cases with ~700+ training labels.</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 18: PHASE 5 — RAG ARCHITECTURE
+     ============================================ -->
+<section class="slide full" id="slide-18">
+  <div class="content">
+    <div class="section-num">18</div>
+    <div class="label">Phase 5</div>
+    <h2>Constrained RAG: The Lowering Step</h2>
+    <div class="rag-flow" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div class="rag-box">Query case (docket_id) &rarr; embed with SBERT (768d)</div>
+      <div class="rag-arrow">&darr;</div>
+      <div class="rag-branch">
+        <div class="rag-box"><strong>Semantic</strong><br>cosine sim (0.4)</div>
+        <div class="rag-box"><strong>Graph</strong><br>Neo4j Cypher (0.3)</div>
+        <div class="rag-box"><strong>ANCO-HITS</strong><br>abs score (0.2)</div>
+      </div>
+      <div class="rag-arrow">&darr; weighted fusion re-ranking</div>
+      <div class="rag-box">Context budget packing (~6,368 tokens for retrieved context)</div>
+      <div class="rag-arrow">&darr;</div>
+      <div class="rag-box highlight">6 Hard Constraints injected into lowering prompt</div>
+      <div class="rag-arrow">&darr;</div>
+      <div class="rag-branch">
+        <div class="rag-box gold-border">LLM Generation &rarr; IRACAnalysis</div>
+        <div class="rag-box" style="border-style:dashed">LLM Offline &rarr; SymbolicOnlyResult</div>
+      </div>
+      <div class="rag-arrow">&darr;</div>
+      <div class="rag-box highlight">Post-generation constraint validation</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 19: PHASE 5 — 6 HARD CONSTRAINTS
+     ============================================ -->
+<section class="slide full" id="slide-19">
+  <div class="content">
+    <div class="section-num">19</div>
+    <div class="label">Phase 5</div>
+    <h2>6 Hard Constraints ("Practical Wisdom")</h2>
+    <p class="desc">From <em>Hybrids</em> (Newson et al.) &mdash; structural requirements that no prompt engineering can guarantee.</p>
+    <table style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <thead><tr><th>#</th><th>Constraint</th><th>Severity</th><th>What It Catches</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Citation check</td><td style="color:#f87171;font-weight:600">ERROR</td><td>Hallucinated case names not in our dataset</td></tr>
+        <tr><td>2</td><td>Statute grounding</td><td style="color:var(--gold);font-weight:600">WARNING</td><td>Statutes outside the known 10b-5 vocabulary</td></tr>
+        <tr><td>3</td><td>Binding authority</td><td style="color:var(--gold);font-weight:600">WARNING</td><td>Cross-circuit citations (persuasive, not binding)</td></tr>
+        <tr><td>4</td><td>Temporal validity</td><td style="color:#f87171;font-weight:600">ERROR</td><td>Citing a case filed <em>after</em> the query case</td></tr>
+        <tr><td>5</td><td>Ambiguity flag</td><td style="color:var(--mid)">INFO</td><td>ANCO-HITS score near zero &rarr; genuinely contested</td></tr>
+        <tr><td>6</td><td>Missing element</td><td style="color:var(--gold);font-weight:600">WARNING</td><td>NOT_ANALYZED elements must be explicitly stated</td></tr>
+      </tbody>
+    </table>
+    <p class="desc" style="margin-top:clamp(.3rem,.6vw,.4rem)">109 federal courts mapped to 13 circuits + SCOTUS. Constraints enforced both in prompt AND as post-generation validators.</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 20: PHASE 5 — LLM RESULTS
+     ============================================ -->
+<section class="slide full" id="slide-20">
+  <div class="content">
+    <div class="section-num">20</div>
+    <div class="label">Phase 5</div>
+    <h2>End-to-End LLM Results: 12/12 Correct</h2>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <h3 style="font-size:var(--small-size)">Ashland v. Oppenheimer (DEF_WINS)</h3>
+        <table>
+          <thead><tr><th>Element</th><th>Truth</th><th>LLM</th><th></th></tr></thead>
+          <tbody>
+            <tr><td>material_misrep</td><td>NOT_SATISFIED</td><td>NOT_SATISFIED</td><td class="check">&#10003;</td></tr>
+            <tr><td>scienter</td><td>NOT_SATISFIED</td><td>NOT_SATISFIED</td><td class="check">&#10003;</td></tr>
+            <tr><td>connection</td><td>NOT_ANALYZED</td><td>NOT_ANALYZED</td><td class="check">&#10003;</td></tr>
+            <tr><td>reliance</td><td>NOT_SATISFIED</td><td>NOT_SATISFIED</td><td class="check">&#10003;</td></tr>
+            <tr><td>economic_loss</td><td style="color:#4ade80">SATISFIED</td><td style="color:#4ade80">SATISFIED</td><td class="check">&#10003;</td></tr>
+            <tr><td>loss_causation</td><td>NOT_SATISFIED</td><td>NOT_SATISFIED</td><td class="check">&#10003;</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <h3 style="font-size:var(--small-size)">What This Validates</h3>
+        <ul class="bullets">
+          <li><span class="gold">12/12 elements correct</span> across 2 test cases</li>
+          <li>LLM correctly found the <strong>single SATISFIED</strong> among 4 NOT_SATISFIED + 1 NOT_ANALYZED</li>
+          <li>Citation ERRORs are real landmark cases (<em>Twombly</em>, <em>Iqbal</em>) not in our 416-case dataset &mdash; not hallucinations</li>
+          <li>At scale (3,400 cases), these landmarks would be in the dataset</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 21: PHASE 5 — GRACEFUL DEGRADATION
+     ============================================ -->
+<section class="slide split" id="slide-21">
+  <div class="left">
+    <div class="section-num">21</div>
+    <div class="label">Phase 5</div>
+    <h2>Graceful Degradation</h2>
+    <p class="desc">When the LLM is offline, the pipeline still works. The symbolic layer is self-sufficient.</p>
+    <ul class="bullets" style="margin-top:clamp(.3rem,.8vw,.6rem)">
+      <li><strong>SymbolicOnlyResult</strong> contains: IRAC extraction + ANCO-HITS score + ranked precedents + constraint violations</li>
+      <li>No natural language IRAC, but <strong>all structured analysis</strong> still works</li>
+      <li>Reinforces the <em>Beyond the Black Box</em> thesis: symbolic pipeline is independent of LLM</li>
+    </ul>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">21</div>
+    <div class="card-title">Two Paths</div>
+    <ul class="card-list">
+      <li style="color:var(--gold)">LLM Online &rarr; IRACAnalysis (full natural language + constraints)</li>
+      <li style="color:rgba(255,255,255,.6)">LLM Offline &rarr; SymbolicOnlyResult (structured analysis only)</li>
+    </ul>
+    <p style="font-family:'Space Grotesk',sans-serif;font-size:clamp(.5rem,.7vw,.6rem);color:rgba(255,255,255,.35);margin-top:clamp(.5rem,1vw,.8rem)">Both paths go through constraint validation. The user always gets verified analysis.</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 22: PHASE 7 — EVALUATION
+     ============================================ -->
+<section class="slide full" id="slide-22">
+  <div class="content">
+    <div class="section-num">22</div>
+    <div class="label">Phase 7</div>
+    <h2>Evaluation Framework (LegalBench)</h2>
+    <div class="two-col" style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <div>
+        <h3 style="font-size:var(--small-size)">5 Baselines</h3>
+        <table>
+          <thead><tr><th>#</th><th>Baseline</th><th>Bal. Acc.</th></tr></thead>
+          <tbody>
+            <tr><td>B1</td><td>Majority class</td><td class="num">33.3%</td></tr>
+            <tr><td>B2</td><td>Regex-only *</td><td class="num">93.3%</td></tr>
+            <tr><td>B3</td><td>ANCO-HITS threshold</td><td class="num">40.5%</td></tr>
+            <tr><td>B4</td><td>Zero-shot LLM</td><td class="num" style="color:var(--mid)">STUB</td></tr>
+            <tr><td>B5</td><td>BM25 + LLM</td><td class="num" style="color:var(--mid)">STUB</td></tr>
+          </tbody>
+        </table>
+        <p style="font-size:clamp(.5rem,.7vw,.6rem);color:var(--mid);margin-top:.3em">* B2 is circular: regex labels ARE the ground truth</p>
+      </div>
+      <div>
+        <h3 style="font-size:var(--small-size)">Key Results</h3>
+        <ul class="bullets">
+          <li><span class="gold">Zero ERROR violations</span> in symbolic pipeline (no hallucinated citations, no anachronistic references)</li>
+          <li>24 eval cases (14 test + 10 hard negatives)</li>
+          <li>7 anti-pattern rules: no test-set tuning, no self-evaluation, bootstrap CIs on everything</li>
+          <li><strong>B4 (zero-shot LLM) is the critical missing baseline</strong> &mdash; answers "does the pipeline add value?"</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 23: RESEARCH FOUNDATIONS
+     ============================================ -->
+<section class="slide full" id="slide-23">
+  <div class="content">
+    <div class="section-num">23</div>
+    <div class="label">Context</div>
+    <h2>Research Foundations</h2>
+    <table style="margin-top:clamp(.3rem,1vw,.8rem)">
+      <thead><tr><th>Paper</th><th>What We Used</th><th>Pipeline Phase</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Beyond the Black Box</strong><br><span style="color:var(--mid);font-size:.85em">Trivedi et al., IEEE TCSS 2026</span></td><td>Lifting/lowering loop, exception handling, programmable AI architecture</td><td>Phase 1 (lifting), Phase 5 (lowering)</td></tr>
+        <tr><td><strong>NARRA-SCALE</strong><br><span style="color:var(--mid);font-size:.85em">Gokalp et al., ICTAI 2025</span></td><td>ANCO-HITS algorithm for signed bipartite scoring (91% on political scaling)</td><td>Phase 3 (argument scoring)</td></tr>
+        <tr><td><strong>Hybrids</strong><br><span style="color:var(--mid);font-size:.85em">Newson et al., 2025</span></td><td>Human oversight as structural requirement, "practical wisdom" layer</td><td>Phase 5 (6 constraints), Phase 7</td></tr>
+      </tbody>
+    </table>
+    <p class="desc" style="margin-top:clamp(.3rem,.8vw,.6rem)">Also: RAG (Lewis et al., NeurIPS 2020), GraphRAG (Edge et al., 2024), GraphSAGE (Hamilton et al., NeurIPS 2017), LegalBench (Guha et al., 2023)</p>
+  </div>
+</section>
+
+<!-- ============================================
+     SLIDE 24: STATUS & NEXT STEPS
+     ============================================ -->
+<section class="slide split" id="slide-24">
+  <div class="left">
+    <div class="section-num">24</div>
+    <div class="label">Next Steps</div>
+    <h2>Status &amp; Roadmap</h2>
+    <h3 style="margin-top:clamp(.3rem,.8vw,.6rem);font-size:var(--small-size);color:#4ade80">Completed</h3>
+    <ul class="bullets">
+      <li>Full end-to-end pipeline: scrape &rarr; lift &rarr; graph &rarr; score &rarr; RAG &rarr; eval</li>
+      <li>128 IRAC extractions (87% with real analysis)</li>
+      <li>9,005-node knowledge graph with signed edges</li>
+      <li>12/12 elements correct on LLM end-to-end test</li>
+      <li>Zero ERROR-level constraint violations</li>
+    </ul>
+  </div>
+  <div class="right">
+    <div class="section-num" style="color:rgba(255,255,255,.08)">24</div>
+    <div class="card-title">Next</div>
+    <ul class="card-list">
+      <li>Scale scraping to ~3,400 opinion cases</li>
+      <li>Human annotations (24 cases)</li>
+      <li>B4 zero-shot LLM baseline</li>
+      <li>Semantic argument deduplication</li>
+      <li>GraphSAGE revisit at scale</li>
+      <li>Re-run eval with human ground truth</li>
+    </ul>
+    <p style="font-family:'Space Grotesk',sans-serif;font-size:clamp(.5rem,.7vw,.6rem);color:rgba(255,255,255,.35);margin-top:clamp(.5rem,1vw,.8rem)">Main bottleneck: data scale. More cases &rarr; better ANCO-HITS &rarr; viable GraphSAGE &rarr; richer RAG.</p>
+  </div>
+</section>
+
+<!-- ============================================
+   JAVASCRIPT: Navigation Controller
+   ============================================ -->
+<script>
+(function(){
+  const slides = document.querySelectorAll('.slide');
+  const total = slides.length;
+  const progress = document.getElementById('progress');
+  const counter = document.getElementById('counter');
+  let current = 0;
+  let scrolling = false;
+
+  function pad(n){ return String(n).padStart(2,'0'); }
+
+  function updateUI(){
+    const pct = ((current + 1) / total) * 100;
+    progress.style.width = pct + '%';
+    counter.textContent = pad(current + 1) + ' / ' + pad(total);
+  }
+
+  function goTo(idx){
+    if(idx < 0 || idx >= total) return;
+    current = idx;
+    slides[current].scrollIntoView({ behavior:'smooth' });
+    updateUI();
+  }
+
+  function next(){ goTo(current + 1); }
+  function prev(){ goTo(current - 1); }
+
+  // Keyboard
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'ArrowDown' || e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown'){
+      e.preventDefault(); next();
+    } else if(e.key === 'ArrowUp' || e.key === 'ArrowLeft' || e.key === 'PageUp'){
+      e.preventDefault(); prev();
+    } else if(e.key === 'Home'){ e.preventDefault(); goTo(0); }
+    else if(e.key === 'End'){ e.preventDefault(); goTo(total - 1); }
+  });
+
+  // Wheel
+  document.addEventListener('wheel', function(e){
+    if(scrolling) return;
+    scrolling = true;
+    if(e.deltaY > 30) next();
+    else if(e.deltaY < -30) prev();
+    setTimeout(function(){ scrolling = false; }, 600);
+  }, { passive: true });
+
+  // Touch
+  let touchY = 0;
+  document.addEventListener('touchstart', function(e){ touchY = e.touches[0].clientY; });
+  document.addEventListener('touchend', function(e){
+    const dy = touchY - e.changedTouches[0].clientY;
+    if(dy > 50) next();
+    else if(dy < -50) prev();
+  });
+
+  // Scroll observer for current slide tracking
+  const observer = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if(entry.isIntersecting){
+        const idx = Array.from(slides).indexOf(entry.target);
+        if(idx >= 0){ current = idx; updateUI(); }
+      }
+    });
+  }, { threshold: 0.5 });
+  slides.forEach(function(s){ observer.observe(s); });
+
+  // Reveal animations
+  const revealObserver = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if(entry.isIntersecting) entry.target.classList.add('visible');
+    });
+  }, { threshold: 0.1 });
+  document.querySelectorAll('.reveal').forEach(function(el){ revealObserver.observe(el); });
+
+  updateUI();
+})();
+</script>
+</body>
+</html>
