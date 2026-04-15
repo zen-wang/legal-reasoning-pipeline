@@ -44,11 +44,15 @@ def get_opinions_to_process(
     conn: sqlite3.Connection,
     limit: int | None = None,
     opinion_id: int | None = None,
+    sj_only: bool = False,
 ) -> list[dict]:
     """
     Get opinions eligible for extraction.
 
-    Selects private, labeled opinions ordered by text length (shortest first).
+    Default: selects private, labeled opinions ordered by text length.
+    --sj-only: selects opinions mentioning "motion for summary judgment"
+               AND 10b-5, excluding appeals. No label requirement.
+
     Skips opinions that already have a valid extraction in irac_extractions.
     """
     conn.row_factory = sqlite3.Row
@@ -57,22 +61,41 @@ def get_opinions_to_process(
         rows = conn.execute(
             """
             SELECT o.opinion_id, o.docket_id, c.case_name, c.court_id,
-                   o.plain_text, cl.procedural_stage, cl.outcome_label
+                   o.plain_text, NULL as procedural_stage, NULL as outcome_label
             FROM opinions o
             JOIN cases c ON o.docket_id = c.docket_id
-            LEFT JOIN case_labels cl ON o.opinion_id = cl.opinion_id
             WHERE o.opinion_id = ?
               AND o.plain_text IS NOT NULL AND length(o.plain_text) > 1000
             """,
             (opinion_id,),
         ).fetchall()
+    elif sj_only:
+        query = """
+            SELECT o.opinion_id, o.docket_id, c.case_name, c.court_id,
+                   o.plain_text, 'SJ' as procedural_stage, NULL as outcome_label
+            FROM opinions o
+            JOIN cases c ON o.docket_id = c.docket_id
+            WHERE o.plain_text IS NOT NULL AND length(o.plain_text) > 1000
+              AND lower(o.plain_text) LIKE '%motion for summary judgment%'
+              AND (lower(o.plain_text) LIKE '%10b-5%'
+                   OR lower(o.plain_text) LIKE '%rule 10b%'
+                   OR lower(o.plain_text) LIKE '%section 10(b)%'
+                   OR lower(o.plain_text) LIKE '%§ 10(b)%')
+              AND o.opinion_id NOT IN (
+                  SELECT opinion_id FROM irac_extractions WHERE is_valid = 1
+              )
+            ORDER BY length(o.plain_text) ASC
+        """
+        if limit:
+            query += f" LIMIT {limit}"
+        rows = conn.execute(query).fetchall()
     else:
         query = """
             SELECT o.opinion_id, o.docket_id, c.case_name, c.court_id,
                    o.plain_text, cl.procedural_stage, cl.outcome_label
             FROM opinions o
             JOIN cases c ON o.docket_id = c.docket_id
-            JOIN case_labels cl ON o.opinion_id = cl.opinion_id
+            JOIN case_labels cl ON o.docket_id = cl.docket_id
             WHERE cl.contamination_type = 'PRIVATE'
               AND cl.outcome_label NOT IN ('UNLABELED')
               AND o.plain_text IS NOT NULL AND length(o.plain_text) > 1000
@@ -160,6 +183,10 @@ def main() -> None:
         help="LLM request timeout in seconds (default: 300)",
     )
     parser.add_argument(
+        "--sj-only", action="store_true",
+        help="Process only SJ+10b-5 opinions (for summary judgment prediction pipeline)",
+    )
+    parser.add_argument(
         "--dry-run", action="store_true",
         help="Print prompts without calling LLM",
     )
@@ -185,7 +212,7 @@ def main() -> None:
     init_irac_table(conn)
 
     # Get opinions
-    opinions = get_opinions_to_process(conn, limit=args.limit, opinion_id=args.opinion_id)
+    opinions = get_opinions_to_process(conn, limit=args.limit, opinion_id=args.opinion_id, sj_only=args.sj_only)
     conn.close()
 
     if not opinions:
