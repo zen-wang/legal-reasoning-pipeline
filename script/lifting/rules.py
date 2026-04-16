@@ -88,6 +88,13 @@ def validate_extraction_rules(elements: Elements) -> dict[str, list[str]]:
 # ---------------------------------------------------------------------------
 
 Outcome = Literal["PLAINTIFF_WINS", "DEFENDANT_WINS", "MIXED"]
+SJOutcome = Literal["SJ_GRANTED", "SJ_DENIED", "SJ_PARTIAL"]
+
+_OUTCOME_TO_SJ: dict[Outcome, SJOutcome] = {
+    "DEFENDANT_WINS": "SJ_GRANTED",
+    "PLAINTIFF_WINS": "SJ_DENIED",
+    "MIXED": "SJ_PARTIAL",
+}
 
 
 def evaluate_outcome(elements: Elements) -> Outcome:
@@ -106,3 +113,14 @@ def evaluate_outcome(elements: Elements) -> Outcome:
     if all(s == ElementStatus.SATISFIED for s in statuses):
         return "PLAINTIFF_WINS"
     return "MIXED"
+
+
+def sj_evaluate_outcome(elements: Elements) -> SJOutcome:
+    """
+    Map element analysis to SJ outcome. Same conjunctive logic, SJ labels.
+
+    ANY NOT_SATISFIED → SJ_GRANTED (plaintiff failed an element → defendant wins SJ)
+    ALL SATISFIED → SJ_DENIED (plaintiff survives on all elements)
+    Mix → SJ_PARTIAL
+    """
+    return _OUTCOME_TO_SJ[evaluate_outcome(elements)]

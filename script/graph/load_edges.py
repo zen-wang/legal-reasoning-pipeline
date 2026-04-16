@@ -194,12 +194,15 @@ def _compute_sign(outcome: str, side: str) -> int:
     | PLAINTIFF_WINS  | +1 (won)      | -1 (lost)     |
     | DEFENDANT_WINS  | -1 (lost)     | +1 (won)      |
     | MIXED           | 0 (neutral)   | 0 (neutral)   |
+    | SJ_GRANTED      | -1 (def won)  | +1 (def won)  |
+    | SJ_DENIED       | +1 (plt surv) | -1 (plt surv) |
+    | SJ_PARTIAL      | 0 (neutral)   | 0 (neutral)   |
     """
-    if outcome == "MIXED":
+    if outcome in ("MIXED", "SJ_PARTIAL"):
         return 0
-    if outcome == "PLAINTIFF_WINS":
+    if outcome in ("PLAINTIFF_WINS", "SJ_DENIED"):
         return 1 if side == "plaintiff" else -1
-    if outcome == "DEFENDANT_WINS":
+    if outcome in ("DEFENDANT_WINS", "SJ_GRANTED"):
         return -1 if side == "plaintiff" else 1
     return 0
 

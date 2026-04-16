@@ -35,12 +35,17 @@ def compute_sign(outcome: str, side: str) -> int:
     | PLAINTIFF_WINS  | +1            | -1            |
     | DEFENDANT_WINS  | -1            | +1            |
     | MIXED           | 0             | 0             |
+    | SJ_GRANTED      | -1            | +1            |
+    | SJ_DENIED       | +1            | -1            |
+    | SJ_PARTIAL      | 0             | 0             |
+
+    # TODO: extract shared sign logic to avoid duplication with load_edges._compute_sign()
     """
-    if outcome == "MIXED":
+    if outcome in ("MIXED", "SJ_PARTIAL"):
         return 0
-    if outcome == "PLAINTIFF_WINS":
+    if outcome in ("PLAINTIFF_WINS", "SJ_DENIED"):
         return 1 if side == "plaintiff" else -1
-    if outcome == "DEFENDANT_WINS":
+    if outcome in ("DEFENDANT_WINS", "SJ_GRANTED"):
         return -1 if side == "plaintiff" else 1
     return 0
 

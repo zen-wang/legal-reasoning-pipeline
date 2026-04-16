@@ -508,6 +508,249 @@ def print_summary(rows: list[dict[str, object]]) -> None:
 
 
 # ---------------------------------------------------------------------------
+# SJ-specific labeling (Summary Judgment prediction scope)
+# ---------------------------------------------------------------------------
+
+SJ_PARTIAL_PATTERNS: list[tuple[str, re.Pattern[str], float]] = [
+    ("sj_granted_denied_in_part",
+     re.compile(r"(?:summary\s+judgment\s+(?:is\s+)?)?granted\s+in\s+part\s+(?:and\s+)?denied\s+in\s+part", re.I), 0.9),
+    ("sj_denied_granted_in_part",
+     re.compile(r"(?:summary\s+judgment\s+(?:is\s+)?)?denied\s+in\s+part\s+(?:and\s+)?granted\s+in\s+part", re.I), 0.9),
+    ("sj_granted_as_to_denied",
+     re.compile(r"summary\s+judgment\s+is\s+granted\s+as\s+to\s+.{5,80}(?:but|and)\s+denied\s+as\s+to", re.I), 0.85),
+]
+
+SJ_GRANTED_PATTERNS: list[tuple[str, re.Pattern[str], float]] = [
+    ("sj_granted_for_defendant",
+     re.compile(
+         r"summary\s+judgment\s+(?:is\s+)?(?:hereby\s+)?granted\s+"
+         r"(?:in\s+favor\s+of\s+)?(?:the\s+)?defendants?", re.I), 0.95),
+    ("sj_motion_granted",
+     re.compile(
+         r"(?:defendants?'?\s+)?(?:motion\s+for\s+)?summary\s+judgment\s+"
+         r"(?:is\s+)?(?:hereby\s+)?granted", re.I), 0.85),
+    ("sj_grants_motion",
+     re.compile(r"(?:the\s+court\s+)?(?:hereby\s+)?grants\s+(?:the\s+)?(?:defendants?'?\s+)?motion\s+for\s+summary\s+judgment", re.I), 0.9),
+    ("sj_no_genuine_dispute",
+     re.compile(r"no\s+genuine\s+(?:issue|dispute)\s+of\s+material\s+fact", re.I), 0.7),
+    ("sj_entitled_judgment_law",
+     re.compile(r"(?:defendants?\s+(?:is|are)\s+)?entitled\s+to\s+(?:summary\s+)?judgment\s+as\s+a\s+matter\s+of\s+law", re.I), 0.75),
+    ("sj_complaint_dismissed_sj",
+     re.compile(r"complaint\s+is\s+(?:hereby\s+)?dismissed.*summary\s+judgment", re.I), 0.8),
+]
+
+SJ_DENIED_PATTERNS: list[tuple[str, re.Pattern[str], float]] = [
+    ("sj_motion_denied",
+     re.compile(
+         r"(?:defendants?'?\s+)?(?:motion\s+for\s+)?summary\s+judgment\s+"
+         r"(?:is\s+)?(?:hereby\s+)?denied", re.I), 0.9),
+    ("sj_denies_motion",
+     re.compile(r"(?:the\s+court\s+)?(?:hereby\s+)?denies\s+(?:the\s+)?(?:defendants?'?\s+)?motion\s+for\s+summary\s+judgment", re.I), 0.9),
+    ("sj_genuine_dispute_exists",
+     re.compile(r"genuine\s+(?:issue|dispute)\s+of\s+material\s+fact\s+(?:exists?|precludes?|remains?)", re.I), 0.75),
+    ("sj_triable_issue",
+     re.compile(r"(?:triable|genuine)\s+issue\s+of\s+(?:material\s+)?fact", re.I), 0.7),
+]
+
+
+def classify_sj_outcome(plain_text: str) -> LabelResult:
+    """
+    Extract SJ outcome from opinion text using regex.
+
+    Returns SJ_GRANTED, SJ_DENIED, SJ_PARTIAL, or UNCLEAR.
+    Searches tail (last 3000 chars) first, then full text.
+    """
+    tail = plain_text[-3000:]
+
+    # Priority: PARTIAL > GRANTED/DENIED
+    partial_hit = _scan_patterns(tail, SJ_PARTIAL_PATTERNS)
+    if partial_hit:
+        return LabelResult("SJ_PARTIAL", "conclusion_regex", partial_hit[1], partial_hit[0], partial_hit[2])
+
+    granted_hit = _scan_patterns(tail, SJ_GRANTED_PATTERNS)
+    denied_hit = _scan_patterns(tail, SJ_DENIED_PATTERNS)
+
+    if granted_hit and denied_hit:
+        return LabelResult("SJ_PARTIAL", "conclusion_cooccurrence", 0.75, "both_sj_in_tail",
+                           f"GRANTED:{granted_hit[0]} DENIED:{denied_hit[0]}")
+    if granted_hit:
+        return LabelResult("SJ_GRANTED", "conclusion_regex", granted_hit[1], granted_hit[0], granted_hit[2])
+    if denied_hit:
+        return LabelResult("SJ_DENIED", "conclusion_regex", denied_hit[1], denied_hit[0], denied_hit[2])
+
+    # Full-text fallback
+    partial_hit = _scan_patterns(plain_text, SJ_PARTIAL_PATTERNS)
+    if partial_hit:
+        return LabelResult("SJ_PARTIAL", "fulltext_regex", partial_hit[1] * 0.8, partial_hit[0], partial_hit[2])
+
+    granted_hit = _scan_patterns(plain_text, SJ_GRANTED_PATTERNS)
+    denied_hit = _scan_patterns(plain_text, SJ_DENIED_PATTERNS)
+
+    if granted_hit and denied_hit:
+        return LabelResult("SJ_PARTIAL", "fulltext_cooccurrence", 0.5, "both_sj_in_fulltext",
+                           f"GRANTED:{granted_hit[0]} DENIED:{denied_hit[0]}")
+    if granted_hit:
+        return LabelResult("SJ_GRANTED", "fulltext_regex", granted_hit[1] * 0.8, granted_hit[0], granted_hit[2])
+    if denied_hit:
+        return LabelResult("SJ_DENIED", "fulltext_regex", denied_hit[1] * 0.8, denied_hit[0], denied_hit[2])
+
+    return LabelResult("UNCLEAR", "no_signal", 0.0, "", "")
+
+
+SJ_TABLE_SQL = """
+CREATE TABLE IF NOT EXISTS sj_case_labels (
+    id               INTEGER PRIMARY KEY AUTOINCREMENT,
+    docket_id        INTEGER NOT NULL,
+    opinion_id       INTEGER,
+    outcome_label    TEXT NOT NULL,
+    contamination_type TEXT NOT NULL DEFAULT 'PRIVATE',
+    label_source     TEXT NOT NULL,
+    label_confidence REAL NOT NULL DEFAULT 0.0,
+    matched_pattern  TEXT,
+    matched_text     TEXT,
+    split            TEXT,
+    FOREIGN KEY (docket_id) REFERENCES cases(docket_id)
+);
+"""
+
+SJ_INDEX_SQL = [
+    "CREATE INDEX IF NOT EXISTS idx_sj_labels_docket ON sj_case_labels(docket_id);",
+    "CREATE INDEX IF NOT EXISTS idx_sj_labels_split ON sj_case_labels(split);",
+    "CREATE INDEX IF NOT EXISTS idx_sj_labels_outcome ON sj_case_labels(outcome_label);",
+]
+
+# Court filter: exclude appellate, bankruptcy, state appellate, business courts
+_SJ_COURT_EXCLUDES = """
+    AND c.court_id NOT LIKE 'ca%'
+    AND c.court_id != 'scotus'
+    AND c.court_id != 'cadc'
+    AND c.court_id NOT LIKE '%ctapp%'
+    AND c.court_id NOT LIKE '%sb'
+    AND c.court_id NOT LIKE '%bizct%'
+"""
+
+
+def process_sj_database(db_path: Path, dry_run: bool = False) -> None:
+    """Label SJ outcomes for district court 10b-5 summary judgment opinions."""
+    conn = sqlite3.connect(str(db_path))
+    conn.row_factory = sqlite3.Row
+
+    # Filter to district court SJ opinions with 10b-5 references
+    query = f"""
+        SELECT o.opinion_id, o.docket_id, c.case_name, c.court_id, o.plain_text
+        FROM opinions o
+        JOIN cases c ON o.docket_id = c.docket_id
+        WHERE o.plain_text IS NOT NULL AND length(o.plain_text) > 1000
+          AND lower(o.plain_text) LIKE '%motion for summary judgment%'
+          AND (lower(o.plain_text) LIKE '%10b-5%'
+               OR lower(o.plain_text) LIKE '%rule 10b%'
+               OR lower(o.plain_text) LIKE '%section 10(b)%'
+               OR lower(o.plain_text) LIKE '%§ 10(b)%')
+          {_SJ_COURT_EXCLUDES}
+        ORDER BY length(o.plain_text) ASC
+    """
+    opinions = conn.execute(query).fetchall()
+    print(f"Found {len(opinions)} district court SJ+10b-5 opinions")
+
+    all_rows: list[dict[str, object]] = []
+    for op in opinions:
+        case_name = op["case_name"] or ""
+        contamination = detect_contamination(case_name)
+        result = classify_sj_outcome(op["plain_text"])
+
+        all_rows.append({
+            "docket_id": op["docket_id"],
+            "opinion_id": op["opinion_id"],
+            "outcome_label": result.outcome,
+            "contamination_type": contamination,
+            "label_source": result.source,
+            "label_confidence": result.confidence,
+            "matched_pattern": result.pattern_name,
+            "matched_text": result.matched_text,
+            "split": None,
+        })
+
+    # Assign splits (private + labeled + confident)
+    splittable = [
+        r for r in all_rows
+        if r["contamination_type"] == "PRIVATE"
+        and r["outcome_label"] in ("SJ_GRANTED", "SJ_DENIED", "SJ_PARTIAL")
+        and float(r["label_confidence"]) >= 0.5  # type: ignore[arg-type]
+    ]
+    print(f"\nAssigning splits for {len(splittable)} qualifying SJ cases...")
+    assign_splits(splittable)
+
+    # Summary
+    print(f"\n{'='*55}")
+    print("  SJ LABELING SUMMARY")
+    print(f"{'='*55}")
+    print(f"\nTotal SJ opinions:  {len(all_rows)}")
+
+    contam: dict[str, int] = {}
+    for r in all_rows:
+        contam[str(r["contamination_type"])] = contam.get(str(r["contamination_type"]), 0) + 1
+    print("  Contamination:")
+    for k in ["PRIVATE", "SEC_ENFORCEMENT", "DOJ_CRIMINAL", "SEC_APPEAL"]:
+        if k in contam:
+            print(f"    {k:20s} {contam[k]:>4d}")
+
+    outcome_counts: dict[str, int] = {}
+    for r in all_rows:
+        outcome_counts[str(r["outcome_label"])] = outcome_counts.get(str(r["outcome_label"]), 0) + 1
+    print(f"\nSJ outcome distribution:")
+    for k in ["SJ_GRANTED", "SJ_DENIED", "SJ_PARTIAL", "UNCLEAR"]:
+        if k in outcome_counts:
+            print(f"    {k:20s} {outcome_counts[k]:>4d}")
+
+    source_counts: dict[str, int] = {}
+    labeled = [r for r in all_rows if r["outcome_label"] != "UNCLEAR"]
+    for r in labeled:
+        source_counts[str(r["label_source"])] = source_counts.get(str(r["label_source"]), 0) + 1
+    print(f"\nLabel source:")
+    for k, v in sorted(source_counts.items(), key=lambda x: -x[1]):
+        print(f"    {k:30s} {v:>4d}")
+
+    split_rows = [r for r in all_rows if r["split"] is not None]
+    split_outcome: dict[str, dict[str, int]] = {}
+    for r in split_rows:
+        s, o = str(r["split"]), str(r["outcome_label"])
+        split_outcome.setdefault(s, {}).setdefault(o, 0)
+        split_outcome[s][o] += 1
+    print(f"\nDataset split ({len(split_rows)} cases):")
+    for s in ["train", "val", "test"]:
+        if s in split_outcome:
+            parts = [f"{o}={c}" for o, c in sorted(split_outcome[s].items())]
+            total_s = sum(split_outcome[s].values())
+            print(f"    {s:8s} {total_s:>4d}  ({', '.join(parts)})")
+
+    if dry_run:
+        print("\n[DRY RUN] No changes written to database.")
+        conn.close()
+        return
+
+    # Write to sj_case_labels table
+    conn.execute("DROP TABLE IF EXISTS sj_case_labels")
+    conn.execute(SJ_TABLE_SQL)
+    for idx_sql in SJ_INDEX_SQL:
+        conn.execute(idx_sql)
+
+    conn.executemany("""
+        INSERT INTO sj_case_labels
+            (docket_id, opinion_id, outcome_label,
+             contamination_type, label_source, label_confidence,
+             matched_pattern, matched_text, split)
+        VALUES
+            (:docket_id, :opinion_id, :outcome_label,
+             :contamination_type, :label_source, :label_confidence,
+             :matched_pattern, :matched_text, :split)
+    """, all_rows)
+
+    conn.commit()
+    print(f"\nWrote {len(all_rows)} rows to sj_case_labels table in {db_path.name}")
+    conn.close()
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
@@ -526,13 +769,21 @@ def main() -> None:
         action="store_true",
         help="Print summary without writing to database",
     )
+    parser.add_argument(
+        "--sj",
+        action="store_true",
+        help="SJ mode: label district court summary judgment opinions only",
+    )
     args = parser.parse_args()
 
     if not args.db.exists():
         print(f"ERROR: Database not found: {args.db}", file=sys.stderr)
         sys.exit(1)
 
-    process_database(args.db, dry_run=args.dry_run)
+    if args.sj:
+        process_sj_database(args.db, dry_run=args.dry_run)
+    else:
+        process_database(args.db, dry_run=args.dry_run)
 
 
 if __name__ == "__main__":

@@ -109,8 +109,14 @@ class IRACExtraction(BaseModel):
         description="Element-by-element analysis of the 6-element 10b-5 rule.",
     )
 
-    outcome: Literal["PLAINTIFF_WINS", "DEFENDANT_WINS", "MIXED"] = Field(
-        description="Overall outcome as stated in the opinion.",
+    outcome: Literal[
+        "PLAINTIFF_WINS", "DEFENDANT_WINS", "MIXED",
+        "SJ_GRANTED", "SJ_DENIED", "SJ_PARTIAL",
+    ] = Field(
+        description=(
+            "Overall outcome as stated in the opinion. "
+            "SJ_GRANTED/SJ_DENIED/SJ_PARTIAL used for summary judgment opinions."
+        ),
     )
 
     statutes_cited: list[str] = Field(

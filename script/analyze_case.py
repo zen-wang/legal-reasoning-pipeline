@@ -72,6 +72,7 @@ def run_analysis(
     neo4j_uri: str | None = None,
     timeout: int = 600,
     max_tokens: int = 2048,
+    sj_mode: bool = False,
 ) -> None:
     """Run the full analysis pipeline for a single case."""
     from script.lifting.llm_client import LLMClient
@@ -205,6 +206,7 @@ def run_analysis(
         constraint_ctx=constraint_ctx,
         client=client,
         max_tokens=max_tokens,
+        sj_mode=sj_mode,
     )
     lower_time = time.time() - t0
 
@@ -357,6 +359,10 @@ def main() -> None:
         help="Skip LLM generation, return symbolic result only",
     )
     parser.add_argument(
+        "--sj", action="store_true",
+        help="Summary Judgment prediction mode (SJ_GRANTED/SJ_DENIED/SJ_PARTIAL)",
+    )
+    parser.add_argument(
         "--dry-run", action="store_true",
         help="Show retrieval results only, no analysis",
     )
@@ -407,6 +413,7 @@ def main() -> None:
         neo4j_uri=args.neo4j_uri,
         timeout=args.timeout,
         max_tokens=args.max_tokens,
+        sj_mode=args.sj,
     )
 
 

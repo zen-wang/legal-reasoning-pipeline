@@ -97,6 +97,63 @@ Respond with a JSON object matching this schema:
 """
 
 
+SJ_SYSTEM_PROMPT = """\
+You are a legal analysis assistant specializing in Private Rule 10b-5 \
+Summary Judgment motions. You produce structured IRAC analyses evaluating \
+whether the plaintiff raised sufficient evidence on each 10b-5 element \
+to survive summary judgment under the Celotex/Anderson standard.
+
+## Summary Judgment Standard
+
+Summary judgment is appropriate when there is no genuine dispute of \
+material fact and the movant is entitled to judgment as a matter of law. \
+For each element, SATISFIED means the plaintiff raised a genuine dispute \
+(defeating SJ on that element). NOT_SATISFIED means no genuine dispute \
+exists (supporting SJ grant).
+
+## Mandatory Constraints
+
+1. **Citation integrity**: Only cite cases provided in the context below. \
+Never fabricate case names, docket IDs, or holdings.
+
+2. **Statute grounding**: Only reference statutes in the provided context \
+or core 10b-5 framework (15 U.S.C. § 78j(b), 17 C.F.R. § 240.10b-5, PSLRA).
+
+3. **Binding authority**: Flag cross-circuit citations with "[CROSS-CIRCUIT]".
+
+4. **Temporal validity**: Do not cite cases filed after the query case.
+
+5. **Ambiguity**: Flag "[CONTESTED]" for elements with near-zero ANCO-HITS scores.
+
+6. **Missing elements**: If the court did not address an element, state \
+NOT_ANALYZED explicitly.
+
+## Output Format
+
+Respond with a JSON object matching this schema:
+{
+  "issue": "One-sentence statement of the SJ motion issue",
+  "rule": "Celotex/Anderson standard applied to 10b-5 elements",
+  "application": [
+    {
+      "element_name": "material_misrepresentation",
+      "status": "SATISFIED|NOT_SATISFIED|CONTESTED|NOT_ANALYZED",
+      "reasoning": "Whether plaintiff raised genuine dispute on this element",
+      "supporting_precedents": ["Case Name (docket_id)"]
+    }
+  ],
+  "conclusion": "SJ_GRANTED, SJ_DENIED, or SJ_PARTIAL with explanation",
+  "cited_precedents": [
+    {"case_name": "...", "docket_id": 12345, "court_id": "nysd", "relevance": "..."}
+  ],
+  "statutes_cited": ["15 U.S.C. § 78j(b)"],
+  "uncertainty_flags": [
+    {"flag_type": "CONTESTED", "message": "..."}
+  ]
+}
+"""
+
+
 # ---------------------------------------------------------------------------
 # Build user prompt
 # ---------------------------------------------------------------------------
@@ -106,8 +163,18 @@ def _build_user_prompt(
     context_str: str,
     docket_id: int,
     case_name: str,
+    sj_mode: bool = False,
 ) -> str:
     """Build the user message with retrieved context."""
+    if sj_mode:
+        return (
+            f"Analyze the following Summary Judgment motion in a Private 10b-5 "
+            f"securities fraud case. Evaluate whether the plaintiff raised sufficient "
+            f"evidence on each element to survive SJ. Base your analysis ONLY on the "
+            f"provided context.\n\n"
+            f"{context_str}\n\n"
+            f"Produce a complete SJ analysis for {case_name} (docket_id={docket_id})."
+        )
     return (
         f"Analyze the following Private 10b-5 securities fraud case using "
         f"the IRAC framework. Base your analysis ONLY on the provided context.\n\n"
@@ -269,6 +336,7 @@ def lower(
     constraint_ctx: ConstraintContext,
     client: LLMClient | None = None,
     max_tokens: int = 2048,
+    sj_mode: bool = False,
 ) -> IRACAnalysis | SymbolicOnlyResult:
     """
     Execute the lowering step: prompt LLM with constrained context.
@@ -288,9 +356,10 @@ def lower(
         )
 
     # Build prompt
-    user_prompt = _build_user_prompt(context_str, docket_id, case_name)
+    user_prompt = _build_user_prompt(context_str, docket_id, case_name, sj_mode=sj_mode)
+    system = SJ_SYSTEM_PROMPT if sj_mode else SYSTEM_PROMPT
     messages = [
-        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "system", "content": system},
         {"role": "user", "content": user_prompt},
     ]
 

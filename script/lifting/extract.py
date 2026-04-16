@@ -15,8 +15,8 @@ from pydantic import ValidationError
 
 from .llm_client import LLMClient
 from .preprocess import get_analysis_text, split_sections
-from .prompt import build_messages
-from .rules import validate_extraction_rules
+from .prompt import build_messages, build_sj_messages
+from .rules import sj_evaluate_outcome, validate_extraction_rules
 from .schema import (
     ElementAnalysis,
     Elements,
@@ -155,6 +155,12 @@ MOCK_RESPONSE: dict = {
 }
 
 
+SJ_MOCK_RESPONSE: dict = {
+    **MOCK_RESPONSE,
+    "outcome": "SJ_GRANTED",  # scienter=NOT_SATISFIED → defendant wins SJ
+}
+
+
 # ---------------------------------------------------------------------------
 # Core extraction
 # ---------------------------------------------------------------------------
@@ -169,6 +175,7 @@ def extract_opinion(
     procedural_stage: str | None,
     client: LLMClient | None = None,
     mode: Literal["live", "mock", "dry-run"] = "live",
+    sj_mode: bool = False,
 ) -> dict[str, object]:
     """
     Extract IRAC structure from a single opinion.
@@ -195,7 +202,8 @@ def extract_opinion(
         )
 
     # Step 3: Build prompt
-    messages = build_messages(
+    build_fn = build_sj_messages if sj_mode else build_messages
+    messages = build_fn(
         opinion_text=analysis_text,
         case_name=case_name,
         court_id=court_id,
@@ -221,8 +229,9 @@ def extract_opinion(
         return result
 
     if mode == "mock":
-        raw_text = json.dumps(MOCK_RESPONSE)
-        parsed = MOCK_RESPONSE
+        mock = SJ_MOCK_RESPONSE if sj_mode else MOCK_RESPONSE
+        raw_text = json.dumps(mock)
+        parsed = mock.copy()
     else:
         if client is None:
             result["status"] = "error"
@@ -240,7 +249,7 @@ def extract_opinion(
         logger.error(f"Opinion {opinion_id}: failed to parse JSON from LLM response")
         save_extraction(
             conn,
-            _make_placeholder_extraction(docket_id, opinion_id, procedural_stage),
+            _make_placeholder_extraction(docket_id, opinion_id, procedural_stage, sj_mode),
             llm_model="llama-3.3-70b" if mode == "live" else "mock",
             llm_raw=raw_text,
             is_valid=False,
@@ -253,7 +262,7 @@ def extract_opinion(
     # Step 5: Inject pipeline fields
     parsed["case_id"] = docket_id
     parsed["opinion_id"] = opinion_id
-    parsed["procedural_stage"] = procedural_stage or "APPEAL"
+    parsed["procedural_stage"] = procedural_stage or ("SJ" if sj_mode else "APPEAL")
 
     # Remove confidence if LLM included it (it's computed post-hoc)
     for elem_data in parsed.get("elements", {}).values():
@@ -267,7 +276,7 @@ def extract_opinion(
         logger.error(f"Opinion {opinion_id}: Pydantic validation failed — {e.error_count()} errors")
         save_extraction(
             conn,
-            _make_placeholder_extraction(docket_id, opinion_id, procedural_stage),
+            _make_placeholder_extraction(docket_id, opinion_id, procedural_stage, sj_mode),
             llm_model="llama-3.3-70b" if mode == "live" else "mock",
             llm_raw=raw_text,
             is_valid=False,
@@ -276,6 +285,17 @@ def extract_opinion(
         result["status"] = "invalid"
         result["errors"] = [str(err) for err in e.errors()]
         return result
+
+    # Step 6b: SJ rule override — apply rule-based outcome, log mismatch
+    if sj_mode:
+        rule_outcome = sj_evaluate_outcome(extraction.elements)
+        llm_outcome = extraction.outcome
+        if llm_outcome != rule_outcome:
+            logger.warning(
+                f"Opinion {opinion_id}: SJ outcome mismatch — "
+                f"LLM={llm_outcome}, rule={rule_outcome} (using rule)"
+            )
+        extraction = extraction.model_copy(update={"outcome": rule_outcome})
 
     # Step 7: Validate sub-conditions
     rule_errors = validate_extraction_rules(extraction.elements)
@@ -301,13 +321,14 @@ def _make_placeholder_extraction(
     docket_id: int,
     opinion_id: int,
     procedural_stage: str | None,
+    sj_mode: bool = False,
 ) -> IRACExtraction:
     """Create a placeholder extraction for storing failed attempts."""
     empty_element = ElementAnalysis(status=ElementStatus.NOT_ANALYZED)
     return IRACExtraction(
         case_id=docket_id,
         opinion_id=opinion_id,
-        procedural_stage=procedural_stage or "APPEAL",
+        procedural_stage=procedural_stage or ("SJ" if sj_mode else "APPEAL"),
         elements=Elements(
             material_misrepresentation=empty_element,
             scienter=empty_element,
@@ -316,5 +337,5 @@ def _make_placeholder_extraction(
             economic_loss=empty_element,
             loss_causation=empty_element,
         ),
-        outcome="MIXED",
+        outcome="SJ_PARTIAL" if sj_mode else "MIXED",
     )

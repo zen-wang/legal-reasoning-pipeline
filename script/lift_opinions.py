@@ -81,6 +81,12 @@ def get_opinions_to_process(
                    OR lower(o.plain_text) LIKE '%rule 10b%'
                    OR lower(o.plain_text) LIKE '%section 10(b)%'
                    OR lower(o.plain_text) LIKE '%§ 10(b)%')
+              AND c.court_id NOT LIKE 'ca%'
+              AND c.court_id != 'scotus'
+              AND c.court_id != 'cadc'
+              AND c.court_id NOT LIKE '%ctapp%'
+              AND c.court_id NOT LIKE '%sb'
+              AND c.court_id NOT LIKE '%bizct%'
               AND o.opinion_id NOT IN (
                   SELECT opinion_id FROM irac_extractions WHERE is_valid = 1
               )
@@ -118,6 +124,7 @@ def _process_one(
     db_path: str,
     client: LLMClient | None,
     mode: str,
+    sj_mode: bool = False,
 ) -> tuple[str, float, str | None]:
     """Process a single opinion in its own thread with its own DB connection."""
     logger.info(
@@ -139,6 +146,7 @@ def _process_one(
         procedural_stage=op.get("procedural_stage"),
         client=client,
         mode=mode,
+        sj_mode=sj_mode,
     )
     elapsed = time.time() - t0
     conn.close()
@@ -183,8 +191,8 @@ def main() -> None:
         help="LLM request timeout in seconds (default: 300)",
     )
     parser.add_argument(
-        "--sj-only", action="store_true",
-        help="Process only SJ+10b-5 opinions (for summary judgment prediction pipeline)",
+        "--sj", "--sj-only", action="store_true", dest="sj",
+        help="Process only district court SJ+10b-5 opinions (summary judgment prediction)",
     )
     parser.add_argument(
         "--dry-run", action="store_true",
@@ -212,7 +220,7 @@ def main() -> None:
     init_irac_table(conn)
 
     # Get opinions
-    opinions = get_opinions_to_process(conn, limit=args.limit, opinion_id=args.opinion_id, sj_only=args.sj_only)
+    opinions = get_opinions_to_process(conn, limit=args.limit, opinion_id=args.opinion_id, sj_only=args.sj)
     conn.close()
 
     if not opinions:
@@ -235,14 +243,14 @@ def main() -> None:
     if args.concurrency <= 1:
         # Sequential
         for i, op in enumerate(opinions, 1):
-            status, elapsed, _ = _process_one(op, i, len(opinions), str(args.db), client, mode)
+            status, elapsed, _ = _process_one(op, i, len(opinions), str(args.db), client, mode, sj_mode=args.sj)
             stats[status] = stats.get(status, 0) + 1
             durations.append(elapsed)
     else:
         # Concurrent
         with ThreadPoolExecutor(max_workers=args.concurrency) as executor:
             futures = {
-                executor.submit(_process_one, op, i, len(opinions), str(args.db), client, mode): op
+                executor.submit(_process_one, op, i, len(opinions), str(args.db), client, mode, sj_mode=args.sj): op
                 for i, op in enumerate(opinions, 1)
             }
             for future in as_completed(futures):
