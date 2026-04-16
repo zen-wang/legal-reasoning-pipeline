@@ -55,7 +55,7 @@ MODEL="/data/datasets/community/huggingface/models--meta-llama--Llama-3.3-70B-In
 
 echo "Starting vLLM (legal pipeline) on $(hostname) at $(date)"
 echo "Model: $MODEL"
-echo "Context: 8192 tokens | Max seqs: 16"
+echo "Context: 131072 tokens | Max seqs: 12"
 echo "Port: 8000"
 
 hl-smi 2>/dev/null || echo "hl-smi not available"
@@ -65,7 +65,7 @@ python -m vllm.entrypoints.openai.api_server \
     --dtype bfloat16 \
     --block-size 128 \
     --tensor-parallel-size 8 \
-    --max-model-len 8192 \
-    --max-num-seqs 16 \
+    --max-model-len 131072 \
+    --max-num-seqs 12 \
     --port 8000 \
     --host 0.0.0.0
