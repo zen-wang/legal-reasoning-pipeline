@@ -29,7 +29,7 @@ from .store import init_irac_table, save_extraction
 logger = logging.getLogger(__name__)
 
 MODEL_CONTEXT_LIMIT = 65536  # vLLM --max-model-len (covers ~98% of opinions untruncated)
-PROMPT_TEMPLATE_TOKENS = 1200  # system prompt + instructions + schema + chat template overhead
+PROMPT_TEMPLATE_TOKENS = 2100  # system prompt + instructions + few-shot + schema + chat template overhead
 MIN_OUTPUT_TOKENS = 512  # minimum tokens reserved for JSON output
 MAX_OUTPUT_TOKENS = 2048  # ideal output budget (room for detailed SJ reasoning)
 SAFETY_MARGIN = 100  # extra buffer for chat template tokens

@@ -249,7 +249,8 @@ def _print_result(result: object, lower_time: float) -> None:
                 ("loss_causation", irac.elements.loss_causation),
             ]:
                 verified = f" [VERIFIED {elem.quote_match_score:.0%}]" if elem.verified_quote else ""
-                print(f"    {name:30s} {elem.status.value}{verified}")
+                conf = f" (conf={elem.confidence:.2f})" if elem.confidence > 0 else ""
+                print(f"    {name:30s} {elem.status.value}{verified}{conf}")
 
             print(f"\n  Rule Explanation:")
             for line in build_rule_explanation(irac).split("\n"):

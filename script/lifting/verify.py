@@ -84,6 +84,52 @@ def find_best_match(
 
 
 # ---------------------------------------------------------------------------
+# Confidence scoring (post-hoc, from proxy signals)
+# ---------------------------------------------------------------------------
+
+
+def _compute_confidence(elem: object) -> float:
+    """
+    Compute confidence score for an element from proxy signals.
+
+    Signals (each contributes to a 0.0-1.0 score):
+    - Has judge_reasoning (0.3): LLM found something to extract
+    - Reasoning length (0.2): longer = more detailed analysis
+    - Quote verified (0.3): reasoning traces to source text
+    - Has key_facts (0.1): specific evidence identified
+    - Has sub_conditions (0.1): legal framework applied
+
+    NOT_ANALYZED with empty reasoning → 0.0 (correct behavior, not penalized).
+    """
+    if elem.status.value == "NOT_ANALYZED" and not elem.judge_reasoning:
+        return 0.0
+
+    score = 0.0
+
+    # Has reasoning at all
+    if elem.judge_reasoning:
+        score += 0.3
+
+        # Reasoning length (>100 chars = detailed)
+        reasoning_len = len(elem.judge_reasoning)
+        score += min(0.2, reasoning_len / 500.0 * 0.2)
+
+    # Quote verification
+    if elem.quote_match_score > 0:
+        score += 0.3 * elem.quote_match_score
+
+    # Has key facts
+    if elem.key_facts:
+        score += min(0.1, len(elem.key_facts) * 0.05)
+
+    # Has sub-conditions
+    if elem.sub_conditions:
+        score += 0.1
+
+    return round(min(1.0, score), 2)
+
+
+# ---------------------------------------------------------------------------
 # Extraction-level verification
 # ---------------------------------------------------------------------------
 
@@ -124,6 +170,11 @@ def verify_extraction_quotes(
             elem.quote_char_end = match["end"]
             elem.quote_match_score = match["score"]
             n_verified += 1
+
+    # Compute confidence scores post-verification
+    for name in ELEMENT_NAMES:
+        elem = getattr(updated.elements, name)
+        elem.confidence = _compute_confidence(elem)
 
     n_no_reasoning = len(ELEMENT_NAMES) - n_with_reasoning
     logger.info(
