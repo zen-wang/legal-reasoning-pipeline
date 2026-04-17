@@ -151,18 +151,43 @@ _SJ_LLM_OUTPUT_SCHEMA = """{
 
 
 SJ_SYSTEM_PROMPT = (
-    "You are a legal analysis assistant specializing in Private Securities Fraud "
-    "(Rule 10b-5) Summary Judgment motions. Given a district court opinion on a "
-    "motion for summary judgment, you extract a structured element-by-element "
-    "analysis. Evaluate from the plaintiff's perspective: for each 10b-5 element, "
-    "determine whether the plaintiff raised sufficient evidence to survive summary "
-    "judgment under the Celotex/Anderson standard. You respond with ONLY valid "
-    "JSON — no explanation, no markdown fences, no text before or after the JSON.\n\n"
-    "CRITICAL HONESTY RULE: If the judge did not discuss an element or did not "
-    "provide reasoning for a finding, set status to NOT_ANALYZED and leave "
-    "judge_reasoning as an empty string. Do NOT invent or guess reasoning the "
-    "judge did not give. An empty judge_reasoning is always better than a fabricated one."
+    "You are a legal analysis assistant that extracts structured IRAC analyses "
+    "from district court opinions on Rule 10b-5 Summary Judgment motions.\n\n"
+    "CRITICAL RULES:\n"
+    "1. Respond with ONLY valid JSON — no explanation, no markdown fences.\n"
+    "2. If the judge did NOT discuss an element, set status to NOT_ANALYZED "
+    "and leave judge_reasoning as empty string. An empty field is always "
+    "better than a fabricated one. Do NOT invent reasoning.\n"
+    "3. For judge_reasoning, quote or closely paraphrase the ACTUAL opinion text."
 )
+
+
+# Few-shot example for SJ extraction (from Ferreri v. First Options, verified)
+_SJ_FEW_SHOT = """{
+  "elements": {
+    "material_misrepresentation": {
+      "status": "NOT_SATISFIED",
+      "sub_conditions": ["FalseStatements"],
+      "key_facts": ["plaintiff was not a purchaser or seller of the stock options"],
+      "judge_reasoning": "plaintiff's claim fails to meet the 10b-5 requirement of some causal connection between the alleged misrepresentation and the harm"
+    },
+    "scienter": { "status": "NOT_ANALYZED", "sub_conditions": [], "key_facts": [], "judge_reasoning": "" },
+    "connection": {
+      "status": "NOT_SATISFIED",
+      "sub_conditions": ["InConnectionWithPurchase"],
+      "key_facts": ["plaintiff was not a purchaser or seller of securities"],
+      "judge_reasoning": "Only a purchaser or seller of a security can state a claim under this statute"
+    },
+    "reliance": { "status": "NOT_ANALYZED", "sub_conditions": [], "key_facts": [], "judge_reasoning": "" },
+    "economic_loss": { "status": "NOT_ANALYZED", "sub_conditions": [], "key_facts": [], "judge_reasoning": "" },
+    "loss_causation": { "status": "NOT_ANALYZED", "sub_conditions": [], "key_facts": [], "judge_reasoning": "" }
+  },
+  "outcome": "SJ_GRANTED",
+  "statutes_cited": ["15 U.S.C. § 78j(b)", "17 C.F.R. § 240.10b-5"],
+  "precedents_cited": ["Angelastro v. Prudential-Bache Sec., Inc., 764 F.2d 939 (3d Cir.)"],
+  "arguments_plaintiff": ["defendant committed fraud in connection with securities transactions"],
+  "arguments_defendant": ["plaintiff lacks standing as non-purchaser/seller"]
+}"""
 
 
 def build_sj_user_prompt(
@@ -172,51 +197,41 @@ def build_sj_user_prompt(
     docket_id: int = 0,
 ) -> str:
     """Build the user prompt for SJ opinion extraction."""
-    return f"""Below is a district court opinion on a motion for summary judgment in a \
-Private Securities Fraud (Rule 10b-5) case.
+    return f"""== DEFINITIONS (read these first) ==
 
-CASE: {case_name} (docket_id: {docket_id})
-COURT: {court_id}
+STATUS VALUES (from plaintiff's perspective):
+- SATISFIED: Plaintiff raised sufficient evidence (genuine dispute exists, SJ defeated on this element)
+- NOT_SATISFIED: Plaintiff FAILED to raise genuine dispute (supports SJ grant on this element)
+- CONTESTED: Element genuinely disputed, not clearly resolved
+- NOT_ANALYZED: Court did NOT address this element — leave judge_reasoning EMPTY
 
-Under the Celotex/Anderson standard, summary judgment is appropriate when \
-there is no genuine dispute of material fact and the movant is entitled to \
-judgment as a matter of law.
+OUTCOME VALUES:
+- SJ_GRANTED: Defendant wins SJ (plaintiff failed one or more elements)
+- SJ_DENIED: Plaintiff survives (genuine dispute on all addressed elements)
+- SJ_PARTIAL: Granted in part, denied in part
 
-Analyze this opinion from the PLAINTIFF'S perspective and extract the following as JSON:
+== CASE ==
+{case_name} (docket_id: {docket_id}) | Court: {court_id}
+Standard: Celotex/Anderson — SJ appropriate when no genuine dispute of material fact.
 
-1. For each of the 6 elements of a 10b-5 claim, determine:
-   - status: SATISFIED means the plaintiff raised sufficient evidence on this element \
-(genuine dispute exists, defeating SJ). NOT_SATISFIED means the plaintiff failed to \
-raise a genuine dispute on this element (supporting SJ grant). CONTESTED means the \
-element is genuinely disputed but not clearly resolved. NOT_ANALYZED means the court \
-did not address this element.
-   - sub_conditions: which specific sub-rules apply (ONLY from the valid list below)
-   - key_facts: the specific evidence or facts the court examined
-   - judge_reasoning: a relevant quote or close paraphrase from the opinion
+== EXAMPLE OF CORRECT OUTPUT ==
+{_SJ_FEW_SHOT}
 
-2. The overall SJ outcome:
-   - SJ_GRANTED: Summary judgment granted for defendant (plaintiff failed one or more elements)
-   - SJ_DENIED: Summary judgment denied (plaintiff survived on all elements)
-   - SJ_PARTIAL: Granted in part and denied in part
+Note: In this example, the judge only addressed 2 of 6 elements. The other 4 have status NOT_ANALYZED with empty judge_reasoning. This is correct — do NOT fabricate reasoning for elements the judge did not discuss.
 
-3. Statutes and precedents cited
-4. Key arguments from each side
-
-VALID SUB-CONDITIONS PER ELEMENT:
+== VALID SUB-CONDITIONS ==
 {_SUB_CONDITIONS_BLOCK}
 
-IMPORTANT RULES:
-- If the court did not address an element, set status to NOT_ANALYZED
-- Only use sub_conditions from the valid list above — do not invent new ones
-- For judge_reasoning, quote or closely paraphrase the ACTUAL opinion text
-- For key_facts, list specific evidence examined, not legal conclusions
-- status must be exactly one of: SATISFIED, NOT_SATISFIED, CONTESTED, NOT_ANALYZED
-- outcome must be exactly one of: SJ_GRANTED, SJ_DENIED, SJ_PARTIAL
-
-OPINION TEXT:
+== OPINION TEXT ==
 {opinion_text}
 
-Respond with ONLY valid JSON matching this exact schema:
+== REMINDERS (read before responding) ==
+- status must be exactly: SATISFIED, NOT_SATISFIED, CONTESTED, or NOT_ANALYZED
+- outcome must be exactly: SJ_GRANTED, SJ_DENIED, or SJ_PARTIAL
+- judge_reasoning: quote or closely paraphrase the ACTUAL opinion — never fabricate
+- If element not discussed: status=NOT_ANALYZED, judge_reasoning="" (empty string)
+- Only use sub_conditions from the valid list above
+- Respond with ONLY valid JSON matching this schema:
 {_SJ_LLM_OUTPUT_SCHEMA}"""
 
 
