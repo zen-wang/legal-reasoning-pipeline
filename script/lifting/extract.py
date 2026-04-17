@@ -17,6 +17,7 @@ from .llm_client import LLMClient
 from .preprocess import get_analysis_text, split_sections
 from .prompt import build_messages, build_sj_messages
 from .rules import sj_evaluate_outcome, validate_extraction_rules
+from .verify import verify_extraction_quotes
 from .schema import (
     ElementAnalysis,
     Elements,
@@ -296,6 +297,9 @@ def extract_opinion(
                 f"LLM={llm_outcome}, rule={rule_outcome} (using rule)"
             )
         extraction = extraction.model_copy(update={"outcome": rule_outcome})
+
+    # Step 6c: Verify quotes against source text
+    extraction = verify_extraction_quotes(extraction, plain_text)
 
     # Step 7: Validate sub-conditions
     rule_errors = validate_extraction_rules(extraction.elements)

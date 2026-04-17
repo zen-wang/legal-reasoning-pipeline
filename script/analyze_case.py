@@ -234,6 +234,8 @@ def _print_result(result: object, lower_time: float) -> None:
         print(f"  ANCO-HITS score: {result.anco_hits_score:+.3f}")
 
         if result.irac_extraction:
+            from script.lifting.verify import build_rule_explanation
+
             irac = result.irac_extraction
             print(f"\n  Outcome: {irac.outcome}")
             print(f"  Stage: {irac.procedural_stage}")
@@ -246,7 +248,12 @@ def _print_result(result: object, lower_time: float) -> None:
                 ("economic_loss", irac.elements.economic_loss),
                 ("loss_causation", irac.elements.loss_causation),
             ]:
-                print(f"    {name:30s} {elem.status.value}")
+                verified = f" [VERIFIED {elem.quote_match_score:.0%}]" if elem.verified_quote else ""
+                print(f"    {name:30s} {elem.status.value}{verified}")
+
+            print(f"\n  Rule Explanation:")
+            for line in build_rule_explanation(irac).split("\n"):
+                print(f"    {line}")
 
         print(f"\n  Top precedents:")
         for i, p in enumerate(result.ranked_precedents[:5], 1):

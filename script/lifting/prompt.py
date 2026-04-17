@@ -41,7 +41,11 @@ SYSTEM_PROMPT = (
     "(Rule 10b-5) litigation. Given a judicial opinion, you extract a structured "
     "IRAC (Issue-Rule-Application-Conclusion) analysis following the exact JSON "
     "schema provided. You respond with ONLY valid JSON — no explanation, no markdown "
-    "fences, no text before or after the JSON."
+    "fences, no text before or after the JSON.\n\n"
+    "CRITICAL HONESTY RULE: If the judge did not discuss an element or did not "
+    "provide reasoning for a finding, set status to NOT_ANALYZED and leave "
+    "judge_reasoning as an empty string. Do NOT invent or guess reasoning the "
+    "judge did not give. An empty judge_reasoning is always better than a fabricated one."
 )
 
 
@@ -153,7 +157,11 @@ SJ_SYSTEM_PROMPT = (
     "analysis. Evaluate from the plaintiff's perspective: for each 10b-5 element, "
     "determine whether the plaintiff raised sufficient evidence to survive summary "
     "judgment under the Celotex/Anderson standard. You respond with ONLY valid "
-    "JSON — no explanation, no markdown fences, no text before or after the JSON."
+    "JSON — no explanation, no markdown fences, no text before or after the JSON.\n\n"
+    "CRITICAL HONESTY RULE: If the judge did not discuss an element or did not "
+    "provide reasoning for a finding, set status to NOT_ANALYZED and leave "
+    "judge_reasoning as an empty string. Do NOT invent or guess reasoning the "
+    "judge did not give. An empty judge_reasoning is always better than a fabricated one."
 )
 
 

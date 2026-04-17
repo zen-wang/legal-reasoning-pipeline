@@ -65,6 +65,26 @@ class ElementAnalysis(BaseModel):
         ),
     )
 
+    # Quote verification fields (filled post-hoc by verify.py)
+    verified_quote: str = Field(
+        default="",
+        description="Exact text from opinion matching judge_reasoning. Empty if unverified.",
+    )
+    quote_char_start: int = Field(
+        default=-1,
+        description="Start char offset in plain_text. -1 if unverified.",
+    )
+    quote_char_end: int = Field(
+        default=-1,
+        description="End char offset in plain_text. -1 if unverified.",
+    )
+    quote_match_score: float = Field(
+        default=0.0,
+        ge=0.0,
+        le=1.0,
+        description="Fuzzy match similarity ratio. 0.0 if unverified.",
+    )
+
 
 class Elements(BaseModel):
     """The 6 elements of a Private 10b-5 claim. ALL must be SATISFIED for plaintiff to win."""
